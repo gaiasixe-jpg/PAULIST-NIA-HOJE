@@ -1,0 +1,36 @@
+name: Coletar notícias
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # de hora em hora, aos 17 minutos (horário UTC)
+  workflow_dispatch:        # permite rodar na mão pela aba Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coletar
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ler os jornais
+        run: python scripts/coletar.py
+      - name: Salvar no site
+        run: |
+          git config user.name "robo-paulistania"
+          git config user.email "robo-paulistania@users.noreply.github.com"
+          git add data/feed.json
+          if git diff --cached --quiet; then
+            echo "Nada novo nesta coleta."
+          else
+            git commit -m "Notícias atualizadas $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi

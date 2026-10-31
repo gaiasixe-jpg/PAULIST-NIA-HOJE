@@ -1,0 +1,762 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Paulistânia Hoje: notícias, decretos, investimentos e promessas do estado de São Paulo e dos 645 municípios, com fonte.">
+<meta property="og:title" content="Paulistânia Hoje">
+<meta property="og:description" content="Política paulista, cidade por cidade, com data e fonte.">
+<title>Paulistânia Hoje</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+html,body{margin:0}img{max-width:100%}[hidden]{display:none!important}
+
+/* Layout: capa azul-bandeira com o mapa dos 645 municípios como protagonista; jornal em colunas abaixo; uma coluna no celular. */
+:root{
+  --paper:#f3f5f9; --sheet:#ffffff; --ink:#0d1530; --muted:#5a6280; --rule:#d5dae6;
+  --flag:#13245c; --flag-2:#1c3378; --flag-ink:#f4f6fb; --flag-muted:#a9b3d6;
+  --red:#d3203a; --red-ink:#ffffff;
+  --ok:#137a4a; --ok-bg:#dcf1e5; --obra:#1e49b8; --obra-bg:#e0e8fb; --anun:#8f5a00; --anun-bg:#fbecd0;
+  --alert:#c21b34; --alert-bg:#fbe1e5; --dec:#3d4766; --dec-bg:#e5e8f1;
+  --dot:#5f6fa8; --dot-hot:#ff4d63; --dot-sel:#ffffff; --dot-reg:#ffd166;
+  --display:"Big Shoulders Display","Arial Narrow","Roboto Condensed",Arial,sans-serif;
+  --body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#0a0f22; --sheet:#111833; --ink:#e9ecf7; --muted:#9aa3c4; --rule:#252e52;
+  --flag:#0d1a45; --flag-2:#14245a;
+  --ok:#53d394; --ok-bg:#103224; --obra:#8fb0ff; --obra-bg:#17244d; --anun:#f3b74e; --anun-bg:#33260c;
+  --alert:#ff6b80; --alert-bg:#3d1520; --dec:#c0c8e4; --dec-bg:#20284a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0a0f22; --sheet:#111833; --ink:#e9ecf7; --muted:#9aa3c4; --rule:#252e52;
+  --flag:#0d1a45; --flag-2:#14245a;
+  --ok:#53d394; --ok-bg:#103224; --obra:#8fb0ff; --obra-bg:#17244d; --anun:#f3b74e; --anun-bg:#33260c;
+  --alert:#ff6b80; --alert-bg:#3d1520; --dec:#c0c8e4; --dec-bg:#20284a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:15.5px;line-height:1.55;margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--flag)}
+a{color:var(--obra)}
+:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3{text-wrap:balance}
+.flag{display:block;width:100%;height:auto;border-radius:3px;box-shadow:0 6px 18px rgba(0,0,0,.35)}
+
+.cover{background:radial-gradient(120% 90% at 85% 10%,var(--flag-2),var(--flag) 60%);color:var(--flag-ink);position:relative;overflow:hidden}
+.cover::after{content:"";position:absolute;left:0;right:0;bottom:0;height:6px;background:linear-gradient(90deg,var(--red) 0 33%,var(--flag-ink) 33% 66%,#111 66%)}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-block:14px 0;font-family:var(--mono);font-size:12px;color:var(--flag-muted);flex-wrap:wrap}
+.live{display:inline-flex;align-items:center;gap:8px}
+.live i{width:8px;height:8px;border-radius:50%;background:var(--red)}
+@media (prefers-reduced-motion:no-preference){.live i{animation:pulse 2s infinite}@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(211,32,58,.7)}70%{box-shadow:0 0 0 10px rgba(211,32,58,0)}100%{box-shadow:0 0 0 0 rgba(211,32,58,0)}}}
+.cover-grid{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:28px;align-items:center;padding-block:18px 40px}
+@media (max-width:900px){.cover-grid{grid-template-columns:minmax(0,1fr)}}
+.brandrow{display:flex;align-items:center;gap:14px;margin:0 0 12px}
+.brandrow .flagbox{width:72px;flex:none}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--flag-muted);margin:0}
+.logo{font-family:var(--display);font-weight:900;text-transform:uppercase;line-height:.82;margin:0;font-size:clamp(56px,9vw,112px);letter-spacing:-.005em}
+.logo .hoje{display:inline-block;background:var(--red);color:var(--red-ink);padding:.06em .16em .02em;transform:rotate(-2deg);margin-top:.08em}
+.lede{font-size:17px;opacity:.92;max-width:44ch;margin:18px 0 20px}
+.searchbox{position:relative;max-width:460px}
+.searchbox label{display:block;font-family:var(--mono);font-size:12px;color:var(--flag-muted);margin-bottom:6px;letter-spacing:.06em;text-transform:uppercase}
+.searchbox input{width:100%;font:600 18px var(--body);padding:15px 52px 15px 16px;border-radius:10px;border:2px solid transparent;background:var(--flag-ink);color:#0d1530}
+.searchbox input:focus{outline:none;border-color:var(--red)}
+.searchbox button{position:absolute;right:6px;bottom:6px;height:42px;width:42px;border:0;border-radius:8px;background:var(--red);color:#fff;font:700 20px var(--body);cursor:pointer}
+.suggest{position:absolute;left:0;right:0;top:100%;margin-top:6px;background:var(--sheet);color:var(--ink);border-radius:10px;box-shadow:0 18px 40px rgba(0,0,0,.35);overflow:hidden;z-index:5}
+.suggest button{display:flex;justify-content:space-between;gap:10px;width:100%;text-align:left;background:none;border:0;padding:11px 14px;font:500 15px var(--body);color:var(--ink);cursor:pointer;border-bottom:1px solid var(--rule)}
+.suggest button:last-child{border-bottom:0}
+.suggest button:hover,.suggest button.on{background:var(--obra-bg)}
+.suggest small{font-family:var(--mono);color:var(--muted);font-size:11px}
+.figures{display:flex;gap:26px;margin-top:22px;flex-wrap:wrap}
+.figures div{display:flex;flex-direction:column}
+.figures b{font-family:var(--display);font-weight:800;font-size:40px;line-height:1;font-variant-numeric:tabular-nums}
+.figures span{font-size:12px;color:var(--flag-muted);text-transform:uppercase;letter-spacing:.08em}
+.mapcard{position:relative;min-width:0}
+.mapcard canvas{display:block;width:100%;height:auto;cursor:crosshair;touch-action:manipulation}
+.maptip{position:absolute;pointer-events:none;background:var(--sheet);color:var(--ink);font:600 13px var(--body);padding:6px 10px;border-radius:6px;box-shadow:0 6px 20px rgba(0,0,0,.3);white-space:nowrap;transform:translate(-50%,-130%);z-index:2}
+.maptip small{display:block;font:500 11px var(--mono);color:var(--muted)}
+.regchips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.regchips button{background:rgba(255,255,255,.08);color:var(--flag-ink);border:1px solid rgba(255,255,255,.22);border-radius:999px;padding:4px 10px;font:600 12px var(--body);cursor:pointer}
+.regchips button:hover{border-color:var(--flag-ink)}
+.regchips button[aria-pressed="true"]{background:var(--dot-reg);color:#13245c;border-color:var(--dot-reg)}
+.maplegend{display:flex;gap:16px;flex-wrap:wrap;font-family:var(--mono);font-size:11px;color:var(--flag-muted);margin-top:8px}
+.maplegend span{display:inline-flex;align-items:center;gap:6px}
+.maplegend i{width:9px;height:9px;border-radius:50%;display:inline-block}
+
+.wire{background:var(--ink);color:var(--paper);font-size:14px}
+.wire .wrap{display:flex;gap:14px;align-items:center;padding-block:10px;overflow:hidden}
+.wire strong{font-family:var(--display);font-weight:800;text-transform:uppercase;letter-spacing:.06em;background:var(--red);color:#fff;padding:2px 10px;border-radius:3px;white-space:nowrap}
+.wire .track{display:flex;gap:36px;white-space:nowrap;overflow-x:auto;scrollbar-width:none;min-width:0}
+.wire .track::-webkit-scrollbar{display:none}
+.wire a{color:inherit;text-decoration:none}
+.wire a:hover{text-decoration:underline}
+.wire time{font-family:var(--mono);opacity:.7;margin-right:8px;font-size:12px}
+
+nav.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:4;background:var(--sheet);border-bottom:1px solid var(--rule)}
+nav.tabs .wrap{display:flex;gap:2px;overflow-x:auto}
+nav.tabs a{font-family:var(--display);font-weight:800;font-size:19px;letter-spacing:.04em;text-transform:uppercase;text-decoration:none;color:var(--muted);padding:13px 14px 10px;border-bottom:4px solid transparent;white-space:nowrap}
+nav.tabs a:hover{color:var(--ink)}
+nav.tabs a[aria-current="page"]{color:var(--ink);border-bottom-color:var(--red)}
+
+main .wrap{padding-block:28px 56px}
+.view[hidden]{display:none}
+.sec-h{font-family:var(--display);font-weight:900;font-size:clamp(30px,4.4vw,46px);text-transform:uppercase;line-height:.95;margin:0}
+.sec-sub{color:var(--muted);margin:6px 0 0;max-width:62ch}
+.status-line{display:inline-flex;align-items:center;gap:8px;font:500 12.5px var(--mono);color:var(--muted);margin-top:10px}
+.status-line i{width:8px;height:8px;border-radius:50%;background:var(--muted)}
+.status-line.on i{background:var(--ok)}
+
+.paper-grid{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:32px;align-items:start;margin-top:20px}
+@media (max-width:900px){.paper-grid{grid-template-columns:minmax(0,1fr)}}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:6px}
+.chip{border:1.5px solid var(--rule);background:var(--sheet);color:var(--ink);border-radius:999px;padding:6px 13px;font:600 13px var(--body);cursor:pointer}
+.chip:hover{border-color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+select,input[type=text],input[type=url],input[type=date],textarea{font:500 14px var(--body);color:var(--ink);background:var(--sheet);border:1.5px solid var(--rule);border-radius:8px;padding:8px 10px;max-width:100%}
+.lead-story{display:grid;gap:8px;padding:22px 0;border-bottom:3px double var(--rule)}
+.lead-story h3{font-family:var(--display);font-weight:800;font-size:clamp(30px,4vw,42px);line-height:1;margin:0}
+.lead-story p{font-size:17px;margin:0;max-width:64ch}
+.stories{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 28px}
+@media (max-width:640px){.stories{grid-template-columns:minmax(0,1fr)}}
+.story{padding:16px 0;border-bottom:1px solid var(--rule);display:flex;flex-direction:column;gap:6px;min-width:0}
+.story h3{font-size:17.5px;line-height:1.3;margin:0;font-weight:700}
+h3 a.hl{color:inherit;text-decoration:none;background-image:linear-gradient(var(--red),var(--red));background-size:0 2px;background-repeat:no-repeat;background-position:0 100%;transition:background-size .2s}
+h3 a.hl:hover{background-size:100% 2px}
+h3 a.hl::after{content:" ↗";font:600 .6em var(--mono);color:var(--red);vertical-align:.25em}
+.story p{margin:0;color:var(--muted);font-size:14.5px}
+.byline{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:12.5px;color:var(--muted)}
+.byline time{font-family:var(--mono);font-size:12px}
+.tag{border-radius:3px;padding:2px 7px;font:700 10.5px var(--body);letter-spacing:.07em;text-transform:uppercase;white-space:nowrap}
+.t-entregue,.t-cumprido{background:var(--ok-bg);color:var(--ok)} .t-obra,.t-andamento{background:var(--obra-bg);color:var(--obra)}
+.t-anunciado,.t-acompanhar{background:var(--anun-bg);color:var(--anun)} .t-alerta,.t-atrasado,.t-naocumprido{background:var(--alert-bg);color:var(--alert)}
+.t-decreto,.t-fato{background:var(--dec-bg);color:var(--dec)}
+.t-novo{background:var(--red);color:#fff}
+.cities{font-size:12.5px;color:var(--muted)}
+.cities button{background:none;border:0;padding:0;font:600 12.5px var(--body);color:var(--obra);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.readlink{font:700 13px var(--body);color:var(--red);text-decoration:none;align-self:flex-start}
+.readlink:hover{text-decoration:underline}
+.more{font-size:12.5px;color:var(--muted)}
+.empty{border:2px dashed var(--rule);border-radius:12px;padding:22px;color:var(--muted);background:var(--sheet)}
+
+aside .panel{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:10px}
+aside .panel + .panel{margin-top:16px}
+aside h4{font-family:var(--display);font-weight:800;font-size:22px;text-transform:uppercase;margin:0;letter-spacing:.02em}
+.legend{display:grid;gap:7px;font-size:13.5px}
+.legend div{display:flex;gap:10px;align-items:center}
+.legend .tag{min-width:84px;text-align:center}
+.regbars{display:grid;gap:8px}
+.regbar{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;font-size:13px;background:none;border:0;text-align:left;padding:0;cursor:pointer;color:var(--ink)}
+.regbar .bar{grid-column:1/-1;height:6px;border-radius:3px;background:var(--rule);overflow:hidden}
+.regbar .bar i{display:block;height:100%;background:var(--red)}
+.regbar b{font-family:var(--mono);font-size:12px;color:var(--muted);font-weight:500}
+
+.dec-list{display:grid;gap:12px;margin-top:18px}
+.dec{display:grid;grid-template-columns:110px minmax(0,1fr);gap:16px;background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:16px 18px}
+@media (max-width:560px){.dec{grid-template-columns:minmax(0,1fr);gap:6px}}
+.dec .num{font-family:var(--display);font-weight:800;font-size:26px;line-height:1}
+.dec .num small{display:block;font:500 11px var(--mono);color:var(--muted);margin-top:4px;text-transform:uppercase;letter-spacing:.06em}
+.dec h3{font-size:16.5px;margin:0 0 4px;line-height:1.3}
+.dec p{margin:0 0 8px;color:var(--muted);font-size:14.5px}
+
+.city-hero{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:24px;align-items:end;border-bottom:3px solid var(--ink);padding-bottom:18px}
+@media (max-width:760px){.city-hero{grid-template-columns:minmax(0,1fr)}}
+.city-hero .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin:0 0 6px}
+.city-hero h2{font-family:var(--display);font-weight:900;text-transform:uppercase;font-size:clamp(46px,8vw,96px);line-height:.86;margin:0;overflow-wrap:anywhere}
+.city-hero .meta{color:var(--muted);margin-top:10px;font-size:14px}
+.minimap{background:var(--flag);border-radius:12px;padding:10px}
+.minimap canvas{display:block;width:100%;height:auto}
+.counts{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:20px 0}
+@media (max-width:620px){.counts{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.count{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:12px;border-top:4px solid var(--c)}
+.count b{display:block;font-family:var(--display);font-weight:800;font-size:38px;line-height:1;font-variant-numeric:tabular-nums}
+.count span{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.official{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:18px;margin-bottom:24px}
+.official h3{font-family:var(--display);font-weight:800;font-size:24px;text-transform:uppercase;margin:0 0 4px}
+.official p{margin:0 0 14px;color:var(--muted);font-size:14px}
+.olinks{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.olinks a{display:flex;flex-direction:column;gap:3px;text-decoration:none;color:var(--ink);border:1.5px solid var(--rule);border-radius:10px;padding:12px 14px}
+.olinks a:hover{border-color:var(--red)}
+.olinks a b{font-size:14.5px}
+.olinks a small{color:var(--muted);font-size:12.5px}
+.olinks a::after{content:"Abrir ↗";font:600 11px var(--mono);color:var(--red);margin-top:4px}
+
+.papers{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+.paper{display:flex;flex-direction:column;gap:2px;text-decoration:none;color:var(--ink);background:var(--sheet);border:1.5px solid var(--rule);border-left:5px solid var(--red);border-radius:10px;padding:12px 14px}
+.paper:hover{border-color:var(--red)}
+.paper b{font-family:var(--display);font-weight:800;font-size:21px;text-transform:uppercase;line-height:1}
+.paper small{color:var(--muted);font-size:12.5px}
+.paper.own{border-left-color:var(--ok)}
+.paper.search{border-left-color:var(--obra)}
+.score{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin-top:18px}
+@media (max-width:720px){.score{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.score div{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:12px;border-top:4px solid var(--c)}
+.score b{display:block;font-family:var(--display);font-weight:800;font-size:38px;line-height:1}
+.score span{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.progress{display:flex;height:12px;border-radius:6px;overflow:hidden;background:var(--rule);margin-top:14px}
+.progress i{display:block;height:100%}
+.tablewrap{overflow-x:auto;border:1px solid var(--rule);border-radius:12px;background:var(--sheet);margin-top:18px}
+table{border-collapse:collapse;width:100%;font-size:14.5px}
+th,td{text-align:left;padding:12px 14px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:700}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap;font-size:13px}
+td .ed{display:grid;gap:6px;margin-top:8px;min-width:200px}
+td .ed button,.btn{font:700 13px var(--body);background:var(--ink);color:var(--paper);border:0;border-radius:8px;padding:8px 12px;cursor:pointer;justify-self:start}
+.area-row td{background:var(--paper);font-family:var(--display);font-weight:800;font-size:18px;text-transform:uppercase;letter-spacing:.03em}
+.prose{max-width:68ch}
+.prose h3{font-family:var(--display);font-weight:800;font-size:24px;text-transform:uppercase;margin:28px 0 6px}
+.note{display:flex;gap:12px;background:var(--anun-bg);border-radius:12px;padding:14px 16px;margin-top:20px;font-size:14px}
+.note b{color:var(--anun)}
+.editor{background:var(--sheet);border:2px solid var(--red);border-radius:12px;padding:18px;margin-top:24px;display:grid;gap:10px}
+.editor h3{margin:0}
+.editor .row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+@media (max-width:560px){.editor .row{grid-template-columns:minmax(0,1fr)}}
+.editor label{display:grid;gap:4px;font-size:12.5px;color:var(--muted)}
+.editor textarea{min-height:70px;resize:vertical}
+.msg{font-size:13px;color:var(--ok)}
+footer{background:var(--flag);color:var(--flag-muted);font-size:13px}
+footer .wrap{padding-block:22px 30px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+footer .fb{display:flex;align-items:center;gap:12px}
+footer .fb .flagbox{width:48px}
+footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);text-transform:uppercase}
+@media (prefers-reduced-motion:no-preference){.story,.lead-story,.dec{animation:rise .3s ease-out both}@keyframes rise{from{transform:translateY(6px)}to{transform:none}}}
+</style>
+
+</head>
+<body>
+<header class="cover">
+  <div class="wrap">
+    <div class="topbar"><span class="live"><i></i><span id="edition">Edição de 31 de outubro de 2026</span></span><span>Estado de São Paulo · 645 municípios</span></div>
+    <div class="cover-grid">
+      <div>
+        <div class="brandrow"><div class="flagbox"><svg class="flag" viewBox="0 0 300 200" role="img" aria-label="Bandeira do Estado de São Paulo"><rect width="300" height="200" fill="#ffffff"/><rect y="0.00" width="300" height="15.68" fill="#111111"/><rect y="30.77" width="300" height="15.68" fill="#111111"/><rect y="61.54" width="300" height="15.68" fill="#111111"/><rect y="92.31" width="300" height="15.68" fill="#111111"/><rect y="123.08" width="300" height="15.68" fill="#111111"/><rect y="153.85" width="300" height="15.68" fill="#111111"/><rect y="184.62" width="300" height="15.68" fill="#111111"/><rect width="118" height="107.69" fill="#d0102f"/><circle cx="59" cy="53.85" r="35" fill="#ffffff"/><path d="M61.4,29.8 L69.6,33.7 L75.8,38.5 L83.0,44.2 L80.6,51.4 L74.4,56.2 L71.0,64.4 L64.8,69.2 L61.4,75.4 L56.6,77.8 L55.2,72.1 L58.0,65.8 L51.8,59.6 L47.0,56.2 L40.8,53.8 L35.0,48.1 L38.8,41.8 L47.0,39.4 L53.2,33.7Z" fill="#1d3c8f"/><path transform="translate(13,13.0)" d="M0.0,-9.0 L2.2,-3.1 L8.6,-2.8 L3.6,1.2 L5.3,7.3 L0.0,3.8 L-5.3,7.3 L-3.6,1.2 L-8.6,-2.8 L-2.2,-3.1Z" fill="#f4c300"/><path transform="translate(105,13.0)" d="M0.0,-9.0 L2.2,-3.1 L8.6,-2.8 L3.6,1.2 L5.3,7.3 L0.0,3.8 L-5.3,7.3 L-3.6,1.2 L-8.6,-2.8 L-2.2,-3.1Z" fill="#f4c300"/><path transform="translate(13,94.7)" d="M0.0,-9.0 L2.2,-3.1 L8.6,-2.8 L3.6,1.2 L5.3,7.3 L0.0,3.8 L-5.3,7.3 L-3.6,1.2 L-8.6,-2.8 L-2.2,-3.1Z" fill="#f4c300"/><path transform="translate(105,94.7)" d="M0.0,-9.0 L2.2,-3.1 L8.6,-2.8 L3.6,1.2 L5.3,7.3 L0.0,3.8 L-5.3,7.3 L-3.6,1.2 L-8.6,-2.8 L-2.2,-3.1Z" fill="#f4c300"/></svg></div><p class="kicker">Política paulista,<br>cidade por cidade</p></div>
+        <h1 class="logo">Paulistânia<br><span class="hoje">Hoje</span></h1>
+        <p class="lede">O que o governo faz, promete e gasta, da capital ao menor município do estado. Tudo com data e fonte, num lugar só.</p>
+        <div class="searchbox" id="searchbox">
+          <label for="q">Encontre sua cidade</label>
+          <input id="q" type="search" autocomplete="off" placeholder="Digite o nome do município" aria-controls="sug" aria-autocomplete="list">
+          <button type="button" id="qgo" aria-label="Abrir cidade">→</button>
+          <div class="suggest" id="sug" hidden role="listbox"></div>
+        </div>
+        <div class="figures">
+          <div><b id="fMun">645</b><span>municípios</span></div>
+          <div><b id="fRec">0</b><span>notícias e atos</span></div>
+          <div><b id="fCov">0</b><span>cidades citadas</span></div>
+        </div>
+      </div>
+      <div class="mapcard">
+        <canvas id="map" aria-label="Mapa dos 645 municípios de São Paulo. Toque em um ponto para abrir a cidade." role="img"></canvas>
+        <div class="maptip" id="tip" hidden></div>
+        <div class="regchips" id="regchips" role="group" aria-label="Destacar região no mapa"></div>
+        <div class="maplegend"><span><i style="background:var(--dot-hot)"></i>com notícias ou atos</span><span><i style="background:var(--dot)"></i>sem registros ainda</span><span><i style="background:var(--dot-reg)"></i>região selecionada</span></div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="wire" aria-label="Últimas"><div class="wrap"><strong>Últimas</strong><div class="track" id="wire"></div></div></div>
+
+<nav class="tabs" aria-label="Seções"><div class="wrap">
+  <a href="#hoje" data-view="hoje">Jornal</a>
+  <a href="#decretos" data-view="decretos">Decretos</a>
+  <a href="#cidade" data-view="cidade">Minha cidade</a>
+  <a href="#regioes" data-view="regioes">Regiões</a>
+  <a href="#promessas" data-view="promessas">Promessas</a>
+  <a href="#sobre" data-view="sobre">Como funciona</a>
+</div></nav>
+
+<main><div class="wrap">
+
+<section class="view" id="v-hoje" aria-labelledby="h-hoje">
+  <h2 class="sec-h" id="h-hoje">O jornal do estado</h2>
+  <p class="sec-sub">Toque no título para ler a reportagem completa no site de origem.</p>
+  <div class="status-line" id="liveStatus"><i></i><span>Carregando as notícias…</span></div>
+  <div class="paper-grid">
+    <div style="min-width:0">
+      <div class="controls" id="temas" role="group" aria-label="Tema"></div>
+      <div class="controls"><label for="regSel" class="more">Região</label><select id="regSel"></select></div>
+      <div id="paper"></div>
+    </div>
+    <aside>
+      <div class="panel">
+        <h4>Como ler</h4>
+        <div class="legend">
+          <div><span class="tag t-entregue">Entregue</span>já existe e funciona</div>
+          <div><span class="tag t-obra">Em obra</span>contratado ou em execução</div>
+          <div><span class="tag t-anunciado">Anunciado</span>promessa com valor</div>
+          <div><span class="tag t-alerta">Alerta</span>problema ou crítica</div>
+          <div><span class="tag t-decreto">Decreto</span>ato oficial publicado</div>
+        </div>
+      </div>
+      <div class="panel">
+        <h4>Jornais do estado</h4>
+        <div class="legend" id="statePapers"></div>
+      </div>
+      <div class="panel">
+        <h4>Por região</h4>
+        <div class="regbars" id="regbars"></div>
+      </div>
+      <div class="panel">
+        <h4>Achou um erro?</h4>
+        <p style="margin:0;font-size:14px">Aqui a gente se corrige em público. Mande a correção com a fonte nos comentários do canal e ela entra com data.</p>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="view" id="v-decretos" aria-labelledby="h-dec" hidden>
+  <h2 class="sec-h" id="h-dec">Decretos</h2>
+  <p class="sec-sub">Atos do governo do estado e das prefeituras, resumidos em linguagem simples. Toque em "Ler na íntegra" para abrir o texto oficial.</p>
+  <div class="controls" style="margin-top:14px" id="decFilter" role="group" aria-label="Origem do decreto"></div>
+  <div class="dec-list" id="decList"></div>
+</section>
+
+<section class="view" id="v-cidade" aria-label="Minha cidade" hidden><div id="cityOut"></div></section>
+
+<section class="view" id="v-regioes" aria-labelledby="h-reg" hidden>
+  <h2 class="sec-h" id="h-reg">As nove regiões</h2>
+  <p class="sec-sub">O estado dividido pelas áreas de DDD. Toque numa região para destacá-la no mapa, ou numa cidade para abrir a página dela.</p>
+  <div id="regList"></div>
+</section>
+
+<section class="view" id="v-promessas" aria-labelledby="h-prom" hidden>
+  <h2 class="sec-h" id="h-prom">O placar das promessas</h2>
+  <p class="sec-sub">Os compromissos do governador Tarcísio de Freitas para 2027–2030, do plano de governo e das falas de campanha. Quando um deles for cumprido, ele muda de cor aqui, com a prova ao lado.</p>
+  <div class="score" id="score"></div>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Promessa</th><th>Meta</th><th>Situação</th><th>Fonte</th></tr></thead>
+    <tbody id="promBody"></tbody>
+  </table></div>
+  <p class="more" style="margin-top:10px">O plano completo protocolado na Justiça Eleitoral tem cerca de 196 páginas. Esta lista traz os compromissos concretos que a imprensa publicou e cresce conforme novos itens forem verificados.</p>
+</section>
+
+<section class="view prose" id="v-sobre" aria-labelledby="h-sobre" hidden>
+  <h2 class="sec-h" id="h-sobre">Como funciona</h2>
+  <p>O Paulistânia Hoje reúne, num lugar só, o que acontece na política do estado e em cada um dos 645 municípios: notícias, decretos, investimentos e promessas. Cada informação tem data e link para a fonte original.</p>
+  <h3>Como o site se atualiza</h3>
+  <p>De hora em hora, um robô lê as notícias publicadas pelos jornais de São Paulo e das regiões do estado e traz para cá o título, a data, o trecho que o próprio jornal publicou e o link para a matéria completa. A classificação por tema, situação e cidade é automática e pode errar; a fonte é sempre o jornal. Itens com resumo próprio são cadastrados pela editora do site. A página se atualiza sozinha a cada 10 minutos.</p>
+  <h3>Onde estão as publicações das prefeituras</h3>
+  <ul>
+    <li><strong>Diário Oficial do município:</strong> decretos, nomeações, contratos e licitações.</li>
+    <li><strong>Portal da Transparência da prefeitura:</strong> quanto entrou, quanto saiu e para quem foi pago.</li>
+    <li><strong><a href="https://transparencia.tce.sp.gov.br/" target="_blank" rel="noopener">Portal da Transparência Municipal do TCE-SP</a>:</strong> acompanha 644 prefeituras. A capital é fiscalizada pelo <a href="https://portal.tcm.sp.gov.br/" target="_blank" rel="noopener">TCM-SP</a>.</li>
+    <li><strong><a href="https://www.al.sp.gov.br/" target="_blank" rel="noopener">Alesp</a>:</strong> íntegra dos decretos do governo do estado.</li>
+  </ul>
+  <h3>Regras da casa</h3>
+  <ul>
+    <li>Toda informação tem fonte. Sem fonte, não entra.</li>
+    <li>Número do governo é chamado de número do governo. Crítica da oposição é chamada de crítica da oposição.</li>
+    <li>Anunciado não é entregue. Promessa só vira "cumprida" com prova.</li>
+    <li>Erros são corrigidos em público, com a data da correção.</li>
+  </ul>
+  
+</section>
+
+</div></main>
+
+<footer><div class="wrap"><div class="fb"><div class="flagbox"><svg class="flag" viewBox="0 0 300 200" role="img" aria-label="Bandeira do Estado de São Paulo"><rect width="300" height="200" fill="#ffffff"/><rect y="0.00" width="300" height="15.68" fill="#111111"/><rect y="30.77" width="300" height="15.68" fill="#111111"/><rect y="61.54" width="300" height="15.68" fill="#111111"/><rect y="92.31" width="300" height="15.68" fill="#111111"/><rect y="123.08" width="300" height="15.68" fill="#111111"/><rect y="153.85" width="300" height="15.68" fill="#111111"/><rect y="184.62" width="300" height="15.68" fill="#111111"/><rect width="118" height="107.69" fill="#d0102f"/><circle cx="59" cy="53.85" r="35" fill="#ffffff"/><path d="M61.4,29.8 L69.6,33.7 L75.8,38.5 L83.0,44.2 L80.6,51.4 L74.4,56.2 L71.0,64.4 L64.8,69.2 L61.4,75.4 L56.6,77.8 L55.2,72.1 L58.0,65.8 L51.8,59.6 L47.0,56.2 L40.8,53.8 L35.0,48.1 L38.8,41.8 L47.0,39.4 L53.2,33.7Z" fill="#1d3c8f"/><path transform="translate(13,13.0)" d="M0.0,-9.0 L2.2,-3.1 L8.6,-2.8 L3.6,1.2 L5.3,7.3 L0.0,3.8 L-5.3,7.3 L-3.6,1.2 L-8.6,-2.8 L-2.2,-3.1Z" fill="#f4c300"/><path transform="translate(105,13.0)" d="M0.0,-9.0 L2.2,-3.1 L8.6,-2.8 L3.6,1.2 L5.3,7.3 L0.0,3.8 L-5.3,7.3 L-3.6,1.2 L-8.6,-2.8 L-2.2,-3.1Z" fill="#f4c300"/><path transform="translate(13,94.7)" d="M0.0,-9.0 L2.2,-3.1 L8.6,-2.8 L3.6,1.2 L5.3,7.3 L0.0,3.8 L-5.3,7.3 L-3.6,1.2 L-8.6,-2.8 L-2.2,-3.1Z" fill="#f4c300"/><path transform="translate(105,94.7)" d="M0.0,-9.0 L2.2,-3.1 L8.6,-2.8 L3.6,1.2 L5.3,7.3 L0.0,3.8 L-5.3,7.3 L-3.6,1.2 L-8.6,-2.8 L-2.2,-3.1Z" fill="#f4c300"/></svg></div><strong>Paulistânia Hoje</strong></div><span>Fontes públicas e verificáveis · erros corrigidos em público</span></div></footer>
+
+<script>
+var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"i":"3500204","n":"Adolfo","a":-21.2325,"o":-49.6451,"d":"17"},{"i":"3500303","n":"Aguaí","a":-22.0572,"o":-46.9735,"d":"19"},{"i":"3500402","n":"Águas da Prata","a":-21.9319,"o":-46.7176,"d":"19"},{"i":"3500501","n":"Águas de Lindóia","a":-22.4733,"o":-46.6314,"d":"19"},{"i":"3500550","n":"Águas de Santa Bárbara","a":-22.8812,"o":-49.2421,"d":"14"},{"i":"3500600","n":"Águas de São Pedro","a":-22.5977,"o":-47.8734,"d":"19"},{"i":"3500709","n":"Agudos","a":-22.4694,"o":-48.9863,"d":"14"},{"i":"3500758","n":"Alambari","a":-23.5503,"o":-47.898,"d":"15"},{"i":"3500808","n":"Alfredo Marcondes","a":-21.9527,"o":-51.414,"d":"18"},{"i":"3500907","n":"Altair","a":-20.5242,"o":-49.0571,"d":"17"},{"i":"3501004","n":"Altinópolis","a":-21.0214,"o":-47.3712,"d":"16"},{"i":"3501103","n":"Alto Alegre","a":-21.5811,"o":-50.168,"d":"18"},{"i":"3501152","n":"Alumínio","a":-23.5306,"o":-47.2546,"d":"11"},{"i":"3501202","n":"Álvares Florence","a":-20.3203,"o":-49.9141,"d":"17"},{"i":"3501301","n":"Álvares Machado","a":-22.0764,"o":-51.4722,"d":"18"},{"i":"3501400","n":"Álvaro de Carvalho","a":-22.0841,"o":-49.719,"d":"14"},{"i":"3501509","n":"Alvinlândia","a":-22.4435,"o":-49.7623,"d":"14"},{"i":"3501608","n":"Americana","a":-22.7374,"o":-47.3331,"d":"19"},{"i":"3501707","n":"Américo Brasiliense","a":-21.7288,"o":-48.1147,"d":"16"},{"i":"3501806","n":"Américo de Campos","a":-20.2985,"o":-49.7359,"d":"17"},{"i":"3501905","n":"Amparo","a":-22.7088,"o":-46.772,"d":"19"},{"i":"3502002","n":"Analândia","a":-22.1289,"o":-47.6619,"d":"19"},{"i":"3502101","n":"Andradina","a":-20.8948,"o":-51.3786,"d":"18"},{"i":"3502200","n":"Angatuba","a":-23.4917,"o":-48.4139,"d":"15"},{"i":"3502309","n":"Anhembi","a":-22.793,"o":-48.1336,"d":"14"},{"i":"3502408","n":"Anhumas","a":-22.2934,"o":-51.3895,"d":"18"},{"i":"3502507","n":"Aparecida","a":-22.8495,"o":-45.2325,"d":"12"},{"i":"3502606","n":"Aparecida d'Oeste","a":-20.4487,"o":-50.8835,"d":"17"},{"i":"3502705","n":"Apiaí","a":-24.5108,"o":-48.8443,"d":"15"},{"i":"3502754","n":"Araçariguama","a":-23.4366,"o":-47.0608,"d":"11"},{"i":"3502804","n":"Araçatuba","a":-21.2076,"o":-50.4401,"d":"18"},{"i":"3502903","n":"Araçoiaba da Serra","a":-23.5029,"o":-47.6166,"d":"15"},{"i":"3503000","n":"Aramina","a":-20.0882,"o":-47.7873,"d":"16"},{"i":"3503109","n":"Arandu","a":-23.1386,"o":-49.0487,"d":"14"},{"i":"3503158","n":"Arapeí","a":-22.6717,"o":-44.4441,"d":"12"},{"i":"3503208","n":"Araraquara","a":-21.7845,"o":-48.178,"d":"16"},{"i":"3503307","n":"Araras","a":-22.3572,"o":-47.3842,"d":"19"},{"i":"3503356","n":"Arco-Íris","a":-21.7728,"o":-50.466,"d":"14"},{"i":"3503406","n":"Arealva","a":-22.031,"o":-48.9135,"d":"14"},{"i":"3503505","n":"Areias","a":-22.5786,"o":-44.6992,"d":"12"},{"i":"3503604","n":"Areiópolis","a":-22.6672,"o":-48.6681,"d":"14"},{"i":"3503703","n":"Ariranha","a":-21.1872,"o":-48.7904,"d":"17"},{"i":"3503802","n":"Artur Nogueira","a":-22.5727,"o":-47.1727,"d":"19"},{"i":"3503901","n":"Arujá","a":-23.3965,"o":-46.32,"d":"11"},{"i":"3503950","n":"Aspásia","a":-20.16,"o":-50.728,"d":"17"},{"i":"3504008","n":"Assis","a":-22.66,"o":-50.4183,"d":"18"},{"i":"3504107","n":"Atibaia","a":-23.1171,"o":-46.5563,"d":"11"},{"i":"3504206","n":"Auriflama","a":-20.6836,"o":-50.5572,"d":"17"},{"i":"3504305","n":"Avaí","a":-22.1514,"o":-49.3356,"d":"14"},{"i":"3504404","n":"Avanhandava","a":-21.4584,"o":-49.9509,"d":"18"},{"i":"3504503","n":"Avaré","a":-23.1067,"o":-48.9251,"d":"14"},{"i":"3504602","n":"Bady Bassitt","a":-20.9197,"o":-49.4385,"d":"17"},{"i":"3504701","n":"Balbinos","a":-21.8963,"o":-49.3619,"d":"14"},{"i":"3504800","n":"Bálsamo","a":-20.7348,"o":-49.5865,"d":"17"},{"i":"3504909","n":"Bananal","a":-22.6819,"o":-44.3281,"d":"12"},{"i":"3505005","n":"Barão de Antonina","a":-23.6284,"o":-49.5634,"d":"15"},{"i":"3505104","n":"Barbosa","a":-21.2657,"o":-49.9518,"d":"18"},{"i":"3505203","n":"Bariri","a":-22.073,"o":-48.7438,"d":"14"},{"i":"3505302","n":"Barra Bonita","a":-22.4909,"o":-48.5583,"d":"14"},{"i":"3505351","n":"Barra do Chapéu","a":-24.4722,"o":-49.0238,"d":"15"},{"i":"3505401","n":"Barra do Turvo","a":-24.759,"o":-48.5013,"d":"15"},{"i":"3505500","n":"Barretos","a":-20.5531,"o":-48.5698,"d":"17"},{"i":"3505609","n":"Barrinha","a":-21.1864,"o":-48.1636,"d":"16"},{"i":"3505708","n":"Barueri","a":-23.5057,"o":-46.879,"d":"11"},{"i":"3505807","n":"Bastos","a":-21.921,"o":-50.7357,"d":"14"},{"i":"3505906","n":"Batatais","a":-20.8929,"o":-47.5921,"d":"16"},{"i":"3506003","n":"Bauru","a":-22.3246,"o":-49.0871,"d":"14"},{"i":"3506102","n":"Bebedouro","a":-20.9491,"o":-48.4791,"d":"17"},{"i":"3506201","n":"Bento de Abreu","a":-21.2686,"o":-50.814,"d":"18"},{"i":"3506300","n":"Bernardino de Campos","a":-23.0164,"o":-49.4679,"d":"14"},{"i":"3506359","n":"Bertioga","a":-23.8486,"o":-46.1396,"d":"13"},{"i":"3506409","n":"Bilac","a":-21.404,"o":-50.4746,"d":"18"},{"i":"3506508","n":"Birigui","a":-21.291,"o":-50.3432,"d":"18"},{"i":"3506607","n":"Biritiba-Mirim","a":-23.5698,"o":-46.0407,"d":"11"},{"i":"3506706","n":"Boa Esperança do Sul","a":-21.9918,"o":-48.3906,"d":"16"},{"i":"3506805","n":"Bocaina","a":-22.1365,"o":-48.523,"d":"14"},{"i":"3506904","n":"Bofete","a":-23.1055,"o":-48.2582,"d":"14"},{"i":"3507001","n":"Boituva","a":-23.2855,"o":-47.6786,"d":"15"},{"i":"3507100","n":"Bom Jesus dos Perdões","a":-23.1356,"o":-46.4675,"d":"11"},{"i":"3507159","n":"Bom Sucesso de Itararé","a":-24.3155,"o":-49.1451,"d":"15"},{"i":"3507209","n":"Borá","a":-22.2696,"o":-50.5409,"d":"18"},{"i":"3507308","n":"Boracéia","a":-22.1926,"o":-48.7808,"d":"14"},{"i":"3507407","n":"Borborema","a":-21.6214,"o":-49.0741,"d":"16"},{"i":"3507456","n":"Borebi","a":-22.5728,"o":-48.9707,"d":"14"},{"i":"3507506","n":"Botucatu","a":-22.8837,"o":-48.4437,"d":"14"},{"i":"3507605","n":"Bragança Paulista","a":-22.9527,"o":-46.5419,"d":"11"},{"i":"3507704","n":"Braúna","a":-21.499,"o":-50.3175,"d":"18"},{"i":"3507753","n":"Brejo Alegre","a":-21.1651,"o":-50.1861,"d":"18"},{"i":"3507803","n":"Brodowski","a":-20.9845,"o":-47.6572,"d":"16"},{"i":"3507902","n":"Brotas","a":-22.2795,"o":-48.1251,"d":"14"},{"i":"3508009","n":"Buri","a":-23.7977,"o":-48.5958,"d":"15"},{"i":"3508108","n":"Buritama","a":-21.0661,"o":-50.1475,"d":"18"},{"i":"3508207","n":"Buritizal","a":-20.1911,"o":-47.7096,"d":"16"},{"i":"3508306","n":"Cabrália Paulista","a":-22.4576,"o":-49.3393,"d":"14"},{"i":"3508405","n":"Cabreúva","a":-23.3053,"o":-47.1362,"d":"11"},{"i":"3508504","n":"Caçapava","a":-23.0992,"o":-45.7076,"d":"12"},{"i":"3508603","n":"Cachoeira Paulista","a":-22.6665,"o":-45.0154,"d":"12"},{"i":"3508702","n":"Caconde","a":-21.528,"o":-46.6437,"d":"19"},{"i":"3508801","n":"Cafelândia","a":-21.8031,"o":-49.6092,"d":"14"},{"i":"3508900","n":"Caiabu","a":-22.0127,"o":-51.2394,"d":"18"},{"i":"3509007","n":"Caieiras","a":-23.3607,"o":-46.7397,"d":"11"},{"i":"3509106","n":"Caiuá","a":-21.8322,"o":-51.9969,"d":"18"},{"i":"3509205","n":"Cajamar","a":-23.355,"o":-46.8781,"d":"11"},{"i":"3509254","n":"Cajati","a":-24.7324,"o":-48.1223,"d":"13"},{"i":"3509304","n":"Cajobi","a":-20.8773,"o":-48.8063,"d":"17"},{"i":"3509403","n":"Cajuru","a":-21.2749,"o":-47.303,"d":"16"},{"i":"3509452","n":"Campina do Monte Alegre","a":-23.5895,"o":-48.4758,"d":"15"},{"i":"3509502","n":"Campinas","a":-22.9053,"o":-47.0659,"d":"19"},{"i":"3509601","n":"Campo Limpo Paulista","a":-23.2078,"o":-46.7889,"d":"11"},{"i":"3509700","n":"Campos do Jordão","a":-22.7296,"o":-45.5833,"d":"12"},{"i":"3509809","n":"Campos Novos Paulista","a":-22.602,"o":-49.9987,"d":"14"},{"i":"3509908","n":"Cananéia","a":-25.0144,"o":-47.9341,"d":"13"},{"i":"3509957","n":"Canas","a":-22.7003,"o":-45.0521,"d":"12"},{"i":"3510005","n":"Cândido Mota","a":-22.7471,"o":-50.3873,"d":"18"},{"i":"3510104","n":"Cândido Rodrigues","a":-21.3275,"o":-48.6327,"d":"16"},{"i":"3510153","n":"Canitar","a":-23.004,"o":-49.7839,"d":"14"},{"i":"3510203","n":"Capão Bonito","a":-24.0113,"o":-48.3482,"d":"15"},{"i":"3510302","n":"Capela do Alto","a":-23.4685,"o":-47.7388,"d":"15"},{"i":"3510401","n":"Capivari","a":-22.9951,"o":-47.5071,"d":"19"},{"i":"3510500","n":"Caraguatatuba","a":-23.6125,"o":-45.4125,"d":"12"},{"i":"3510609","n":"Carapicuíba","a":-23.5235,"o":-46.8407,"d":"11"},{"i":"3510708","n":"Cardoso","a":-20.08,"o":-49.9183,"d":"17"},{"i":"3510807","n":"Casa Branca","a":-21.7708,"o":-47.0852,"d":"19"},{"i":"3510906","n":"Cássia dos Coqueiros","a":-21.2801,"o":-47.1643,"d":"16"},{"i":"3511003","n":"Castilho","a":-20.8689,"o":-51.4884,"d":"18"},{"i":"3511102","n":"Catanduva","a":-21.1314,"o":-48.977,"d":"17"},{"i":"3511201","n":"Catiguá","a":-21.0519,"o":-49.0616,"d":"17"},{"i":"3511300","n":"Cedral","a":-20.9009,"o":-49.2664,"d":"17"},{"i":"3511409","n":"Cerqueira César","a":-23.038,"o":-49.1655,"d":"14"},{"i":"3511508","n":"Cerquilho","a":-23.1665,"o":-47.7459,"d":"15"},{"i":"3511607","n":"Cesário Lange","a":-23.226,"o":-47.9545,"d":"15"},{"i":"3511706","n":"Charqueada","a":-22.5096,"o":-47.7755,"d":"19"},{"i":"3557204","n":"Chavantes","a":-23.0366,"o":-49.7096,"d":"14"},{"i":"3511904","n":"Clementina","a":-21.5604,"o":-50.4525,"d":"18"},{"i":"3512001","n":"Colina","a":-20.7114,"o":-48.5387,"d":"17"},{"i":"3512100","n":"Colômbia","a":-20.1768,"o":-48.6865,"d":"17"},{"i":"3512209","n":"Conchal","a":-22.3375,"o":-47.1729,"d":"19"},{"i":"3512308","n":"Conchas","a":-23.0154,"o":-48.0134,"d":"14"},{"i":"3512407","n":"Cordeirópolis","a":-22.4778,"o":-47.4519,"d":"19"},{"i":"3512506","n":"Coroados","a":-21.3521,"o":-50.2859,"d":"18"},{"i":"3512605","n":"Coronel Macedo","a":-23.6261,"o":-49.31,"d":"14"},{"i":"3512704","n":"Corumbataí","a":-22.2213,"o":-47.6215,"d":"19"},{"i":"3512803","n":"Cosmópolis","a":-22.6419,"o":-47.1926,"d":"19"},{"i":"3512902","n":"Cosmorama","a":-20.4755,"o":-49.7827,"d":"17"},{"i":"3513009","n":"Cotia","a":-23.6022,"o":-46.919,"d":"11"},{"i":"3513108","n":"Cravinhos","a":-21.338,"o":-47.7324,"d":"16"},{"i":"3513207","n":"Cristais Paulista","a":-20.4036,"o":-47.4209,"d":"16"},{"i":"3513306","n":"Cruzália","a":-22.7373,"o":-50.7909,"d":"18"},{"i":"3513405","n":"Cruzeiro","a":-22.5728,"o":-44.969,"d":"12"},{"i":"3513504","n":"Cubatão","a":-23.8911,"o":-46.424,"d":"13"},{"i":"3513603","n":"Cunha","a":-23.0731,"o":-44.9576,"d":"12"},{"i":"3513702","n":"Descalvado","a":-21.9002,"o":-47.6181,"d":"19"},{"i":"3513801","n":"Diadema","a":-23.6813,"o":-46.6205,"d":"11"},{"i":"3513850","n":"Dirce Reis","a":-20.4642,"o":-50.6073,"d":"17"},{"i":"3513900","n":"Divinolândia","a":-21.6637,"o":-46.7361,"d":"19"},{"i":"3514007","n":"Dobrada","a":-21.5155,"o":-48.3935,"d":"16"},{"i":"3514106","n":"Dois Córregos","a":-22.3673,"o":-48.3819,"d":"14"},{"i":"3514205","n":"Dolcinópolis","a":-20.124,"o":-50.5149,"d":"17"},{"i":"3514304","n":"Dourado","a":-22.1044,"o":-48.3178,"d":"16"},{"i":"3514403","n":"Dracena","a":-21.4843,"o":-51.535,"d":"18"},{"i":"3514502","n":"Duartina","a":-22.4146,"o":-49.4084,"d":"14"},{"i":"3514601","n":"Dumont","a":-21.2324,"o":-47.9756,"d":"16"},{"i":"3514700","n":"Echaporã","a":-22.4326,"o":-50.2038,"d":"18"},{"i":"3514809","n":"Eldorado","a":-24.5281,"o":-48.1141,"d":"13"},{"i":"3514908","n":"Elias Fausto","a":-23.0428,"o":-47.3682,"d":"19"},{"i":"3514924","n":"Elisiário","a":-21.1678,"o":-49.1146,"d":"17"},{"i":"3514957","n":"Embaúba","a":-20.9796,"o":-48.8325,"d":"17"},{"i":"3515004","n":"Embu das Artes","a":-23.6437,"o":-46.8579,"d":"11"},{"i":"3515103","n":"Embu-Guaçu","a":-23.8297,"o":-46.8136,"d":"11"},{"i":"3515129","n":"Emilianópolis","a":-21.8314,"o":-51.4832,"d":"18"},{"i":"3515152","n":"Engenheiro Coelho","a":-22.4836,"o":-47.211,"d":"19"},{"i":"3515186","n":"Espírito Santo do Pinhal","a":-22.1909,"o":-46.7477,"d":"19"},{"i":"3515194","n":"Espírito Santo do Turvo","a":-22.6925,"o":-49.4341,"d":"14"},{"i":"3557303","n":"Estiva Gerbi","a":-22.2713,"o":-46.9481,"d":"19"},{"i":"3515202","n":"Estrela d'Oeste","a":-20.2875,"o":-50.4049,"d":"17"},{"i":"3515301","n":"Estrela do Norte","a":-22.4859,"o":-51.6632,"d":"18"},{"i":"3515350","n":"Euclides da Cunha Paulista","a":-22.5545,"o":-52.5928,"d":"18"},{"i":"3515400","n":"Fartura","a":-23.3916,"o":-49.5124,"d":"14"},{"i":"3515608","n":"Fernando Prestes","a":-21.2661,"o":-48.6874,"d":"16"},{"i":"3515509","n":"Fernandópolis","a":-20.2806,"o":-50.2471,"d":"17"},{"i":"3515657","n":"Fernão","a":-22.3607,"o":-49.5187,"d":"14"},{"i":"3515707","n":"Ferraz de Vasconcelos","a":-23.5411,"o":-46.371,"d":"11"},{"i":"3515806","n":"Flora Rica","a":-21.6727,"o":-51.3821,"d":"18"},{"i":"3515905","n":"Floreal","a":-20.6752,"o":-50.1513,"d":"17"},{"i":"3516002","n":"Flórida Paulista","a":-21.6127,"o":-51.1724,"d":"18"},{"i":"3516101","n":"Florínia","a":-22.868,"o":-50.6814,"d":"18"},{"i":"3516200","n":"Franca","a":-20.5352,"o":-47.4039,"d":"16"},{"i":"3516309","n":"Francisco Morato","a":-23.2792,"o":-46.7448,"d":"11"},{"i":"3516408","n":"Franco da Rocha","a":-23.3229,"o":-46.729,"d":"11"},{"i":"3516507","n":"Gabriel Monteiro","a":-21.5294,"o":-50.5573,"d":"18"},{"i":"3516606","n":"Gália","a":-22.2918,"o":-49.5504,"d":"14"},{"i":"3516705","n":"Garça","a":-22.2125,"o":-49.6546,"d":"14"},{"i":"3516804","n":"Gastão Vidigal","a":-20.7948,"o":-50.1912,"d":"17"},{"i":"3516853","n":"Gavião Peixoto","a":-21.8367,"o":-48.4957,"d":"16"},{"i":"3516903","n":"General Salgado","a":-20.6485,"o":-50.364,"d":"17"},{"i":"3517000","n":"Getulina","a":-21.7961,"o":-49.9312,"d":"14"},{"i":"3517109","n":"Glicério","a":-21.3812,"o":-50.2123,"d":"18"},{"i":"3517208","n":"Guaiçara","a":-21.6195,"o":-49.8013,"d":"14"},{"i":"3517307","n":"Guaimbê","a":-21.9091,"o":-49.8986,"d":"14"},{"i":"3517406","n":"Guaíra","a":-20.3196,"o":-48.312,"d":"17"},{"i":"3517505","n":"Guapiaçu","a":-20.7959,"o":-49.2172,"d":"17"},{"i":"3517604","n":"Guapiara","a":-24.1892,"o":-48.5295,"d":"15"},{"i":"3517703","n":"Guará","a":-20.4302,"o":-47.8236,"d":"16"},{"i":"3517802","n":"Guaraçaí","a":-21.0292,"o":-51.2119,"d":"18"},{"i":"3517901","n":"Guaraci","a":-20.4977,"o":-48.9391,"d":"17"},{"i":"3518008","n":"Guarani d'Oeste","a":-20.0746,"o":-50.3411,"d":"17"},{"i":"3518107","n":"Guarantã","a":-21.8942,"o":-49.5914,"d":"14"},{"i":"3518206","n":"Guararapes","a":-21.2544,"o":-50.6453,"d":"18"},{"i":"3518305","n":"Guararema","a":-23.4112,"o":-46.0369,"d":"11"},{"i":"3518404","n":"Guaratinguetá","a":-22.8075,"o":-45.1938,"d":"12"},{"i":"3518503","n":"Guareí","a":-23.3714,"o":-48.1837,"d":"15"},{"i":"3518602","n":"Guariba","a":-21.3594,"o":-48.2316,"d":"16"},{"i":"3518701","n":"Guarujá","a":-23.9888,"o":-46.258,"d":"13"},{"i":"3518800","n":"Guarulhos","a":-23.4538,"o":-46.5333,"d":"11"},{"i":"3518859","n":"Guatapará","a":-21.4944,"o":-48.0356,"d":"16"},{"i":"3518909","n":"Guzolândia","a":-20.6467,"o":-50.6645,"d":"17"},{"i":"3519006","n":"Herculândia","a":-22.0038,"o":-50.3907,"d":"14"},{"i":"3519055","n":"Holambra","a":-22.6405,"o":-47.0487,"d":"19"},{"i":"3519071","n":"Hortolândia","a":-22.8529,"o":-47.2143,"d":"19"},{"i":"3519105","n":"Iacanga","a":-21.8896,"o":-49.031,"d":"14"},{"i":"3519204","n":"Iacri","a":-21.8572,"o":-50.6932,"d":"14"},{"i":"3519253","n":"Iaras","a":-22.8682,"o":-49.1634,"d":"14"},{"i":"3519303","n":"Ibaté","a":-21.9584,"o":-47.9882,"d":"16"},{"i":"3519402","n":"Ibirá","a":-21.083,"o":-49.2448,"d":"17"},{"i":"3519501","n":"Ibirarema","a":-22.8185,"o":-50.0739,"d":"14"},{"i":"3519600","n":"Ibitinga","a":-21.7562,"o":-48.8319,"d":"16"},{"i":"3519709","n":"Ibiúna","a":-23.6596,"o":-47.223,"d":"15"},{"i":"3519808","n":"Icém","a":-20.3391,"o":-49.1915,"d":"17"},{"i":"3519907","n":"Iepê","a":-22.6602,"o":-51.0779,"d":"18"},{"i":"3520004","n":"Igaraçu do Tietê","a":-22.509,"o":-48.5597,"d":"14"},{"i":"3520103","n":"Igarapava","a":-20.0407,"o":-47.7466,"d":"16"},{"i":"3520202","n":"Igaratá","a":-23.2037,"o":-46.157,"d":"11"},{"i":"3520301","n":"Iguape","a":-24.699,"o":-47.5537,"d":"13"},{"i":"3520426","n":"Ilha Comprida","a":-24.7307,"o":-47.5383,"d":"13"},{"i":"3520442","n":"Ilha Solteira","a":-20.4326,"o":-51.3426,"d":"18"},{"i":"3520400","n":"Ilhabela","a":-23.7785,"o":-45.3552,"d":"12"},{"i":"3520509","n":"Indaiatuba","a":-23.0816,"o":-47.2101,"d":"19"},{"i":"3520608","n":"Indiana","a":-22.1738,"o":-51.2555,"d":"18"},{"i":"3520707","n":"Indiaporã","a":-19.979,"o":-50.2909,"d":"17"},{"i":"3520806","n":"Inúbia Paulista","a":-21.7695,"o":-50.9633,"d":"18"},{"i":"3520905","n":"Ipaussu","a":-23.0575,"o":-49.6279,"d":"14"},{"i":"3521002","n":"Iperó","a":-23.3513,"o":-47.6927,"d":"15"},{"i":"3521101","n":"Ipeúna","a":-22.4355,"o":-47.7151,"d":"19"},{"i":"3521150","n":"Ipiguá","a":-20.6557,"o":-49.3842,"d":"17"},{"i":"3521200","n":"Iporanga","a":-24.5847,"o":-48.5971,"d":"15"},{"i":"3521309","n":"Ipuã","a":-20.4438,"o":-48.0129,"d":"16"},{"i":"3521408","n":"Iracemápolis","a":-22.5832,"o":-47.523,"d":"19"},{"i":"3521507","n":"Irapuã","a":-21.2768,"o":-49.4164,"d":"17"},{"i":"3521606","n":"Irapuru","a":-21.5684,"o":-51.3472,"d":"18"},{"i":"3521705","n":"Itaberá","a":-23.8638,"o":-49.14,"d":"15"},{"i":"3521804","n":"Itaí","a":-23.4213,"o":-49.092,"d":"14"},{"i":"3521903","n":"Itajobi","a":-21.3123,"o":-49.0629,"d":"17"},{"i":"3522000","n":"Itaju","a":-21.9857,"o":-48.8116,"d":"14"},{"i":"3522109","n":"Itanhaém","a":-24.1736,"o":-46.788,"d":"13"},{"i":"3522158","n":"Itaóca","a":-24.6393,"o":-48.8413,"d":"15"},{"i":"3522208","n":"Itapecerica da Serra","a":-23.7161,"o":-46.8572,"d":"11"},{"i":"3522307","n":"Itapetininga","a":-23.5886,"o":-48.0483,"d":"15"},{"i":"3522406","n":"Itapeva","a":-23.9788,"o":-48.8764,"d":"15"},{"i":"3522505","n":"Itapevi","a":-23.5488,"o":-46.9327,"d":"11"},{"i":"3522604","n":"Itapira","a":-22.4357,"o":-46.8224,"d":"19"},{"i":"3522653","n":"Itapirapuã Paulista","a":-24.572,"o":-49.1661,"d":"15"},{"i":"3522703","n":"Itápolis","a":-21.5942,"o":-48.8149,"d":"16"},{"i":"3522802","n":"Itaporanga","a":-23.7043,"o":-49.4819,"d":"15"},{"i":"3522901","n":"Itapuí","a":-22.2324,"o":-48.7197,"d":"14"},{"i":"3523008","n":"Itapura","a":-20.6419,"o":-51.5063,"d":"18"},{"i":"3523107","n":"Itaquaquecetuba","a":-23.4835,"o":-46.3457,"d":"11"},{"i":"3523206","n":"Itararé","a":-24.1085,"o":-49.3352,"d":"15"},{"i":"3523305","n":"Itariri","a":-24.2834,"o":-47.1736,"d":"13"},{"i":"3523404","n":"Itatiba","a":-23.0035,"o":-46.8464,"d":"11"},{"i":"3523503","n":"Itatinga","a":-23.1047,"o":-48.6157,"d":"14"},{"i":"3523602","n":"Itirapina","a":-22.2562,"o":-47.8166,"d":"19"},{"i":"3523701","n":"Itirapuã","a":-20.6416,"o":-47.2194,"d":"16"},{"i":"3523800","n":"Itobi","a":-21.7309,"o":-46.9743,"d":"19"},{"i":"3523909","n":"Itu","a":-23.2544,"o":-47.2927,"d":"11"},{"i":"3524006","n":"Itupeva","a":-23.1526,"o":-47.0593,"d":"11"},{"i":"3524105","n":"Ituverava","a":-20.3355,"o":-47.7902,"d":"16"},{"i":"3524204","n":"Jaborandi","a":-20.6884,"o":-48.4112,"d":"17"},{"i":"3524303","n":"Jaboticabal","a":-21.252,"o":-48.3252,"d":"16"},{"i":"3524402","n":"Jacareí","a":-23.2983,"o":-45.9658,"d":"12"},{"i":"3524501","n":"Jaci","a":-20.8805,"o":-49.5797,"d":"17"},{"i":"3524600","n":"Jacupiranga","a":-24.6963,"o":-48.0064,"d":"13"},{"i":"3524709","n":"Jaguariúna","a":-22.7037,"o":-46.9851,"d":"19"},{"i":"3524808","n":"Jales","a":-20.2672,"o":-50.5494,"d":"17"},{"i":"3524907","n":"Jambeiro","a":-23.2522,"o":-45.6942,"d":"12"},{"i":"3525003","n":"Jandira","a":-23.5275,"o":-46.9023,"d":"11"},{"i":"3525102","n":"Jardinópolis","a":-21.0176,"o":-47.7606,"d":"16"},{"i":"3525201","n":"Jarinu","a":-23.1039,"o":-46.728,"d":"11"},{"i":"3525300","n":"Jaú","a":-22.2936,"o":-48.5592,"d":"14"},{"i":"3525409","n":"Jeriquara","a":-20.3116,"o":-47.5918,"d":"16"},{"i":"3525508","n":"Joanópolis","a":-22.927,"o":-46.2741,"d":"11"},{"i":"3525607","n":"João Ramalho","a":-22.2473,"o":-50.7694,"d":"18"},{"i":"3525706","n":"José Bonifácio","a":-21.0551,"o":-49.6892,"d":"17"},{"i":"3525805","n":"Júlio Mesquita","a":-22.0112,"o":-49.7873,"d":"14"},{"i":"3525854","n":"Jumirim","a":-23.0884,"o":-47.7868,"d":"15"},{"i":"3525904","n":"Jundiaí","a":-23.1852,"o":-46.8974,"d":"11"},{"i":"3526001","n":"Junqueirópolis","a":-21.5103,"o":-51.4342,"d":"18"},{"i":"3526100","n":"Juquiá","a":-24.3101,"o":-47.6426,"d":"13"},{"i":"3526209","n":"Juquitiba","a":-23.9244,"o":-47.0653,"d":"11"},{"i":"3526308","n":"Lagoinha","a":-23.0846,"o":-45.1944,"d":"12"},{"i":"3526407","n":"Laranjal Paulista","a":-23.0506,"o":-47.8375,"d":"15"},{"i":"3526506","n":"Lavínia","a":-21.1639,"o":-51.0412,"d":"18"},{"i":"3526605","n":"Lavrinhas","a":-22.57,"o":-44.9024,"d":"12"},{"i":"3526704","n":"Leme","a":-22.1809,"o":-47.3841,"d":"19"},{"i":"3526803","n":"Lençóis Paulista","a":-22.6027,"o":-48.8037,"d":"14"},{"i":"3526902","n":"Limeira","a":-22.566,"o":-47.397,"d":"19"},{"i":"3527009","n":"Lindóia","a":-22.5226,"o":-46.65,"d":"19"},{"i":"3527108","n":"Lins","a":-21.6718,"o":-49.7526,"d":"14"},{"i":"3527207","n":"Lorena","a":-22.7334,"o":-45.1197,"d":"12"},{"i":"3527256","n":"Lourdes","a":-20.966,"o":-50.2263,"d":"18"},{"i":"3527306","n":"Louveira","a":-23.0856,"o":-46.9484,"d":"19"},{"i":"3527405","n":"Lucélia","a":-21.7182,"o":-51.0215,"d":"18"},{"i":"3527504","n":"Lucianópolis","a":-22.4294,"o":-49.522,"d":"14"},{"i":"3527603","n":"Luís Antônio","a":-21.55,"o":-47.7801,"d":"16"},{"i":"3527702","n":"Luiziânia","a":-21.6737,"o":-50.3294,"d":"18"},{"i":"3527801","n":"Lupércio","a":-22.4146,"o":-49.818,"d":"14"},{"i":"3527900","n":"Lutécia","a":-22.3384,"o":-50.394,"d":"18"},{"i":"3528007","n":"Macatuba","a":-22.5002,"o":-48.7102,"d":"14"},{"i":"3528106","n":"Macaubal","a":-20.8022,"o":-49.9687,"d":"17"},{"i":"3528205","n":"Macedônia","a":-20.1444,"o":-50.1973,"d":"17"},{"i":"3528304","n":"Magda","a":-20.6445,"o":-50.2305,"d":"17"},{"i":"3528403","n":"Mairinque","a":-23.5398,"o":-47.185,"d":"11"},{"i":"3528502","n":"Mairiporã","a":-23.3171,"o":-46.5897,"d":"11"},{"i":"3528601","n":"Manduri","a":-23.0056,"o":-49.3202,"d":"14"},{"i":"3528700","n":"Marabá Paulista","a":-22.1068,"o":-51.9617,"d":"18"},{"i":"3528809","n":"Maracaí","a":-22.6149,"o":-50.6713,"d":"18"},{"i":"3528858","n":"Marapoama","a":-21.2587,"o":-49.13,"d":"17"},{"i":"3528908","n":"Mariápolis","a":-21.7959,"o":-51.1824,"d":"18"},{"i":"3529005","n":"Marília","a":-22.2171,"o":-49.9501,"d":"14"},{"i":"3529104","n":"Marinópolis","a":-20.4389,"o":-50.8254,"d":"17"},{"i":"3529203","n":"Martinópolis","a":-22.1462,"o":-51.1709,"d":"18"},{"i":"3529302","n":"Matão","a":-21.6025,"o":-48.364,"d":"16"},{"i":"3529401","n":"Mauá","a":-23.6677,"o":-46.4613,"d":"11"},{"i":"3529500","n":"Mendonça","a":-21.1757,"o":-49.5791,"d":"17"},{"i":"3529609","n":"Meridiano","a":-20.3579,"o":-50.1811,"d":"17"},{"i":"3529658","n":"Mesópolis","a":-19.9684,"o":-50.6326,"d":"17"},{"i":"3529708","n":"Miguelópolis","a":-20.1796,"o":-48.031,"d":"16"},{"i":"3529807","n":"Mineiros do Tietê","a":-22.412,"o":-48.451,"d":"14"},{"i":"3530003","n":"Mira Estrela","a":-19.9789,"o":-50.139,"d":"17"},{"i":"3529906","n":"Miracatu","a":-24.2766,"o":-47.4625,"d":"13"},{"i":"3530102","n":"Mirandópolis","a":-21.1313,"o":-51.1035,"d":"18"},{"i":"3530201","n":"Mirante do Paranapanema","a":-22.2904,"o":-51.9084,"d":"18"},{"i":"3530300","n":"Mirassol","a":-20.8169,"o":-49.5206,"d":"17"},{"i":"3530409","n":"Mirassolândia","a":-20.6179,"o":-49.4617,"d":"17"},{"i":"3530508","n":"Mococa","a":-21.4647,"o":-47.0024,"d":"19"},{"i":"3530607","n":"Mogi das Cruzes","a":-23.5208,"o":-46.1854,"d":"11"},{"i":"3530706","n":"Mogi Guaçu","a":-22.3675,"o":-46.9428,"d":"19"},{"i":"3530805","n":"Mogi Mirim","a":-22.4332,"o":-46.9532,"d":"19"},{"i":"3530904","n":"Mombuca","a":-22.9285,"o":-47.559,"d":"19"},{"i":"3531001","n":"Monções","a":-20.8509,"o":-50.0975,"d":"17"},{"i":"3531100","n":"Mongaguá","a":-24.0809,"o":-46.6265,"d":"13"},{"i":"3531209","n":"Monte Alegre do Sul","a":-22.6817,"o":-46.681,"d":"19"},{"i":"3531308","n":"Monte Alto","a":-21.2655,"o":-48.4971,"d":"16"},{"i":"3531407","n":"Monte Aprazível","a":-20.768,"o":-49.7184,"d":"17"},{"i":"3531506","n":"Monte Azul Paulista","a":-20.9065,"o":-48.6387,"d":"17"},{"i":"3531605","n":"Monte Castelo","a":-21.2981,"o":-51.5679,"d":"18"},{"i":"3531803","n":"Monte Mor","a":-22.945,"o":-47.3122,"d":"19"},{"i":"3531704","n":"Monteiro Lobato","a":-22.9544,"o":-45.8407,"d":"12"},{"i":"3531902","n":"Morro Agudo","a":-20.7288,"o":-48.0581,"d":"16"},{"i":"3532009","n":"Morungaba","a":-22.8811,"o":-46.7896,"d":"11"},{"i":"3532058","n":"Motuca","a":-21.5103,"o":-48.1538,"d":"16"},{"i":"3532108","n":"Murutinga do Sul","a":-20.9908,"o":-51.2774,"d":"18"},{"i":"3532157","n":"Nantes","a":-22.6156,"o":-51.24,"d":"18"},{"i":"3532207","n":"Narandiba","a":-22.4057,"o":-51.5274,"d":"18"},{"i":"3532306","n":"Natividade da Serra","a":-23.3707,"o":-45.4468,"d":"12"},{"i":"3532405","n":"Nazaré Paulista","a":-23.1747,"o":-46.3983,"d":"11"},{"i":"3532504","n":"Neves Paulista","a":-20.843,"o":-49.6358,"d":"17"},{"i":"3532603","n":"Nhandeara","a":-20.6945,"o":-50.0436,"d":"17"},{"i":"3532702","n":"Nipoã","a":-20.9114,"o":-49.7833,"d":"17"},{"i":"3532801","n":"Nova Aliança","a":-21.0156,"o":-49.4986,"d":"17"},{"i":"3532827","n":"Nova Campina","a":-24.1224,"o":-48.9022,"d":"15"},{"i":"3532843","n":"Nova Canaã Paulista","a":-20.3836,"o":-50.9483,"d":"17"},{"i":"3532868","n":"Nova Castilho","a":-20.7615,"o":-50.3477,"d":"17"},{"i":"3532900","n":"Nova Europa","a":-21.7765,"o":-48.5705,"d":"16"},{"i":"3533007","n":"Nova Granada","a":-20.5321,"o":-49.3123,"d":"17"},{"i":"3533106","n":"Nova Guataporanga","a":-21.332,"o":-51.6447,"d":"18"},{"i":"3533205","n":"Nova Independência","a":-21.1026,"o":-51.4905,"d":"18"},{"i":"3533304","n":"Nova Luzitânia","a":-20.856,"o":-50.2617,"d":"17"},{"i":"3533403","n":"Nova Odessa","a":-22.7832,"o":-47.2941,"d":"19"},{"i":"3533254","n":"Novais","a":-20.9893,"o":-48.9141,"d":"17"},{"i":"3533502","n":"Novo Horizonte","a":-21.4651,"o":-49.2234,"d":"17"},{"i":"3533601","n":"Nuporanga","a":-20.7296,"o":-47.7429,"d":"16"},{"i":"3533700","n":"Ocauçu","a":-22.438,"o":-49.922,"d":"14"},{"i":"3533809","n":"Óleo","a":-22.9435,"o":-49.3419,"d":"14"},{"i":"3533908","n":"Olímpia","a":-20.7366,"o":-48.9106,"d":"17"},{"i":"3534005","n":"Onda Verde","a":-20.6042,"o":-49.2929,"d":"17"},{"i":"3534104","n":"Oriente","a":-22.1549,"o":-50.0971,"d":"14"},{"i":"3534203","n":"Orindiúva","a":-20.1861,"o":-49.3464,"d":"17"},{"i":"3534302","n":"Orlândia","a":-20.7169,"o":-47.8852,"d":"16"},{"i":"3534401","n":"Osasco","a":-23.5324,"o":-46.7916,"d":"11"},{"i":"3534500","n":"Oscar Bressane","a":-22.3149,"o":-50.2811,"d":"14"},{"i":"3534609","n":"Osvaldo Cruz","a":-21.7968,"o":-50.8793,"d":"18"},{"i":"3534708","n":"Ourinhos","a":-22.9797,"o":-49.8697,"d":"14"},{"i":"3534807","n":"Ouro Verde","a":-21.4872,"o":-51.7024,"d":"18"},{"i":"3534757","n":"Ouroeste","a":-20.0061,"o":-50.3768,"d":"17"},{"i":"3534906","n":"Pacaembu","a":-21.5627,"o":-51.2654,"d":"18"},{"i":"3535002","n":"Palestina","a":-20.39,"o":-49.4309,"d":"17"},{"i":"3535101","n":"Palmares Paulista","a":-21.0854,"o":-48.8037,"d":"17"},{"i":"3535200","n":"Palmeira d'Oeste","a":-20.4148,"o":-50.7632,"d":"17"},{"i":"3535309","n":"Palmital","a":-22.7858,"o":-50.218,"d":"18"},{"i":"3535408","n":"Panorama","a":-21.354,"o":-51.8562,"d":"18"},{"i":"3535507","n":"Paraguaçu Paulista","a":-22.4114,"o":-50.5732,"d":"18"},{"i":"3535606","n":"Paraibuna","a":-23.3872,"o":-45.6639,"d":"12"},{"i":"3535705","n":"Paraíso","a":-21.0159,"o":-48.7761,"d":"17"},{"i":"3535804","n":"Paranapanema","a":-23.3862,"o":-48.7214,"d":"14"},{"i":"3535903","n":"Paranapuã","a":-20.1048,"o":-50.5886,"d":"17"},{"i":"3536000","n":"Parapuã","a":-21.7792,"o":-50.7949,"d":"18"},{"i":"3536109","n":"Pardinho","a":-23.0841,"o":-48.3679,"d":"14"},{"i":"3536208","n":"Pariquera-Açu","a":-24.7147,"o":-47.8742,"d":"13"},{"i":"3536257","n":"Parisi","a":-20.3034,"o":-50.0163,"d":"17"},{"i":"3536307","n":"Patrocínio Paulista","a":-20.6384,"o":-47.2801,"d":"16"},{"i":"3536406","n":"Paulicéia","a":-21.3153,"o":-51.8321,"d":"18"},{"i":"3536505","n":"Paulínia","a":-22.7542,"o":-47.1488,"d":"19"},{"i":"3536570","n":"Paulistânia","a":-22.5768,"o":-49.4008,"d":"14"},{"i":"3536604","n":"Paulo de Faria","a":-20.0296,"o":-49.4,"d":"17"},{"i":"3536703","n":"Pederneiras","a":-22.3511,"o":-48.7781,"d":"14"},{"i":"3536802","n":"Pedra Bela","a":-22.7902,"o":-46.4455,"d":"11"},{"i":"3536901","n":"Pedranópolis","a":-20.2474,"o":-50.1129,"d":"17"},{"i":"3537008","n":"Pedregulho","a":-20.2535,"o":-47.4775,"d":"16"},{"i":"3537107","n":"Pedreira","a":-22.7413,"o":-46.8948,"d":"19"},{"i":"3537156","n":"Pedrinhas Paulista","a":-22.8174,"o":-50.7933,"d":"18"},{"i":"3537206","n":"Pedro de Toledo","a":-24.2764,"o":-47.2354,"d":"13"},{"i":"3537305","n":"Penápolis","a":-21.4148,"o":-50.0769,"d":"18"},{"i":"3537404","n":"Pereira Barreto","a":-20.6368,"o":-51.1123,"d":"18"},{"i":"3537503","n":"Pereiras","a":-23.0804,"o":-47.972,"d":"14"},{"i":"3537602","n":"Peruíbe","a":-24.312,"o":-47.0012,"d":"13"},{"i":"3537701","n":"Piacatu","a":-21.5921,"o":-50.6003,"d":"18"},{"i":"3537800","n":"Piedade","a":-23.7139,"o":-47.4256,"d":"15"},{"i":"3537909","n":"Pilar do Sul","a":-23.8077,"o":-47.7222,"d":"15"},{"i":"3538006","n":"Pindamonhangaba","a":-22.9246,"o":-45.4613,"d":"12"},{"i":"3538105","n":"Pindorama","a":-21.1853,"o":-48.9086,"d":"17"},{"i":"3538204","n":"Pinhalzinho","a":-22.7811,"o":-46.5897,"d":"11"},{"i":"3538303","n":"Piquerobi","a":-21.8747,"o":-51.7282,"d":"18"},{"i":"3538501","n":"Piquete","a":-22.6069,"o":-45.1869,"d":"12"},{"i":"3538600","n":"Piracaia","a":-23.0525,"o":-46.3594,"d":"11"},{"i":"3538709","n":"Piracicaba","a":-22.7338,"o":-47.6476,"d":"19"},{"i":"3538808","n":"Piraju","a":-23.1981,"o":-49.3803,"d":"14"},{"i":"3538907","n":"Pirajuí","a":-21.999,"o":-49.4608,"d":"14"},{"i":"3539004","n":"Pirangi","a":-21.0886,"o":-48.6607,"d":"17"},{"i":"3539103","n":"Pirapora do Bom Jesus","a":-23.3965,"o":-46.9991,"d":"11"},{"i":"3539202","n":"Pirapozinho","a":-22.2711,"o":-51.4976,"d":"18"},{"i":"3539301","n":"Pirassununga","a":-21.996,"o":-47.4257,"d":"19"},{"i":"3539400","n":"Piratininga","a":-22.4142,"o":-49.1339,"d":"14"},{"i":"3539509","n":"Pitangueiras","a":-21.0132,"o":-48.221,"d":"16"},{"i":"3539608","n":"Planalto","a":-21.0342,"o":-49.933,"d":"18"},{"i":"3539707","n":"Platina","a":-22.6371,"o":-50.2104,"d":"18"},{"i":"3539806","n":"Poá","a":-23.5333,"o":-46.3473,"d":"11"},{"i":"3539905","n":"Poloni","a":-20.7829,"o":-49.8258,"d":"17"},{"i":"3540002","n":"Pompéia","a":-22.107,"o":-50.176,"d":"14"},{"i":"3540101","n":"Pongaí","a":-21.7396,"o":-49.3604,"d":"14"},{"i":"3540200","n":"Pontal","a":-21.0216,"o":-48.0423,"d":"16"},{"i":"3540259","n":"Pontalinda","a":-20.4396,"o":-50.5258,"d":"17"},{"i":"3540309","n":"Pontes Gestal","a":-20.1727,"o":-49.7064,"d":"17"},{"i":"3540408","n":"Populina","a":-19.9453,"o":-50.538,"d":"17"},{"i":"3540507","n":"Porangaba","a":-23.1761,"o":-48.1195,"d":"15"},{"i":"3540606","n":"Porto Feliz","a":-23.2093,"o":-47.5251,"d":"15"},{"i":"3540705","n":"Porto Ferreira","a":-21.8498,"o":-47.487,"d":"19"},{"i":"3540754","n":"Potim","a":-22.8343,"o":-45.2552,"d":"12"},{"i":"3540804","n":"Potirendaba","a":-21.0428,"o":-49.3815,"d":"17"},{"i":"3540853","n":"Pracinha","a":-21.8496,"o":-51.0868,"d":"18"},{"i":"3540903","n":"Pradópolis","a":-21.3626,"o":-48.0679,"d":"16"},{"i":"3541000","n":"Praia Grande","a":-24.0084,"o":-46.4121,"d":"13"},{"i":"3541059","n":"Pratânia","a":-22.8112,"o":-48.6636,"d":"14"},{"i":"3541109","n":"Presidente Alves","a":-22.0999,"o":-49.4381,"d":"14"},{"i":"3541208","n":"Presidente Bernardes","a":-22.0082,"o":-51.5565,"d":"18"},{"i":"3541307","n":"Presidente Epitácio","a":-21.7651,"o":-52.1111,"d":"18"},{"i":"3541406","n":"Presidente Prudente","a":-22.1207,"o":-51.3925,"d":"18"},{"i":"3541505","n":"Presidente Venceslau","a":-21.8732,"o":-51.8447,"d":"18"},{"i":"3541604","n":"Promissão","a":-21.5356,"o":-49.8599,"d":"14"},{"i":"3541653","n":"Quadra","a":-23.2993,"o":-48.0547,"d":"15"},{"i":"3541703","n":"Quatá","a":-22.2456,"o":-50.6966,"d":"18"},{"i":"3541802","n":"Queiroz","a":-21.7969,"o":-50.2415,"d":"14"},{"i":"3541901","n":"Queluz","a":-22.5312,"o":-44.7781,"d":"12"},{"i":"3542008","n":"Quintana","a":-22.0692,"o":-50.307,"d":"14"},{"i":"3542107","n":"Rafard","a":-23.0105,"o":-47.5318,"d":"19"},{"i":"3542206","n":"Rancharia","a":-22.2269,"o":-50.893,"d":"18"},{"i":"3542305","n":"Redenção da Serra","a":-23.2638,"o":-45.5422,"d":"12"},{"i":"3542404","n":"Regente Feijó","a":-22.2181,"o":-51.3055,"d":"18"},{"i":"3542503","n":"Reginópolis","a":-21.8914,"o":-49.2268,"d":"14"},{"i":"3542602","n":"Registro","a":-24.4979,"o":-47.8449,"d":"13"},{"i":"3542701","n":"Restinga","a":-20.6056,"o":-47.4833,"d":"16"},{"i":"3542800","n":"Ribeira","a":-24.6517,"o":-49.0044,"d":"15"},{"i":"3542909","n":"Ribeirão Bonito","a":-22.0685,"o":-48.182,"d":"16"},{"i":"3543006","n":"Ribeirão Branco","a":-24.2206,"o":-48.7635,"d":"15"},{"i":"3543105","n":"Ribeirão Corrente","a":-20.4579,"o":-47.5904,"d":"16"},{"i":"3543204","n":"Ribeirão do Sul","a":-22.789,"o":-49.933,"d":"14"},{"i":"3543238","n":"Ribeirão dos Índios","a":-21.8382,"o":-51.6103,"d":"18"},{"i":"3543253","n":"Ribeirão Grande","a":-24.1011,"o":-48.3679,"d":"15"},{"i":"3543303","n":"Ribeirão Pires","a":-23.7067,"o":-46.4058,"d":"11"},{"i":"3543402","n":"Ribeirão Preto","a":-21.1699,"o":-47.8099,"d":"16"},{"i":"3543600","n":"Rifaina","a":-20.0803,"o":-47.4291,"d":"16"},{"i":"3543709","n":"Rincão","a":-21.5894,"o":-48.0728,"d":"16"},{"i":"3543808","n":"Rinópolis","a":-21.7284,"o":-50.7239,"d":"18"},{"i":"3543907","n":"Rio Claro","a":-22.3984,"o":-47.5546,"d":"19"},{"i":"3544004","n":"Rio das Pedras","a":-22.8417,"o":-47.6047,"d":"19"},{"i":"3544103","n":"Rio Grande da Serra","a":-23.7437,"o":-46.3971,"d":"11"},{"i":"3544202","n":"Riolândia","a":-19.9868,"o":-49.6836,"d":"17"},{"i":"3543501","n":"Riversul","a":-23.829,"o":-49.429,"d":"15"},{"i":"3544251","n":"Rosana","a":-22.5782,"o":-53.0603,"d":"18"},{"i":"3544301","n":"Roseira","a":-22.8938,"o":-45.307,"d":"12"},{"i":"3544400","n":"Rubiácea","a":-21.3006,"o":-50.7296,"d":"18"},{"i":"3544509","n":"Rubinéia","a":-20.1759,"o":-51.007,"d":"17"},{"i":"3544608","n":"Sabino","a":-21.4593,"o":-49.5755,"d":"14"},{"i":"3544707","n":"Sagres","a":-21.8823,"o":-50.9594,"d":"18"},{"i":"3544806","n":"Sales","a":-21.3427,"o":-49.4897,"d":"17"},{"i":"3544905","n":"Sales Oliveira","a":-20.7696,"o":-47.8369,"d":"16"},{"i":"3545001","n":"Salesópolis","a":-23.5288,"o":-45.8465,"d":"11"},{"i":"3545100","n":"Salmourão","a":-21.6267,"o":-50.8614,"d":"18"},{"i":"3545159","n":"Saltinho","a":-22.8442,"o":-47.6754,"d":"19"},{"i":"3545209","n":"Salto","a":-23.1996,"o":-47.2931,"d":"11"},{"i":"3545308","n":"Salto de Pirapora","a":-23.6474,"o":-47.5743,"d":"15"},{"i":"3545407","n":"Salto Grande","a":-22.8894,"o":-49.9831,"d":"14"},{"i":"3545506","n":"Sandovalina","a":-22.4551,"o":-51.7648,"d":"18"},{"i":"3545605","n":"Santa Adélia","a":-21.2427,"o":-48.8063,"d":"17"},{"i":"3545704","n":"Santa Albertina","a":-20.0311,"o":-50.7297,"d":"17"},{"i":"3545803","n":"Santa Bárbara d'Oeste","a":-22.7553,"o":-47.4143,"d":"19"},{"i":"3546009","n":"Santa Branca","a":-23.3933,"o":-45.8875,"d":"12"},{"i":"3546108","n":"Santa Clara d'Oeste","a":-20.09,"o":-50.9491,"d":"17"},{"i":"3546207","n":"Santa Cruz da Conceição","a":-22.1405,"o":-47.4512,"d":"19"},{"i":"3546256","n":"Santa Cruz da Esperança","a":-21.2951,"o":-47.4304,"d":"16"},{"i":"3546306","n":"Santa Cruz das Palmeiras","a":-21.8235,"o":-47.248,"d":"19"},{"i":"3546405","n":"Santa Cruz do Rio Pardo","a":-22.8988,"o":-49.6354,"d":"14"},{"i":"3546504","n":"Santa Ernestina","a":-21.4618,"o":-48.3953,"d":"16"},{"i":"3546603","n":"Santa Fé do Sul","a":-20.2083,"o":-50.932,"d":"17"},{"i":"3546702","n":"Santa Gertrudes","a":-22.4572,"o":-47.5272,"d":"19"},{"i":"3546801","n":"Santa Isabel","a":-23.3172,"o":-46.2237,"d":"11"},{"i":"3546900","n":"Santa Lúcia","a":-21.685,"o":-48.0885,"d":"16"},{"i":"3547007","n":"Santa Maria da Serra","a":-22.5661,"o":-48.1593,"d":"19"},{"i":"3547106","n":"Santa Mercedes","a":-21.3495,"o":-51.7564,"d":"18"},{"i":"3547403","n":"Santa Rita d'Oeste","a":-20.1414,"o":-50.8358,"d":"17"},{"i":"3547502","n":"Santa Rita do Passa Quatro","a":-21.7083,"o":-47.478,"d":"19"},{"i":"3547601","n":"Santa Rosa de Viterbo","a":-21.4776,"o":-47.3622,"d":"16"},{"i":"3547650","n":"Santa Salete","a":-20.2429,"o":-50.6887,"d":"17"},{"i":"3547205","n":"Santana da Ponte Pensa","a":-20.2523,"o":-50.8014,"d":"17"},{"i":"3547304","n":"Santana de Parnaíba","a":-23.4439,"o":-46.9178,"d":"11"},{"i":"3547700","n":"Santo Anastácio","a":-21.9747,"o":-51.6527,"d":"18"},{"i":"3547809","n":"Santo André","a":-23.6737,"o":-46.5432,"d":"11"},{"i":"3547908","n":"Santo Antônio da Alegria","a":-21.0864,"o":-47.1464,"d":"16"},{"i":"3548005","n":"Santo Antônio de Posse","a":-22.6029,"o":-46.9192,"d":"19"},{"i":"3548054","n":"Santo Antônio do Aracanguá","a":-20.9331,"o":-50.498,"d":"18"},{"i":"3548104","n":"Santo Antônio do Jardim","a":-22.1121,"o":-46.6845,"d":"19"},{"i":"3548203","n":"Santo Antônio do Pinhal","a":-22.827,"o":-45.663,"d":"12"},{"i":"3548302","n":"Santo Expedito","a":-21.8467,"o":-51.3929,"d":"18"},{"i":"3548401","n":"Santópolis do Aguapeí","a":-21.6376,"o":-50.5044,"d":"18"},{"i":"3548500","n":"Santos","a":-23.9535,"o":-46.335,"d":"13"},{"i":"3548609","n":"São Bento do Sapucaí","a":-22.6837,"o":-45.7287,"d":"12"},{"i":"3548708","n":"São Bernardo do Campo","a":-23.6914,"o":-46.5646,"d":"11"},{"i":"3548807","n":"São Caetano do Sul","a":-23.6229,"o":-46.5548,"d":"11"},{"i":"3548906","n":"São Carlos","a":-22.0174,"o":-47.886,"d":"16"},{"i":"3549003","n":"São Francisco","a":-20.3623,"o":-50.6952,"d":"17"},{"i":"3549102","n":"São João da Boa Vista","a":-21.9707,"o":-46.7944,"d":"19"},{"i":"3549201","n":"São João das Duas Pontes","a":-20.3879,"o":-50.3792,"d":"17"},{"i":"3549250","n":"São João de Iracema","a":-20.5111,"o":-50.3561,"d":"17"},{"i":"3549300","n":"São João do Pau d'Alho","a":-21.2662,"o":-51.6672,"d":"18"},{"i":"3549409","n":"São Joaquim da Barra","a":-20.5812,"o":-47.8593,"d":"16"},{"i":"3549508","n":"São José da Bela Vista","a":-20.5935,"o":-47.6424,"d":"16"},{"i":"3549607","n":"São José do Barreiro","a":-22.6414,"o":-44.5774,"d":"12"},{"i":"3549706","n":"São José do Rio Pardo","a":-21.5953,"o":-46.8873,"d":"19"},{"i":"3549805","n":"São José do Rio Preto","a":-20.8113,"o":-49.3758,"d":"17"},{"i":"3549904","n":"São José dos Campos","a":-23.1896,"o":-45.8841,"d":"12"},{"i":"3549953","n":"São Lourenço da Serra","a":-23.8491,"o":-46.9432,"d":"11"},{"i":"3550001","n":"São Luiz do Paraitinga","a":-23.222,"o":-45.3109,"d":"12"},{"i":"3550100","n":"São Manuel","a":-22.7321,"o":-48.5723,"d":"14"},{"i":"3550209","n":"São Miguel Arcanjo","a":-23.8782,"o":-47.9935,"d":"15"},{"i":"3550308","n":"São Paulo","a":-23.5329,"o":-46.6395,"d":"11"},{"i":"3550407","n":"São Pedro","a":-22.5483,"o":-47.9096,"d":"19"},{"i":"3550506","n":"São Pedro do Turvo","a":-22.7453,"o":-49.7428,"d":"14"},{"i":"3550605","n":"São Roque","a":-23.5226,"o":-47.1357,"d":"11"},{"i":"3550704","n":"São Sebastião","a":-23.7951,"o":-45.4143,"d":"12"},{"i":"3550803","n":"São Sebastião da Grama","a":-21.7041,"o":-46.8208,"d":"19"},{"i":"3550902","n":"São Simão","a":-21.4732,"o":-47.5518,"d":"16"},{"i":"3551009","n":"São Vicente","a":-23.9574,"o":-46.3883,"d":"13"},{"i":"3551108","n":"Sarapuí","a":-23.6397,"o":-47.8249,"d":"15"},{"i":"3551207","n":"Sarutaiá","a":-23.2721,"o":-49.4763,"d":"14"},{"i":"3551306","n":"Sebastianópolis do Sul","a":-20.6523,"o":-49.925,"d":"17"},{"i":"3551405","n":"Serra Azul","a":-21.3074,"o":-47.5602,"d":"16"},{"i":"3551603","n":"Serra Negra","a":-22.6139,"o":-46.7033,"d":"19"},{"i":"3551504","n":"Serrana","a":-21.2043,"o":-47.5952,"d":"16"},{"i":"3551702","n":"Sertãozinho","a":-21.1316,"o":-47.9875,"d":"16"},{"i":"3551801","n":"Sete Barras","a":-24.382,"o":-47.9279,"d":"13"},{"i":"3551900","n":"Severínia","a":-20.8108,"o":-48.8054,"d":"17"},{"i":"3552007","n":"Silveiras","a":-22.6638,"o":-44.8522,"d":"12"},{"i":"3552106","n":"Socorro","a":-22.5903,"o":-46.5251,"d":"19"},{"i":"3552205","n":"Sorocaba","a":-23.4969,"o":-47.4451,"d":"15"},{"i":"3552304","n":"Sud Mennucci","a":-20.6872,"o":-50.9238,"d":"18"},{"i":"3552403","n":"Sumaré","a":-22.8204,"o":-47.2728,"d":"19"},{"i":"3552551","n":"Suzanápolis","a":-20.4981,"o":-51.0268,"d":"18"},{"i":"3552502","n":"Suzano","a":-23.5448,"o":-46.3112,"d":"11"},{"i":"3552601","n":"Tabapuã","a":-20.9602,"o":-49.0307,"d":"17"},{"i":"3552700","n":"Tabatinga","a":-21.7239,"o":-48.6896,"d":"16"},{"i":"3552809","n":"Taboão da Serra","a":-23.6019,"o":-46.7526,"d":"11"},{"i":"3552908","n":"Taciba","a":-22.3866,"o":-51.2882,"d":"18"},{"i":"3553005","n":"Taguaí","a":-23.4452,"o":-49.4024,"d":"14"},{"i":"3553104","n":"Taiaçu","a":-21.1431,"o":-48.5112,"d":"16"},{"i":"3553203","n":"Taiúva","a":-21.1223,"o":-48.4528,"d":"16"},{"i":"3553302","n":"Tambaú","a":-21.7029,"o":-47.2703,"d":"19"},{"i":"3553401","n":"Tanabi","a":-20.6228,"o":-49.6563,"d":"17"},{"i":"3553500","n":"Tapiraí","a":-23.9612,"o":-47.5062,"d":"15"},{"i":"3553609","n":"Tapiratiba","a":-21.4713,"o":-46.7448,"d":"19"},{"i":"3553658","n":"Taquaral","a":-21.0737,"o":-48.4126,"d":"16"},{"i":"3553708","n":"Taquaritinga","a":-21.4049,"o":-48.5103,"d":"16"},{"i":"3553807","n":"Taquarituba","a":-23.5307,"o":-49.241,"d":"14"},{"i":"3553856","n":"Taquarivaí","a":-23.9211,"o":-48.6948,"d":"15"},{"i":"3553906","n":"Tarabai","a":-22.3016,"o":-51.5621,"d":"18"},{"i":"3553955","n":"Tarumã","a":-22.7429,"o":-50.5786,"d":"18"},{"i":"3554003","n":"Tatuí","a":-23.3487,"o":-47.8461,"d":"15"},{"i":"3554102","n":"Taubaté","a":-23.0104,"o":-45.5593,"d":"12"},{"i":"3554201","n":"Tejupá","a":-23.3425,"o":-49.3722,"d":"14"},{"i":"3554300","n":"Teodoro Sampaio","a":-22.5299,"o":-52.1682,"d":"18"},{"i":"3554409","n":"Terra Roxa","a":-20.787,"o":-48.3314,"d":"17"},{"i":"3554508","n":"Tietê","a":-23.1101,"o":-47.7164,"d":"15"},{"i":"3554607","n":"Timburi","a":-23.2057,"o":-49.6096,"d":"14"},{"i":"3554656","n":"Torre de Pedra","a":-23.2462,"o":-48.1955,"d":"15"},{"i":"3554706","n":"Torrinha","a":-22.4237,"o":-48.1731,"d":"14"},{"i":"3554755","n":"Trabiju","a":-22.0388,"o":-48.3342,"d":"16"},{"i":"3554805","n":"Tremembé","a":-22.9571,"o":-45.5475,"d":"12"},{"i":"3554904","n":"Três Fronteiras","a":-20.2344,"o":-50.8905,"d":"17"},{"i":"3554953","n":"Tuiuti","a":-22.8193,"o":-46.6937,"d":"11"},{"i":"3555000","n":"Tupã","a":-21.9335,"o":-50.5191,"d":"14"},{"i":"3555109","n":"Tupi Paulista","a":-21.3825,"o":-51.575,"d":"18"},{"i":"3555208","n":"Turiúba","a":-20.9428,"o":-50.1135,"d":"18"},{"i":"3555307","n":"Turmalina","a":-20.0486,"o":-50.4792,"d":"17"},{"i":"3555356","n":"Ubarana","a":-21.165,"o":-49.7198,"d":"17"},{"i":"3555406","n":"Ubatuba","a":-23.4332,"o":-45.0834,"d":"12"},{"i":"3555505","n":"Ubirajara","a":-22.5272,"o":-49.6613,"d":"14"},{"i":"3555604","n":"Uchoa","a":-20.9511,"o":-49.1713,"d":"17"},{"i":"3555703","n":"União Paulista","a":-20.8862,"o":-49.9025,"d":"17"},{"i":"3555802","n":"Urânia","a":-20.2455,"o":-50.6455,"d":"17"},{"i":"3555901","n":"Uru","a":-21.7866,"o":-49.2848,"d":"14"},{"i":"3556008","n":"Urupês","a":-21.2032,"o":-49.2931,"d":"17"},{"i":"3556107","n":"Valentim Gentil","a":-20.4217,"o":-50.0889,"d":"17"},{"i":"3556206","n":"Valinhos","a":-22.9698,"o":-46.9974,"d":"19"},{"i":"3556305","n":"Valparaíso","a":-21.2229,"o":-50.8699,"d":"18"},{"i":"3556354","n":"Vargem","a":-22.887,"o":-46.4124,"d":"11"},{"i":"3556404","n":"Vargem Grande do Sul","a":-21.8322,"o":-46.8913,"d":"19"},{"i":"3556453","n":"Vargem Grande Paulista","a":-23.5993,"o":-47.022,"d":"11"},{"i":"3556503","n":"Várzea Paulista","a":-23.2136,"o":-46.8234,"d":"11"},{"i":"3556602","n":"Vera Cruz","a":-22.2183,"o":-49.8207,"d":"14"},{"i":"3556701","n":"Vinhedo","a":-23.0302,"o":-46.9833,"d":"19"},{"i":"3556800","n":"Viradouro","a":-20.8734,"o":-48.293,"d":"17"},{"i":"3556909","n":"Vista Alegre do Alto","a":-21.1692,"o":-48.6284,"d":"16"},{"i":"3556958","n":"Vitória Brasil","a":-20.1956,"o":-50.4875,"d":"17"},{"i":"3557006","n":"Votorantim","a":-23.5446,"o":-47.4388,"d":"15"},{"i":"3557105","n":"Votuporanga","a":-20.4237,"o":-49.9781,"d":"17"},{"i":"3557154","n":"Zacarias","a":-21.0506,"o":-50.0552,"d":"18"}];
+</script>
+<script>
+(function(){
+  var REGN={"11":"Grande São Paulo","12":"Vale do Paraíba e Litoral Norte","13":"Baixada Santista e Vale do Ribeira","14":"Bauru, Marília e Jaú","15":"Sorocaba e Itapetininga","16":"Ribeirão Preto, Franca e Araraquara","17":"São José do Rio Preto e Barretos","18":"Presidente Prudente e Araçatuba","19":"Campinas e Piracicaba"};
+  var S={
+    TSE:"https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/em-sao-paulo-tarcisio-de-freitas-e-eleito-governador-no-1o-turno",
+    TRE:"https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-guilherme-derrite-pp-e-andre-do-prado-pl-sao-eleitos-senadores-por-sao-paulo",
+    SUS:"https://www.correiodamanha.com.br/nacional/sao-paulo/estado-de-sao-paulo/2026/09/323554-tabela-sus-paulista-chega-a-rs-12-bilhoes-em-repasses-para-hospitais-do-estado.html",
+    BRT:"https://www.dgabc.com.br/Noticia/4347922/tarcisio-destaca-obras-e-investimentos-no-grande-abc-",
+    CAMP:"https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/2026/09/317013-ampinas-e-destaque-em-plano-de-rs-500-bi-em-obras-de-tarcisio.html",
+    SAB15:"https://www.dgabc.com.br/Noticia/4344910/tarcisio-diz-que-tarifa-da-sabesp-hoje-e-15-abaixo-do-que-seria-sem-privatizacao",
+    SABMC:"https://mercadoeconsumo.com.br/18/08/2026/economia/tarcisio-sobre-sabesp-tarifas-sempre-vao-subir-mas-menos-do-que-se-fosse-empresa-publica/",
+    CONTAS:"https://www.pirajuiradioclube.com.br/noticia/tarcisio-encerra-mandato-com-piora-gradativa-nas-contas",
+    IDEB:"https://www.correiodamanha.com.br/nacional/sao-paulo/estado-de-sao-paulo/2026/08/amp/308792-ideb-2025-ensino-medio-de-sp-cai-para-11-lugar-entre-os-estados.html",
+    L6:"https://diariodotransporte.com.br/2026/06/30/linha-6-laranja-inicia-operacao-assistida-nesta-semana-com-viagens-gratuitas-investimento-total-e-de-r-19-bilhoes/",
+    RIB:"https://www.correiodamanha.com.br/nacional/sao-paulo/estado-de-sao-paulo/2026/05/287947-governo-investe-rs-14-bi-em-obras-no-vale-do-ribeira.html",
+    VALE:"https://www.abcdoabc.com.br/caravana-3d-561-milhoes-vale-do-paraiba/",
+    CNNREP:"https://www.cnnbrasil.com.br/eleicoes/tarcisio-mobiliza-equipe-e-acelera-repasses-antes-de-prazo-eleitoral/",
+    SARESP:"https://jornaldebrasilia.com.br/noticias/brasil/nota-em-portugues-de-sp-cresce-mas-nao-retoma-patamar-de-2022-ano-anterior-a-gestao-tarcisio/",
+    CRACK:"https://www.metropoles.com/sao-paulo/tarcisio-fim-da-cracolandia-acabou",
+    FREE:"https://www.gazetadopovo.com.br/sao-paulo/sob-protesto-pedagio-free-flow-vira-dor-de-cabeca-para-tarcisio/",
+    TUNEL:"https://www.poder360.com.br/poder-infra/portugueses-vencem-leilao-do-tunel-submerso-santos-guaruja/",
+    CARB:"https://mercadoeconsumo.com.br/28/08/2025/economia/tarcisio-elogia-operacao-na-faria-lima-e-diz-que-trabalho-se-expandiu-a-partir-de-sp/",
+    CAM:"https://www.brasildefato.com.br/2025/05/12/stf-homologa-acordo-que-permite-que-cameras-da-pm-de-tarcisio-nao-facam-gravacao-ininterrupta/",
+    CPTM:"https://lexlegal.com.br/?p=17953",
+    SORO:"https://abcdoabc.com.br/sp-entrega-mais-de-mil-moradias-na-regiao-de-sorocaba/",
+    ENEL:"https://mercadoeconsumo.com.br/16/10/2024/economia/apagao-em-sp-tarcisio-e-prefeitos-pedem-ao-tcu-intervencao-na-enel-ou-fim-do-contrato/",
+    DEC:"https://www.al.sp.gov.br/repositorio/legislacao/decreto/2024/decreto-68805-24.08.2024.html",
+    BAURU:"https://semil.sp.gov.br/2024/08/governo-de-sp-executa-acoes-de-apoio-a-cidade-de-bauru-para-enfrentamento-da-estiagem/",
+    VERAO:"https://almapreta.com.br/sessao/cotidiano/operacao-verao-sp-anuncia-fim-da-2a-operacao-mais-letal-desde-o-carandiru/",
+    TIC:"https://diariodotransporte.com.br/2024/03/01/tic-grupo-comporte-c2-mobilidade-sobre-trilhos-vence-leilao-do-tic-trem-intercidades-entre-sao-paulo-e-campinas-via-jundiai-nesta-quinta-29-desconto-so-de-001/",
+    SAHY:"https://www.bnews.com.br/noticias/politica/com-atraso-de-6-meses-tarcisio-entrega-casas-para-vitimas-das-chuvas-em-sao-sebastiao.html",
+    ESCUDO:"https://www.metropoles.com/sao-paulo/apos-40-dias-tarcisio-encerra-operacao-que-matou-28-no-litoral-de-sp",
+    CONV:"https://netcpa.com.br/colunas/apos-boom-eleitoral-convenios-caem-em-sp-e-prefeitos-cobram-tarcisio/18827",
+    CALAM:"https://www.poder360.com.br/brasil/tarcisio-decreta-estado-de-calamidade-publica-em-6-municipios/",
+    BPM:"https://bpmoney.com.br/politica/tarcisio-plano-governo-reeleicao-periferias-escolas-civico-militares/",
+    BNW:"https://www.bnewssaopaulo.com.br/noticias/politica/conheca-as-propostas-de-tarcisio-para-o-segundo-mandato-em-sao-paulo.html",
+    SBT:"https://sbtnews.sbt.com.br/noticia/politica/plano-preliminar-de-tarcisio-fala-em-prosperidade-e-10-eixos",
+    TERRA:"https://www.terra.com.br/amp/noticias/brasil/politica/tarcisio-diz-que-errou-e-acertou-no-governo-e-ve-seguranca-publica-como-grande-desafio-de-sp,89aae822cda6ae9b758b6b92ae640720mt3j6kte.html",
+    GAZ:"https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/plano-de-governo-tarcisio-de-freitas/"
+  };
+  var PAPERS={
+    "11":[["Diário do Grande ABC","https://www.dgabc.com.br/","ABC paulista"],["O Diário de Mogi","https://www.odiariodemogi.net.br/","Alto Tietê"],["Tribuna de Jundiaí","https://tribunadejundiai.com.br/","Jundiaí e região"],["Gazeta de S.Paulo","https://www.gazetasp.com.br/","Capital e estado"],["Metrópoles São Paulo","https://www.metropoles.com/sao-paulo","Capital e estado"]],
+    "12":[["Meon","https://www.meon.com.br/","Vale do Paraíba e Litoral Norte"],["NetCampos","https://www.netcampos.com/","São José dos Campos"],["Portal Aqui Vale","https://portalaquivale.com.br/","Vale do Paraíba"]],
+    "13":[["A Tribuna","https://www.atribuna.com.br/","Baixada Santista"],["Diário do Litoral","https://www.diariodolitoral.com.br/","Baixada Santista e litoral"]],
+    "14":[["Marília Notícia","https://marilianoticia.com.br/","Marília, Bauru e região"]],
+    "15":[["Jornal Cruzeiro do Sul","https://www.jornalcruzeiro.com.br/","Sorocaba e região"]],
+    "16":[["ACidade ON Ribeirão Preto","https://www.acidadeon.com/ribeiraopreto/","Ribeirão Preto e região"]],
+    "17":[["Diário da Região","https://www.diariodaregiao.com.br/","Rio Preto e noroeste"],["Gazeta de Rio Preto","https://www.gazetaderiopreto.com.br/","São José do Rio Preto"],["A Cidade (Votuporanga)","https://acidadevotuporanga.com.br/","Votuporanga"],["Diário de Votuporanga","https://diariodevotuporanga.com.br/","Votuporanga"],["Informa Noroeste","https://informanoroeste.com.br/","Noroeste paulista"]],
+    "18":[["O Imparcial","https://www.imparcial.com.br/","Presidente Prudente e Oeste Paulista"]],
+    "19":[["ACidade ON Campinas","https://www.acidadeon.com/campinas/","Campinas e região"]]
+  };
+  var STATEPAPERS=[["Agência Brasil","https://agenciabrasil.ebc.com.br/"],["Metrópoles São Paulo","https://www.metropoles.com/sao-paulo"],["Gazeta de S.Paulo","https://www.gazetasp.com.br/"],["Correio da Manhã (SP)","https://www.correiodamanha.com.br/nacional/sao-paulo"],["Assembleia Legislativa (Alesp)","https://www.al.sp.gov.br/"]];
+  var CITYP={"Votuporanga":["A Cidade (Votuporanga)","Diário de Votuporanga"],"São José do Rio Preto":["Gazeta de Rio Preto","Diário da Região"],"São José dos Campos":["NetCampos","Meon"],"Mogi das Cruzes":["O Diário de Mogi"],"Jundiaí":["Tribuna de Jundiaí"],"Santos":["A Tribuna","Diário do Litoral"],"Marília":["Marília Notícia"],"Sorocaba":["Jornal Cruzeiro do Sul"],"Ribeirão Preto":["ACidade ON Ribeirão Preto"],"Campinas":["ACidade ON Campinas"],"Presidente Prudente":["O Imparcial"],"Santo André":["Diário do Grande ABC"],"São Bernardo do Campo":["Diário do Grande ABC"],"São Caetano do Sul":["Diário do Grande ABC"],"Mauá":["Diário do Grande ABC"],"Diadema":["Diário do Grande ABC"],"Ribeirão Pires":["Diário do Grande ABC"],"Rio Grande da Serra":["Diário do Grande ABC"],"Suzano":["O Diário de Mogi"],"Taubaté":["Meon"]};
+  function papersFor(m){
+    var all={};Object.keys(PAPERS).forEach(function(k){PAPERS[k].forEach(function(p){all[p[0]]=p;});});
+    var own=(CITYP[m.n]||[]).map(function(n){return all[n];}).filter(Boolean);
+    var reg=(PAPERS[m.d]||[]).filter(function(p){return own.indexOf(p)<0;});
+    return {own:own,reg:reg};
+  }
+  function alesp(n,d){return "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-"+n+"-"+d+".html";}
+  var FIRE=["Águas da Prata","Alumínio","Amparo","Bananal","Bebedouro","Bernardino de Campos","Boa Esperança do Sul","Brodowski","Coronel Macedo","Dourado","Iacanga","Ibitinga","Itápolis","Itirapina","Jaú","Lucélia","Luís Antônio","Monte Alegre do Sul","Monte Azul Paulista","Morro Agudo","Nova Granada","Pedregulho","Piracicaba","Pirapora do Bom Jesus","Pitangueiras","Poloni","Pompéia","Pontal","Presidente Epitácio","Ribeirão Preto","Rosana","Sabino","Salmourão","Santo Antônio da Alegria","Santo Antônio do Aracanguá","São José do Rio Preto","São Luiz do Paraitinga","São Simão","Sertãozinho","Tabatinga","Taquarituba","Torrinha","Ubarana","Urupês","Valentim Gentil"];
+  function hom(city,est,estD,url,mun,munD){return {d:estD,t:"Estado reconhece situação de emergência em "+city,p:"A prefeitura declarou emergência no Decreto municipal nº "+mun+", de "+munD+". O Decreto estadual nº "+est+" homologa a medida por 180 dias e autoriza os órgãos do estado a apoiar a população atingida.",tema:"Decretos",s:"decreto",c:[city],src:"Alesp, íntegra do decreto",u:url,num:"Nº "+est,org:"Estado"};}
+  var BASE=[
+    {d:"2026-10-04",t:"Tarcísio é reeleito no 1º turno com 62,65% dos votos",p:"Foram 14.491.874 votos. Haddad teve 36,42%. É a primeira decisão em 1º turno no estado desde 2014.",tema:"Eleições",s:"fato",c:[],src:"TSE",u:S.TSE},
+    {d:"2026-10-04",t:"Derrite e André do Prado são eleitos senadores por SP",p:"Os dois são do campo político do governador.",tema:"Eleições",s:"fato",c:[],src:"TRE-SP",u:S.TRE},
+    {d:"2026-09-30",t:"Tabela SUS Paulista chega a R$ 12 bilhões em repasses",p:"São 874 unidades. Os hospitais municipais incluídos passaram de 66 para 73, entre eles três em Santos e os de Arujá, Mongaguá, Queluz e Itaberá.",tema:"Saúde",s:"entregue",c:["Santos","Arujá","Mongaguá","Queluz","Itaberá"],src:"Correio da Manhã",u:S.SUS},
+    {d:"2026-09-19",t:"Tarcísio ameaça romper contrato do BRT-ABC",p:"A obra começou em 2022 com previsão de 18 meses e foi adiada seis vezes. \"Se não for entregue, caminharemos para a caducidade.\"",tema:"Transporte",s:"alerta",c:["Ribeirão Pires","São Caetano do Sul","Santo André","São Bernardo do Campo","Mauá"],src:"DGABC",u:S.BRT},
+    hom("Juquitiba","70.878","2026-09-18",alesp("70878","18.09.2026"),"52","15/09/2026"),
+    hom("Iguape","70.875","2026-09-16",alesp("70875","16.09.2026"),"3.525","14/09/2026"),
+    hom("Itaquaquecetuba","70.877","2026-09-16",alesp("70877","16.09.2026"),"8.753","15/09/2026"),
+    hom("Registro","70.873","2026-09-14",alesp("70873","14.09.2026"),"4.330","14/09/2026"),
+    hom("Barra do Turvo","70.870","2026-09-14",alesp("70870","14.09.2026"),"2.410","13/09/2026"),
+    hom("Piracaia","70.869","2026-09-14",alesp("70869","14.09.2026"),"5.858","31/08/2026"),
+    hom("Eldorado","70.858","2026-09-13",alesp("70858","13.09.2026"),"1.479","13/09/2026"),
+    hom("Itararé","70.854","2026-09-10",alesp("70854","10.09.2026"),"878","31/08/2026"),
+    hom("Dumont","70.768","2026-07-27",alesp("70768","27.07.2026"),"2.584","24/07/2026"),
+    hom("Taquaritinga","70.769","2026-07-27",alesp("70769","27.07.2026"),"6.022","24/07/2026"),
+    hom("Guariba","70.765","2026-07-24",alesp("70765","24.07.2026"),"5.019","24/07/2026"),
+    {d:"2026-01-20",t:"Itapevi define feriados e pontos facultativos de 2026",p:"O decreto lista os dias sem expediente nas repartições municipais, incluindo o aniversário da cidade, em 18 de fevereiro, e o dia do padroeiro, em 28 de outubro.",tema:"Decretos",s:"decreto",c:["Itapevi"],src:"Prefeitura de Itapevi",u:"https://itapevi.sp.gov.br/wp-content/uploads/2026/05/decreto-6.022-de-2026-pontos-facultativos-e-feriados-de-2026.pdf",num:"Nº 6.022",org:"Prefeitura"},
+    {d:"2025-12-11",t:"Paraguaçu Paulista fixa o calendário de impostos de 2026",p:"O IPTU pode ser pago em até 10 parcelas, de março a dezembro. Quem pagar à vista até 10 de março e estiver em dia tem 15% de desconto; os demais, 10%.",tema:"Decretos",s:"decreto",c:["Paraguaçu Paulista"],src:"Prefeitura de Paraguaçu Paulista",u:"https://eparaguacu.sp.gov.br/legislacao/download-lei/5549",num:"Nº 7.445",org:"Prefeitura"},
+    {d:"2026-09-05",t:"Governo apresenta em Campinas plano de R$ 500 bi em obras",p:"Inclui o Trem Intercidades e as barragens de Pedreira e Amparo, de cerca de R$ 2 bi.",tema:"Investimentos",s:"anunciado",c:["Campinas","Pedreira","Amparo","Mogi Guaçu"],src:"Correio da Manhã",u:S.CAMP},
+    {d:"2026-09-03",t:"Governador diz que tarifa da Sabesp está 15% abaixo do cenário sem privatização",p:"O número é uma estimativa do governo, não um dado que dá para conferir na conta. O reajuste médio de 2026 foi de cerca de 6,5%.",tema:"Saneamento",s:"fato",c:[],src:"DGABC",u:S.SAB15},
+    {d:"2026-08-25",t:"Estado teve déficit de R$ 12,2 bilhões em 2025",p:"É o pior resultado desde 1995 em proporção do orçamento, segundo levantamento da Folha. O governo diz que o cenário é benigno.",tema:"Contas públicas",s:"alerta",c:[],src:"Folha, via Pirajuí Rádio Clube",u:S.CONTAS},
+    {d:"2026-08-18",t:"Cajamar, Francisco Morato e Franco da Rocha chegam a 70% de esgoto tratado, diz governador",p:"Segundo Tarcísio, as três cidades partiram de zero em 2022. Poá, Caieiras e São Bento do Sapucaí tiveram ampliação de água.",tema:"Saneamento",s:"entregue",c:["Cajamar","Francisco Morato","Franco da Rocha","Poá","Caieiras","São Bento do Sapucaí"],src:"Mercado&Consumo",u:S.SABMC},
+    {d:"2026-08-05",t:"Ideb 2025: ensino médio estadual sobe para 4,3, mas SP fica fora do top 10",p:"Em 2023 o índice tinha caído para 4,2, o pior desde 2017.",tema:"Educação",s:"fato",c:[],src:"Correio da Manhã",u:S.IDEB},
+    {d:"2026-07-02",t:"Linha 6-Laranja abre as seis primeiras estações",p:"Trecho João Paulo I–Perdizes em operação assistida. A linha completa terá 15 estações e custa R$ 19 bi.",tema:"Transporte",s:"entregue",c:["São Paulo"],src:"Diário do Transporte",u:S.L6},
+    {d:"2026-05-22",t:"Pacote de R$ 1,4 bi é anunciado para o Vale do Ribeira",p:"Do total, R$ 1,35 bi são investimentos da Sabesp até 2029. Destaques: Ilha Comprida (R$ 549 mi) e Iguape (R$ 240,6 mi).",tema:"Investimentos",s:"anunciado",c:["Ilha Comprida","Iguape","Pariquera-Açu","Registro","Cajati","Sete Barras","Miracatu","Cananéia","Pedro de Toledo"],src:"Correio da Manhã",u:S.RIB},
+    {d:"2026-04-02",t:"Caravana anuncia R$ 561,7 milhões para 39 cidades do Vale do Paraíba",p:"Inclui a Linha Verde em São José dos Campos (R$ 127 mi), o complexo materno-infantil de Taubaté e o pronto-socorro de Campos do Jordão.",tema:"Investimentos",s:"anunciado",c:["São José dos Campos","Taubaté","Campos do Jordão"],src:"ABC do ABC",u:S.VALE},
+    {d:"2026-04-01",t:"Governo acelera convênios com prefeituras antes do prazo eleitoral",p:"Caravanas em Campos do Jordão e em Campinas, esta com cerca de 90 prefeitos.",tema:"Investimentos",s:"fato",c:["Campos do Jordão","Campinas"],src:"CNN Brasil",u:S.CNNREP},
+    {d:"2026-02-25",t:"Saresp 2025: recorde em matemática no 9º ano, português abaixo de 2019",p:"Matemática 260,3 e português 243,0. A frequência escolar subiu para cerca de 90%.",tema:"Educação",s:"fato",c:[],src:"Jornal de Brasília/Estadão",u:S.SARESP},
+    {d:"2025-11-13",t:"Tarcísio declara que a Cracolândia \"acabou\"",p:"Reportagens mostram usuários espalhados por outros pontos da cidade.",tema:"Segurança",s:"alerta",c:["São Paulo"],src:"Metrópoles",u:S.CRACK},
+    {d:"2025-11-12",t:"Governo suspende ao menos 12 pedágios free flow após protestos",p:"O plano previa 58 pórticos até 2030. Mogi das Cruzes e Cotia lideraram a reação.",tema:"Pedágio",s:"alerta",c:["Mogi das Cruzes","Cotia","Sorocaba"],src:"Gazeta do Povo",u:S.FREE},
+    {d:"2025-09-05",t:"Mota-Engil vence leilão do túnel Santos–Guarujá",p:"PPP de 30 anos com estado e União. A travessia deve cair para 5 minutos.",tema:"Transporte",s:"obra",c:["Santos","Guarujá"],src:"Poder360",u:S.TUNEL},
+    {d:"2025-08-28",t:"Operação Carbono Oculto mira esquema do PCC nos combustíveis",p:"Foram 1.400 agentes e 350 alvos em dez estados, 42 deles na Faria Lima.",tema:"Segurança",s:"fato",c:["São Paulo"],src:"Mercado&Consumo",u:S.CARB},
+    {d:"2025-05-12",t:"STF homologa acordo sobre câmeras corporais da PM",p:"As câmeras passam de 10 mil para 15 mil, mas a gravação deixa de ser ininterrupta.",tema:"Segurança",s:"fato",c:[],src:"Brasil de Fato",u:S.CAM},
+    {d:"2025-03-28",t:"Linhas 11, 12 e 13 da CPTM vão para a iniciativa privada",p:"O Grupo Comporte venceu com R$ 14,3 bi previstos. Haverá extensões até César de Sousa, Suzano e Bonsucesso.",tema:"Transporte",s:"obra",c:["Mogi das Cruzes","Suzano","Guarulhos","Poá","Itaquaquecetuba","Ferraz de Vasconcelos"],src:"Lex Legal",u:S.CPTM},
+    {d:"2024-11-12",t:"1.139 famílias recebem casas na região de Sorocaba",p:"Foram 689 em Itapetininga, 222 em São Miguel Arcanjo e 228 em Tatuí.",tema:"Habitação",s:"entregue",c:["Itapetininga","São Miguel Arcanjo","Tatuí"],src:"ABC do ABC",u:S.SORO},
+    {d:"2024-11-12",t:"Hospital Regional de Itapetininga: R$ 295 milhões e 246 leitos",p:"Vai atender 13 cidades. A entrega está prevista para o fim de 2026.",tema:"Saúde",s:"obra",c:["Itapetininga"],src:"ABC do ABC",u:S.SORO},
+    {d:"2024-10-15",t:"Tarcísio e prefeitos pedem ao TCU intervenção na Enel",p:"Depois do temporal de 11 de outubro. \"A Enel não merece estar em São Paulo.\"",tema:"Energia",s:"alerta",c:["São Paulo"],src:"Mercado&Consumo",u:S.ENEL},
+    {d:"2024-08-24",t:"Emergência em 45 cidades atingidas por incêndios",p:"O decreto estadual vale por 180 dias e alcança do Vale do Paraíba ao Pontal do Paranapanema, de Bananal a Rosana.",tema:"Decretos",s:"decreto",c:FIRE,src:"Alesp, íntegra do decreto",u:S.DEC,num:"Nº 68.805",org:"Estado"},
+    {d:"2024-08",t:"Estado apoia Bauru na estiagem",p:"A cidade adotou racionamento de água. O estado fez o desassoreamento do Rio Batalha.",tema:"Água",s:"alerta",c:["Bauru"],src:"Semil",u:S.BAURU},
+    {d:"2024-04-01",t:"Operação Verão termina com 56 mortos pela polícia",p:"Apontada como a mais letal do estado desde o Carandiru.",tema:"Segurança",s:"alerta",c:["Santos","Guarujá","São Vicente"],src:"Alma Preta",u:S.VERAO},
+    {d:"2024-02-29",t:"Trem Intercidades SP–Campinas é leiloado",p:"Consórcio C2 Mobilidade, com lance único. Viagem de 1h04 e conclusão prevista para 2031.",tema:"Transporte",s:"obra",c:["Campinas","Jundiaí","Louveira","Vinhedo","Valinhos"],src:"Diário do Transporte",u:S.TIC},
+    {d:"2024-02-03",t:"Casas para vítimas das chuvas são entregues com seis meses de atraso",p:"Foram 186 casas na Vila Sahy. A promessa era de 704 moradias até agosto de 2023.",tema:"Habitação",s:"alerta",c:["São Sebastião"],src:"BNews",u:S.SAHY},
+    {d:"2023-09",t:"Operação Escudo termina com 28 mortos na Baixada",p:"Durou cerca de 40 dias, depois da morte de um soldado da Rota no Guarujá.",tema:"Segurança",s:"alerta",c:["Guarujá","Santos"],src:"Metrópoles",u:S.ESCUDO},
+    {d:"2023-08-31",t:"Convênios com prefeituras caem 81% no início do governo",p:"Foram R$ 375 mi de janeiro a julho de 2023, contra R$ 2 bi no mesmo período de 2022.",tema:"Investimentos",s:"alerta",c:[],src:"Portal CPA",u:S.CONV},
+    {d:"2023-02-19",t:"Calamidade pública em seis cidades do litoral",p:"Decreto estadual de 180 dias depois da chuva que matou 65 pessoas.",tema:"Decretos",s:"decreto",c:["Guarujá","Bertioga","São Sebastião","Caraguatatuba","Ilhabela","Ubatuba"],src:"Poder360",u:S.CALAM,num:"Fev. 2023",org:"Estado"}
+  ];
+  var PROM=[
+    ["Segurança","p01","Criar o SP CIN, centro que integra os dados das polícias e responde em tempo real","Até 2030","BNW"],
+    ["Segurança","p02","Ampliar o Muralha Paulista, inclusive com acordos com empresas","Até 2030","BNW"],
+    ["Segurança","p03","Ampliar as câmeras com reconhecimento facial","Até 2030","BPM"],
+    ["Segurança","p04","Criar batalhão de motos para áreas de difícil acesso","Até 2030","BPM"],
+    ["Segurança","p05","Levar a outras cidades o modelo integrado de segurança de Santos (Riesp)","Até 2030","BPM"],
+    ["Segurança","p06","Registro único de cada ocorrência entre as polícias","Até 2030","BPM"],
+    ["Segurança","p07","Investigação financeira contra facções e lavagem de dinheiro","Até 2030","BNW"],
+    ["Segurança","p08","Casas da Polícia unindo Guarda Civil, PM e Polícia Civil","Até 2030","TERRA"],
+    ["Segurança","p09","Programa permanente de controle de distúrbios civis","Até 2030","BPM"],
+    ["Saúde","p10","Aumentar os teleatendimentos (SP Inova Saúde)","+40%","BNW"],
+    ["Saúde","p11","Histórico clínico digital unificado do SUS no estado","Até 2030","BNW"],
+    ["Saúde","p12","95% de cobertura nas vacinas monitoradas","80% dos municípios até 2030","BPM"],
+    ["Saúde","p13","Levar a Tabela SUS Paulista a mais hospitais municipais e à terapia renal","Até 2030","BPM"],
+    ["Saúde","p14","Programa estadual de saúde mental","Até 2030","BNW"],
+    ["Saúde","p15","Centros regionais para tratamento de crack e outras drogas","Até 2030","BNW"],
+    ["Saúde","p16","Reduzir as filas do SUS","Sem número","BNW"],
+    ["Saúde","p17","Regulamentar a lei estadual de cuidado no climatério e na menopausa","Até 2030","BPM"],
+    ["Educação","p18","Crianças alfabetizadas na idade certa","90% até o fim de 2030","BNW"],
+    ["Educação","p19","Ensino técnico no ensino médio","60% dos alunos","BPM"],
+    ["Educação","p20","Reforço e tutoria em português e matemática","Até 2030","BNW"],
+    ["Educação","p21","Inteligência artificial e educação financeira no currículo","Até 2030","BNW"],
+    ["Educação","p22","Expandir as escolas cívico-militares","Sem número","GAZ"],
+    ["Educação","p23","Expandir o ensino integral","Sem número","BNW"],
+    ["Educação","p24","Manter o Provão Paulista e criar intercâmbio para estudantes","Até 2030","BNW"],
+    ["Transporte","p25","Concluir o Trem Intercidades São Paulo–Campinas","2031","CAMP"],
+    ["Transporte","p26","Concluir o túnel Santos–Guarujá","Até 2030","BNW"],
+    ["Transporte","p27","Concluir a Linha 6-Laranja do metrô","Até 2030","L6"],
+    ["Transporte","p28","Novo programa de metrô, trens, VLTs e BRTs","Até 2030","BNW"],
+    ["Transporte","p29","Terminal de ônibus integrado à Estação da Luz","Até 2030","BNW"],
+    ["Clima e saneamento","p30","Antecipar a universalização do saneamento e ampliar a tarifa social","Antes de 2029","BPM"],
+    ["Clima e saneamento","p31","Obras de drenagem e desassoreamento contra enchentes","Até 2030","BNW"],
+    ["Clima e saneamento","p32","Despoluição do Rio Tietê","Até 2030","BNW"],
+    ["Clima e saneamento","p33","Barragens de Pedreira e Amparo","Cerca de R$ 2 bi","CAMP"],
+    ["Economia e gestão","p34","Vender o restante das ações da Sabesp","Até 2030","BNW"],
+    ["Economia e gestão","p35","Conceder ou privatizar portos e aeroportos","Até 2030","BNW"],
+    ["Economia e gestão","p36","Novo centro administrativo nos Campos Elíseos para 22 mil servidores","R$ 6 bi","BPM"],
+    ["Mulheres e famílias","p37","Crédito, capacitação e vouchers de creche para mães empreendedoras","Até 2030","BPM"],
+    ["Mulheres e famílias","p38","Reforçar o combate à violência contra a mulher","Sem número","BNW"]
+  ];
+  var PST={acompanhar:"Em acompanhamento",andamento:"Em andamento",cumprido:"Cumprido",atrasado:"Atrasado",naocumprido:"Não cumprido"};
+  var PCOL={cumprido:"var(--ok)",andamento:"var(--obra)",acompanhar:"var(--anun)",atrasado:"var(--alert)",naocumprido:"var(--dec)"};
+  var LBL={entregue:"Entregue",obra:"Em obra",anunciado:"Anunciado",alerta:"Alerta",decreto:"Decreto",fato:"Fato"};
+  var MES=["jan.","fev.","mar.","abr.","mai.","jun.","jul.","ago.","set.","out.","nov.","dez."];
+  function fmt(d){var p=String(d).split("-");if(p.length<2)return "";return (p[2]?(+p[2])+" ":"")+MES[+p[1]-1]+" "+p[0];}
+  function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+  function norm(s){return s.normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase().replace(/[^a-z0-9 ]/g," ").replace(/\s+/g," ").trim();}
+  function safeUrl(u){return typeof u==="string"&&/^https:\/\//.test(u)?u:null;}
+
+  var byName={},byCode={};
+  MUN.forEach(function(m){m.k=norm(m.n);byName[m.n]=m;byCode[m.i]=m;});
+  var LIVE=[],N=[],PSTATE={},canEdit=false,dbRef=null,todayISO=new Date().toISOString().slice(0,10);
+
+  function rebuild(){
+    var seen={};N=[];
+    LIVE.concat(BASE).forEach(function(n){if(seen[n.u+"|"+n.t])return;seen[n.u+"|"+n.t]=1;N.push(n);});
+    N.sort(function(a,b){var x=a.d+(a.h||''),y=b.d+(b.h||'');return x<y?1:(x>y?-1:0);});
+    N.forEach(function(n,ix){n.ix=ix;});
+    MUN.forEach(function(m){m.rec=[];});
+    N.forEach(function(n){n.c.forEach(function(c){if(byName[c])byName[c].rec.push(n);});});
+    document.getElementById("fRec").textContent=N.length;
+    document.getElementById("fCov").textContent=MUN.filter(function(m){return m.rec.length;}).length;
+    temas=["Todos"];N.forEach(function(n){if(temas.indexOf(n.tema)<0)temas.push(n.tema);});
+    drawWire();drawTemas();drawPaper();drawRegBars();drawDecs();drawRegions();drawMap(cv,mapOpts());
+    if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);
+  }
+
+  function cityBtns(list,max){
+    max=max||6;if(!list.length)return '<span>Estado todo</span>';
+    var shown=list.slice(0,max).map(function(c){return byName[c]?'<button type="button" data-city="'+byName[c].i+'">'+esc(c)+'</button>':esc(c);}).join(", ");
+    return shown+(list.length>max?' <span>e mais '+(list.length-max)+'</span>':'');
+  }
+  function isNew(n){return n.live&&n.added&&(Date.now()-n.added)<36*3600e3;}
+  function storyHTML(n,lead){
+    var by='<div class="byline">'+(isNew(n)?'<span class="tag t-novo">Novo</span>':'')+'<span class="tag t-'+n.s+'">'+LBL[n.s]+'</span><time>'+fmt(n.d)+'</time><span>'+esc(n.tema)+'</span><span>Fonte: '+esc(n.src)+'</span>'+(n.auto?'<span>· trecho do jornal, coletado automaticamente</span>':'')+'</div>';
+    var h='<h3><a class="hl" href="'+esc(n.u)+'" target="_blank" rel="noopener">'+esc(n.t)+'</a></h3>';
+    var cities='<div class="cities">'+cityBtns(n.c)+'</div>';
+    var read='<a class="readlink" href="'+esc(n.u)+'" target="_blank" rel="noopener">'+(n.s==="decreto"?"Ler na íntegra →":"Ler a reportagem →")+'</a>';
+    return '<article class="'+(lead?"lead-story":"story")+'">'+by+h+'<p>'+esc(n.p)+'</p>'+cities+read+'</article>';
+  }
+  function drawWire(){document.getElementById("wire").innerHTML=N.slice(0,10).map(function(n){return '<a href="'+esc(n.u)+'" target="_blank" rel="noopener"><time>'+fmt(n.d)+'</time>'+esc(n.t)+'</a>';}).join("");}
+
+  var temas=["Todos"],st={tema:"Todos",reg:"todas",dec:"Todos"};
+  try{var sv=localStorage.getItem("ph-tema");if(sv)st.tema=sv;}catch(e){}
+  var tEl=document.getElementById("temas");
+  function drawTemas(){if(temas.indexOf(st.tema)<0)st.tema="Todos";tEl.innerHTML=temas.map(function(t){return '<button class="chip" type="button" data-tema="'+esc(t)+'" aria-pressed="'+(t===st.tema)+'">'+esc(t)+'</button>';}).join("");}
+  tEl.addEventListener("click",function(e){var b=e.target.closest("[data-tema]");if(!b)return;st.tema=b.getAttribute("data-tema");try{localStorage.setItem("ph-tema",st.tema);}catch(err){}drawTemas();drawPaper();});
+  var rs=document.getElementById("regSel");
+  rs.innerHTML='<option value="todas">Todas as regiões</option>'+Object.keys(REGN).map(function(k){return '<option value="'+k+'">'+esc(REGN[k])+' ('+k+')</option>';}).join("");
+  rs.addEventListener("change",function(){setReg(rs.value==="todas"?null:rs.value);});
+  function inReg(n,r){return n.c.some(function(c){return byName[c]&&byName[c].d===r;});}
+  function drawPaper(){
+    var list=N.filter(function(n){if(st.tema!=="Todos"&&n.tema!==st.tema)return false;if(st.reg!=="todas")return inReg(n,st.reg);return true;});
+    var out=document.getElementById("paper");
+    if(!list.length){out.innerHTML='<div class="empty">Nenhuma notícia com esse filtro ainda.</div>';return;}
+    out.innerHTML=storyHTML(list[0],true)+'<div class="stories">'+list.slice(1).map(function(n){return storyHTML(n);}).join("")+'</div>';
+  }
+  function drawRegBars(){
+    var counts={};Object.keys(REGN).forEach(function(k){counts[k]=N.filter(function(n){return inReg(n,k);}).length;});
+    var maxc=Math.max.apply(null,Object.keys(counts).map(function(k){return counts[k];}))||1;
+    document.getElementById("regbars").innerHTML=Object.keys(REGN).map(function(k){return '<button class="regbar" type="button" data-reg="'+k+'"><span>'+esc(REGN[k])+'</span><b>'+counts[k]+'</b><span class="bar"><i style="width:'+Math.round(counts[k]/maxc*100)+'%"></i></span></button>';}).join("");
+  }
+  document.getElementById("regbars").addEventListener("click",function(e){var b=e.target.closest("[data-reg]");if(b)setReg(b.getAttribute("data-reg"));});
+
+  /* decretos */
+  var df=document.getElementById("decFilter");
+  function drawDecs(){
+    var opts=["Todos","Estado","Prefeitura"];
+    df.innerHTML=opts.map(function(o){return '<button class="chip" type="button" data-dec="'+o+'" aria-pressed="'+(o===st.dec)+'">'+(o==="Todos"?"Todos":o==="Estado"?"Governo do estado":"Prefeituras")+'</button>';}).join("");
+    var list=N.filter(function(n){return n.s==="decreto"&&(st.dec==="Todos"||n.org===st.dec);});
+    document.getElementById("decList").innerHTML=list.length?list.map(function(n){
+      return '<article class="dec"><div class="num">'+esc(n.num||"Decreto")+'<small>'+esc(n.org==="Prefeitura"?"Prefeitura":"Governo do estado")+' · '+fmt(n.d)+'</small></div><div style="min-width:0">'+(isNew(n)?'<span class="tag t-novo">Novo</span> ':'')+'<h3>'+esc(n.t)+'</h3><p>'+esc(n.p)+'</p><div class="cities" style="margin-bottom:8px">'+cityBtns(n.c,8)+'</div><a class="readlink" href="'+esc(n.u)+'" target="_blank" rel="noopener">Ler na íntegra →</a></div></article>';
+    }).join(""):'<div class="empty">Nenhum decreto com esse filtro ainda.</div>';
+  }
+  df.addEventListener("click",function(e){var b=e.target.closest("[data-dec]");if(!b)return;st.dec=b.getAttribute("data-dec");drawDecs();});
+
+  /* mapa */
+  var LON0=-53.15,LON1=-44.1,LAT0=-25.35,LAT1=-19.75;
+  var RATIO=(LAT1-LAT0)/((LON1-LON0)*Math.cos(22.5*Math.PI/180));
+  function cssv(n){return getComputedStyle(document.documentElement).getPropertyValue(n).trim();}
+  var selReg=null,hover=null,cur=null;
+  function mapOpts(){return {reg:selReg,city:cur};}
+  function drawMap(cvs,o){
+    o=o||{};var dpr=window.devicePixelRatio||1,w=cvs.clientWidth||600,h=Math.round(w*RATIO);
+    cvs.width=Math.round(w*dpr);cvs.height=Math.round(h*dpr);cvs.style.height=h+"px";
+    var ctx=cvs.getContext("2d");ctx.setTransform(dpr,0,0,dpr,0,0);ctx.clearRect(0,0,w,h);
+    var pad=8,W=w-pad*2,H=h-pad*2,cold=cssv("--dot"),hot=cssv("--dot-hot"),sel=cssv("--dot-sel"),regc=cssv("--dot-reg");
+    var r=Math.max(1.6,w/300),regOf=o.reg||(o.focusRegion&&o.city?o.city.d:null);
+    var pts=MUN.map(function(m){return {m:m,x:pad+(m.o-LON0)/(LON1-LON0)*W,y:pad+(LAT1-m.a)/(LAT1-LAT0)*H};});
+    if(cvs===cv)pts.forEach(function(p){p.m._x=p.x;p.m._y=p.y;});
+    [false,true].forEach(function(pass){pts.forEach(function(p){
+      var has=p.m.rec&&p.m.rec.length;if(!!has!==pass)return;
+      var inR=regOf&&p.m.d===regOf;
+      ctx.globalAlpha=regOf?(inR?1:.28):(has?1:.9);
+      ctx.fillStyle=inR&&!has?regc:(has?hot:cold);
+      ctx.beginPath();ctx.arc(p.x,p.y,has?r*1.45:r,0,7);ctx.fill();});});
+    ctx.globalAlpha=1;
+    var f=o.city||(cvs===cv?hover:null);
+    if(f){var fp=pts.filter(function(p){return p.m===f;})[0];
+      ctx.strokeStyle=sel;ctx.lineWidth=2;ctx.beginPath();ctx.arc(fp.x,fp.y,r*3.6,0,7);ctx.stroke();
+      ctx.fillStyle=sel;ctx.beginPath();ctx.arc(fp.x,fp.y,r*1.7,0,7);ctx.fill();
+      if(o.city&&o.label!==false){ctx.font="700 "+Math.max(12,Math.round(w/45))+"px "+cssv("--body");ctx.textBaseline="middle";
+        var tw=ctx.measureText(f.n).width,lx=Math.min(Math.max(fp.x+r*5,pad),w-tw-pad-8),ly=Math.max(fp.y-r*5,14);
+        ctx.fillStyle="rgba(0,0,0,.55)";ctx.fillRect(lx-6,ly-11,tw+12,22);ctx.fillStyle=sel;ctx.fillText(f.n,lx,ly);}}
+  }
+  var cv=document.getElementById("map"),tip=document.getElementById("tip");
+  function nearest(x,y){var b=null,bd=144;MUN.forEach(function(m){var dx=m._x-x,dy=m._y-y,dd=dx*dx+dy*dy;if(dd<bd){bd=dd;b=m;}});return b;}
+  function redrawAll(){drawMap(cv,mapOpts());var mm=document.getElementById("mini");if(mm&&cur)drawMap(mm,{city:cur,focusRegion:true,label:false});}
+  cv.addEventListener("mousemove",function(e){var rc=cv.getBoundingClientRect(),m=nearest(e.clientX-rc.left,e.clientY-rc.top);if(m!==hover){hover=m;drawMap(cv,mapOpts());}
+    if(m){tip.hidden=false;tip.style.left=m._x+"px";tip.style.top=m._y+"px";tip.innerHTML=esc(m.n)+'<small>'+(m.rec.length?m.rec.length+' registro(s)':'sem registros ainda')+' · '+esc(REGN[m.d])+'</small>';}else tip.hidden=true;});
+  cv.addEventListener("mouseleave",function(){hover=null;tip.hidden=true;drawMap(cv,mapOpts());});
+  cv.addEventListener("click",function(e){var rc=cv.getBoundingClientRect(),m=nearest(e.clientX-rc.left,e.clientY-rc.top);if(m)openCity(m);});
+  var rt;window.addEventListener("resize",function(){clearTimeout(rt);rt=setTimeout(redrawAll,120);});
+  try{window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",redrawAll);}catch(e){}
+  new MutationObserver(redrawAll).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
+  var rc=document.getElementById("regchips");
+  function drawRegChips(){rc.innerHTML='<button type="button" data-mreg="" aria-pressed="'+(!selReg)+'">Estado todo</button>'+Object.keys(REGN).map(function(k){return '<button type="button" data-mreg="'+k+'" aria-pressed="'+(selReg===k)+'">'+esc(REGN[k].split(",")[0].split(" e ")[0])+'</button>';}).join("");}
+  function setReg(k){selReg=k||null;st.reg=selReg||"todas";rs.value=st.reg;drawRegChips();drawPaper();drawMap(cv,mapOpts());}
+  rc.addEventListener("click",function(e){var b=e.target.closest("[data-mreg]");if(b)setReg(b.getAttribute("data-mreg"));});
+
+  /* busca */
+  var q=document.getElementById("q"),sug=document.getElementById("sug"),sIx=-1,sList=[];
+  function findCities(v){var k=norm(v);if(!k)return [];var a=[],b=[];MUN.forEach(function(m){if(m.k.indexOf(k)===0)a.push(m);else if(m.k.indexOf(k)>0)b.push(m);});return a.concat(b).slice(0,7);}
+  function drawSug(){if(!sList.length){sug.hidden=true;return;}sug.hidden=false;sug.innerHTML=sList.map(function(m,i){return '<button type="button" role="option" class="'+(i===sIx?"on":"")+'" data-city="'+m.i+'"><span>'+esc(m.n)+'</span><small>DDD '+m.d+(m.rec.length?' · '+m.rec.length+' reg.':'')+'</small></button>';}).join("");}
+  q.addEventListener("input",function(){sList=findCities(q.value);sIx=sList.length?0:-1;drawSug();});
+  q.addEventListener("keydown",function(e){if(e.key==="ArrowDown"){sIx=Math.min(sIx+1,sList.length-1);drawSug();e.preventDefault();}else if(e.key==="ArrowUp"){sIx=Math.max(sIx-1,0);drawSug();e.preventDefault();}else if(e.key==="Enter"){if(sList[sIx])openCity(sList[sIx]);}else if(e.key==="Escape"){sug.hidden=true;}});
+  document.getElementById("qgo").addEventListener("click",function(){var l=findCities(q.value);if(l[0])openCity(l[0]);else q.focus();});
+  document.addEventListener("click",function(e){if(!e.target.closest("#searchbox"))sug.hidden=true;});
+
+  /* cidade */
+  function g(qs){return "https://www.google.com/search?q="+encodeURIComponent(qs);}
+  function drawCity(m){
+    cur=m;var cap=m.n==="São Paulo";var c={entregue:0,obra:0,anunciado:0,alerta:0,decreto:0};
+    m.rec.forEach(function(n){if(c[n.s]!==undefined)c[n.s]++;});
+    var cols={entregue:"var(--ok)",obra:"var(--obra)",anunciado:"var(--anun)",alerta:"var(--alert)",decreto:"var(--dec)"};
+    var h='<div class="city-hero"><div><p class="eyebrow">Estado de São Paulo · código IBGE '+m.i+'</p><h2>'+esc(m.n)+'</h2><div class="meta">Região '+esc(REGN[m.d])+' · DDD '+m.d+'</div></div><div class="minimap"><canvas id="mini" aria-label="Localização de '+esc(m.n)+' no mapa do estado" role="img"></canvas></div></div>';
+    h+='<div class="counts">'+Object.keys(c).map(function(k){return '<div class="count" style="--c:'+cols[k]+'"><b>'+c[k]+'</b><span>'+LBL[k]+'</span></div>';}).join("")+'</div>';
+    h+='<div class="official"><h3>Publicações oficiais de '+esc(m.n)+'</h3><p>É aqui que se vê para onde vai o dinheiro: decretos, contratos, licitações e pagamentos da prefeitura.</p><div class="olinks">'+
+      '<a href="'+g("Diário Oficial Prefeitura de "+m.n+" SP decreto")+'" target="_blank" rel="noopener"><b>Diário Oficial do município</b><small>Decretos, nomeações, contratos e licitações</small></a>'+
+      '<a href="'+g("Portal da Transparência Prefeitura de "+m.n+" SP")+'" target="_blank" rel="noopener"><b>Portal da Transparência</b><small>Receitas, despesas e quem recebeu</small></a>'+
+      (cap?'<a href="https://portal.tcm.sp.gov.br/" target="_blank" rel="noopener"><b>Tribunal de Contas do Município</b><small>Fiscalização das contas da capital</small></a>':'<a href="https://transparencia.tce.sp.gov.br/" target="_blank" rel="noopener"><b>Tribunal de Contas do Estado</b><small>Gastos, saúde e educação. Escolha '+esc(m.n)+' no portal</small></a>')+
+      '<a href="'+g("Câmara Municipal de "+m.n+" SP")+'" target="_blank" rel="noopener"><b>Câmara Municipal</b><small>Leis e votações dos vereadores</small></a>'+
+      '<a href="'+g(m.n+" SP notícias prefeitura")+'&tbm=nws" target="_blank" rel="noopener"><b>Notícias de hoje</b><small>O que os jornais publicaram sobre '+esc(m.n)+'</small></a>'+
+      '</div></div>';
+    var pp=papersFor(m);
+    h+='<div class="official"><h3>Jornais de '+esc(m.n)+' e região</h3><p>Onde a imprensa local publica as notícias da cidade. Os links abrem o site do jornal.</p><div class="papers">'+
+      pp.own.map(function(p){return '<a class="paper own" href="'+p[1]+'" target="_blank" rel="noopener"><b>'+esc(p[0])+'</b><small>Jornal da cidade · '+esc(p[2])+'</small></a>';}).join("")+
+      pp.reg.map(function(p){return '<a class="paper" href="'+p[1]+'" target="_blank" rel="noopener"><b>'+esc(p[0])+'</b><small>Jornal da região · '+esc(p[2])+'</small></a>';}).join("")+
+      '<a class="paper search" href="'+g(m.n+" SP")+'&tbm=nws" target="_blank" rel="noopener"><b>Tudo sobre '+esc(m.n)+'</b><small>Busca de notícias de hoje em todos os jornais</small></a>'+
+      '</div></div>';
+    h+='<h2 class="sec-h" style="font-size:32px">Notícias e decretos com fonte</h2>';
+    h+=m.rec.length?'<div class="stories">'+m.rec.map(function(n){return storyHTML(n);}).join("")+'</div>':'<div class="empty" style="margin-top:12px">Ainda não há notícias ou decretos verificados sobre '+esc(m.n)+' na base. As publicações oficiais acima já estão disponíveis, e os próximos itens da cidade aparecem aqui assim que forem publicados.</div>';
+    document.getElementById("cityOut").innerHTML=h;
+    drawMap(cv,mapOpts());
+    requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:m,focusRegion:true,label:false});});
+  }
+  function openCity(m){sug.hidden=true;q.value="";drawCity(m);if(location.hash!=="#c-"+m.i)location.hash="c-"+m.i;show("cidade");window.scrollTo({top:document.querySelector("nav.tabs").offsetTop,behavior:"smooth"});}
+  document.addEventListener("click",function(e){var b=e.target.closest("[data-city]");if(b&&byCode[b.getAttribute("data-city")])openCity(byCode[b.getAttribute("data-city")]);});
+
+  /* regiões */
+  function drawRegions(){
+    var sorted=MUN.slice().sort(function(a,b){return a.n.localeCompare(b.n,"pt-BR");});
+    document.getElementById("regList").innerHTML=Object.keys(REGN).map(function(k){var ms=sorted.filter(function(m){return m.d===k;});var nrec=N.filter(function(n){return inReg(n,k);}).length;
+      return '<div class="tablewrap"><table><thead><tr><th><button class="chip" type="button" data-reg-show="'+k+'">Ver no mapa</button>&nbsp; '+esc(REGN[k])+' · DDD '+k+' · '+ms.length+' municípios · '+nrec+' registros</th></tr></thead><tbody><tr><td class="more">Jornais da região: '+(PAPERS[k]||[]).map(function(p){return '<a href="'+p[1]+'" target="_blank" rel="noopener">'+esc(p[0])+'</a>';}).join(" · ")+'</td></tr><tr><td class="cities" style="line-height:1.9">'+ms.map(function(m){return '<button type="button" data-city="'+m.i+'"'+(m.rec.length?' style="color:var(--alert)"':'')+'>'+esc(m.n)+'</button>';}).join(" · ")+'</td></tr></tbody></table></div>';}).join("");
+  }
+  document.getElementById("regList").addEventListener("click",function(e){var b=e.target.closest("[data-reg-show]");if(!b)return;setReg(b.getAttribute("data-reg-show"));window.scrollTo({top:0,behavior:"smooth"});});
+
+  /* promessas */
+  function drawProm(){
+    var cnt={cumprido:0,andamento:0,acompanhar:0,atrasado:0,naocumprido:0},area="",rows="";
+    PROM.forEach(function(p){
+      var s=(PSTATE[p[1]]&&PST[PSTATE[p[1]].status])?PSTATE[p[1]].status:"acompanhar";cnt[s]++;
+      var prova=PSTATE[p[1]]&&safeUrl(PSTATE[p[1]].prova),nota=PSTATE[p[1]]&&PSTATE[p[1]].nota;
+      if(p[0]!==area){area=p[0];rows+='<tr class="area-row"><td colspan="4">'+esc(area)+'</td></tr>';}
+      var ed=canEdit?'<div class="ed"><select data-pst="'+p[1]+'" aria-label="Situação">'+Object.keys(PST).map(function(k){return '<option value="'+k+'"'+(k===s?" selected":"")+'>'+PST[k]+'</option>';}).join("")+'</select><input type="url" data-pprova="'+p[1]+'" placeholder="Link da prova (https://...)" value="'+esc(prova||"")+'"><input type="text" data-pnota="'+p[1]+'" placeholder="Observação curta" value="'+esc(nota||"")+'"><button type="button" data-psave="'+p[1]+'">Salvar</button></div>':'';
+      rows+='<tr><td>'+esc(p[2])+(nota&&!canEdit?'<div class="more">'+esc(nota)+'</div>':'')+'</td><td class="num">'+esc(p[3])+'</td><td><span class="tag t-'+s+'">'+PST[s]+'</span>'+(prova?'<div><a class="readlink" href="'+esc(prova)+'" target="_blank" rel="noopener">Ver prova →</a></div>':'')+ed+'</td><td><a href="'+S[p[4]]+'" target="_blank" rel="noopener" class="more">fonte</a></td></tr>';
+    });
+    document.getElementById("promBody").innerHTML=rows;
+    var tot=PROM.length;
+    document.getElementById("score").innerHTML=["cumprido","andamento","acompanhar","atrasado","naocumprido"].map(function(k){return '<div style="--c:'+PCOL[k]+'"><b>'+cnt[k]+'</b><span>'+PST[k]+'</span></div>';}).join("");
+    document.getElementById("progress").innerHTML=["cumprido","andamento","acompanhar","atrasado","naocumprido"].map(function(k){return cnt[k]?'<i style="width:'+(cnt[k]/tot*100)+'%;background:'+PCOL[k]+'"></i>':'';}).join("");
+  }
+  document.getElementById("promBody").addEventListener("click",function(e){
+    var b=e.target.closest("[data-psave]");if(!b||!dbRef)return;var id=b.getAttribute("data-psave");
+    var s=document.querySelector('[data-pst="'+id+'"]').value,pv=document.querySelector('[data-pprova="'+id+'"]').value.trim(),nt=document.querySelector('[data-pnota="'+id+'"]').value.trim();
+    if(pv&&!safeUrl(pv)){b.textContent="Link precisa começar com https://";return;}
+    b.disabled=true;b.textContent="Salvando…";
+    dbRef.collection("promessas").doc(id).set({status:s,prova:pv,nota:nt.slice(0,200),atualizado:new Date().toISOString()}).then(function(){b.textContent="Salvo";b.disabled=false;},function(){b.textContent="Não foi possível salvar";b.disabled=false;});
+  });
+
+  /* editor (só para quem edita o site) */
+  function drawEditor(){
+    if(!canEdit){document.getElementById("editorSlot").innerHTML="";return;}
+    document.getElementById("editorSlot").innerHTML='<form class="editor" id="edForm"><h3 class="sec-h" style="font-size:26px">Publicar no site</h3><p class="more" style="margin:0">Visível só para você. O item aparece na hora para todos os leitores.</p>'+
+      '<div class="row"><label>Tipo<select id="edS"><option value="fato">Notícia</option><option value="decreto">Decreto</option><option value="entregue">Entregue</option><option value="obra">Em obra</option><option value="anunciado">Anunciado</option><option value="alerta">Alerta</option></select></label><label>Data<input type="date" id="edD" required value="'+todayISO+'"></label></div>'+
+      '<label>Título<input type="text" id="edT" required maxlength="160"></label><label>Resumo<textarea id="edP" required maxlength="500"></textarea></label>'+
+      '<div class="row"><label>Tema<input type="text" id="edTema" value="Decretos" maxlength="40"></label><label>Cidades (separe por vírgula)<input type="text" id="edC" placeholder="Votuporanga, Fernandópolis"></label></div>'+
+      '<div class="row"><label>Fonte (nome do veículo ou órgão)<input type="text" id="edSrc" required maxlength="80"></label><label>Link direto<input type="url" id="edU" required placeholder="https://"></label></div>'+
+      '<div class="row"><label>Número do decreto (se for)<input type="text" id="edNum" maxlength="30"></label><label>Origem (se for decreto)<select id="edOrg"><option value="Prefeitura">Prefeitura</option><option value="Estado">Governo do estado</option></select></label></div>'+
+      '<button class="btn" type="submit">Publicar</button><span class="msg" id="edMsg"></span></form>';
+    document.getElementById("edForm").addEventListener("submit",function(e){e.preventDefault();if(!dbRef)return;
+      var u=document.getElementById("edU").value.trim(),msg=document.getElementById("edMsg");
+      if(!safeUrl(u)){msg.textContent="O link precisa começar com https://";return;}
+      var cities=document.getElementById("edC").value.split(",").map(function(s){return s.trim();}).filter(Boolean).map(function(s){var hit=MUN.filter(function(m){return m.k===norm(s);})[0];return hit?hit.n:s;});
+      var s=document.getElementById("edS").value;
+      var doc={d:document.getElementById("edD").value,t:document.getElementById("edT").value.trim(),p:document.getElementById("edP").value.trim(),tema:document.getElementById("edTema").value.trim()||"Geral",s:s,c:cities,src:document.getElementById("edSrc").value.trim(),u:u,added:Date.now()};
+      if(s==="decreto"){doc.num=document.getElementById("edNum").value.trim();doc.org=document.getElementById("edOrg").value;}
+      msg.textContent="Publicando…";
+      dbRef.collection("feed").add(doc).then(function(){msg.textContent="Publicado.";e.target.reset();document.getElementById("edD").value=todayISO;},function(){msg.textContent="Não foi possível publicar agora.";});
+    });
+  }
+
+  /* rotas */
+  var views=["hoje","decretos","cidade","regioes","promessas","sobre"];
+  function show(v){if(views.indexOf(v)<0)v="hoje";views.forEach(function(x){document.getElementById("v-"+x).hidden=(x!==v);});
+    document.querySelectorAll("nav.tabs a").forEach(function(a){if(a.getAttribute("data-view")===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
+    if(v==="cidade"){if(!cur)drawCity(byName["São Paulo"]);else requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:cur,focusRegion:true,label:false});});}}
+  function route(){var h=location.hash.slice(1);if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else show(h);}
+  window.addEventListener("hashchange",route);
+
+  /* dados ao vivo */
+  function cleanLive(d,id){
+    if(!d||typeof d.t!=="string"||!safeUrl(d.u)||typeof d.d!=="string")return null;
+    var s=LBL[d.s]?d.s:"fato";
+    var hh=typeof d.h==="string"&&/^\d\d:\d\d$/.test(d.h)?d.h:"";
+    var ad=typeof d.added==="number"?d.added:(d.auto?Date.parse(d.d.slice(0,10)+"T"+(hh||"12:00")+":00-03:00"):0);
+    return {id:id,live:true,auto:!!d.auto,h:hh,added:ad||0,d:d.d.slice(0,10),t:d.t.slice(0,200),p:String(d.p||"").slice(0,600),tema:String(d.tema||"Geral").slice(0,40),s:s,c:Array.isArray(d.c)?d.c.filter(function(x){return typeof x==="string";}).slice(0,60):[],src:String(d.src||"Fonte").slice(0,80),u:d.u,num:d.num?String(d.num).slice(0,30):"",org:d.org==="Estado"?"Estado":(s==="decreto"?"Prefeitura":"")};
+  }
+  function setStatus(on,text){var el=document.getElementById("liveStatus");el.className="status-line"+(on?" on":"");el.querySelector("span").textContent=text;}
+  document.getElementById("statePapers").innerHTML=STATEPAPERS.map(function(p){return '<a href="'+p[1]+'" target="_blank" rel="noopener" style="font-weight:600">'+esc(p[0])+' ↗</a>';}).join("");
+  drawRegChips();rebuild();drawProm();route();
+  function loadJSON(p){return fetch(p+"?v="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();});}
+  function carregar(){
+    Promise.all([loadJSON("data/feed.json").catch(function(){return null;}),loadJSON("data/manual.json").catch(function(){return null;}),loadJSON("data/promessas.json").catch(function(){return null;})]).then(function(res){
+      var feed=res[0],man=res[1],pr=res[2],arr=[];
+      if(man&&Array.isArray(man.itens))man.itens.forEach(function(x,i){var c=cleanLive(x,"m"+i);if(c)arr.push(c);});
+      if(feed&&Array.isArray(feed.itens))feed.itens.forEach(function(x,i){var c=cleanLive(x,"f"+i);if(c)arr.push(c);});
+      LIVE=arr;
+      if(pr&&pr.promessas&&typeof pr.promessas==="object")PSTATE=pr.promessas;
+      if(feed&&feed.atualizado){var dt=new Date(feed.atualizado);setStatus(true,"Atualizado automaticamente · última coleta em "+dt.toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}));}
+      else setStatus(false,"Notícias cadastradas · aguardando a primeira coleta automática");
+      rebuild();drawProm();
+    });
+  }
+  try{document.getElementById("edition").textContent="Edição de "+new Date().toLocaleDateString("pt-BR",{day:"numeric",month:"long",year:"numeric"});}catch(e){}
+  carregar();setInterval(carregar,10*60*1000);
+})();
+</script>
+
+</body>
+</html>

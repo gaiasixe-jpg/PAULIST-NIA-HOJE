@@ -1,0 +1,847 @@
+{
+"atualizado": "2026-10-31T15:03:17-03:00",
+"novos_nesta_coleta": 59,
+"fontes_ok": [
+"Agência Brasil",
+"Metrópoles São Paulo",
+"Diário do Grande ABC",
+"O Diário de Mogi",
+"Tribuna de Jundiaí",
+"NetCampos",
+"Marília Notícia",
+"ACidade ON",
+"ACidade ON Ribeirão Preto",
+"ACidade ON Campinas",
+"Gazeta de Rio Preto",
+"Diário de Votuporanga",
+"Informa Noroeste"
+],
+"fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Correio da Manhã",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Jornal Cruzeiro do Sul",
+"erro": "HTTP Error 403: Forbidden"
+}
+],
+"itens": [
+{
+"d": "2026-10-31",
+"h": "14:57",
+"t": "Vídeo flagra acidente com morte na avenida Pedro de Toledo, em Marília",
+"p": "Carro bateu violentamente contra árvore em Marília Imagens de câmeras de segurança mostram o exato momento em que motorista perde o controle e atinge árvore em Marília.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/noticias/video-flagra-acidente-com-morte-na-avenida-pedro-de-toledo-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "14:29",
+"t": "Cruzamento em Campinas será interditado por dois dias para obras; veja desvios",
+"p": "Bloqueio no encontro das ruas Sacramento e Marechal Deodoro começa às 8h de domingo (1º) e segue até as 17h de segunda-feira (2), feriado de Finados",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/cruzamento-em-campinas-sera-interditado-por-dois-dias-para-obras-veja-desvios/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "14:21",
+"t": "Prefeitura de Jundiaí investe mais de R$ 500 mil em coberturas de acesso em escolas municipais",
+"p": "Foto: Prefeitura de Jundiaí Três unidades nos bairros Ivoturucaia, Caxambu e Vila Maringá recebem estruturas para proteger estudantes, familiares e profissionais da chuva e do sol",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-investe-500-mil-coberturas-acesso-escolas-municipais/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:51",
+"t": "Itupeva elege nova Corte da Expo Uva 2026/2027 em noite de tradição, beleza e cultura",
+"p": "Foto: Prefeitura de Itupeva Nathaly Isabely Fonseca Ramalho foi eleita rainha, ao lado de Michelle Andrade, 1ª princesa, e Lorena de Carvalho Ferreira, 2ª princesa",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/itupeva-elege-nova-corte-expo-uva-2026-2027/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:48",
+"t": "Bêbada, mulher esfaqueia irmã durante discussão e é presa em SP",
+"p": "Apesar de ferimento na região do peito, vítima foi socorrida a um hospital, onde recebeu atendimento e foi liberada; suspeita do crime estav",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bebada-mulher-esfaqueia-irma-durante-discussao-e-e-presa-em-sp",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:36",
+"t": "Corrida de rua terá interdições no trânsito e mudanças em sete linhas de ônibus em Campinas neste domingo; veja locais",
+"p": "Bloqueios começam às 6h30 e atingem avenidas como Campos Sales, Aquidabã e Francisco Glicério; provas de 5 e 10 km terão largada às 7h, em frente à Estação Cultura",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/corrida-de-rua-tera-interdicoes-no-transito-e-mudancas-em-sete-linhas-de-onibus-em-campinas-neste-domingo-veja-locais/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:30",
+"t": "São Paulo recebe campanha gratuita para detecção precoce do diabetes e prevenção",
+"p": "Ação acontece em 1º de novembro, na Universidade São Judas Tadeu, e deve atender até 5.000 pessoas",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366089/sao-paulo-recebe-campanha-gratuita-para-deteccao-precoce-do-diabetes-e-prevencao-",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:30",
+"t": "Feriado de Finados terá mudança no tempo em Jundiaí; veja quando a chuva chega",
+"p": "Foto: Prefeitura de Jundiaí Depois de um sábado com temperaturas de até 26°C, previsão aponta aumento da instabilidade e possibilidade de chuva forte na segunda-feira (2).",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-feriado-finados/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:20",
+"t": "Aneel mantém bandeira tarifária verde em novembro",
+"p": "Contas de energia não sofrem cobrança extra pelo segundo mês",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/aneel-mantem-bandeira-tarifaria-verde-em-novembro/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:13",
+"t": "Família de bebê que caiu em piscina na região pede ajuda para custear tratamento",
+"p": "Helena está internada no Hospital da Criança e Maternidade desde 7 de outubro, quando foi encontrada na água na casa da família, em Cedral",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Cedral"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/familia-de-bebe-que-caiu-em-piscina-na-regiao-pede-ajuda-para-custear-tratamento/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:10",
+"t": "Sistema Cantareira continuará a operar na faixa de atenção em novembro",
+"p": "Após as chuvas dos últimos meses, o volume útil do Sistema Cantareira, principal reservatório de São Paulo, chegou a 51,2% da capacidade na manhã deste sábado (31). É o maior volume alcançado pelo reservatório desde maio de 2025, quando o armazenamento estava em 52,7%. Apesar do aumento da capacidade, o Cantareira…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/sistema-cantareira-continuara-operar-na-faixa-de-atencao-em-novembro",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:00",
+"t": "GCM de São Bernardo reforça patrulhamento contra roubos no Demarchi e Botujuru",
+"p": "Operação integra ações em todo o município no feriado prolongado, com proteção às escolas e reforço nos acessos durante a saída e o retorno dos viajantes",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366161/gcm-de-sao-bernardo-reforca-patrulhamento-contra-roubos-no-demarchi-e-botujuru",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "12:43",
+"t": "Equipe da Atividade Delegada prende homem procurado pela Justiça em Votuporanga",
+"p": "Um homem de 42 anos foi detido pela Polícia Militar na tarde desta sexta-feira (30), em Votuporanga, durante uma ação de patrulhamento preventivo realizada pela equipe da Atividade Delegada. A abordagem ocorreu por volta das 17h30 na Avenida Antônio Mega Fuzete, após os policiais identificarem o indivíduo sobre o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/equipe-da-atividade-delegada-prende-homem-procurado-pela-justica-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "12:43",
+"t": "Paciente recebe alta na Santa Casa de Fernandópolis após mais de dois meses de internação",
+"p": "A Santa Casa de Fernandópolis celebrou a alta hospitalar da paciente Marlene C. da S. Paula, que retornou para casa após passar mais de 60 dias internada na instituição. A recuperação da moradora mobilizou a equipe multidisciplinar do hospital ao longo de mais de dois meses de tratamento intensivo e cuidados…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/paciente-recebe-alta-na-santa-casa-de-fernandopolis-apos-mais-de-dois-meses-de-internacao/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "12:25",
+"t": "Programa oferece cursos online e gratuitos sobre IA para professores e estudantes",
+"p": "Capacitações são oferecidas até o dia 31 de dezembro; inscrições podem ser feitas no site do programa",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/programa-oferece-cursos-online-e-gratuitos-sobre-ia-para-professores-e-estudantes/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "11:45",
+"t": "Policial rodoviário é alvo de operação do Gaeco por roubo a lotérica na região",
+"p": "Gaeco e Polícia Rodoviária cumpriram mandado de prisão temporária e quatro de busca e apreensão",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policial-rodoviario-e-alvo-de-operacao-do-gaeco-por-roubo-a-loterica-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "11:44",
+"t": "Bombas, drones e arsenal foram achados após alerta de tribunal do crime",
+"p": "Além de material explosivo, equipes da Polícia Militar localizaram coletes, munições e dinheiro em espécie dentro de comunidade",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bombas-drones-e-arsenal-foram-achados-apos-alerta-de-tribunal-do-crime",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "11:21",
+"t": "Árvore de grande porte cai no Centro de Convivência após chuvas",
+"p": "Queda aconteceu na madrugada deste sábado (31), no Cambuí; segundo a Prefeitura, ninguém ficou ferido e não houve danos à estrutura do teatro.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/arvore-de-grande-porte-cai-no-centro-de-convivencia-cultural-de-campinas-apos-chuvas/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "10:59",
+"t": "Carga de drogas avaliada em R$ 1,2 milhão é apreendida em Duartina",
+"p": "Operação na SP-294 termina com prisão de motorista e apreensão de 19,8 quilos de drogas Durante a Operação Finados, polícia encontrou haxixe e maconha escondidos em compartimentos falsos de um Fiat Palio.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Duartina"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/carga-de-drogas-avaliada-em-r-12-milhao-e-apreendida-em-duartina/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "10:53",
+"t": "Finados: Ribeirão Preto terá linhas especiais de ônibus para cemitérios; Confira os horários",
+"p": "Transporte público irá oferecer linhas especiais de ônibus para acesso a cemitérios neste domingo (1º) e segunda (2)",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/finados-ribeirao-preto-tera-linhas-especiais-de-onibus-para-cemiterios-confira-os-horarios/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "10:52",
+"t": "Festa da coxinha terá mais de 30 sabores e shows gratuitos; veja programação",
+"p": "Evento será realizado entre os dias 12 e 15 de novembro, no Parque Cidade, com opções de coxinhas doces e salgadas, atrações musicais e votação para escolher as receitas favoritas",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/festa-da-coxinha-tera-mais-de-30-sabores-e-shows-gratuitos-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "10:34",
+"t": "Balanço da Saúde mostra o que aumentou e diminuiu em Marília em 2026",
+"p": "Dados da Vigilância Epidemiológica revelam alta nas notificações de violência e acidentes, enquanto algumas doenças apresentam queda.",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/balanco-da-saude-mostra-o-que-aumentou-e-diminuiu-em-marilia-em-2026/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "10:28",
+"t": "Idoso cai em golpe do falso gerente e tem prejuízo de R$ 80 mil em Marília",
+"p": "Ocorrência foi registrada na CPJ e será apurada pela Polícia Civil de Marília Criminosos usaram endereço eletrônico fraudulento e ferramenta de acesso remoto para realizar transferências e saques sem autorização da vítima.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/idoso-cai-em-golpe-do-falso-gerente-e-tem-prejuizo-de-r-80-mil-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "10:08",
+"t": "Aneel mantém bandeira tarifária verde em novembro",
+"p": "Contas de energia não sofrem cobrança extra pelo segundo mês consecutivo.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/brasil/aneel-mantem-bandeira-tarifaria-verde-em-novembro/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "10:00",
+"t": "“Não contrate esquerdista”: homem é alvo do MPT por discriminação política",
+"p": "Daniel Favaro fez publicação no Instagram orientando empresários a não contratarem “esquerdistas”. Ele desativou o perfil",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/nao-contrate-esquerdista-homem-e-alvo-do-mpt-por-discriminacao-politica",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "09:33",
+"t": "Dia de Finados terá missa e homenagens no Cemitério Rosa Mística, em Votuporanga",
+"p": "Celebração religiosa acontece na segunda-feira, às 8h; espaço permanecerá aberto para visitação das 7h às 18h O Cemitério e Crematório Rosa Mística, em Votuporanga, preparou uma programação especial para o Dia de Finados, celebrado na próxima segunda-feira, 2 de novembro. A data será marcada por uma missa em…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/dia-de-finados-tera-missa-e-ho-menagens-no-cemiterio-rosa-mistica-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "09:21",
+"t": "Tupã recebe obras de recuperação da via que liga o município a Quatá",
+"p": "Serviços incluem drenagem e recomposição do asfalto em trecho próximo à ponte sobre o Rio do Peixe.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Quatá",
+"Tupã"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tupa-recebe-obras-de-recuperacao-da-vicinal-que-liga-o-municipio-a-quata/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "09:00",
+"t": "Campinas terá equipe para Cadastro Único domiciliar para 23,5 mil famílias; entenda",
+"p": "Cadastro Único domiciliar começará a ser realizado na próxima terça-feira (3), com 18 profissionais e três carros; Prefeitura alerta que visitas são gratuitas e que agentes devem estar identificado",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tera-equipe-para-cadastro-unico-domiciliar-para-235-mil-familias-entenda/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "09:00",
+"t": "Golpe de falsa cobrança do CDHU: entenda como evitar",
+"p": "CDHU reforça que inscrições e processos de seleção são gratuitos e orienta população a denunciar golpes de cobranças indevidas",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/golpe-de-falsa-cobranca-do-cdhu-entenda-como-evitar/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "08:59",
+"t": "SUS amplia oferta de nove medicamentos contra diferentes tipos de câncer",
+"p": "Expectativa do Ministério da Saúde é que mais de 116 mil pacientes sejam beneficiados",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/saude/sus-amplia-oferta-de-nove-medicamentos-contra-diferentes-tipos-de-cancer/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "08:00",
+"t": "Calor volta a São Paulo em novembro, mas chuva já tem data para voltar",
+"p": "Temperaturas podem se aproximar dos 28°C na primeira semana de novembro, mas previsão indica temporais, chuva acima da média e risco de transbordamento de rios e córregos",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/calor-volta-a-sao-paulo-em-novembro-mas-chuva-ja-tem-data-para-voltar/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "06:00",
+"t": "Como fica o tempo em Ribeirão Preto neste sábado? Veja a previsão para o fim de semana",
+"p": "Sábado (31) em Ribeirão será de sol entre muitas nuvens e temperaturas de até 30°C; instabilidade deve provocar pancadas de chuva em algumas regiões",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/como-fica-o-tempo-em-ribeirao-preto-neste-sabado-veja-a-previsao-para-o-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "02:20",
+"t": "Cadeias de SP recebem armas e tecnologias do Ministério da Justiça",
+"p": "Sistema prisional federal investe mais de R$ 34 milhões em equipamentos e tecnologias para cadeias de SP. Foco é combater o crime organizado",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cadeias-de-sp-recebem-armas-e-tecnologias-do-sistema-penitenciario-federal",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "02:00",
+"t": "Justiça barra leilão de imóvel milionário de \"Concierge do PCC\" em SP",
+"p": "Decisão judicial invalidou medida anterior de que imóvel fosse colocado à leilão, e determinou que apartamento luxuoso permaneça bloqueado",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-barra-leilao-de-imovel-milionario-de-concierge-do-pcc-em-sp",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "23:25",
+"t": "Secretário de Ribeirão Pires sugere demitir empregada doméstica petista",
+"p": "Câmara dos vereadores de Ribeirão Pires, na Grande SP, votou contra apuração de conduta do secretário de comunicação Bruno Botacin",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/secretario-de-ribeirao-pires-sugere-demitir-empregada-domestica-petista",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "22:36",
+"t": "Mulher desaparecida é encontrada com vida próximo a represa em Jales",
+"p": "Idosa de 70 anos estava desaparecida desde quinta-feira (29); polícia apura suspeita de choque em cerca eletrificada. Uma mulher de 70 anos, que estava desaparecida desde a manhã de quinta-feira (29), foi localizada na manhã desta sexta-feira (30.out) nas proximidades de uma represa, em Jales/SP. De acordo com a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mulher-desaparecida-e-encontrada-com-vida-proximo-a-represa-em-jales/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "22:30",
+"t": "Delegação alemã é recebida com hino nazista durante evento da prefeitura",
+"p": "Vereador diz que situação causou constrangimento entre autoridades alemãs, que visitavam Ubatuba para formalizar parceria sobre intercâmbio",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/delegacao-alema-e-recebida-com-hino-nazista-durante-evento-da-prefeitura",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "22:30",
+"t": "Força Tática captura procurado por tráfico e apreende cocaína em Votuporanga",
+"p": "Homem tentou se livrar dos entorpecentes pela descarga, mas foi impedido pela Polícia Militar; droga, celulares e balança de precisão foram apreendidos. Um homem procurado pela Justiça por envolvimento com o tráfico de drogas foi capturado pela Força Tática da Polícia Militar na tarde desta quarta-feira (28.out),…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/forca-tatica-captura-procurado-por-trafico-e-apreende-cocaina-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "21:48",
+"t": "Câmara vota mudanças no título “Educador Nota 1000” na sessão de terça-feira",
+"p": "Projeto da Mesa Diretora é o único item da Ordem do Dia e propõe adequações nos critérios de indicação e na realização da homenagem concedida aos profissionais da educação. A Câmara Municipal de Votuporanga/SP realiza na próxima terça-feira (3.nov), às 18h, a 39ª sessão ordinária de 2026. Na pauta da Ordem do Dia…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/camara-vota-mudancas-no-titulo-educador-nota-1000-na-sessao-de-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "21:45",
+"t": "Conta de luz seguirá sem cobrança extra em novembro; Aneel mantém bandeira verde",
+"p": "Após cinco meses de taxa adicional nas contas de energia, consumidores terão mais um mês de alívio. A melhora dos reservatórios das hidrelétricas evitou o acionamento de usinas mais caras. Os consumidores brasileiros continuarão sem pagar taxa extra na conta de energia elétrica em novembro. A Agência Nacional de…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/conta-de-luz-seguira-sem-cobranca-extra-em-novembro-aneel-mantem-bandeira-verde/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "21:39",
+"t": "Briga por vaga de estacionamento termina com empresário esfaqueado em Rio Preto",
+"p": "Homem de 60 anos foi atingido por golpes de facão após uma discussão de trânsito na Avenida Potirendaba; suspeito de 42 anos foi preso em flagrante. Um empresário de 60 anos ficou ferido após ser atacado com um facão durante uma briga de trânsito na tarde desta sexta-feira (30.out), em São José do Rio Preto/SP. […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Potirendaba"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/briga-por-vaga-de-estacionamento-termina-com-empresario-esfaqueado-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "21:34",
+"t": "Mais de 5 mil amputações por câncer de pênis em 10 anos: especialista alerta para erro comum na higiene masculina",
+"p": "Limpeza inadequada da região íntima está entre os principais fatores de risco para o câncer de pênis. Urologista explica os cuidados essenciais para prevenir a doença e outras complicações de saúde. Entre 2015 e 2025, o Brasil registrou cerca de 5,8 mil amputações de pênis causadas pelo câncer no órgão, segundo…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mais-de-5-mil-amputacoes-por-cancer-de-penis-em-10-anos-especialista-alerta-para-erro-comum-na-higiene-masculina/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "21:23",
+"t": "Cariani se defende após pedido de condenação pelo MPSP: \"Vítima de fraude\"",
+"p": "Influenciador e empresário afirmou que só é réu no processo porque era sócio, mas reforça ser inocente e diz confiar na Justiça",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cariani-se-defende-apos-pedido-de-condenacao-pelo-mpsp-vitima-de-fraude",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "21:00",
+"t": "Moradores reclamam de falta de iluminação em pista de caminhada do Parque Curupira",
+"p": "Frequentadores registraram trechos sem iluminação no parque nesta sexta-feira (30); Prefeitura informou que a Conecta Ribeirão fará uma vistoria no local",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/moradores-reclamam-de-falta-de-iluminacao-em-pista-de-caminhada-do-parque-curupira/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "20:59",
+"t": "Nível do Cantareira ultrapassa 50% pela primeira vez em 16 meses",
+"p": "Volume útil do sistema que abastece 9 milhões de habitantes na Grande SP atingiu 50,1% nessa quinta-feira (29/10), revela Sabesp",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/nivel-do-cantareira-ultrapassa-50-pela-primeira-vez-em-16-meses",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "20:57",
+"t": "Campos do Jordão abre oficialmente o Natal 2026 com público no Portal e carreata até o Capivari",
+"p": "Prefeito, representantes da FLMA e Papai Noel participaram da contagem regressiva; temporada terá espetáculos gratuitos, oficinas e decoração até janeiro.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/10/natal-2026-campos-do-jordao-inicio-programacao.html",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "20:23",
+"t": "Novo vídeo mostra entregadora sendo baleada em ação da polícia na zona oeste",
+"p": "Imagens obtidas pelo Metrópoles mostram o momento em que o veículo da entregadora é atingido por disparos",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/veja-novo-video-de-entregadora-baleada-em-acao-da-policia-na-zona-oeste",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "20:08",
+"t": "Família acredita que pecuarista planejou morte de jovem no interior de SP",
+"p": "Irmão relata discussão sobre celular com pecuarista antes do disparo; amiga também contou à polícia sobre supostas agressões contra Priscila na semana anterior ao crime",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/familia-acredita-que-pecuarista-planejou-morte-de-jovem-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "19:46",
+"t": "Chegada de novo pet exige cuidados com a saúde e adaptação, destaca veterinária",
+"p": "Avaliação de saúde, respeito ao tempo dos animais e supervisão são alguns aspectos que devem ser levados em conta",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/diario-pet/chegada-de-novo-pet-exige-cuidados-com-saude-e-adaptacao-destaca-veterinaria/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "19:45",
+"t": "Corregedoria da Polícia Civil apura origem de tiro que atingiu entregadora",
+"p": "Além de ter o rim e o pulmão perfurado pelo disparo, a entregadora teve que retirar o baço e segue em observação na UTI",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/corregedoria-da-policia-civil-apura-origem-de-tiro-que-atingiu-entregadora",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "19:32",
+"t": "Polícia investiga se caseiro \"envenenou\" patroa para obter bens da vítima",
+"p": "Investigação aponta \"fortes indícios\" de que o caseiro teria \"matado a vítima aos poucos\" com o objetivo de ficar com a herança da vítima",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-investiga-se-caseiro-envenenou-patroa-para-obter-bens-da-vitima",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "19:16",
+"t": "Três produtores do DJ Arana são presos em Congonhas por documentos falsos",
+"p": "DJ Arana e outros cinco produtores são ouvidos pela Polícia por fraude de documento ao embarcar em voo para Brasília",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tres-produtores-do-dj-arana-sao-presos-em-congonhas-por-documentos-falsos",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "18:22",
+"t": "Senac abre 2,8 mil vagas em cursos técnicos EAD gratuitos para pessoas com renda de até dois salários mínimos",
+"p": "Programa Senac de Gratuidade oferece formações a distância com diploma de nível técnico reconhecido pelo MEC",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/educacao/senac-abre-28-mil-vagas-em-cursos-tecnicos-ead-gratuitos-para-pessoas-com-renda-de-ate-dois-salarios-minimos/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "10:20",
+"t": "Conselho fiscalizador do FUNDEB tem inscrições prorrogadas em Campos do Jordão",
+"p": "Colegiado atua na fiscalização dos recursos destinados ao desenvolvimento da educação básica; vagas são voltadas para representantes da sociedade civil",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/10/conselho-fiscalizador-do-fundeb-tem-inscricoes-prorrogadas-em-campos-do-jordao.html",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "20:46",
+"t": "Etecs prorrogam inscrições até 10 de novembro; veja opções no Vale do Paraíba",
+"p": "Vestibulinho para o primeiro semestre de 2027 tem taxa de R$ 50 e prova em 6 de dezembro; prazo também foi reaberto para pedidos de atendimento diferenciado.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/10/etecs-prorrogacao-inscricoes-10-novembro-2027-vale-paraiba.html",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "20:46",
+"t": "Terra dos Dinos abre em 12 de novembro em Campos do Jordão; veja preços e regras",
+"p": "Inteira antecipada custa R$ 89; tarifa de R$ 59 para jordanenses exige comprovação. Tirolesa, trilha suspensa e estacionamento são cobrados à parte.",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/10/terra-dos-dinos-campos-jordao-abertura-ingressos-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "15:20",
+"t": "São José suspende sistema tributário e prevê retomada em 3 de novembro",
+"p": "Interrupção começou às 18h de quarta-feira, 28, para atualização do SIRF; emissão de guias, certidões e consultas está entre os serviços afetados.",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/10/sao-jose-suspensao-sistema-tributario-sirf-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "15:20",
+"t": "Senac terá caminhada histórica e encontros gratuitos de gastronomia em Campos do Jordão",
+"p": "Atividades acontecem de 11 a 13 de novembro, com inscrição prévia; programação inclui técnicas de preparo de massas e tradições dos chás brasileiros.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/10/senac-campos-jordao-jornada-alimentacao-turismo-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "15:19",
+"t": "Carreata com Papai Noel inaugura a decoração do Natal dos Sonhos nesta sexta-feira",
+"p": "Mais de 2,2 milhões de lâmpadas serão acesas desde o portal até Vila Capivari; programação cultural começa no sábado, dia 31/10",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/10/carreata-com-papai-noel-inaugura-a-decoracao-do-natal-dos-sonhos-nesta-sexta-feira.html",
+"auto": true
+}
+]
+}

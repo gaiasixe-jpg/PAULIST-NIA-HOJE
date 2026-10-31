@@ -1,0 +1,195 @@
+{
+ "_como_usar": "Situação de cada promessa do governador. Troque o status por: acompanhar, andamento, cumprido, atrasado ou naocumprido. Em 'prova' cole o link (https://...) que comprova. Em 'nota' escreva uma observação curta. Os números p01 a p38 seguem a ordem da tabela do site.",
+ "promessas": {
+  "p01": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p02": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p03": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p04": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p05": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p06": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p07": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p08": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p09": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p10": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p11": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p12": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p13": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p14": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p15": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p16": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p17": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p18": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p19": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p20": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p21": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p22": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p23": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p24": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p25": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p26": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p27": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p28": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p29": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p30": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p31": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p32": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p33": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p34": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p35": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p36": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p37": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  },
+  "p38": {
+   "status": "acompanhar",
+   "prova": "",
+   "nota": ""
+  }
+ }
+}

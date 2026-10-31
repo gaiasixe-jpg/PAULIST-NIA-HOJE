@@ -1,0 +1,23 @@
+{
+  "_como_usar": "Lista dos jornais que o robô lê. Para acrescentar um jornal, copie um bloco e troque nome e feed (o endereço RSS do jornal, geralmente o site + /feed/). 'cidade' = cidade usada quando a notícia não cita nenhuma. 'so_sp' = true para jornais nacionais: o robô só guarda o que fala de São Paulo.",
+  "fontes": [
+    {"nome": "Agência Brasil", "feed": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml", "so_sp": true},
+    {"nome": "Metrópoles São Paulo", "feed": "https://www.metropoles.com/sao-paulo/feed"},
+    {"nome": "Gazeta de S.Paulo", "feed": "https://www.gazetasp.com.br/feed/"},
+    {"nome": "Correio da Manhã", "feed": "https://www.correiodamanha.com.br/rss", "so_sp": true},
+    {"nome": "Diário do Grande ABC", "feed": "https://www.dgabc.com.br/rss", "so_sp": true},
+    {"nome": "O Diário de Mogi", "feed": "https://www.odiariodemogi.net.br/feed/", "cidade": "Mogi das Cruzes"},
+    {"nome": "Tribuna de Jundiaí", "feed": "https://tribunadejundiai.com.br/feed/", "cidade": "Jundiaí"},
+    {"nome": "NetCampos", "feed": "https://www.netcampos.com/feed/", "cidade": "São José dos Campos"},
+    {"nome": "A Tribuna", "feed": "https://www.atribuna.com.br/rss"},
+    {"nome": "Diário do Litoral", "feed": "https://www.diariodolitoral.com.br/feed/"},
+    {"nome": "Marília Notícia", "feed": "https://marilianoticia.com.br/feed/", "cidade": "Marília"},
+    {"nome": "Jornal Cruzeiro do Sul", "feed": "https://www.jornalcruzeiro.com.br/feed/", "cidade": "Sorocaba"},
+    {"nome": "ACidade ON", "feed": "https://www.acidadeon.com/feed/", "so_sp": true},
+    {"nome": "ACidade ON Ribeirão Preto", "feed": "https://www.acidadeon.com/ribeiraopreto/feed/", "cidade": "Ribeirão Preto"},
+    {"nome": "ACidade ON Campinas", "feed": "https://www.acidadeon.com/campinas/feed/", "cidade": "Campinas"},
+    {"nome": "Gazeta de Rio Preto", "feed": "https://www.gazetaderiopreto.com.br/feed/", "cidade": "São José do Rio Preto"},
+    {"nome": "Diário de Votuporanga", "feed": "https://diariodevotuporanga.com.br/feed/", "cidade": "Votuporanga"},
+    {"nome": "Informa Noroeste", "feed": "https://informanoroeste.com.br/feed/", "so_sp": true}
+  ]
+}

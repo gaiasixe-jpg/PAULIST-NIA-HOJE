@@ -1,0 +1,460 @@
+{
+ "_como_usar": "Notícias e decretos cadastrados à mão. Para acrescentar, copie um bloco {...}, cole no topo da lista 'itens' e troque os campos. Campos: d=data AAAA-MM-DD, t=título, p=resumo, tema, s=fato|decreto|entregue|obra|anunciado|alerta, c=lista de cidades com o nome oficial, src=fonte, u=link, num e org só para decretos.",
+ "itens": [
+  {
+   "d": "2026-10-31",
+   "t": "Árvore de grande porte cai no Centro de Convivência, em Campinas, após chuvas",
+   "p": "A queda ocorreu na madrugada de sábado (31) no gramado externo, no Cambuí; ninguém se feriu e o teatro não foi atingido. Segundo a Prefeitura, o solo encharcado causou a queda; a árvore era saudável e havia sido avaliada em 2025. Equipes de Parques e Jardins fizeram a remoção.",
+   "tema": "Meio ambiente",
+   "s": "alerta",
+   "c": [
+    "Campinas"
+   ],
+   "src": "ACidade ON",
+   "u": "https://www.acidadeon.com/campinas/cotidiano/arvore-de-grande-porte-cai-no-centro-de-convivencia-cultural-de-campinas-apos-chuvas/"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Campinas fará Cadastro Único em casa para 23,5 mil famílias",
+   "p": "A partir de terça-feira (3), 18 profissionais visitam famílias formadas por uma só pessoa. A equipe foi contratada por sete meses, por R$ 857,5 mil. O atendimento em casa é pedido pelo telefone 156.",
+   "tema": "Assistência social",
+   "s": "fato",
+   "c": [
+    "Campinas"
+   ],
+   "src": "ACidade ON Campinas",
+   "u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tera-equipe-para-cadastro-unico-domiciliar-para-235-mil-familias-entenda/"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Balanço da Saúde de Marília: notificações de violência sobem 45,5%",
+   "p": "Até a 42ª semana, os acidentes de trabalho passaram de 1.076 para 1.356 e os atendimentos antirrábicos de 561 para 824. Os casos de Covid-19 caíram de 441 para 76.",
+   "tema": "Saúde",
+   "s": "fato",
+   "c": [
+    "Marília"
+   ],
+   "src": "Marília Notícia",
+   "u": "https://marilianoticia.com.br/mariliaeregiao/balanco-da-saude-mostra-o-que-aumentou-e-diminuiu-em-marilia-em-2026/"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "Santo André espera 50 mil visitantes nos cemitérios municipais no Dia de Finados",
+   "p": "Segundo a Prefeitura, os cinco cemitérios públicos funcionam das 8h às 17h na segunda (2), com reforço de equipes do Serviço Funerário, missas nas capelas, segurança da GCM e monitoramento do trânsito.",
+   "tema": "Serviços",
+   "s": "fato",
+   "c": [
+    "Santo André"
+   ],
+   "src": "Diário do Grande ABC",
+   "u": "https://www.dgabc.com.br/Noticia/4366159/santo-andre-espera-receber-50-mil-visitantes-nos-cemiterios-municipais-para-o-dia-de-finados"
+  },
+  {
+   "d": "2026-10-31",
+   "t": "GCM de São Bernardo reforça patrulhamento contra roubos no Demarchi e Botujuru no feriado",
+   "p": "A Guarda Civil Municipal amplia as rondas com motos nos bairros Terra Nova I e II de sexta (30) a segunda (2), com foco em roubos a pedestres e motociclistas e na proteção de escolas municipais. Moradores podem acionar a GCM pelo 153.",
+   "tema": "Segurança",
+   "s": "fato",
+   "c": [
+    "São Bernardo do Campo"
+   ],
+   "src": "Diário do Grande ABC",
+   "u": "https://www.dgabc.com.br/Noticia/4366161/gcm-de-sao-bernardo-reforca-patrulhamento-contra-roubos-no-demarchi-e-botujuru"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Prefeitura de Cubatão abre concursos públicos com 20 vagas",
+   "p": "A Prefeitura planeja admitir 20 profissionais de níveis médio e superior e também formar cadastro reserva.",
+   "tema": "Serviços",
+   "s": "fato",
+   "c": [
+    "Cubatão"
+   ],
+   "src": "A Tribuna",
+   "u": "https://www.atribuna.com.br/cidades/cubatao/salario-de-mais-de-r-5-mil-e-muito-mais-prefeitura-de-cubat-o-abre-concursos-publicos-com-20-vagas-de-emprego-confira-1.535026"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Defesa Civil de SP alerta para pancadas de chuva fortes no Dia de Finados",
+   "p": "Segundo a Defesa Civil estadual, o tempo fica mais estável até domingo, mas na segunda (2) há previsão de pancadas localmente fortes, rajadas de vento e raios isolados. Alertas gratuitos por SMS podem ser recebidos enviando o CEP para 40199.",
+   "tema": "Meio ambiente",
+   "s": "alerta",
+   "c": [],
+   "src": "O Imparcial",
+   "u": "https://www.imparcial.com.br/noticias/defesa-civil-alerta-para-previsao-de-chuva-no-dia-de-finados,84346"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Prefeitura de Marília propõe nova etapa do Zera Dívida com descontos de até 90% para MEIs e empresas",
+   "p": "O projeto enviado à Câmara prevê 90% de desconto nos encargos para pagamento à vista ou 60% no parcelamento, para débitos do Simples Nacional e multas municipais até 31/12/2025. Se aprovado, a adesão vai de 5 de novembro a 22 de dezembro. Multas de trânsito e penalidades do TCE ficam de fora.",
+   "tema": "Contas públicas",
+   "s": "fato",
+   "c": [
+    "Marília"
+   ],
+   "src": "Marília Notícia",
+   "u": "https://marilianoticia.com.br/mariliaeregiao/governo-vinicius-propoe-descontos-para-meis-e-empresas/"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Furtos e vandalismo atingem UBSs e UPAs de Mauá e suspendem atendimentos",
+   "p": "Em uma semana, três UBSs e duas UPAs tiveram ocorrências de vandalismo, invasão ou furto. A UBS Zaíra 2 ficou uma semana fechada e o furto de fiação na UBS Itapark suspendeu atendimento odontológico e vacinação. Até quarta (28), ao menos 15 prédios municipais haviam sido afetados, incluindo seis escolas.",
+   "tema": "Saúde",
+   "s": "alerta",
+   "c": [
+    "Mauá"
+   ],
+   "src": "Diário do Grande ABC",
+   "u": "https://www.dgabc.com.br/Noticia/4366077/furtos-e-vandalismo-afetam-unidades-de-saude-em-maua"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Responsáveis por festa em que estrutura desabou em Regente Feijó firmam acordo com o MP",
+   "p": "O TAC com o Ministério Público, homologado em 16 de outubro, prevê ressarcimento de 50% dos convites a participantes que comprovem presença, reparação de danos materiais e avaliação do clima antes de eventos. O desabamento, em novembro de 2025, deixou 59 feridos e uma morte.",
+   "tema": "Segurança",
+   "s": "fato",
+   "c": [
+    "Regente Feijó"
+   ],
+   "src": "O Imparcial",
+   "u": "https://www.imparcial.com.br/noticias/responsaveis-por-festa-universitaria-em-que-estrutura-desabou-firmam-acordo-com-mpe,84343"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Ribeirão Pires apresenta a vereadores proposta de reforma da Previdência municipal",
+   "p": "A Prefeitura apresentou o anteprojeto que muda idade mínima, cálculo dos benefícios e regras de transição dos servidores: 62 anos para mulheres e 65 para homens, com regras próprias para o magistério, e mínimo de 25 anos de contribuição. Segundo a administração, benefícios já concedidos e direitos adquiridos serão preservados.",
+   "tema": "Contas públicas",
+   "s": "fato",
+   "c": [
+    "Ribeirão Pires"
+   ],
+   "src": "Diário do Grande ABC",
+   "u": "https://www.dgabc.com.br/Noticia/4366071/ribeirao-pires-apresenta-proposta-de-reforma-da-previdencia"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "São José dos Campos fica em 1º lugar no prêmio estadual Município Amigo do Esporte",
+   "p": "O programa municipal Atleta Cidadão, que atende crianças e jovens de 8 a 20 anos em 22 modalidades, recebeu nota máxima nos critérios do Prêmio Selo Amigo do Esporte, promovido pelo Governo de SP.",
+   "tema": "Esporte",
+   "s": "fato",
+   "c": [
+    "São José dos Campos"
+   ],
+   "src": "Meon",
+   "u": "https://www.meon.com.br/noticias/meon/esporte/sao-jose-dos-campos-alcanca-nota-10-e-conquista-trofeu-de-municipio-amigo-do-esporte-em-sp"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "Cemitérios públicos de Sorocaba têm programação especial em Finados",
+   "p": "Os quatro cemitérios municipais abrem das 8h às 16h na segunda-feira (2), com missas, cultos e tendas da Saúde para medir pressão e glicemia. A prefeitura espera cerca de 50 mil visitantes.",
+   "tema": "Serviços",
+   "s": "fato",
+   "c": [
+    "Sorocaba"
+   ],
+   "src": "Jornal Cruzeiro do Sul",
+   "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/10/767204-cemiterios-publicos-de-sorocaba-tem-acoes-especiais-em-finados.html"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Marília entrega reforma do Cemitério da Saudade com rampa de acessibilidade",
+   "p": "A obra, de R$ 118.829,91, foi feita pela Emdurb em parceria com o Grupo Prever e incluiu ampliação das salas de atendimento e da administração, reforma dos banheiros e rampa na entrada.",
+   "tema": "Serviços",
+   "s": "entregue",
+   "c": [
+    "Marília"
+   ],
+   "src": "Marília Notícia",
+   "u": "https://marilianoticia.com.br/mariliaeregiao/reforma-do-cemiterio-e-entregue-com-melhorias-de-acessibilidade-e-na-estrutura/"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Mogi das Cruzes amplia fiscalização eletrônica de trânsito de 34 para 43 pontos a partir de 3 de novembro",
+   "p": "O novo contrato da Prefeitura prevê 29 pontos de controle de velocidade, 10 de avanço de sinal e 4 de restrição a veículos com mais de 10 metros. Segundo o município, os locais foram definidos por estudos técnicos.",
+   "tema": "Transporte",
+   "s": "obra",
+   "c": [
+    "Mogi das Cruzes"
+   ],
+   "src": "O Diário de Mogi",
+   "u": "https://www.odiariodemogi.net.br/alto-tiete/novos-radares-comecam-a-operar-em-mogi-das-cruzes-na-proxima-semana/"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Presidente Prudente recebe primeira unidade regional do Espaço Prevenir, do Governo de SP",
+   "p": "O serviço oferece apoio psicossocial com foco em vínculos familiares e prevenção de recaídas no uso de substâncias, com assistentes sociais, psicólogos e pedagogos. É a 20ª unidade do estado, na Rua Doutor Gurgel, 1.111, Vila Ocidental.",
+   "tema": "Assistência social",
+   "s": "entregue",
+   "c": [
+    "Presidente Prudente"
+   ],
+   "src": "O Imparcial",
+   "u": "https://www.imparcial.com.br/noticias/prudente-inaugura-primeira-unidade-regional-do-espaco-prevenir,84269"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Novo Código de Posturas de Santos aguarda votação na Câmara",
+   "p": "O projeto com novas regras para a cidade passou por consulta popular e está em análise na Câmara de Vereadores.",
+   "tema": "Política",
+   "s": "fato",
+   "c": [
+    "Santos"
+   ],
+   "src": "A Tribuna",
+   "u": "https://www.atribuna.com.br/cidades/santos/novo-codigo-de-posturas-de-santos-segue-em-analise-na-camara-veja-como-enviar-propostas-1.534935"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Tarcísio deve anunciar secretariado do 2º mandato; Saúde terá troca",
+   "p": "Segundo o Metrópoles, ao menos seis secretários devem ser mantidos em 2027, entre eles Natália Resende, Roberto Carneiro, Renato Feder, Nerylson Lima, Geraldo Melo Filho e Marília Marton. Eleuses Paiva deixará a Saúde. O governo não confirmou oficialmente os nomes.",
+   "tema": "Política",
+   "s": "fato",
+   "c": [],
+   "src": "Metrópoles",
+   "u": "https://www.metropoles.com/sao-paulo/governo-tarcisio-deve-ter-ao-menos-seis-secretarios-mantidos-em-2027"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Escolas estaduais da região de Sorocaba vão receber 42.485 tablets",
+   "p": "Segundo a Secretaria da Educação, a compra é de 200 mil tablets para a rede estadual, e cerca de 95 mil já foram entregues. A pasta também prevê ampliar o Programa Ensino Integral em 2027.",
+   "tema": "Educação",
+   "s": "anunciado",
+   "c": [
+    "Sorocaba"
+   ],
+   "src": "Jornal Cruzeiro do Sul",
+   "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/10/767142-regiao-de-sorocaba-recebera-mais-de-42-mil-tablets-para-escolas-estaduais.html"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Vereadores de Sorocaba cobram Prefeitura sobre filas do SUS e plano contra enchentes",
+   "p": "Roberto Freitas (PL) pediu dados sobre cirurgias, consultas e exames com espera acima de seis meses. A comissão especial de enchentes questionou o Plano Municipal de Redução de Riscos e o planejamento para o período de chuvas 2026/2027.",
+   "tema": "Saúde",
+   "s": "alerta",
+   "c": [
+    "Sorocaba"
+   ],
+   "src": "Jornal Cruzeiro do Sul",
+   "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/10/767141-vereadores-cobram-prefeitura-sobre-filas-do-sus-e-enchentes.html"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "Prefeitura de SP e Jockey Club assinam acordo sobre dívida tributária de R$ 800 milhões",
+   "p": "Segundo o prefeito Ricardo Nunes, a cidade receberá o valor pelo programa de transação tributária e ganhará um parque de 85 mil m², com entrega prevista para outubro de 2028. Cerca de R$ 228 milhões devem ser pagos à vista. O vereador Roberto Tripoli (PV) criticou: \"Estamos perdendo mais de R$ 400 milhões\".",
+   "tema": "Contas públicas",
+   "s": "fato",
+   "c": [
+    "São Paulo"
+   ],
+   "src": "Metrópoles",
+   "u": "https://www.metropoles.com/sao-paulo/jockey-e-prefeitura-de-sp-assinam-acordo-de-pagamento-de-divida-milionaria"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Justiça rejeita ação do MP contra gasto de R$ 2,25 milhões com shows do rodeio de Marília",
+   "p": "A Vara da Fazenda Pública julgou improcedente a ação civil pública do MP-SP contra os cachês de Gusttavo Lima e Maiara & Maraisa pagos pela Prefeitura. O juiz não viu ilegalidade comprovada, mas escreveu que o gasto \"parece subverter a ordem natural de prioridades\". Cabe recurso.",
+   "tema": "Contas públicas",
+   "s": "fato",
+   "c": [
+    "Marília"
+   ],
+   "src": "Marília Notícia",
+   "u": "https://marilianoticia.com.br/mariliaeregiao/justica-rejeita-acao-do-mp-contra-gastos-com-shows-do-rodeio-em-marilia/"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Mauá inaugura segunda Casa de Cursos do Qualifica Mauá em shopping, com aulas à noite e aos sábados",
+   "p": "A unidade no Mauá Plaza Shopping começa com cursos de costura e amigurumi, das 17h às 21h e aos sábados. Segundo a Prefeitura, o espaço foi cedido por parceria sem custo ao município. Edilson de Paula foi apresentado como novo secretário de Trabalho, Renda e Empreendedorismo.",
+   "tema": "Assistência social",
+   "s": "entregue",
+   "c": [
+    "Mauá"
+   ],
+   "src": "Diário do Grande ABC",
+   "u": "https://www.dgabc.com.br/Noticia/4366078/maua-inaugura-casa-de-cursos-no-shopping-com-aulas-a-noite-e-aos-sabados"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Rua Araçatuba passa a ter sentido único na Vila Santa Maria, em Santo André",
+   "p": "A Secretaria de Mobilidade Urbana tornou mão única o trecho entre a Avenida Gago Coutinho e a Rua Hiléia. A Prefeitura diz que a mudança veio após o recapeamento do programa Meu Bairro Novo, para reorganizar o trânsito e ampliar vagas de estacionamento.",
+   "tema": "Transporte",
+   "s": "entregue",
+   "c": [
+    "Santo André"
+   ],
+   "src": "Diário do Grande ABC",
+   "u": "https://www.dgabc.com.br/Noticia/4366074/rua-aracatuba-passa-a-ter-sentido-unico-em-santo-andre"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Estado visita programas sociais de São Bernardo para possível expansão",
+   "p": "A secretária estadual de Desenvolvimento Social, Andrezza Rosalém, conheceu o Minha Feira SBC, a creche noturna da Emeb Eliana Gomes Quinonero, uma ILPI para 40 pessoas e o Cras Ferrazópolis/Tiradentes, reformado com recursos do SuperAção.",
+   "tema": "Assistência social",
+   "s": "fato",
+   "c": [
+    "São Bernardo do Campo"
+   ],
+   "src": "Diário do Grande ABC",
+   "u": "https://www.dgabc.com.br/Noticia/4366081/estado-conhece-programas-sociais-de-sao-bernardo-para-possivel-expansao"
+  },
+  {
+   "d": "2026-10-28",
+   "t": "Sorocaba prevê verba em 2027 para regularizar AVCB do Paço e do Cartório Eleitoral",
+   "p": "A Prefeitura diz que prepara projetos e adequações, mas não respondeu se os autos de vistoria dos Bombeiros estão vencidos, quais ajustes são necessários ou se há riscos. Não foram informados custos nem prazos.",
+   "tema": "Segurança",
+   "s": "alerta",
+   "c": [
+    "Sorocaba"
+   ],
+   "src": "Jornal Cruzeiro do Sul",
+   "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/10/767085-paco-e-cartorio-eleitoral-tem-verba-prevista-para-avcb-em-2027.html"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "SP e demais estados aprovam aumento do ICMS sobre gasolina, diesel e gás a partir de fevereiro de 2027",
+   "p": "O Confaz, que reúne os secretários da Fazenda de todos os estados, aprovou os Convênios 127 e 128/2026. O ICMS fixo por litro sobe de R$ 1,57 para R$ 1,64 na gasolina, de R$ 1,17 para R$ 1,30 no diesel e de R$ 1,47 para R$ 1,54 por quilo no gás de cozinha (R$ 0,91 a mais por botijão). O Comsefaz diz que é a atualização anual prevista em lei, com base nos preços da ANP.",
+   "tema": "Contas públicas",
+   "s": "alerta",
+   "c": [],
+   "src": "Exame",
+   "u": "https://exame.com/economia/estados-aprovam-aumento-do-icms-sobre-gasolina-diesel-e-gas-de-cozinha-a-partir-de-2027/"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Câmara de Marília abre Comissão Processante contra o vereador Júnior Féfin",
+   "p": "A comissão vai apurar possível quebra de decoro parlamentar após a divulgação de um vídeo envolvendo o vereador e sua companheira. Féfin terá 10 dias para apresentar defesa e o processo deve terminar em até 90 dias. A abertura não significa culpa nem cassação do mandato.",
+   "tema": "Política",
+   "s": "alerta",
+   "c": [
+    "Marília"
+   ],
+   "src": "Marília Notícia",
+   "u": "https://marilianoticia.com.br/mariliaeregiao/camara-aprova-abertura-de-comissao-processante-contra-junior-fefin/"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Marília adia para 9 de dezembro pregão da PPP de R$ 176,8 milhões de iluminação e monitoramento",
+   "p": "A concessão de 30 anos prevê trocar 32.951 pontos de iluminação por LED em 24 meses, além de câmeras inteligentes e um centro de operações. A Prefeitura justificou o adiamento apenas por \"ajustes de trabalhos\".",
+   "tema": "Investimentos",
+   "s": "fato",
+   "c": [
+    "Marília"
+   ],
+   "src": "Marília Notícia",
+   "u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-adia-licitacao-de-r-1768-milhoes-para-iluminacao-e-monitoramento-em-marilia/"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "Mogi das Cruzes prevê orçamento de R$ 3,4 bilhões para 2027",
+   "p": "O valor, apresentado em audiência pública da LOA, soma Prefeitura, Semae e Iprem. Educação terá R$ 448,6 milhões (25,08%) e Saúde R$ 377,2 milhões (21,09%). Uma consulta pública reuniu 459 sugestões.",
+   "tema": "Contas públicas",
+   "s": "fato",
+   "c": [
+    "Mogi das Cruzes"
+   ],
+   "src": "O Diário de Mogi",
+   "u": "https://www.odiariodemogi.net.br/mogi/prefeitura-de-mogi-das-cruzes-preve-r-34-bilhoes-para-o-orcamento-de-2027/"
+  },
+  {
+   "d": "2026-10-25",
+   "t": "Chuva provoca alagamentos, quedas de muros e deslizamento em Campinas",
+   "p": "A Defesa Civil registrou 23 ocorrências entre sábado e domingo. No Beco do Mokarzel, o Rio Atibaia transbordou e atingiu casas; 30 famílias optaram por não ir para abrigos.",
+   "tema": "Meio ambiente",
+   "s": "alerta",
+   "c": [
+    "Campinas"
+   ],
+   "src": "ACidade ON Campinas",
+   "u": "https://www.acidadeon.com/campinas/cotidiano/chuva-deixa-rastro-de-estragos-em-campinas-cidade-tem-alagamentos-quedas-de-muros-e-deslizamento/"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "Rio Preto recebe 40 ônibus novos no transporte coletivo",
+   "p": "São 30 ônibus da Circular Santa Luzia e dez da Itamaraty. Parte da compra foi financiada com R$ 22,8 milhões do FGTS, pela linha Novo PAC Mobilidade Urbana.",
+   "tema": "Transporte",
+   "s": "entregue",
+   "c": [
+    "São José do Rio Preto"
+   ],
+   "src": "Gazeta de Rio Preto",
+   "u": "https://www.gazetaderiopreto.com.br/rio-preto-recebe-40-novos-onibus-para-renovar-frota-do-transporte-coletivo/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Marília abre 2.573 vagas na rede municipal com o Zera Fila Creche",
+   "p": "Entre julho de 2025 e setembro de 2026, a prefeitura contratou 156 professores e implantou 47 espaços. No lançamento do programa, 630 crianças esperavam vaga.",
+   "tema": "Educação",
+   "s": "entregue",
+   "c": [
+    "Marília"
+   ],
+   "src": "Marília Notícia",
+   "u": "https://marilianoticia.com.br/mariliaeregiao/rede-municipal-amplia-atendimento-com-2-573-vagas-e-novos-professores/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "Ribeirão Preto cria comissão para revitalizar o Centro",
+   "p": "O decreto do prefeito Ricardo Silva cria uma Comissão Gestora, coordenada pela Casa Civil e sem remuneração, para a revitalização e o retrofit do Centro. Participam entidades como Acirp, Sincovarp, Polícia Militar, CPFL Paulista e Abrasel.",
+   "tema": "Decretos",
+   "s": "decreto",
+   "c": [
+    "Ribeirão Preto"
+   ],
+   "src": "ACidade ON Ribeirão Preto",
+   "u": "https://www.acidadeon.com/ribeiraopreto/politica/novo-plano-para-o-centro-ribeirao-preto-cria-grupo-para-transformar-o-coracao-da-cidade/",
+   "num": "Nº 233",
+   "org": "Prefeitura"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "São José dos Campos é octacampeã dos Jogos Abertos, disputados em Votuporanga",
+   "p": "A cidade somou 353 pontos e conquistou o oitavo título seguido. Santos foi vice, com 277, e Praia Grande ficou em terceiro, com 159.",
+   "tema": "Esporte",
+   "s": "fato",
+   "c": [
+    "São José dos Campos",
+    "Votuporanga",
+    "Santos",
+    "Praia Grande"
+   ],
+   "src": "NetCampos",
+   "u": "https://www.netcampos.com/noticias/2026/10/sao-jose-oito-titulos-seguidos-jogos-abertos-2026.html"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "Gaeco prende secretário de Governo de Bauru em operação sobre licitação do lixo",
+   "p": "Renato Purini, marido da prefeita Suéllen Rosim, foi preso na Operação Cavalo de Troia, do Gaeco do MP-SP, que apura irregularidades e fraudes na licitação da concessão dos serviços de lixo da cidade.",
+   "tema": "Política",
+   "s": "alerta",
+   "c": [
+    "Bauru"
+   ],
+   "src": "Marília Notícia",
+   "u": "https://marilianoticia.com.br/noticias/secretario-renato-purini-marido-da-prefeita-de-bauru-e-preso-pelo-gaeco/"
+  },
+  {
+   "d": "2026-10-01",
+   "t": "Rio Preto suspende concursos e corta gastos até o fim do ano",
+   "p": "Decreto do prefeito Fábio Candido suspende até 31 de dezembro a abertura de concursos e nomeações, manda revisar contratos e reduzir gastos com água, energia, viagens e telefonia. A arrecadação própria até agosto ficou R$ 15,9 milhões abaixo do previsto.",
+   "tema": "Decretos",
+   "s": "decreto",
+   "c": [
+    "São José do Rio Preto"
+   ],
+   "src": "Gazeta de Rio Preto",
+   "u": "https://www.gazetaderiopreto.com.br/prefeitura-de-rio-preto-anuncia-contencao-de-despesas/",
+   "num": "Decreto de 30/09",
+   "org": "Prefeitura"
+  },
+  {
+   "d": "2024-12-26",
+   "t": "ICMS de bares e restaurantes sobe de 3,2% para 4% após acordo com o governo",
+   "p": "O governo Tarcísio queria acabar com o benefício do setor e elevar a alíquota para 12%. Depois de reação de bares, restaurantes e padarias, fechou acordo em 4% a partir de 2025, com impacto estimado de 1% a 2% nos cardápios.",
+   "tema": "Contas públicas",
+   "s": "fato",
+   "c": [],
+   "src": "Gazeta do Povo",
+   "u": "https://www.gazetadopovo.com.br/sao-paulo/governo-tarcisio-e-representantes-de-bares-e-restaurantes-chegam-a-acordo-sobre-icms/"
+  }
+ ]
+}
