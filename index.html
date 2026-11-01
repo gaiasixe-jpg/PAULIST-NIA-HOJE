@@ -389,6 +389,7 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
   <h2 class="sec-h" id="h-prom">O placar das promessas</h2>
   <p class="sec-sub">O que cada eleito de 2026 prometeu para São Paulo, com a fonte. Quando uma promessa for cumprida, ela muda de cor aqui, com a prova ao lado.</p>
   <div class="controls" id="polSel" role="group" aria-label="Escolha o eleito" style="margin-top:14px"></div>
+  <div class="kwrow"><label for="depEle" class="more">Deputados eleitos em 2026</label><select id="depEle" aria-label="Escolha um deputado eleito"><option value="">Escolha um deputado federal ou estadual…</option></select></div>
   <p class="arch-note" id="polInfo"></p>
   <div class="score" id="score"></div>
   <div class="btnrow"><a class="btn wab" id="promShare" href="#" target="_blank" rel="noopener">Compartilhar o placar</a><button class="btn alt" type="button" data-story="placar">Baixar imagem para Stories</button></div>
@@ -790,9 +791,17 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     POLS=POLS.slice(0,1).concat(d.politicos.filter(function(x){return x&&x.id&&Array.isArray(x.promessas);}).map(function(x){
       return {id:String(x.id),cargo:String(x.cargo||""),curto:String(x.cargo||"").replace(" da República","").replace(" por SP",""),nome:String(x.nome||""),partido:String(x.partido||""),mandato:String(x.mandato||""),eleicao:String(x.eleicao||""),eleicao_u:safeUrl(x.eleicao_u),nota:String(x.nota||""),
         rows:x.promessas.map(function(q){if(q.status&&!PSTATE[q.id])PSTATE[q.id]={status:q.status,prova:q.prova||"",nota:q.nota||""};return [String(q.area||"Geral"),String(q.id),String(q.t||""),String(q.meta||""),safeUrl(q.u)||""];})};}));
+    var nf=function(v){return (+v||0).toLocaleString("pt-BR");};
+    var depOpt=function(arr,cargo,pre){return (Array.isArray(arr)?arr:[]).map(function(x){var o={id:pre+String(x.id),cargo:cargo,curto:cargo,nome:String(x.nome||""),partido:String(x.partido||""),mandato:"2027–2030",
+        eleicao:"Eleito(a) com "+nf(x.votos)+" votos",eleicao_u:safeUrl(pre==="df-"?d.deputados_fonte:d.deputados_fonte_est),nota:x.base?"Base eleitoral: "+String(x.base)+".":"",dep:true,
+        rows:(Array.isArray(x.promessas)?x.promessas:[]).map(function(q){return [String(q.area||"Geral"),String(q.id),String(q.t||""),String(q.meta||""),safeUrl(q.u)||""];})};POLS.push(o);return o;});};
+    var fed=depOpt(d.deputados_federais,"Deputado(a) federal","df-"),est=depOpt(d.deputados_estaduais,"Deputado(a) estadual","de-");
+    var og=function(lab,l){return l.length?'<optgroup label="'+esc(lab)+'">'+l.map(function(o){return '<option value="'+esc(o.id)+'">'+esc(o.nome)+' ('+esc(o.partido)+')'+(o.rows.length?' · '+o.rows.length+' promessa'+(o.rows.length>1?'s':''):'')+'</option>';}).join("")+'</optgroup>':'';};
+    var dsel=document.getElementById("depEle");dsel.innerHTML='<option value="">Escolha um deputado federal ou estadual…</option>'+og("Federais ("+fed.length+")",fed)+og("Estaduais ("+est.length+")",est);
     PROXIMOS=String(d.proximos||"");drawPolSel();drawProm();}).catch(function(){});}
+  document.getElementById("depEle").addEventListener("change",function(){if(!this.value)return;curPol=this.value;drawPolSel();drawProm();});
   var polSel=document.getElementById("polSel");
-  function drawPolSel(){polSel.innerHTML=POLS.map(function(x){return '<button class="chip" type="button" data-pol="'+esc(x.id)+'" aria-pressed="'+(x.id===curPol)+'">'+esc(x.curto)+' · '+esc(x.nome)+'</button>';}).join("")+(PROXIMOS?'<span class="more" style="margin-left:4px">'+esc(PROXIMOS)+'</span>':'');}
+  function drawPolSel(){var ds=document.getElementById("depEle");if(ds&&!/^d[fe]-/.test(curPol))ds.value="";polSel.innerHTML=POLS.filter(function(x){return !x.dep;}).map(function(x){return '<button class="chip" type="button" data-pol="'+esc(x.id)+'" aria-pressed="'+(x.id===curPol)+'">'+esc(x.curto)+' · '+esc(x.nome)+'</button>';}).join("")+(PROXIMOS?'<span class="more" style="margin-left:4px">'+esc(PROXIMOS)+'</span>':'');}
   polSel.addEventListener("click",function(e){var b=e.target.closest("[data-pol]");if(!b)return;curPol=b.getAttribute("data-pol");drawPolSel();drawProm();});
   function drawProm(){
     var P=polAtual(),LIST=P.rows;
@@ -806,6 +815,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       var ed=canEdit?'<div class="ed"><select data-pst="'+p[1]+'" aria-label="Situação">'+Object.keys(PST).map(function(k){return '<option value="'+k+'"'+(k===s?" selected":"")+'>'+PST[k]+'</option>';}).join("")+'</select><input type="url" data-pprova="'+p[1]+'" placeholder="Link da prova (https://...)" value="'+esc(prova||"")+'"><input type="text" data-pnota="'+p[1]+'" placeholder="Observação curta" value="'+esc(nota||"")+'"><button type="button" data-psave="'+p[1]+'">Salvar</button></div>':'';
       rows+='<tr><td>'+esc(p[2])+(nota&&!canEdit?'<div class="more">'+esc(nota)+'</div>':'')+'</td><td class="num">'+esc(p[3])+'</td><td><span class="tag t-'+s+'">'+PST[s]+'</span>'+(prova?'<div><a class="readlink" href="'+esc(prova)+'" target="_blank" rel="noopener">Ver prova →</a></div>':'')+ed+'</td><td>'+(p[4]?'<a href="'+esc(p[4])+'" target="_blank" rel="noopener" class="more">fonte</a>':'')+'</td></tr>';
     });
+    if(!LIST.length)rows='<tr><td colspan="4" class="more" style="padding:16px">Ainda não levantamos as promessas de '+esc(P.nome)+'. Viu uma promessa em entrevista, debate ou rede social? Mande com o link pelo botão <a href="#sobre-contato">Correções e denúncias</a> que ela entra aqui com a fonte.</td></tr>';
     document.getElementById("promBody").innerHTML=rows;
     var tot=LIST.length||1;
     document.getElementById("score").innerHTML=["cumprido","andamento","acompanhar","atrasado","naocumprido"].map(function(k){return '<div style="--c:'+PCOL[k]+'"><b>'+cnt[k]+'</b><span>'+PST[k]+'</span></div>';}).join("");
