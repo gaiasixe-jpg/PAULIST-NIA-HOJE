@@ -551,7 +551,22 @@
    "nome": "Paulo Serra",
    "partido": "PSDB",
    "votos": 132866,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "paulo-serr01",
+     "area": "Política",
+     "t": "Retomar na Câmara a tramitação do voto distrital misto (PL 9.212/2017)",
+     "meta": "Sem número",
+     "u": "https://www.dgabc.com.br/Noticia/4352059/paulo-serra-elege-voto-distrital-como-bandeira-prioritaria-em-brasilia"
+    },
+    {
+     "id": "paulo-serr02",
+     "area": "Grande ABC",
+     "t": "Reunir os sete prefeitos e os deputados da região para montar um Plano Diretor do Grande ABC, com mobilidade e habitação como prioridades",
+     "meta": "Sem número",
+     "u": "https://www.dgabc.com.br/Noticia/4352059/paulo-serra-elege-voto-distrital-como-bandeira-prioritaria-em-brasilia"
+    }
+   ]
   },
   {
    "id": "sidney-cruz",
@@ -579,7 +594,15 @@
    "nome": "Arlindo Chinaglia",
    "partido": "PT",
    "votos": 124121,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "arlindo-ch01",
+     "area": "Educação",
+     "t": "Fortalecer o Instituto Federal em Ribeirão Preto",
+     "meta": "Sem número",
+     "u": "https://cbnribeirao.com.br/entrevista-com-arlindo-chinaglia-pt-aborda-resultado-eleitoral-e-desafios-do-pt-em-ribeirao-preto/"
+    }
+   ]
   },
   {
    "id": "pastor-marco-feliciano",
@@ -833,7 +856,22 @@
    "nome": "Eduarda Campopiano",
    "partido": "PL",
    "votos": 1956238,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "eduarda-ca01",
+     "area": "Família",
+     "t": "Combater o aborto e a chamada ideologia de gênero em São Paulo",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    },
+    {
+     "id": "eduarda-ca02",
+     "area": "Segurança",
+     "t": "Combater a impunidade, o crime organizado e o crime de colarinho branco",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    }
+   ]
   },
   {
    "id": "eduardo-suplicy",
@@ -912,7 +950,29 @@
    "nome": "Tenente Coimbra",
    "partido": "PL",
    "votos": 198342,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "tenente-co01",
+     "area": "Segurança",
+     "t": "Fortalecer a polícia ostensiva, em conjunto com os governos estadual e federal e a Polícia Federal, principalmente no Porto de Santos",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    },
+    {
+     "id": "tenente-co02",
+     "area": "Educação",
+     "t": "Conseguir mais três escolas cívico-militares para a Baixada Santista",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    },
+    {
+     "id": "tenente-co03",
+     "area": "Saúde",
+     "t": "Dar sequência aos projetos na área da saúde nos próximos quatro anos",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    }
+   ]
   },
   {
    "id": "rafa-minato",
@@ -1129,7 +1189,22 @@
    "nome": "Paulo Mansur",
    "partido": "PL",
    "votos": 107073,
-   "promessas": [],
+   "promessas": [
+    {
+     "id": "paulo-mans01",
+     "area": "Obras",
+     "t": "Fiscalizar a obra do túnel Santos-Guarujá, que chamou de prioridade máxima para a Baixada Santista",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    },
+    {
+     "id": "paulo-mans02",
+     "area": "Água",
+     "t": "Fiscalizar a Sabesp para que a água chegue a todos",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    }
+   ],
    "base": "Campinas"
   },
   {
@@ -1172,7 +1247,36 @@
    "nome": "Caio França",
    "partido": "PSB",
    "votos": 99840,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "caio-franc01",
+     "area": "Saúde",
+     "t": "Ampliar o acesso a produtos de cannabis medicinal no estado",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/caio-franca-quer-avancar-em-pautas-da-cannabis-medicinal-e-infraestrutura-na-regiao/"
+    },
+    {
+     "id": "caio-franc02",
+     "area": "Justiça",
+     "t": "Acabar com a aposentadoria compulsória como punição para agentes públicos que cometem crimes no cargo",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/caio-franca-quer-avancar-em-pautas-da-cannabis-medicinal-e-infraestrutura-na-regiao/"
+    },
+    {
+     "id": "caio-franc03",
+     "area": "Obras",
+     "t": "Cobrar o avanço do túnel Santos-Guarujá, do Aeroporto Civil Metropolitano de Guarujá, da expansão do VLT e da terceira pista da Imigrantes, sem novos aditivos de contrato",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/caio-franca-quer-avancar-em-pautas-da-cannabis-medicinal-e-infraestrutura-na-regiao/"
+    },
+    {
+     "id": "caio-franc04",
+     "area": "Assistência social",
+     "t": "Manter a pauta da adoção de crianças e adolescentes órfãos",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/caio-franca-quer-avancar-em-pautas-da-cannabis-medicinal-e-infraestrutura-na-regiao/"
+    }
+   ]
   },
   {
    "id": "franco-sardelli",
@@ -1215,7 +1319,29 @@
    "nome": "Débora Camilo",
    "partido": "PSOL",
    "votos": 94895,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "debora-cam01",
+     "area": "Habitação",
+     "t": "Defender habitação social na Baixada Santista e no Vale do Ribeira, regiões com déficit de moradia",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    },
+    {
+     "id": "debora-cam02",
+     "area": "Emprego",
+     "t": "Buscar geração de emprego e renda para a população ao longo do mandato",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    },
+    {
+     "id": "debora-cam03",
+     "area": "Meio ambiente",
+     "t": "Atuar em meio ambiente diante dos eventos climáticos extremos na região",
+     "meta": "Sem número",
+     "u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/deputados-estaduais-da-regiao-falam-sobre-prioridades-em-seus-mandatos/"
+    }
+   ]
   },
   {
    "id": "leticia-aguiar",
@@ -1321,7 +1447,22 @@
    "nome": "Thainara Faria",
    "partido": "PT",
    "votos": 81485,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "thainara-f01",
+     "area": "Direitos",
+     "t": "Ampliar os direitos de mulheres, crianças, adolescentes e idosos",
+     "meta": "Sem número",
+     "u": "https://rciararaquara.com.br/thainara-faria-e-reeleita-deputada-estadual-pelo-pt-com-mais-de-81-mil-votos-neste-domingo/"
+    },
+    {
+     "id": "thainara-f02",
+     "area": "Comunidades",
+     "t": "Ajudar na valorização das comunidades tradicionais",
+     "meta": "Sem número",
+     "u": "https://rciararaquara.com.br/thainara-faria-e-reeleita-deputada-estadual-pelo-pt-com-mais-de-81-mil-votos-neste-domingo/"
+    }
+   ]
   },
   {
    "id": "mauro-bragato",
