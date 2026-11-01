@@ -1,12 +1,11 @@
 {
-"atualizado": "2026-11-01T13:43:57-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-01T14:13:56-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -14,14 +13,12 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -37,15 +34,96 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "13:54",
+"t": "7 concursos públicos abertos em SP com salários de até R$ 20 mil",
+"p": "Oportunidades em concursos públicos contemplam todos os níveis de escolaridade em prefeituras, órgãos estaduais e tribunais; confira prazos de inscrição e cargos",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/7-concursos-publicos-abertos-em-sp-com-salarios-de-ate-r-20-mil/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "13:48",
+"t": "Ilhabela anuncia novas regras para o verão, limita cadeiras e guarda-sóis nas praias e proíbe reserva antecipada de espaços na areia",
+"p": "A Prefeitura de Ilhabela, no litoral norte de São Paulo, proibiu comerciantes de reservar espaços nas praias com cadeiras, guarda-sóis e mesas antes da chegada dos banhistas. A medida faz parte das novas regras para o comércio ambulante e a ocupação da faixa de areia durante a temporada de verão. As mudanças estão…",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São Paulo",
+"Ilhabela"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/ilhabela-anuncia-novas-regras-para-o-verao-limita-cadeiras-e-guarda-sois-nas-praias-e-proibe-reserva-antecipada-de-espacos-na-areia/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "13:48",
+"t": "O lado intocado de Guarujá: praia do Exército preserva Mata Atlântica e mar de piscina",
+"p": "Encravada no Forte dos Andradas, praia do Monduba tem regras de segurança do Exército que garantem a preservação da Mata Atlântica no local",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/turismo/o-lado-intocado-de-guaruja-praia-do-exercito-preserva-mata-atlantica-e-mar-de-piscina.html",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "13:30",
+"t": "Prodesp e Sebrae-SP disponibilizam vagas para programa de capacitação de startups",
+"p": "Speed GOV prepara empresas para atuar no mercado de contratações públicas; inscrições seguem até 27 de novembro",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4365875/prodesp-e-sebrae-sp-disponibilizam-vagas-para-programa-de-capacitacao-de-startups",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "13:20",
+"t": "Prefeitura interdita empresa e acompanha ações após incêndio em Mauá",
+"p": "Companhia se comprometeu a limpar a pista e as galerias de esgoto e de águas pluviais atingidas por resíduos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366276/prefeitura-interdita-empresa-e-acompanha-acoes-apos-incendio-em-maua",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "13:03",
@@ -130,6 +208,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/capitao-da-policia-militar-morre-aos-41-anos-em-colisao-frontal-na-regiao-de-pereira-barreto/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:36",
+"t": "Embarcação atinge nadador no canal de Bertioga e deixa local sem prestar socorro",
+"p": "Homem sofreu ferimento profundo na coxa esquerda e cortes nas pernas; embarcação não foi identificada e vítima foi levada ao hospital",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/sem-categoria/embarcacao-atinge-nadador-no-canal-de-bertioga-e-deixa-local-sem-prestar-socorro.html",
 "auto": true
 },
 {
@@ -273,6 +365,20 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/motociclista-morre-apos-ser-atropelado-na-imigrantes-em-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:00",
+"t": "Novembro no Grande ABC começa com chuva e calor; veja previsão completa",
+"p": "A região metropolitana de São Paulo amanheceu com nebulosidade e temperaturas amenas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366264/novembro-no-grande-abc-comeca-com-chuva-e-calor-veja-previsao-completa",
 "auto": true
 },
 {
