@@ -101,6 +101,19 @@ Cuidado com as aspas e as vírgulas: cada bloco termina com `},` menos o último
 
 O botão "Mandar por e-mail" (aba Sobre) e o link "Corrigir" em cada notícia abrem um e-mail para aranellin@gmail.com já com o título e o link da notícia. Para trocar o endereço, abra `index.html`, procure `var MAIL=` e troque o e-mail.
 
+## Contador de visitas (opcional e gratuito)
+
+1. Crie uma conta grátis em https://www.goatcounter.com/signup. Ele não usa cookies e não guarda dados pessoais dos visitantes.
+2. Escolha um código, por exemplo `paulistaniahoje`. O painel fica em `https://paulistaniahoje.goatcounter.com`.
+3. No repositório, abra `index.html`, procure `var CONTADOR=""` e coloque o código entre as aspas: `var CONTADOR="paulistaniahoje"`. Salve com **Commit changes**.
+
+## O que o robô gera sozinho
+
+- `data/feed.json`: notícias e atos dos últimos 120 dias.
+- `data/arquivo/AAAA-MM.json`: tudo o que já entrou no site, mês a mês, para sempre. Aparece no seletor de período do Jornal.
+- `data/rss/estado.xml` e `data/rss/CÓDIGO-IBGE.xml`: endereços de assinatura (RSS) do estado e de cada cidade com notícias.
+- `data/deputados.json`: os deputados estaduais em exercício, com o que apresentaram nos últimos 12 meses e as cidades que mais citam. Refeito uma vez por dia, às 7h, com os dados abertos da Alesp.
+
 ## Ter um endereço próprio (opcional)
 
 1. Compre o domínio em https://registro.br (por exemplo `paulistaniahoje.com.br`).
