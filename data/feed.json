@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-01T19:42:33-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-01T20:41:14-03:00",
+"novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 83 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,61 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "20:40",
+"t": "Policiais militares resgatam cachorro preso em bueiro",
+"p": "Uma ação realizada por uma equipe do 49º Batalhão de Polícia Militar do Interior (BPM/I) resultou no resgate de um cachorro de pequeno porte que estava preso no interior de um bueiro no bairro Jardim Tarumã, em Jundiaí. A ocorrência foi registrada na última sexta-feira (30), quando os agentes patrulhavam a região e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí",
+"Tarumã"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policiais-militares-resgatam-cachorro-preso-em-bueiro/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "20:15",
+"t": "Confira as novas regras do uso do vale-refeição (VR) e vale-alimentação (VA)",
+"p": "As novas regras também estabelecem limites para as taxas cobradas dos estabelecimentos comerciais e reduzem o prazo para o repasse dos valores das vendas.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/mudancas-nas-regras-do-vale-refeicao-e-vale-alimentacao/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "19:30",
+"t": "Cacau Show oferece vagas temporárias em São Paulo, Minas Gerais e Rio de Janeiro",
+"p": "Processo seletivo conduzido pela Carpediem Consultoria busca profissionais com ensino médio completo para atuar no atendimento ao público e na organização das lojas",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4365876/cacau-show-oferece-vagas-temporarias-em-sao-paulo-minas-gerais-e-rio-de-janeiro",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "19:25",
+"t": "Homem tenta cruzar o mundo sem pegar avião, é assaltado no Brasil após 90 mil km e é forçado a quebrar meta de ‘zero voos’ para não perder documentários",
+"p": "O ambientalista e cineasta alemão David Bossek decidiu atravessar os sete continentes sem recorrer ao transporte aéreo. Iniciada em 2024, a expedição ONE PLANET prevê quatro anos de deslocamentos por terra e mar, com o objetivo de medir e compensar as emissões de carbono geradas durante o percurso. Até outubro de…",
+"tema": "Segurança",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/homem-tenta-cruzar-o-mundo-sem-pegar-aviao-e-assaltado-no-brasil-apos-90-mil-km-e-e-forcado-a-quebrar-meta-de-zero-voos-para-nao-perder-documentarios/",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "19:06",
@@ -75,6 +130,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/idoso-de-74-anos-sofre-parada-cardiorrespiratoria-e-morre-em-bar-no-jardim-do-trevo-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "19:00",
+"t": "O custo da limpeza de bueiros em São Paulo: como são calculados os valores das limpezas pela Prefeitura e o que é feito",
+"p": "A limpeza e a desobstrução de bueiros, galerias pluviais e bocas de lobo na cidade de São Paulo não geram qualquer tipo de cobrança direta ou taxa para o morador. Trata-se de um serviço público essencial prestado pelas 32 Subprefeituras paulistanas e custeado integralmente pela arrecadação de impostos municipais.…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/o-custo-da-limpeza-de-bueiros-em-sao-paulo-como-sao-calculados-os-valores-das-limpezas-pela-prefeitura-e-o-que-e-feito/",
 "auto": true
 },
 {
