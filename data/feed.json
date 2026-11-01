@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-01T18:52:14-03:00",
-"novos_nesta_coleta": 35,
+"atualizado": "2026-11-01T19:42:33-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 83 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,36 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "19:06",
+"t": "Homem é atropelado na Rodovia Euclides da Cunha e socorrido em estado grave em Fernandópolis",
+"p": "Um homem de 28 anos ficou ferido após ser atropelado por um carro na noite deste sábado (31), em um trecho da Rodovia Euclides da Cunha (SP-320), no município de Fernandópolis. O acidente ocorreu no sentido que leva a Jales, na altura entre os bairros Paulistano e Jardim Ipanema. A vítima foi localizada pelos…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Fernandópolis",
+"Cunha",
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-atropelado-na-rodovia-euclides-da-cunha-e-socorrido-em-estado-grave-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "19:06",
+"t": "Idoso de 74 anos sofre parada cardiorrespiratória e morre em bar no Jardim do Trevo em Fernandópolis",
+"p": "Um idoso de 74 anos faleceu na noite deste sábado (31) após passar mal enquanto frequentava um estabelecimento comercial no bairro Jardim do Trevo, em Fernandópolis. As equipes de emergência foram acionadas para o local, mas não conseguiram reverter o quadro de saúde do aposentado. De acordo com as informações…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/idoso-de-74-anos-sofre-parada-cardiorrespiratoria-e-morre-em-bar-no-jardim-do-trevo-em-fernandopolis/",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "18:51",
