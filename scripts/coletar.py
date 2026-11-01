@@ -592,11 +592,12 @@ def atualizar_videos():
 
 
 # ---------- Decretos das prefeituras (Diários Oficiais municipais via Querido Diário) ----------
-QD_API = "https://api.queridodiario.ok.org.br/gazettes"
+QD_API = "https://api.queridodiario.org.br/gazettes"
 QD_DEC = re.compile(r"\bDECRETO\s+(?:MUNICIPAL\s+|EXECUTIVO\s+)?(?:N[º°o]\.?|NUMERO|NÚMERO|N\.)\s*([0-9][0-9.]*(?:/[0-9]{2,4})?)", re.I)
 QD_EMENTA = re.compile(r"\b((?:Disp[õo]e|Abre|Regulamenta|Declara|Institui|Altera|Nomeia|Exonera|Fixa|Aprova|Homologa|Convoca|Prorroga|Estabelece|Autoriza|Cria|Revoga|Decreta|Denomina|Suspende|Designa|Concede)\b[^;]{15,260}?)(?:\.\s|;|\s+O\s+PREFEITO|\s+[A-ZÁÉÍÓÚ]{2,}\s+[A-ZÁÉÍÓÚ]{2,}\s+[A-ZÁÉÍÓÚ]{3,}|$)", re.S)
-QD_CREDITO = re.compile(r"cr[ée]dito (?:adicional )?suplementar|abre (?:no or[çc]amento|cr[ée]dito)", re.I)
+QD_CREDITO = re.compile(r"cr[ée]dito (?:adicional )?(?:suplementar|especial)|abre (?:no or[çc]amento|cr[ée]dito)|abertura,? (?:no or[çc]amento|de cr[ée]dito)|remanejamento|transposi[çc][ãa]o|dota[çc][ãa]o or[çc]ament", re.I)
 QD_ROTINA = re.compile(r"\b(nomeia|exonera|designa|concede (?:f[ée]rias|licen[çc]a)|aposenta|readapta|promove servidor)", re.I)
+QD_DATA = re.compile(r"\s*(?:/\s*(\d{4}))?\s*[,.-]?\s*(?:DE|de)?\s*\d{1,2}\s*[º°]?\s*(?:DE|de)\s+[A-Za-zÇç]+\s+(?:DE|de)\s+(\d{4})|\s*(?:/\s*(\d{4}))?\s*[,.-]?\s*(?:DE|de)?\s*\d{1,2}/\d{1,2}/(\d{4})")
 QD_DIAS = 4
 QD_POR_CIDADE = 4
 
@@ -681,6 +682,15 @@ def coletar_diarios(municipios, agora):
                     tx = limpar_trecho(ex)
                     for mt in QD_DEC.finditer(tx):
                         num = mt.group(1).rstrip(".")
+                        ano = re.search(r"/(\d{2,4})$", num)
+                        if ano and len(ano.group(1)) == 4 and int(ano.group(1)) < agora.year - 1:
+                            continue  # citação de decreto antigo, não é ato novo
+                        num = re.sub(r"/\d{2,4}$", "", num)
+                        cab = tx[mt.end():mt.end() + 60]
+                        dt = QD_DATA.match(cab)
+                        anos = [int(x) for x in (dt.groups() if dt else ()) if x] + ([int(ano.group(1))] if ano and len(ano.group(1)) == 4 else [])
+                        if not anos or not (agora.year - 1 <= max(anos) <= agora.year):
+                            continue  # sem data do ano no cabeçalho: provavelmente é citação de outro decreto
                         resto = tx[mt.end():mt.end() + 700]
                         em = QD_EMENTA.search(resto)
                         if not em:
@@ -692,11 +702,14 @@ def coletar_diarios(municipios, agora):
                             continue
                         if QD_ROTINA.match(ementa):
                             continue
+                        ementa = re.sub(r",?\s*(?:nos termos d[oa]s? )?(?:art|inc|§)$", "", ementa).strip(" ,.-–\"'“”")
+                        if len(ementa) < 30:
+                            continue
                         ementa = ementa[0].upper() + ementa[1:]
                         if len(ementa) > 200:
                             ementa = ementa[:197].rsplit(" ", 1)[0] + "…"
                         lst = por_cidade.setdefault(cid, {})
-                        if num not in lst:
+                        if num not in lst and not any(v["t"] == f"{cid}: {ementa}" for v in lst.values()):
                             lst[num] = {"d": data, "h": "06:00", "t": f"{cid}: {ementa}", "p": f"Decreto nº {num}, publicado no Diário Oficial do município em {data[8:10]}/{data[5:7]}/{data[:4]}.",
                                         "tema": "Decretos", "s": "decreto", "c": [cid], "src": f"Diário Oficial de {cid}",
                                         "u": url, "auto": True, "org": "Prefeitura", "num": f"Nº {num}", "qd": True, "mun": True}
