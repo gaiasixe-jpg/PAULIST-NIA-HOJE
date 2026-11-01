@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-01T16:45:03-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-01T17:10:55-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -48,6 +48,77 @@
 "itens": [
 {
 "d": "2026-11-01",
+"h": "17:00",
+"t": "Frente fria deve mudar tempo em São Paulo e derrubar temperaturas após dias de calor e chuva no Estado",
+"p": "A primeira semana de novembro será marcada por mudanças no tempo em São Paulo. Depois de dias de calor e pancadas de chuva, a chegada de uma nova frente fria deve aumentar as condições para temporais na quinta-feira (5/11) e provocar queda nas temperaturas a partir de sexta-feira (6/11). Nesta segunda-feira (2/11),…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/frente-fria-deve-mudar-tempo-em-sao-paulo-e-derrubar-temperaturas-apos-dias-de-calor-e-chuva-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "17:00",
+"t": "Finados: Campinas terá reforço em seis linhas de ônibus e 12 veículos reserva; veja quais",
+"p": "Operação especial será realizada na segunda-feira (2) para atender passageiros que vão aos cemitérios da cidade; sete terminais também terão ônibus disponíveis para reforçar o atendimento em caso de aumento da demanda",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/finados-campinas-tera-reforco-em-seis-linhas-de-onibus-e-12-veiculos-reserva-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "17:00",
+"t": "Preocupação com bronquiolite e vírus sincicial cresce entre gestantes",
+"p": "Pesquisa nacional mostra avanço no conhecimento sobre o vírus sincicial respiratório, mas revela que gestantes ainda têm dúvidas sobre a gravidade da bronquiolite e a vacinação durante a gravidez.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/vida/preocupacao-com-bronquiolite-e-virus-sincicial-cresce-entre-gestantes/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "16:55",
+"t": "Ilhabela proíbe cadeiras e guarda-sóis montados sem solicitação; veja novas regras",
+"p": "Novo decreto estabelece limites para equipamentos na areia, exige autorização de comerciantes e prevê penalidades para quem descumprir as regras",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-proibe-cadeiras-e-guarda-sois-montados-sem-solicitacao-veja-novas-regras.html",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-01",
+"h": "16:49",
+"t": "Diadema terá missas e bloqueios no trânsito na segunda-feira (2)",
+"p": "Cemitério Municipal espera mais de 2 mil visitantes durante o período de Finados; celebrações serão realizadas às 9h, 12h e 15h",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366302/diadema-tera-missas-e-bloqueios-no-transito-na-segunda-feira-2-",
+"auto": true
+},
+{
+"d": "2026-11-01",
 "h": "16:41",
 "t": "Dois foragidos são capturados pela GCM em São Sebastião",
 "p": "Um dos homens se apresentou espontaneamente à Guarda Municipal após romper tornozeleira eletrônica; segundo procurado foi localizado na Vila Sahy",
@@ -58,6 +129,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/seguranca/dois-foragidos-sao-capturados-pela-gcm-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "16:30",
+"t": "São Bernardo terá mutirões contra dengue em quatro regiões",
+"p": "Ações começam na terça-feira (3) e seguem até o dia 27; programação inclui Dia D de conscientização na Praça da Matriz, em 28 de novembro",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366209/sao-bernardo-tera-mutiroes-contra-dengue-em-quatro-regioes",
 "auto": true
 },
 {
@@ -127,6 +212,21 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-152-porcoes-de-drogas-com-apoio-do-cao-farejador-no-bairro-cajuru-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "16:00",
+"t": "Motociclista morre após colisão com carro durante manobra de retorno em rodovia do litoral de SP",
+"p": "Um grave acidente envolvendo um carro e uma motocicleta deixou uma pessoa morta na manhã deste domingo (1º/11), em Bertioga, no litoral de São Paulo. A colisão aconteceu na rodovia Doutor Manoel Hipólito do Rego (SP-055). De acordo com a Concessionária Novo Litoral (CNL), o acidente foi registrado às 8h58, na…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Bertioga"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/motociclista-morre-apos-colisao-com-carro-durante-manobra-de-retorno-em-rodovia-do-litoral-de-sp/",
 "auto": true
 },
 {
