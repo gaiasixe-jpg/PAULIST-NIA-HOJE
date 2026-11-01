@@ -33,11 +33,22 @@ jobs:
           if [ -f coletar.yml ]; then git rm -q coletar.yml; fi
       - name: Ler os jornais
         run: python scripts/coletar.py
+      - name: Imagem de prévia do WhatsApp (só se faltar)
+        run: |
+          if [ ! -f og.jpg ] && [ -f scripts/og.html ]; then
+            for b in google-chrome chromium chromium-browser; do
+              if command -v $b >/dev/null; then
+                $b --headless=new --no-sandbox --disable-gpu --hide-scrollbars --virtual-time-budget=8000 --window-size=1200,630 --screenshot="$PWD/og.jpg" "file://$PWD/scripts/og.html" && break
+              fi
+            done
+          fi
+          ls -la og.jpg || echo "sem og.jpg"
       - name: Salvar no site
         run: |
           git config user.name "robo-paulistania"
           git config user.email "robo-paulistania@users.noreply.github.com"
           git add -A data scripts
+          if [ -f og.jpg ]; then git add og.jpg; fi
           if git diff --cached --quiet; then
             echo "Nada novo nesta coleta."
           else
