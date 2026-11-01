@@ -6,6 +6,15 @@
 <meta name="description" content="Paulistânia Hoje: notícias, decretos, investimentos e promessas do estado de São Paulo e dos 645 municípios, com fonte.">
 <meta property="og:title" content="Paulistânia Hoje">
 <meta property="og:description" content="Política paulista, cidade por cidade, com data e fonte.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:url" content="https://gaiasixe-jpg.github.io/PAULIST-NIA-HOJE/">
+<meta property="og:image" content="https://gaiasixe-jpg.github.io/PAULIST-NIA-HOJE/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Paulistânia Hoje: política paulista, cidade por cidade">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="Paulistânia Hoje — Estado de São Paulo" href="data/rss/estado.xml">
 <title>Paulistânia Hoje</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -113,7 +122,7 @@ main .wrap{padding-block:28px 56px}
 .chip{border:1.5px solid var(--rule);background:var(--sheet);color:var(--ink);border-radius:999px;padding:6px 13px;font:600 13px var(--body);cursor:pointer}
 .chip:hover{border-color:var(--ink)}
 .chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
-select,input[type=text],input[type=url],input[type=date],textarea{font:500 14px var(--body);color:var(--ink);background:var(--sheet);border:1.5px solid var(--rule);border-radius:8px;padding:8px 10px;max-width:100%}
+select,input[type=search].kw,input[type=text],input[type=url],input[type=date],textarea{font:500 14px var(--body);color:var(--ink);background:var(--sheet);border:1.5px solid var(--rule);border-radius:8px;padding:8px 10px;max-width:100%}
 .lead-story{display:grid;gap:8px;padding:22px 0;border-bottom:3px double var(--rule)}
 .lead-story h3{font-family:var(--display);font-weight:800;font-size:clamp(30px,4vw,42px);line-height:1;margin:0}
 .lead-story p{font-size:17px;margin:0;max-width:64ch}
@@ -223,6 +232,30 @@ td .ed button,.btn{font:700 13px var(--body);background:var(--ink);color:var(--p
 .contact p{margin:0 0 12px;color:var(--flag-muted)}
 .contact .btn{background:var(--red);color:var(--red-ink)}
 .btn{text-decoration:none;display:inline-block}
+.kwrow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:4px 0 6px}
+.kwrow input{flex:1 1 220px;min-width:0}
+.kwrow select{flex:0 1 auto}
+.arch-note{font-size:13px;color:var(--muted);margin:6px 0 0}
+.deps{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px;margin-top:14px}
+.dep{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:14px 16px;text-align:left;cursor:pointer;font:inherit;color:inherit;display:flex;flex-direction:column;gap:6px}
+.dep:hover{border-color:var(--red)}
+.dep b{font-size:16px;line-height:1.25}
+.dep .pt{font:600 11px var(--mono);letter-spacing:.06em;color:var(--muted);text-transform:uppercase}
+.dep .mini{display:flex;gap:12px;font-size:12.5px;color:var(--muted)}
+.dep .mini strong{color:var(--ink);font-size:15px}
+.depd{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:20px;margin-top:16px}
+.depd h3{font-family:var(--display);font-weight:900;font-size:clamp(28px,4vw,40px);text-transform:uppercase;margin:0;line-height:1}
+.depd h4{font-family:var(--display);font-weight:800;font-size:20px;text-transform:uppercase;margin:20px 0 6px}
+.depd ul{margin:0;padding-left:18px}.depd li{margin:4px 0}
+.depnums{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:14px 0}
+@media (max-width:560px){.depnums{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.depnums div{border:1px solid var(--rule);border-radius:10px;padding:10px;border-top:4px solid var(--c)}
+.depnums b{display:block;font-family:var(--display);font-size:30px;line-height:1}
+.depnums span{font-size:12px;color:var(--muted)}
+.pl{padding:10px 0;border-bottom:1px solid var(--rule)}
+.pl small{font:600 11px var(--mono);color:var(--muted)}
+.pl a{color:var(--ink);font-weight:600;text-decoration:none}.pl a:hover{text-decoration:underline}
+.rss{font:700 12.5px var(--body);color:var(--anun);text-decoration:none}.rss:hover{text-decoration:underline}
 .editor{background:var(--sheet);border:2px solid var(--red);border-radius:12px;padding:18px;margin-top:24px;display:grid;gap:10px}
 .editor h3{margin:0}
 .editor .row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
@@ -277,6 +310,7 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
   <a href="#decretos" data-view="decretos">Decretos</a>
   <a href="#cidade" data-view="cidade">Minha cidade</a>
   <a href="#regioes" data-view="regioes">Regiões</a>
+  <a href="#deputados" data-view="deputados">Deputados</a>
   <a href="#promessas" data-view="promessas">Promessas</a>
   <a href="#sobre" data-view="sobre">Sobre</a>
 </div></nav>
@@ -291,6 +325,8 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
     <div style="min-width:0">
       <div class="controls" id="temas" role="group" aria-label="Tema"></div>
       <div class="controls"><label for="regSel" class="more">Região</label><select id="regSel"></select></div>
+      <div class="kwrow"><input class="kw" type="search" id="kw" placeholder="Buscar por palavra: ICMS, hospital, pedágio…" aria-label="Buscar notícias por palavra"><select id="per" aria-label="Período"><option value="">Últimos 120 dias</option></select></div>
+      <p class="arch-note" id="perNote" hidden></p>
       <div id="paper"></div>
     </div>
     <aside>
@@ -311,6 +347,12 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
       <div class="panel">
         <h4>Por região</h4>
         <div class="regbars" id="regbars"></div>
+      </div>
+      <div class="panel">
+        <h4>Para as redes</h4>
+        <p style="margin:0;font-size:14px">Arte vertical com as principais notícias do dia, no tamanho dos Stories.</p>
+        <button class="btn" type="button" data-story="dia">Baixar imagem do dia</button>
+        <a class="rss" href="data/rss/estado.xml" target="_blank" rel="noopener">Assinar as notícias do estado (RSS)</a>
       </div>
       <div class="panel">
         <h4>Achou um erro?</h4>
@@ -335,11 +377,19 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
   <div id="regList"></div>
 </section>
 
+<section class="view" id="v-deputados" aria-labelledby="h-deps" hidden>
+  <h2 class="sec-h" id="h-deps">Os deputados estaduais</h2>
+  <p class="sec-sub">Os 94 deputados da Assembleia Legislativa (Alesp): o que cada um apresentou nos últimos 12 meses e quais cidades mais aparecem nos seus pedidos. Quando os eleitos em 2026 tomarem posse, em março de 2027, esta lista passa a mostrá-los automaticamente.</p>
+  <div class="kwrow" style="margin-top:14px"><input class="kw" type="search" id="depQ" placeholder="Procure pelo nome ou pela cidade" aria-label="Procurar deputado"><select id="depP" aria-label="Partido"></select><select id="depO" aria-label="Ordenar"><option value="n">Ordem alfabética</option><option value="pl">Mais projetos de lei</option><option value="ind">Mais indicações</option></select></div>
+  <p class="arch-note" id="depNote">Carregando os dados da Alesp…</p>
+  <div id="depOut"></div>
+</section>
+
 <section class="view" id="v-promessas" aria-labelledby="h-prom" hidden>
   <h2 class="sec-h" id="h-prom">O placar das promessas</h2>
   <p class="sec-sub">Os compromissos do governador Tarcísio de Freitas para 2027–2030, do plano de governo e das falas de campanha. Quando um deles for cumprido, ele muda de cor aqui, com a prova ao lado.</p>
   <div class="score" id="score"></div>
-  <div class="btnrow"><a class="btn wab" id="promShare" href="#" target="_blank" rel="noopener">Compartilhar o placar</a></div>
+  <div class="btnrow"><a class="btn wab" id="promShare" href="#" target="_blank" rel="noopener">Compartilhar o placar</a><button class="btn alt" type="button" data-story="placar">Baixar imagem para Stories</button></div>
   <div class="progress" id="progress" aria-hidden="true"></div>
   <div class="tablewrap"><table>
     <thead><tr><th>Promessa</th><th>Meta</th><th>Situação</th><th>Fonte</th></tr></thead>
@@ -597,12 +647,24 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
   rs.innerHTML='<option value="todas">Todas as regiões</option>'+Object.keys(REGN).map(function(k){return '<option value="'+k+'">'+esc(REGN[k])+' ('+k+')</option>';}).join("");
   rs.addEventListener("change",function(){setReg(rs.value==="todas"?null:rs.value);});
   function inReg(n,r){return n.c.some(function(c){return byName[c]&&byName[c].d===r;});}
+  var ARQ=null,arqMes="",kwv="";
+  function kwMatch(n){if(!kwv)return true;var t=n._k||(n._k=norm(n.t+" "+n.p+" "+n.src+" "+n.tema+" "+n.c.join(" ")));return kwv.split(" ").every(function(w){return t.indexOf(w)>=0;});}
   function drawPaper(){
-    var list=N.filter(function(n){if(st.tema!=="Todos"&&n.tema!==st.tema)return false;if(st.reg!=="todas")return inReg(n,st.reg);return true;});
+    var base=arqMes&&ARQ?ARQ:N;
+    var list=base.filter(function(n){if(st.tema!=="Todos"&&n.tema!==st.tema)return false;if(!kwMatch(n))return false;if(st.reg!=="todas")return inReg(n,st.reg);return true;});
     var out=document.getElementById("paper");
     if(!list.length){out.innerHTML='<div class="empty">Nenhuma notícia com esse filtro ainda.</div>';return;}
     out.innerHTML=storyHTML(list[0],true)+'<div class="stories">'+list.slice(1).map(function(n){return storyHTML(n);}).join("")+'</div>';
   }
+  var kwT;document.getElementById("kw").addEventListener("input",function(){var v=this.value;clearTimeout(kwT);kwT=setTimeout(function(){kwv=norm(v);drawPaper();},180);});
+  var perSel=document.getElementById("per"),perNote=document.getElementById("perNote");
+  function loadMeses(){loadJSON("data/arquivo/index.json").then(function(ix){if(!ix||!Array.isArray(ix.meses))return;var cur=perSel.value;
+    perSel.innerHTML='<option value="">Últimos 120 dias</option>'+ix.meses.map(function(m){if(!/^\d{4}-\d{2}$/.test(m.mes))return "";var p=m.mes.split("-");return '<option value="'+m.mes+'">Arquivo: '+MES[+p[1]-1].replace(".","")+" "+p[0]+" ("+(+m.n||0)+")</option>";}).join("");perSel.value=cur;}).catch(function(){});}
+  perSel.addEventListener("change",function(){var m=perSel.value;arqMes=m;
+    if(!m){ARQ=null;perNote.hidden=true;drawPaper();return;}
+    perNote.hidden=false;perNote.textContent="Carregando o arquivo…";
+    loadJSON("data/arquivo/"+m+".json").then(function(a){if(arqMes!==m)return;ARQ=(a.itens||[]).map(function(x,i){return cleanLive(x,"a"+i);}).filter(Boolean);
+      perNote.textContent="Mostrando o arquivo completo do mês: "+ARQ.length+" notícias e atos. Volte para \"Últimos 120 dias\" para ver as novidades.";drawPaper();},function(){perNote.textContent="Não foi possível abrir o arquivo agora.";});});
   function drawRegBars(){
     var counts={};Object.keys(REGN).forEach(function(k){counts[k]=N.filter(function(n){return inReg(n,k);}).length;});
     var maxc=Math.max.apply(null,Object.keys(counts).map(function(k){return counts[k];}))||1;
@@ -697,7 +759,11 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       '<a class="paper search" href="'+g(m.n+" SP")+'&tbm=nws" target="_blank" rel="noopener"><b>Tudo sobre '+esc(m.n)+'</b><small>Busca de notícias de hoje em todos os jornais</small></a>'+
       '</div></div>';
     h+='<div class="btnrow"><a class="btn wab" href="'+esc(waLink(m.n+" no Paulistânia Hoje: notícias, decretos e as publicações oficiais da prefeitura.\n"+SITE+"#c-"+m.i))+'" target="_blank" rel="noopener">Compartilhar a página de '+esc(m.n)+'</a></div>';
+    var dc=(DEPS&&DEPS.por_cidade&&DEPS.por_cidade[m.n])||[];
+    if(dc.length){h+='<div class="official"><h3>Deputados de olho em '+esc(m.n)+'</h3><p>Quem mais citou a cidade em indicações, requerimentos e projetos na Alesp nos últimos 12 meses.</p><div class="olinks">'+
+      dc.map(function(x){var d=DEPI[x[0]];if(!d)return "";return '<a href="#d-'+esc(d.id)+'"><b>'+esc(d.n)+'</b><small>'+esc(d.p)+' · citou '+esc(m.n)+' '+(+x[1])+(x[1]>1?' vezes':' vez')+'</small></a>';}).join("")+'</div></div>';}
     h+='<h2 class="sec-h" style="font-size:32px">Notícias e decretos com fonte</h2>';
+    if(m.rec.length)h+='<p style="margin:6px 0 0"><a class="rss" href="data/rss/'+m.i+'.xml" target="_blank" rel="noopener">Assinar as notícias de '+esc(m.n)+' (RSS)</a></p>';
     h+=m.rec.length?'<div class="stories">'+m.rec.map(function(n){return storyHTML(n);}).join("")+'</div>':'<div class="empty" style="margin-top:12px">Ainda não há notícias ou decretos verificados sobre '+esc(m.n)+' na base. As publicações oficiais acima já estão disponíveis, e os próximos itens da cidade aparecem aqui assim que forem publicados.</div>';
     document.getElementById("cityOut").innerHTML=h;
     drawMap(cv,mapOpts());
@@ -745,6 +811,77 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
 
   var PLACAR="";
   document.getElementById("mailFix").href=mailLink("Paulistânia Hoje: correção ou denúncia","Cidade:\n\nO que aconteceu (ou o que está errado no site):\n\nLink, foto ou documento que comprova:\n\nPosso citar seu nome? (sim/não)\n");
+  /* deputados */
+  var DEPS=null,DEPI={},curDep=null;
+  var depQ=document.getElementById("depQ"),depP=document.getElementById("depP"),depO=document.getElementById("depO"),depOut=document.getElementById("depOut");
+  function loadDeps(){loadJSON("data/deputados.json").then(function(d){if(!d||!Array.isArray(d.deputados))return;DEPS=d;DEPI={};
+      d.deputados.forEach(function(x){x.id=String(x.id);x._k=norm(x.n+" "+x.p+" "+(x.base||[]).join(" ")+" "+(x.cid||[]).map(function(c){return c[0];}).join(" "));DEPI[x.id]=x;});
+      var ps=[];d.deputados.forEach(function(x){if(x.p&&ps.indexOf(x.p)<0)ps.push(x.p);});ps.sort();
+      var pv=depP.value;depP.innerHTML='<option value="">Todos os partidos</option>'+ps.map(function(p){return '<option>'+esc(p)+'</option>';}).join("");depP.value=pv;
+      document.getElementById("depNote").textContent="Fonte: dados abertos da Alesp. Proposituras registradas até "+fmt(d.dados_ate)+". Indicação é um pedido do deputado ao governo (obra, verba, serviço); não quer dizer que foi atendido.";
+      drawDeps();if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(hh.indexOf("d-")===0)route();}).catch(function(){document.getElementById("depNote").textContent="Os dados dos deputados ainda não foram coletados. Eles aparecem aqui depois da próxima coleta do robô.";});}
+  function drawDeps(){
+    if(!DEPS)return;
+    if(curDep){drawDep(curDep);return;}
+    var q=norm(depQ.value),pp=depP.value,o=depO.value;
+    var l=DEPS.deputados.filter(function(x){return (!pp||x.p===pp)&&(!q||q.split(" ").every(function(w){return x._k.indexOf(w)>=0;}));});
+    if(o!=="n")l=l.slice().sort(function(a,b){return (b.tot[o]||0)-(a.tot[o]||0);});
+    depOut.innerHTML=l.length?'<div class="deps">'+l.map(function(x){return '<button class="dep" type="button" data-dep="'+esc(x.id)+'"><span class="pt">'+esc(x.p)+'</span><b>'+esc(x.n)+'</b><span class="mini"><span><strong>'+(+x.tot.pl||0)+'</strong> projetos</span><span><strong>'+(+x.tot.ind||0)+'</strong> indicações</span><span><strong>'+(+x.tot.req||0)+'</strong> requerimentos</span></span>'+(x.cid&&x.cid[0]?'<span class="more">Mais citada: '+esc(x.cid[0][0])+'</span>':'')+'</button>';}).join("")+'</div>':'<div class="empty" style="margin-top:14px">Nenhum deputado com esse filtro.</div>';
+  }
+  function drawDep(x){
+    var h='<p style="margin:14px 0 0"><a class="readlink" href="#deputados">← Todos os deputados</a></p><div class="depd"><span class="pt more" style="font:600 12px var(--mono);text-transform:uppercase">'+esc(x.p)+'</span><h3>'+esc(x.n)+'</h3>';
+    h+='<div class="depnums">'+[["pl","Projetos de lei e PECs","var(--obra)"],["ind","Indicações","var(--anun)"],["req","Requerimentos","var(--dec)"],["moc","Moções","var(--ok)"]].map(function(k){return '<div style="--c:'+k[2]+'"><b>'+(+x.tot[k[0]]||0)+'</b><span>'+k[1]+'</span></div>';}).join("")+'</div><p class="more" style="margin:0">Nos últimos 12 meses, até '+fmt(DEPS.dados_ate)+'.</p>';
+    if(x.base&&x.base.length)h+='<h4>Base eleitoral (informada à Alesp)</h4><ul>'+x.base.map(function(b){return '<li>'+esc(b)+'</li>';}).join("")+'</ul>';
+    if(x.areas&&x.areas.length)h+='<h4>Áreas de atuação</h4><p style="margin:0">'+x.areas.map(esc).join(" · ")+'</p>';
+    if(x.cid&&x.cid.length)h+='<h4>Cidades que mais aparecem nos seus pedidos</h4><div class="cities" style="font-size:14px">'+x.cid.map(function(c){var m=byName[c[0]];return (m?'<button type="button" data-city="'+m.i+'">'+esc(c[0])+'</button>':esc(c[0]))+' ('+(+c[1])+')';}).join(" · ")+'</div>';
+    h+='<h4>Últimos projetos apresentados</h4>'+((x.pls&&x.pls.length)?x.pls.map(function(p){var u=safeUrl(p.u);return '<div class="pl"><small>'+esc(p.s)+' · '+fmt(p.d)+'</small><br>'+(u?'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(p.e)+'</a>':esc(p.e))+'</div>';}).join(""):'<p class="more">Nenhum projeto de lei no período.</p>');
+    var pu=safeUrl(x.u);h+='<div class="btnrow" style="margin-top:16px">'+(pu?'<a class="btn" href="'+esc(pu)+'" target="_blank" rel="noopener">Página oficial na Alesp</a>':'')+'<a class="btn wab" href="'+esc(waLink(x.n+" ("+x.p+") na Alesp: projetos, pedidos e cidades que mais cita.\n"+SITE+"#d-"+x.id))+'" target="_blank" rel="noopener">Compartilhar</a></div></div>';
+    depOut.innerHTML=h;
+  }
+  [depQ,depP,depO].forEach(function(el){el.addEventListener(el===depQ?"input":"change",function(){curDep=null;drawDeps();});});
+  depOut.addEventListener("click",function(e){var b=e.target.closest("[data-dep]");if(b){location.hash="d-"+b.getAttribute("data-dep");}});
+
+  /* imagens para Stories */
+  function wrapText(ctx,t,maxW){var w=String(t).split(/\s+/),lines=[],l="";w.forEach(function(x){var tt=l?l+" "+x:x;if(ctx.measureText(tt).width>maxW&&l){lines.push(l);l=x;}else l=tt;});if(l)lines.push(l);return lines;}
+  function flagImg(){return new Promise(function(res){var sv=document.querySelector("footer svg.flag");if(!sv){res(null);return;}var c=sv.cloneNode(true);c.setAttribute("xmlns","http://www.w3.org/2000/svg");c.setAttribute("width","300");c.setAttribute("height","200");
+    var im=new Image();im.onload=function(){res(im);};im.onerror=function(){res(null);};im.src="data:image/svg+xml;charset=utf-8,"+encodeURIComponent(c.outerHTML);});}
+  function storyCanvas(kind){
+    var W=1080,H=1920,cv2=document.createElement("canvas");cv2.width=W;cv2.height=H;var x=cv2.getContext("2d");
+    var DISP='"Big Shoulders Display","Arial Narrow",Arial,sans-serif',BODY='"Public Sans",Arial,sans-serif';
+    return Promise.all([flagImg(),document.fonts?document.fonts.load('900 100px "Big Shoulders Display"').catch(function(){}):null,document.fonts?document.fonts.load('700 40px "Public Sans"').catch(function(){}):null]).then(function(r){
+      var fl=r[0];var g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,"#13245c");g.addColorStop(1,"#0a1438");x.fillStyle=g;x.fillRect(0,0,W,H);
+      if(fl)x.drawImage(fl,80,90,165,110);
+      x.fillStyle="#ffffff";x.font="900 120px "+DISP;x.textBaseline="alphabetic";x.fillText("PAULISTÂNIA",80,330);
+      x.fillStyle="#d3203a";x.save();x.translate(80,360);x.rotate(-0.025);x.fillRect(0,0,330,130);x.fillStyle="#ffffff";x.font="900 120px "+DISP;x.fillText("HOJE",18,112);x.restore();
+      var dt=new Date().toLocaleDateString("pt-BR",{day:"numeric",month:"long",year:"numeric"});
+      x.fillStyle="#a9b3d6";x.font="600 34px "+BODY;x.fillText(kind==="placar"?"PLACAR DAS PROMESSAS · "+new Date().toLocaleDateString("pt-BR",{month:"long",year:"numeric"}).toUpperCase():"EDIÇÃO DE "+dt.toUpperCase(),80,580);
+      var y=660;
+      if(kind==="placar"){
+        var cnt={cumprido:0,andamento:0,acompanhar:0,atrasado:0,naocumprido:0};PROM.forEach(function(p){var s=(PSTATE[p[1]]&&PST[PSTATE[p[1]].status])?PSTATE[p[1]].status:"acompanhar";cnt[s]++;});
+        var cols={cumprido:"#53d394",andamento:"#8fb0ff",acompanhar:"#f3b74e",atrasado:"#ff6b80",naocumprido:"#c0c8e4"};
+        x.fillStyle="#ffffff";x.font="800 64px "+DISP;wrapText(x,"O que o governador Tarcísio de Freitas prometeu e já cumpriu",920).forEach(function(l){x.fillText(l.toUpperCase(),80,y);y+=70;});y+=40;
+        var bx=80,tot=PROM.length;["cumprido","andamento","atrasado","naocumprido","acompanhar"].forEach(function(k){var w=Math.round(cnt[k]/tot*920);if(w){x.fillStyle=cols[k];x.fillRect(bx,y,w,36);bx+=w;}});y+=110;
+        ["cumprido","andamento","atrasado","naocumprido","acompanhar"].forEach(function(k){x.fillStyle=cols[k];x.fillRect(80,y-62,14,80);x.font="900 96px "+DISP;x.fillText(String(cnt[k]),120,y+12);x.fillStyle="#f4f6fb";x.font="600 40px "+BODY;x.fillText(PST[k],300,y);y+=124;});
+        y+=10;x.fillStyle="#a9b3d6";x.font="500 32px "+BODY;wrapText(x,"De "+tot+" promessas acompanhadas. Cada uma com fonte e, quando cumprida, com prova.",920).forEach(function(l){x.fillText(l,80,y);y+=44;});
+      }else{
+        var pick=N.filter(function(n){return n.tema!=="Segurança"&&n.tema!=="Geral";}).slice(0,4);if(pick.length<3)pick=N.slice(0,4);
+        var LIM=H-300;pick.forEach(function(n,i){x.font="800 54px "+DISP;var ls0=wrapText(x,n.t.toUpperCase(),920).slice(0,4);if(y+70+ls0.length*60+60>LIM)return;x.fillStyle="#d3203a";x.fillRect(80,y,12,12);x.fillStyle="#ffd166";x.font="700 30px "+BODY;x.fillText(String(n.tema).toUpperCase()+(n.c&&n.c[0]?" · "+n.c[0].toUpperCase():""),110,y+14);y+=70;
+          x.fillStyle="#ffffff";x.font="800 54px "+DISP;var ls=wrapText(x,n.t.toUpperCase(),920);if(ls.length>4){ls=ls.slice(0,4);ls[3]=ls[3].replace(/\s*\S*$/,"…");}ls.forEach(function(l){x.fillText(l,80,y+10);y+=60;});
+          x.fillStyle="#a9b3d6";x.font="500 28px "+BODY;x.fillText("Fonte: "+n.src,80,y+16);y+=90;});
+      }
+      x.fillStyle="#d3203a";x.fillRect(0,H-230,W,8);x.fillStyle="#ffffff";x.font="700 38px "+BODY;x.fillText("Todas as fontes no site:",80,H-140);x.fillStyle="#ffd166";x.font="700 34px "+BODY;x.fillText(SITE.replace(/^https?:\/\//,"").replace(/\/$/,""),80,H-85);
+      return cv2;});
+  }
+  document.addEventListener("click",function(e){var b=e.target.closest("[data-story]");if(!b)return;var kind=b.getAttribute("data-story"),old=b.textContent;b.disabled=true;b.textContent="Gerando…";
+    storyCanvas(kind).then(function(c){c.toBlob(function(blob){var nome="paulistania-hoje-"+(kind==="placar"?"placar":"dia")+"-"+todayISO+".png";var file=null;try{file=new File([blob],nome,{type:"image/png"});}catch(err){}
+      if(file&&navigator.canShare&&navigator.canShare({files:[file]})){navigator.share({files:[file]}).catch(function(){});}
+      else{var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=nome;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},2000);}
+      b.disabled=false;b.textContent=old;},"image/png");}).catch(function(){b.disabled=false;b.textContent=old;});});
+
+  /* contador de visitas (GoatCounter): cole aqui o código da sua conta, ex.: "paulistaniahoje" */
+  var CONTADOR="";
+  if(/^[a-z0-9-]+$/.test(CONTADOR)){var gc=document.createElement("script");gc.async=true;gc.src="https://gc.zgo.at/count.js";gc.setAttribute("data-goatcounter","https://"+CONTADOR+".goatcounter.com/count");document.head.appendChild(gc);}
+
   /* editor (só para quem edita o site) */
   function drawEditor(){
     if(!canEdit){document.getElementById("editorSlot").innerHTML="";return;}
@@ -768,11 +905,11 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
   }
 
   /* rotas */
-  var views=["hoje","decretos","cidade","regioes","promessas","sobre"];
+  var views=["hoje","decretos","cidade","regioes","deputados","promessas","sobre"];
   function show(v){if(views.indexOf(v)<0)v="hoje";views.forEach(function(x){document.getElementById("v-"+x).hidden=(x!==v);});
     document.querySelectorAll("nav.tabs a").forEach(function(a){if(a.getAttribute("data-view")===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
     if(v==="cidade"){if(!cur)drawCity(byName["São Paulo"]);else requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:cur,focusRegion:true,label:false});});}}
-  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else show(h);}
+  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else if(h.indexOf("d-")===0){curDep=DEPI[h.slice(2)]||null;show("deputados");if(curDep){drawDep(curDep);window.scrollTo({top:document.querySelector("nav.tabs").offsetTop});}}else{if(h==="deputados"){curDep=null;drawDeps();}show(h);}}
   window.addEventListener("hashchange",route);
 
   /* dados ao vivo */
@@ -800,7 +937,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     });
   }
   try{document.getElementById("edition").textContent="Edição de "+new Date().toLocaleDateString("pt-BR",{day:"numeric",month:"long",year:"numeric"});}catch(e){}
-  carregar();setInterval(carregar,10*60*1000);
+  carregar();setInterval(carregar,10*60*1000);loadDeps();loadMeses();
 })();
 </script>
 
