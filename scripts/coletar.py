@@ -7,7 +7,10 @@ e grava tudo em data/feed.json. Usa só a biblioteca padrão do Python.
 """
 import email.utils
 import html
+import html.entities
+import io
 import json
+import zipfile
 import re
 import sys
 import unicodedata
@@ -58,7 +61,7 @@ APELIDOS = {
 # Só entra no site o que é de interesse público...
 INTERESSE = re.compile(r"prefeit|câmara|vereador|governo|governador|secretári|decreto|\blei\b|projeto de lei|orçamento|obra|licitação|contrat|concurso|saúde|hospital|\bUBS\b|\bUPA\b|escola|educação|ensino|creche|transporte|ônibus|trânsito|rodovia|ped[aá]gio|segurança|polícia|\bGCM\b|Defesa Civil|chuva|\bágua\b|Sabesp|esgoto|imposto|IPTU|ICMS|tarifa|Alesp|Tarcísio|Ricardo Nunes|serviço|programa|investiment|moradia|habitação|assistência|vacina|dengue|eleiç|Cantareira|Ministério Público|\bMP\b|Gaeco|TCE|Justiça|Poupatempo|Fatec|Etec|Provão", re.I)
 # ...e fica de fora esporte, celebridade e entretenimento.
-FORA = re.compile(r"futebol|Palmeiras|Corinthians|Santos FC|Vasco|Flamengo|Fluminense|Botafogo|Grêmio|Copa do Brasil|Brasileirão|Libertadores|Sul-Americana|Série [AB]\b|\bF1\b|Fórmula 1|novela|\bBBB\b|celebridade|\bcantor|\bcantora|\bator\b|\batriz\b|\bfilme\b|horóscopo|Messi|jogador|técnico do|\bgol\b|Palavra do Leitor|receita de", re.I)
+FORA = re.compile(r"futebol|Palmeiras|Corinthians|Santos FC|Vasco|Flamengo|Fluminense|Botafogo|Grêmio|Copa do Brasil|Brasileirão|Libertadores|Sul-Americana|Série [AB]\b|\bF1\b|Fórmula 1|novela|\bBBB\b|celebridade|\bcantor|\bcantora|\bator\b|\batriz\b|\bfilme\b|horóscopo|Messi|jogador|técnico do|\bgol\b|Palavra do Leitor|receita de|\brugby\b|\bjogos? (?:regionais|abertos)\b", re.I)
 SP_TEXTO = re.compile(r"São Paulo|paulista|\bSP\b|Alesp|Tarcísio", re.I)
 
 TEMAS = [
@@ -104,8 +107,31 @@ def baixar(url):
         return r.read()
 
 
+XML_BASICAS = {"amp", "lt", "gt", "quot", "apos"}
+
+
+def trocar_entidades(conteudo):
+    """Alguns jornais (ex.: Gazeta de S.Paulo) põem &nbsp; e outras entidades de HTML
+    no feed, o que é inválido em XML. Troca por caracteres numéricos."""
+    texto = conteudo.decode("utf-8", "replace")
+
+    def troca(m):
+        nome = m.group(1)
+        if nome in XML_BASICAS:
+            return m.group(0)
+        cod = html.entities.name2codepoint.get(nome)
+        return f"&#{cod};" if cod else ""
+
+    texto = re.sub(r"&([A-Za-z][A-Za-z0-9]*);", troca, texto)
+    texto = re.sub(r"&(?![A-Za-z#][A-Za-z0-9]*;)", "&amp;", texto)
+    return texto.encode("utf-8")
+
+
 def ler_feed(conteudo):
-    raiz = ET.fromstring(conteudo)
+    try:
+        raiz = ET.fromstring(conteudo)
+    except ET.ParseError:
+        raiz = ET.fromstring(trocar_entidades(conteudo))
     itens = []
     for it in raiz.iter():
         tag = it.tag.split("}")[-1]
@@ -155,6 +181,8 @@ def preparar_cidades(municipios):
 
 
 def achar_cidades(texto, regras):
+    # "Estado de São Paulo", "Governo de São Paulo" etc. falam do Estado, não da capital
+    texto = re.sub(r"\b(Estado|estado|Governo|governo|governador|Governador|Tribunal de Justiça|interior)\s+(?:do\s+|de\s+)São\s+Paulo", r"\1", texto)
     achadas, ocupado = [], []
     for nome, padrao in regras:
         for m in padrao.finditer(texto):
@@ -182,6 +210,86 @@ def classificar(texto, lista, padrao_final):
 
 def chave(url):
     return re.sub(r"[?#].*$", "", url.strip().lower()).rstrip("/")
+
+
+# ---------- Atos oficiais do Estado (base de legislação da Alesp, dados abertos) ----------
+ALESP_ZIP = "https://www.al.sp.gov.br/repositorioDados/legislacao/legislacao_normas.zip"
+ALESP_TIPOS = {"3": "Decreto", "9": "Lei", "2": "Lei Complementar"}
+ALESP_DIAS = 60
+CREDITO = re.compile(r"abertura de crédito suplementar", re.I)
+
+
+def numero_bonito(n):
+    return f"{int(n):,}".replace(",", ".") if (n or "").isdigit() else (n or "")
+
+
+def item_alesp(n, regras):
+    texto = n["ementa"]
+    dd = f"{n['d'][8:10]}/{n['d'][5:7]}/{n['d'][:4]}"
+    return {
+        "d": n["d"], "h": "00:00",
+        "t": texto[:200] + ("…" if len(texto) > 200 else ""),
+        "p": f"{n['tipo']} estadual nº {numero_bonito(n['num'])}, de {dd}, publicad{'a' if n['tipo'].startswith('Lei') else 'o'} no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+        "tema": classificar(texto, [t for t in TEMAS if t[0] != "Decretos"], "Decretos"),
+        "s": "decreto", "org": "Estado", "num": f"{n['tipo'].replace('Lei Complementar', 'LC')} nº {numero_bonito(n['num'])}",
+        "c": achar_cidades(texto, regras),
+        "src": "Diário Oficial (via Alesp)", "u": n["u"], "auto": True,
+    }
+
+
+def coletar_alesp(regras, agora):
+    """Lê os decretos e leis estaduais publicados no Diário Oficial e cadastrados pela Alesp.
+    Decretos de crédito suplementar do mesmo dia viram um item só, para não lotar o site."""
+    bruto = baixar(ALESP_ZIP)
+    limite = (agora - timedelta(days=ALESP_DIAS)).strftime("%Y-%m-%d")
+    normas = {}
+    with zipfile.ZipFile(io.BytesIO(bruto)) as z:
+        nome = [n for n in z.namelist() if n.endswith(".xml")][0]
+        with z.open(nome) as arq:
+            for _, el in ET.iterparse(arq):
+                if el.tag != "LegislacaoNorma":
+                    continue
+                data = (el.findtext("Data") or "")[:10]
+                tipo = el.findtext("IdTipo") or ""
+                if data >= limite and tipo in ALESP_TIPOS:
+                    idn = el.findtext("IdNorma")
+                    normas[idn] = {
+                        "d": data, "tipo": ALESP_TIPOS[tipo], "num": el.findtext("Numero") or "",
+                        "ementa": re.sub(r"\s+", " ", el.findtext("Ementa") or "").strip(),
+                        "u": (el.findtext("URLFicha") or f"http://www.al.sp.gov.br/norma/{idn}").replace("http://", "https://"),
+                    }
+                el.clear()
+
+    itens, creditos = [], {}
+    for n in normas.values():
+        if not n["ementa"]:
+            continue
+        if n["tipo"] == "Decreto" and CREDITO.search(n["ementa"]):
+            creditos.setdefault(n["d"], []).append(n)
+            continue
+        itens.append(item_alesp(n, regras))
+    for data, lista in list(creditos.items()):
+        if len(lista) == 1:  # um só decreto de crédito no dia: entra normal
+            itens.append(item_alesp(lista[0], regras))
+            del creditos[data]
+    for data, lista in creditos.items():
+        lista.sort(key=lambda x: x["num"])
+        orgaos = []
+        for n in lista:
+            m = re.search(r"(?:Orçamento [^,]*?) (?:na|no|da|do|nas|nos) (.+?)(?:,| visando|$)", n["ementa"])
+            if m and m.group(1) not in orgaos:
+                orgaos.append(m.group(1))
+        dd = f"{data[8:10]}/{data[5:7]}"
+        nums = ", ".join(numero_bonito(n["num"]) for n in lista[:12]) + ("…" if len(lista) > 12 else "")
+        itens.append({
+            "d": data, "h": "00:00",
+            "t": f"{len(lista)} decreto{'s' if len(lista) > 1 else ''} de crédito suplementar no Orçamento do Estado ({dd})",
+            "p": "Reforço de verbas (crédito suplementar) para: " + "; ".join(orgaos[:8]) + ("…" if len(orgaos) > 8 else "") + f". Decretos nº {nums}.",
+            "tema": "Contas públicas", "s": "decreto", "org": "Estado",
+            "num": f"Nº {numero_bonito(lista[0]['num'])}" + (f" a {numero_bonito(lista[-1]['num'])}" if len(lista) > 1 else ""),
+            "c": [], "src": "Diário Oficial (via Alesp)", "u": lista[0]["u"], "auto": True,
+        })
+    return itens
 
 
 def main():
@@ -218,7 +326,7 @@ def main():
             if len(trecho) > 320:
                 trecho = trecho[:317].rsplit(" ", 1)[0] + "…"
             texto = titulo + " . " + trecho
-            if FORA.search(titulo) or not INTERESSE.search(texto):
+            if FORA.search(titulo) or not (f.get("oficial") or INTERESSE.search(texto)):
                 continue
             cidades = achar_cidades(texto, regras)
             if not cidades and f.get("cidade") in nomes:
@@ -244,6 +352,23 @@ def main():
                 item["org"] = "Estado" if re.search(r"governador|Governo do Estado|estadual", texto, re.I) else "Prefeitura"
             por_link[k] = item
             novos += 1
+
+    # Atos oficiais do Estado: a Alesp atualiza a base uma vez por dia, de madrugada,
+    # então o robô só baixa o arquivo (10 MB) três vezes ao dia.
+    tem_alesp = any(i.get("src", "").startswith("Diário Oficial") for i in por_link.values())
+    try:
+        if tem_alesp and agora.hour not in (7, 13, 19) and "--alesp" not in sys.argv:
+            raise StopIteration
+        for item in coletar_alesp(regras, agora):
+            k = chave(item["u"])
+            if k not in por_link:
+                novos += 1
+            por_link[k] = item  # sobrescreve: o grupo de créditos do dia pode crescer
+        ok.append("Diário Oficial (via Alesp)")
+    except StopIteration:
+        ok.append("Diário Oficial (via Alesp)")
+    except Exception as e:
+        erros.append({"fonte": "Diário Oficial (via Alesp)", "erro": str(e)[:160]})
 
     limite = (agora - timedelta(days=DIAS_GUARDADOS)).strftime("%Y-%m-%d")
     itens = [i for i in por_link.values() if i["d"] >= limite]
