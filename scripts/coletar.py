@@ -30,6 +30,7 @@ ARQUIVO = RAIZ / "data" / "arquivo"
 RSS = RAIZ / "data" / "rss"
 SITE = "https://gaiasixe-jpg.github.io/PAULIST-NIA-HOJE/"
 VIDEOS = RAIZ / "data" / "videos.json"
+VOTACOES = RAIZ / "data" / "votacoes.json"
 YOUTUBE_CANAL = "UCaMYzI56lfmcMxRbO1B5EXQ"  # canal do YouTube (@aranellliz)
 DIAS_GUARDADOS = 120
 MAXIMO_ITENS = 4000
@@ -589,6 +590,80 @@ def atualizar_videos():
     gravar_se_mudou(VIDEOS, json.dumps({"itens": itens}, ensure_ascii=False))
 
 
+VOT_PULAR = re.compile(r"Reda[cç][aã]o Final|Requerimento|Mantido|Emenda de Reda|pressupostos|Regime de Tramita", re.I)
+VOT_MAX = 40
+
+
+def coletar_votacoes(agora):
+    """Votações nominais do plenário da Câmara (últimos 12 meses) e o voto de cada deputado de SP.
+    Incremental: cada votação é consultada uma vez; as já vistas ficam em "checadas"."""
+    anterior = {}
+    if VOTACOES.exists():
+        try:
+            anterior = json.loads(VOTACOES.read_text(encoding="utf-8"))
+        except Exception:
+            anterior = {}
+    lista = {v["id"]: v for v in anterior.get("votacoes", [])}
+    checadas = set(anterior.get("checadas", []))
+    inicio = agora - timedelta(days=365)
+    candidatas = []
+    fim = agora
+    while fim > inicio:  # a API aceita no máximo ~3 meses por consulta
+        ini = max(inicio, fim - timedelta(days=88))
+        pagina = 1
+        while pagina <= 10:
+            d = camara_get(f"votacoes?idOrgao=180&dataInicio={ini:%Y-%m-%d}&dataFim={fim:%Y-%m-%d}&itens=200&pagina={pagina}&ordem=DESC&ordenarPor=dataHoraRegistro")
+            candidatas += d.get("dados", [])
+            if not any(l.get("rel") == "next" for l in d.get("links", [])):
+                break
+            pagina += 1
+        fim = ini - timedelta(days=1)
+    candidatas.sort(key=lambda v: v.get("dataHoraRegistro") or v.get("data") or "", reverse=True)
+    consultas = 0
+    for v in candidatas:
+        vid = v.get("id")
+        if not vid or vid in checadas or VOT_PULAR.search(v.get("descricao") or ""):
+            continue
+        if consultas >= 160:  # limite por rodada; o resto fica para o dia seguinte
+            break
+        consultas += 1
+        try:
+            votos = camara_get(f"votacoes/{vid}/votos").get("dados", [])
+        except Exception:
+            continue
+        checadas.add(vid)
+        if not votos or not any((x.get("tipoVoto") or "").strip() for x in votos):
+            continue  # votação simbólica ou secreta: não há voto individual público
+        placar, sp = {}, {}
+        for x in votos:
+            tipo = (x.get("tipoVoto") or "").strip() or "Outro"
+            placar[tipo] = placar.get(tipo, 0) + 1
+            dep = x.get("deputado_") or {}
+            if dep.get("siglaUf") == "SP" and dep.get("id"):
+                sp[str(dep["id"])] = tipo
+        prop = {}
+        try:
+            det = camara_get(f"votacoes/{vid}").get("dados", {})
+            afet = (det.get("proposicoesAfetadas") or det.get("objetosPossiveis") or [{}])[0]
+            if afet.get("id"):
+                prop = {"s": afet.get("siglaTipo", ""), "n": afet.get("numero"), "a": afet.get("ano"),
+                        "e": limpar(afet.get("ementa") or "")[:400],
+                        "u": f"https://www.camara.leg.br/propostas-legislativas/{afet['id']}"}
+        except Exception:
+            pass
+        lista[vid] = {"id": vid, "d": v.get("data", ""), "desc": limpar(v.get("descricao") or "")[:400],
+                      "ap": v.get("aprovacao"), "prop": prop, "pl": placar, "sp": sp}
+    votacoes = sorted(lista.values(), key=lambda v: (v["d"], v["id"]), reverse=True)
+    votacoes = [v for v in votacoes if v["d"] >= inicio.strftime("%Y-%m-%d")][:VOT_MAX]
+    recentes = {v["id"] for v in candidatas}
+    return {
+        "atualizado": agora.strftime("%Y-%m-%dT%H:%M:%S-03:00"),
+        "fonte": "Dados Abertos da Câmara dos Deputados (votações nominais do plenário)",
+        "votacoes": votacoes,
+        "checadas": sorted(checadas & recentes),
+    }
+
+
 def main():
     fontes = json.loads(FONTES.read_text(encoding="utf-8"))["fontes"]
     municipios = json.loads(MUNICIPIOS.read_text(encoding="utf-8"))
@@ -715,6 +790,14 @@ def main():
             print(f"federais: {len(fed['deputados'])} deputados")
         except Exception as e:
             print("  erro nos federais:", str(e)[:160])
+    # Votações nominais da Câmara: 7h e 19h (as sessões costumam terminar à noite).
+    if not VOTACOES.exists() or agora.hour in (7, 19) or "--votacoes" in sys.argv:
+        try:
+            vot = coletar_votacoes(agora)
+            gravar_se_mudou(VOTACOES, json.dumps(vot, ensure_ascii=False, separators=(",", ":")))
+            print(f"votações: {len(vot['votacoes'])} nominais")
+        except Exception as e:
+            print("  erro nas votações:", str(e)[:160])
     print(f"{novos} notícias novas · {len(itens)} no total · {len(ok)} jornais lidos · {len(erros)} com erro")
     for e in erros:
         print("  erro:", e["fonte"], "-", e["erro"])
