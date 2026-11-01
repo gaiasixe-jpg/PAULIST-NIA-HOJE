@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-01T17:44:55-03:00",
-"novos_nesta_coleta": 4,
+"atualizado": "2026-11-01T18:42:33-03:00",
+"novos_nesta_coleta": 8,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -43,9 +43,122 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "18:36",
+"t": "Entenda como é tomada a decisão da atualização do ICMS dos combustíveis",
+"p": "A atualização do ICMS sobre combustíveis não é uma decisão isolada de São Paulo. Os novos valores foram definidos em conjunto pelos estados e pelo Distrito Federal no Conselho Nacional de Política Fazendária (Confaz) e terão aplicação em todo o país a partir de 1º de fevereiro de 2027. O ICMS é cobrado por litro […]",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/entenda-como-e-tomada-a-decisao-da-atualizacao-do-icms-dos-combustiveis/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "18:32",
+"t": "VÍDEO: avião com nove pessoas cai em área residencial e explode perto de carros que passavam por avenida",
+"p": "Um avião particular com nove pessoas a bordo caiu em uma área residencial de West Palm Beach, ao norte de Miami, nos Estados Unidos. Segundo o secretário de Transportes norte-americano, Sean Duffy, todos os ocupantes morreram. A aeronave, um Learjet 60, havia decolado do aeroporto de Austin, no Texas, às 9h36, no…",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/aviao-com-nove-pessoas-cai-em-area-residencial-e-explode-perto-de-carros-que-passavam-por-avenida/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "18:13",
+"t": "Resultado da Mega-Sena: apostas de 9 cidades de SP ganham na loteria; veja os números",
+"p": "Concurso 3.080 da Mega-Sena foi sorteado neste domingo (1º); prêmio principal subiu para R$ 46 milhões",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/resultado-da-mega-sena-apostas-de-9-cidades-de-sp-ganham-na-loteria-veja-os-numeros/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "18:06",
+"t": "Idosa de 111 anos com 15 filhos, 50 netos, 88 bisnetos e 52 tataranetos relata quais hábitos simples a fizeram ter saúde: “nunca fiquei doente”",
+"p": "A mineira Eunice Anício da Silveira completou 111 anos no último dia 21 de outubro. Ela segue sendo um exemplo de longevidade e chamou a atenção pelos seus hábitos simples na rotina. No decorrer de sua vida ela teve 15 filhos, 50 netos, 88 bisnetos e 52 tataranetos. Sua história ganhou destaque em veículos como […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/idosa-de-111-anos-com-15-filhos-50-netos-88-bisnetos-e-52-tataranetos-relata-quais-habitos-simples-a-fizeram-ter-saude-nunca-fiquei-doente/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "18:00",
+"t": "Nadador fica ferido após ser atingido por embarcação no Canal de Bertioga",
+"p": "Arquivo/Prefeitura de Bertioga Um nadador ficou ferido após ser atingido por uma embarcação na manhã deste domingo (1º), no Canal de Bertioga.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/nadador-fica-ferido-apos-ser-atingido-por-embarcacao-no-canal-de-bertioga/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "18:00",
+"t": "Dupla passa atirando de moto e mata jovem em São Vicente",
+"p": "Divulgação/Polícia Civil Um homem de 22 anos morreu após ser baleado na noite de sábado (31) no Jóquei Clube, em São Vicente, no litoral de São Paulo.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente",
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/dupla-passa-atirando-de-moto-e-mata-jovem-em-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "17:56",
+"t": "GCM é investigado por violência doméstica contra a esposa no interior de SP",
+"p": "Suspeito teria apontado a própria arma para o rosto da mulher, que relatou agressões. Caso é apurado pela Corregedoria da GCM de Mairinque",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mairinque"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/gcm-e-investigado-por-violencia-domestica-contra-a-esposa-no-interior-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "17:48",
+"t": "Frente fria deve derrubar temperaturas e mudar o tempo em novembro em SP",
+"p": "Combinação da frente fria com umidade da Amazônia afasta ondas de calor e aumenta frequência de pancadas de chuva no estado",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-deve-derrubar-temperaturas-e-mudar-o-tempo-em-novembro-em-sp/",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "17:35",
