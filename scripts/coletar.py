@@ -23,6 +23,10 @@ RAIZ = Path(__file__).resolve().parent.parent
 FONTES = RAIZ / "scripts" / "fontes.json"
 MUNICIPIOS = RAIZ / "data" / "municipios.json"
 SAIDA = RAIZ / "data" / "feed.json"
+DEPUTADOS = RAIZ / "data" / "deputados.json"
+ARQUIVO = RAIZ / "data" / "arquivo"
+RSS = RAIZ / "data" / "rss"
+SITE = "https://gaiasixe-jpg.github.io/PAULIST-NIA-HOJE/"
 DIAS_GUARDADOS = 120
 MAXIMO_ITENS = 4000
 UA = "Mozilla/5.0 (compatible; PaulistaniaHojeBot/1.0; +https://github.com)"
@@ -292,6 +296,159 @@ def coletar_alesp(regras, agora):
     return itens
 
 
+# ---------- Deputados estaduais (dados abertos da Alesp) ----------
+ALESP_DADOS = "https://www.al.sp.gov.br/repositorioDados/"
+NAT_GRUPO = {  # natureza -> grupo mostrado no site
+    "Projeto de lei": "pl", "Projeto de lei Complementar": "pl", "Proposta de emenda à Constituição": "pl",
+    "Projeto de decreto legislativo": "pl", "Projeto de resolução": "pl",
+    "Indicação": "ind", "Requerimento": "req", "Requerimento de Informação": "req", "Moção": "moc",
+}
+NAT_SIGLA = {"Projeto de lei": "PL", "Projeto de lei Complementar": "PLC", "Proposta de emenda à Constituição": "PEC",
+             "Projeto de decreto legislativo": "PDL", "Projeto de resolução": "PR"}
+
+
+def baixar_alesp(caminho):
+    for tentativa in range(4):
+        try:
+            return baixar(ALESP_DADOS + caminho)
+        except Exception:
+            if tentativa == 3:
+                raise
+            import time
+            time.sleep(8)
+
+
+def xml_do_zip(bruto):
+    z = zipfile.ZipFile(io.BytesIO(bruto))
+    return z.open([n for n in z.namelist() if n.endswith(".xml")][0])
+
+
+def coletar_deputados(regras, agora):
+    """Para cada deputado em exercício: partido, base eleitoral, áreas de atuação,
+    quanto apresentou nos últimos 12 meses, os últimos projetos de lei e as cidades
+    que mais aparecem nas suas indicações, requerimentos e projetos."""
+    deps = {}
+    for d in ET.fromstring(baixar_alesp("deputados/deputados.xml")):
+        if d.findtext("Situacao") != "EXE":
+            continue
+        limpa = lambda t: [x.strip(" ;.") for x in re.split(r"[;\n]+", t or "") if x.strip(" ;.")]
+        deps[d.findtext("IdSPL")] = {
+            "id": d.findtext("IdDeputado"), "n": (d.findtext("NomeParlamentar") or "").strip(),
+            "p": (d.findtext("Partido") or "").strip(), "email": (d.findtext("Email") or "").strip(),
+            "base": limpa(d.findtext("txtBaseEleitoral"))[:6], "areas": limpa(d.findtext("txtAreaAtuacao"))[:10],
+            "u": f"https://www.al.sp.gov.br/deputado/?matricula={(d.findtext('Matricula') or '').strip()}",
+            "tot": {"pl": 0, "ind": 0, "req": 0, "moc": 0}, "pls": [], "cid": {},
+        }
+    nat = {x.findtext("idNatureza"): x.findtext("nmNatureza") for x in ET.fromstring(baixar_alesp("processo_legislativo/naturezasSpl.xml"))}
+    limite = (agora - timedelta(days=365)).strftime("%Y-%m-%d")
+    docs, ultima = {}, ""
+    with xml_do_zip(baixar_alesp("processo_legislativo/proposituras.zip")) as arq:
+        for _, el in ET.iterparse(arq):
+            if el.tag != "propositura":
+                continue
+            data = (el.findtext("DtPublicacao") or "")[:10]
+            nome_nat = nat.get(el.findtext("IdNatureza"), "")
+            if data >= limite and nome_nat in NAT_GRUPO:
+                docs[el.findtext("IdDocumento")] = (data, nome_nat, el.findtext("NroLegislativo") or "", el.findtext("AnoLegislativo") or "",
+                                                     re.sub(r"\s+", " ", el.findtext("Ementa") or "").strip())
+                ultima = max(ultima, data)
+            el.clear()
+    autoria = {}
+    with xml_do_zip(baixar_alesp("processo_legislativo/documento_autor.zip")) as arq:
+        for _, el in ET.iterparse(arq):
+            if el.tag != "DocumentoAutor":
+                continue
+            i, a = el.findtext("IdDocumento"), el.findtext("IdAutor")
+            if i in docs and a in deps:
+                autoria.setdefault(i, []).append(a)
+            el.clear()
+    cache_cid = {}
+    for i, autores in autoria.items():
+        data, nome_nat, num, ano, ementa = docs[i]
+        grupo = NAT_GRUPO[nome_nat]
+        if ementa not in cache_cid:
+            cache_cid[ementa] = [c for c in achar_cidades(ementa, regras) if c != "São Paulo" or "capital" in ementa.lower()]
+        for a in autores:
+            dep = deps[a]
+            dep["tot"][grupo] += 1
+            for c in cache_cid[ementa]:
+                dep["cid"][c] = dep["cid"].get(c, 0) + 1
+            if grupo == "pl":
+                dep["pls"].append({"d": data, "s": f"{NAT_SIGLA.get(nome_nat, 'PL')} {num}/{ano}", "e": ementa[:260],
+                                   "u": f"https://www.al.sp.gov.br/propositura/?id={i}"})
+    por_cidade = {}
+    lista = []
+    for dep in deps.values():
+        dep["pls"].sort(key=lambda x: x["d"], reverse=True)
+        dep["pls"] = dep["pls"][:12]
+        top = sorted(dep["cid"].items(), key=lambda x: -x[1])
+        for c, n in top:
+            por_cidade.setdefault(c, []).append([dep["id"], n])
+        dep["cid"] = top[:12]
+        lista.append(dep)
+    for c in por_cidade:
+        por_cidade[c] = sorted(por_cidade[c], key=lambda x: -x[1])[:6]
+    lista.sort(key=lambda d: norm(d["n"]))
+    return {"atualizado": agora.strftime("%Y-%m-%dT%H:%M:%S-03:00"), "dados_ate": ultima,
+            "deputados": lista, "por_cidade": por_cidade}
+
+
+# ---------- Arquivo mensal e RSS ----------
+def gravar_se_mudou(caminho, texto):
+    if caminho.exists() and caminho.read_text(encoding="utf-8") == texto:
+        return False
+    caminho.parent.mkdir(parents=True, exist_ok=True)
+    caminho.write_text(texto, encoding="utf-8")
+    return True
+
+
+def atualizar_arquivo(itens):
+    """Guarda tudo, mês a mês, para sempre (o feed principal guarda só 120 dias)."""
+    por_mes = {}
+    for i in itens:
+        por_mes.setdefault(i["d"][:7], []).append(i)
+    for mes, novos in por_mes.items():
+        arq = ARQUIVO / f"{mes}.json"
+        velhos = json.loads(arq.read_text(encoding="utf-8"))["itens"] if arq.exists() else []
+        junta = {chave(i["u"]) + "|" + i["t"]: i for i in velhos}
+        for i in novos:
+            junta[chave(i["u"]) + "|" + i["t"]] = i
+        lista = sorted(junta.values(), key=lambda i: (i["d"], i.get("h", "")), reverse=True)
+        gravar_se_mudou(arq, json.dumps({"mes": mes, "itens": lista}, ensure_ascii=False, indent=0))
+    meses = []
+    for arq in sorted(ARQUIVO.glob("????-??.json"), reverse=True):
+        meses.append({"mes": arq.stem, "n": len(json.loads(arq.read_text(encoding="utf-8"))["itens"])})
+    gravar_se_mudou(ARQUIVO / "index.json", json.dumps({"meses": meses}, ensure_ascii=False))
+
+
+def rss_xml(titulo, link, descricao, itens):
+    def data_rfc(i):
+        dt = datetime.fromisoformat(f"{i['d']}T{i.get('h') or '12:00'}:00-03:00")
+        return email.utils.format_datetime(dt)
+    partes = [f"<item><title>{html.escape(i['t'])}</title><link>{html.escape(i['u'])}</link>"
+              f"<guid isPermaLink=\"false\">{html.escape(chave(i['u']) + '|' + i['t'][:60])}</guid>"
+              f"<pubDate>{data_rfc(i)}</pubDate><source url=\"{SITE}\">{html.escape(i.get('src', ''))}</source>"
+              f"<description>{html.escape(i.get('p', ''))}</description></item>" for i in itens]
+    ultima = data_rfc(itens[0]) if itens else ""
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
+            f"<title>{html.escape(titulo)}</title><link>{html.escape(link)}</link><description>{html.escape(descricao)}</description>"
+            f"<language>pt-br</language><lastBuildDate>{ultima}</lastBuildDate>" + "".join(partes) + "</channel></rss>\n")
+
+
+def atualizar_rss(itens, municipios):
+    gravar_se_mudou(RSS / "estado.xml", rss_xml("Paulistânia Hoje — Estado de São Paulo", SITE,
+                                                "Notícias, decretos e atos de todo o estado, com link para a fonte.", itens[:60]))
+    por_cid = {}
+    for i in itens:
+        for c in i["c"]:
+            por_cid.setdefault(c, []).append(i)
+    for m in municipios:
+        lista = por_cid.get(m["n"])
+        if lista:
+            gravar_se_mudou(RSS / f"{m['i']}.xml", rss_xml(f"Paulistânia Hoje — {m['n']}", f"{SITE}#c-{m['i']}",
+                                                         f"Notícias e atos sobre {m['n']} (SP), com link para a fonte.", lista[:40]))
+
+
 def main():
     fontes = json.loads(FONTES.read_text(encoding="utf-8"))["fontes"]
     municipios = json.loads(MUNICIPIOS.read_text(encoding="utf-8"))
@@ -383,6 +540,21 @@ def main():
         "itens": itens,
     }
     SAIDA.write_text(json.dumps(saida, ensure_ascii=False, indent=0), encoding="utf-8")
+
+    for tarefa, funcao in (("arquivo", lambda: atualizar_arquivo(itens)), ("rss", lambda: atualizar_rss(itens, municipios))):
+        try:
+            funcao()
+        except Exception as e:
+            print(f"  erro no {tarefa}:", str(e)[:160])
+
+    # Deputados: a Alesp atualiza de madrugada; o robô refaz uma vez por dia (ou se faltar o arquivo).
+    if not DEPUTADOS.exists() or agora.hour == 7 or "--deputados" in sys.argv:
+        try:
+            dados = coletar_deputados(regras, agora)
+            DEPUTADOS.write_text(json.dumps(dados, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            print(f"deputados: {len(dados['deputados'])} em exercício · proposituras até {dados['dados_ate']}")
+        except Exception as e:
+            print("  erro nos deputados:", str(e)[:160])
     print(f"{novos} notícias novas · {len(itens)} no total · {len(ok)} jornais lidos · {len(erros)} com erro")
     for e in erros:
         print("  erro:", e["fonte"], "-", e["erro"])
