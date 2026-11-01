@@ -29,6 +29,8 @@ GASTOS = RAIZ / "data" / "gastos.json"
 ARQUIVO = RAIZ / "data" / "arquivo"
 RSS = RAIZ / "data" / "rss"
 SITE = "https://gaiasixe-jpg.github.io/PAULIST-NIA-HOJE/"
+VIDEOS = RAIZ / "data" / "videos.json"
+YOUTUBE_CANAL = "UCaMYzI56lfmcMxRbO1B5EXQ"  # canal do YouTube (@aranellliz)
 DIAS_GUARDADOS = 120
 MAXIMO_ITENS = 4000
 UA = "Mozilla/5.0 (compatible; PaulistaniaHojeBot/1.0; +https://github.com)"
@@ -574,6 +576,19 @@ def atualizar_rss(itens, municipios):
                                                          f"Notícias e atos sobre {m['n']} (SP), com link para a fonte.", lista[:40]))
 
 
+def atualizar_videos():
+    """Últimos vídeos do canal do YouTube (o feed do próprio YouTube)."""
+    raiz = ET.fromstring(baixar(f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CANAL}"))
+    ns = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+    itens = []
+    for e in raiz.findall("a:entry", ns)[:9]:
+        vid = e.findtext("yt:videoId", default="", namespaces=ns)
+        if re.fullmatch(r"[\w-]{6,20}", vid or ""):
+            itens.append({"id": vid, "t": (e.findtext("a:title", default="", namespaces=ns) or "").strip()[:160],
+                          "d": (e.findtext("a:published", default="", namespaces=ns) or "")[:10]})
+    gravar_se_mudou(VIDEOS, json.dumps({"itens": itens}, ensure_ascii=False))
+
+
 def main():
     fontes = json.loads(FONTES.read_text(encoding="utf-8"))["fontes"]
     municipios = json.loads(MUNICIPIOS.read_text(encoding="utf-8"))
@@ -666,7 +681,7 @@ def main():
     }
     SAIDA.write_text(json.dumps(saida, ensure_ascii=False, indent=0), encoding="utf-8")
 
-    for tarefa, funcao in (("arquivo", lambda: atualizar_arquivo(itens)), ("rss", lambda: atualizar_rss(itens, municipios))):
+    for tarefa, funcao in (("arquivo", lambda: atualizar_arquivo(itens)), ("rss", lambda: atualizar_rss(itens, municipios)), ("videos", atualizar_videos)):
         try:
             funcao()
         except Exception as e:
