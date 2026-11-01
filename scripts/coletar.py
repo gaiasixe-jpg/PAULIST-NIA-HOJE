@@ -606,18 +606,53 @@ def limpar_trecho(t):
     return re.sub(r"\s+", " ", html.unescape(t)).strip()
 
 
+def qd_contextos():
+    import ssl
+    yield None
+    c = ssl.create_default_context()
+    c.set_ciphers("DEFAULT:@SECLEVEL=0")
+    c.options |= getattr(ssl, "OP_LEGACY_SERVER_CONNECT", 0x4)
+    c.minimum_version = ssl.TLSVersion.TLSv1
+    yield c
+    c = ssl.create_default_context()
+    c.maximum_version = ssl.TLSVersion.TLSv1_2
+    c.set_ciphers("ECDHE+AESGCM:ECDHE+CHACHA20:RSA+AESGCM:RSA+AES:@SECLEVEL=0")
+    yield c
+
+
+QD_CTX = []
+
+
 def qd_get(params):
-    req = urllib.request.Request(QD_API + "?" + urllib.parse.urlencode(params),
-                                 headers={"User-Agent": UA, "Accept": "application/json"})
-    for tentativa in range(3):
-        try:
-            with urllib.request.urlopen(req, timeout=60) as r:
-                return json.loads(r.read().decode("utf-8"))
-        except Exception:
-            if tentativa == 2:
-                raise
-            import time
-            time.sleep(6)
+    url = QD_API + "?" + urllib.parse.urlencode(params)
+    erros = []
+    ctxs = QD_CTX or list(qd_contextos())
+    for ctx in ctxs:
+        for tentativa in range(2):
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+                with urllib.request.urlopen(req, timeout=60, context=ctx) as r:
+                    dados = json.loads(r.read().decode("utf-8"))
+                if not QD_CTX:
+                    QD_CTX.append(ctx)
+                return dados
+            except Exception as e:
+                erros.append(str(e)[:80])
+                if "handshake" in str(e).lower() or "ssl" in str(e).lower():
+                    break
+                import time
+                time.sleep(5)
+    # último recurso: curl do sistema
+    import subprocess
+    try:
+        saida = subprocess.run(["curl", "-sS", "--max-time", "60", "-H", "Accept: application/json", url],
+                               capture_output=True, timeout=90)
+        if saida.returncode == 0 and saida.stdout.strip().startswith(b"{"):
+            return json.loads(saida.stdout.decode("utf-8"))
+        erros.append("curl: " + saida.stderr.decode("utf-8", "replace")[:80])
+    except Exception as e:
+        erros.append("curl: " + str(e)[:60])
+    raise RuntimeError(" | ".join(erros))
 
 
 def coletar_diarios(municipios, agora):
