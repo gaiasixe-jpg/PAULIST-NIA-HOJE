@@ -330,21 +330,52 @@
    "nome": "Tabata Amaral",
    "partido": "PSB",
    "votos": 476383,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "tabata-ama01",
+     "area": "Educação",
+     "t": "Manter a educação como principal bandeira no Congresso, seja qual for o governo",
+     "meta": "Sem número",
+     "u": "https://www.dgabc.com.br/Noticia/4350236/para-tabata-renan-e-radical-e-flavio-faz-tudo-pela-familia-dele"
+    },
+    {
+     "id": "tabata-ama02",
+     "area": "Educação",
+     "t": "Defender o programa Pé-de-Meia",
+     "meta": "Sem número",
+     "u": "https://www.dgabc.com.br/Noticia/4350236/para-tabata-renan-e-radical-e-flavio-faz-tudo-pela-familia-dele"
+    },
+    {
+     "id": "tabata-ama03",
+     "area": "Segurança",
+     "t": "Defender uma estrutura mais forte no governo federal para coordenar o combate ao crime organizado",
+     "meta": "Sem número",
+     "u": "https://www.dgabc.com.br/Noticia/4350236/para-tabata-renan-e-radical-e-flavio-faz-tudo-pela-familia-dele"
+    },
+    {
+     "id": "tabata-ama04",
+     "area": "Segurança",
+     "t": "Defender mais integração entre a Polícia Federal e as polícias militares",
+     "meta": "Sem número",
+     "u": "https://www.dgabc.com.br/Noticia/4350236/para-tabata-renan-e-radical-e-flavio-faz-tudo-pela-familia-dele"
+    }
+   ]
   },
   {
    "id": "renato-bolsonaro",
    "nome": "Renato Bolsonaro",
    "partido": "PL",
    "votos": 379312,
-   "promessas": []
+   "promessas": [],
+   "base": "Miracatu (natural de Jundiaí)"
   },
   {
    "id": "sargento-nantes",
    "nome": "Sargento Nantes",
    "partido": "PP",
    "votos": 333401,
-   "promessas": []
+   "promessas": [],
+   "base": "Campinas"
   },
   {
    "id": "delegado-palumbo",
@@ -372,7 +403,8 @@
    "nome": "Marcio Alvino",
    "partido": "PL",
    "votos": 261325,
-   "promessas": []
+   "promessas": [],
+   "base": "Guararema"
   },
   {
    "id": "professora-luciene-cavalcante",
@@ -603,7 +635,8 @@
    "nome": "Motta",
    "partido": "PL",
    "votos": 112854,
-   "promessas": []
+   "promessas": [],
+   "base": "São José do Rio Preto"
   },
   {
    "id": "juliana-cardoso",
@@ -624,7 +657,8 @@
    "nome": "Rodrigo Gambale",
    "partido": "Podemos",
    "votos": 106901,
-   "promessas": []
+   "promessas": [],
+   "base": "Ferraz de Vasconcelos"
   },
   {
    "id": "dra-sandra-tadeu",
@@ -652,7 +686,8 @@
    "nome": "Paulo Freire",
    "partido": "PL",
    "votos": 99388,
-   "promessas": []
+   "promessas": [],
+   "base": "Campinas"
   },
   {
    "id": "marcos-neves",
@@ -666,7 +701,8 @@
    "nome": "Jonas Donizete",
    "partido": "PSB",
    "votos": 97335,
-   "promessas": []
+   "promessas": [],
+   "base": "Campinas"
   },
   {
    "id": "miguel-lombardi",
@@ -701,7 +737,8 @@
    "nome": "Carlos Sampaio",
    "partido": "PSD",
    "votos": 91902,
-   "promessas": []
+   "promessas": [],
+   "base": "Campinas"
   },
   {
    "id": "maria-rosas",
@@ -722,7 +759,8 @@
    "nome": "Delegado Paulo Bilynskyj",
    "partido": "PL",
    "votos": 90363,
-   "promessas": []
+   "promessas": [],
+   "base": "São José do Rio Preto e região"
   },
   {
    "id": "carlos-bezerra-jr",
@@ -779,7 +817,7 @@
    "partido": "PRD",
    "votos": 54443,
    "promessas": [],
-   "base": "São José do Rio Preto"
+   "base": "São José do Rio Preto (ex-prefeito)"
   },
   {
    "id": "sonia-guajajara",
@@ -923,7 +961,8 @@
    "nome": "Rodrigo Ashiuchi",
    "partido": "PL",
    "votos": 162562,
-   "promessas": []
+   "promessas": [],
+   "base": "Suzano"
   },
   {
    "id": "monica-das-pretas",
@@ -938,7 +977,7 @@
    "partido": "MDB",
    "votos": 159058,
    "promessas": [],
-   "base": "Santa Fé do Sul"
+   "base": "Santa Fé do Sul (24.561 votos em Rio Preto)"
   },
   {
    "id": "bruna-furlan",
@@ -952,7 +991,8 @@
    "nome": "Marcos Damasio",
    "partido": "PL",
    "votos": 156691,
-   "promessas": []
+   "promessas": [],
+   "base": "Mogi das Cruzes"
   },
   {
    "id": "dani-alonso",
@@ -1008,7 +1048,8 @@
    "nome": "Rogerio Nogueira",
    "partido": "PSD",
    "votos": 137335,
-   "promessas": []
+   "promessas": [],
+   "base": "Indaiatuba"
   },
   {
    "id": "telhadinha-capitao-telhada",
@@ -1029,7 +1070,8 @@
    "nome": "Mariana Conti",
    "partido": "PSOL",
    "votos": 126344,
-   "promessas": []
+   "promessas": [],
+   "base": "Campinas"
   },
   {
    "id": "delegada-graciela",
@@ -1043,7 +1085,8 @@
    "nome": "Dr. Edson da Paiol",
    "partido": "Podemos",
    "votos": 124394,
-   "promessas": []
+   "promessas": [],
+   "base": "Itaquaquecetuba"
   },
   {
    "id": "alex-madureira",
@@ -1064,7 +1107,8 @@
    "nome": "Danilo Campetti",
    "partido": "Republicanos",
    "votos": 119904,
-   "promessas": []
+   "promessas": [],
+   "base": "São José do Rio Preto (26.049 votos na cidade)"
   },
   {
    "id": "barros-munhoz",
@@ -1085,7 +1129,8 @@
    "nome": "Paulo Mansur",
    "partido": "PL",
    "votos": 107073,
-   "promessas": []
+   "promessas": [],
+   "base": "Campinas"
   },
   {
    "id": "rafael-saraiva",
@@ -1134,7 +1179,8 @@
    "nome": "Franco Sardelli",
    "partido": "PL",
    "votos": 98375,
-   "promessas": []
+   "promessas": [],
+   "base": "Americana"
   },
   {
    "id": "douglas-garcia",
@@ -1239,7 +1285,8 @@
    "nome": "Valdomiro Lopes",
    "partido": "PSB",
    "votos": 86893,
-   "promessas": []
+   "promessas": [],
+   "base": "São José do Rio Preto (30.005 votos na cidade)"
   },
   {
    "id": "thammy-miranda",
@@ -1330,7 +1377,8 @@
    "nome": "Kaka do Autismo",
    "partido": "Podemos",
    "votos": 74365,
-   "promessas": []
+   "promessas": [],
+   "base": "Ferraz de Vasconcelos"
   },
   {
    "id": "barba",
@@ -1380,7 +1428,7 @@
    "partido": "PT",
    "votos": 72486,
    "promessas": [],
-   "base": "São José do Rio Preto"
+   "base": "São José do Rio Preto (41.045 votos na cidade)"
   },
   {
    "id": "lucas-bove",
@@ -1401,7 +1449,8 @@
    "nome": "Ana Perugini",
    "partido": "PT",
    "votos": 70737,
-   "promessas": []
+   "promessas": [],
+   "base": "Hortolândia"
   },
   {
    "id": "sebastiao-santos",
@@ -1436,7 +1485,8 @@
    "nome": "Gilmaci Santos",
    "partido": "Republicanos",
    "votos": 66474,
-   "promessas": []
+   "promessas": [],
+   "base": "Campinas"
   },
   {
    "id": "isaac-antunes",
@@ -1478,7 +1528,8 @@
    "nome": "Ricardo França",
    "partido": "Podemos",
    "votos": 53644,
-   "promessas": []
+   "promessas": [],
+   "base": "Indaiatuba"
   }
  ]
 }
