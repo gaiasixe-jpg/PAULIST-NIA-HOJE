@@ -677,7 +677,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
   function kwMatch(n){if(!kwv)return true;var t=n._k||(n._k=norm(n.t+" "+n.p+" "+n.src+" "+n.tema+" "+n.c.join(" ")));return kwv.split(" ").every(function(w){return t.indexOf(w)>=0;});}
   function drawPaper(){
     var base=arqMes&&ARQ?ARQ:N;
-    var list=base.filter(function(n){if(st.tema!=="Todos"&&n.tema!==st.tema)return false;if(!kwMatch(n))return false;if(st.reg!=="todas")return inReg(n,st.reg);return !n.mun||st.tema!=="Todos"||!!kwv;});
+    var list=base.filter(function(n){if(st.tema!=="Todos"&&n.tema!==st.tema)return false;if(!kwMatch(n))return false;if(st.reg!=="todas")return inReg(n,st.reg);return true;});
     var out=document.getElementById("paper");
     if(!list.length){out.innerHTML='<div class="empty">Nenhuma notícia com esse filtro ainda.</div>';return;}
     out.innerHTML=storyHTML(list[0],true)+'<div class="stories">'+list.slice(1).map(function(n){return storyHTML(n);}).join("")+'</div>';
