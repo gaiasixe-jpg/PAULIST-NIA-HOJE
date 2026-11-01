@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-01T18:42:33-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-01T18:46:21-03:00",
+"novos_nesta_coleta": 0,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -46,7 +46,7 @@
 },
 {
 "fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>"
+"erro": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake fail | <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake f"
 }
 ],
 "itens": [
