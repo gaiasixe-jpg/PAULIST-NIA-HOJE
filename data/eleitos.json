@@ -1,0 +1,231 @@
+{
+ "_como_usar": "Promessas dos eleitos em 2026 acompanhadas pelo site (o governador fica em index.html, p01 a p38). Para marcar o andamento de qualquer promessa, use o número dela (ex.: lu01, de03, ap05) em data/promessas.json, igual às do governador. Para acrescentar um político, copie um bloco inteiro e troque os dados.",
+ "proximos": "Deputados federais (70) e estaduais (94) eleitos por SP: em levantamento, por etapas.",
+ "politicos": [
+  {
+   "id": "lula",
+   "cargo": "Presidente da República",
+   "nome": "Luiz Inácio Lula da Silva",
+   "partido": "PT",
+   "mandato": "2027–2030",
+   "eleicao": "Reeleito no 2º turno com 51,79% dos votos válidos (TSE).",
+   "eleicao_u": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026",
+   "nota": "Só entram as promessas que atingem diretamente quem mora em São Paulo e as cidades paulistas.",
+   "promessas": [
+    {
+     "id": "lu01",
+     "area": "Saúde",
+     "t": "Diagnóstico e início do tratamento de câncer pelo SUS em até 30 dias",
+     "meta": "Até 30 dias",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    },
+    {
+     "id": "lu02",
+     "area": "Saúde",
+     "t": "Continuar o programa Agora Tem Especialistas, com fila única digital por risco clínico",
+     "meta": "Sem número",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    },
+    {
+     "id": "lu03",
+     "area": "Saúde",
+     "t": "Ampliar o Mais Médicos e as equipes multiprofissionais",
+     "meta": "Sem número",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    },
+    {
+     "id": "lu04",
+     "area": "Saúde",
+     "t": "Expandir os pontos de retirada da Farmácia Popular",
+     "meta": "Sem número",
+     "u": "https://exame.com/brasil/quais-sao-as-principais-promessas-de-lula-para-o-4o-mandato-veja-plano-de-governo/"
+    },
+    {
+     "id": "lu05",
+     "area": "Saúde",
+     "t": "Ampliar os Caps e a Rede de Atenção Psicossocial",
+     "meta": "Sem número",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    },
+    {
+     "id": "lu06",
+     "area": "Saúde",
+     "t": "Recuperar a cobertura vacinal e incluir novas vacinas (dengue, VSR, Pneumo 20)",
+     "meta": "Sem número",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    },
+    {
+     "id": "lu07",
+     "area": "Transporte",
+     "t": "Transporte público gratuito nos fins de semana e feriados, pago com emendas obrigatórias",
+     "meta": "Sem número",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    },
+    {
+     "id": "lu08",
+     "area": "Moradia",
+     "t": "Manter e ampliar o Minha Casa, Minha Vida",
+     "meta": "Sem nova meta numérica",
+     "u": "https://exame.com/brasil/quais-sao-as-principais-promessas-de-lula-para-o-4o-mandato-veja-plano-de-governo/"
+    },
+    {
+     "id": "lu09",
+     "area": "Moradia",
+     "t": "Ampliar o Periferia Viva, de urbanização das periferias",
+     "meta": "Sem número",
+     "u": "https://exame.com/brasil/quais-sao-as-principais-promessas-de-lula-para-o-4o-mandato-veja-plano-de-governo/"
+    },
+    {
+     "id": "lu10",
+     "area": "Trabalho",
+     "t": "Regulamentar as exceções do fim da escala 6x1, aprovado pelo Congresso antes do 2º turno",
+     "meta": "Sem número",
+     "u": "https://exame.com/brasil/quais-sao-as-principais-promessas-de-lula-para-o-4o-mandato-veja-plano-de-governo/"
+    },
+    {
+     "id": "lu11",
+     "area": "Educação",
+     "t": "Alfabetizar 80% das crianças na idade certa",
+     "meta": "80%",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    },
+    {
+     "id": "lu12",
+     "area": "Infraestrutura",
+     "t": "Lançar nova edição do Novo PAC e continuar obras e concessões",
+     "meta": "Sem número",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    },
+    {
+     "id": "lu13",
+     "area": "Impostos",
+     "t": "Regulamentar a reforma tributária com isenção da cesta básica",
+     "meta": "Sem número",
+     "u": "https://www.em.com.br/politica/2026/10/7527883-veja-as-principais-promessas-de-campanha-de-lula-reeleito-presidente.html"
+    }
+   ]
+  },
+  {
+   "id": "derrite",
+   "cargo": "Senador por SP",
+   "nome": "Guilherme Derrite",
+   "partido": "PP",
+   "mandato": "2027–2034 (o site acompanha até 2030)",
+   "eleicao": "Eleito com 13.273.880 votos (30,59%), o mais votado (TRE-SP).",
+   "eleicao_u": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-guilherme-derrite-pp-e-andre-do-prado-pl-sao-eleitos-senadores-por-sao-paulo",
+   "nota": "Senador não executa obras: as promessas são o que ele disse que vai defender e votar no Senado. A campanha não divulgou metas numéricas.",
+   "promessas": [
+    {
+     "id": "de01",
+     "area": "Segurança",
+     "t": "Endurecer as leis penais e acabar com benefícios para condenados (lema \"SP sem medo\")",
+     "meta": "Sem número",
+     "u": "https://jornalismojunior.com.br/eleicoes-2026-quem-e-o-ex-oficial-da-policia-militar-guilherme-derrite-candidato-ao-senado-por-sp/"
+    },
+    {
+     "id": "de02",
+     "area": "Segurança",
+     "t": "Defender a prisão perpétua para determinados crimes. Hoje a Constituição proíbe; ele mesmo disse que exigiria uma nova Constituinte",
+     "meta": "Sem número",
+     "u": "https://jovempan.com.br/politica/guilherme-derrite-o-policial-que-virou-politico-e-busca-senado-pela-1a-vez-com-apoio-de-flavio-e-tarcisio/"
+    },
+    {
+     "id": "de03",
+     "area": "Segurança",
+     "t": "Apoiar a classificação de facções criminosas como organizações terroristas",
+     "meta": "Sem número",
+     "u": "https://jovempan.com.br/politica/guilherme-derrite-o-policial-que-virou-politico-e-busca-senado-pela-1a-vez-com-apoio-de-flavio-e-tarcisio/"
+    },
+    {
+     "id": "de04",
+     "area": "Segurança",
+     "t": "Retomar o debate da redução da maioridade penal (PEC aprovada na Câmara em 2015)",
+     "meta": "Sem número",
+     "u": "https://jornalismojunior.com.br/eleicoes-2026-quem-e-o-ex-oficial-da-policia-militar-guilherme-derrite-candidato-ao-senado-por-sp/"
+    },
+    {
+     "id": "de05",
+     "area": "São Paulo",
+     "t": "Defender os interesses de São Paulo no Senado, em parceria com o governo do estado",
+     "meta": "Sem número",
+     "u": "https://jornalismojunior.com.br/eleicoes-2026-quem-e-o-ex-oficial-da-policia-militar-guilherme-derrite-candidato-ao-senado-por-sp/"
+    }
+   ]
+  },
+  {
+   "id": "andre",
+   "cargo": "Senador por SP",
+   "nome": "André do Prado",
+   "partido": "PL",
+   "mandato": "2027–2034 (o site acompanha até 2030)",
+   "eleicao": "Eleito com 12.703.089 votos (29,28%) (TRE-SP).",
+   "eleicao_u": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-guilherme-derrite-pp-e-andre-do-prado-pl-sao-eleitos-senadores-por-sao-paulo",
+   "nota": "Senador não executa obras: as promessas são o que ele disse que vai defender e votar no Senado. A campanha não divulgou metas numéricas.",
+   "promessas": [
+    {
+     "id": "ap01",
+     "area": "Municípios",
+     "t": "Representar os municípios paulistas em Brasília e aproximar prefeitos do governo federal e de quem financia obras",
+     "meta": "Sem número",
+     "u": "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-andre-do-prado-candidato-ao-senado-de-sao-paulo/"
+    },
+    {
+     "id": "ap02",
+     "area": "Política",
+     "t": "Acabar com o foro privilegiado de parlamentares",
+     "meta": "Sem número",
+     "u": "https://jornalismojunior.com.br/eleicoes-2026-conheca-andre-do-prado-escolha-da-direita-paulistana-para-o-senado/"
+    },
+    {
+     "id": "ap03",
+     "area": "Política",
+     "t": "Mudar a suplência: se abrir vaga no Senado, assume o segundo mais votado, não o suplente da chapa",
+     "meta": "Sem número",
+     "u": "https://jornalismojunior.com.br/eleicoes-2026-conheca-andre-do-prado-escolha-da-direita-paulistana-para-o-senado/"
+    },
+    {
+     "id": "ap04",
+     "area": "Justiça",
+     "t": "Defender a abertura de processos de impeachment contra ministros do STF",
+     "meta": "Sem número",
+     "u": "https://jornalismojunior.com.br/eleicoes-2026-conheca-andre-do-prado-escolha-da-direita-paulistana-para-o-senado/"
+    },
+    {
+     "id": "ap05",
+     "area": "Justiça",
+     "t": "Apoiar projetos de anistia aos condenados pelo 8 de janeiro",
+     "meta": "Sem número",
+     "u": "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-andre-do-prado-candidato-ao-senado-de-sao-paulo/"
+    },
+    {
+     "id": "ap06",
+     "area": "Economia",
+     "t": "Defender redução dos juros, reforma administrativa e privatizações (cita os Correios)",
+     "meta": "Sem número",
+     "u": "https://jornalismojunior.com.br/eleicoes-2026-conheca-andre-do-prado-escolha-da-direita-paulistana-para-o-senado/"
+    },
+    {
+     "id": "ap07",
+     "area": "Investigação",
+     "t": "Defender uma CPI do Banco Master que alcance todos os envolvidos",
+     "meta": "Sem número",
+     "u": "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-andre-do-prado-candidato-ao-senado-de-sao-paulo/"
+    },
+    {
+     "id": "ap08",
+     "area": "Campo",
+     "t": "Segurança jurídica no campo, crédito e seguro rural",
+     "meta": "Sem número",
+     "u": "https://jornalismojunior.com.br/eleicoes-2026-conheca-andre-do-prado-escolha-da-direita-paulistana-para-o-senado/"
+    },
+    {
+     "id": "ap09",
+     "area": "Direitos",
+     "t": "Pôr a liberdade de expressão no centro dos debates do Senado",
+     "meta": "Sem número",
+     "u": "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-andre-do-prado-candidato-ao-senado-de-sao-paulo/"
+    }
+   ]
+  }
+ ]
+}
