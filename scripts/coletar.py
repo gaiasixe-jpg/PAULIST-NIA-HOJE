@@ -24,6 +24,8 @@ FONTES = RAIZ / "scripts" / "fontes.json"
 MUNICIPIOS = RAIZ / "data" / "municipios.json"
 SAIDA = RAIZ / "data" / "feed.json"
 DEPUTADOS = RAIZ / "data" / "deputados.json"
+FEDERAIS = RAIZ / "data" / "federais.json"
+GASTOS = RAIZ / "data" / "gastos.json"
 ARQUIVO = RAIZ / "data" / "arquivo"
 RSS = RAIZ / "data" / "rss"
 SITE = "https://gaiasixe-jpg.github.io/PAULIST-NIA-HOJE/"
@@ -393,6 +395,129 @@ def coletar_deputados(regras, agora):
             "deputados": lista, "por_cidade": por_cidade}
 
 
+# ---------- Gastos de gabinete (Câmara e Alesp) e deputados federais de SP ----------
+import csv
+
+
+def limpa_tipo(t):
+    t = re.sub(r"^[A-Z]\s*-\s*", "", (t or "").strip()).rstrip(". ")
+    t = re.sub(r"\s+,", ",", re.sub(r"\s+", " ", t)).replace(",", ", ").replace(",  ", ", ")
+    return t[:1].upper() + t[1:].lower() if t.isupper() else t
+
+
+def resumir(gastos):
+    """gastos: dict id -> {n, p, itens: [(tipo, fornecedor, mes, valor)]}"""
+    saida = {}
+    for k, g in gastos.items():
+        cat, forn, mes = {}, {}, [0] * 12
+        for tipo, f, m, v in g["itens"]:
+            cat[tipo] = cat.get(tipo, 0) + v
+            forn[f] = forn.get(f, 0) + v
+            if 1 <= m <= 12:
+                mes[m - 1] += v
+        saida[k] = {"n": g["n"], "p": g["p"], "t": round(sum(cat.values())),
+                    "cat": [[c, round(v)] for c, v in sorted(cat.items(), key=lambda x: -x[1])[:8]],
+                    "forn": [[f, round(v)] for f, v in sorted(forn.items(), key=lambda x: -x[1])[:6]],
+                    "mes": [round(v) for v in mes]}
+    return saida
+
+
+def coletar_gastos(agora):
+    ano = agora.year
+    cam, ate_c = {}, 0
+    bruto = baixar(f"https://www.camara.leg.br/cotas/Ano-{ano}.csv.zip")
+    with zipfile.ZipFile(io.BytesIO(bruto)) as z:
+        with z.open([n for n in z.namelist() if n.endswith(".csv")][0]) as arq:
+            for r in csv.DictReader(io.TextIOWrapper(arq, encoding="utf-8-sig"), delimiter=";"):
+                if r.get("sgUF") != "SP" or not r.get("ideCadastro"):
+                    continue
+                g = cam.setdefault(r["ideCadastro"], {"n": r["txNomeParlamentar"].strip(), "p": r["sgPartido"].strip(), "itens": []})
+                m = int(r.get("numMes") or 0)
+                ate_c = max(ate_c, m)
+                g["itens"].append((limpa_tipo(r["txtDescricao"]), (r["txtFornecedor"] or "").strip()[:60], m, float(r["vlrLiquido"] or 0)))
+    ale, ate_a = {}, 0
+    for el in ET.fromstring(baixar_alesp(f"deputados/despesas_gabinetes_{ano}.xml")):
+        mat = (el.findtext("Matricula") or "").strip()
+        if not mat:
+            continue
+        g = ale.setdefault(mat, {"n": (el.findtext("Deputado") or "").strip(), "p": "", "itens": []})
+        m = int(el.findtext("Mes") or 0)
+        ate_a = max(ate_a, m)
+        g["itens"].append((limpa_tipo(el.findtext("Tipo")), (el.findtext("Fornecedor") or "").strip()[:60], m, float(el.findtext("Valor") or 0)))
+    return {"atualizado": agora.strftime("%Y-%m-%dT%H:%M:%S-03:00"), "ano": ano,
+            "camara": {"ate_mes": ate_c, "fonte": f"https://www.camara.leg.br/cotas/Ano-{ano}.csv.zip", "deps": resumir(cam)},
+            "alesp": {"ate_mes": ate_a, "fonte": f"https://www.al.sp.gov.br/repositorioDados/deputados/despesas_gabinetes_{ano}.xml", "deps": resumir(ale)}}
+
+
+CAMARA_API = "https://dadosabertos.camara.leg.br/api/v2/"
+
+
+def camara_get(caminho):
+    for tentativa in range(3):
+        try:
+            req = urllib.request.Request(CAMARA_API + caminho, headers={"User-Agent": UA, "Accept": "application/json"})
+            with urllib.request.urlopen(req, timeout=40) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except Exception:
+            if tentativa == 2:
+                raise
+            import time
+            time.sleep(5)
+
+
+def contar_proposicoes(dep_id, inicio, tipos, guardar=False):
+    itens, pagina = [], 1
+    while pagina <= 6:
+        d = camara_get(f"proposicoes?idDeputadoAutor={dep_id}&dataApresentacaoInicio={inicio}&siglaTipo={tipos}&itens=100&pagina={pagina}&ordem=DESC&ordenarPor=id")
+        itens += d.get("dados", [])
+        if not any(l.get("rel") == "next" for l in d.get("links", [])):
+            break
+        pagina += 1
+    return itens
+
+
+def coletar_federais(regras, agora, gastos):
+    """Deputados federais de SP: projetos e requerimentos dos últimos 12 meses e cidades citadas."""
+    deps = {}
+    try:
+        for x in camara_get("deputados?siglaUf=SP&itens=100&ordem=ASC&ordenarPor=nome").get("dados", []):
+            deps[str(x["id"])] = {"n": x["nome"], "p": x["siglaPartido"]}
+    except Exception:
+        pass  # a lista da API às vezes cai; usa quem tem gasto lançado no ano
+    for k, g in (gastos or {}).get("camara", {}).get("deps", {}).items():
+        deps.setdefault(k, {"n": g["n"].title() if g["n"].isupper() else g["n"], "p": g["p"]})
+    inicio = (agora - timedelta(days=365)).strftime("%Y-%m-%d")
+    lista, por_cidade, ultima = [], {}, ""
+    for dep_id, info in deps.items():
+        try:
+            pls = contar_proposicoes(dep_id, inicio, "PL,PEC,PLP,PDL")
+            reqs = contar_proposicoes(dep_id, inicio, "REQ,RIC,INC")
+        except Exception:
+            continue
+        cid = {}
+        for p in pls:
+            for c in achar_cidades(p.get("ementa") or "", regras):
+                if c != "São Paulo":
+                    cid[c] = cid.get(c, 0) + 1
+        pls.sort(key=lambda p: p.get("dataApresentacao") or "", reverse=True)
+        if pls:
+            ultima = max(ultima, (pls[0].get("dataApresentacao") or "")[:10])
+        top = sorted(cid.items(), key=lambda x: -x[1])
+        for c, n in top:
+            por_cidade.setdefault(c, []).append([dep_id, n])
+        lista.append({"id": dep_id, "n": info["n"], "p": info["p"],
+                      "tot": {"pl": len(pls), "req": len(reqs)},
+                      "pls": [{"d": (p.get("dataApresentacao") or "")[:10], "s": f"{p.get('siglaTipo')} {p.get('numero')}/{p.get('ano')}",
+                               "e": re.sub(r"\s+", " ", p.get("ementa") or "").strip()[:260],
+                               "u": f"https://www.camara.leg.br/propostas-legislativas/{p.get('id')}"} for p in pls[:12]],
+                      "cid": top[:12], "u": f"https://www.camara.leg.br/deputados/{dep_id}"})
+    for c in por_cidade:
+        por_cidade[c] = sorted(por_cidade[c], key=lambda x: -x[1])[:6]
+    lista.sort(key=lambda d: norm(d["n"]))
+    return {"atualizado": agora.strftime("%Y-%m-%dT%H:%M:%S-03:00"), "dados_ate": ultima or agora.strftime("%Y-%m-%d"),
+            "deputados": lista, "por_cidade": por_cidade}
+
+
 # ---------- Arquivo mensal e RSS ----------
 def gravar_se_mudou(caminho, texto):
     if caminho.exists() and caminho.read_text(encoding="utf-8") == texto:
@@ -555,6 +680,26 @@ def main():
             print(f"deputados: {len(dados['deputados'])} em exercício · proposituras até {dados['dados_ate']}")
         except Exception as e:
             print("  erro nos deputados:", str(e)[:160])
+
+    # Gastos de gabinete e deputados federais: uma vez por dia (ou se faltar o arquivo).
+    gastos = None
+    if not GASTOS.exists() or agora.hour == 7 or "--gastos" in sys.argv:
+        try:
+            gastos = coletar_gastos(agora)
+            GASTOS.write_text(json.dumps(gastos, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            print(f"gastos: {len(gastos['camara']['deps'])} federais e {len(gastos['alesp']['deps'])} estaduais")
+        except Exception as e:
+            print("  erro nos gastos:", str(e)[:160])
+    if not FEDERAIS.exists() or agora.hour == 7 or "--federais" in sys.argv:
+        try:
+            if gastos is None and GASTOS.exists():
+                gastos = json.loads(GASTOS.read_text(encoding="utf-8"))
+            fed = coletar_federais(regras, agora, gastos)
+            if fed["deputados"]:
+                FEDERAIS.write_text(json.dumps(fed, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            print(f"federais: {len(fed['deputados'])} deputados")
+        except Exception as e:
+            print("  erro nos federais:", str(e)[:160])
     print(f"{novos} notícias novas · {len(itens)} no total · {len(ok)} jornais lidos · {len(erros)} com erro")
     for e in erros:
         print("  erro:", e["fonte"], "-", e["erro"])
