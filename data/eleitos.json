@@ -301,7 +301,50 @@
    "nome": "Sâmia Bomfim",
    "partido": "PSOL",
    "votos": 583107,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "samia-bomf01",
+     "area": "Trabalho",
+     "t": "Acabar com a escala 6x1",
+     "meta": "Sem número",
+     "u": "https://www.imparcial.com.br/noticias/samia-bomfim-busca-reeleicao-pelo-psol-em-10-anos-de-vida-publica-nunca-me-envolvi-com-corrupcao,83567"
+    },
+    {
+     "id": "samia-bomf02",
+     "area": "Apostas",
+     "t": "Acabar com as bets",
+     "meta": "Sem número",
+     "u": "https://www.imparcial.com.br/noticias/samia-bomfim-busca-reeleicao-pelo-psol-em-10-anos-de-vida-publica-nunca-me-envolvi-com-corrupcao,83567"
+    },
+    {
+     "id": "samia-bomf03",
+     "area": "Contas públicas",
+     "t": "Acabar com o orçamento secreto",
+     "meta": "Sem número",
+     "u": "https://www.imparcial.com.br/noticias/samia-bomfim-busca-reeleicao-pelo-psol-em-10-anos-de-vida-publica-nunca-me-envolvi-com-corrupcao,83567"
+    },
+    {
+     "id": "samia-bomf04",
+     "area": "Impostos",
+     "t": "Taxar as grandes fortunas e isentar trabalhadores do Imposto de Renda",
+     "meta": "Sem número",
+     "u": "https://www.imparcial.com.br/noticias/samia-bomfim-busca-reeleicao-pelo-psol-em-10-anos-de-vida-publica-nunca-me-envolvi-com-corrupcao,83567"
+    },
+    {
+     "id": "samia-bomf05",
+     "area": "Mulheres",
+     "t": "Criar delegacias da mulher abertas 24 horas",
+     "meta": "24 horas",
+     "u": "https://www.imparcial.com.br/noticias/samia-bomfim-busca-reeleicao-pelo-psol-em-10-anos-de-vida-publica-nunca-me-envolvi-com-corrupcao,83567"
+    },
+    {
+     "id": "samia-bomf06",
+     "area": "Oeste Paulista",
+     "t": "Defender mais investimento nas universidades do oeste paulista, com ciência e tecnologia como prioridade",
+     "meta": "Sem número",
+     "u": "https://www.encontrapresidenteprudente.com/eleita-deputada-federal-samia-bomfim-fala-sobre-direitos-das-mulheres-e-area-de-pesquisa-cientifica-no-oeste-paulista/"
+    }
+   ]
   },
   {
    "id": "kim-kataguiri",
@@ -439,7 +482,50 @@
    "nome": "Marina Helena",
    "partido": "Novo",
    "votos": 230866,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "marina-hel01",
+     "area": "Contas públicas",
+     "t": "Reduzir em 80% os gastos da Câmara dos Deputados (verba de gabinete, cargos comissionados e mordomias)",
+     "meta": "80%",
+     "u": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/"
+    },
+    {
+     "id": "marina-hel02",
+     "area": "Impostos",
+     "t": "Nunca votar a favor de aumento de imposto",
+     "meta": "Sem número",
+     "u": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/"
+    },
+    {
+     "id": "marina-hel03",
+     "area": "Economia",
+     "t": "Corrigir automaticamente pela inflação os limites do MEI e do Simples e as faixas de impostos",
+     "meta": "Sem número",
+     "u": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/"
+    },
+    {
+     "id": "marina-hel04",
+     "area": "Segurança",
+     "t": "Acabar com as saidinhas de presos",
+     "meta": "Sem número",
+     "u": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/"
+    },
+    {
+     "id": "marina-hel05",
+     "area": "Segurança",
+     "t": "Tornar automática a prisão preventiva de quem for preso em flagrante mais de duas vezes",
+     "meta": "Sem número",
+     "u": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/"
+    },
+    {
+     "id": "marina-hel06",
+     "area": "Trabalho",
+     "t": "Passar os 8% do FGTS direto para o salário do trabalhador",
+     "meta": "8%",
+     "u": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/"
+    }
+   ]
   },
   {
    "id": "delegado-bruno-lima",
