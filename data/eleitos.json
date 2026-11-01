@@ -1,6 +1,6 @@
 {
  "_como_usar": "Promessas dos eleitos em 2026 acompanhadas pelo site (o governador fica em index.html, p01 a p38). Para marcar o andamento de qualquer promessa, use o número dela (ex.: lu01, de03, ap05) em data/promessas.json, igual às do governador. Para acrescentar um político, copie um bloco inteiro e troque os dados.",
- "proximos": "Deputados federais (70) e estaduais (94) eleitos por SP: em levantamento, por etapas.",
+ "proximos": "",
  "politicos": [
   {
    "id": "lula",
@@ -226,6 +226,1259 @@
      "u": "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-andre-do-prado-candidato-ao-senado-de-sao-paulo/"
     }
    ]
+  }
+ ],
+ "deputados_fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-confira-os-deputados-federais-eleitos-por-sao-paulo",
+ "deputados_fonte_est": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-veja-quem-sao-os-deputados-estaduais-eleitos-por-sp",
+ "deputados_federais": [
+  {
+   "id": "lucas-pavanato",
+   "nome": "Lucas Pavanato",
+   "partido": "PL",
+   "votos": 3038438,
+   "promessas": [
+    {
+     "id": "lucas-pava01",
+     "area": "Família",
+     "t": "Proibir terapias hormonais de transição de gênero para menores de 18 anos",
+     "meta": "Sem número",
+     "u": "https://timesbrasil.com.br/brasil/decisao-2026-quem-e-lucas-pavanato-eleito-com-mais-de-3-milhoes-de-votos-em-sp/"
+    },
+    {
+     "id": "lucas-pava02",
+     "area": "Educação",
+     "t": "Acabar com as cotas raciais, de gênero e para pessoas trans",
+     "meta": "Sem número",
+     "u": "https://www.bnewssaopaulo.com.br/noticias/politica/quem-e-lucas-pavanato-deputado-federal-mais-votado-de-sao-paulo.html"
+    },
+    {
+     "id": "lucas-pava03",
+     "area": "Segurança",
+     "t": "Reduzir a maioridade penal para crimes hediondos",
+     "meta": "Sem número",
+     "u": "https://timesbrasil.com.br/brasil/decisao-2026-quem-e-lucas-pavanato-eleito-com-mais-de-3-milhoes-de-votos-em-sp/"
+    },
+    {
+     "id": "lucas-pava04",
+     "area": "Economia",
+     "t": "Privatizar empresas estatais que dão prejuízo",
+     "meta": "Sem número",
+     "u": "https://timesbrasil.com.br/brasil/decisao-2026-quem-e-lucas-pavanato-eleito-com-mais-de-3-milhoes-de-votos-em-sp/"
+    },
+    {
+     "id": "lucas-pava05",
+     "area": "Família",
+     "t": "Defender o fim do aborto",
+     "meta": "Sem número",
+     "u": "https://www.bnewssaopaulo.com.br/noticias/politica/quem-e-lucas-pavanato-deputado-federal-mais-votado-de-sao-paulo.html"
+    },
+    {
+     "id": "lucas-pava06",
+     "area": "Assistência social",
+     "t": "Propor uma CPI sobre ONGs que atendem pessoas em situação de rua, uma das primeiras pautas do mandato",
+     "meta": "Sem número",
+     "u": "https://www.bnewssaopaulo.com.br/noticias/politica/quem-e-lucas-pavanato-deputado-federal-mais-votado-de-sao-paulo.html"
+    }
+   ]
+  },
+  {
+   "id": "erika-hilton",
+   "nome": "Erika Hilton",
+   "partido": "PSOL",
+   "votos": 1596472,
+   "promessas": [
+    {
+     "id": "erika-hilt01",
+     "area": "Trabalho",
+     "t": "Defender o fim da escala 6x1 e a redução da jornada de trabalho (principal bandeira)",
+     "meta": "Sem número",
+     "u": "https://ncnews.com.br/?p=57461"
+    }
+   ]
+  },
+  {
+   "id": "samia-bomfim",
+   "nome": "Sâmia Bomfim",
+   "partido": "PSOL",
+   "votos": 583107,
+   "promessas": []
+  },
+  {
+   "id": "kim-kataguiri",
+   "nome": "Kim Kataguiri",
+   "partido": "Missão",
+   "votos": 520071,
+   "promessas": [
+    {
+     "id": "kim-katagu01",
+     "area": "Gestão pública",
+     "t": "Defender uma reforma administrativa ampla, que ele chama de \"a maior reforma de Estado da história\"",
+     "meta": "Sem número",
+     "u": "https://jovempan.com.br/politica/cogitado-ao-governo-de-sp-kim-kataguiri-anuncia-que-buscara-reeleicao-a-camara/"
+    },
+    {
+     "id": "kim-katagu02",
+     "area": "Gestão pública",
+     "t": "Reduzir a burocracia, cortar privilégios e enxugar a máquina pública",
+     "meta": "Sem número",
+     "u": "https://congressoemfoco.com.br/noticia/119847/kim-kataguiri-desiste-do-governo-de-sp-para-buscar-reeleicao-na-camara"
+    }
+   ]
+  },
+  {
+   "id": "tabata-amaral",
+   "nome": "Tabata Amaral",
+   "partido": "PSB",
+   "votos": 476383,
+   "promessas": []
+  },
+  {
+   "id": "renato-bolsonaro",
+   "nome": "Renato Bolsonaro",
+   "partido": "PL",
+   "votos": 379312,
+   "promessas": []
+  },
+  {
+   "id": "sargento-nantes",
+   "nome": "Sargento Nantes",
+   "partido": "PP",
+   "votos": 333401,
+   "promessas": []
+  },
+  {
+   "id": "delegado-palumbo",
+   "nome": "Delegado Palumbo",
+   "partido": "Podemos",
+   "votos": 303271,
+   "promessas": []
+  },
+  {
+   "id": "guilherme-cortez",
+   "nome": "Guilherme Cortez",
+   "partido": "PSOL",
+   "votos": 275450,
+   "promessas": []
+  },
+  {
+   "id": "mauricio-neves",
+   "nome": "Mauricio Neves",
+   "partido": "PP",
+   "votos": 269996,
+   "promessas": []
+  },
+  {
+   "id": "marcio-alvino",
+   "nome": "Marcio Alvino",
+   "partido": "PL",
+   "votos": 261325,
+   "promessas": []
+  },
+  {
+   "id": "professora-luciene-cavalcante",
+   "nome": "Professora Luciene Cavalcante",
+   "partido": "PSOL",
+   "votos": 253778,
+   "promessas": []
+  },
+  {
+   "id": "ana-carolina-oliveira",
+   "nome": "Ana Carolina Oliveira",
+   "partido": "Podemos",
+   "votos": 246741,
+   "promessas": []
+  },
+  {
+   "id": "baleia-rossi",
+   "nome": "Baleia Rossi",
+   "partido": "MDB",
+   "votos": 239124,
+   "promessas": []
+  },
+  {
+   "id": "luna-zarattini",
+   "nome": "Luna Zarattini",
+   "partido": "PT",
+   "votos": 233733,
+   "promessas": []
+  },
+  {
+   "id": "marina-helena",
+   "nome": "Marina Helena",
+   "partido": "Novo",
+   "votos": 230866,
+   "promessas": []
+  },
+  {
+   "id": "delegado-bruno-lima",
+   "nome": "Delegado Bruno Lima",
+   "partido": "Podemos",
+   "votos": 217952,
+   "promessas": []
+  },
+  {
+   "id": "rosana-valle",
+   "nome": "Rosana Valle",
+   "partido": "PL",
+   "votos": 213752,
+   "promessas": []
+  },
+  {
+   "id": "renata-abreu",
+   "nome": "Renata Abreu",
+   "partido": "Podemos",
+   "votos": 199100,
+   "promessas": []
+  },
+  {
+   "id": "marcos-pereira",
+   "nome": "Marcos Pereira",
+   "partido": "Republicanos",
+   "votos": 196681,
+   "promessas": []
+  },
+  {
+   "id": "luiz-philippe-de-orleans-e-braganca",
+   "nome": "Luiz Philippe de Orléans e Bragança",
+   "partido": "PL",
+   "votos": 187743,
+   "promessas": []
+  },
+  {
+   "id": "guilherme-piai",
+   "nome": "Guilherme Piai",
+   "partido": "Republicanos",
+   "votos": 182328,
+   "promessas": []
+  },
+  {
+   "id": "igor-soares",
+   "nome": "Igor Soares",
+   "partido": "PSD",
+   "votos": 181820,
+   "promessas": []
+  },
+  {
+   "id": "paulo-alexandre-barbosa",
+   "nome": "Paulo Alexandre Barbosa",
+   "partido": "PSD",
+   "votos": 168207,
+   "promessas": []
+  },
+  {
+   "id": "felipe-becari",
+   "nome": "Felipe Becari",
+   "partido": "Podemos",
+   "votos": 162957,
+   "promessas": []
+  },
+  {
+   "id": "thiago-surfista",
+   "nome": "Thiago Surfista",
+   "partido": "PL",
+   "votos": 161971,
+   "promessas": []
+  },
+  {
+   "id": "alencar-santana",
+   "nome": "Alencar Santana",
+   "partido": "PT",
+   "votos": 160264,
+   "promessas": []
+  },
+  {
+   "id": "capitao-augusto",
+   "nome": "Capitão Augusto",
+   "partido": "PL",
+   "votos": 153745,
+   "promessas": []
+  },
+  {
+   "id": "jilmar-tatto",
+   "nome": "Jilmar Tatto",
+   "partido": "PT",
+   "votos": 152984,
+   "promessas": []
+  },
+  {
+   "id": "celso-russomanno",
+   "nome": "Celso Russomanno",
+   "partido": "Republicanos",
+   "votos": 138827,
+   "promessas": []
+  },
+  {
+   "id": "thiago-dos-reis",
+   "nome": "Thiago dos Reis",
+   "partido": "PT",
+   "votos": 137240,
+   "promessas": []
+  },
+  {
+   "id": "paulo-serra",
+   "nome": "Paulo Serra",
+   "partido": "PSDB",
+   "votos": 132866,
+   "promessas": []
+  },
+  {
+   "id": "sidney-cruz",
+   "nome": "Sidney Cruz",
+   "partido": "MDB",
+   "votos": 130951,
+   "promessas": []
+  },
+  {
+   "id": "joao-cury",
+   "nome": "João Cury",
+   "partido": "MDB",
+   "votos": 130915,
+   "promessas": []
+  },
+  {
+   "id": "luiz-fernando-machado",
+   "nome": "Luiz Fernando Machado",
+   "partido": "PL",
+   "votos": 129004,
+   "promessas": []
+  },
+  {
+   "id": "arlindo-chinaglia",
+   "nome": "Arlindo Chinaglia",
+   "partido": "PT",
+   "votos": 124121,
+   "promessas": []
+  },
+  {
+   "id": "pastor-marco-feliciano",
+   "nome": "Pastor Marco Feliciano",
+   "partido": "PL",
+   "votos": 122119,
+   "promessas": []
+  },
+  {
+   "id": "ney-santos",
+   "nome": "Ney Santos",
+   "partido": "Republicanos",
+   "votos": 118566,
+   "promessas": []
+  },
+  {
+   "id": "carlos-zarattini",
+   "nome": "Carlos Zarattini",
+   "partido": "PT",
+   "votos": 117608,
+   "promessas": []
+  },
+  {
+   "id": "edinho-silva",
+   "nome": "Edinho Silva",
+   "partido": "PT",
+   "votos": 115341,
+   "promessas": []
+  },
+  {
+   "id": "nilto-tatto",
+   "nome": "Nilto Tatto",
+   "partido": "PT",
+   "votos": 114560,
+   "promessas": []
+  },
+  {
+   "id": "natalia-boulos",
+   "nome": "Natália Boulos",
+   "partido": "PSOL",
+   "votos": 114552,
+   "promessas": []
+  },
+  {
+   "id": "kiko-celeguim",
+   "nome": "Kiko Celeguim",
+   "partido": "PT",
+   "votos": 113158,
+   "promessas": []
+  },
+  {
+   "id": "motta",
+   "nome": "Motta",
+   "partido": "PL",
+   "votos": 112854,
+   "promessas": []
+  },
+  {
+   "id": "juliana-cardoso",
+   "nome": "Juliana Cardoso",
+   "partido": "PT",
+   "votos": 111904,
+   "promessas": []
+  },
+  {
+   "id": "joao-paulo-cunha",
+   "nome": "João Paulo Cunha",
+   "partido": "PT",
+   "votos": 109548,
+   "promessas": []
+  },
+  {
+   "id": "rodrigo-gambale",
+   "nome": "Rodrigo Gambale",
+   "partido": "Podemos",
+   "votos": 106901,
+   "promessas": []
+  },
+  {
+   "id": "dra-sandra-tadeu",
+   "nome": "Dra. Sandra Tadeu",
+   "partido": "PL",
+   "votos": 106471,
+   "promessas": []
+  },
+  {
+   "id": "enrico-misasi",
+   "nome": "Enrico Misasi",
+   "partido": "MDB",
+   "votos": 106225,
+   "promessas": []
+  },
+  {
+   "id": "coronel-telhada",
+   "nome": "Coronel Telhada",
+   "partido": "PP",
+   "votos": 104513,
+   "promessas": []
+  },
+  {
+   "id": "paulo-freire",
+   "nome": "Paulo Freire",
+   "partido": "PL",
+   "votos": 99388,
+   "promessas": []
+  },
+  {
+   "id": "marcos-neves",
+   "nome": "Marcos Neves",
+   "partido": "PSD",
+   "votos": 98359,
+   "promessas": []
+  },
+  {
+   "id": "jonas-donizete",
+   "nome": "Jonas Donizete",
+   "partido": "PSB",
+   "votos": 97335,
+   "promessas": []
+  },
+  {
+   "id": "miguel-lombardi",
+   "nome": "Miguel Lombardi",
+   "partido": "PL",
+   "votos": 96333,
+   "promessas": []
+  },
+  {
+   "id": "saulo-pedroso",
+   "nome": "Saulo Pedroso",
+   "partido": "PSD",
+   "votos": 95096,
+   "promessas": []
+  },
+  {
+   "id": "altair-moraes",
+   "nome": "Altair Moraes",
+   "partido": "Republicanos",
+   "votos": 94770,
+   "promessas": []
+  },
+  {
+   "id": "jefferson-campos",
+   "nome": "Jefferson Campos",
+   "partido": "PL",
+   "votos": 92286,
+   "promessas": []
+  },
+  {
+   "id": "carlos-sampaio",
+   "nome": "Carlos Sampaio",
+   "partido": "PSD",
+   "votos": 91902,
+   "promessas": []
+  },
+  {
+   "id": "maria-rosas",
+   "nome": "Maria Rosas",
+   "partido": "Republicanos",
+   "votos": 91690,
+   "promessas": []
+  },
+  {
+   "id": "mario-frias",
+   "nome": "Mario Frias",
+   "partido": "PL",
+   "votos": 91403,
+   "promessas": []
+  },
+  {
+   "id": "delegado-paulo-bilynskyj",
+   "nome": "Delegado Paulo Bilynskyj",
+   "partido": "PL",
+   "votos": 90363,
+   "promessas": []
+  },
+  {
+   "id": "carlos-bezerra-jr",
+   "nome": "Carlos Bezerra Jr.",
+   "partido": "PSD",
+   "votos": 89414,
+   "promessas": []
+  },
+  {
+   "id": "sirlange-manga",
+   "nome": "Sirlange Manga",
+   "partido": "União Brasil",
+   "votos": 87820,
+   "promessas": []
+  },
+  {
+   "id": "milton-leite-filho",
+   "nome": "Milton Leite Filho",
+   "partido": "União Brasil",
+   "votos": 71631,
+   "promessas": []
+  },
+  {
+   "id": "adriana-ventura",
+   "nome": "Adriana Ventura",
+   "partido": "Novo",
+   "votos": 69083,
+   "promessas": []
+  },
+  {
+   "id": "eduardo-cury",
+   "nome": "Eduardo Cury",
+   "partido": "PL",
+   "votos": 66860,
+   "promessas": []
+  },
+  {
+   "id": "wesley-cezar-lelinho",
+   "nome": "Wesley Cezar Lelinho",
+   "partido": "PL",
+   "votos": 66673,
+   "promessas": []
+  },
+  {
+   "id": "gil-diniz",
+   "nome": "Gil Diniz",
+   "partido": "PL",
+   "votos": 63398,
+   "promessas": []
+  },
+  {
+   "id": "edinho-araujo",
+   "nome": "Edinho Araujo",
+   "partido": "PRD",
+   "votos": 54443,
+   "promessas": [],
+   "base": "São José do Rio Preto"
+  },
+  {
+   "id": "sonia-guajajara",
+   "nome": "Sônia Guajajara",
+   "partido": "PSOL",
+   "votos": 54207,
+   "promessas": []
+  }
+ ],
+ "deputados_estaduais": [
+  {
+   "id": "eduarda-campopiano",
+   "nome": "Eduarda Campopiano",
+   "partido": "PL",
+   "votos": 1956238,
+   "promessas": []
+  },
+  {
+   "id": "eduardo-suplicy",
+   "nome": "Eduardo Suplicy",
+   "partido": "PT",
+   "votos": 654627,
+   "promessas": [
+    {
+     "id": "eduardo-su01",
+     "area": "Renda",
+     "t": "Defender a Renda Básica de Cidadania na Alesp, com a Bancada dos Trabalhadores e Trabalhadoras",
+     "meta": "Sem número",
+     "u": "https://www.dgabc.com.br/Noticia/4338078/eduardo-suplicy-anuncia-apoio-a-bancada-dos-trabalhadores"
+    }
+   ]
+  },
+  {
+   "id": "sofia-favero",
+   "nome": "Sofia Favero",
+   "partido": "PSOL",
+   "votos": 407773,
+   "promessas": [
+    {
+     "id": "sofia-fave01",
+     "area": "Mulheres",
+     "t": "Apresentar projeto de licença remunerada para mulheres vítimas de violência doméstica",
+     "meta": "Sem número",
+     "u": "https://www.metropoles.com/sao-paulo/edificar-debate-diz-deputada-trans-eleita-sp"
+    },
+    {
+     "id": "sofia-fave02",
+     "area": "Educação",
+     "t": "Reduzir impostos dos restaurantes universitários para baratear a alimentação dos estudantes",
+     "meta": "Sem número",
+     "u": "https://www.metropoles.com/sao-paulo/edificar-debate-diz-deputada-trans-eleita-sp"
+    },
+    {
+     "id": "sofia-fave03",
+     "area": "Saúde",
+     "t": "Fortalecer o atendimento multiprofissional para pessoas trans",
+     "meta": "Sem número",
+     "u": "https://www.metropoles.com/sao-paulo/edificar-debate-diz-deputada-trans-eleita-sp"
+    }
+   ]
+  },
+  {
+   "id": "carlos-giannazi",
+   "nome": "Carlos Giannazi",
+   "partido": "PSOL",
+   "votos": 367861,
+   "promessas": []
+  },
+  {
+   "id": "paula-da-bancada-feminista",
+   "nome": "Paula da Bancada Feminista",
+   "partido": "PSOL",
+   "votos": 326190,
+   "promessas": []
+  },
+  {
+   "id": "giovanni-sanches",
+   "nome": "Giovanni Sanches",
+   "partido": "PL",
+   "votos": 235363,
+   "promessas": []
+  },
+  {
+   "id": "rogerio-lins",
+   "nome": "Rogerio Lins",
+   "partido": "Podemos",
+   "votos": 229928,
+   "promessas": []
+  },
+  {
+   "id": "tenente-coimbra",
+   "nome": "Tenente Coimbra",
+   "partido": "PL",
+   "votos": 198342,
+   "promessas": []
+  },
+  {
+   "id": "rafa-minato",
+   "nome": "Rafa Minato",
+   "partido": "Missão",
+   "votos": 185582,
+   "promessas": []
+  },
+  {
+   "id": "danilo-joan",
+   "nome": "Danilo Joan",
+   "partido": "PP",
+   "votos": 182839,
+   "promessas": []
+  },
+  {
+   "id": "thomaz-henrique",
+   "nome": "Thomaz Henrique",
+   "partido": "PL",
+   "votos": 178164,
+   "promessas": []
+  },
+  {
+   "id": "ediane-maria",
+   "nome": "Ediane Maria",
+   "partido": "PSOL",
+   "votos": 170844,
+   "promessas": []
+  },
+  {
+   "id": "luiza-erundina",
+   "nome": "Luiza Erundina",
+   "partido": "PSOL",
+   "votos": 169567,
+   "promessas": []
+  },
+  {
+   "id": "delegado-olim",
+   "nome": "Delegado Olim",
+   "partido": "PP",
+   "votos": 163918,
+   "promessas": []
+  },
+  {
+   "id": "rodrigo-ashiuchi",
+   "nome": "Rodrigo Ashiuchi",
+   "partido": "PL",
+   "votos": 162562,
+   "promessas": []
+  },
+  {
+   "id": "monica-das-pretas",
+   "nome": "Monica das Pretas",
+   "partido": "PSOL",
+   "votos": 159100,
+   "promessas": []
+  },
+  {
+   "id": "itamar-borges",
+   "nome": "Itamar Borges",
+   "partido": "MDB",
+   "votos": 159058,
+   "promessas": [],
+   "base": "Santa Fé do Sul"
+  },
+  {
+   "id": "bruna-furlan",
+   "nome": "Bruna Furlan",
+   "partido": "Republicanos",
+   "votos": 157381,
+   "promessas": []
+  },
+  {
+   "id": "marcos-damasio",
+   "nome": "Marcos Damasio",
+   "partido": "PL",
+   "votos": 156691,
+   "promessas": []
+  },
+  {
+   "id": "dani-alonso",
+   "nome": "Dani Alonso",
+   "partido": "PL",
+   "votos": 155574,
+   "promessas": []
+  },
+  {
+   "id": "regina-nunes",
+   "nome": "Regina Nunes",
+   "partido": "MDB",
+   "votos": 154966,
+   "promessas": []
+  },
+  {
+   "id": "duda-hidalgo",
+   "nome": "Duda Hidalgo",
+   "partido": "PT",
+   "votos": 154953,
+   "promessas": []
+  },
+  {
+   "id": "sargento-castro",
+   "nome": "Sargento Castro",
+   "partido": "PP",
+   "votos": 143422,
+   "promessas": []
+  },
+  {
+   "id": "professora-bebel",
+   "nome": "Professora Bebel",
+   "partido": "PT",
+   "votos": 142001,
+   "promessas": []
+  },
+  {
+   "id": "conte-lopes",
+   "nome": "Conte Lopes",
+   "partido": "PL",
+   "votos": 139225,
+   "promessas": []
+  },
+  {
+   "id": "felipe-sertanejo",
+   "nome": "Felipe Sertanejo",
+   "partido": "PL",
+   "votos": 138277,
+   "promessas": []
+  },
+  {
+   "id": "rogerio-nogueira",
+   "nome": "Rogerio Nogueira",
+   "partido": "PSD",
+   "votos": 137335,
+   "promessas": []
+  },
+  {
+   "id": "telhadinha-capitao-telhada",
+   "nome": "Telhadinha - Capitão Telhada",
+   "partido": "PP",
+   "votos": 134006,
+   "promessas": []
+  },
+  {
+   "id": "ana-carolina-serra",
+   "nome": "Ana Carolina Serra",
+   "partido": "PSDB",
+   "votos": 132881,
+   "promessas": []
+  },
+  {
+   "id": "mariana-conti",
+   "nome": "Mariana Conti",
+   "partido": "PSOL",
+   "votos": 126344,
+   "promessas": []
+  },
+  {
+   "id": "delegada-graciela",
+   "nome": "Delegada Graciela",
+   "partido": "PL",
+   "votos": 125624,
+   "promessas": []
+  },
+  {
+   "id": "dr-edson-da-paiol",
+   "nome": "Dr. Edson da Paiol",
+   "partido": "Podemos",
+   "votos": 124394,
+   "promessas": []
+  },
+  {
+   "id": "alex-madureira",
+   "nome": "Alex Madureira",
+   "partido": "PL",
+   "votos": 122704,
+   "promessas": []
+  },
+  {
+   "id": "leonardo-grandini",
+   "nome": "Leonardo Grandini",
+   "partido": "PT",
+   "votos": 122158,
+   "promessas": []
+  },
+  {
+   "id": "danilo-campetti",
+   "nome": "Danilo Campetti",
+   "partido": "Republicanos",
+   "votos": 119904,
+   "promessas": []
+  },
+  {
+   "id": "barros-munhoz",
+   "nome": "Barros Munhoz",
+   "partido": "PSD",
+   "votos": 116413,
+   "promessas": []
+  },
+  {
+   "id": "emidio",
+   "nome": "Emídio",
+   "partido": "PT",
+   "votos": 108275,
+   "promessas": []
+  },
+  {
+   "id": "paulo-mansur",
+   "nome": "Paulo Mansur",
+   "partido": "PL",
+   "votos": 107073,
+   "promessas": []
+  },
+  {
+   "id": "rafael-saraiva",
+   "nome": "Rafael Saraiva",
+   "partido": "União Brasil",
+   "votos": 105174,
+   "promessas": []
+  },
+  {
+   "id": "rodrigo-mar",
+   "nome": "Rodrigo Mar",
+   "partido": "PT",
+   "votos": 104820,
+   "promessas": []
+  },
+  {
+   "id": "enio-tatto",
+   "nome": "Enio Tatto",
+   "partido": "PT",
+   "votos": 102892,
+   "promessas": []
+  },
+  {
+   "id": "reinaldo-alguz",
+   "nome": "Reinaldo Alguz",
+   "partido": "MDB",
+   "votos": 101946,
+   "promessas": []
+  },
+  {
+   "id": "marta-costa",
+   "nome": "Marta Costa",
+   "partido": "PSD",
+   "votos": 100083,
+   "promessas": []
+  },
+  {
+   "id": "caio-franca",
+   "nome": "Caio França",
+   "partido": "PSB",
+   "votos": 99840,
+   "promessas": []
+  },
+  {
+   "id": "franco-sardelli",
+   "nome": "Franco Sardelli",
+   "partido": "PL",
+   "votos": 98375,
+   "promessas": []
+  },
+  {
+   "id": "douglas-garcia",
+   "nome": "Douglas Garcia",
+   "partido": "União Brasil",
+   "votos": 97410,
+   "promessas": []
+  },
+  {
+   "id": "paulo-fiorilo",
+   "nome": "Paulo Fiorilo",
+   "partido": "PT",
+   "votos": 96370,
+   "promessas": []
+  },
+  {
+   "id": "danilo-balas",
+   "nome": "Danilo Balas",
+   "partido": "PL",
+   "votos": 96188,
+   "promessas": []
+  },
+  {
+   "id": "luiz-fernando",
+   "nome": "Luiz Fernando",
+   "partido": "PT",
+   "votos": 94901,
+   "promessas": []
+  },
+  {
+   "id": "debora-camilo",
+   "nome": "Débora Camilo",
+   "partido": "PSOL",
+   "votos": 94895,
+   "promessas": []
+  },
+  {
+   "id": "leticia-aguiar",
+   "nome": "Leticia Aguiar",
+   "partido": "PL",
+   "votos": 94832,
+   "promessas": []
+  },
+  {
+   "id": "donato",
+   "nome": "Donato",
+   "partido": "PT",
+   "votos": 94779,
+   "promessas": []
+  },
+  {
+   "id": "carla-morando",
+   "nome": "Carla Morando",
+   "partido": "PSD",
+   "votos": 94596,
+   "promessas": []
+  },
+  {
+   "id": "ricardo-madalena",
+   "nome": "Ricardo Madalena",
+   "partido": "PL",
+   "votos": 94319,
+   "promessas": []
+  },
+  {
+   "id": "leandro-basson",
+   "nome": "Leandro Basson",
+   "partido": "Podemos",
+   "votos": 90934,
+   "promessas": []
+  },
+  {
+   "id": "pardini",
+   "nome": "Pardini",
+   "partido": "PSD",
+   "votos": 89558,
+   "promessas": []
+  },
+  {
+   "id": "rogerio-franco",
+   "nome": "Rogério Franco",
+   "partido": "PL",
+   "votos": 89156,
+   "promessas": []
+  },
+  {
+   "id": "analice-fernandes",
+   "nome": "Analice Fernandes",
+   "partido": "PSD",
+   "votos": 88784,
+   "promessas": []
+  },
+  {
+   "id": "delegado-mesquita",
+   "nome": "Delegado Mesquita",
+   "partido": "PP",
+   "votos": 87918,
+   "promessas": []
+  },
+  {
+   "id": "valdomiro-lopes",
+   "nome": "Valdomiro Lopes",
+   "partido": "PSB",
+   "votos": 86893,
+   "promessas": []
+  },
+  {
+   "id": "thammy-miranda",
+   "nome": "Thammy Miranda",
+   "partido": "PSD",
+   "votos": 85619,
+   "promessas": []
+  },
+  {
+   "id": "bruno-zambelli",
+   "nome": "Bruno Zambelli",
+   "partido": "PL",
+   "votos": 82946,
+   "promessas": []
+  },
+  {
+   "id": "ely-santos",
+   "nome": "Ely Santos",
+   "partido": "Republicanos",
+   "votos": 82559,
+   "promessas": []
+  },
+  {
+   "id": "leo-oliveira",
+   "nome": "Léo Oliveira",
+   "partido": "MDB",
+   "votos": 82508,
+   "promessas": []
+  },
+  {
+   "id": "thainara-faria",
+   "nome": "Thainara Faria",
+   "partido": "PT",
+   "votos": 81485,
+   "promessas": []
+  },
+  {
+   "id": "mauro-bragato",
+   "nome": "Mauro Bragato",
+   "partido": "PSD",
+   "votos": 79157,
+   "promessas": []
+  },
+  {
+   "id": "marina-bragante",
+   "nome": "Marina Bragante",
+   "partido": "PSB",
+   "votos": 78957,
+   "promessas": []
+  },
+  {
+   "id": "coronel-paganotto",
+   "nome": "Coronel Paganotto",
+   "partido": "PL",
+   "votos": 77703,
+   "promessas": []
+  },
+  {
+   "id": "solange-freitas",
+   "nome": "Solange Freitas",
+   "partido": "União Brasil",
+   "votos": 77524,
+   "promessas": []
+  },
+  {
+   "id": "joao-paulo",
+   "nome": "João Paulo",
+   "partido": "PL",
+   "votos": 76371,
+   "promessas": []
+  },
+  {
+   "id": "camila-godoi",
+   "nome": "Camila Godoi",
+   "partido": "União Brasil",
+   "votos": 74733,
+   "promessas": []
+  },
+  {
+   "id": "caruso",
+   "nome": "Caruso",
+   "partido": "MDB",
+   "votos": 74480,
+   "promessas": []
+  },
+  {
+   "id": "kaka-do-autismo",
+   "nome": "Kaka do Autismo",
+   "partido": "Podemos",
+   "votos": 74365,
+   "promessas": []
+  },
+  {
+   "id": "barba",
+   "nome": "Barba",
+   "partido": "PT",
+   "votos": 74115,
+   "promessas": []
+  },
+  {
+   "id": "rafael-silva-jr",
+   "nome": "Rafael Silva Jr",
+   "partido": "PSD",
+   "votos": 74043,
+   "promessas": []
+  },
+  {
+   "id": "rodrigo-moraes",
+   "nome": "Rodrigo Moraes",
+   "partido": "PL",
+   "votos": 73787,
+   "promessas": []
+  },
+  {
+   "id": "romulo",
+   "nome": "Rômulo",
+   "partido": "PT",
+   "votos": 73648,
+   "promessas": []
+  },
+  {
+   "id": "renata-sene",
+   "nome": "Renata Sene",
+   "partido": "Republicanos",
+   "votos": 73526,
+   "promessas": []
+  },
+  {
+   "id": "marcolino",
+   "nome": "Marcolino",
+   "partido": "PT",
+   "votos": 72574,
+   "promessas": []
+  },
+  {
+   "id": "joao-paulo-rillo",
+   "nome": "João Paulo Rillo",
+   "partido": "PT",
+   "votos": 72486,
+   "promessas": [],
+   "base": "São José do Rio Preto"
+  },
+  {
+   "id": "lucas-bove",
+   "nome": "Lucas Bove",
+   "partido": "PL",
+   "votos": 71263,
+   "promessas": []
+  },
+  {
+   "id": "capitao-mosart",
+   "nome": "Capitão Mosart",
+   "partido": "PL",
+   "votos": 70997,
+   "promessas": []
+  },
+  {
+   "id": "ana-perugini",
+   "nome": "Ana Perugini",
+   "partido": "PT",
+   "votos": 70737,
+   "promessas": []
+  },
+  {
+   "id": "sebastiao-santos",
+   "nome": "Sebastião Santos",
+   "partido": "Republicanos",
+   "votos": 68118,
+   "promessas": []
+  },
+  {
+   "id": "fabio-faria-de-sa",
+   "nome": "Fabio Faria de Sá",
+   "partido": "Podemos",
+   "votos": 68055,
+   "promessas": []
+  },
+  {
+   "id": "lisboa",
+   "nome": "Lisboa",
+   "partido": "PL",
+   "votos": 67413,
+   "promessas": []
+  },
+  {
+   "id": "henrique-krigner",
+   "nome": "Henrique Krigner",
+   "partido": "Novo",
+   "votos": 66512,
+   "promessas": []
+  },
+  {
+   "id": "gilmaci-santos",
+   "nome": "Gilmaci Santos",
+   "partido": "Republicanos",
+   "votos": 66474,
+   "promessas": []
+  },
+  {
+   "id": "isaac-antunes",
+   "nome": "Isaac Antunes",
+   "partido": "PL",
+   "votos": 61953,
+   "promessas": []
+  },
+  {
+   "id": "fabiana-bolsonaro",
+   "nome": "Fabiana Bolsonaro",
+   "partido": "PL",
+   "votos": 61183,
+   "promessas": []
+  },
+  {
+   "id": "thiago-auricchio",
+   "nome": "Thiago Auricchio",
+   "partido": "PL",
+   "votos": 59942,
+   "promessas": []
+  },
+  {
+   "id": "keit-lima",
+   "nome": "Keit Lima",
+   "partido": "PSOL",
+   "votos": 58984,
+   "promessas": []
+  },
+  {
+   "id": "atila-jacomussi",
+   "nome": "Atila Jacomussi",
+   "partido": "PRD",
+   "votos": 54065,
+   "promessas": []
+  },
+  {
+   "id": "ricardo-franca",
+   "nome": "Ricardo França",
+   "partido": "Podemos",
+   "votos": 53644,
+   "promessas": []
   }
  ]
 }
