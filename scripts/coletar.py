@@ -14,6 +14,7 @@ import zipfile
 import re
 import sys
 import unicodedata
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -590,6 +591,101 @@ def atualizar_videos():
     gravar_se_mudou(VIDEOS, json.dumps({"itens": itens}, ensure_ascii=False))
 
 
+# ---------- Decretos das prefeituras (Diários Oficiais municipais via Querido Diário) ----------
+QD_API = "https://api.queridodiario.ok.org.br/gazettes"
+QD_DEC = re.compile(r"\bDECRETO\s+(?:MUNICIPAL\s+|EXECUTIVO\s+)?(?:N[º°o]\.?|NUMERO|NÚMERO|N\.)\s*([0-9][0-9.]*(?:/[0-9]{2,4})?)", re.I)
+QD_EMENTA = re.compile(r"\b((?:Disp[õo]e|Abre|Regulamenta|Declara|Institui|Altera|Nomeia|Exonera|Fixa|Aprova|Homologa|Convoca|Prorroga|Estabelece|Autoriza|Cria|Revoga|Decreta|Denomina|Suspende|Designa|Concede)\b[^;]{15,260}?)(?:\.\s|;|\s+O\s+PREFEITO|\s+[A-ZÁÉÍÓÚ]{2,}\s+[A-ZÁÉÍÓÚ]{2,}\s+[A-ZÁÉÍÓÚ]{3,}|$)", re.S)
+QD_CREDITO = re.compile(r"cr[ée]dito (?:adicional )?suplementar|abre (?:no or[çc]amento|cr[ée]dito)", re.I)
+QD_ROTINA = re.compile(r"\b(nomeia|exonera|designa|concede (?:f[ée]rias|licen[çc]a)|aposenta|readapta|promove servidor)", re.I)
+QD_DIAS = 4
+QD_POR_CIDADE = 4
+
+
+def limpar_trecho(t):
+    t = re.sub(r"<[^>]+>", " ", t or "")
+    return re.sub(r"\s+", " ", html.unescape(t)).strip()
+
+
+def qd_get(params):
+    req = urllib.request.Request(QD_API + "?" + urllib.parse.urlencode(params),
+                                 headers={"User-Agent": UA, "Accept": "application/json"})
+    for tentativa in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except Exception:
+            if tentativa == 2:
+                raise
+            import time
+            time.sleep(6)
+
+
+def coletar_diarios(municipios, agora):
+    """Decretos publicados nos Diários Oficiais das prefeituras paulistas indexados pelo Querido Diário
+    (Open Knowledge Brasil). Cobre todas as cidades de SP que o projeto já lê, de todas as regiões."""
+    nome = {m["i"]: m["n"] for m in municipios}
+    ids = list(nome)
+    desde = (agora - timedelta(days=QD_DIAS)).strftime("%Y-%m-%d")
+    por_cidade, cobertas = {}, set()
+    for k in range(0, len(ids), 60):
+        base = [("territory_ids", i) for i in ids[k:k + 60]]
+        offset = 0
+        while offset < 600:
+            d = qd_get(base + [("querystring", "decreto"), ("published_since", desde), ("excerpt_size", 700),
+                               ("number_of_excerpts", 6), ("size", 100), ("offset", offset), ("sort_by", "descending_date")])
+            gs = d.get("gazettes", [])
+            for g in gs:
+                cid = nome.get(str(g.get("territory_id")))
+                url = g.get("url") or g.get("txt_url") or ""
+                if not cid or not url.startswith("http"):
+                    continue
+                cobertas.add(cid)
+                data = str(g.get("date") or "")[:10]
+                creditos = 0
+                for ex in g.get("excerpts") or []:
+                    tx = limpar_trecho(ex)
+                    for mt in QD_DEC.finditer(tx):
+                        num = mt.group(1).rstrip(".")
+                        resto = tx[mt.end():mt.end() + 700]
+                        em = QD_EMENTA.search(resto)
+                        if not em:
+                            continue
+                        ementa = re.sub(r"\s+", " ", em.group(1)).strip(" ,.-–")
+                        ementa = re.sub(r",?\s*e d[áa] outras provid[êe]ncias$", "", ementa, flags=re.I).strip(" ,.-–")
+                        if QD_CREDITO.search(ementa):
+                            creditos += 1
+                            continue
+                        if QD_ROTINA.match(ementa):
+                            continue
+                        ementa = ementa[0].upper() + ementa[1:]
+                        if len(ementa) > 200:
+                            ementa = ementa[:197].rsplit(" ", 1)[0] + "…"
+                        lst = por_cidade.setdefault(cid, {})
+                        if num not in lst:
+                            lst[num] = {"d": data, "h": "06:00", "t": f"{cid}: {ementa}", "p": f"Decreto nº {num}, publicado no Diário Oficial do município em {data[8:10]}/{data[5:7]}/{data[:4]}.",
+                                        "tema": "Decretos", "s": "decreto", "c": [cid], "src": f"Diário Oficial de {cid}",
+                                        "u": url, "auto": True, "org": "Prefeitura", "num": f"Nº {num}", "qd": True, "mun": True}
+                if creditos:
+                    lst = por_cidade.setdefault(cid, {})
+                    kk = "cred-" + data
+                    if kk not in lst:
+                        lst[kk] = {"d": data, "h": "06:00", "t": f"{cid}: prefeitura abre créditos suplementares no orçamento",
+                                   "p": f"O Diário Oficial do município de {data[8:10]}/{data[5:7]}/{data[:4]} traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+                                   "tema": "Contas públicas", "s": "decreto", "c": [cid], "src": f"Diário Oficial de {cid}",
+                                   "u": url, "auto": True, "org": "Prefeitura", "num": "Créditos " + data[8:10] + "/" + data[5:7], "qd": True, "mun": True}
+            if len(gs) < 100:
+                break
+            offset += 100
+    itens = []
+    for cid, lst in por_cidade.items():
+        itens += sorted(lst.values(), key=lambda i: i["d"], reverse=True)[:QD_POR_CIDADE]
+    return itens, len(cobertas)
+
+
+def chave_item(i):
+    return chave(i["u"]) + ("|" + i.get("num", "") if i.get("qd") else "")
+
+
 VOT_PULAR = re.compile(r"Reda[cç][aã]o Final|Requerimento|Mantido|Emenda de Reda|pressupostos|Regime de Tramita", re.I)
 VOT_MAX = 40
 
@@ -673,7 +769,7 @@ def main():
     anterior = {"itens": []}
     if SAIDA.exists():
         anterior = json.loads(SAIDA.read_text(encoding="utf-8"))
-    por_link = {chave(i["u"]): i for i in anterior.get("itens", [])}
+    por_link = {chave_item(i): i for i in anterior.get("itens", [])}
 
     ok, erros, novos = [], [], 0
     agora = datetime.now(BRT)
@@ -741,6 +837,23 @@ def main():
         ok.append("Diário Oficial (via Alesp)")
     except Exception as e:
         erros.append({"fonte": "Diário Oficial (via Alesp)", "erro": str(e)[:160]})
+
+    # Decretos das prefeituras de todo o estado (Querido Diário): 3 vezes ao dia.
+    tem_qd = any(i.get("qd") for i in por_link.values())
+    if not tem_qd or agora.hour in (8, 14, 20) or "--diarios" in sys.argv:
+        try:
+            qd, cobertas = coletar_diarios(municipios, agora)
+            for item in qd:
+                k = chave_item(item)
+                if k not in por_link:
+                    novos += 1
+                    por_link[k] = item
+            ok.append(f"Diários Oficiais municipais (Querido Diário, {cobertas} cidades com edição recente)")
+            print(f"diários municipais: {len(qd)} decretos de {cobertas} cidades")
+        except Exception as e:
+            erros.append({"fonte": "Diários Oficiais municipais (Querido Diário)", "erro": str(e)[:160]})
+    else:
+        ok.append("Diários Oficiais municipais (Querido Diário)")
 
     limite = (agora - timedelta(days=DIAS_GUARDADOS)).strftime("%Y-%m-%d")
     itens = [i for i in por_link.values() if i["d"] >= limite]
