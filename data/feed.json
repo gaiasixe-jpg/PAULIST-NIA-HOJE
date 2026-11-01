@@ -1,9 +1,10 @@
 {
-"atualizado": "2026-11-01T12:25:33-03:00",
-"novos_nesta_coleta": 48,
+"atualizado": "2026-11-01T13:28:26-03:00",
+"novos_nesta_coleta": 176,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
@@ -15,13 +16,22 @@
 "ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
-"Informa Noroeste"
+"Informa Noroeste",
+"Santa Portal",
+"Boqnews",
+"Costa Norte",
+"Portal Sorocaba.com",
+"Jornal Ita News",
+"Portal Regional (Dracena)",
+"Região Noroeste",
+"Prefeitura de Presidente Prudente",
+"Prefeitura de Sorocaba",
+"Prefeitura de Santos",
+"Prefeitura de Registro",
+"Prefeitura de São José dos Campos",
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
-{
-"fonte": "Gazeta de S.Paulo",
-"erro": "undefined entity: line 171, column 143"
-},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -36,6 +46,149 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "13:03",
+"t": "Força Tática prende homem por tráfico e apreende mais de 2,7 kg de drogas em Santa Fé do Sul",
+"p": "Um homem foi preso em flagrante por tráfico de drogas na noite desta sexta-feira (30) durante uma operação de patrulhamento da Força Tática da Polícia Militar, no município de Santa Fé do Sul. A ação policial resultou no recolhimento de mais de 2,7 quilos de diferentes tipos de entorpecentes e materiais ligados à…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santa Fé do Sul"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/forca-tatica-prende-homem-por-trafico-e-apreende-mais-de-27-kg-de-drogas-em-santa-fe-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "13:03",
+"t": "Ecovias Noroeste Paulista substitui praças físicas por pórticos eletrônicos neste domingo",
+"p": "A concessionária Ecovias Noroeste Paulista inicia neste domingo, 1º de novembro, a operação do sistema de cobrança automática Siga Fácil nos municípios de Pirangi e Monte Alto. A tecnologia substitui as antigas praças de pedágio físicas por pórticos eletrônicos instalados na Rodovia Comendador Pedro Monteleone…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Monte Alto",
+"Pirangi"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ecovias-noroeste-paulista-substitui-pracas-fisicas-por-porticos-eletronicos-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "13:03",
+"t": "Caminhão tomba na Rodovia Washington Luís e deixa motorista preso às ferragens",
+"p": "Um acidente grave foi registrado na manhã deste domingo (1º) na Rodovia Washington Luís (SP-310), no trecho que passa pelo município de Mirassol. Um caminhão acabou tombando na pista, mobilizando equipes de resgate e de sinalização de trânsito. De acordo com as primeiras informações apuradas no local, o condutor do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mirassol"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/caminhao-tomba-na-rodovia-washington-luis-e-deixa-motorista-preso-as-ferragens/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "13:01",
+"t": "Prefeitura de Louveira inaugura novo prédio do Berçário Municipal Vila Nova",
+"p": "Foto: Prefeitura de Louveira Unidade atende 66 crianças de 6 meses a 1 ano e 11 meses e tem capacidade para receber até 100 alunos, com espaços planejados para a primeira infância",
+"tema": "Educação",
+"s": "entregue",
+"c": [
+"Louveira"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/louveira/louveira-inaugura-novo-bercario-municipal-vila-nova/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:55",
+"t": "Pedágio free flow começa a cobrar em 2 cidades no Interior de SP a partir de hoje; veja pontos",
+"p": "Sistema de pedágio free flow substitui as praças físicas de cobrança em duas rodovias no interior de SP; veja onde estão os pórticos e como pagar a tarifa sem TAG",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/pedagio-free-flow-comeca-a-cobrar-em-2-cidades-no-interior-de-sp-a-partir-de-hoje-veja-pontos/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:41",
+"t": "Capitão da Polícia Militar morre aos 41 anos em colisão frontal na região de Pereira Barreto",
+"p": "André Luiz Caldeira comandava a 2ª Companhia da PM em Ilha Solteira e tinha 21 anos de carreira; oficial era casado e deixa dois filhos (Foto reprodução G1) O capitão da Polícia Militar André Luiz Caldeira, de 41 anos, morreu na noite de sexta-feira (30), após se envolver em um acidente de trânsito na Rodovia […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Pereira Barreto",
+"Ilha Solteira"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/capitao-da-policia-militar-morre-aos-41-anos-em-colisao-frontal-na-regiao-de-pereira-barreto/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:35",
+"t": "Novembro começa com calor e pancadas de chuva em São Paulo",
+"p": "Divulgação/PMS Os primeiros dias de novembro devem trazer calor seguido de pancadas de chuvas. Para este domingo (1º), a previsão do tempo é de sol.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/novembro-comeca-com-calor-e-pancadas-de-chuva-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:34",
+"t": "Enfermeira de 44 anos morre em colisão frontal entre carro e caminhão na região de Magda",
+"p": "Naísa de Cássia Mateus trabalhava na rede municipal de saúde de Magda e residia em General Salgado; acidente ocorreu na madrugada de sábado, na Rodovia Feliciano Sales Cunha Uma colisão frontal entre um automóvel e um caminhão provocou a morte da enfermeira Naísa de Cássia Mateus, de 44 anos, na madrugada de sábado…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"General Salgado",
+"Magda"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/enfermeira-de-44-anos-morre-em-colisao-frontal-entre-carro-e-caminhao-na-regiao-de-magda/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:32",
+"t": "Colisão entre carro e moto deixa um morto e um ferido na rodovia Rio-Santos, em Bertioga",
+"p": "Acidente ocorreu na manhã deste domingo (1º) na entrada do bairro Caiubura; colisão provocou interdição e inversão de faixa na rodovia",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/colisao-entre-carro-e-moto-deixa-um-morto-e-um-ferido-na-rodovia-rio-santos-em-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:23",
+"t": "Interdição na zona sul de SP afeta comércios e gera reclamações de moradores e pedestres",
+"p": "Divulgação/Governo de SP Comerciantes, moradores e trabalhadores da Chácara Santo Antônio, na zona sul de São Paulo, reclamam da interdição de uma passagem.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/interdicao-na-zona-sul-de-sp-afeta-comercios-e-gera-reclamacoes-de-moradores-e-pedestres/",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "12:22",
@@ -106,6 +259,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/economia/resultado-mega-sena-premio-acumula-em-r-46-milhoes-veja-as-dezenas/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "12:00",
+"t": "Motociclista morre após ser atropelado na Imigrantes, em São Vicente",
+"p": "Divulgação/Portal CCM -ARTESP Um motociclista morreu após ser atropelado por um carro na madrugada deste domingo (1º), na Rodovia dos Imigrantes, na altura da Vila Margarida.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/motociclista-morre-apos-ser-atropelado-na-imigrantes-em-sao-vicente/",
 "auto": true
 },
 {
@@ -233,6 +400,20 @@
 },
 {
 "d": "2026-11-01",
+"h": "10:30",
+"t": "Nova Ponte Jurubatuba prevê oito faixas, melhorias para ciclistas, novo contrato de quase R$ 60 milhões e deve destravar trânsito histórico na região",
+"p": "A Prefeitura de São Paulo fechou um novo contrato de R$ 57,9 milhões para a duplicação da Ponte Jurubatuba, na zona sul da capital, após a rescisão amigável de um acordo anterior, de R$ 67,1 milhões. A intervenção já teve entrega anunciada para maio de 2026, mas recebeu um novo prazo contratual de execução de […]",
+"tema": "Transporte",
+"s": "entregue",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mobilidade/duplicacao-da-ponte-jurubatuba-preve-oito-faixas-melhorias-para-ciclistas-novo-contrato-de-quase-r-60-milhoes-e-destrava-transito-historico-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-01",
 "h": "10:28",
 "t": "Mudanças climáticas e resiliência urbana: estamos preparados para os extremos do clima?",
 "p": "É preciso considerar a capacidade de uma cidade de atravessar períodos de estiagem prolongada e lidar com chuvas intensas.",
@@ -257,6 +438,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/curiosidades/viatura-voadora-policia-eua-102-km-h/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "10:13",
+"t": "Caminhão tomba na Rodovia Washington Luís e deixa motorista preso às ferragens",
+"p": "Um acidente grave foi registrado na manhã deste domingo (1º) na Rodovia Washington Luís (SP-310), no trecho que passa pelo município de Mirassol. Um caminhão acabou tombando na pista, mobilizando equipes de resgate e de sinalização de trânsito. De acordo com as primeiras informações apuradas no local, o condutor do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mirassol"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/caminhao-tomba-na-rodovia-washington-luis-e-deixa-motorista-preso-as-ferragens/",
 "auto": true
 },
 {
@@ -318,6 +513,21 @@
 },
 {
 "d": "2026-11-01",
+"h": "09:55",
+"t": "Ecovias Noroeste Paulista substitui praças físicas por pórticos eletrônicos neste domingo",
+"p": "A concessionária Ecovias Noroeste Paulista inicia neste domingo, 1º de novembro, a operação do sistema de cobrança automática Siga Fácil nos municípios de Pirangi e Monte Alto. A tecnologia substitui as antigas praças de pedágio físicas por pórticos eletrônicos instalados na Rodovia Comendador Pedro Monteleone…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Monte Alto",
+"Pirangi"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ecovias-noroeste-paulista-substitui-pracas-fisicas-por-porticos-eletronicos-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-01",
 "h": "09:50",
 "t": "Festa do Imigrante celebra cultura de mais de 50 países com 100 atrações em São Paulo",
 "p": "Edição especial acontece nos dias 14 e 15 de novembro, com 16h de programação e ingresso solidário, mediante a doação de um quilo de alimento",
@@ -328,6 +538,91 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4366255/festa-do-imigrante-celebra-cultura-de-mais-de-50-paises-com-100-atracoes-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "09:50",
+"t": "Força Tática prende homem por tráfico e apreende mais de 2,7 kg de drogas em Santa Fé do Sul",
+"p": "Um homem foi preso em flagrante por tráfico de drogas na noite desta sexta-feira (30) durante uma operação de patrulhamento da Força Tática da Polícia Militar, no município de Santa Fé do Sul. A ação policial resultou no recolhimento de mais de 2,7 quilos de diferentes tipos de entorpecentes e materiais ligados à…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santa Fé do Sul"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/forca-tatica-prende-homem-por-trafico-e-apreende-mais-de-27-kg-de-drogas-em-santa-fe-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "09:45",
+"t": "Colisão entre carro e motocicleta mobiliza socorristas em Santa Fé do Sul",
+"p": "Um acidente envolvendo um carro e uma motocicleta mobilizou o Serviço de Atendimento Móvel de Urgência (Samu) e o Corpo de Bombeiros no início da tarde deste sábado (31), na Rua 14, nas imediações da feira livre de Santa Fé do Sul. O piloto da motocicleta recebeu os primeiros socorros no local por uma equipe […]",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Santa Fé do Sul"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/colisao-entre-carro-e-motocicleta-mobiliza-socorristas-em-santa-fe-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "09:43",
+"t": "Caminhão desgovernado atinge poste em avenida de Votuporanga",
+"p": "Um caminhão carregado com terra colidiu contra um poste de iluminação pública na avenida situada ao lado da loja Havan, em Votuporanga. A ocorrência mobilizou equipes de atenção no trânsito e atrai os olhares de quem passa pelo local. De acordo com as primeiras informações apuradas, o motorista trafegava no sentido…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/caminhao-desgovernado-atinge-poste-em-avenida-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "09:42",
+"t": "Jovem denuncia furto de R$ 4 mil, videogame e roupas de grife em condomínio de luxo",
+"p": "Uma jovem de 23 anos procurou a Polícia Civil para denunciar o furto de dinheiro, videogame e diversas peças de roupas de alto padrão de dentro de sua residência, localizada no Condomínio Damha, um residencial de luxo em São José do Rio Preto. O caso foi registrado na Central de Flagrantes nesta sexta-feira (30) e […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jovem-denuncia-furto-de-r-4-mil-videogame-e-roupas-de-grife-em-condominio-de-luxo/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "09:41",
+"t": "Faxineiro de 60 anos é agredido com tijolada na cabeça após desconfiar de furto de celular",
+"p": "Um faxineiro de 60 anos procurou a Polícia Civil para denunciar que foi agredido a tijoladas e com diversos golpes na manhã desta sexta-feira (30), no bairro Vila Angélica, em São José do Rio Preto. O principal suspeito do crime é o próprio vizinho da vítima, e o caso passou a ser apurado pelo 3º […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/faxineiro-de-60-anos-e-agredido-com-tijolada-na-cabeca-apos-desconfiar-de-furto-de-celular/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "09:40",
+"t": "PRF recupera carro roubado e com placa clonada usado por motorista de aplicativo",
+"p": "A Polícia Rodoviária Federal (PRF) recuperou, na tarde deste sábado (31), um automóvel com registro de roubo que circulava com placas clonadas no centro de São José do Rio Preto. O veículo havia sido subtraído na capital paulista em meados de julho e acabou localizado após os sistemas automáticos de monitoramento…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prf-reupera-carro-roubado-e-com-placa-clonada-usado-por-motorista-de-aplicativo/",
 "auto": true
 },
 {
@@ -361,6 +656,18 @@
 },
 {
 "d": "2026-11-01",
+"h": "09:30",
+"t": "Alunos que entraram depois no Pé-de-Meia têm direito ao retroativo? Entenda a decisão do MEC",
+"p": "Estudantes da rede pública que passam a integrar a lista do programa Pé-de-Meia ao longo do ano precisam entender o funcionamento da liberação dos recursos. Segundo a diretriz oficial do Ministério da Educação, o benefício não realiza o pagamento de parcelas retroativas referentes a meses anteriores à inclusão do…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/alunos-que-entraram-depois-no-pe-de-meia-tem-direito-ao-retroativo-entenda-a-decisao-do-mec/",
+"auto": true
+},
+{
+"d": "2026-11-01",
 "h": "09:16",
 "t": "Polícia Civil vai investigar policial que pode ter favorecido Cariani",
 "p": "Segundo Ministério Público de São Paulo, investigador da Polícia Civil André Dziuba mantinha relação de amizade com o influenciador",
@@ -371,6 +678,20 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/policia-civil-vai-investigar-policial-que-pode-ter-favorecido-cariani",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "09:12",
+"t": "Ônibus de Santos serão gratuitos nos dois dias do Enem 2026",
+"p": "Passe livre vigora das 8h às 21h nos dias 8 e 15 de novembro para facilitar o deslocamento de estudantes até os locais de prova",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/onibus-de-santos-serao-gratuitos-nos-dois-dias-do-enem-2026.html",
 "auto": true
 },
 {
@@ -438,6 +759,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/policia/briga-apos-saida-de-adega-termina-com-duas-pessoas-feridas-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "08:15",
+"t": "Fisiculturista santista projeta retorno forte em 2027",
+"p": "Fábio Maradei Depois de oito anos competindo, sempre com foco na busca pelo próximo pódio, a santista Tatiana Soares Bernegozzi (Fupes) decidiu que era hora de uma pausa estratégica, planejada. Não para se afastar do fisiculturismo, mas para preparar o próximo passo. Aos 34 anos, a atleta fez de 2026 um período de…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Prefeitura de Santos",
+"u": "https://www.santos.sp.gov.br/?q=noticia/fisiculturista-santista-projeta-retorno-forte-em-2027",
 "auto": true
 },
 {
@@ -644,6 +979,45 @@
 },
 {
 "d": "2026-10-31",
+"h": "16:22",
+"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal neste sábado (31)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-neste-sabado-31.html",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "16:12",
+"t": "Acidente causa congestionamento na rodovia Presidente Dutra neste sábado (31)",
+"p": "Rodovia Presidente Dutra apresenta congestionamento em Guararema e tráfego intenso em Taubaté e Piraí, no sentido São Paulo, neste sábado (31)",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Guararema",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/acidente-causa-congestionamento-na-rodovia-presidente-dutra-neste-sabado-31.html",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "16:05",
+"t": "Mutirões e reciclagem: Santos e cidades vizinhas preparam semana voltada à redução de resíduos",
+"p": "Projeto nascido em 2017 chega à marca de 80 atividades de educação ambiental na costa paulista; confira como cadastrar iniciativas gratuitas",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/baixadasantista/mutiroes-e-reciclagem-santos-e-cidades-vizinhas-preparam-semana-voltada-a-reducao-de-residuos.html",
+"auto": true
+},
+{
+"d": "2026-10-31",
 "h": "15:50",
 "t": "Adolescente que bateu carro em postes na Norte-Sul pegou veículo escondido para sair com amigos, diz pai",
 "p": "Em depoimento à Polícia Civil, pai contou que filho de 16 anos havia pedido para dormir na casa de um amigo; jovem dirigia sem habilitação e transportava cinco passageiros no momento do acidente.",
@@ -658,6 +1032,21 @@
 },
 {
 "d": "2026-10-31",
+"h": "15:47",
+"t": "Rodovia Padre Manoel da Nóbrega terá interdições e desvios a partir de terça (3)",
+"p": "Obras de mais de R$ 500 milhões alteram acessos e circulação na rodovia entre Praia Grande e Peruíbe; principais mudanças ocorrem em Itanhaém",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Itanhaém",
+"Peruíbe"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tera-interdicoes-e-desvios-a-partir-de-terca-3.html",
+"auto": true
+},
+{
+"d": "2026-10-31",
 "h": "15:40",
 "t": "Sistema pode trazer chuvas persistentes em novembro; Veja previsão para o estado de SP",
 "p": "Sistema conhecido como ZCAS pode trazer chuvas persistentes no mês de novembro, segundo a meteorologia",
@@ -668,6 +1057,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/sistema-pode-trazer-chuvas-persistentes-em-novembro-veja-previsao-para-o-estado-de-sp/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "15:31",
+"t": "Ponte de madeira na zona norte de São José dos Campos fecha para reforma e altera trânsito no local",
+"p": "Bloqueio total na estrada Juca de Carvalho segue até sexta-feira, para troca de estruturas, e exige rota alternativa pelos bairros",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ponte-de-madeira-na-zona-norte-de-sao-jose-dos-campos-fecha-para-reforma-e-altera-transito-no-local.html",
 "auto": true
 },
 {
@@ -698,6 +1101,20 @@
 },
 {
 "d": "2026-10-31",
+"h": "14:54",
+"t": "GCM apreende cocaína e maconha em área de mata na Zona Leste de Sorocaba",
+"p": "Durante patrulhamento preventivo nas proximidades da CEI-94, no Jardim Jatobá, Zona Leste da cidade, a Guarda Civil Municipal (GCM) de Sorocaba apreendeu 97 porções de entorpecentes em área de mata, às 9h20 de quinta-feira (29).. Inicialmente, os guardas avistaram um grupo de pessoas que, ao perceber a aproximação…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-cocaina-e-maconha-em-area-de-mata-na-zona-leste-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-10-31",
 "h": "14:42",
 "t": "Veja até quando vai o prazo para pedir restituição de multas do sistema Siga Fácil em SP",
 "p": "Motoristas multados por não pagar tarifas do sistema de cobrança automática em rodovias paulistas podem solicitar a restituição do valor",
@@ -708,6 +1125,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/veja-ate-quando-vai-o-prazo-para-pedir-restituicao-de-multas-do-sistema-siga-facil-em-sp/",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "14:33",
+"t": "O refúgio das famílias em Ilhabela: conheça a praia escondida com piscinas de água clara",
+"p": "Formações rochosas criam poços rasos de água cristalina perfeitos para o lazer com crianças",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/turismo/o-refugio-das-familias-em-ilhabela-conheca-a-praia-escondida-com-piscinas-de-agua-clara.html",
 "auto": true
 },
 {
@@ -740,6 +1171,18 @@
 },
 {
 "d": "2026-10-31",
+"h": "13:54",
+"t": "Rodovia Mogi-Bertioga tem tráfego normal e tempo nublado neste sábado (31)",
+"p": "SP-098 tem fluxo normal nos trechos monitorados neste sábado (31), com temperaturas de 26°C na direção do litoral e 27°C na subida da serra",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/rodovia-mogi-bertioga-tem-trafego-normal-e-tempo-nublado-neste-sabado-31.html",
+"auto": true
+},
+{
+"d": "2026-10-31",
 "h": "13:51",
 "t": "Itupeva elege nova Corte da Expo Uva 2026/2027 em noite de tradição, beleza e cultura",
 "p": "Foto: Prefeitura de Itupeva Nathaly Isabely Fonseca Ramalho foi eleita rainha, ao lado de Michelle Andrade, 1ª princesa, e Lorena de Carvalho Ferreira, 2ª princesa",
@@ -754,6 +1197,20 @@
 },
 {
 "d": "2026-10-31",
+"h": "13:49",
+"t": "Rodovia Oswaldo Cruz registra tráfego intenso no trecho de serra neste sábado (31)",
+"p": "Movimento é intenso na região do km 81, em Ubatuba, enquanto os demais pontos monitorados da rodovia Oswaldo Cruz têm tráfego normal",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-registra-trafego-intenso-no-trecho-de-serra-neste-sabado-31.html",
+"auto": true
+},
+{
+"d": "2026-10-31",
 "h": "13:48",
 "t": "Bêbada, mulher esfaqueia irmã durante discussão e é presa em SP",
 "p": "Apesar de ferimento na região do peito, vítima foi socorrida a um hospital, onde recebeu atendimento e foi liberada; suspeita do crime estav",
@@ -762,6 +1219,21 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/bebada-mulher-esfaqueia-irma-durante-discussao-e-e-presa-em-sp",
+"auto": true
+},
+{
+"d": "2026-10-31",
+"h": "13:41",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal neste sábado (31)",
+"p": "Motoristas encontram tempo bom e boa visibilidade na SP-123, mas trecho de serra entre Taubaté e Campos do Jordão está sujeito a neblina",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-neste-sabado-31.html",
 "auto": true
 },
 {
@@ -1418,6 +1890,62 @@
 },
 {
 "d": "2026-10-30",
+"h": "17:43",
+"t": "Canal do porto de Santos volta à normalidade após queda de quatro cabos de energia",
+"p": "Com o término do serviço, a navegação em todo o canal de do Porto de Santos voltou à normalidade, menos de 24 horas depois do incidente.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/queda-cabos-de-energia-porto-de-santos/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "16:26",
+"t": "Programação – Cinema",
+"p": "Confira a programação dos cinemas da Baixada Santista entre os dias 31 de outubro e 3 de novembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/agende-se/programacao-cinema-307/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "15:06",
+"t": "Investimento de R$ 1,5 bilhão pode gerar 4 mil postos de trabalho em Sorocaba e região",
+"p": "Proposta de empresários chineses prevê mil vagas diretas e outras 3 mil indiretas; reunião no Parque Tecnológico de Sorocaba avaliou infraestrutura e condições para a instalação do empreendimento Sorocaba está no radar de investidores chineses interessados em instalar uma nova operação no Brasil. Em reunião…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/investimento-de-r-15-bilhao-pode-gerar-4-mil-postos-de-trabalho-em-sorocaba-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "13:51",
+"t": "Transporte coletivo terá reforço estratégico para os dias de aplicação do Enem 2026",
+"p": "A Prefeitura de Sorocaba, por meio da Urbes, informa que o transporte público coletivo contará com operação especial e monitoramento direcionado nos domingos, dia 8 e 15 de novembro, em razão da aplicação das provas do Exame Nacional do Ensino Médio (Enem) 2026.Haverá reforço nas Linhas Interbairros (303 e 307),…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/transporte-coletivo-tera-reforco-estrategico-para-os-dias-de-aplicacao-do-enem-2026/",
+"auto": true
+},
+{
+"d": "2026-10-30",
 "h": "10:20",
 "t": "Conselho fiscalizador do FUNDEB tem inscrições prorrogadas em Campos do Jordão",
 "p": "Colegiado atua na fiscalização dos recursos destinados ao desenvolvimento da educação básica; vagas são voltadas para representantes da sociedade civil",
@@ -1428,6 +1956,92 @@
 ],
 "src": "NetCampos",
 "u": "https://www.netcampos.com/noticias/2026/10/conselho-fiscalizador-do-fundeb-tem-inscricoes-prorrogadas-em-campos-do-jordao.html",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "08:57",
+"t": "Briga por divergência política termina com funcionário esfaqueado em padaria de Araçatuba",
+"p": "Uma briga por divergência política terminou com o funcionário de uma padaria em Araçatuba (SP) esfaqueado por outro trabalhador do local na tarde desta quinta-feira (29). Conforme informações divulgadas pela Polícia Civil, após a agressão, o suspeito fugiu e ainda não havia sido localizado. A confusão ocorreu em…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Araçatuba"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/10/briga-por-divergencia-politica-termina-com-funcionario-esfaqueado-em-padaria-de-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "08:55",
+"t": "Adolescente tem alta da UTI em hospital 17 dias após acidente que matou cinco pessoas em rodovia",
+"p": "A adolescente de 12 anos, vítima de um acidente entre um carro e uma caminhonete que resultou na morte de cinco pessoas na Rodovia Vicinal Domingos Antunes Guimarães, em Piacatu (SP), teve alta da Unidade de Terapia Intensiva (UTI) do hospital 17 dias após a batida. Nesta quinta-feira (29), ela foi encaminhada para…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Piacatu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/10/adolescente-tem-alta-da-uti-em-hospital-17-dias-apos-acidente-que-matou-cinco-pessoas-em-rodovia/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "08:54",
+"t": "Micro-ônibus escolar pega fogo na SP-294, ninguém se feriu",
+"p": "Um micro-ônibus escolar pegou fogo na Rodovia Comandante João Ribeiro de Barros (SP-294), entre Inúbia Paulista (SP) e Osvaldo Cruz (SP), na manhã desta quinta-feira (29). Segundo a Prefeitura de Salmourão (SP), o veículo faz parte da frota municipal. Conforme a concessionária que administra a rodovia, o veículo…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Inúbia Paulista",
+"Osvaldo Cruz",
+"Salmourão"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/10/micro-onibus-escolar-pega-fogo-na-sp-294-ninguem-se-feriu/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "08:52",
+"t": "Polícia Federal investiga desvio de quase R$ 3 milhões das contas da Prefeitura de Caiabu",
+"p": "A Polícia Federal investiga um desvio de quase R$ 3 milhões de cinco contas bancárias da Prefeitura de Caiabu (SP). As irregularidades foram identificadas em 16 de outubro deste ano e haviam sido denunciadas à Polícia Civil. A Polícia Federal informou ao g1 e à TV TEM, nesta quinta-feira (29), que ainda não há…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Caiabu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/10/policia-federal-investiga-desvio-de-quase-r-3-milhoes-das-contas-da-prefeitura-de-caiabu/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "08:00",
+"t": "Editorial — Os desafios do Brasil e a preocupação com a água em Itapeva",
+"p": "A semana foi marcada por assuntos que convidam à reflexão sobre o presente e o futuro: as eleições e os rumos do Brasil, além da preocupação com a qualidade da água distribuída em Itapeva. No cenário nacional, o resultado das urnas reforça a importância do diálogo em um país que reúne diferentes opiniões e…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/editorial-1416/",
+"auto": true
+},
+{
+"d": "2026-10-30",
+"h": "07:41",
+"t": "Sorocaba atinge metas do Plano Nacional de Saneamento Básico para 2033",
+"p": "Com sete anos de antecedência, Sorocaba já atingiu, e em alguns casos superou, as principais metas estipuladas pelo Plano Nacional de Saneamento Básico (Plansab) e definidas no Marco Legal do Saneamento. Elas abrangem abastecimento de água potável, esgotamento sanitário, limpeza urbana e manejo de resíduos sólidos…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-atinge-metas-do-plano-nacional-de-saneamento-basico-para-2033/",
 "auto": true
 },
 {
@@ -1456,6 +2070,76 @@
 ],
 "src": "NetCampos",
 "u": "https://www.netcampos.com/noticias/2026/10/terra-dos-dinos-campos-jordao-abertura-ingressos-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "18:52",
+"t": "Secretaria da Mulher realiza ensaio fotográfico para mulheres grávidas no Jardim Botânico de Sorocaba",
+"p": "Fotos: Eduarda Lopes/estágio Secom A Secretaria da Mulher (Semul), em parceria com a Secretaria de Comunicação (Secom), realizou uma nova sessão de ensaios fotográficos para gestantes, no Jardim Botânico “Irmãos Villas-Bôas”, na manhã desta quinta-feira (29). A iniciativa contou também com a participação da empresa…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-realiza-ensaio-fotografico-para-mulheres-gravidas-no-jardim-botanico-de-sorocaba-3/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "17:33",
+"t": "GCM prende homem por descumprimento de medida protetiva no Parque São Bento",
+"p": "Foto: Reprodução/GCM A Guarda Civil Municipal (GCM) prendeu, na tarde de terça-feira (27), um homem de 43 anos por descumprimento de medida protetiva de urgência, no Parque São Bento. Ele foi localizado em frente à residência da mãe, que acionou a Corporação por meio do Centro de Controle Operacional Integrado…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-prende-homem-por-descumprimento-de-medida-protetiva-no-parque-sao-bento/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "17:09",
+"t": "Alunos de todas as escolas da rede municipal de ensino recebem pão com creme de avelã nas refeições nesta quinta-feira (29)",
+"p": "Fotos: Luis Gustavo Adabro Os alunos do Ensino Fundamental de toda a rede municipal de ensino receberam, mais uma vez, nesta quinta-feira (29), o aguardado pão com creme de avelã, em todas as unidades do Fundamental I e Fundamental II. O alimento é incluído no cardápio uma vez ao mês. Geralmente, na última…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/alunos-de-todas-as-escolas-da-rede-municipal-de-ensino-recebem-pao-com-creme-de-avela-nas-refeicoes-nesta-quinta-feira-29/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "16:46",
+"t": "Oficina de boneca Abayomi é atração gratuita nas Bibliotecas Municipais de Sorocaba",
+"p": "Crianças a partir de 3 anos, jovens e adultos podem participar da oficina de boneca Abayomi nas Bibliotecas Municipais de Sorocaba. Na próxima quarta-feira (4), às 14h30, a atração será levada à Biblioteca Infantil Municipal “Renato Sêneca de Sá Fleury”. Já na sexta-feira (6), às 14h30, a programação acontecerá na…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/oficina-de-boneca-abayomi-e-atracao-gratuita-nas-bibliotecas-municipais-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "16:29",
+"t": "Feirão Rumo ao Emprego terá mais de 50 vagas de trabalho no CRAS Vila Nova",
+"p": "Emprego",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/feirao-rumo-ao-emprego-tera-mais-de-50-vagas-de-trabalho-no-cras-vila-nova/",
 "auto": true
 },
 {
@@ -1498,6 +2182,1849 @@
 ],
 "src": "NetCampos",
 "u": "https://www.netcampos.com/noticias/2026/10/carreata-com-papai-noel-inaugura-a-decoracao-do-natal-dos-sonhos-nesta-sexta-feira.html",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "15:12",
+"t": "Cão farejador da GCM localiza mais de 200 porções de drogas no Parque São Bento",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba apreendeu 238 porções de drogas, na manhã desta quarta-feira (28), durante patrulhamento preventivo no Parque São Bento, na Zona Norte. A localização dos entorpecentes se deu com o auxílio do cão farejador Koda, do Canil da corporação. Em razão de ocorrências relacionadas…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/cao-farejador-da-gcm-localiza-mais-de-200-porcoes-de-drogas-no-parque-sao-bento/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "11:03",
+"t": "Registro adquire motoniveladora e amplia capacidade de manutenção das estradas rurais",
+"p": "Infraestrutura",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/registro-adquire-motoniveladora-e-amplia-capacidade-de-manutencao-das-estradas-rurais/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "08:07",
+"t": "Polícia investiga suspeitos após idoso perder mais de R$ 870 mil no golpe do falso investimento",
+"p": "Um idoso, de 73 anos, teve prejuízo superior a R$ 870 mil em um suposto golpe de investimentos falso, segundo informou a Polícia Civil. Nesta quarta-feira (28), os policiais de Pindorama (SP) cumpriram seis mandados de busca e apreensão em Catanduva (SP) para investigar os suspeitos de envolvimento no caso. De…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Catanduva",
+"Pindorama"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/10/policia-investiga-suspeitos-apos-idoso-perder-mais-de-r-870-mil-no-golpe-do-falso-investimento/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "08:05",
+"t": "Caminhão tomba sobre van em rodovia na região",
+"p": "Um caminhão tombou sobre uma van na Rodovia Assis Chateaubriand (SP-425) em Olímpia (SP), na noite desta quarta-feira (28). Segundo apurado pela TV TEM, três pessoas estavam presas às ferragens e tinham sido identificadas até a última atualização desta reportagem. O estado de saúde delas não foi divulgado. A equipe…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Olímpia"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/10/caminhao-tomba-sobre-van-em-rodovia-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "08:01",
+"t": "Ministério Público do Trabalho registra 80 denúncias de assédio eleitoral na região",
+"p": "O Ministério Público do Trabalho (MPT) recebeu 80 denúncias de assédio eleitoral em todo o interior de São Paulo no período após o segundo turno das eleições. Segundo levantamento divulgado pelo MPT da 15ª Região, os registros foram feitos entre domingo (25) e as 9h30 desta quarta-feira (28). As regiões de Bauru,…",
+"tema": "Eleições",
+"s": "alerta",
+"c": [
+"Bauru"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/10/ministerio-publico-do-trabalho-registra-80-denuncias-de-assedio-eleitoral-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "00:00",
+"t": "Campanha Outubro Rosa é encerrada com ação na UBS Vila Real",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67689",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "00:00",
+"t": "Presidente Prudente passa a contar com a 20ª unidade do Espaço Prevenir",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67688",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "00:00",
+"t": "Acquática/Semepp conquista 77 medalhas em Torneio Regional de Natação em Votuporanga",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67687",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "00:00",
+"t": "IFSP Prudente abre inscrições para 40 vagas no curso Técnico em Agroindústria",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67686",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "00:00",
+"t": "Prudenprev reúne servidores e conselheiros em 3º Seminário Previdenciário",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67685",
+"auto": true
+},
+{
+"d": "2026-10-29",
+"h": "00:00",
+"t": "Confira o abre e fecha em Prudente dos serviços no feriado prolongado de Finados",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67684",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "15:51",
+"t": "Caminhão da Caixa atende moradores afetados pelas enchentes em Registro",
+"p": "Saque Calamidade",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/caminhao-da-caixa-atende-moradores-afetados-pelas-enchentes-em-registro/",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "11:24",
+"t": "Pesquisa sobre segurança alimentar segue até 3 de novembro em Registro",
+"p": "Segurança Alimentar",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/pesquisa-sobre-seguranca-alimentar-segue-ate-3-de-novembro-em-registro/",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "09:43",
+"t": "Operação da Polícia Civil de Itapeva prende três homens em Minas Gerais por suspeita de extorsão",
+"p": "A Polícia Civil de São Paulo, por meio da Delegacia de Investigações Gerais (DIG) de Itapeva, deflagrou, na manhã desta quarta-feira (28), a Operação Pecado Capital, em ação conjunta com a Polícia Civil de Minas Gerais. A operação foi realizada em Montes Claros (MG), com o objetivo de combater um grupo investigado…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/prisao-extorsao/",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "09:13",
+"t": "Procuradoria da Mulher de Itapeva promove palestra do Outubro Rosa nesta quarta-feira (28); inscreva-se",
+"p": "A Procuradoria da Mulher da Câmara Municipal de Itapeva realiza nesta quarta-feira (28), às 19h30, uma palestra especial em alusão à campanha Outubro Rosa, com o tema “Informação que salva vidas”. A iniciativa é conduzida pela Procuradora da Mulher, vereadora Val Santos. O encontro contará com a participação da…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/outubro-rosa-palestra/",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Outubro Rosa: CRI promove bate-papo sobre prevenção ao câncer de mama",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67683",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Projeto Aquarela/Semepp representa PP no Campeonato Brasileiro de Karatê, em Caruaru (PE)",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67682",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Prefeito recebe atletas da Apop, que conquistaram 59 medalhas no Paulista de Paranatação",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67681",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Banco do Povo Itinerante encerra atendimento nos distritos com plantão em Montalvão",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67680",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Inscrições para concurso da Prudenco encerram em 2/11; vagas para coletor e motorista",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67679",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Prefeitura conclui etapa de reparos na ponte da Avenida Salim Farah Maluf",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67678",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Prefeito anuncia reforma da Praça CEU e do Ceab, na zona leste",
+"p": "",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67677",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Autoriza o Poder Executivo a aderir ao Programa de Acompanhamento e Transparência Fiscal de que trata a Lei Complementar federal nº 178, de 13 de janeiro de 2021.",
+"p": "Lei estadual nº 18.499, de 28/10/2026, publicada no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Lei nº 18.499",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213068",
+"auto": true
+},
+{
+"d": "2026-10-28",
+"h": "00:00",
+"t": "Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Procuradoria Geral do Estado, visando ao atendimento de Despesas Correntes.",
+"p": "Decreto estadual nº 70.950, de 28/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.950",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213069",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "11:33",
+"t": "Saúde e Defesa Civil participam de oficina sobre riscos associados ao El Niño",
+"p": "gestão de riscos",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/saude-e-defesa-civil-participam-de-oficina-sobre-riscos-associados-ao-el-nino/",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "11:16",
+"t": "Aluno morde orelha de outro durante agressão em escola técnica de Itapeva",
+"p": "Uma notícia envolvendo uma ocorrência de agressão física no interior de uma escola técnica chocou a população de Itapeva na tarde de segunda-feira (26). O caso foi atendido pela Guarda Civil Municipal (GCM) e terminou com a prisão do autor. De acordo com as informações divulgadas pela GCM, durante a averiguação,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/agressao-escola/",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "Novembro azul: prefeitura anuncia dois plantões de saúde com oferta gratuita de exames",
+"p": "",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67676",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "Presidente Prudente inaugura Espaço Prevenir nesta quinta-feira (29)",
+"p": "",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67675",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "Prefeitura intensifica zeladoria nos cemitérios municipais; prazo para reforma finalizado",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67674",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "Badminton Semepp conquista 13 medalhas em competições regionais na cidade de Palmital (SP)",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Palmital"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67673",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "Equipes da Semepp conquistam três títulos na fase regional da Copa São Paulo",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67672",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "IFSP Prudente abre seletiva para contratar professor substituto de Português/Libras PcD",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67671",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "Nadador prudentino Fran conquista 5 medalhas e recordes na Natação Master, na Argentina",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67670",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "Transfere os cargos e a função-atividade que especifica e dá providências correlatas.",
+"p": "Decreto estadual nº 70.938, de 27/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.938",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213050",
+"auto": true
+},
+{
+"d": "2026-10-27",
+"h": "00:00",
+"t": "11 decretos de crédito suplementar no Orçamento do Estado (27/10)",
+"p": "Reforço de verbas (crédito suplementar) para: Casa Civil; Secretaria de Políticas para a Mulher; Secretaria da Fazenda e Planejamento; Secretaria da Segurança Pública; Secretaria de Agricultura e Abastecimento; Instituto Pesos e Medidas do Estado de São Paulo - IPEM/SP; Secretaria da Cultura; Secretaria da Justiça e Cidadania…. Decretos nº 70.939, 70.940, 70.941, 70.942, 70.943, 70.944, 70.945, 70.946, 70.947, 70.948, 70.949.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.939 a 70.949",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213051",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "18:35",
+"t": "Qualificação em manicure e pedicure marca início do projeto CEAME",
+"p": "Empreendedorismo Feminino",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/qualificacao-em-manicure-e-pedicure-marca-inicio-do-projeto-ceame/",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "11:07",
+"t": "InterCAPS promove integração entre usuários dos serviços de saúde mental do Vale do Ribeira",
+"p": "Saúde",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/intercaps-promove-integracao-entre-usuarios-dos-servicos-de-saude-mental-do-vale-do-ribeira/",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "00:00",
+"t": "APOP/SEMEPP brilha no campeonato paulista de paranatação com 59 medalhas e cinco troféus",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67669",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "00:00",
+"t": "Prefeitura e Energisa alinham novas estratégias para controle de fios caídos em vias públicas",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67668",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "00:00",
+"t": "Prefeitura de Prudente realiza Feira Meu Primeiro Emprego na próxima semana, dia 6",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67667",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "00:00",
+"t": "Prudenco avança com recape na Manoel Romeu Cayres e prevê retomada da Salim Farah Maluf",
+"p": "",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67666",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "00:00",
+"t": "Rolê Cultural leva shows com bandas à Quadra Coberta do Parque do Povo",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67665",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "00:00",
+"t": "Fundo Social oferece curso gratuito de Pães Doces e Semidoces em parceria com o Sebrae",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67664",
+"auto": true
+},
+{
+"d": "2026-10-26",
+"h": "00:00",
+"t": "Campanha Natal Sem Fome arrecada 1,5 tonelada de alimentos no 1º mutirão em Prudente",
+"p": "",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67663",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "11:51",
+"t": "Seminário reunirá rede de proteção para prevenir o trabalho infantil e as violências contra crianças e adolescentes",
+"p": "Assistência Social",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/seminario-reunira-rede-de-protecao-para-prevenir-o-trabalho-infantil-e-as-violencias-contra-criancas-e-adolescentes/",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "11:37",
+"t": "Registro abre concorrência para seleção de projetos industriais no Distrito Industrial",
+"p": "Desenvolvimento econômico",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/registro-abre-concorrencia-para-selecao-de-projetos-industriais-no-distrito-industrial-2/",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "10:25",
+"t": "Espaço Pax prepara programação especial para o Finados 2026 em Sorocaba",
+"p": "Entre os dias 31 de outubro e 2 de novembro, cemitério terá celebrações religiosas, apresentações musicais, Jardim da Saudade, espaço para crianças e estrutura especial para receber as famílias O Espaço Pax, em Sorocaba, prepara uma programação especial para o Finados 2026, com atividades entre os dias 31 de…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/destaques/espaco-pax-prepara-programacao-especial-para-o-finados-2026-em-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "09:40",
+"t": "Mês das Crianças: ações sociais da Ofebas levam acolhimento e inclusão a mais de 1.500 crianças",
+"p": "Programação reúne iniciativas de inclusão, convivência e educação em saúde em Sorocaba e Votorantim e se conecta com o propósito social da organização Brincar, conviver e ter acesso a recursos que favoreçam o desenvolvimento e a autonomia são experiências importantes em todas as infâncias. Com esse olhar, a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votorantim",
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/cotidiano/mes-das-criancas-acoes-sociais-da-ofebas-levam-acolhimento-e-inclusao-a-mais-de-1-500-criancas/",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "00:00",
+"t": "Prefeitura inicia projeto Praça Show com apresentações culturais em bairros de Prudente",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67662",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "00:00",
+"t": "Outubro Rosa: CRAS Morada do Sol promove café da manhã e palestra sobre autocuidado",
+"p": "",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67661",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "00:00",
+"t": "Prefeitura faz entrega da revitalização da área de lazer do Vale das Parreiras",
+"p": "",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67660",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "00:00",
+"t": "Atletas da Semepp conquistam classificações no pró-atletismo",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67659",
+"auto": true
+},
+{
+"d": "2026-10-23",
+"h": "00:00",
+"t": "Semepp terá atletas em competições regionais e estaduais neste fim de semana",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67658",
+"auto": true
+},
+{
+"d": "2026-10-22",
+"h": "15:32",
+"t": "Transporte coletivo municipal será gratuito no segundo turno das eleições (25/10)",
+"p": "transporte gratuito",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/transporte-coletivo-municipal-sera-gratuito-no-segundo-turno-das-eleicoes-25-10-2/",
+"auto": true
+},
+{
+"d": "2026-10-22",
+"h": "00:00",
+"t": "Coordenadoria leva 80 idosos a passeio no parque aquático Acqualinda",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67657",
+"auto": true
+},
+{
+"d": "2026-10-22",
+"h": "00:00",
+"t": "Campanha Natal Sem Fome terá mutirão drive-thru neste sábado em 12 pontos de Prudente",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67656",
+"auto": true
+},
+{
+"d": "2026-10-22",
+"h": "00:00",
+"t": "Semob anuncia reforço da frota do transporte coletivo para 2º turno das eleições 2026",
+"p": "",
+"tema": "Eleições",
+"s": "anunciado",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67655",
+"auto": true
+},
+{
+"d": "2026-10-22",
+"h": "00:00",
+"t": "Secretaria de Educação e Coordenadoria do Idoso são homenageadas em evento da Unoeste",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67654",
+"auto": true
+},
+{
+"d": "2026-10-22",
+"h": "00:00",
+"t": "Projetos de Escolas Municipais são premiadas na V Feira de Ciência do Oeste Paulista",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67653",
+"auto": true
+},
+{
+"d": "2026-10-22",
+"h": "00:00",
+"t": "Cooperlix divulga novo cronograma de coleta seletiva em Prudente",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67652",
+"auto": true
+},
+{
+"d": "2026-10-21",
+"h": "00:00",
+"t": "Semepp recebe Comitê Dirigente do Pró-Atletismo; competição em Prudente de 27 a 29/11",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67651",
+"auto": true
+},
+{
+"d": "2026-10-21",
+"h": "00:00",
+"t": "Para organizar seções eleitorais, escolas municipais dispensarão alunos às 16h nesta sexta",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67650",
+"auto": true
+},
+{
+"d": "2026-10-21",
+"h": "00:00",
+"t": "Coordenadoria da Pessoa Idosa participa do lançamento do livro ‘Memórias Afetivas’",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67649",
+"auto": true
+},
+{
+"d": "2026-10-21",
+"h": "00:00",
+"t": "Saúde de Prudente e Unoeste capacitam 142 profissionais sobre alimentação saudável",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67648",
+"auto": true
+},
+{
+"d": "2026-10-21",
+"h": "00:00",
+"t": "Prefeito Tupã participa da Feira do Empreendedor do Sebrae 2026",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Tupã"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67647",
+"auto": true
+},
+{
+"d": "2026-10-21",
+"h": "00:00",
+"t": "Inova Prudente recebe V Feira de Ciência e Tecnologia do Oeste Paulista, dias 22 e 23 de outubro",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67646",
+"auto": true
+},
+{
+"d": "2026-10-21",
+"h": "00:00",
+"t": "Sesau premia 10 melhores trabalhos na Mostra de Experiências Exitosas da Atenção Primária",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67645",
+"auto": true
+},
+{
+"d": "2026-10-20",
+"h": "00:00",
+"t": "Ratifica convênio celebrado nos termos da Lei Complementar federal nº 24, de 7 de janeiro de 1975.",
+"p": "Decreto estadual nº 70.936, de 20/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Investimentos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.936",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213045",
+"auto": true
+},
+{
+"d": "2026-10-20",
+"h": "00:00",
+"t": "Altera o Decreto nº 70.921, de 2 de outubro de 2026, que dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Universidade de São Paulo - USP, visando ao atendimento de Despesas Corre…",
+"p": "Decreto estadual nº 70.937, de 20/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.937",
+"c": [
+"São Paulo"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213046",
+"auto": true
+},
+{
+"d": "2026-10-19",
+"h": "00:00",
+"t": "8 decretos de crédito suplementar no Orçamento do Estado (19/10)",
+"p": "Reforço de verbas (crédito suplementar) para: Secretaria da Saúde; Fundação Universidade Virtual do Estado de São Paulo - UNIVESP; Faculdade de Medicina de Marília - FAMEMA; Secretaria da Segurança Pública; Secretaria da Educação; Secretaria de Ciência; Fundação Atendimento Socioeducativo ao Adolescente - FUNDAÇÃO CASA. Decretos nº 70.928, 70.929, 70.930, 70.931, 70.932, 70.933, 70.934, 70.935.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.928 a 70.935",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213037",
+"auto": true
+},
+{
+"d": "2026-10-14",
+"h": "00:00",
+"t": "Regulamenta a Lei nº 18.068, de 18 de dezembro de 2024, que institui o Fundo Estadual de Proteção e Defesa Civil - FUNPDeC.",
+"p": "Decreto estadual nº 70.926, de 14/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Meio ambiente",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.926",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213031",
+"auto": true
+},
+{
+"d": "2026-10-14",
+"h": "00:00",
+"t": "Autoriza a transferência da propriedade, dos direitos reais e dos direitos possessórios dos bens do Estado administrados pela Estrada de Ferro Campos do Jordão - EFCJ à Companhia Paulista de Trens Met…",
+"p": "Lei estadual nº 18.498, de 14/10/2026, publicada no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Lei nº 18.498",
+"c": [
+"Campos do Jordão"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213036",
+"auto": true
+},
+{
+"d": "2026-10-14",
+"h": "00:00",
+"t": "Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Controladoria Geral do Estado, visando ao atendimento de Despesas Correntes.",
+"p": "Decreto estadual nº 70.927, de 14/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.927",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213032",
+"auto": true
+},
+{
+"d": "2026-10-02",
+"h": "00:00",
+"t": "Estabelece a gratuidade dos serviços de transporte coletivo de passageiros do Estado de São Paulo, nos dias 4 e 25 de outubro de 2026, nas condições que especifica.",
+"p": "Decreto estadual nº 70.916, de 02/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.916",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213020",
+"auto": true
+},
+{
+"d": "2026-10-02",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de São Vicente, o imóvel que especifica.",
+"p": "Decreto estadual nº 70.918, de 02/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.918",
+"c": [
+"São Vicente"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213022",
+"auto": true
+},
+{
+"d": "2026-10-02",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Campinas, o imóvel que especifica.",
+"p": "Decreto estadual nº 70.924, de 02/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.924",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213028",
+"auto": true
+},
+{
+"d": "2026-10-02",
+"h": "00:00",
+"t": "Altera o Decreto nº 70.273, de 23 de dezembro de 2025, que dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2026.",
+"p": "Decreto estadual nº 70.925, de 02/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.925",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213029",
+"auto": true
+},
+{
+"d": "2026-10-02",
+"h": "00:00",
+"t": "6 decretos de crédito suplementar no Orçamento do Estado (02/10)",
+"p": "Reforço de verbas (crédito suplementar) para: Ministério Público; Secretaria da Cultura; Secretaria de Ciência; Universidade de São Paulo - USP; Secretaria de Gestão e Governo Digital. Decretos nº 70.917, 70.919, 70.920, 70.921, 70.922, 70.923.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.917 a 70.923",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213021",
+"auto": true
+},
+{
+"d": "2026-09-30",
+"h": "00:00",
+"t": "Autoriza a outorga de uso do imóvel que especifica à Fundação Nacional dos Povos Indígenas - FUNAI e dá providências correlatas.",
+"p": "Decreto estadual nº 70.915, de 30/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.915",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213018",
+"auto": true
+},
+{
+"d": "2026-09-30",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, da empresa Solar São João Empreendimentos Imobiliários Ltda., o imóvel que especifica.",
+"p": "Decreto estadual nº 70.909, de 30/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Segurança",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.909",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213012",
+"auto": true
+},
+{
+"d": "2026-09-30",
+"h": "00:00",
+"t": "Transfere os cargos e as funções-atividades que especifica e dá providências correlatas.",
+"p": "Decreto estadual nº 70.910, de 30/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.910",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213013",
+"auto": true
+},
+{
+"d": "2026-09-30",
+"h": "00:00",
+"t": "Institui a Medalha \"Cinquentenário do Décimo Sétimo Batalhão de Polícia Militar Metropolitano\" e dá providências correlatas.",
+"p": "Decreto estadual nº 70.911, de 30/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Segurança",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.911",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213014",
+"auto": true
+},
+{
+"d": "2026-09-30",
+"h": "00:00",
+"t": "3 decretos de crédito suplementar no Orçamento do Estado (30/09)",
+"p": "Reforço de verbas (crédito suplementar) para: Secretaria da Educação; Centro Estatual de Educação Tecnológica Paula Souza - CEETEPS; Secretaria da Segurança Pública. Decretos nº 70.912, 70.913, 70.914.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.912 a 70.914",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213015",
+"auto": true
+},
+{
+"d": "2026-09-29",
+"h": "09:45",
+"t": "IA nas Eleições: especialista explica como reconhecer vídeos manipulados",
+"p": "Alto nível de realismo dificulta identificação de imagens falsas; TSE proibiu uso de deepfakes para propaganda eleitoral O rápido crescimento do uso de Inteligências Artificiais pelos brasileiros traz um desafio nunca enfrentado pelo país em época de eleições: desmistificar as deepfakes, tecnologias que criam ou…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/destaques/ia-nas-eleicoes-especialista-explica-como-reconhecer-videos-manipulados/",
+"auto": true
+},
+{
+"d": "2026-09-25",
+"h": "00:00",
+"t": "Ratifica convênios celebrados nos termos da Lei Complementar federal nº 24, de 7 de janeiro de 1975.",
+"p": "Decreto estadual nº 70.904, de 25/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Investimentos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.904",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213007",
+"auto": true
+},
+{
+"d": "2026-09-25",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Departamento de Estradas de Rodagem do Estado de São Paulo - DER, o imóvel que especifica.",
+"p": "Decreto estadual nº 70.902, de 25/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.902",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213005",
+"auto": true
+},
+{
+"d": "2026-09-25",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Guarulhos, o imóvel que especifica.",
+"p": "Decreto estadual nº 70.903, de 25/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.903",
+"c": [
+"Guarulhos"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213006",
+"auto": true
+},
+{
+"d": "2026-09-25",
+"h": "00:00",
+"t": "Institui a Medalha \"Cinquentenário do Comando de Policiamento de Área Metropolitana - 1\" e dá providências correlatas.",
+"p": "Decreto estadual nº 70.900, de 25/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.900",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213003",
+"auto": true
+},
+{
+"d": "2026-09-25",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante cessão de uso onerosa, por prazo determinado, o imóvel que especifica, de propriedade da União.",
+"p": "Decreto estadual nº 70.901, de 25/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.901",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213004",
+"auto": true
+},
+{
+"d": "2026-09-25",
+"h": "00:00",
+"t": "4 decretos de crédito suplementar no Orçamento do Estado (25/09)",
+"p": "Reforço de verbas (crédito suplementar) para: Secretaria da Fazenda e Planejamento; Secretaria da Segurança Pública; Secretaria dos Transportes Metropolitanos para repasse à Companhia do Metropolitano de São Paulo-METRÔ; Secretaria de Parcerias em Investimentos. Decretos nº 70.905, 70.906, 70.907, 70.908.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.905 a 70.908",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213008",
+"auto": true
+},
+{
+"d": "2026-09-23",
+"h": "16:00",
+"t": "Sorocaba recebe grande bazar de roupas, shows gratuitos e atrações para toda a família",
+"p": "WBazar será realizado de 24 a 27 de setembro, no Monteiro Lobato, com mais de 80 marcas e grandes liquidações Sorocaba recebe, de 24 a 27 de setembro, o WBazar, evento que reúne compras, entretenimento e gastronomia em uma programação pensada para toda a família. Realizado no Monteiro Lobato, o evento vai muito…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/cultura-entretenimento/sorocaba-recebe-grande-bazar-de-roupas-shows-gratuitos-e-atracoes-para-toda-a-familia/",
+"auto": true
+},
+{
+"d": "2026-09-23",
+"h": "15:56",
+"t": "UniFacens abre inscrições para vestibular com concurso de bolsas",
+"p": "Ao todo, são mais de 3,4 mil vagas para o primeiro semestre de 2027;Taxa de empregabilidade dos alunos ao término das graduações é de 90%. A UniFacens, referência em metodologias inovadoras de ensino nas áreas de engenharia, tecnologia, arquitetura e saúde, está com inscrições abertas para o vestibular 2027. O…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/educacao/unifacens-abre-inscricoes-para-vestibular-com-concurso-de-bolsas/",
+"auto": true
+},
+{
+"d": "2026-09-22",
+"h": "16:19",
+"t": "Segurança de carros elétricos pede cuidados específicos, diz especialista",
+"p": "Danos à bateria podem ser perigosos e gerar incêndios; Motoristas devem redobrar cuidados com pedestres e ciclistas. O aumento constante do número de veículos elétricos nas ruas vem trazendo mudanças gradativas para o trânsito das cidades e das rodovias. Algumas características próprias desse tipo de automóvel,…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/tecnologia/seguranca-de-carros-eletricos-pede-cuidados-especificos-diz-especialista/",
+"auto": true
+},
+{
+"d": "2026-09-22",
+"h": "16:01",
+"t": "Thiago e Graciano e tributo aos Beatles são atrações gratuitas neste fim de semana em Sorocaba",
+"p": "Apresentações fazem parte do WBazar, que ainda reúne gastronomia, artesanato, espaço kids e mais de 80 marcas no Monteiro Lobato Sorocaba recebe, de quinta-feira (24) a domingo (27), mais uma edição do WBazar, no Monteiro Lobato. Com entrada e estacionamento gratuitos, o evento terá uma programação que vai além das…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/cultura/thiago-e-graciano-e-tributo-aos-beatles-sao-atracoes-gratuitas-neste-fim-de-semana-em-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-09-18",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica.",
+"p": "Decreto estadual nº 70.880, de 18/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.880",
+"c": [
+"Ribeirão Preto"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212994",
+"auto": true
+},
+{
+"d": "2026-09-18",
+"h": "00:00",
+"t": "Institui a Medalha do Mérito Professor Dr. Manoel Pedro Pimentel da Fundação \"Professor Dr. Manoel Pedro Pimentel\" - FUNAP e dá providências correlatas.",
+"p": "Decreto estadual nº 70.881, de 18/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Educação",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.881",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212995",
+"auto": true
+},
+{
+"d": "2026-09-18",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Juquitiba, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.878, de 18/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.878",
+"c": [
+"Juquitiba"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212981",
+"auto": true
+},
+{
+"d": "2026-09-18",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica.",
+"p": "Decreto estadual nº 70.879, de 18/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.879",
+"c": [
+"Ribeirão Preto"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212993",
+"auto": true
+},
+{
+"d": "2026-09-18",
+"h": "00:00",
+"t": "18 decretos de crédito suplementar no Orçamento do Estado (18/09)",
+"p": "Reforço de verbas (crédito suplementar) para: Secretaria de Gestão e Governo Digital; Secretaria da Cultura; Fundação Professor Dr Manoel Pedro Pimentel - FUNAP; Administração Pública; Secretaria de Agricultura e Abastecimento; Secretaria de Comunicação; Secretaria de Desenvolvimento Econômico; Fundação Oncocentro de São Paulo…. Decretos nº 70.882, 70.883, 70.884, 70.885, 70.886, 70.887, 70.888, 70.889, 70.890, 70.891, 70.892, 70.893….",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.882 a 70.899",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212996",
+"auto": true
+},
+{
+"d": "2026-09-16",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Sete Barras, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.876, de 16/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.876",
+"c": [
+"Sete Barras"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212979",
+"auto": true
+},
+{
+"d": "2026-09-16",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Itaquaquecetuba, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.877, de 16/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.877",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212980",
+"auto": true
+},
+{
+"d": "2026-09-16",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Iguape, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.875, de 16/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.875",
+"c": [
+"Iguape"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212978",
+"auto": true
+},
+{
+"d": "2026-09-14",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Barra do Turvo, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.870, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.870",
+"c": [
+"Barra do Turvo"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212973",
+"auto": true
+},
+{
+"d": "2026-09-14",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Ribeira, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.871, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.871",
+"c": [
+"Ribeira"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212974",
+"auto": true
+},
+{
+"d": "2026-09-14",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Iporanga, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.872, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.872",
+"c": [
+"Iporanga"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212975",
+"auto": true
+},
+{
+"d": "2026-09-14",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Piracaia, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.869, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.869",
+"c": [
+"Piracaia"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212972",
+"auto": true
+},
+{
+"d": "2026-09-14",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Registro, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.873, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.873",
+"c": [
+"Registro"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212976",
+"auto": true
+},
+{
+"d": "2026-09-14",
+"h": "00:00",
+"t": "Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Agência de Águas do Estado de São Paulo - SP ÁGUAS, visando ao atendimento de Despesas de Capital.",
+"p": "Decreto estadual nº 70.874, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.874",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212977",
+"auto": true
+},
+{
+"d": "2026-09-13",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Santa Isabel, o imóvel que especifica.",
+"p": "Decreto estadual nº 70.859, de 13/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.859",
+"c": [
+"Santa Isabel"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212962",
+"auto": true
+},
+{
+"d": "2026-09-13",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Eldorado, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.858, de 13/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.858",
+"c": [
+"Eldorado"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212961",
+"auto": true
+},
+{
+"d": "2026-09-13",
+"h": "00:00",
+"t": "9 decretos de crédito suplementar no Orçamento do Estado (13/09)",
+"p": "Reforço de verbas (crédito suplementar) para: Secretaria da Educação; Fundação para o Desenvolvimento da Educação - FDE; Secretaria da Fazenda e Planejamento; Secretaria da Segurança Pública; Secretaria de Desenvolvimento Urbano e Habitação; Departamento Estadual de Trânsito - DETRAN; Secretaria de Meio Ambiente; Secretaria da Saúde…. Decretos nº 70.860, 70.861, 70.862, 70.863, 70.864, 70.865, 70.866, 70.867, 70.868.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.860 a 70.868",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212963",
+"auto": true
+},
+{
+"d": "2026-09-10",
+"h": "00:00",
+"t": "Institui Grupo de Trabalho com o objetivo de elaborar estudos e apresentar propostas de ações destinadas ao fortalecimento da competitividade da cadeia produtiva do setor sucroenergético paulista.",
+"p": "Decreto estadual nº 70.855, de 10/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.855",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212958",
+"auto": true
+},
+{
+"d": "2026-09-10",
+"h": "00:00",
+"t": "Institui a Medalha do \"Cinquentenário do Décimo Primeiro Batalhão de Polícia Militar do Interior \" e dá providências correlatas.",
+"p": "Decreto estadual nº 70.856, de 10/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Segurança",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.856",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212959",
+"auto": true
+},
+{
+"d": "2026-09-10",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Campinas, o imóvel que especifica.",
+"p": "Decreto estadual nº 70.857, de 10/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.857",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212960",
+"auto": true
+},
+{
+"d": "2026-09-10",
+"h": "00:00",
+"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Itararé, que declarou Situação de Emergência em áreas do Município.",
+"p": "Decreto estadual nº 70.854, de 10/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Política",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.854",
+"c": [
+"Itararé"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212957",
+"auto": true
+},
+{
+"d": "2026-09-09",
+"h": "00:00",
+"t": "Coloca à disposição da Justiça Eleitoral servidores e dependências dos estabelecimentos da Rede Estadual de Ensino, com vistas ao pleito de 4 de outubro de 2026, em primeiro turno, e 25 de outubro de …",
+"p": "Decreto estadual nº 70.847, de 09/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Educação",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.847",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212950",
+"auto": true
+},
+{
+"d": "2026-09-09",
+"h": "00:00",
+"t": "Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria dos Direitos da Pessoa com Deficiência, a administração do imóvel que especifica, localizado no Município de Araçatuba.",
+"p": "Decreto estadual nº 70.848, de 09/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.848",
+"c": [
+"Araçatuba"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212951",
+"auto": true
+},
+{
+"d": "2026-09-09",
+"h": "00:00",
+"t": "Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Lins.",
+"p": "Decreto estadual nº 70.850, de 09/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Educação",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.850",
+"c": [
+"Lins"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212953",
+"auto": true
+},
+{
+"d": "2026-09-09",
+"h": "00:00",
+"t": "Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Mogi Guaçu, parte do imóvel que especifica.",
+"p": "Decreto estadual nº 70.849, de 09/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.849",
+"c": [
+"Mogi Guaçu"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212952",
+"auto": true
+},
+{
+"d": "2026-09-09",
+"h": "00:00",
+"t": "3 decretos de crédito suplementar no Orçamento do Estado (09/09)",
+"p": "Reforço de verbas (crédito suplementar) para: Secretaria de Desenvolvimento Urbano e Habitação para repasse a Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo-CDHU; Secretaria da Saúde; Administração Pública. Decretos nº 70.851, 70.852, 70.853.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.851 a 70.853",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212954",
+"auto": true
+},
+{
+"d": "2026-09-03",
+"h": "00:00",
+"t": "Oficializa, sem ônus para os cofres públicos, a Medalha do Mérito Kasato Maru, instituída pela Sociedade Brasileira de Cultura Japonesa e de Assistência Social - Bunkyo e dá providências correlatas",
+"p": "Decreto estadual nº 70.845, de 03/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Assistência social",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.845",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212948",
+"auto": true
+},
+{
+"d": "2026-09-03",
+"h": "00:00",
+"t": "Oficializa, sem ônus para os cofres públicos, o Colar \"Imperatória Brasília\" - Alusiva às visões de Varnhagen e de Kubitschek, instituído pelo Instituto Histórico, Geográfico e Genealógico de Sorocaba…",
+"p": "Decreto estadual nº 70.844, de 03/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.844",
+"c": [
+"Sorocaba"
+],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212947",
+"auto": true
+},
+{
+"d": "2026-09-03",
+"h": "00:00",
+"t": "Altera a classificação institucional da Secretaria da Saúde nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+"p": "Decreto estadual nº 70.846, de 03/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Saúde",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.846",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212949",
+"auto": true
+},
+{
+"d": "2026-09-03",
+"h": "00:00",
+"t": "Dispõe sobre a classificação institucional da Casa Civil nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+"p": "Decreto estadual nº 70.843, de 03/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.843",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/212946",
+"auto": true
+},
+{
+"d": "2026-07-27",
+"h": "14:05",
+"t": "Reforma tributária já altera contratos entre empresas antes mesmo da definição das alíquotas finais.",
+"p": "Enquanto empresas ainda se adaptam à reforma tributária, cláusulas de reajuste automático passam a aparecer em contratos de médio e longo prazo A implementação da Reforma Tributária avança para uma nova etapa em janeiro de 2027, mas seus efeitos já começam a aparecer nas negociações entre empresas. Contratos de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/artigos/reforma-tributaria-ja-altera-contratos-entre-empresas-antes-mesmo-da-definicao-das-aliquotas-finais/",
+"auto": true
+},
+{
+"d": "2026-07-24",
+"h": "08:03",
+"t": "Henrique e Juliano, Leonardo e Nattan são as grandes atrações da terceira semana da 45ª Festa Julina Beneficente de Sorocaba.",
+"p": "Youtuber “Enaldinho” e apresentações de Stand Up Comedy também são destaques na programação A maior edição de todas da Festa Julina Beneficente de Sorocaba entra na terceira semana nesta quarta-feira, 22, e promete grandes atrações, tanto para quem é apaixonado por humor e sertanejo, quanto para as crianças! A…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/cultura-entretenimento/henrique-e-juliano-leonardo-e-nattan-sao-as-grandes-atracoes-da-terceira-semana-da-45a-festa-julina-beneficente-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-07-18",
+"h": "00:18",
+"t": "Férias sem telas: 56% dos brasileiros acreditam que o excesso do uso de telas prejudica a saúde das crianças",
+"p": "Confira atividades que estimulam a criatividade, a autonomia e o desenvolvimento infantil, organizadas por faixa etária Confira atividades que estimulam a criatividade, a autonomia e o desenvolvimento infantil, organizadas por faixa etária Com a chegada das férias escolares, pais e mães enfrentam uma pergunta que…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/destaques/ferias-sem-telas-56-dos-brasileiros-acreditam-que-o-excesso-do-uso-de-telas-prejudica-a-saude-das-criancas/",
+"auto": true
+},
+{
+"d": "2026-07-17",
+"h": "21:23",
+"t": "João Gomes, Fresno, Livinho e Nany People são atrações da segunda semana da 45ª Festa Julina Beneficente de Sorocaba.",
+"p": "Com 40 mil m², edição 2026 do evento já é considerada a maior da história Considerada a maior edição da história, a 45ª Festa Julina Beneficente de Sorocaba continua nesta semana no Paço Municipal, após o sucesso absoluto da primeira semana. A programação começa nesta quarta-feira, 15, com apresentação de stand up…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Portal Sorocaba.com",
+"u": "https://sorocaba.com.br/cultura-entretenimento/joao-gomes-fresno-livinho-e-nany-people-sao-atracoes-da-segunda-semana-da-45a-festa-julina-beneficente-de-sorocaba/",
 "auto": true
 }
 ]
