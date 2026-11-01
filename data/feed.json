@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-01T18:46:21-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-01T18:52:14-03:00",
+"novos_nesta_coleta": 35,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 83 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,24 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake fail | <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake f"
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "18:51",
+"t": "PRF recupera carro roubado que circulava com placas clonadas em Rio Preto",
+"p": "A Polícia Rodoviária Federal (PRF) recuperou, na tarde deste sábado (31/10), um VW Polo com placas clonadas que circulava pelo Centro de Rio Preto. O veículo tinha registro de roubo na cidade de São Paulo, ocorrido em 18 de julho de 2026. Por volta das 15h30, os policiais receberam informações de uma análise de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prf-recupera-carro-roubado-que-circulava-com-placas-clonadas-em-rio-preto/",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "18:36",
@@ -2671,6 +2683,42 @@
 "auto": true
 },
 {
+"d": "2026-10-30",
+"h": "06:00",
+"t": "Salto: Estabelece a aplicação da atualização monetária para os tributos, as multas e demais obrigações pecuniárias estabelecidas em quantia fixa, institui o Calendário Fiscal dos Tributos lançados de…",
+"p": "Decreto nº 401, publicado no Diário Oficial do município em 30/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-10-30/4fc24d0b11cc0ac15d82b7b8401748f6972847eb.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 401",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-30",
+"h": "06:00",
+"t": "Salto: Declara de utilidade pública, para fins de desapropriação, parte de bens imóveis localizados no Bairro Lajeado e dá outras providências",
+"p": "Decreto nº 402, publicado no Diário Oficial do município em 30/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-10-30/4fc24d0b11cc0ac15d82b7b8401748f6972847eb.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 402",
+"qd": true,
+"mun": true
+},
+{
 "d": "2026-10-29",
 "h": "20:46",
 "t": "Etecs prorrogam inscrições até 10 de novembro; veja opções no Vale do Paraíba",
@@ -2883,6 +2931,384 @@
 },
 {
 "d": "2026-10-29",
+"h": "06:00",
+"t": "Álvares Florence: Dispõe sobre a regulamentação e organização da Política Municipal de Educação Especial Inclusiva do Município de Álvares Florence, Estado de São",
+"p": "Decreto nº 2.928, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Álvares Florence"
+],
+"src": "Diário Oficial de Álvares Florence",
+"u": "https://data.queridodiario.ok.org.br/3501202/2026-10-29/c40adec09953520b5fa7d4e2130a82fe2879c8ab.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 2.928",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Alto Alegre: Aprova o Plano de Comunicação Municipal da Política de Alfabetização de Alto Alegre, alinhado ao Programa Alfabetiza Juntos SP e ao Compromisso Nacional Criança Alfabetizada",
+"p": "Decreto nº 5.277, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-10-29/314748ecd1f20d30e39d9118da9de21f9fa53d36.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.277",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Campinas: Dispõe sobre a largura variável da DIRETRIZ VIÁRIA 162-A",
+"p": "Decreto nº 24.711, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial de Campinas",
+"u": "https://data.queridodiario.ok.org.br/3509502/2026-10-29/7ca4b3794d2123257fed5eeb96880e5f4f3ec4ad.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 24.711",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Dirce Reis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 29/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Dirce Reis"
+],
+"src": "Diário Oficial de Dirce Reis",
+"u": "https://data.queridodiario.ok.org.br/3513850/2026-10-29/fa0240bb213eb85c0a1b6de3be3e14b8f222da3d.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 29/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Charqueada: Institui a Política Municipal de Educação Integral em Tempo Integral no âmbito da Rede Municipal de Ensino de Charqueada, estabelece diretrizes para sua implementação, monitoramento e financiamento",
+"p": "Decreto nº 4131, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Charqueada"
+],
+"src": "Diário Oficial de Charqueada",
+"u": "https://data.queridodiario.ok.org.br/3511706/2026-10-29/153d6f25e6758cd59d4a1f43244d9814a64f7fa4.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4131",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Itápolis: Convoca a 1ª Conferência Municipal de Segurança Alimentar e Nutricional Sustentável de Itápolis e dispõe sobre sua organização",
+"p": "Decreto nº 6.764, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-10-29/444b931dd59a7dd07458562e0b9c5130a0911a93.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.764",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Jaú: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 29/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Jaú"
+],
+"src": "Diário Oficial de Jaú",
+"u": "https://data.queridodiario.ok.org.br/3525300/2026-10-29/af21ea845f0f03304a0d3343165503fe6e7c790e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 29/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Itobi: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 29/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Itobi"
+],
+"src": "Diário Oficial de Itobi",
+"u": "https://data.queridodiario.ok.org.br/3523800/2026-10-29/d918a0e0f2b2e9657e19d682f07e4510eda1d3ec.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 29/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Monte Mor: Declara Situação de Emergência no Município de Monte Mor, Estado de São Paulo, em razão do desastre classificado como Chuvas Intensas — COBRADE 1.3.2.1.4, desastre de nível II",
+"p": "Decreto nº 7064, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-10-29/def802b513c49bca345004b1ecdfe63aaf491ba6.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 7064",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Monte Mor: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 29/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-10-29/def802b513c49bca345004b1ecdfe63aaf491ba6.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 29/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Palmital: Institui a Política Municipal de Alfabetização de Palmital – “Alfabetiza Palmital”, estabelece princípios, diretrizes, objetivos, eixos, instrumentos de implementação, acompanhamento e avaliação",
+"p": "Decreto nº 5.419, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Palmital"
+],
+"src": "Diário Oficial de Palmital",
+"u": "https://data.queridodiario.ok.org.br/3535309/2026-10-29/032f1ef182b8e98a67af48782c4832ab3e25e3db.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.419",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Ourinhos: Altera, atualiza, fixa e institui a Política de Educação Integral em Tempo Integral por meio do Programa Escola de Tempo Integral (ETI) em todas as etapas da Educação Básica, no âmbito da Rede…",
+"p": "Decreto nº 8.242, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ourinhos"
+],
+"src": "Diário Oficial de Ourinhos",
+"u": "https://data.queridodiario.ok.org.br/3534708/2026-10-29/8045c4ccd7764292ce407d22ff89e7320acb173f.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.242",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Poloni: Estabelece critérios para atribuição de classes e/ou aulas nas Escolas da Rede Municipal de Ensino, para o ano letivo de 2027",
+"p": "Decreto nº 2358, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Poloni"
+],
+"src": "Diário Oficial de Poloni",
+"u": "https://data.queridodiario.ok.org.br/3539905/2026-10-29/d19e96bf2d6f61e74aa676e9ea8ee4256ae35a9c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 2358",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Penápolis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 29/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-10-29/1dcc60e0f07b0dbc1c13b5ca16e2a52a91da1ba8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 29/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Salto: Estabelece normas relativas ao encerramento da execução orçamentária e financeira dos órgãos da Administração Direta e Indireta, para o levantamento do balanço geral da Prefeitura Municipal de…",
+"p": "Decreto nº 400, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-10-29/baa989d5e17f492f54f5b53013cad7f43c212bf8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 400",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "São Bernardo do Campo: Dispõe sobre prazos e providências para o encerramento do exercício 2026",
+"p": "Decreto nº 23.397, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário Oficial de São Bernardo do Campo",
+"u": "https://data.queridodiario.ok.org.br/3548708/2026-10-29/7d434375dd63512d3d2a5df4ed849043786dcf9d.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 23.397",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "São Manuel: Regulamenta o artigo 182 do Código Tributário Municipal - CTM, para fins de estabelecer a base de cálculo do ITBI – Imposto sobre a Transmissão de Bens Imóveis no Município de São Manuel",
+"p": "Decreto nº 4503, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Manuel"
+],
+"src": "Diário Oficial de São Manuel",
+"u": "https://data.queridodiario.ok.org.br/3550100/2026-10-29/0beca9e7f5d79ed97da1c1e5db7738161953bff8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4503",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "São Manuel: Institui a Política de Educação Integral em Tempo Integral no Município de São Manuel, por meio do Programa Escola em Tempo Integral nos Anos iniciais de Ensino Fundamental da rede municipal de…",
+"p": "Decreto nº 4505, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Manuel"
+],
+"src": "Diário Oficial de São Manuel",
+"u": "https://data.queridodiario.ok.org.br/3550100/2026-10-29/0beca9e7f5d79ed97da1c1e5db7738161953bff8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4505",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Valinhos: Dispõe sobre a outorga de permissão de uso de área pública, a título gratuito",
+"p": "Decreto nº 13.155, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-10-29/b54454c83aead7f7744d760cfbd0d3a8f7fe54d0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 13.155",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Valinhos: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 29/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-10-29/b54454c83aead7f7744d760cfbd0d3a8f7fe54d0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 29/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
+"h": "06:00",
+"t": "Votorantim: Aprova o Plano Municipal de Gerenciamento",
+"p": "Decreto nº 8.468, publicado no Diário Oficial do município em 29/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Votorantim"
+],
+"src": "Diário Oficial de Votorantim",
+"u": "https://data.queridodiario.ok.org.br/3557006/2026-10-29/3f8cf757a2a5ba110e7c380a93ccdc5cbb76d2f8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.468",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-29",
 "h": "00:00",
 "t": "Campanha Outubro Rosa é encerrada com ação na UBS Vila Real",
 "p": "",
@@ -3021,6 +3447,204 @@
 "src": "Jornal Ita News",
 "u": "https://jornalitanews.com.br/outubro-rosa-palestra/",
 "auto": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Alto Alegre: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 28/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-10-28/ee23479ffc78312f8b934188e517a258fc3856b3.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 28/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Alto Alegre: Regulamenta os valores, prazos e o pagamento em pecúnia do Benefício Eventual Auxílio Moradia Provisória, no âmbito da Política Municipal de Assistência Social de Alto Alegre/SP",
+"p": "Decreto nº 5.273, publicado no Diário Oficial do município em 28/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-10-28/02845fb82938a5ba5797081ddc1594a20c44a05d.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.273",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Dirce Reis: Institui a Política Municipal de Educação Integral em Tempo Integral no Município de Dirce Reis, aprova o Plano Municipal de Expansão da Educação Integral em Tempo Integral e estabelece diretrizes…",
+"p": "Decreto nº 2.381, publicado no Diário Oficial do município em 28/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Dirce Reis"
+],
+"src": "Diário Oficial de Dirce Reis",
+"u": "https://data.queridodiario.ok.org.br/3513850/2026-10-28/97c1563a0484d4e7b0040607acd87d4aad3e1a5f.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 2.381",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Itaporanga: Dispõe sobre revogação de decreto que especifica",
+"p": "Decreto nº 3.819, publicado no Diário Oficial do município em 28/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itaporanga"
+],
+"src": "Diário Oficial de Itaporanga",
+"u": "https://data.queridodiario.ok.org.br/3522802/2026-10-28/47c4795c76efa0e6612f9ebacc23a760ad6ccda9.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 3.819",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Monte Mor: Dispõe sobre atualização da tabela de taxas e dos preços para serviços de veículos, máquinas e equipamentos da Municipalidade, utilizados por terceiros, e do Valor de Referência para Cobrança em 2027",
+"p": "Decreto nº 7061, publicado no Diário Oficial do município em 28/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-10-28/6d05c2b9f586dcbc44854e8b9ee2221587ccc0c2.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 7061",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Parisi: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 28/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Parisi"
+],
+"src": "Diário Oficial de Parisi",
+"u": "https://data.queridodiario.ok.org.br/3536257/2026-10-28/78b45dae20bf44b2131e5974e92430fca2eb87c2.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 28/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Penápolis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 28/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-10-28/beb4c0a46136b91c0da4e65e1d6965212bceb6cb.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 28/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Santa Maria da Serra: Institui a Comissão Gestora e a Equipe Técnica responsáveis pelo processo de elaboração do Plano Municipal de Educação",
+"p": "Decreto nº 3762, publicado no Diário Oficial do município em 28/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Santa Maria da Serra"
+],
+"src": "Diário Oficial de Santa Maria da Serra",
+"u": "https://data.queridodiario.ok.org.br/3547007/2026-10-28/f73bd22a8d0fe782ccb205d521b38b1c41b764d0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 3762",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "São Manuel: Institui o Programa Municipal de Vigilância, Prevenção e Controle da Esporotricose, estabelece a notificação compulsória dos casos de esporotricose animal no Município de São Manuel",
+"p": "Decreto nº 4504, publicado no Diário Oficial do município em 28/10/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Manuel"
+],
+"src": "Diário Oficial de São Manuel",
+"u": "https://data.queridodiario.ok.org.br/3550100/2026-10-28/18206536c1afef234583932c9cc9d56629572bc0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4504",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Tapiraí: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 28/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Tapiraí"
+],
+"src": "Diário Oficial de Tapiraí",
+"u": "https://data.queridodiario.ok.org.br/3553500/2026-10-28/b9a9610b34ccfaba3c363a965262fe66165672ab.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 28/10",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-10-28",
+"h": "06:00",
+"t": "Valinhos: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 28/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-10-28/ccda9e3b8a7a71812cfe1dd9d466f1083f5377f7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 28/10",
+"qd": true,
+"mun": true
 },
 {
 "d": "2026-10-28",
