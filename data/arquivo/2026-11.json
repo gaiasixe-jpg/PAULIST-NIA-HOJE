@@ -3,6 +3,103 @@
 "itens": [
 {
 "d": "2026-11-01",
+"h": "16:14",
+"t": "Time de Praia Grande conquista pódio geral na natação e brilha no atletismo dos Jogos Paralímpicos",
+"p": "Delegação do município soma 120 pontos na piscina do Centro Paralímpico e garante chuva de ouros na fase estadual",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/praiagrande/time-de-praia-grande-conquista-podio-geral-na-natacao-e-brilha-no-atletismo-dos-jogos-paralimpicos.html",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "16:14",
+"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal neste domingo (1º)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/clone-clone-rodovia-padre-manoel-da-nobrega-tem-trafego-normal-nesta-sexta-30.html",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "16:09",
+"t": "Dutra tem trânsito intenso e lentidão de 57 minutos neste domingo (1º)",
+"p": "Motoristas enfrentam tráfego intenso em Taubaté e Pindamonhangaba, no sentido São Paulo; concessionária também registra queda de barreira em Santa Isabel",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Pindamonhangaba",
+"Santa Isabel",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/dutra-tem-transito-intenso-e-lentidao-de-57-minutos-neste-domingo-1.html",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "16:07",
+"t": "Quem é o policial investigado por ter favorecido Cariani em inquéritos",
+"p": "André Dziuba é um investigador da Polícia Civil investigado por vazar informações sigilosas e favorecer o influenciador Renato Cariani",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/quem-e-o-policial-investigado-por-ter-favorecido-cariani-em-inqueritos",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "16:06",
+"t": "GCM apreende 152 porções de drogas com apoio do cão farejador no bairro Cajuru do Sul",
+"p": "A Guarda Civil Municipal (GCM) apreendeu 152 porções de entorpecentes, durante patrulhamento preventivo na manhã de sábado (31), na Praça Ilma Pereira de Carvalho, no bairro Cajuru do Sul, em Sorocaba. A ação contou com o apoio do Canil da GCM e do cão farejador King. Por volta das 11h25, a equipe avistou dois […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba",
+"Cajuru"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-152-porcoes-de-drogas-com-apoio-do-cao-farejador-no-bairro-cajuru-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "15:57",
+"t": "Dupla furta carga de meio milhão de empresa de Valinhos e é presa",
+"p": "Polícia Militar recuperou notebooks, videogames, computadores e veículos elétricos; suspeitos também teriam tentado furtar uma empresa de próteses médicas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Valinhos"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/dupla-furta-carga-de-meio-milhao-de-empresa-de-valinhos-e-e-presa/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "15:37",
+"t": "Veja os horários das missas de Finados nos cemitérios de São Bernardo",
+"p": "Quatro cemitérios municipais terão programação especial, com 11 missas ao longo desta segunda-feira (2)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366294/veja-os-horarios-das-missas-de-finados-nos-cemiterios-de-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-01",
 "h": "15:25",
 "t": "Rodeio Show de Macedônia encerra programação neste domingo com entrada gratuita e atrações na arena",
 "p": "A cidade de Macedônia realiza neste domingo, 1º de novembro, a noite de encerramento do Rodeio Show. O evento tem entrada franca garantida para a população em todas as noites e reúne disputas de arena, montarias em touros e apresentações musicais. A movimentação no recinto começa a partir das 19h, horário previsto…",
@@ -13,6 +110,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/rodeio-show-de-macedonia-encerra-programacao-neste-domingo-com-entrada-gratuita-e-atracoes-na-arena/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "15:21",
+"t": "Rodízio de veículos será suspenso em SP nesta segunda-feira (2)",
+"p": "Medida vale para carros e caminhões; restrições para fretados também não serão aplicadas, e faixas exclusivas de ônibus estarão liberadas",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366293/rodizio-de-veiculos-sera-suspenso-em-sp-nesta-segunda-feira-2-",
 "auto": true
 },
 {
