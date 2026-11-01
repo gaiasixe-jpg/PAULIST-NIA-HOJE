@@ -3,6 +3,64 @@
 "itens": [
 {
 "d": "2026-11-01",
+"h": "17:35",
+"t": "Prefeitura de SP promove vacinação antirrábica e microchipagem para pets",
+"p": "Capital paulista promove vacinação contra raiva para cães e gatos de 7 a 14 de novembro. Campanha também oferece identificação por microchip",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-de-sp-promove-vacinacao-antirrabica-e-microchipagem-para-pets",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "17:25",
+"t": "Idoso de 74 anos sofre parada cardiorrespiratória e morre em bar no Jardim do Trevo em Fernandópolis",
+"p": "Um idoso de 74 anos faleceu na noite deste sábado (31) após passar mal enquanto frequentava um estabelecimento comercial no bairro Jardim do Trevo, em Fernandópolis. As equipes de emergência foram acionadas para o local, mas não conseguiram reverter o quadro de saúde do aposentado. De acordo com as informações…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/idoso-de-74-anos-sofre-parada-cardiorrespiratoria-e-morre-em-bar-no-jardim-do-trevo-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "17:21",
+"t": "Homem é atropelado na Rodovia Euclides da Cunha e socorrido em estado grave em Fernandópolis",
+"p": "Um homem de 28 anos ficou ferido após ser atropelado por um carro na noite deste sábado (31), em um trecho da Rodovia Euclides da Cunha (SP-320), no município de Fernandópolis. O acidente ocorreu no sentido que leva a Jales, na altura entre os bairros Paulistano e Jardim Ipanema. A vítima foi localizada pelos…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Fernandópolis",
+"Cunha",
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-atropelado-na-rodovia-euclides-da-cunha-e-socorrido-em-estado-grave-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "17:11",
+"t": "Fuvest 2027 traz ‘Stranger Things’, Bad Bunny e escala 6×1 na 1ª fase; veja temas da prova",
+"p": "Vestibular da USP abordou debate sobre jornada de trabalho, música de Legião Urbana e manobra de Sandro Dias; gabarito da Fuvest sai às 19h",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/fuvest-2027-traz-stranger-things-bad-bunny-e-escala-6x1-na-1a-fase-veja-temas-da-prova/",
+"auto": true
+},
+{
+"d": "2026-11-01",
 "h": "17:00",
 "t": "Frente fria deve mudar tempo em São Paulo e derrubar temperaturas após dias de calor e chuva no Estado",
 "p": "A primeira semana de novembro será marcada por mudanças no tempo em São Paulo. Depois de dias de calor e pancadas de chuva, a chegada de uma nova frente fria deve aumentar as condições para temporais na quinta-feira (5/11) e provocar queda nas temperaturas a partir de sexta-feira (6/11). Nesta segunda-feira (2/11),…",
