@@ -1,0 +1,46 @@
+name: Coletar notícias
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coletar
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Organizar as pastas (só faz algo na primeira vez)
+        run: |
+          mkdir -p data scripts
+          for f in feed.json manual.json promessas.json municipios.json; do
+            if [ -f "$f" ]; then git mv -f "$f" "data/$f"; fi
+          done
+          for f in coletar.py fontes.json; do
+            if [ -f "$f" ]; then git mv -f "$f" "scripts/$f"; fi
+          done
+          if [ -f coletar.yml ]; then git rm -q coletar.yml; fi
+      - name: Ler os jornais
+        run: python scripts/coletar.py
+      - name: Salvar no site
+        run: |
+          git config user.name "robo-paulistania"
+          git config user.email "robo-paulistania@users.noreply.github.com"
+          git add -A data scripts
+          if git diff --cached --quiet; then
+            echo "Nada novo nesta coleta."
+          else
+            git commit -m "Notícias atualizadas $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
