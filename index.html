@@ -255,6 +255,7 @@ td .ed button,.btn{font:700 13px var(--body);background:var(--ink);color:var(--p
 .pl{padding:10px 0;border-bottom:1px solid var(--rule)}
 .vt{padding:12px 0;border-bottom:1px solid var(--rule)}.vt summary{cursor:pointer;color:var(--muted);font-size:14px;margin-top:6px}.vt .vl{font-size:14px;margin:6px 0 0}
 .vb{display:inline-block;font:700 12px var(--mono);text-transform:uppercase;padding:2px 8px;border-radius:3px;color:#fff;background:var(--muted);vertical-align:1px}.vb.sim{background:var(--ok)}.vb.nao{background:var(--alert)}.vb.abs{background:var(--anun)}
+.nlf{display:flex;gap:8px;flex-wrap:wrap}.nlf input[type=email]{flex:1;min-width:0;font:inherit;font-size:15px;padding:9px 10px;border:1px solid var(--rule);border-radius:8px;background:var(--paper);color:var(--ink)}
 .vsp{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px;font-size:14px}
 .pl small{font:600 11px var(--mono);color:var(--muted)}
 .pl a{color:var(--ink);font-weight:600;text-decoration:none}.pl a:hover{text-decoration:underline}
@@ -340,6 +341,13 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
         <p style="margin:0;font-size:14px">As notícias da semana e a cobrança das promessas, em vídeo.</p>
         <div class="btnrow" style="margin:0"><a class="btn" style="background:#d3203a;color:#fff" href="https://www.youtube.com/@aranellliz" target="_blank" rel="noopener">YouTube</a><a class="btn" href="https://www.tiktok.com/@aranellizs" target="_blank" rel="noopener">TikTok</a></div>
         <div id="vids"></div>
+      </div>
+      <div class="panel" id="votPanel" hidden></div>
+      <div class="panel" id="news">
+        <h4>Receba por e-mail</h4>
+        <p style="margin:0;font-size:14px">Um resumo por semana com o que aconteceu no estado, os decretos e a cobrança das promessas. Grátis.</p>
+        <form action="https://buttondown.com/api/emails/embed-subscribe/aranel" method="post" target="_blank" class="nlf"><input type="email" name="email" required placeholder="seu@email.com" aria-label="Seu e-mail"><input type="hidden" name="tag" value="site"><button class="btn" type="submit">Assinar</button></form>
+        <p class="more" style="margin:0;font-size:12px">Você confirma pelo e-mail e pode sair quando quiser.</p>
       </div>
       <div class="panel">
         <h4>Como ler</h4>
@@ -776,7 +784,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       pp.reg.map(function(p){return '<a class="paper" href="'+p[1]+'" target="_blank" rel="noopener"><b>'+esc(p[0])+'</b><small>Jornal da região · '+esc(p[2])+'</small></a>';}).join("")+
       '<a class="paper search" href="'+g(m.n+" SP")+'&tbm=nws" target="_blank" rel="noopener"><b>Tudo sobre '+esc(m.n)+'</b><small>Busca de notícias de hoje em todos os jornais</small></a>'+
       '</div></div>';
-    h+='<div class="btnrow"><a class="btn wab" href="'+esc(waLink(m.n+" no Paulistânia Hoje: notícias, decretos e as publicações oficiais da prefeitura.\n"+SITE+"#c-"+m.i))+'" target="_blank" rel="noopener">Compartilhar a página de '+esc(m.n)+'</a></div>';
+    h+='<div class="btnrow"><a class="btn wab" href="'+esc(waLink(m.n+" no Paulistânia Hoje: notícias, decretos e as publicações oficiais da prefeitura.\n"+SITE+"#c-"+m.i))+'" target="_blank" rel="noopener">Compartilhar a página de '+esc(m.n)+'</a><button class="btn alt" type="button" data-story="cidade">Imagem de '+esc(m.n)+' para Stories</button></div>';
     var dc=((DEPS&&DEPS.por_cidade&&DEPS.por_cidade[m.n])||[]).map(function(x){return [x[0],x[1],"d"];}).concat(((FEDS&&FEDS.por_cidade&&FEDS.por_cidade[m.n])||[]).map(function(x){return [x[0],x[1],"f"];}));
     if(dc.length){h+='<div class="official"><h3>Deputados de olho em '+esc(m.n)+'</h3><p>Quem mais citou a cidade em pedidos e projetos na Alesp e na Câmara nos últimos 12 meses.</p><div class="olinks">'+
       dc.map(function(x){var d=(x[2]==="f"?FEDI:DEPI)[x[0]];if(!d)return "";return '<a href="#'+x[2]+'-'+esc(d.id)+'"><b>'+esc(d.n)+'</b><small>'+(x[2]==="f"?"Federal":"Estadual")+' · '+esc(d.p)+' · citou '+esc(m.n)+' '+(+x[1])+(x[1]>1?' vezes':' vez')+'</small></a>';}).join("")+'</div></div>';}
@@ -873,18 +881,23 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       if(r[0]&&Array.isArray(r[0].deputados)){DEPS=r[0];DEPI={};prepDeps(DEPS,DEPI);}
       if(r[1]&&Array.isArray(r[1].deputados)){FEDS=r[1];FEDI={};prepDeps(FEDS,FEDI);}
       if(r[2]&&r[2].camara&&r[2].alesp)GAS=r[2];
-      drawCasa();drawDeps();if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(/^[df]-/.test(hh))route();});}
+      drawVotPanel();drawCasa();drawDeps();if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(/^[df]-/.test(hh)||hh==="votacoes")route();});}
   function vlab(t){return t==="Artigo 17"?"Presidente (não vota)":t;}
   function vcls(t){t=norm(t);return t==="sim"?"sim":t==="nao"?"nao":/absten|obstru/.test(t)?"abs":"";}
   function vtit(v){var p=v.prop||{};return (p.s?esc(p.s+" "+p.n+"/"+p.a)+" · ":"")+esc(p.e||v.desc);}
   function vres(v){return v.ap===1?'<span class="vb sim">Aprovado</span>':v.ap===0?'<span class="vb nao">Rejeitado</span>':'';}
+  function vspc(v){var s=0,n=0;Object.keys(v.sp).forEach(function(k){if(v.sp[k]==="Sim")s++;else if(v.sp[k]==="Não")n++;});return [s,n];}
+  function vflag(v){var f=[],a=+v.pl["Sim"]||0,b=+v.pl["Não"]||0,c=vspc(v);if(a+b&&Math.abs(a-b)/(a+b)<0.15)f.push("Placar apertado");if((c[0]>c[1]&&v.ap===0)||(c[1]>c[0]&&v.ap===1))f.push("Maioria de SP votou diferente");return f;}
+  function vshare(v){var p=v.prop||{},c=vspc(v);return waLink("Como os deputados de SP votaram"+(p.s?" no "+p.s+" "+p.n+"/"+p.a:"")+" ("+(v.ap===1?"aprovado":v.ap===0?"rejeitado":"votação")+" em "+fmt(v.d)+"): "+c[0]+" votaram Sim e "+c[1]+" votaram Não.\nVeja o voto de cada deputado: "+SITE+"#votacoes");}
+  function drawVotPanel(){var el=document.getElementById("votPanel");if(!el||!VOT||!VOT.votacoes.length)return;var v=VOT.votacoes.filter(function(x){return vflag(x).length;})[0]||VOT.votacoes[0],c=vspc(v),f=vflag(v);
+    el.innerHTML='<h4>Na Câmara</h4>'+(f.length?'<p style="margin:0">'+f.map(function(t){return '<span class="vb abs">'+esc(t)+'</span>';}).join(" ")+'</p>':'')+'<p style="margin:0;font-size:15px"><b>'+vtit(v).slice(0,260)+'</b></p><p class="more" style="margin:0;font-size:14px">'+fmt(v.d)+' · '+(v.ap===1?"aprovado":v.ap===0?"rejeitado":"")+'. Deputados de SP: <b style="color:var(--ok)">'+c[0]+' Sim</b> · <b style="color:var(--alert)">'+c[1]+' Não</b></p><div class="btnrow" style="margin:0"><a class="btn" href="#votacoes">Ver quem votou como</a><a class="btn wab" href="'+esc(vshare(v))+'" target="_blank" rel="noopener">Compartilhar</a></div>';el.hidden=false;}
   function votosHTML(){if(!VOT||!VOT.votacoes.length)return "";
     var h='<details class="panel" style="margin-top:14px;padding:12px 14px" open><summary style="cursor:pointer"><b style="font-family:var(--display);font-size:20px;text-transform:uppercase">Como os deputados de SP votaram</b></summary><p class="more" style="margin:6px 0 0">Votações nominais (com voto de cada um) no plenário da Câmara. Votações simbólicas não registram voto individual. Fonte: '+esc(VOT.fonte)+'.</p>';
     h+=VOT.votacoes.slice(0,6).map(function(v){var g={};Object.keys(v.sp).forEach(function(id){var t=v.sp[id];(g[t]=g[t]||[]).push(id);});
       var ks=Object.keys(g).sort(function(a,b){return g[b].length-g[a].length;});var pu=safeUrl((v.prop||{}).u);
-      return '<div class="vt"><small class="more">'+fmt(v.d)+' · '+vres(v)+' · placar geral: '+Object.keys(v.pl).filter(function(k){return k!=="Artigo 17";}).map(function(k){return esc(k)+' '+(+v.pl[k]);}).join(", ")+'</small><br><b>'+vtit(v)+'</b><p class="vl more">O que foi votado: '+esc(v.desc)+(pu?' <a href="'+esc(pu)+'" target="_blank" rel="noopener">Ver proposta</a>':'')+'</p>'+
+      return '<div class="vt"><small class="more">'+fmt(v.d)+' · '+vres(v)+vflag(v).map(function(t){return ' <span class="vb abs">'+esc(t)+'</span>';}).join("")+' · placar geral: '+Object.keys(v.pl).filter(function(k){return k!=="Artigo 17";}).map(function(k){return esc(k)+' '+(+v.pl[k]);}).join(", ")+'</small><br><b>'+vtit(v)+'</b><p class="vl more">O que foi votado: '+esc(v.desc)+(pu?' <a href="'+esc(pu)+'" target="_blank" rel="noopener">Ver proposta</a>':'')+'</p>'+
       '<div class="vsp">Deputados de SP: '+ks.map(function(k){return '<span class="vb '+vcls(k)+'">'+esc(vlab(k))+' '+g[k].length+'</span>';}).join(" ")+'</div>'+
-      '<details><summary>Ver como cada um votou</summary>'+ks.map(function(k){return '<p class="vl"><span class="vb '+vcls(k)+'">'+esc(vlab(k))+'</span> '+g[k].map(function(id){var d=FEDI[id];return d?'<a href="#f-'+esc(id)+'">'+esc(d.n)+'</a> ('+esc(d.p)+')':'';}).filter(Boolean).join(", ")+'</p>';}).join("")+'</details></div>';}).join("");
+      '<details><summary>Ver como cada um votou</summary>'+ks.map(function(k){return '<p class="vl"><span class="vb '+vcls(k)+'">'+esc(vlab(k))+'</span> '+g[k].map(function(id){var d=FEDI[id];return d?'<a href="#f-'+esc(id)+'">'+esc(d.n)+'</a> ('+esc(d.p)+')':'';}).filter(Boolean).join(", ")+'</p>';}).join("")+'</details><p class="vl"><a class="readlink" href="'+esc(vshare(v))+'" target="_blank" rel="noopener">Compartilhar no WhatsApp</a></p></div>';}).join("");
     return h+'</details>';}
   function votosDep(x){if(!VOT||!VOT.votacoes.length)return "";var l=VOT.votacoes.slice(0,15);
     return '<h4>Como votou no plenário</h4><p class="more" style="margin:0 0 4px">Últimas votações nominais da Câmara. "Sem registro" pode ser ausência, licença ou que ainda não estava no mandato.</p>'+l.map(function(v){var t=v.sp[x.id];return '<div class="pl"><span class="vb '+(t?vcls(t):"")+'">'+esc(t?vlab(t):"Sem registro")+'</span> <small class="more">'+fmt(v.d)+' · '+vres(v)+'</small><br>'+vtit(v)+'</div>';}).join("");}
@@ -935,9 +948,21 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       x.fillStyle="#ffffff";x.font="900 120px "+DISP;x.textBaseline="alphabetic";x.fillText("PAULISTÂNIA",80,330);
       x.fillStyle="#d3203a";x.save();x.translate(80,360);x.rotate(-0.025);x.fillRect(0,0,330,130);x.fillStyle="#ffffff";x.font="900 120px "+DISP;x.fillText("HOJE",18,112);x.restore();
       var dt=new Date().toLocaleDateString("pt-BR",{day:"numeric",month:"long",year:"numeric"});
-      x.fillStyle="#a9b3d6";x.font="600 34px "+BODY;x.fillText(kind==="placar"?"PLACAR DAS PROMESSAS · "+new Date().toLocaleDateString("pt-BR",{month:"long",year:"numeric"}).toUpperCase():"EDIÇÃO DE "+dt.toUpperCase(),80,580);
+      x.fillStyle="#a9b3d6";x.font="600 34px "+BODY;x.fillText(kind==="cidade"?"SUA CIDADE · "+dt.toUpperCase():kind==="placar"?"PLACAR DAS PROMESSAS · "+new Date().toLocaleDateString("pt-BR",{month:"long",year:"numeric"}).toUpperCase():"EDIÇÃO DE "+dt.toUpperCase(),80,580);
       var y=660;
-      if(kind==="placar"){
+      if(kind==="cidade"&&cur){var m=cur;
+        x.fillStyle="#ffffff";x.font="900 96px "+DISP;wrapText(x,m.n.toUpperCase(),920).slice(0,3).forEach(function(l){x.fillText(l,80,y+40);y+=100;});
+        x.fillStyle="#ffd166";x.font="700 32px "+BODY;x.fillText("REGIÃO "+String(REGN[m.d]||"").toUpperCase(),80,y+20);y+=90;
+        var cc={decreto:0,obra:0,anunciado:0,entregue:0,alerta:0};m.rec.forEach(function(n){if(cc[n.s]!==undefined)cc[n.s]++;});
+        var ccol={decreto:"#b9a4ff",obra:"#8fb0ff",anunciado:"#f3b74e",entregue:"#53d394",alerta:"#ff6b80"},bx=80;
+        ["decreto","obra","anunciado","entregue","alerta"].forEach(function(k){x.fillStyle=ccol[k];x.font="900 72px "+DISP;x.fillText(String(cc[k]),bx,y+50);x.fillStyle="#c8cfe8";x.font="600 22px "+BODY;x.fillText(LBL[k].toUpperCase(),bx,y+86);bx+=186;});y+=150;
+        var LIM2=H-300,recs=m.rec.filter(function(n){return n.tema!=="Segurança"&&n.tema!=="Geral";});if(recs.length<3)recs=recs.concat(m.rec.filter(function(n){return recs.indexOf(n)<0;}));recs=recs.slice(0,3);x.fillStyle="#7f8ab3";x.font="500 22px "+BODY;x.fillText("Contagem dos últimos 4 meses na base do site",80,y-18);y+=46;
+        if(recs.length){x.fillStyle="#a9b3d6";x.font="700 28px "+BODY;x.fillText("ÚLTIMAS NOTÍCIAS E ATOS",80,y);y+=60;
+          recs.forEach(function(n){x.font="800 46px "+DISP;var ls=wrapText(x,n.t.toUpperCase(),920);if(ls.length>3){ls=ls.slice(0,3);ls[2]=ls[2].replace(/\s*\S*$/,"…");}if(y+ls.length*52+70>LIM2)return;x.fillStyle="#d3203a";x.fillRect(80,y-30,10,30);x.fillStyle="#ffffff";ls.forEach(function(l){x.fillText(l,104,y);y+=52;});x.fillStyle="#a9b3d6";x.font="500 26px "+BODY;x.fillText(fmt(n.d)+" · Fonte: "+n.src,104,y);y+=64;});}
+        else{x.fillStyle="#ffffff";x.font="600 38px "+BODY;wrapText(x,"Ainda não há notícias verificadas de "+m.n+" na base. No site estão o Diário Oficial, o Portal da Transparência e os jornais da cidade.",920).forEach(function(l){x.fillText(l,80,y);y+=52;});y+=30;}
+        var dd=((DEPS&&DEPS.por_cidade&&DEPS.por_cidade[m.n])||[]).map(function(z){return DEPI[z[0]];}).concat(((FEDS&&FEDS.por_cidade&&FEDS.por_cidade[m.n])||[]).map(function(z){return FEDI[z[0]];})).filter(Boolean).slice(0,3);
+        if(dd.length&&y+60+dd.length*50<LIM2){x.fillStyle="#a9b3d6";x.font="700 28px "+BODY;x.fillText("DEPUTADOS QUE MAIS CITARAM A CIDADE",80,y);y+=54;x.fillStyle="#ffffff";x.font="600 36px "+BODY;dd.forEach(function(d){x.fillText(d.n+" ("+d.p+")",80,y);y+=50;});}
+      }else if(kind==="placar"){
         var cnt={cumprido:0,andamento:0,acompanhar:0,atrasado:0,naocumprido:0};var PP=polAtual();PP.rows.forEach(function(p){var s=(PSTATE[p[1]]&&PST[PSTATE[p[1]].status])?PSTATE[p[1]].status:"acompanhar";cnt[s]++;});
         var cols={cumprido:"#53d394",andamento:"#8fb0ff",acompanhar:"#f3b74e",atrasado:"#ff6b80",naocumprido:"#c0c8e4"};
         x.fillStyle="#ffffff";x.font="800 64px "+DISP;wrapText(x,"O que "+PP.nome+" ("+PP.curto.toLowerCase()+") prometeu e já cumpriu",920).forEach(function(l){x.fillText(l.toUpperCase(),80,y);y+=70;});y+=40;
@@ -950,17 +975,17 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
           x.fillStyle="#ffffff";x.font="800 54px "+DISP;var ls=wrapText(x,n.t.toUpperCase(),920);if(ls.length>4){ls=ls.slice(0,4);ls[3]=ls[3].replace(/\s*\S*$/,"…");}ls.forEach(function(l){x.fillText(l,80,y+10);y+=60;});
           x.fillStyle="#a9b3d6";x.font="500 28px "+BODY;x.fillText("Fonte: "+n.src,80,y+16);y+=90;});
       }
-      x.fillStyle="#d3203a";x.fillRect(0,H-230,W,8);x.fillStyle="#ffffff";x.font="700 38px "+BODY;x.fillText("Todas as fontes no site:",80,H-140);x.fillStyle="#ffd166";x.font="700 34px "+BODY;x.fillText(SITE.replace(/^https?:\/\//,"").replace(/\/$/,""),80,H-85);
+      x.fillStyle="#d3203a";x.fillRect(0,H-230,W,8);x.fillStyle="#ffffff";x.font="700 38px "+BODY;x.fillText(kind==="cidade"?"Acompanhe a sua cidade no site:":"Todas as fontes no site:",80,H-140);x.fillStyle="#ffd166";x.font="700 34px "+BODY;x.fillText(SITE.replace(/^https?:\/\//,"").replace(/\/$/,""),80,H-85);
       return cv2;});
   }
   document.addEventListener("click",function(e){var b=e.target.closest("[data-story]");if(!b)return;var kind=b.getAttribute("data-story"),old=b.textContent;b.disabled=true;b.textContent="Gerando…";
-    storyCanvas(kind).then(function(c){c.toBlob(function(blob){var nome="paulistania-hoje-"+(kind==="placar"?"placar":"dia")+"-"+todayISO+".png";var file=null;try{file=new File([blob],nome,{type:"image/png"});}catch(err){}
+    storyCanvas(kind).then(function(c){c.toBlob(function(blob){var nome="paulistania-hoje-"+(kind==="cidade"&&cur?norm(cur.n).replace(/ /g,"-"):kind==="placar"?"placar":"dia")+"-"+todayISO+".png";var file=null;try{file=new File([blob],nome,{type:"image/png"});}catch(err){}
       if(file&&navigator.canShare&&navigator.canShare({files:[file]})){navigator.share({files:[file]}).catch(function(){});}
       else{var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=nome;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},2000);}
       b.disabled=false;b.textContent=old;},"image/png");}).catch(function(){b.disabled=false;b.textContent=old;});});
 
   /* contador de visitas (GoatCounter): cole aqui o código da sua conta, ex.: "paulistaniahoje" */
-  var CONTADOR="";
+  var CONTADOR="aranel";
   if(/^[a-z0-9-]+$/.test(CONTADOR)){var gc=document.createElement("script");gc.async=true;gc.src="https://gc.zgo.at/count.js";gc.setAttribute("data-goatcounter","https://"+CONTADOR+".goatcounter.com/count");document.head.appendChild(gc);}
 
   /* editor (só para quem edita o site) */
@@ -990,7 +1015,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
   function show(v){if(views.indexOf(v)<0)v="hoje";views.forEach(function(x){document.getElementById("v-"+x).hidden=(x!==v);});
     document.querySelectorAll("nav.tabs a").forEach(function(a){if(a.getAttribute("data-view")===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
     if(v==="cidade"){if(!cur)drawCity(byName["São Paulo"]);else requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:cur,focusRegion:true,label:false});});}}
-  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else if(/^[df]-/.test(h)){CASA=h.charAt(0)==="f"?"camara":"alesp";if(casaSel)drawCasa();curDep=(CASA==="camara"?FEDI:DEPI)[h.slice(2)]||null;show("deputados");if(curDep){drawDep(curDep);window.scrollTo({top:document.querySelector("nav.tabs").offsetTop});}}else{if(h==="deputados"){curDep=null;drawDeps();}show(h);}}
+  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else if(/^[df]-/.test(h)){CASA=h.charAt(0)==="f"?"camara":"alesp";if(casaSel)drawCasa();curDep=(CASA==="camara"?FEDI:DEPI)[h.slice(2)]||null;show("deputados");if(curDep){drawDep(curDep);window.scrollTo({top:document.querySelector("nav.tabs").offsetTop});}}else if(h==="votacoes"){CASA="camara";curDep=null;if(casaSel){drawCasa();drawDeps();}show("deputados");}else{if(h==="deputados"){curDep=null;drawDeps();}show(h);}}
   window.addEventListener("hashchange",route);
 
   /* dados ao vivo */
