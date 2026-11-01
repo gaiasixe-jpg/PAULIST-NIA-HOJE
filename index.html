@@ -255,6 +255,7 @@ td .ed button,.btn{font:700 13px var(--body);background:var(--ink);color:var(--p
 .pl{padding:10px 0;border-bottom:1px solid var(--rule)}
 .pl small{font:600 11px var(--mono);color:var(--muted)}
 .pl a{color:var(--ink);font-weight:600;text-decoration:none}.pl a:hover{text-decoration:underline}
+.gloss dt{font-weight:800;margin-top:12px}.gloss dd{margin:2px 0 0;color:var(--muted)}
 .rss{font:700 12.5px var(--body);color:var(--anun);text-decoration:none}.rss:hover{text-decoration:underline}
 .editor{background:var(--sheet);border:2px solid var(--red);border-radius:12px;padding:18px;margin-top:24px;display:grid;gap:10px}
 .editor h3{margin:0}
@@ -378,9 +379,10 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
 </section>
 
 <section class="view" id="v-deputados" aria-labelledby="h-deps" hidden>
-  <h2 class="sec-h" id="h-deps">Os deputados estaduais</h2>
-  <p class="sec-sub">Os 94 deputados da Assembleia Legislativa (Alesp): o que cada um apresentou nos últimos 12 meses e quais cidades mais aparecem nos seus pedidos. Quando os eleitos em 2026 tomarem posse, em março de 2027, esta lista passa a mostrá-los automaticamente.</p>
-  <div class="kwrow" style="margin-top:14px"><input class="kw" type="search" id="depQ" placeholder="Procure pelo nome ou pela cidade" aria-label="Procurar deputado"><select id="depP" aria-label="Partido"></select><select id="depO" aria-label="Ordenar"><option value="n">Ordem alfabética</option><option value="pl">Mais projetos de lei</option><option value="ind">Mais indicações</option></select></div>
+  <h2 class="sec-h" id="h-deps">Os deputados</h2>
+  <p class="sec-sub">Os deputados estaduais (Alesp) e federais de São Paulo (Câmara): o que cada um apresentou nos últimos 12 meses, quanto gastou da verba do gabinete e quais cidades mais aparecem nos seus pedidos. Quando os eleitos em 2026 tomarem posse, em março de 2027, esta lista passa a mostrá-los automaticamente.</p>
+  <div class="controls" id="casaSel" role="group" aria-label="Casa legislativa" style="margin-top:14px"></div>
+  <div class="kwrow" style="margin-top:6px"><input class="kw" type="search" id="depQ" placeholder="Procure pelo nome ou pela cidade" aria-label="Procurar deputado"><select id="depP" aria-label="Partido"></select><select id="depO" aria-label="Ordenar"><option value="n">Ordem alfabética</option><option value="pl">Mais projetos de lei</option><option value="ind">Mais indicações</option></select></div>
   <p class="arch-note" id="depNote">Carregando os dados da Alesp…</p>
   <div id="depOut"></div>
 </section>
@@ -433,6 +435,9 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
     <li>Anunciado não é entregue. Promessa só vira "cumprida" com prova.</li>
     <li>Erros são corrigidos em público, com a data da correção.</li>
   </ul>
+  <h3 id="entenda">Entenda os termos</h3>
+  <dl class="gloss"><dt>Decreto</dt><dd>Ordem assinada pelo governador ou pelo prefeito para regulamentar uma lei ou organizar a administração. Não precisa passar pela Assembleia ou pela Câmara.</dd><dt>Lei</dt><dd>Regra aprovada pelos deputados (ou vereadores) e sancionada pelo governador (ou prefeito). Vale para todos.</dd><dt>Lei Complementar</dt><dd>Lei que trata de temas que a Constituição exige aprovar com maioria maior, como regras do funcionalismo e da organização do Estado.</dd><dt>PEC</dt><dd>Proposta de Emenda à Constituição. Muda a própria Constituição e precisa de mais votos (três quintos) e de duas votações em cada casa.</dd><dt>Projeto de lei (PL)</dt><dd>Proposta de lei ainda em discussão. Ter um projeto apresentado não quer dizer que ele foi aprovado.</dd><dt>Indicação</dt><dd>Pedido de um deputado ao governo para fazer algo (uma obra, uma verba, um serviço). O governo não é obrigado a atender.</dd><dt>Requerimento</dt><dd>Pedido formal de um parlamentar: de informações a um órgão público, de uma audiência, de uma homenagem, entre outros.</dd><dt>Crédito suplementar</dt><dd>Decreto que reforça a verba de um órgão quando a prevista no Orçamento não basta. É comum e não significa dinheiro novo no caixa: o valor sai de outra rubrica ou do excesso de arrecadação.</dd><dt>LOA, LDO e PPA</dt><dd>As três leis do orçamento. O PPA planeja quatro anos, a LDO define as regras do ano seguinte e a LOA diz quanto será gasto em cada área.</dd><dt>Emenda parlamentar</dt><dd>Parte do Orçamento que cada deputado indica para uma cidade, obra ou entidade. Muitas são de execução obrigatória.</dd><dt>Verba de gabinete (cota parlamentar)</dt><dd>Dinheiro público que cada deputado pode usar para despesas do mandato: escritório, combustível, divulgação, viagens. Ele declara os gastos e a Câmara e a Alesp publicam.</dd><dt>Diário Oficial</dt><dd>Jornal oficial onde governo e prefeituras publicam decretos, leis, nomeações, contratos e licitações. Só vale depois de publicado.</dd></dl>
+
   
 </section>
 
@@ -762,9 +767,9 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       '<a class="paper search" href="'+g(m.n+" SP")+'&tbm=nws" target="_blank" rel="noopener"><b>Tudo sobre '+esc(m.n)+'</b><small>Busca de notícias de hoje em todos os jornais</small></a>'+
       '</div></div>';
     h+='<div class="btnrow"><a class="btn wab" href="'+esc(waLink(m.n+" no Paulistânia Hoje: notícias, decretos e as publicações oficiais da prefeitura.\n"+SITE+"#c-"+m.i))+'" target="_blank" rel="noopener">Compartilhar a página de '+esc(m.n)+'</a></div>';
-    var dc=(DEPS&&DEPS.por_cidade&&DEPS.por_cidade[m.n])||[];
-    if(dc.length){h+='<div class="official"><h3>Deputados de olho em '+esc(m.n)+'</h3><p>Quem mais citou a cidade em indicações, requerimentos e projetos na Alesp nos últimos 12 meses.</p><div class="olinks">'+
-      dc.map(function(x){var d=DEPI[x[0]];if(!d)return "";return '<a href="#d-'+esc(d.id)+'"><b>'+esc(d.n)+'</b><small>'+esc(d.p)+' · citou '+esc(m.n)+' '+(+x[1])+(x[1]>1?' vezes':' vez')+'</small></a>';}).join("")+'</div></div>';}
+    var dc=((DEPS&&DEPS.por_cidade&&DEPS.por_cidade[m.n])||[]).map(function(x){return [x[0],x[1],"d"];}).concat(((FEDS&&FEDS.por_cidade&&FEDS.por_cidade[m.n])||[]).map(function(x){return [x[0],x[1],"f"];}));
+    if(dc.length){h+='<div class="official"><h3>Deputados de olho em '+esc(m.n)+'</h3><p>Quem mais citou a cidade em pedidos e projetos na Alesp e na Câmara nos últimos 12 meses.</p><div class="olinks">'+
+      dc.map(function(x){var d=(x[2]==="f"?FEDI:DEPI)[x[0]];if(!d)return "";return '<a href="#'+x[2]+'-'+esc(d.id)+'"><b>'+esc(d.n)+'</b><small>'+(x[2]==="f"?"Federal":"Estadual")+' · '+esc(d.p)+' · citou '+esc(m.n)+' '+(+x[1])+(x[1]>1?' vezes':' vez')+'</small></a>';}).join("")+'</div></div>';}
     h+='<h2 class="sec-h" style="font-size:32px">Notícias e decretos com fonte</h2>';
     if(m.rec.length)h+='<p style="margin:6px 0 0"><a class="rss" href="data/rss/'+m.i+'.xml" target="_blank" rel="noopener">Assinar as notícias de '+esc(m.n)+' (RSS)</a></p>';
     h+=m.rec.length?'<div class="stories">'+m.rec.map(function(n){return storyHTML(n);}).join("")+'</div>':'<div class="empty" style="margin-top:12px">Ainda não há notícias ou decretos verificados sobre '+esc(m.n)+' na base. As publicações oficiais acima já estão disponíveis, e os próximos itens da cidade aparecem aqui assim que forem publicados.</div>';
@@ -837,35 +842,58 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
 
   var PLACAR="";
   document.getElementById("mailFix").href=mailLink("Paulistânia Hoje: correção ou denúncia","Cidade:\n\nO que aconteceu (ou o que está errado no site):\n\nLink, foto ou documento que comprova:\n\nPosso citar seu nome? (sim/não)\n");
-  /* deputados */
-  var DEPS=null,DEPI={},curDep=null;
-  var depQ=document.getElementById("depQ"),depP=document.getElementById("depP"),depO=document.getElementById("depO"),depOut=document.getElementById("depOut");
-  function loadDeps(){loadJSON("data/deputados.json").then(function(d){if(!d||!Array.isArray(d.deputados))return;DEPS=d;DEPI={};
-      d.deputados.forEach(function(x){x.id=String(x.id);x._k=norm(x.n+" "+x.p+" "+(x.base||[]).join(" ")+" "+(x.cid||[]).map(function(c){return c[0];}).join(" "));DEPI[x.id]=x;});
-      var ps=[];d.deputados.forEach(function(x){if(x.p&&ps.indexOf(x.p)<0)ps.push(x.p);});ps.sort();
-      var pv=depP.value;depP.innerHTML='<option value="">Todos os partidos</option>'+ps.map(function(p){return '<option>'+esc(p)+'</option>';}).join("");depP.value=pv;
-      document.getElementById("depNote").textContent="Fonte: dados abertos da Alesp. Proposituras registradas até "+fmt(d.dados_ate)+". Indicação é um pedido do deputado ao governo (obra, verba, serviço); não quer dizer que foi atendido.";
-      drawDeps();if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(hh.indexOf("d-")===0)route();}).catch(function(){document.getElementById("depNote").textContent="Os dados dos deputados ainda não foram coletados. Eles aparecem aqui depois da próxima coleta do robô.";});}
+  /* deputados: estaduais (Alesp) e federais (Câmara), com gastos de gabinete */
+  var DEPS=null,DEPI={},FEDS=null,FEDI={},GAS=null,curDep=null,CASA="alesp";
+  var depQ=document.getElementById("depQ"),depP=document.getElementById("depP"),depO=document.getElementById("depO"),depOut=document.getElementById("depOut"),casaSel=document.getElementById("casaSel");
+  var MESN=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
+  function brl(v){return "R$ "+(Math.round(+v||0)).toLocaleString("pt-BR");}
+  function prepDeps(d,idx){d.deputados.forEach(function(x){x.id=String(x.id);x._k=norm(x.n+" "+x.p+" "+(x.base||[]).join(" ")+" "+(x.cid||[]).map(function(c){return c[0];}).join(" "));idx[x.id]=x;});}
+  function gastoDe(x,casa){if(!GAS)return null;if(casa==="camara")return (GAS.camara&&GAS.camara.deps[x.id])||null;var m=String(x.u||"").match(/matricula=(\d+)/);return m&&GAS.alesp?GAS.alesp.deps[m[1]]||null:null;}
+  function lista(){return CASA==="camara"?(FEDS?FEDS.deputados:[]):(DEPS?DEPS.deputados:[]);}
+  function drawCasa(){casaSel.innerHTML=[["alesp","Estaduais (Alesp)"],["camara","Federais (Câmara)"]].map(function(c){return '<button class="chip" type="button" data-casa="'+c[0]+'" aria-pressed="'+(CASA===c[0])+'">'+c[1]+'</button>';}).join("");
+    var o=depO.value;depO.innerHTML='<option value="n">Ordem alfabética</option><option value="pl">Mais projetos de lei</option>'+(CASA==="alesp"?'<option value="ind">Mais indicações</option>':'')+'<option value="req">Mais requerimentos</option><option value="gasto">Mais gastos no gabinete</option>';depO.value=[].some.call(depO.options,function(x){return x.value===o;})?o:"n";
+    var ps=[];lista().forEach(function(x){if(x.p&&ps.indexOf(x.p)<0)ps.push(x.p);});ps.sort();var pv=depP.value;depP.innerHTML='<option value="">Todos os partidos</option>'+ps.map(function(p){return '<option>'+esc(p)+'</option>';}).join("");depP.value=ps.indexOf(pv)>=0?pv:"";
+    var d=CASA==="camara"?FEDS:DEPS,g=GAS&&(CASA==="camara"?GAS.camara:GAS.alesp);
+    document.getElementById("depNote").textContent=!d?"Os dados ainda não foram coletados. Eles aparecem aqui depois da próxima coleta do robô.":
+      (CASA==="camara"?"Deputados federais de São Paulo que exerceram mandato na Câmara (inclui suplentes que assumiram). Fonte: dados abertos da Câmara dos Deputados, propostas até "+fmt(d.dados_ate)+".":"Fonte: dados abertos da Alesp, proposituras registradas até "+fmt(d.dados_ate)+". Indicação é um pedido do deputado ao governo (obra, verba, serviço); não quer dizer que foi atendido.")+
+      (g&&g.ate_mes?" Gastos de gabinete de janeiro a "+MESN[g.ate_mes-1]+" de "+GAS.ano+".":"");}
+  casaSel.addEventListener("click",function(e){var b=e.target.closest("[data-casa]");if(!b)return;CASA=b.getAttribute("data-casa");curDep=null;if(/^[df]-/.test(location.hash.slice(1)))history.replaceState(null,"","#deputados");drawCasa();drawDeps();});
+  function loadDeps(){Promise.all([loadJSON("data/deputados.json").catch(function(){return null;}),loadJSON("data/federais.json").catch(function(){return null;}),loadJSON("data/gastos.json").catch(function(){return null;})]).then(function(r){
+      if(r[0]&&Array.isArray(r[0].deputados)){DEPS=r[0];DEPI={};prepDeps(DEPS,DEPI);}
+      if(r[1]&&Array.isArray(r[1].deputados)){FEDS=r[1];FEDI={};prepDeps(FEDS,FEDI);}
+      if(r[2]&&r[2].camara&&r[2].alesp)GAS=r[2];
+      drawCasa();drawDeps();if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(/^[df]-/.test(hh))route();});}
   function drawDeps(){
-    if(!DEPS)return;
     if(curDep){drawDep(curDep);return;}
     var q=norm(depQ.value),pp=depP.value,o=depO.value;
-    var l=DEPS.deputados.filter(function(x){return (!pp||x.p===pp)&&(!q||q.split(" ").every(function(w){return x._k.indexOf(w)>=0;}));});
-    if(o!=="n")l=l.slice().sort(function(a,b){return (b.tot[o]||0)-(a.tot[o]||0);});
-    depOut.innerHTML=l.length?'<div class="deps">'+l.map(function(x){return '<button class="dep" type="button" data-dep="'+esc(x.id)+'"><span class="pt">'+esc(x.p)+'</span><b>'+esc(x.n)+'</b><span class="mini"><span><strong>'+(+x.tot.pl||0)+'</strong> projetos</span><span><strong>'+(+x.tot.ind||0)+'</strong> indicações</span><span><strong>'+(+x.tot.req||0)+'</strong> requerimentos</span></span>'+(x.cid&&x.cid[0]?'<span class="more">Mais citada: '+esc(x.cid[0][0])+'</span>':'')+'</button>';}).join("")+'</div>':'<div class="empty" style="margin-top:14px">Nenhum deputado com esse filtro.</div>';
+    var l=lista().filter(function(x){return (!pp||x.p===pp)&&(!q||q.split(" ").every(function(w){return x._k.indexOf(w)>=0;}));});
+    var gt=function(x){var g=gastoDe(x,CASA);return g?g.t:0;};
+    if(o==="gasto")l=l.slice().sort(function(a,b){return gt(b)-gt(a);});else if(o!=="n")l=l.slice().sort(function(a,b){return (b.tot[o]||0)-(a.tot[o]||0);});
+    depOut.innerHTML=l.length?'<div class="deps">'+l.map(function(x){var g=gastoDe(x,CASA);return '<button class="dep" type="button" data-dep="'+esc(x.id)+'"><span class="pt">'+esc(x.p)+'</span><b>'+esc(x.n)+'</b><span class="mini"><span><strong>'+(+x.tot.pl||0)+'</strong> projetos</span>'+(CASA==="alesp"?'<span><strong>'+(+x.tot.ind||0)+'</strong> indicações</span>':'')+'<span><strong>'+(+x.tot.req||0)+'</strong> requerimentos</span></span>'+(g?'<span class="more">Gastos no ano: <strong style="color:var(--ink)">'+brl(g.t)+'</strong></span>':'')+(x.cid&&x.cid[0]?'<span class="more">Mais citada: '+esc(x.cid[0][0])+'</span>':'')+'</button>';}).join("")+'</div>':'<div class="empty" style="margin-top:14px">Nenhum deputado com esse filtro.</div>';
   }
+  function gastosHTML(x,casa){var g=gastoDe(x,casa);if(!g)return "";var G=casa==="camara"?GAS.camara:GAS.alesp;
+    var todos=Object.keys(G.deps).map(function(k){return G.deps[k].t;}).sort(function(a,b){return b-a;});var pos=todos.indexOf(g.t)+1;var max=g.cat.length?g.cat[0][1]:1;
+    var h='<h4>Gastos do gabinete em '+GAS.ano+' (até '+MESN[(G.ate_mes||1)-1]+')</h4><p style="margin:0 0 8px"><strong style="font-size:22px">'+brl(g.t)+'</strong> <span class="more">· '+pos+'º que mais gastou entre '+todos.length+(casa==="camara"?' deputados federais de SP':' deputados estaduais')+'</span></p>';
+    h+='<div class="regbars" style="max-width:640px">'+g.cat.map(function(c){return '<div class="regbar" style="cursor:default"><span>'+esc(c[0])+'</span><b>'+brl(c[1])+'</b><span class="bar"><i style="width:'+Math.max(2,Math.round(c[1]/max*100))+'%"></i></span></div>';}).join("")+'</div>';
+    if(g.forn&&g.forn.length)h+='<p class="more" style="margin:10px 0 4px">Quem mais recebeu:</p><ul style="margin:0">'+g.forn.map(function(f){return '<li>'+esc(f[0])+' · '+brl(f[1])+'</li>';}).join("")+'</ul>';
+    var fu=safeUrl(G.fonte);h+='<p class="more" style="margin-top:8px">Dinheiro público da verba de gabinete (cota parlamentar), declarado pelo próprio deputado. Gasto alto não é irregularidade por si só, mas merece explicação.'+(fu?' <a href="'+esc(fu)+'" target="_blank" rel="noopener">Dados oficiais</a>':'')+'</p>';
+    return h;}
   function drawDep(x){
-    var h='<p style="margin:14px 0 0"><a class="readlink" href="#deputados">← Todos os deputados</a></p><div class="depd"><span class="pt more" style="font:600 12px var(--mono);text-transform:uppercase">'+esc(x.p)+'</span><h3>'+esc(x.n)+'</h3>';
-    h+='<div class="depnums">'+[["pl","Projetos de lei e PECs","var(--obra)"],["ind","Indicações","var(--anun)"],["req","Requerimentos","var(--dec)"],["moc","Moções","var(--ok)"]].map(function(k){return '<div style="--c:'+k[2]+'"><b>'+(+x.tot[k[0]]||0)+'</b><span>'+k[1]+'</span></div>';}).join("")+'</div><p class="more" style="margin:0">Nos últimos 12 meses, até '+fmt(DEPS.dados_ate)+'.</p>';
+    var casa=FEDI[x.id]===x?"camara":"alesp",pre=casa==="camara"?"f-":"d-",onde=casa==="camara"?"Câmara":"Alesp";
+    var h='<p style="margin:14px 0 0"><a class="readlink" href="#deputados">← Todos os deputados</a></p><div class="depd"><span class="pt more" style="font:600 12px var(--mono);text-transform:uppercase">'+esc(x.p)+' · deputado(a) '+(casa==="camara"?"federal":"estadual")+'</span><h3>'+esc(x.n)+'</h3>';
+    var nums=casa==="camara"?[["pl","Projetos de lei e PECs","var(--obra)"],["req","Requerimentos e indicações","var(--dec)"]]:[["pl","Projetos de lei e PECs","var(--obra)"],["ind","Indicações","var(--anun)"],["req","Requerimentos","var(--dec)"],["moc","Moções","var(--ok)"]];
+    var D=casa==="camara"?FEDS:DEPS;
+    h+='<div class="depnums">'+nums.map(function(k){return '<div style="--c:'+k[2]+'"><b>'+(+x.tot[k[0]]||0)+'</b><span>'+k[1]+'</span></div>';}).join("")+'</div><p class="more" style="margin:0">Nos últimos 12 meses, até '+fmt(D.dados_ate)+'.</p>';
+    h+=gastosHTML(x,casa);
     if(x.base&&x.base.length)h+='<h4>Base eleitoral (informada à Alesp)</h4><ul>'+x.base.map(function(b){return '<li>'+esc(b)+'</li>';}).join("")+'</ul>';
     if(x.areas&&x.areas.length)h+='<h4>Áreas de atuação</h4><p style="margin:0">'+x.areas.map(esc).join(" · ")+'</p>';
-    if(x.cid&&x.cid.length)h+='<h4>Cidades que mais aparecem nos seus pedidos</h4><div class="cities" style="font-size:14px">'+x.cid.map(function(c){var m=byName[c[0]];return (m?'<button type="button" data-city="'+m.i+'">'+esc(c[0])+'</button>':esc(c[0]))+' ('+(+c[1])+')';}).join(" · ")+'</div>';
+    if(x.cid&&x.cid.length)h+='<h4>Cidades que mais aparecem nos seus '+(casa==="camara"?"projetos":"pedidos")+'</h4><div class="cities" style="font-size:14px">'+x.cid.map(function(c){var m=byName[c[0]];return (m?'<button type="button" data-city="'+m.i+'">'+esc(c[0])+'</button>':esc(c[0]))+' ('+(+c[1])+')';}).join(" · ")+'</div>';
     h+='<h4>Últimos projetos apresentados</h4>'+((x.pls&&x.pls.length)?x.pls.map(function(p){var u=safeUrl(p.u);return '<div class="pl"><small>'+esc(p.s)+' · '+fmt(p.d)+'</small><br>'+(u?'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(p.e)+'</a>':esc(p.e))+'</div>';}).join(""):'<p class="more">Nenhum projeto de lei no período.</p>');
-    var pu=safeUrl(x.u);h+='<div class="btnrow" style="margin-top:16px">'+(pu?'<a class="btn" href="'+esc(pu)+'" target="_blank" rel="noopener">Página oficial na Alesp</a>':'')+'<a class="btn wab" href="'+esc(waLink(x.n+" ("+x.p+") na Alesp: projetos, pedidos e cidades que mais cita.\n"+SITE+"#d-"+x.id))+'" target="_blank" rel="noopener">Compartilhar</a></div></div>';
+    var pu=safeUrl(x.u);h+='<div class="btnrow" style="margin-top:16px">'+(pu?'<a class="btn" href="'+esc(pu)+'" target="_blank" rel="noopener">Página oficial na '+onde+'</a>':'')+'<a class="btn wab" href="'+esc(waLink(x.n+" ("+x.p+") na "+onde+": projetos, gastos do gabinete e cidades que mais cita.\n"+SITE+"#"+pre+x.id))+'" target="_blank" rel="noopener">Compartilhar</a></div></div>';
     depOut.innerHTML=h;
   }
   [depQ,depP,depO].forEach(function(el){el.addEventListener(el===depQ?"input":"change",function(){curDep=null;drawDeps();});});
-  depOut.addEventListener("click",function(e){var b=e.target.closest("[data-dep]");if(b){location.hash="d-"+b.getAttribute("data-dep");}});
+  depOut.addEventListener("click",function(e){var b=e.target.closest("[data-dep]");if(b){location.hash=(CASA==="camara"?"f-":"d-")+b.getAttribute("data-dep");}});
 
   /* imagens para Stories */
   function wrapText(ctx,t,maxW){var w=String(t).split(/\s+/),lines=[],l="";w.forEach(function(x){var tt=l?l+" "+x:x;if(ctx.measureText(tt).width>maxW&&l){lines.push(l);l=x;}else l=tt;});if(l)lines.push(l);return lines;}
@@ -935,7 +963,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
   function show(v){if(views.indexOf(v)<0)v="hoje";views.forEach(function(x){document.getElementById("v-"+x).hidden=(x!==v);});
     document.querySelectorAll("nav.tabs a").forEach(function(a){if(a.getAttribute("data-view")===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
     if(v==="cidade"){if(!cur)drawCity(byName["São Paulo"]);else requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:cur,focusRegion:true,label:false});});}}
-  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else if(h.indexOf("d-")===0){curDep=DEPI[h.slice(2)]||null;show("deputados");if(curDep){drawDep(curDep);window.scrollTo({top:document.querySelector("nav.tabs").offsetTop});}}else{if(h==="deputados"){curDep=null;drawDeps();}show(h);}}
+  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else if(/^[df]-/.test(h)){CASA=h.charAt(0)==="f"?"camara":"alesp";if(casaSel)drawCasa();curDep=(CASA==="camara"?FEDI:DEPI)[h.slice(2)]||null;show("deputados");if(curDep){drawDep(curDep);window.scrollTo({top:document.querySelector("nav.tabs").offsetTop});}}else{if(h==="deputados"){curDep=null;drawDeps();}show(h);}}
   window.addEventListener("hashchange",route);
 
   /* dados ao vivo */
