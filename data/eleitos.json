@@ -475,7 +475,29 @@
    "nome": "Luna Zarattini",
    "partido": "PT",
    "votos": 233733,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "luna-zarat01",
+     "area": "Impostos",
+     "t": "Defender a taxação das grandes fortunas",
+     "meta": "Sem número",
+     "u": "https://ncnews.com.br/2026/10/20/luna-zarattini-nc-news-entrevista/"
+    },
+    {
+     "id": "luna-zarat02",
+     "area": "Trabalho",
+     "t": "Defender a redução da jornada de trabalho",
+     "meta": "Sem número",
+     "u": "https://ncnews.com.br/2026/10/20/luna-zarattini-nc-news-entrevista/"
+    },
+    {
+     "id": "luna-zarat03",
+     "area": "Economia",
+     "t": "Ser contra privatizações",
+     "meta": "Sem número",
+     "u": "https://ncnews.com.br/2026/10/20/luna-zarattini-nc-news-entrevista/"
+    }
+   ]
   },
   {
    "id": "marina-helena",
@@ -567,7 +589,29 @@
    "nome": "Guilherme Piai",
    "partido": "Republicanos",
    "votos": 182328,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "gpiai01",
+     "area": "Agro",
+     "t": "Buscar investimentos para a agroindústria do Oeste Paulista",
+     "meta": "Sem número",
+     "u": "https://www.encontrapresidenteprudente.com/eleito-deputado-federal-guilherme-piai-promete-projetos-estruturais-e-investimentos-na-agroindustria/"
+    },
+    {
+     "id": "gpiai02",
+     "area": "Economia",
+     "t": "Trazer projetos estruturais para a economia do Oeste Paulista, incluindo turismo",
+     "meta": "Sem número",
+     "u": "https://www.encontrapresidenteprudente.com/eleito-deputado-federal-guilherme-piai-promete-projetos-estruturais-e-investimentos-na-agroindustria/"
+    },
+    {
+     "id": "gpiai03",
+     "area": "Saúde",
+     "t": "Buscar melhorias na saúde da região",
+     "meta": "Sem número",
+     "u": "https://www.encontrapresidenteprudente.com/eleito-deputado-federal-guilherme-piai-promete-projetos-estruturais-e-investimentos-na-agroindustria/"
+    }
+   ]
   },
   {
    "id": "igor-soares",
@@ -666,14 +710,58 @@
    "nome": "João Cury",
    "partido": "MDB",
    "votos": 130915,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "joao-cury01",
+     "area": "Saúde",
+     "t": "Ampliar o acesso à saúde, com foco na atenção primária e na redução das filas (segundo perfil do veículo)",
+     "meta": "Sem número",
+     "u": "https://www.encontrabotucatu.com/eleicoes-2026-ficha-de-joao-cury-mdb/"
+    },
+    {
+     "id": "joao-cury02",
+     "area": "Segurança",
+     "t": "Aumentar o efetivo policial nas áreas mais vulneráveis e criar programas de prevenção (segundo perfil do veículo)",
+     "meta": "Sem número",
+     "u": "https://www.encontrabotucatu.com/eleicoes-2026-ficha-de-joao-cury-mdb/"
+    }
+   ]
   },
   {
    "id": "luiz-fernando-machado",
    "nome": "Luiz Fernando Machado",
    "partido": "PL",
    "votos": 129004,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "luiz-ferna01",
+     "area": "Saúde",
+     "t": "Ampliar a oferta de leitos do SUS na região de Jundiaí",
+     "meta": "Sem número",
+     "u": "https://www.tvsmais.com.br/luiz-fernando-machado-prioriza-saude-e-seguranca/"
+    },
+    {
+     "id": "luiz-ferna02",
+     "area": "Segurança",
+     "t": "Defender leis penais mais duras para reincidentes",
+     "meta": "Sem número",
+     "u": "https://tribunadejundiai.com.br/politica/eleicoes-2026/candidatos-jundiai-propostas-seguranca-publica-regiao-metropolitana/"
+    },
+    {
+     "id": "luiz-ferna03",
+     "area": "Segurança",
+     "t": "Buscar verba federal para equipamentos, monitoramento e integração das forças de segurança da região, interligando as Guardas Municipais",
+     "meta": "Sem número",
+     "u": "https://tribunadejundiai.com.br/politica/eleicoes-2026/candidatos-jundiai-propostas-seguranca-publica-regiao-metropolitana/"
+    },
+    {
+     "id": "luiz-ferna04",
+     "area": "Infância",
+     "t": "Levar ao Congresso propostas inspiradas no modelo Cidade das Crianças de Jundiaí",
+     "meta": "Sem número",
+     "u": "https://tribunadejundiai.com.br/politica/eleicoes-2026/luiz-fernando-machado-cidade-das-criancas-congresso"
+    }
+   ]
   },
   {
    "id": "arlindo-chinaglia",
@@ -716,7 +804,36 @@
    "nome": "Edinho Silva",
    "partido": "PT",
    "votos": 115341,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "edinho-sil01",
+     "area": "Saúde",
+     "t": "Ampliar o investimento do SUS em média e alta complexidade e reduzir a espera por consultas, exames e cirurgias",
+     "meta": "Sem número",
+     "u": "https://jornaldeararaquara.com.br/eleicoes-2026-entrevistas-ja-edinho-silva/"
+    },
+    {
+     "id": "edinho-sil02",
+     "area": "Educação",
+     "t": "Defender escola pública em tempo integral para todos",
+     "meta": "Sem número",
+     "u": "https://jornaldeararaquara.com.br/eleicoes-2026-entrevistas-ja-edinho-silva/"
+    },
+    {
+     "id": "edinho-sil03",
+     "area": "Economia",
+     "t": "Lutar para que Araraquara tenha um datacenter",
+     "meta": "Sem número",
+     "u": "https://jornaldeararaquara.com.br/eleicoes-2026-entrevistas-ja-edinho-silva/"
+    },
+    {
+     "id": "edinho-sil04",
+     "area": "Economia",
+     "t": "Atrair investimentos de indústria, ciência e tecnologia para o interior",
+     "meta": "Sem número",
+     "u": "https://jornaldeararaquara.com.br/eleicoes-2026-entrevistas-ja-edinho-silva/"
+    }
+   ]
   },
   {
    "id": "nilto-tatto",
@@ -933,7 +1050,29 @@
    "nome": "Sônia Guajajara",
    "partido": "PSOL",
    "votos": 54207,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "sonia-guaj01",
+     "area": "Meio ambiente",
+     "t": "Defender a justiça climática",
+     "meta": "Sem número",
+     "u": "https://periferiaemmovimento.com.br/eleicoes02102026deputado/"
+    },
+    {
+     "id": "sonia-guaj02",
+     "area": "Habitação",
+     "t": "Defender políticas de habitação",
+     "meta": "Sem número",
+     "u": "https://periferiaemmovimento.com.br/eleicoes02102026deputado/"
+    },
+    {
+     "id": "sonia-guaj03",
+     "area": "Transporte",
+     "t": "Defender a tarifa zero no transporte",
+     "meta": "Sem número",
+     "u": "https://periferiaemmovimento.com.br/eleicoes02102026deputado/"
+    }
+   ]
   }
  ],
  "deputados_estaduais": [
@@ -1008,7 +1147,36 @@
    "nome": "Carlos Giannazi",
    "partido": "PSOL",
    "votos": 367861,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "carlos-gia01",
+     "area": "Servidores",
+     "t": "Garantir o pagamento retroativo dos 583 dias de congelamento aos servidores",
+     "meta": "Sem número",
+     "u": "https://carlosgiannazi.com.br/"
+    },
+    {
+     "id": "carlos-gia02",
+     "area": "Servidores",
+     "t": "Aprovar a volta das faltas abonadas para os servidores estaduais (PLC 32/23)",
+     "meta": "Sem número",
+     "u": "https://carlosgiannazi.com.br/"
+    },
+    {
+     "id": "carlos-gia03",
+     "area": "Aposentados",
+     "t": "Devolver aos aposentados os valores descontados (PLC 9/23)",
+     "meta": "Sem número",
+     "u": "https://carlosgiannazi.com.br/"
+    },
+    {
+     "id": "carlos-gia04",
+     "area": "Servidores",
+     "t": "Defender concursos públicos e a convocação dos aprovados",
+     "meta": "Sem número",
+     "u": "https://carlosgiannazi.com.br/"
+    }
+   ]
   },
   {
    "id": "paula-da-bancada-feminista",
@@ -1093,7 +1261,29 @@
    "nome": "Luiza Erundina",
    "partido": "PSOL",
    "votos": 169567,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "luiza-erun01",
+     "area": "Transporte",
+     "t": "Defender tarifa zero e passe livre no transporte público",
+     "meta": "Sem número",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/com-91-anos-erundina-e-deputada-estadual-mais-velha-eleita-em-2026"
+    },
+    {
+     "id": "luiza-erun02",
+     "area": "Mulheres",
+     "t": "Combater a violência contra mulheres, crianças e adolescentes",
+     "meta": "Sem número",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/com-91-anos-erundina-e-deputada-estadual-mais-velha-eleita-em-2026"
+    },
+    {
+     "id": "luiza-erun03",
+     "area": "Democracia",
+     "t": "Defender participação popular e transparência no controle dos gastos",
+     "meta": "Sem número",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/com-91-anos-erundina-e-deputada-estadual-mais-velha-eleita-em-2026"
+    }
+   ]
   },
   {
    "id": "delegado-olim",
@@ -1583,7 +1773,29 @@
    "nome": "João Paulo",
    "partido": "PL",
    "votos": 76371,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "jpaulo-pl01",
+     "area": "Segurança",
+     "t": "Expandir o programa Muralha Paulista na região de Jundiaí, com rede regional de leitura de placas",
+     "meta": "Sem número",
+     "u": "https://tribunadejundiai.com.br/politica/eleicoes-2026/candidatos-jundiai-propostas-seguranca-publica-regiao-metropolitana/"
+    },
+    {
+     "id": "jpaulo-pl02",
+     "area": "Segurança",
+     "t": "Buscar na Alesp verbas específicas para a região de Jundiaí e Itatiba",
+     "meta": "Sem número",
+     "u": "https://tribunadejundiai.com.br/politica/eleicoes-2026/candidatos-jundiai-propostas-seguranca-publica-regiao-metropolitana/"
+    },
+    {
+     "id": "jpaulo-pl03",
+     "area": "Mulheres",
+     "t": "Levar à região as ferramentas do SP Mulher, com botão do pânico e monitoramento de agressores",
+     "meta": "Sem número",
+     "u": "https://tribunadejundiai.com.br/politica/eleicoes-2026/candidatos-jundiai-propostas-seguranca-publica-regiao-metropolitana/"
+    }
+   ]
   },
   {
    "id": "camila-godoi",
@@ -1705,7 +1917,36 @@
    "nome": "Henrique Krigner",
    "partido": "Novo",
    "votos": 66512,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "henrique-k01",
+     "area": "Impostos",
+     "t": "Propor que imposto que não mostrar resultado em 2 anos seja cortado",
+     "meta": "2 anos",
+     "u": "https://www.krigner.com.br/"
+    },
+    {
+     "id": "henrique-k02",
+     "area": "Segurança",
+     "t": "Dar proteção jurídica para a atuação dos policiais",
+     "meta": "Sem número",
+     "u": "https://www.krigner.com.br/"
+    },
+    {
+     "id": "henrique-k03",
+     "area": "Segurança",
+     "t": "Aumentar o investimento em inteligência e tecnologia da polícia",
+     "meta": "Sem número",
+     "u": "https://www.krigner.com.br/"
+    },
+    {
+     "id": "henrique-k04",
+     "area": "Educação",
+     "t": "Fortalecer as escolas cívico-militares",
+     "meta": "Sem número",
+     "u": "https://www.krigner.com.br/"
+    }
+   ]
   },
   {
    "id": "gilmaci-santos",
