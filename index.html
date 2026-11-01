@@ -208,6 +208,21 @@ td .ed button,.btn{font:700 13px var(--body);background:var(--ink);color:var(--p
 .prose h3{font-family:var(--display);font-weight:800;font-size:24px;text-transform:uppercase;margin:28px 0 6px}
 .note{display:flex;gap:12px;background:var(--anun-bg);border-radius:12px;padding:14px 16px;margin-top:20px;font-size:14px}
 .note b{color:var(--anun)}
+.acts{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+.wa,.fix{font:700 12.5px var(--body);text-decoration:none;display:inline-flex;align-items:center;gap:5px}
+.wa{color:var(--ok)}.fix{color:var(--muted)}
+.wa:hover,.fix:hover{text-decoration:underline}
+.wa svg{width:14px;height:14px;fill:currentColor}
+.btnrow{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0}
+.btn.alt{background:var(--sheet);color:var(--ink);border:1.5px solid var(--ink)}
+.btn.wab{background:var(--ok);color:#fff}
+.script{white-space:pre-wrap;background:var(--sheet);border:1px solid var(--rule);border-left:4px solid var(--red);border-radius:10px;padding:16px 18px;font:15px/1.6 var(--body);margin:8px 0 0}
+.who{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:18px 20px;margin-top:10px}
+.who p{margin:0 0 10px}
+.contact{background:var(--flag);color:var(--flag-ink);border-radius:12px;padding:18px 20px;margin-top:10px}
+.contact p{margin:0 0 12px;color:var(--flag-muted)}
+.contact .btn{background:var(--red);color:var(--red-ink)}
+.btn{text-decoration:none;display:inline-block}
 .editor{background:var(--sheet);border:2px solid var(--red);border-radius:12px;padding:18px;margin-top:24px;display:grid;gap:10px}
 .editor h3{margin:0}
 .editor .row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
@@ -263,7 +278,7 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
   <a href="#cidade" data-view="cidade">Minha cidade</a>
   <a href="#regioes" data-view="regioes">Regiões</a>
   <a href="#promessas" data-view="promessas">Promessas</a>
-  <a href="#sobre" data-view="sobre">Como funciona</a>
+  <a href="#sobre" data-view="sobre">Sobre</a>
 </div></nav>
 
 <main><div class="wrap">
@@ -299,7 +314,7 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
       </div>
       <div class="panel">
         <h4>Achou um erro?</h4>
-        <p style="margin:0;font-size:14px">Aqui a gente se corrige em público. Mande a correção com a fonte nos comentários do canal e ela entra com data.</p>
+        <p style="margin:0;font-size:14px">Aqui a gente se corrige em público. Mande a correção com a fonte e ela entra com data.</p><a class="btn" id="fixPanel" href="#sobre-contato">Mandar correção ou denúncia</a>
       </div>
     </aside>
   </div>
@@ -324,6 +339,7 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
   <h2 class="sec-h" id="h-prom">O placar das promessas</h2>
   <p class="sec-sub">Os compromissos do governador Tarcísio de Freitas para 2027–2030, do plano de governo e das falas de campanha. Quando um deles for cumprido, ele muda de cor aqui, com a prova ao lado.</p>
   <div class="score" id="score"></div>
+  <div class="btnrow"><a class="btn wab" id="promShare" href="#" target="_blank" rel="noopener">Compartilhar o placar</a><button class="btn alt" type="button" id="promCopy">Copiar resumo para vídeo</button></div>
   <div class="progress" id="progress" aria-hidden="true"></div>
   <div class="tablewrap"><table>
     <thead><tr><th>Promessa</th><th>Meta</th><th>Situação</th><th>Fonte</th></tr></thead>
@@ -333,10 +349,23 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
 </section>
 
 <section class="view prose" id="v-sobre" aria-labelledby="h-sobre" hidden>
-  <h2 class="sec-h" id="h-sobre">Como funciona</h2>
+  <h2 class="sec-h" id="h-sobre">Sobre o Paulistânia Hoje</h2>
+  <h3>Quem faz</h3>
+  <div class="who">
+    <p>O Paulistânia Hoje nasceu no interior de São Paulo, depois das eleições de 2026. Acompanhar a campanha foi um aprendizado: ficou claro que quase ninguém mostra o que o governo do estado faz, de fato, em cada cidade, e menos ainda se o que foi prometido está sendo cumprido.</p>
+    <p>O foco daqui é um só: o estado de São Paulo e os seus 645 municípios. Não é jornal de partido. É um lugar para conferir com fonte, cobrar o que foi prometido e corrigir em público quando eu errar.</p>
+    <p style="margin:0">O conteúdo também sai em vídeo nas redes do Paulistânia Hoje.</p>
+  </div>
+  <h3 id="sobre-contato">Correções e denúncias</h3>
+  <div class="contact">
+    <p>Viu um erro, uma obra parada, um decreto que ninguém explicou ou uma promessa que não saiu do papel na sua cidade? Me mande, de preferência com o link ou a foto que comprova. Toda correção publicada entra com data.</p>
+    <div class="btnrow" style="margin:0"><a class="btn" id="mailFix" href="#">Mandar por e-mail</a></div>
+    <p class="more" style="margin:10px 0 0;color:var(--flag-muted)">Seu nome só aparece no site se você autorizar.</p>
+  </div>
+  <h3>Como funciona</h3>
   <p>O Paulistânia Hoje reúne, num lugar só, o que acontece na política do estado e em cada um dos 645 municípios: notícias, decretos, investimentos e promessas. Cada informação tem data e link para a fonte original.</p>
   <h3>Como o site se atualiza</h3>
-  <p>De hora em hora, um robô lê as notícias publicadas pelos jornais de São Paulo e das regiões do estado e traz para cá o título, a data, o trecho que o próprio jornal publicou e o link para a matéria completa. A classificação por tema, situação e cidade é automática e pode errar; a fonte é sempre o jornal. Itens com resumo próprio são cadastrados pela editora do site. A página se atualiza sozinha a cada 10 minutos.</p>
+  <p>De hora em hora, um robô lê as notícias publicadas pelos jornais de São Paulo e das regiões do estado e traz para cá o título, a data, o trecho que o próprio jornal publicou e o link para a matéria completa. Os decretos e leis do governo do estado vêm da base oficial de legislação da Alesp, que registra o que sai no Diário Oficial. A classificação por tema, situação e cidade é automática e pode errar; a fonte é sempre o jornal. Itens com resumo próprio são cadastrados pela editora do site. A página se atualiza sozinha a cada 10 minutos.</p>
   <h3>Onde estão as publicações das prefeituras</h3>
   <ul>
     <li><strong>Diário Oficial do município:</strong> decretos, nomeações, contratos e licitações.</li>
@@ -541,13 +570,21 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     var shown=list.slice(0,max).map(function(c){return byName[c]?'<button type="button" data-city="'+byName[c].i+'">'+esc(c)+'</button>':esc(c);}).join(", ");
     return shown+(list.length>max?' <span>e mais '+(list.length-max)+'</span>':'');
   }
+  var SITE=location.href.split("#")[0].split("?")[0];
+  var MAIL="aranellin@gmail.com";
+  var WAICO='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.3-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6a2.7 2.7 0 0 0 1.8-1.2 2.2 2.2 0 0 0 .2-1.2c-.1-.1-.3-.2-.5-.3z"/></svg>';
+  function waLink(texto){return "https://wa.me/?text="+encodeURIComponent(texto);}
+  function mailLink(assunto,corpo){return "mailto:"+MAIL+"?subject="+encodeURIComponent(assunto)+"&body="+encodeURIComponent(corpo);}
+  function shareStory(n){return waLink(n.t+"\n"+n.u+"\n\nVi no Paulistânia Hoje: "+SITE);}
+  function fixStory(n){return mailLink("Correção: "+n.t.slice(0,80),"Notícia: "+n.t+"\nLink: "+n.u+"\n\nO que está errado:\n\nFonte que comprova (link):\n");}
+  function acts(n,read){return '<div class="acts">'+read+'<a class="wa" href="'+esc(shareStory(n))+'" target="_blank" rel="noopener">'+WAICO+'Compartilhar</a><a class="fix" href="'+esc(fixStory(n))+'">Corrigir</a></div>';}
   function isNew(n){return n.live&&n.added&&(Date.now()-n.added)<36*3600e3;}
   function storyHTML(n,lead){
     var by='<div class="byline">'+(isNew(n)?'<span class="tag t-novo">Novo</span>':'')+'<span class="tag t-'+n.s+'">'+LBL[n.s]+'</span><time>'+fmt(n.d)+'</time><span>'+esc(n.tema)+'</span><span>Fonte: '+esc(n.src)+'</span>'+(n.auto?'<span>· trecho do jornal, coletado automaticamente</span>':'')+'</div>';
     var h='<h3><a class="hl" href="'+esc(n.u)+'" target="_blank" rel="noopener">'+esc(n.t)+'</a></h3>';
     var cities='<div class="cities">'+cityBtns(n.c)+'</div>';
     var read='<a class="readlink" href="'+esc(n.u)+'" target="_blank" rel="noopener">'+(n.s==="decreto"?"Ler na íntegra →":"Ler a reportagem →")+'</a>';
-    return '<article class="'+(lead?"lead-story":"story")+'">'+by+h+'<p>'+esc(n.p)+'</p>'+cities+read+'</article>';
+    return '<article class="'+(lead?"lead-story":"story")+'">'+by+h+'<p>'+esc(n.p)+'</p>'+cities+acts(n,read)+'</article>';
   }
   function drawWire(){document.getElementById("wire").innerHTML=N.slice(0,10).map(function(n){return '<a href="'+esc(n.u)+'" target="_blank" rel="noopener"><time>'+fmt(n.d)+'</time>'+esc(n.t)+'</a>';}).join("");}
 
@@ -580,7 +617,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     df.innerHTML=opts.map(function(o){return '<button class="chip" type="button" data-dec="'+o+'" aria-pressed="'+(o===st.dec)+'">'+(o==="Todos"?"Todos":o==="Estado"?"Governo do estado":"Prefeituras")+'</button>';}).join("");
     var list=N.filter(function(n){return n.s==="decreto"&&(st.dec==="Todos"||n.org===st.dec);});
     document.getElementById("decList").innerHTML=list.length?list.map(function(n){
-      return '<article class="dec"><div class="num">'+esc(n.num||"Decreto")+'<small>'+esc(n.org==="Prefeitura"?"Prefeitura":"Governo do estado")+' · '+fmt(n.d)+'</small></div><div style="min-width:0">'+(isNew(n)?'<span class="tag t-novo">Novo</span> ':'')+'<h3>'+esc(n.t)+'</h3><p>'+esc(n.p)+'</p><div class="cities" style="margin-bottom:8px">'+cityBtns(n.c,8)+'</div><a class="readlink" href="'+esc(n.u)+'" target="_blank" rel="noopener">Ler na íntegra →</a></div></article>';
+      return '<article class="dec"><div class="num">'+esc(n.num||"Decreto")+'<small>'+esc(n.org==="Prefeitura"?"Prefeitura":"Governo do estado")+' · '+fmt(n.d)+'</small></div><div style="min-width:0">'+(isNew(n)?'<span class="tag t-novo">Novo</span> ':'')+'<h3>'+esc(n.t)+'</h3><p>'+esc(n.p)+'</p><div class="cities" style="margin-bottom:8px">'+cityBtns(n.c,8)+'</div>'+acts(n,'<a class="readlink" href="'+esc(n.u)+'" target="_blank" rel="noopener">Ler na íntegra →</a>')+'</div></article>';
     }).join(""):'<div class="empty">Nenhum decreto com esse filtro ainda.</div>';
   }
   df.addEventListener("click",function(e){var b=e.target.closest("[data-dec]");if(!b)return;st.dec=b.getAttribute("data-dec");drawDecs();});
@@ -659,12 +696,51 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       pp.reg.map(function(p){return '<a class="paper" href="'+p[1]+'" target="_blank" rel="noopener"><b>'+esc(p[0])+'</b><small>Jornal da região · '+esc(p[2])+'</small></a>';}).join("")+
       '<a class="paper search" href="'+g(m.n+" SP")+'&tbm=nws" target="_blank" rel="noopener"><b>Tudo sobre '+esc(m.n)+'</b><small>Busca de notícias de hoje em todos os jornais</small></a>'+
       '</div></div>';
+    h+='<div class="official"><h3>'+esc(m.n)+' em 1 minuto</h3><p>Um roteiro curto, montado com as notícias e atos mais recentes da cidade, para gravar ou mandar no grupo. Confira as fontes antes de gravar.</p>'+
+      '<div class="btnrow"><button class="btn" type="button" id="mk1min">Montar o roteiro</button><a class="btn wab" href="'+esc(waLink(m.n+" no Paulistânia Hoje: notícias, decretos e as publicações oficiais da prefeitura.\n"+SITE+"#c-"+m.i))+'" target="_blank" rel="noopener">Compartilhar a página de '+esc(m.n)+'</a></div><div id="oneMin"></div></div>';
     h+='<h2 class="sec-h" style="font-size:32px">Notícias e decretos com fonte</h2>';
     h+=m.rec.length?'<div class="stories">'+m.rec.map(function(n){return storyHTML(n);}).join("")+'</div>':'<div class="empty" style="margin-top:12px">Ainda não há notícias ou decretos verificados sobre '+esc(m.n)+' na base. As publicações oficiais acima já estão disponíveis, e os próximos itens da cidade aparecem aqui assim que forem publicados.</div>';
     document.getElementById("cityOut").innerHTML=h;
     drawMap(cv,mapOpts());
     requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:m,focusRegion:true,label:false});});
   }
+  function roteiro1min(m){
+    var lim=new Date(Date.now()-30*864e5).toISOString().slice(0,10);
+    var rec=m.rec.filter(function(n){return n.d>=lim;});
+    var ordem={decreto:0,entregue:1,obra:2,anunciado:3,alerta:4,fato:5};
+    var peso=function(n){return ordem[n.s]*10+({"Segurança":6,"Meio ambiente":4,"Geral":5}[n.tema]||0);};var top=rec.slice().sort(function(a,b){return (peso(a)-peso(b))||(a.d<b.d?1:-1);}).slice(0,4);
+    var c={entregue:0,obra:0,anunciado:0,alerta:0,decreto:0};rec.forEach(function(n){if(c[n.s]!==undefined)c[n.s]++;});
+    var L=[];
+    L.push(m.n.toUpperCase()+" EM 1 MINUTO");
+    L.push("");
+    L.push("Você sabe o que aconteceu em "+m.n+" nos últimos 30 dias? Eu te conto em um minuto. Aqui é o Paulistânia Hoje.");
+    if(!rec.length){
+      L.push("");
+      L.push("Nos últimos 30 dias, nenhum jornal nem o Diário Oficial do estado trouxe novidade sobre "+m.n+" na nossa base. E isso também é informação: quando ninguém fala da cidade, ninguém cobra.");
+    }else{
+      var partes=[];if(c.entregue)partes.push(c.entregue+(c.entregue>1?" entregas":" entrega"));if(c.obra)partes.push(c.obra+(c.obra>1?" obras em andamento":" obra em andamento"));if(c.decreto)partes.push(c.decreto+(c.decreto>1?" atos oficiais":" ato oficial"));if(c.alerta)partes.push(c.alerta+(c.alerta>1?" alertas":" alerta"));
+      L.push("");
+      L.push("Foram "+rec.length+(rec.length>1?" registros":" registro")+" sobre a cidade"+(partes.length?": "+partes.join(", ").replace(/, ([^,]*)$/," e $1"):"")+".");
+      var ord=["Primeiro","Depois","Também","E ainda"];
+      top.forEach(function(n,i){
+        var p=String(n.p||"");var mt=p.match(/^.*?[.!?](?=\s|$)/);if(mt)p=mt[0];if(p.length>170)p=p.slice(0,167).replace(/\s\S*$/,"")+"…";
+        L.push("");
+        L.push(ord[i]+": "+n.t.replace(/\.$/,"")+"."+(p?" "+p:"")+" (Fonte: "+n.src+", "+fmt(n.d)+".)");
+      });
+    }
+    L.push("");
+    L.push("Quer ver os decretos, os gastos da prefeitura e as notícias completas de "+m.n+"? Está tudo no site do Paulistânia Hoje, com o link de cada fonte.");
+    L.push("");
+    L.push("E se você mora em "+m.n+", me conta nos comentários: o que está faltando na sua cidade?");
+    return L.join("\n");
+  }
+  document.addEventListener("click",function(e){
+    var b=e.target.closest("#mk1min");if(b&&cur){var t=roteiro1min(cur);
+      document.getElementById("oneMin").innerHTML='<div class="script" id="oneTxt"></div><div class="btnrow"><button class="btn alt" type="button" id="cp1min">Copiar o roteiro</button></div>';
+      document.getElementById("oneTxt").textContent=t;return;}
+    var c2=e.target.closest("#cp1min");if(c2){var tx=document.getElementById("oneTxt").textContent;
+      try{navigator.clipboard.writeText(tx).then(function(){c2.textContent="Copiado";},function(){c2.textContent="Selecione o texto e copie";});}catch(err){c2.textContent="Selecione o texto e copie";}}
+  });
   function openCity(m){sug.hidden=true;q.value="";drawCity(m);if(location.hash!=="#c-"+m.i)location.hash="c-"+m.i;show("cidade");window.scrollTo({top:document.querySelector("nav.tabs").offsetTop,behavior:"smooth"});}
   document.addEventListener("click",function(e){var b=e.target.closest("[data-city]");if(b&&byCode[b.getAttribute("data-city")])openCity(byCode[b.getAttribute("data-city")]);});
 
@@ -689,6 +765,12 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     document.getElementById("promBody").innerHTML=rows;
     var tot=PROM.length;
     document.getElementById("score").innerHTML=["cumprido","andamento","acompanhar","atrasado","naocumprido"].map(function(k){return '<div style="--c:'+PCOL[k]+'"><b>'+cnt[k]+'</b><span>'+PST[k]+'</span></div>';}).join("");
+    var mes=new Date().toLocaleDateString("pt-BR",{month:"long",year:"numeric"});
+    PLACAR="PLACAR DAS PROMESSAS · "+mes.toUpperCase()+"\n\nDas "+tot+" promessas do governador Tarcísio de Freitas que o Paulistânia Hoje acompanha:\n"+
+      ["cumprido","andamento","atrasado","naocumprido","acompanhar"].map(function(k){return "• "+cnt[k]+" "+({cumprido:"cumpridas",andamento:"em andamento",atrasado:"atrasadas",naocumprido:"não cumpridas",acompanhar:"ainda sem resultado (em acompanhamento)"})[k];}).join("\n")+
+      (function(){var feitas=PROM.filter(function(p){return PSTATE[p[1]]&&PSTATE[p[1]].status==="cumprido";}).map(function(p){return "  ✓ "+p[2];});return feitas.length?"\n\nCumpridas até agora:\n"+feitas.join("\n"):"";})()+
+      "\n\nCada item tem a fonte e, quando cumprido, a prova. Confira: "+SITE+"#promessas";
+    document.getElementById("promShare").href=waLink(PLACAR);
     document.getElementById("progress").innerHTML=["cumprido","andamento","acompanhar","atrasado","naocumprido"].map(function(k){return cnt[k]?'<i style="width:'+(cnt[k]/tot*100)+'%;background:'+PCOL[k]+'"></i>':'';}).join("");
   }
   document.getElementById("promBody").addEventListener("click",function(e){
@@ -699,6 +781,9 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     dbRef.collection("promessas").doc(id).set({status:s,prova:pv,nota:nt.slice(0,200),atualizado:new Date().toISOString()}).then(function(){b.textContent="Salvo";b.disabled=false;},function(){b.textContent="Não foi possível salvar";b.disabled=false;});
   });
 
+  var PLACAR="";
+  document.getElementById("promCopy").addEventListener("click",function(){var b=this;try{navigator.clipboard.writeText(PLACAR).then(function(){b.textContent="Copiado";},function(){b.textContent="Não foi possível copiar";});}catch(e){b.textContent="Não foi possível copiar";}});
+  document.getElementById("mailFix").href=mailLink("Paulistânia Hoje: correção ou denúncia","Cidade:\n\nO que aconteceu (ou o que está errado no site):\n\nLink, foto ou documento que comprova:\n\nPosso citar seu nome? (sim/não)\n");
   /* editor (só para quem edita o site) */
   function drawEditor(){
     if(!canEdit){document.getElementById("editorSlot").innerHTML="";return;}
@@ -726,7 +811,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
   function show(v){if(views.indexOf(v)<0)v="hoje";views.forEach(function(x){document.getElementById("v-"+x).hidden=(x!==v);});
     document.querySelectorAll("nav.tabs a").forEach(function(a){if(a.getAttribute("data-view")===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
     if(v==="cidade"){if(!cur)drawCity(byName["São Paulo"]);else requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:cur,focusRegion:true,label:false});});}}
-  function route(){var h=location.hash.slice(1);if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else show(h);}
+  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else show(h);}
   window.addEventListener("hashchange",route);
 
   /* dados ao vivo */
