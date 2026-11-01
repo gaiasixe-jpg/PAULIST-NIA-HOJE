@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-01T14:13:56-03:00",
-"novos_nesta_coleta": 7,
+"atualizado": "2026-11-01T14:40:10-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,12 +14,14 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -34,27 +37,27 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "14:14",
+"t": "INSS confirma mudança que garante benefício de R$ 1.621 a até R$ 8,4 mil por até 6 meses para mulheres afastadas por violência doméstica",
+"p": "Uma mulher que precisa deixar o trabalho para se proteger de uma situação de violência doméstica pode enfrentar duas preocupações ao mesmo tempo: preservar a própria segurança e encontrar uma maneira de continuar pagando as despesas. Uma mudança regulamentada pelo Instituto Nacional do Seguro Social (INSS) busca…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/inss-confirma-mudanca-que-garante-beneficio-de-r-1-621-a-ate-r-84-mil-por-ate-6-meses-para-mulheres-afastadas-por-violencia-domestica/",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "13:54",
