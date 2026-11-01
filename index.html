@@ -387,7 +387,9 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
 
 <section class="view" id="v-promessas" aria-labelledby="h-prom" hidden>
   <h2 class="sec-h" id="h-prom">O placar das promessas</h2>
-  <p class="sec-sub">Os compromissos do governador Tarcísio de Freitas para 2027–2030, do plano de governo e das falas de campanha. Quando um deles for cumprido, ele muda de cor aqui, com a prova ao lado.</p>
+  <p class="sec-sub">O que cada eleito de 2026 prometeu para São Paulo, com a fonte. Quando uma promessa for cumprida, ela muda de cor aqui, com a prova ao lado.</p>
+  <div class="controls" id="polSel" role="group" aria-label="Escolha o eleito" style="margin-top:14px"></div>
+  <p class="arch-note" id="polInfo"></p>
   <div class="score" id="score"></div>
   <div class="btnrow"><a class="btn wab" id="promShare" href="#" target="_blank" rel="noopener">Compartilhar o placar</a><button class="btn alt" type="button" data-story="placar">Baixar imagem para Stories</button></div>
   <div class="progress" id="progress" aria-hidden="true"></div>
@@ -395,7 +397,7 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
     <thead><tr><th>Promessa</th><th>Meta</th><th>Situação</th><th>Fonte</th></tr></thead>
     <tbody id="promBody"></tbody>
   </table></div>
-  <p class="more" style="margin-top:10px">O plano completo protocolado na Justiça Eleitoral tem cerca de 196 páginas. Esta lista traz os compromissos concretos que a imprensa publicou e cresce conforme novos itens forem verificados.</p>
+  <p class="more" style="margin-top:10px" id="promNote">O plano completo protocolado na Justiça Eleitoral tem cerca de 196 páginas. Esta lista traz os compromissos concretos que a imprensa publicou e cresce conforme novos itens forem verificados.</p>
 </section>
 
 <section class="view prose" id="v-sobre" aria-labelledby="h-sobre" hidden>
@@ -780,23 +782,37 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
   }
   document.getElementById("regList").addEventListener("click",function(e){var b=e.target.closest("[data-reg-show]");if(!b)return;setReg(b.getAttribute("data-reg-show"));window.scrollTo({top:0,behavior:"smooth"});});
 
-  /* promessas */
+  /* promessas: um placar por eleito */
+  var POLS=[{id:"gov",cargo:"Governador",curto:"Governador",nome:"Tarcísio de Freitas",partido:"Republicanos",mandato:"2027–2030",eleicao:"",nota:"",
+    rows:PROM.map(function(p){return [p[0],p[1],p[2],p[3],S[p[4]]];})}],curPol="gov",PROXIMOS="";
+  function polAtual(){return POLS.filter(function(x){return x.id===curPol;})[0]||POLS[0];}
+  function loadEleitos(){loadJSON("data/eleitos.json").then(function(d){if(!d||!Array.isArray(d.politicos))return;
+    POLS=POLS.slice(0,1).concat(d.politicos.filter(function(x){return x&&x.id&&Array.isArray(x.promessas);}).map(function(x){
+      return {id:String(x.id),cargo:String(x.cargo||""),curto:String(x.cargo||"").replace(" da República","").replace(" por SP",""),nome:String(x.nome||""),partido:String(x.partido||""),mandato:String(x.mandato||""),eleicao:String(x.eleicao||""),eleicao_u:safeUrl(x.eleicao_u),nota:String(x.nota||""),
+        rows:x.promessas.map(function(q){if(q.status&&!PSTATE[q.id])PSTATE[q.id]={status:q.status,prova:q.prova||"",nota:q.nota||""};return [String(q.area||"Geral"),String(q.id),String(q.t||""),String(q.meta||""),safeUrl(q.u)||""];})};}));
+    PROXIMOS=String(d.proximos||"");drawPolSel();drawProm();}).catch(function(){});}
+  var polSel=document.getElementById("polSel");
+  function drawPolSel(){polSel.innerHTML=POLS.map(function(x){return '<button class="chip" type="button" data-pol="'+esc(x.id)+'" aria-pressed="'+(x.id===curPol)+'">'+esc(x.curto)+' · '+esc(x.nome)+'</button>';}).join("")+(PROXIMOS?'<span class="more" style="margin-left:4px">'+esc(PROXIMOS)+'</span>':'');}
+  polSel.addEventListener("click",function(e){var b=e.target.closest("[data-pol]");if(!b)return;curPol=b.getAttribute("data-pol");drawPolSel();drawProm();});
   function drawProm(){
+    var P=polAtual(),LIST=P.rows;
+    document.getElementById("polInfo").innerHTML='<strong>'+esc(P.cargo)+': '+esc(P.nome)+'</strong> ('+esc(P.partido)+') · mandato '+esc(P.mandato)+(P.eleicao?' · '+(P.eleicao_u?'<a href="'+esc(P.eleicao_u)+'" target="_blank" rel="noopener">'+esc(P.eleicao)+'</a>':esc(P.eleicao)):'')+(P.nota?'<br>'+esc(P.nota):'');
+    document.getElementById("promNote").hidden=P.id!=="gov";
     var cnt={cumprido:0,andamento:0,acompanhar:0,atrasado:0,naocumprido:0},area="",rows="";
-    PROM.forEach(function(p){
+    LIST.forEach(function(p){
       var s=(PSTATE[p[1]]&&PST[PSTATE[p[1]].status])?PSTATE[p[1]].status:"acompanhar";cnt[s]++;
       var prova=PSTATE[p[1]]&&safeUrl(PSTATE[p[1]].prova),nota=PSTATE[p[1]]&&PSTATE[p[1]].nota;
       if(p[0]!==area){area=p[0];rows+='<tr class="area-row"><td colspan="4">'+esc(area)+'</td></tr>';}
       var ed=canEdit?'<div class="ed"><select data-pst="'+p[1]+'" aria-label="Situação">'+Object.keys(PST).map(function(k){return '<option value="'+k+'"'+(k===s?" selected":"")+'>'+PST[k]+'</option>';}).join("")+'</select><input type="url" data-pprova="'+p[1]+'" placeholder="Link da prova (https://...)" value="'+esc(prova||"")+'"><input type="text" data-pnota="'+p[1]+'" placeholder="Observação curta" value="'+esc(nota||"")+'"><button type="button" data-psave="'+p[1]+'">Salvar</button></div>':'';
-      rows+='<tr><td>'+esc(p[2])+(nota&&!canEdit?'<div class="more">'+esc(nota)+'</div>':'')+'</td><td class="num">'+esc(p[3])+'</td><td><span class="tag t-'+s+'">'+PST[s]+'</span>'+(prova?'<div><a class="readlink" href="'+esc(prova)+'" target="_blank" rel="noopener">Ver prova →</a></div>':'')+ed+'</td><td><a href="'+S[p[4]]+'" target="_blank" rel="noopener" class="more">fonte</a></td></tr>';
+      rows+='<tr><td>'+esc(p[2])+(nota&&!canEdit?'<div class="more">'+esc(nota)+'</div>':'')+'</td><td class="num">'+esc(p[3])+'</td><td><span class="tag t-'+s+'">'+PST[s]+'</span>'+(prova?'<div><a class="readlink" href="'+esc(prova)+'" target="_blank" rel="noopener">Ver prova →</a></div>':'')+ed+'</td><td>'+(p[4]?'<a href="'+esc(p[4])+'" target="_blank" rel="noopener" class="more">fonte</a>':'')+'</td></tr>';
     });
     document.getElementById("promBody").innerHTML=rows;
-    var tot=PROM.length;
+    var tot=LIST.length||1;
     document.getElementById("score").innerHTML=["cumprido","andamento","acompanhar","atrasado","naocumprido"].map(function(k){return '<div style="--c:'+PCOL[k]+'"><b>'+cnt[k]+'</b><span>'+PST[k]+'</span></div>';}).join("");
     var mes=new Date().toLocaleDateString("pt-BR",{month:"long",year:"numeric"});
-    PLACAR="PLACAR DAS PROMESSAS · "+mes.toUpperCase()+"\n\nDas "+tot+" promessas do governador Tarcísio de Freitas que o Paulistânia Hoje acompanha:\n"+
+    PLACAR="PLACAR DAS PROMESSAS · "+mes.toUpperCase()+"\n\nDas "+tot+" promessas de "+P.nome+" ("+P.cargo.charAt(0).toLowerCase()+P.cargo.slice(1)+") que o Paulistânia Hoje acompanha:\n"+
       ["cumprido","andamento","atrasado","naocumprido","acompanhar"].map(function(k){return "• "+cnt[k]+" "+({cumprido:"cumpridas",andamento:"em andamento",atrasado:"atrasadas",naocumprido:"não cumpridas",acompanhar:"ainda sem resultado (em acompanhamento)"})[k];}).join("\n")+
-      (function(){var feitas=PROM.filter(function(p){return PSTATE[p[1]]&&PSTATE[p[1]].status==="cumprido";}).map(function(p){return "  ✓ "+p[2];});return feitas.length?"\n\nCumpridas até agora:\n"+feitas.join("\n"):"";})()+
+      (function(){var feitas=LIST.filter(function(p){return PSTATE[p[1]]&&PSTATE[p[1]].status==="cumprido";}).map(function(p){return "  ✓ "+p[2];});return feitas.length?"\n\nCumpridas até agora:\n"+feitas.join("\n"):"";})()+
       "\n\nCada item tem a fonte e, quando cumprido, a prova. Confira: "+SITE+"#promessas";
     document.getElementById("promShare").href=waLink(PLACAR);
     document.getElementById("progress").innerHTML=["cumprido","andamento","acompanhar","atrasado","naocumprido"].map(function(k){return cnt[k]?'<i style="width:'+(cnt[k]/tot*100)+'%;background:'+PCOL[k]+'"></i>':'';}).join("");
@@ -857,10 +873,10 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       x.fillStyle="#a9b3d6";x.font="600 34px "+BODY;x.fillText(kind==="placar"?"PLACAR DAS PROMESSAS · "+new Date().toLocaleDateString("pt-BR",{month:"long",year:"numeric"}).toUpperCase():"EDIÇÃO DE "+dt.toUpperCase(),80,580);
       var y=660;
       if(kind==="placar"){
-        var cnt={cumprido:0,andamento:0,acompanhar:0,atrasado:0,naocumprido:0};PROM.forEach(function(p){var s=(PSTATE[p[1]]&&PST[PSTATE[p[1]].status])?PSTATE[p[1]].status:"acompanhar";cnt[s]++;});
+        var cnt={cumprido:0,andamento:0,acompanhar:0,atrasado:0,naocumprido:0};var PP=polAtual();PP.rows.forEach(function(p){var s=(PSTATE[p[1]]&&PST[PSTATE[p[1]].status])?PSTATE[p[1]].status:"acompanhar";cnt[s]++;});
         var cols={cumprido:"#53d394",andamento:"#8fb0ff",acompanhar:"#f3b74e",atrasado:"#ff6b80",naocumprido:"#c0c8e4"};
-        x.fillStyle="#ffffff";x.font="800 64px "+DISP;wrapText(x,"O que o governador Tarcísio de Freitas prometeu e já cumpriu",920).forEach(function(l){x.fillText(l.toUpperCase(),80,y);y+=70;});y+=40;
-        var bx=80,tot=PROM.length;["cumprido","andamento","atrasado","naocumprido","acompanhar"].forEach(function(k){var w=Math.round(cnt[k]/tot*920);if(w){x.fillStyle=cols[k];x.fillRect(bx,y,w,36);bx+=w;}});y+=110;
+        x.fillStyle="#ffffff";x.font="800 64px "+DISP;wrapText(x,"O que "+PP.nome+" ("+PP.curto.toLowerCase()+") prometeu e já cumpriu",920).forEach(function(l){x.fillText(l.toUpperCase(),80,y);y+=70;});y+=40;
+        var bx=80,tot=PP.rows.length||1;["cumprido","andamento","atrasado","naocumprido","acompanhar"].forEach(function(k){var w=Math.round(cnt[k]/tot*920);if(w){x.fillStyle=cols[k];x.fillRect(bx,y,w,36);bx+=w;}});y+=110;
         ["cumprido","andamento","atrasado","naocumprido","acompanhar"].forEach(function(k){x.fillStyle=cols[k];x.fillRect(80,y-62,14,80);x.font="900 96px "+DISP;x.fillText(String(cnt[k]),120,y+12);x.fillStyle="#f4f6fb";x.font="600 40px "+BODY;x.fillText(PST[k],300,y);y+=124;});
         y+=10;x.fillStyle="#a9b3d6";x.font="500 32px "+BODY;wrapText(x,"De "+tot+" promessas acompanhadas. Cada uma com fonte e, quando cumprida, com prova.",920).forEach(function(l){x.fillText(l,80,y);y+=44;});
       }else{
@@ -937,7 +953,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     });
   }
   try{document.getElementById("edition").textContent="Edição de "+new Date().toLocaleDateString("pt-BR",{day:"numeric",month:"long",year:"numeric"});}catch(e){}
-  carregar();setInterval(carregar,10*60*1000);loadDeps();loadMeses();
+  carregar();setInterval(carregar,10*60*1000);loadDeps();loadMeses();drawPolSel();loadEleitos();
 })();
 </script>
 
