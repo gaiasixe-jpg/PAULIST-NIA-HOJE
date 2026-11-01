@@ -95,6 +95,11 @@ Cuidado com as aspas e as vírgulas: cada bloco termina com `},` menos o último
 1. Abra `scripts/fontes.json` e clique no lápis.
 2. Copie uma linha de jornal e troque `nome` e `feed`. O feed costuma ser o endereço do site com `/feed/` no final. Para testar, abra o endereço no navegador: se aparecer uma página de código com várias notícias, funciona.
 3. Se o jornal for de uma cidade só, acrescente `"cidade": "Nome Oficial"`.
+4. Se for o site de notícias de uma prefeitura, acrescente também `"oficial": true`. Assim entra tudo o que a prefeitura publica, menos esporte e entretenimento.
+
+## Correções e denúncias do público
+
+O botão "Mandar por e-mail" (aba Sobre) e o link "Corrigir" em cada notícia abrem um e-mail para aranellin@gmail.com já com o título e o link da notícia. Para trocar o endereço, abra `index.html`, procure `var MAIL=` e troque o e-mail.
 
 ## Ter um endereço próprio (opcional)
 
@@ -106,7 +111,8 @@ Cuidado com as aspas e as vírgulas: cada bloco termina com `},` menos o último
 
 - **De onde vêm as notícias:** dos feeds RSS oficiais dos próprios jornais. O site mostra o título, a data, o trecho que o jornal publicou e o link para a matéria completa. A notícia inteira fica no site do jornal.
 - **A classificação é automática:** tema, situação (alerta, entregue…) e cidade são marcados por palavras-chave e podem errar. A fonte e o link são sempre os do jornal.
-- **Jornais que bloqueiam o robô:** quando o pacote foi testado, A Tribuna, Diário do Litoral, Jornal Cruzeiro do Sul, Gazeta de S.Paulo e Correio da Manhã recusaram a leitura automática. Eles continuam na lista porque podem funcionar a partir do GitHub. Para ver quais funcionaram, abra `data/feed.json` e procure `fontes_com_erro`.
-- **Regiões com menos cobertura:** Baixada Santista, Sorocaba e Presidente Prudente dependem desses jornais que bloquearam. Vale procurar outros jornais dessas regiões que tenham feed.
+- **Decretos e leis do Estado:** vêm sozinhos da base oficial de legislação da Alesp, que registra o que sai no Diário Oficial. A Alesp atualiza essa base uma vez por dia, então o robô a consulta três vezes ao dia (7h, 13h e 19h). Os decretos de crédito suplementar do mesmo dia aparecem juntos num item só.
+- **Jornais que bloqueiam o robô:** A Tribuna, Jornal Cruzeiro do Sul e Correio da Manhã recusam a leitura automática. Para ver quais funcionaram, abra `data/feed.json` e procure `fontes_com_erro`.
+- **Cobertura regional:** Baixada Santista, Sorocaba, Presidente Prudente, Vale do Ribeira e Alta Paulista ganharam jornais e sites oficiais de prefeitura na lista. Vale continuar procurando jornais com feed nessas regiões.
 - **Se o robô parar:** o GitHub pode pausar tarefas automáticas de repositórios sem atividade por 60 dias. Como o robô salva notícias toda hora, isso não deve acontecer. Se acontecer, vá em **Actions → Coletar notícias** e clique em **Enable workflow**.
 - **Se um jornal pedir para sair da lista:** apague a linha dele em `scripts/fontes.json`.
