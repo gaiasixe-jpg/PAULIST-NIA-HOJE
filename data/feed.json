@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-01T16:34:05-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-01T16:45:03-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,12 +14,14 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -34,27 +37,29 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "16:41",
+"t": "Dois foragidos são capturados pela GCM em São Sebastião",
+"p": "Um dos homens se apresentou espontaneamente à Guarda Municipal após romper tornozeleira eletrônica; segundo procurado foi localizado na Vila Sahy",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/dois-foragidos-sao-capturados-pela-gcm-em-sao-sebastiao.html",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "16:14",
@@ -136,6 +141,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/dupla-furta-carga-de-meio-milhao-de-empresa-de-valinhos-e-e-presa/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "15:51",
+"t": "Cemitérios municipais de Mogi das Cruzes devem receber 80 mil visitantes no Dia de Finados",
+"p": "Estimativa é da Prefeitura, que preparou um esquema especial para o feriado",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/cemiterios-municipais-de-mogi-das-cruzes-devem-receber-80-mil-visitantes-no-dia-de-finados/",
 "auto": true
 },
 {

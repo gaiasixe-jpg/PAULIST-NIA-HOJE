@@ -3,6 +3,20 @@
 "itens": [
 {
 "d": "2026-11-01",
+"h": "16:41",
+"t": "Dois foragidos são capturados pela GCM em São Sebastião",
+"p": "Um dos homens se apresentou espontaneamente à Guarda Municipal após romper tornozeleira eletrônica; segundo procurado foi localizado na Vila Sahy",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/dois-foragidos-sao-capturados-pela-gcm-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-01",
 "h": "16:14",
 "t": "Time de Praia Grande conquista pódio geral na natação e brilha no atletismo dos Jogos Paralímpicos",
 "p": "Delegação do município soma 120 pontos na piscina do Centro Paralímpico e garante chuva de ouros na fase estadual",
@@ -82,6 +96,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/dupla-furta-carga-de-meio-milhao-de-empresa-de-valinhos-e-e-presa/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "15:51",
+"t": "Cemitérios municipais de Mogi das Cruzes devem receber 80 mil visitantes no Dia de Finados",
+"p": "Estimativa é da Prefeitura, que preparou um esquema especial para o feriado",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/cemiterios-municipais-de-mogi-das-cruzes-devem-receber-80-mil-visitantes-no-dia-de-finados/",
 "auto": true
 },
 {
