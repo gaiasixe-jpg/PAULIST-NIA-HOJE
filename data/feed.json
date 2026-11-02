@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-02T15:02:03-03:00",
-"novos_nesta_coleta": 6,
+"atualizado": "2026-11-02T16:00:42-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,111 @@
 "itens": [
 {
 "d": "2026-11-02",
+"h": "16:00",
+"t": "Defesa Civil de SP prevê persistência da chuva nos próximos dias",
+"p": "Entre domingo (1º) e segunda (2) 88 alertas foram enviados à população entre a Capital e Região Metropolitana, além do interior e litoral",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366412/defesa-civil-de-sp-preve-persistencia-da-chuva-nos-proximos-dias",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "15:53",
+"t": "Novas regras do SAC entram em vigor nesta segunda (2); veja o que muda no atendimento ao consumidor",
+"p": "Fabio Rodrigues-Pozzebom/Agência Brasil Decreto exige atendimento humano todos os dias, limita o tempo de espera e facilita o cancelamento de serviços.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/novas-regras-sac-atendimento-copiar/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-02",
+"h": "15:30",
+"t": "Concurso de Cubatão exclui cargo após retificação; inscrições seguem abertas até dezembro",
+"p": "Mudança no edital retirou uma vaga de agente fiscal de tributos; seleção mantém 19 oportunidades imediatas, com salários de até R$ 5,5 mil",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/concurso-de-cubatao-exclui-cargo-apos-retificacao-inscricoes-seguem-abertas-ate-dezembro.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "15:29",
+"t": "ICMS sobre diesel: entenda a alta que causou embate entre Boulos e Tarcísio",
+"p": "Ministro do Governo Lula e governador de São Paulo divergiram sobre a responsabilidade do aumento da alíquota do ICMS sobre combustíveis",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/icms-sobre-diesel-entenda-a-alta-que-causou-embate-entre-boulos-e-tarcisio",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "15:23",
+"t": "Campinas registra outubro mais chuvoso dos últimos 35 anos",
+"p": "Cidade acumulou 376 milímetros de chuva durante o mês; Meteorologista do Cepagri diz que é por influência do El Niño",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-registra-outubro-mais-chuvoso-dos-ultimos-35-anos/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "15:19",
+"t": "Empresário de 39 anos passa 17 deles tentando andar de moto sobre a água, fracassa 4 vezes e finalmente consegue percorrer mais de 40 km e bater recorde mundial",
+"p": "Andar de moto sobre a água parece cena de filme de ação. Mas um empresário chinês transformou essa ideia em realidade ao percorrer impressionantes 40,74 quilômetros sobre um rio com uma motocicleta modificada, quebrando um recorde mundial do Guinness que parecia difícil de superar. A conquista não aconteceu da…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/empresario-de-39-anos-passa-17-tentando-andar-de-moto-sobre-a-agua-fracassa-4-vezes-e-finalmente-consegue-percorrer-mais-de-40-km-e-bater-recorde-mundial/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "15:06",
+"t": "Com faca em mãos, empreiteiro ameaça mulher na frente das amigas em SP",
+"p": "Guardas municipaisde Pinhalzinho (SP) resgataram a mulher que pediu medida protetiva contra então namorado. Polícia investiga o caso",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Pinhalzinho"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/com-faca-em-maos-empreiteiro-ameaca-mulher-na-frente-das-amigas-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "15:03",
+"t": "Chuva forte já tem data para voltar ao litoral de SP nessa semana, com risco para alagamentos e temporais",
+"p": "A chuva desta semana vai se concentrar em duas áreas do país. Segundo a análise da MetSul Meteorologia, com base em modelos numéricos, os maiores volumes devem cair entre os estados do Sul do Brasil e São Paulo, incluindo o litoral paulista, e o Sul deve registrar acumulados de 100 mm a 200 mm, com […]",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/chuva-forte-ja-tem-data-para-voltar-ao-litoral-de-sp-nessa-semana-com-risco-para-alagamentos-e-temporais/",
+"auto": true
+},
+{
+"d": "2026-11-02",
 "h": "15:00",
 "t": "Santo André economiza R$ 1,3 milhão com digitalização de processos e redução",
 "p": "Volume de cerca de 4,4 milhões de páginas corresponde à preservação de 442 árvores, de acordo com a prefeitura",
@@ -59,6 +164,18 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4366409/santo-andre-economiza-rs-1-3-milhao-com-digitalizacao-de-processos-e-reducao",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "15:00",
+"t": "Governo adia trava de empréstimo do Saque Aniversário do FGTS para março de 2027",
+"p": "Os trabalhadores que dependem da antecipação do Saque-Aniversário do Fundo de Garantia do Tempo de Serviço (FGTS) para obter crédito mais barato ganharam mais tempo para utilizar a modalidade nas condições atuais. O Conselho Curador do FGTS aprovou o adiamento para 31 de março de 2027 da norma que reduziria de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/governo-adia-trava-de-emprestimo-do-saque-aniversario-do-fgts-para-marco-de-2027/",
 "auto": true
 },
 {
