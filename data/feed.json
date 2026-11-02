@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-02T18:49:24-03:00",
-"novos_nesta_coleta": 6,
+"atualizado": "2026-11-02T19:49:53-03:00",
+"novos_nesta_coleta": 8,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,113 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-02",
+"h": "19:28",
+"t": "Operação policial intercepta ônibus de viagem e apreende mais de 660 quilos de folhas de coca",
+"p": "Uma fiscalização de rotina realizada pela Polícia Militar Rodoviária resultou na apreensão de 661 quilos de folhas de coca na manhã do último domingo (1º), na Rodovia Comandante João Ribeiro de Barros (SP-294), no trecho do município de Irapuru. A carga ilícita, avaliada pelas forças de segurança em cerca de R$ 140…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Irapuru"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-policial-intercepta-onibus-de-viagem-e-apreende-mais-de-660-quilos-de-folhas-de-coca/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "19:28",
+"t": "Tempestades e vendavais deixam um morto e rastros de destruição em municípios paulistas",
+"p": "As fortes chuvas e rajadas de vento registradas entre a tarde do último domingo (1º) e a madrugada desta segunda-feira (2) causaram transtornos, destelhamentos e quedas de árvores em diversas regiões do Estado de São Paulo. O balanço do Governo do Estado, por meio da Defesa Civil e do Corpo de Bombeiros, aponta a…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tempestades-e-vendavais-deixam-um-morto-e-rastros-de-destruicao-em-municipios-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "19:28",
+"t": "Defesa Civil alerta para risco de temporais com raios e granizo nos próximos dias",
+"p": "A Defesa Civil do Estado de São Paulo emitiu um alerta de atenção para a possibilidade de tempestades severas em diversas regiões paulistas ao longo dos próximos dias. As previsões meteorológicas indicam pancadas de chuva intensas acompanhadas de descargas elétricas, rajadas de vento e risco pontual de queda de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-alerta-para-risco-de-temporais-com-raios-e-granizo-nos-proximos-dias/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "19:28",
+"t": "Polícia Militar frustra furto a loja de eletrônicos e recupera R$ 500 mil em mercadorias",
+"p": "Dois homens, de 24 e 36 anos, foram presos em flagrante na madrugada do último domingo (1º) durante uma tentativa de furto a uma loja de eletrônicos no município de Valinhos, no interior paulista. A ação rápida da Polícia Militar evitou um prejuízo estimado em R$ 500 mil ao estabelecimento comercial e resultou na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Valinhos"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-militar-frustra-furto-a-loja-de-eletronicos-e-recupera-r-500-mil-em-mercadorias/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "19:03",
+"t": "Novas regras mudam atendimento ao consumidor a partir desta segunda-feira",
+"p": "Decreto foi publicado em outubro e muda regras no Serviço de Atendimento ao Consumidor (SAC) das empresas",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/novas-regras-mudam-atendimento-ao-consumidor-a-partir-desta-segunda-feira/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-02",
+"h": "19:00",
+"t": "Janones descarta ministério no governo Lula e explica por que prefere continuar na Câmara após mobilizar milhões nas redes sociais",
+"p": "André Janones com Lula",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/janones-descarta-ministerio-no-governo-lula-e-explica-por-que-prefere-continuar-na-camara-apos-mobilizar-milhoes-nas-redes-sociais/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "18:55",
+"t": "Nova frente fria aumenta risco de temporais e leva ar frio para o estado de SP nesta semana",
+"p": "Nova frente fria avança pelo Sudeste ao longo da semana; em Ribeirão Preto, a previsão indica calor e pancadas de chuva em diferentes períodos",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/nova-frente-fria-aumenta-risco-de-temporais-e-leva-ar-frio-para-o-estado-de-sp-nesta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "18:30",
+"t": "Dia de Finados reúne mais de 6 mil pessoas nos cemitérios de São Bernardo",
+"p": "A Prefeitura reforçou equipes para dar suporte aos visitantes e os serviços de zeladoria foram intensificados; distribuição de flores marcou a data",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366422/dia-de-finados-reune-mais-de-6-mil-pessoas-nos-cemiterios-de-sao-bernardo",
+"auto": true
+},
 {
 "d": "2026-11-02",
 "h": "18:22",
