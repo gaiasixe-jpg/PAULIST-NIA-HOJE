@@ -956,7 +956,22 @@
    "nome": "Jefferson Campos",
    "partido": "PL",
    "votos": 92286,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "jefferson-01",
+     "area": "Saúde",
+     "t": "Apoiar os hospitais que tratam pacientes com câncer",
+     "meta": "Sem número",
+     "u": "https://www.tvsmais.com.br/jefferson-campos-e-reeleito-com-92-mil-votos-e-fala-sobre-prioridades-do-mandato/"
+    },
+    {
+     "id": "jefferson-02",
+     "area": "Política",
+     "t": "Defender uma revisão da Constituição",
+     "meta": "Sem número",
+     "u": "https://www.tvsmais.com.br/jefferson-campos-e-reeleito-com-92-mil-votos-e-fala-sobre-prioridades-do-mandato/"
+    }
+   ]
   },
   {
    "id": "carlos-sampaio",
@@ -1247,7 +1262,15 @@
    "nome": "Thomaz Henrique",
    "partido": "PL",
    "votos": 178164,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "thomaz-hen01",
+     "area": "Política",
+     "t": "Discutir a autonomia do Estado de São Paulo dentro da federação",
+     "meta": "Sem número",
+     "u": "https://spriomais.com.br/2026/10/26/thomaz-henrique-vereador-de-sao-jose-pede-autonomia-do-estado-de-sao-paulo/"
+    }
+   ]
   },
   {
    "id": "ediane-maria",
@@ -1297,7 +1320,22 @@
    "nome": "Rodrigo Ashiuchi",
    "partido": "PL",
    "votos": 162562,
-   "promessas": [],
+   "promessas": [
+    {
+     "id": "rodrigo-as01",
+     "area": "Obras",
+     "t": "Entregar a alça do Rodoanel em Suzano",
+     "meta": "Sem número",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    },
+    {
+     "id": "rodrigo-as02",
+     "area": "Saúde",
+     "t": "Garantir o financiamento do Hospital Regional de Suzano, para atender todo o Alto Tietê",
+     "meta": "Sem número",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    }
+   ],
    "base": "Suzano"
   },
   {
@@ -1327,7 +1365,22 @@
    "nome": "Marcos Damasio",
    "partido": "PL",
    "votos": 156691,
-   "promessas": [],
+   "promessas": [
+    {
+     "id": "marcos-dam01",
+     "area": "Saúde",
+     "t": "Cobrar a reabertura do pronto-socorro do Hospital Luzia de Pinho Melo, em Mogi das Cruzes, prometida pelo governador para 2027",
+     "meta": "2027",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    },
+    {
+     "id": "marcos-dam02",
+     "area": "Saúde",
+     "t": "Defender uma Cross (central de vagas) regional para o Alto Tietê, para diminuir as filas",
+     "meta": "Sem número",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    }
+   ],
    "base": "Mogi das Cruzes"
   },
   {
@@ -1421,7 +1474,29 @@
    "nome": "Dr. Edson da Paiol",
    "partido": "Podemos",
    "votos": 124394,
-   "promessas": [],
+   "promessas": [
+    {
+     "id": "dr-edson-d01",
+     "area": "Causa animal",
+     "t": "Ter uma delegacia de bem-estar animal em cada região do estado (hoje há uma só)",
+     "meta": "1 por região",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    },
+    {
+     "id": "dr-edson-d02",
+     "area": "Causa animal",
+     "t": "Levar os projetos de causa animal para todo o estado",
+     "meta": "Sem número",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    },
+    {
+     "id": "dr-edson-d03",
+     "area": "Causa animal",
+     "t": "Ampliar as punições para abandono e maus-tratos de animais",
+     "meta": "Sem número",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    }
+   ],
    "base": "Itaquaquecetuba"
   },
   {
@@ -1581,7 +1656,43 @@
    "nome": "Danilo Balas",
    "partido": "PL",
    "votos": 96188,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "danilo-bal01",
+     "area": "Transporte",
+     "t": "Defender o trem ligando Sorocaba a São Paulo",
+     "meta": "Sem número",
+     "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/09/764848-danilo-balas-quer-maisseguranca-e-investimentos.html"
+    },
+    {
+     "id": "danilo-bal02",
+     "area": "Obras",
+     "t": "Defender a construção do Rodoanel Castello-Raposo, para tirar trânsito da zona norte de Sorocaba",
+     "meta": "Sem número",
+     "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/09/764848-danilo-balas-quer-maisseguranca-e-investimentos.html"
+    },
+    {
+     "id": "danilo-bal03",
+     "area": "Segurança",
+     "t": "Ampliar o Muralha Paulista e integrar as forças de segurança",
+     "meta": "Sem número",
+     "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/09/764848-danilo-balas-quer-maisseguranca-e-investimentos.html"
+    },
+    {
+     "id": "danilo-bal04",
+     "area": "Educação",
+     "t": "Ampliar as escolas cívico-militares em Sorocaba e fortalecer o ensino técnico",
+     "meta": "Sem número",
+     "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/09/764848-danilo-balas-quer-maisseguranca-e-investimentos.html"
+    },
+    {
+     "id": "danilo-bal05",
+     "area": "Saúde",
+     "t": "Atuar com o governo do estado para reduzir as filas da saúde em Sorocaba",
+     "meta": "Sem número",
+     "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/09/764848-danilo-balas-quer-maisseguranca-e-investimentos.html"
+    }
+   ]
   },
   {
    "id": "luiz-fernando",
@@ -1816,7 +1927,29 @@
    "nome": "Kaka do Autismo",
    "partido": "Podemos",
    "votos": 74365,
-   "promessas": [],
+   "promessas": [
+    {
+     "id": "kaka-do-au01",
+     "area": "Obras",
+     "t": "Construir um novo viaduto em Ferraz de Vasconcelos",
+     "meta": "Sem número",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    },
+    {
+     "id": "kaka-do-au02",
+     "area": "Saúde",
+     "t": "Implantar um Centro Oncológico em Ferraz de Vasconcelos",
+     "meta": "Sem número",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    },
+    {
+     "id": "kaka-do-au03",
+     "area": "Saúde",
+     "t": "Implantar um Centro de Hemodiálise e uma UPA em Ferraz de Vasconcelos",
+     "meta": "Sem número",
+     "u": "https://www.diariodesuzano.com.br/regiao/2026/10/31/em-entrevista-ao-ds-deputados-do-alto-tiete-listam-prioridades-na-assembleia-legislativa-de-sp.html"
+    }
+   ],
    "base": "Ferraz de Vasconcelos"
   },
   {
@@ -1982,7 +2115,15 @@
    "nome": "Keit Lima",
    "partido": "PSOL",
    "votos": 58984,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "keit-lima01",
+     "area": "Trabalho",
+     "t": "Defender o fim da escala 6x1",
+     "meta": "Sem número",
+     "u": "https://tvtnews.com.br/esquerda-novas-liderancas-eleitas-2026/"
+    }
+   ]
   },
   {
    "id": "atila-jacomussi",
