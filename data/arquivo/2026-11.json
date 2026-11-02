@@ -3,6 +3,73 @@
 "itens": [
 {
 "d": "2026-11-02",
+"h": "20:18",
+"t": "Temporal causa alagamentos e água invade casas em Marília",
+"p": "Casas foram invadidas pela enxurrada e moradores tiveram prejuízos, perdendo móveis e mantimentos, principalmente na zona sul.",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mntv/temporal-causa-alagamentos-e-agua-invade-casas-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "20:10",
+"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal nesta segunda (2)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-nesta-segunda-2.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "20:09",
+"t": "Dutra tem bloqueio em Piraí e trânsito intenso na noite desta segunda (2)",
+"p": "Segundo a concessionária RioSP, pane em veículo interdita pista expressa no sentido São Paulo; motoristas também enfrentam lentidão em Jacareí",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Jacareí"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/dutra-tem-bloqueio-em-pirai-e-transito-intenso-na-noite-desta-segunda-2.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "19:53",
+"t": "Jovem de 24 anos morre afogado em praia de Itanhaém, no litoral de SP",
+"p": "Vítima, moradora de Piracicaba, foi localizada na faixa de areia da região do Satélite e recebeu manobras de reanimação antes de ser levada à UPA",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Piracicaba",
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/jovem-de-24-anos-morre-afogado-em-praia-de-itanhaem-no-litoral-de-sp.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "19:29",
+"t": "Cataratas do Iguaçu chegam a 17,7 milhões de litros de água por segundo em 2026, fecham passarela por 20 dias e surpreendem com nova mudança",
+"p": "Durante 20 dias, uma das paisagens mais famosas do Brasil ficou parcialmente inacessível aos turistas. A força das águas das Cataratas do Iguaçu, no Paraná, obrigou a administração do parque a interditar a passarela que leva ao mirante da Garganta do Diabo. Agora, depois de uma cheia que levou o rio a registrar…",
+"tema": "Água",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/cataratas-do-iguacu-chegam-a-177-milhoes-de-litros-de-agua-por-segundo-em-2026-fecham-passarela-por-20-dias-e-surpreendem-com-nova-mudanca/",
+"auto": true
+},
+{
+"d": "2026-11-02",
 "h": "19:28",
 "t": "Operação policial intercepta ônibus de viagem e apreende mais de 660 quilos de folhas de coca",
 "p": "Uma fiscalização de rotina realizada pela Polícia Militar Rodoviária resultou na apreensão de 661 quilos de folhas de coca na manhã do último domingo (1º), na Rodovia Comandante João Ribeiro de Barros (SP-294), no trecho do município de Irapuru. A carga ilícita, avaliada pelas forças de segurança em cerca de R$ 140…",
@@ -51,6 +118,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/policia-militar-frustra-furto-a-loja-de-eletronicos-e-recupera-r-500-mil-em-mercadorias/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "19:21",
+"t": "Mulher morre em desabamento e asilo é atingido por enxurrada; veja estragos da chuva em SP",
+"p": "",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366435/mulher-morre-em-desabamento-e-asilo-e-atingido-por-enxurrada-veja-estragos-da-chuva-em-sp",
 "auto": true
 },
 {
