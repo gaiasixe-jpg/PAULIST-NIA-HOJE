@@ -418,21 +418,52 @@
    "partido": "PP",
    "votos": 333401,
    "promessas": [],
-   "base": "Campinas"
+   "base": "Campinas",
+   "busca": "2026-11-01"
   },
   {
    "id": "delegado-palumbo",
    "nome": "Delegado Palumbo",
    "partido": "Podemos",
    "votos": 303271,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "guilherme-cortez",
    "nome": "Guilherme Cortez",
    "partido": "PSOL",
    "votos": 275450,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "guilherme-cort01",
+     "area": "Obras",
+     "t": "Garantir recursos para as obras contra enchentes em Franca",
+     "meta": "Sem número",
+     "u": "https://sampi.net.br/franca/noticias/3009376/franca-e-regiao/2026/10/apos-20-anos-franca-volta-a-camara-e-cortez-promete-voz-regional"
+    },
+    {
+     "id": "guilherme-cort02",
+     "area": "Saúde",
+     "t": "Ampliar o financiamento da saúde em Franca",
+     "meta": "Sem número",
+     "u": "https://sampi.net.br/franca/noticias/3009376/franca-e-regiao/2026/10/apos-20-anos-franca-volta-a-camara-e-cortez-promete-voz-regional"
+    },
+    {
+     "id": "guilherme-cort03",
+     "area": "Indústria",
+     "t": "Buscar formas de reduzir o efeito do tarifaço sobre a indústria de calçados",
+     "meta": "Sem número",
+     "u": "https://sampi.net.br/franca/noticias/3009376/franca-e-regiao/2026/10/apos-20-anos-franca-volta-a-camara-e-cortez-promete-voz-regional"
+    },
+    {
+     "id": "guilherme-cort04",
+     "area": "Indústria",
+     "t": "Defender a reindustrialização, incluindo o potencial do Brasil em terras raras",
+     "meta": "Sem número",
+     "u": "https://sampi.net.br/franca/noticias/3009376/franca-e-regiao/2026/10/apos-20-anos-franca-volta-a-camara-e-cortez-promete-voz-regional"
+    }
+   ]
   },
   {
    "id": "mauricio-neves",
@@ -447,7 +478,8 @@
    "partido": "PL",
    "votos": 261325,
    "promessas": [],
-   "base": "Guararema"
+   "base": "Guararema",
+   "busca": "2026-11-01"
   },
   {
    "id": "professora-luciene-cavalcante",
@@ -461,14 +493,16 @@
    "nome": "Ana Carolina Oliveira",
    "partido": "Podemos",
    "votos": 246741,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "baleia-rossi",
    "nome": "Baleia Rossi",
    "partido": "MDB",
    "votos": 239124,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "luna-zarattini",
@@ -554,21 +588,24 @@
    "nome": "Delegado Bruno Lima",
    "partido": "Podemos",
    "votos": 217952,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rosana-valle",
    "nome": "Rosana Valle",
    "partido": "PL",
    "votos": 213752,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "renata-abreu",
    "nome": "Renata Abreu",
    "partido": "Podemos",
    "votos": 199100,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "marcos-pereira",
@@ -625,7 +662,8 @@
    "nome": "Paulo Alexandre Barbosa",
    "partido": "PSD",
    "votos": 168207,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "felipe-becari",
@@ -639,21 +677,24 @@
    "nome": "Thiago Surfista",
    "partido": "PL",
    "votos": 161971,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "alencar-santana",
    "nome": "Alencar Santana",
    "partido": "PT",
    "votos": 160264,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "capitao-augusto",
    "nome": "Capitão Augusto",
    "partido": "PL",
    "votos": 153745,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "jilmar-tatto",
@@ -674,7 +715,8 @@
    "nome": "Thiago dos Reis",
    "partido": "PT",
    "votos": 137240,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "paulo-serra",
@@ -783,7 +825,8 @@
    "nome": "Pastor Marco Feliciano",
    "partido": "PL",
    "votos": 122119,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "ney-santos",
@@ -847,7 +890,15 @@
    "nome": "Natália Boulos",
    "partido": "PSOL",
    "votos": 114552,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "natalia-bo01",
+     "area": "Mulheres",
+     "t": "Priorizar no mandato as mulheres, as mães atípicas e os moradores das periferias",
+     "meta": "Sem número",
+     "u": "https://platobr.com.br/natalia-boulos-e-o-novo-congresso-democracia-nao-pode-ter-pensamento-unico"
+    }
+   ]
   },
   {
    "id": "kiko-celeguim",
@@ -884,7 +935,8 @@
    "partido": "Podemos",
    "votos": 106901,
    "promessas": [],
-   "base": "Ferraz de Vasconcelos"
+   "base": "Ferraz de Vasconcelos",
+   "busca": "2026-11-01"
   },
   {
    "id": "dra-sandra-tadeu",
@@ -928,14 +980,16 @@
    "partido": "PSB",
    "votos": 97335,
    "promessas": [],
-   "base": "Campinas"
+   "base": "Campinas",
+   "busca": "2026-11-01"
   },
   {
    "id": "miguel-lombardi",
    "nome": "Miguel Lombardi",
    "partido": "PL",
    "votos": 96333,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "saulo-pedroso",
@@ -979,7 +1033,8 @@
    "partido": "PSD",
    "votos": 91902,
    "promessas": [],
-   "base": "Campinas"
+   "base": "Campinas",
+   "busca": "2026-11-01"
   },
   {
    "id": "maria-rosas",
@@ -1015,7 +1070,8 @@
    "nome": "Sirlange Manga",
    "partido": "União Brasil",
    "votos": 87820,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "milton-leite-filho",
@@ -1029,14 +1085,16 @@
    "nome": "Adriana Ventura",
    "partido": "Novo",
    "votos": 69083,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "eduardo-cury",
    "nome": "Eduardo Cury",
    "partido": "PL",
    "votos": 66860,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "wesley-cezar-lelinho",
@@ -1198,21 +1256,24 @@
    "nome": "Paula da Bancada Feminista",
    "partido": "PSOL",
    "votos": 326190,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "giovanni-sanches",
    "nome": "Giovanni Sanches",
    "partido": "PL",
    "votos": 235363,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rogerio-lins",
    "nome": "Rogerio Lins",
    "partido": "Podemos",
    "votos": 229928,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "tenente-coimbra",
@@ -1255,7 +1316,8 @@
    "nome": "Danilo Joan",
    "partido": "PP",
    "votos": 182839,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "thomaz-henrique",
@@ -1277,7 +1339,8 @@
    "nome": "Ediane Maria",
    "partido": "PSOL",
    "votos": 170844,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "luiza-erundina",
@@ -1343,7 +1406,15 @@
    "nome": "Monica das Pretas",
    "partido": "PSOL",
    "votos": 159100,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "monica-das01",
+     "area": "Educação",
+     "t": "Defender o projeto Escola Mais Fresca: trocar estruturas de lata por prédios adequados e criar áreas verdes e sombreadas nas escolas",
+     "meta": "Sem número",
+     "u": "https://pretas.org/nossas-acoes/escola-mais-fresca/"
+    }
+   ]
   },
   {
    "id": "itamar-borges",
@@ -1351,7 +1422,8 @@
    "partido": "MDB",
    "votos": 159058,
    "promessas": [],
-   "base": "Santa Fé do Sul (24.561 votos em Rio Preto)"
+   "base": "Santa Fé do Sul (24.561 votos em Rio Preto)",
+   "busca": "2026-11-01"
   },
   {
    "id": "bruna-furlan",
@@ -1388,7 +1460,8 @@
    "nome": "Dani Alonso",
    "partido": "PL",
    "votos": 155574,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "regina-nunes",
@@ -1402,7 +1475,8 @@
    "nome": "Duda Hidalgo",
    "partido": "PT",
    "votos": 154953,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "sargento-castro",
@@ -1416,7 +1490,8 @@
    "nome": "Professora Bebel",
    "partido": "PT",
    "votos": 142001,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "conte-lopes",
@@ -1460,14 +1535,16 @@
    "partido": "PSOL",
    "votos": 126344,
    "promessas": [],
-   "base": "Campinas"
+   "base": "Campinas",
+   "busca": "2026-11-01"
   },
   {
    "id": "delegada-graciela",
    "nome": "Delegada Graciela",
    "partido": "PL",
    "votos": 125624,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "dr-edson-da-paiol",
@@ -1504,7 +1581,8 @@
    "nome": "Alex Madureira",
    "partido": "PL",
    "votos": 122704,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "leonardo-grandini",
@@ -1519,7 +1597,8 @@
    "partido": "Republicanos",
    "votos": 119904,
    "promessas": [],
-   "base": "São José do Rio Preto (26.049 votos na cidade)"
+   "base": "São José do Rio Preto (26.049 votos na cidade)",
+   "busca": "2026-11-01"
   },
   {
    "id": "barros-munhoz",
@@ -1584,7 +1663,8 @@
    "nome": "Reinaldo Alguz",
    "partido": "MDB",
    "votos": 101946,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "marta-costa",
@@ -1735,7 +1815,8 @@
    "nome": "Leticia Aguiar",
    "partido": "PL",
    "votos": 94832,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "donato",
@@ -1756,21 +1837,24 @@
    "nome": "Ricardo Madalena",
    "partido": "PL",
    "votos": 94319,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "leandro-basson",
    "nome": "Leandro Basson",
    "partido": "Podemos",
    "votos": 90934,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "pardini",
    "nome": "Pardini",
    "partido": "PSD",
    "votos": 89558,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rogerio-franco",
@@ -1791,7 +1875,8 @@
    "nome": "Delegado Mesquita",
    "partido": "PP",
    "votos": 87918,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "valdomiro-lopes",
@@ -1799,14 +1884,16 @@
    "partido": "PSB",
    "votos": 86893,
    "promessas": [],
-   "base": "São José do Rio Preto (30.005 votos na cidade)"
+   "base": "São José do Rio Preto (30.005 votos na cidade)",
+   "busca": "2026-11-01"
   },
   {
    "id": "thammy-miranda",
    "nome": "Thammy Miranda",
    "partido": "PSD",
    "votos": 85619,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "bruno-zambelli",
@@ -1827,7 +1914,8 @@
    "nome": "Léo Oliveira",
    "partido": "MDB",
    "votos": 82508,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "thainara-faria",
@@ -1856,7 +1944,8 @@
    "nome": "Mauro Bragato",
    "partido": "PSD",
    "votos": 79157,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "marina-bragante",
@@ -1877,7 +1966,8 @@
    "nome": "Solange Freitas",
    "partido": "União Brasil",
    "votos": 77524,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "joao-paulo",
@@ -1964,7 +2054,8 @@
    "nome": "Rafael Silva Jr",
    "partido": "PSD",
    "votos": 74043,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rodrigo-moraes",
@@ -2007,7 +2098,8 @@
    "nome": "Lucas Bove",
    "partido": "PL",
    "votos": 71263,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "capitao-mosart",
@@ -2022,7 +2114,8 @@
    "partido": "PT",
    "votos": 70737,
    "promessas": [],
-   "base": "Hortolândia"
+   "base": "Hortolândia",
+   "busca": "2026-11-01"
   },
   {
    "id": "sebastiao-santos",
@@ -2094,14 +2187,16 @@
    "nome": "Isaac Antunes",
    "partido": "PL",
    "votos": 61953,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "fabiana-bolsonaro",
    "nome": "Fabiana Bolsonaro",
    "partido": "PL",
    "votos": 61183,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "thiago-auricchio",
