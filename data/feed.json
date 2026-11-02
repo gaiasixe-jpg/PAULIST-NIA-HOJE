@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-02T17:51:42-03:00",
-"novos_nesta_coleta": 4,
+"atualizado": "2026-11-02T18:49:24-03:00",
+"novos_nesta_coleta": 6,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,12 +14,14 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -35,27 +38,83 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-02",
+"h": "18:22",
+"t": "Deputado pede investigação por boicote e perseguição a apoiadores de Lula",
+"p": "Emídio de Souza (PT) solicitou que MPSP e entidades apurem casos de discriminação política após a reeleição do presidente petista",
+"tema": "Eleições",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/deputado-pede-investigacao-por-boicote-e-perseguicao-a-apoiadores-de-lula",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "18:21",
+"t": "Motorista fica preso às ferragens após batida entre carros em avenida de Piracicaba",
+"p": "Batida foi na Avenida Manoel Conceição, na Vila Rezende; um dos veículos ficou sobre o outro e a vítima foi levada ao hospital",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Piracicaba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/motorista-fica-preso-as-ferragens-apos-batida-entre-carros-em-avenida-de-piracicaba/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "18:02",
+"t": "Tem repolho em casa? Veja 3 receitas leves e saudáveis para o jantar",
+"p": "Nem sempre o repolho recebe o destaque que merece na cozinha, mas esse vegetal pode protagonizar refeições muito deliciosas e nutritivas. Sua composição reúne vitaminas e minerais essenciais para a imunidade e saúde dos ossos, enquanto o sabor suave permite explorar diferentes temperos e acompanhamentos. Para quem…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/tem-repolho-em-casa-veja-3-receitas-leves-e-saudaveis-para-o-jantar/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "18:00",
+"t": "Cemitérios de Santos recebem mais de 40 mil pessoas no Dia de Finados",
+"p": "Henrique Teixeira/Divulgação Prefeitura de Santos A programação nos cemitérios de Santos incluiu missas, atividades de evangelização, apresentações musicais e o Varal de Sentimentos.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/cemiterios-de-santos-recebem-mais-de-40-mil-pessoas-no-dia-de-finados/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "18:00",
+"t": "Homem é preso após ameaçar filha de sete meses com garfo em Guarujá; VÍDEO",
+"p": "Divulgação/Polícia Militar Os policiais conseguiram neutralizar o homem e resgatar a bebê sem ferimentos, na última sexta-feira (30).",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/guaruja-baixada/homem-e-preso-apos-ameacar-filha-de-sete-meses-com-garfo-em-guaruja-video/",
+"auto": true
+},
 {
 "d": "2026-11-02",
 "h": "17:50",
@@ -66,6 +125,20 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/boliviano-e-preso-com-mais-de-660-kg-de-folha-de-coca-em-rodovia-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "17:50",
+"t": "Colisão entre duas motos deixa três feridos em Ilhabela",
+"p": "Acidente entre mootos ocorreu na madrugada no Engenho d'Água; duas vítimas ficaram gravemente feridas e todas foram levadas ao Hospital Mario Covas",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/colisao-entre-duas-motos-deixa-tres-feridos-em-ilhabela.html",
 "auto": true
 },
 {
