@@ -3,6 +3,46 @@
 "itens": [
 {
 "d": "2026-11-02",
+"h": "08:54",
+"t": "Piracema começa e restringe pesca nos rios da região de Votuporanga até fevereiro de 2027",
+"p": "Polícia Ambiental intensifica fiscalização nos rios Grande, Paraná e São José dos Dourados; captura de espécies nativas está proibida e infratores podem sofrer multas e apreensões Entrou em vigor neste domingo (1º) o período da Piracema 2026/2027, que estabelece restrições à pesca nos rios e represas do Noroeste…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/piracema-comeca-e-restringe-pesca-nos-rios-da-regiao-de-votuporanga-ate-fevereiro-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "08:30",
+"t": "Chuva, calor de 29°C e risco de temporal: veja como fica a semana em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Feriado de Finados terá temperaturas de até 27°C e possibilidade de pancadas à tarde e à noite; aviso amarelo indica ventos de até 60 km/h.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "08:17",
+"t": "Fernando Sastre admite pela primeira vez que bebeu antes de dirigir Porsche, tem confissão exibida em vídeo e consegue reduzir condenação em um ano e meio",
+"p": "Declaração apresentada durante o Tribunal do Júri também provocou reação do Ministério Público, que pretende aumentar a punição",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/fernando-sastre-admite-pela-primeira-vez-que-bebeu-antes-de-dirigir-porsche-tem-confissao-exibida-em-video-e-consegue-reduzir-condenacao-em-um-ano-e-meio/",
+"auto": true
+},
+{
+"d": "2026-11-02",
 "h": "08:06",
 "t": "Jovem vê discussão, tenta proteger mulher de agressão e é morto a tiros",
 "p": "Polícia Civil procura por atirador que fugiu com mulher que jovem tentou proteger de eventual violência doméstica, na zona leste da capital",
