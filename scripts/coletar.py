@@ -751,8 +751,11 @@ def coletar_presenca(agora):
     ini = datetime(ano, 1, 1, tzinfo=agora.tzinfo)
     while ini <= agora:
         fim = min(agora, ini + timedelta(days=85))
-        d = camara_get(f"eventos?idOrgao=180&codTipoEvento=110&dataInicio={ini:%Y-%m-%d}&dataFim={fim:%Y-%m-%d}&itens=200&ordem=ASC&ordenarPor=dataHoraInicio")
-        eventos += d.get("dados", [])
+        try:
+            d = camara_get(f"eventos?idOrgao=180&codTipoEvento=110&dataInicio={ini:%Y-%m-%d}&dataFim={fim:%Y-%m-%d}&itens=200&ordem=ASC&ordenarPor=dataHoraInicio")
+            eventos += d.get("dados", [])
+        except Exception as e:  # API lenta: segue com os outros trimestres; o que faltar entra amanhã
+            print("  presença: falha ao listar sessões de", f"{ini:%d/%m}", "-", str(e)[:80])
         ini = fim + timedelta(days=1)
     consultas = 0
     for e in eventos:
@@ -772,6 +775,8 @@ def coletar_presenca(agora):
             continue
         sessoes[eid] = {"d": (e.get("dataHoraInicio") or "")[:10],
                         "sp": sorted(str(x["id"]) for x in pres if x.get("siglaUf") == "SP" and x.get("id"))}
+    if not sessoes:
+        raise RuntimeError("nenhuma sessão obtida")
     ordem = sorted(sessoes.items(), key=lambda kv: (kv[1]["d"], kv[0]))
     deps = {}
     for i, (eid, s) in enumerate(ordem):
