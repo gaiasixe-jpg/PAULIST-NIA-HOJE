@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-01T21:55:46-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-01T22:08:57-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,18 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-01",
+"h": "21:15",
+"t": "Tabela SUS Paulista representa quase 70% dos repasses a hospitais municipais do Grande ABC",
+"p": "Gestão Tarcísio de Freitas enviou para cinco das sete cidades, em três meses, o total de R$ 48.595.798 ante os R$ 69.749.609 da União",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366329/tabela-sus-paulista-representa-quase-70-dos-repasses-a-hospitais-municipais-do-grande-abc",
+"auto": true
+},
 {
 "d": "2026-11-01",
 "h": "21:00",
