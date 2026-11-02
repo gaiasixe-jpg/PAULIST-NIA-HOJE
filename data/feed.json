@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-02T10:15:43-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-02T11:28:44-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,177 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-02",
+"h": "11:21",
+"t": "Motorista embriagado abandona esposa ferida após acidente em Rio Preto",
+"p": "Vítima foi socorrida e encaminhada ao Hospital de Base de Rio Preto",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/motorista-embriagado-abandona-esposa-ferida-apos-acidente-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "11:18",
+"t": "Troca de bomba pode deixar 6 bairros sem água nesta segunda-feira",
+"p": "Troca de bomba afeta a pressão da rede na zona leste de Ribeirão Preto ao longo do dia; veja os locais atingidos",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/troca-de-bomba-pode-deixar-6-bairros-sem-agua-nesta-segunda-feira/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:53",
+"t": "Mega-Sena acumula e prêmio milionário salta para R$ 46 milhões; veja os números",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Mega-Sena acumula após ninguém acertar as seis dezenas do concurso 3080. Próximo sorteio será quarta-feira (4), com prêmio de R$ 46 milhões.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/mega-sena-acumula-46-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:47",
+"t": "Dia de Finados terá chuva forte em São Paulo e alerta para alagamentos, trovoadas e rajadas de vento; veja quais regiões exigem mais atenção nesta segunda-feira (02/11)",
+"p": "Instabilidade deve persistir ao longo do dia, com possibilidade de granizo e elevação do nível de rios e córregos",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/dia-de-finados-tera-chuva-forte-em-sao-paulo-e-alerta-para-alagamentos-trovoadas-e-rajadas-de-vento-veja-quais-regioes-exigem-mais-atencao-nesta-segunda-feira-02-11/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:30",
+"t": "Bertioga alerta para falsas inscrições no Minha Casa, Minha Vida",
+"p": "Prefeitura afirma que não autorizou entidades a divulgar cadastros, e reforça que não há cobrança de taxas para inscrição em iniciativas municipais",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-alerta-para-falsas-inscricoes-no-minha-casa-minha-vida.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:29",
+"t": "Chuva afasta visitantes de cemitérios no Dia de Finados em Marília",
+"p": "Tempo chuvoso nesta segunda-feira (2) está contribuindo para a baixa circulação de visitantes nos cemitérios.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/chuva-afasta-visitantes-de-cemiterios-no-dia-de-finados-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:27",
+"t": "Acidente em rodovia deixa quatro moradores de Aparecida do Taboado feridos em Santa Fé do Sul",
+"p": "Um capotamento registrado no quilômetro 619 de uma rodovia em Santa Fé do Sul deixou quatro pessoas feridas. As vítimas, todas moradoras da cidade vizinha de Aparecida do Taboado (MS), viajavam no mesmo automóvel quando o condutor perdeu o controle da direção. De acordo com o depoimento do motorista, de 40 anos, o…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santa Fé do Sul",
+"Aparecida"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/acidente-em-rodovia-deixa-quatro-moradores-de-aparecida-do-taboado-feridos-em-santa-fe-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:22",
+"t": "Prefeitura de Ouroeste disponibiliza aplicativo gratuito para consulta e localização de jazigos",
+"p": "O Governo Municipal de Ouroeste lançou uma ferramenta digital para orientar e facilitar a visitação nos cemitérios da cidade durante o feriado de Finados. Por meio do aplicativo gratuito CemiCloud, os moradores e visitantes podem consultar informações e identificar a localização exata dos túmulos de familiares e…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-disponibiliza-aplicativo-gratuito-para-consulta-e-localizacao-de-jazigos/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:21",
+"t": "Pecuarista acusado de matar jovem é encontrado morto",
+"p": "Corpo do pecuarista João Roberto Bolelli foi achado por familiar na fazenda onde caminhonete dele já havia sido localizada; polícia preserva a área para perícia",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/pecuarista-acusado-matar-jovem-e-encontrado-morto/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:17",
+"t": "Pesca ilegal de dourado rende multa de mais de R$ 1 mil a morador em Pontes Gestal",
+"p": "Uma fiscalização realizada pela Polícia Militar Ambiental resultou na aplicação de uma multa no valor de R$ 1.085,00 a um pescador amador no município de Pontes Gestal. A autuação ocorreu após os agentes encontrarem seis exemplares da espécie dourado (Salminus brasiliensis) armazenados na propriedade do morador,…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Pontes Gestal"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pesca-ilegal-de-dourado-rende-multa-de-mais-de-r-1-mil-a-morador-em-pontes-gestal/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:16",
+"t": "Perseguição policial por 80 km mobiliza equipes de segurança e termina com motorista preso em Auriflama",
+"p": "Uma intensa perseguição policial mobilizou equipes do Policiamento Ambiental e de patrulhamento territorial ao longo de cerca de 80 quilômetros nas rodovias do Noroeste Paulista, na manhã da última quinta-feira (29). A ação começou em Votuporanga e só foi concluída no município de Auriflama, onde o condutor de uma…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga",
+"Auriflama"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/perseguicao-policial-por-80-km-mobiliza-equipes-de-seguranca-e-termina-com-motorista-preso-em-auriflama/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "10:12",
+"t": "Enfermeira de Magda vítima de acidente com caminhão é sepultada em General Salgado",
+"p": "Um grave acidente na Rodovia Feliciano Sales Cunha (SP-310) resultou na morte da enfermeira Naísa de Cássia Mateus, de 44 anos, na madrugada deste sábado (31), no trecho próximo ao acesso do município de Magda. O veículo de passeio que a profissional conduzia colidiu frontalmente contra um caminhão-trator por volta…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"General Salgado",
+"Magda"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/enfermeira-de-magda-vitima-de-acidente-com-caminhao-e-sepultada-em-general-salgado/",
+"auto": true
+},
 {
 "d": "2026-11-02",
 "h": "10:11",
