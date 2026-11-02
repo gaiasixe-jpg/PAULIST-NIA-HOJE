@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-02T04:33:04-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-02T06:11:37-03:00",
+"novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,77 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-02",
+"h": "06:01",
+"t": "Mira Estrela reúne cerca de 600 idosos em edição do Baile Intermunicipal da Melhor Idade",
+"p": "A área de lazer do município de Mira Estrela sediou, no último sábado (24), o tradicional Baile do Consórcio Intermunicipal da Melhor Idade. O evento reuniu cerca de 600 idosos vindos de 13 cidades da região para um dia dedicado à integração social, dança e entretenimento ao som de música ao vivo. A programação…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mira-estrela-reune-cerca-de-600-idosos-em-edicao-do-baile-intermunicipal-da-melhor-idade/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "06:00",
+"t": "Vereador de Santos pede revisão da Operação Subida nas rodovias",
+"p": "Divulgação/Ecovias Ofício enviado às Câmaras Municipais pede mobilização em torno de um pedido de revisão da chamada Operação Subida.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/vereador-de-santos-pede-revisao-da-operacao-subida-nas-rodovias/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "06:00",
+"t": "Rastreamento de celular roubado leva PM a suspeitos em Santos",
+"p": "Divulgação/PM Um homem foi preso e um adolescente apreendido pela Polícia Militar após um roubo ocorrido nas proximidades de um supermercado, em São Vicente.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente",
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/sao-vicente/rastreamento-de-celular-roubado-leva-pm-a-suspeitos-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "05:00",
+"t": "Câmara vota criação de cargos, Zera Dívida e restrição à publicidade de bets",
+"p": "Sessão será realizada na terça-feira (3), às 16h, e terá oito propostas na pauta, incluindo convênio para reforçar a segurança no Legislativo.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/camara-vota-criacao-de-cargos-zera-divida-e-restricao-a-publicidade-de-bets/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "05:00",
+"t": "Cemitérios de Marília terão missas no Dia de Finados nesta segunda",
+"p": "Programação na segunda-feira (2) inclui três celebrações no Cemitério da Saudade e uma no Cemitério das Orquídeas.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/cemiterios-de-marilia-terao-missas-no-dia-de-finados-nesta-segunda/",
+"auto": true
+},
 {
 "d": "2026-11-02",
 "h": "02:45",
