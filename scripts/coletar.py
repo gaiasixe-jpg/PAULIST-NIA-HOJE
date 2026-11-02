@@ -32,6 +32,7 @@ RSS = RAIZ / "data" / "rss"
 SITE = "https://gaiasixe-jpg.github.io/PAULIST-NIA-HOJE/"
 VIDEOS = RAIZ / "data" / "videos.json"
 VOTACOES = RAIZ / "data" / "votacoes.json"
+PRESENCA = RAIZ / "data" / "presenca.json"
 YOUTUBE_CANAL = "UCaMYzI56lfmcMxRbO1B5EXQ"  # canal do YouTube (@aranellliz)
 DIAS_GUARDADOS = 120
 MAXIMO_ITENS = 4000
@@ -485,7 +486,7 @@ def coletar_federais(regras, agora, gastos):
     deps = {}
     try:
         for x in camara_get("deputados?siglaUf=SP&itens=100&ordem=ASC&ordenarPor=nome").get("dados", []):
-            deps[str(x["id"])] = {"n": x["nome"], "p": x["siglaPartido"]}
+            deps[str(x["id"])] = {"n": x["nome"], "p": x["siglaPartido"], "email": x.get("email") or ""}
     except Exception:
         pass  # a lista da API às vezes cai; usa quem tem gasto lançado no ano
     for k, g in (gastos or {}).get("camara", {}).get("deps", {}).items():
@@ -514,7 +515,8 @@ def coletar_federais(regras, agora, gastos):
                       "pls": [{"d": (p.get("dataApresentacao") or "")[:10], "s": f"{p.get('siglaTipo')} {p.get('numero')}/{p.get('ano')}",
                                "e": re.sub(r"\s+", " ", p.get("ementa") or "").strip()[:260],
                                "u": f"https://www.camara.leg.br/propostas-legislativas/{p.get('id')}"} for p in pls[:12]],
-                      "cid": top[:12], "u": f"https://www.camara.leg.br/deputados/{dep_id}"})
+                      "cid": top[:12], "u": f"https://www.camara.leg.br/deputados/{dep_id}",
+                      **({"email": info["email"]} if info.get("email") else {})})
     for c in por_cidade:
         por_cidade[c] = sorted(por_cidade[c], key=lambda x: -x[1])[:6]
     lista.sort(key=lambda d: norm(d["n"]))
@@ -734,6 +736,60 @@ def chave_item(i):
     return chave(i["u"]) + ("|" + i.get("num", "") if i.get("qd") else "")
 
 
+# ---------- Presença dos deputados federais de SP nas sessões deliberativas do plenário ----------
+def coletar_presenca(agora):
+    """Lista de presença de cada sessão deliberativa do plenário da Câmara no ano (incremental)."""
+    ano = agora.year
+    anterior = {}
+    if PRESENCA.exists():
+        try:
+            anterior = json.loads(PRESENCA.read_text(encoding="utf-8"))
+        except Exception:
+            anterior = {}
+    sessoes = anterior.get("sessoes", {}) if anterior.get("ano") == ano else {}
+    eventos = []
+    ini = datetime(ano, 1, 1, tzinfo=agora.tzinfo)
+    while ini <= agora:
+        fim = min(agora, ini + timedelta(days=85))
+        d = camara_get(f"eventos?idOrgao=180&codTipoEvento=110&dataInicio={ini:%Y-%m-%d}&dataFim={fim:%Y-%m-%d}&itens=200&ordem=ASC&ordenarPor=dataHoraInicio")
+        eventos += d.get("dados", [])
+        ini = fim + timedelta(days=1)
+    consultas = 0
+    for e in eventos:
+        eid = str(e.get("id"))
+        if eid in sessoes or "Encerrada" not in (e.get("situacao") or "") or "Deliberativa" not in (e.get("descricaoTipo") or ""):
+            continue
+        if "Não Deliberativa" in (e.get("descricaoTipo") or ""):
+            continue
+        if consultas >= 150:
+            break
+        consultas += 1
+        try:
+            pres = camara_get(f"eventos/{eid}/deputados").get("dados", [])
+        except Exception:
+            continue
+        if not pres:
+            continue
+        sessoes[eid] = {"d": (e.get("dataHoraInicio") or "")[:10],
+                        "sp": sorted(str(x["id"]) for x in pres if x.get("siglaUf") == "SP" and x.get("id"))}
+    ordem = sorted(sessoes.items(), key=lambda kv: (kv[1]["d"], kv[0]))
+    deps = {}
+    for i, (eid, s) in enumerate(ordem):
+        for dep in s["sp"]:
+            r = deps.setdefault(dep, {"p": 0, "i": i, "f": i})
+            r["p"] += 1
+            r["f"] = i
+    saida = {}
+    for dep, r in deps.items():
+        # Período no mandato: da primeira presença até hoje (se esteve nas últimas 15 sessões)
+        # ou até a última presença (suplente que já saiu). Assim ninguém leva falta fora do mandato.
+        total = len(ordem) - r["i"] if r["f"] >= len(ordem) - 15 else r["f"] - r["i"] + 1
+        saida[dep] = {"p": r["p"], "t": max(total, r["p"]), "desde": ordem[r["i"]][1]["d"]}
+    return {"atualizado": agora.strftime("%Y-%m-%dT%H:%M:%S-03:00"), "ano": ano,
+            "fonte": "Dados Abertos da Câmara dos Deputados (listas de presença das sessões deliberativas do plenário)",
+            "n_sessoes": len(ordem), "deps": saida, "sessoes": sessoes}
+
+
 VOT_PULAR = re.compile(r"Reda[cç][aã]o Final|Requerimento|Mantido|Emenda de Reda|pressupostos|Regime de Tramita", re.I)
 VOT_MAX = 40
 
@@ -951,6 +1007,14 @@ def main():
             print(f"federais: {len(fed['deputados'])} deputados")
         except Exception as e:
             print("  erro nos federais:", str(e)[:160])
+    # Presença nas sessões do plenário da Câmara: uma vez por dia.
+    if not PRESENCA.exists() or agora.hour == 7 or "--presenca" in sys.argv:
+        try:
+            pr = coletar_presenca(agora)
+            gravar_se_mudou(PRESENCA, json.dumps(pr, ensure_ascii=False, separators=(",", ":")))
+            print(f"presença: {pr['n_sessoes']} sessões, {len(pr['deps'])} deputados de SP")
+        except Exception as e:
+            print("  erro na presença:", str(e)[:160])
     # Votações nominais da Câmara: 7h e 19h (as sessões costumam terminar à noite).
     if not VOTACOES.exists() or agora.hour in (7, 19) or "--votacoes" in sys.argv:
         try:
