@@ -788,6 +788,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     var dc=((DEPS&&DEPS.por_cidade&&DEPS.por_cidade[m.n])||[]).map(function(x){return [x[0],x[1],"d"];}).concat(((FEDS&&FEDS.por_cidade&&FEDS.por_cidade[m.n])||[]).map(function(x){return [x[0],x[1],"f"];}));
     if(dc.length){h+='<div class="official"><h3>Deputados de olho em '+esc(m.n)+'</h3><p>Quem mais citou a cidade em pedidos e projetos na Alesp e na Câmara nos últimos 12 meses.</p><div class="olinks">'+
       dc.map(function(x){var d=(x[2]==="f"?FEDI:DEPI)[x[0]];if(!d)return "";return '<a href="#'+x[2]+'-'+esc(d.id)+'"><b>'+esc(d.n)+'</b><small>'+(x[2]==="f"?"Federal":"Estadual")+' · '+esc(d.p)+' · citou '+esc(m.n)+' '+(+x[1])+(x[1]>1?' vezes':' vez')+'</small></a>';}).join("")+'</div></div>';}
+    h+=emdCidade(m);
     h+='<h2 class="sec-h" style="font-size:32px">Notícias e decretos com fonte</h2>';
     if(m.rec.length)h+='<p style="margin:6px 0 0"><a class="rss" href="data/rss/'+m.i+'.xml" target="_blank" rel="noopener">Assinar as notícias de '+esc(m.n)+' (RSS)</a></p>';
     h+=m.rec.length?'<div class="stories">'+m.rec.map(function(n){return storyHTML(n);}).join("")+'</div>':'<div class="empty" style="margin-top:12px">Ainda não há notícias ou decretos verificados sobre '+esc(m.n)+' na base. As publicações oficiais acima já estão disponíveis, e os próximos itens da cidade aparecem aqui assim que forem publicados.</div>';
@@ -885,6 +886,19 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       if(r[1]&&Array.isArray(r[1].deputados)){FEDS=r[1];FEDI={};prepDeps(FEDS,FEDI);}
       if(r[2]&&r[2].camara&&r[2].alesp)GAS=r[2];
       drawVotPanel();drawCasa();drawDeps();try{drawProm();}catch(e){}if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(/^[df]-/.test(hh)||hh==="votacoes")route();});}
+  var EMD=null,emdLoad=false;
+  function loadEmd(){if(EMD||emdLoad)return;emdLoad=true;loadJSON("data/emendas.json").then(function(d){if(!d||!d.cid)return;EMD=d;if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);if(curDep&&!document.getElementById("v-deputados").hidden)drawDep(curDep);}).catch(function(){});}
+  function brlc(v){v=+v||0;return v>=1e6?"R$ "+(v/1e6).toLocaleString("pt-BR",{maximumFractionDigits:1})+(v<2e6?" milhão":" milhões"):brl(v);}
+  function emdAutorLink(nome){var f=FEDS?FEDS.deputados.filter(function(x){return nomeIgual(nome,x.n);})[0]:null;return f?'<a href="#f-'+esc(f.id)+'">'+esc(nome)+'</a>':esc(nome);}
+  function emdCidade(m){if(!EMD){loadEmd();return "";}var c=EMD.cid[m.i],ano=EMD.ano,fu=safeUrl(EMD.fonte_u);
+    var h='<div class="official"><h3>Emendas parlamentares para '+esc(m.n)+' em '+esc(ano)+'</h3><p>Dinheiro do Orçamento federal que deputados, senadores, bancadas e comissões do Congresso mandaram para a cidade. Valores já pagos'+(EMD.ate?' até '+esc(EMD.ate):'')+'.</p>';
+    if(!c||!(c.t>0)){h+='<p style="margin:0">Nenhum pagamento de emenda federal registrado para '+esc(m.n)+' em '+esc(ano)+' até agora.'+(c&&c.ta?' Em '+(ano-1)+' foram '+brlc(c.ta)+'.':'')+'</p>';}
+    else{h+='<p style="margin:0 0 8px"><strong style="font-size:26px">'+brlc(c.t)+'</strong>'+(c.ta?' <span class="more">· no ano todo de '+(ano-1)+': '+brlc(c.ta)+'</span>':'')+'</p>';
+      if(c.aut.length)h+='<p class="more" style="margin:8px 0 2px">Quem mandou o dinheiro</p><ul style="margin:0">'+c.aut.map(function(a){return '<li>'+emdAutorLink(a[0])+' · '+brlc(a[1])+'</li>';}).join("")+'</ul>';
+      if(c.fav.length)h+='<p class="more" style="margin:8px 0 2px">Quem recebeu</p><ul style="margin:0">'+c.fav.map(function(a){return '<li>'+esc(a[0])+' · '+brlc(a[1])+'</li>';}).join("")+'</ul>';}
+    return h+'<p class="more" style="margin:8px 0 0">Fonte: '+(fu?'<a href="'+esc(fu)+'" target="_blank" rel="noopener">'+esc(EMD.fonte)+'</a>':esc(EMD.fonte))+'. Emendas do governo estadual (Alesp) não entram aqui.</p></div>';}
+  function emdDep(x){if(!EMD){loadEmd();return "";}var k=Object.keys(EMD.autores).filter(function(a){return nomeIgual(a,x.n);})[0];if(!k)return "";var a=EMD.autores[k];
+    return '<h4>Emendas pagas a cidades de SP em '+esc(EMD.ano)+'</h4><p style="margin:0 0 4px"><strong style="font-size:22px">'+brlc(a.t)+'</strong> <span class="more">· valores já pagos'+(EMD.ate?' até '+esc(EMD.ate):'')+'</span></p><div class="cities" style="font-size:14px">'+a.cid.map(function(c){var m=byCode[c[0]];return m?'<button type="button" data-city="'+m.i+'">'+esc(m.n)+'</button> ('+brlc(c[1])+')':'';}).filter(Boolean).join(" · ")+'</div><p class="more" style="margin:4px 0 0">Fonte: '+esc(EMD.fonte)+'.</p>';}
   function presDe(x){if(!PRES||!PRES.deps)return null;var r=PRES.deps[x.id];if(!r||!(r.t>0))return null;return {p:+r.p,t:+r.t,pct:Math.round(r.p/r.t*100),desde:r.desde};}
   function presRank(x){var me=presDe(x);if(!me||!FEDS)return 0;var L=FEDS.deputados.map(presDe).filter(function(r){return r&&r.t>=20;});return 1+L.filter(function(r){return r.pct<me.pct;}).length;}
   function presHTML(x){var r=presDe(x);if(!r)return "";var rk=presRank(x),n=FEDS.deputados.map(presDe).filter(function(q){return q&&q.t>=20;}).length;
@@ -945,7 +959,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     var D=casa==="camara"?FEDS:DEPS;
     h+='<div class="depnums">'+nums.map(function(k){return '<div style="--c:'+k[2]+'"><b>'+(+x.tot[k[0]]||0)+'</b><span>'+k[1]+'</span></div>';}).join("")+'</div><p class="more" style="margin:0">Nos últimos 12 meses, até '+fmt(D.dados_ate)+'.</p>';
     h+=gastosHTML(x,casa);
-    if(casa==='camara')h+=presHTML(x)+votosDep(x);
+    if(casa==='camara')h+=presHTML(x)+emdDep(x)+votosDep(x);
     h+='<h4>Cobre '+esc(x.n)+'</h4><p class="more" style="margin:0">Mande uma pergunta direto para o gabinete. A mensagem já vem pronta.</p>'+cobreHTML(x.n,x.email,x.u,polDe(x,casa));
     if(x.base&&x.base.length)h+='<h4>Base eleitoral (informada à Alesp)</h4><ul>'+x.base.map(function(b){return '<li>'+esc(b)+'</li>';}).join("")+'</ul>';
     if(x.areas&&x.areas.length)h+='<h4>Áreas de atuação</h4><p style="margin:0">'+x.areas.map(esc).join(" · ")+'</p>';
