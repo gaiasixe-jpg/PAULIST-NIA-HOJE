@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-02T01:01:33-03:00",
+"atualizado": "2026-11-02T02:07:45-03:00",
 "novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
@@ -22,6 +22,7 @@
 "Costa Norte",
 "Portal Sorocaba.com",
 "Jornal Ita News",
+"Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
@@ -43,13 +44,24 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Portal Regional (Dracena)",
-"erro": "The read operation timed out"
 }
 ],
 "itens": [
+{
+"d": "2026-11-02",
+"h": "01:13",
+"t": "Policiais militares resgatam cachorro preso em bueiro",
+"p": "Uma ação realizada por uma equipe do 49º Batalhão de Polícia Militar do Interior (BPM/I) resultou no resgate de um cachorro de pequeno porte que estava preso no interior de um bueiro no bairro Jardim Tarumã, em Jundiaí. A ocorrência foi registrada na última sexta-feira (30), quando os agentes patrulhavam a região e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí",
+"Tarumã"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policiais-militares-resgatam-cachorro-preso-em-bueiro/",
+"auto": true
+},
 {
 "d": "2026-11-02",
 "h": "00:43",
