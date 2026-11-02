@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-02T02:07:45-03:00",
+"atualizado": "2026-11-02T03:09:25-03:00",
 "novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
@@ -47,6 +47,18 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-02",
+"h": "02:45",
+"t": "Deputados reeleitos esperam “tiro, porrada e bomba” de novatos na Alesp",
+"p": "Parlamentares acreditam em mandato marcado por confusões com chegada de colegas com perfil mais ideológico na Casa",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/deputados-reeleitos-esperam-tiro-porrada-e-bomba-de-novatos-na-alesp",
+"auto": true
+},
 {
 "d": "2026-11-02",
 "h": "01:13",
