@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-02T16:00:42-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-02T16:57:40-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,155 @@
 "itens": [
 {
 "d": "2026-11-02",
+"h": "16:36",
+"t": "Chuva forte faz teto de shopping ceder e inunda asilo no interior de SP",
+"p": "As fortes chuvas da tarde desta segunda-feira (2/11) provocaram estragos em diferentes regiões do estado de São Paulo",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-forte-faz-teto-de-shopping-ceder-e-inunda-asilo-no-interior-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:32",
+"t": "Polícia Militar frustra furto a loja de eletrônicos e recupera R$ 500 mil em mercadorias",
+"p": "Dois homens, de 24 e 36 anos, foram presos em flagrante na madrugada do último domingo (1º) durante uma tentativa de furto a uma loja de eletrônicos no município de Valinhos, no interior paulista. A ação rápida da Polícia Militar evitou um prejuízo estimado em R$ 500 mil ao estabelecimento comercial e resultou na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Valinhos"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-frustra-furto-a-loja-de-eletronicos-e-recupera-r-500-mil-em-mercadorias/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:31",
+"t": "Defesa Civil alerta para risco de temporais com raios e granizo nos próximos dias",
+"p": "A Defesa Civil do Estado de São Paulo emitiu um alerta de atenção para a possibilidade de tempestades severas em diversas regiões paulistas ao longo dos próximos dias. As previsões meteorológicas indicam pancadas de chuva intensas acompanhadas de descargas elétricas, rajadas de vento e risco pontual de queda de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-alerta-para-risco-de-temporais-com-raios-e-granizo-nos-proximos-dias/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:30",
+"t": "Lentidão atinge 43 rodovias de São Paulo e soma 343 km e mais de 10 horas de atrasos no retorno do feriado de Finados",
+"p": "As rodovias do estado de São Paulo registram movimento intenso e pontos de lentidão nesta segunda-feira (2/11), feriado de Finados, durante o retorno de motoristas que viajaram no fim de semana prolongado. No Sistema Anchieta-Imigrantes, a Operação Subida (2×8) está em vigor para facilitar o deslocamento de quem…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/lentidao-atinge-43-rodovias-de-sao-paulo-e-soma-343-km-e-mais-de-10-horas-de-atrasos-no-retorno-do-feriado-de-finados/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:30",
+"t": "SACs de empresas são obrigados a ter contato direto com consumidores a partir desta segunda-feira",
+"p": "Decreto, publicado em 13 de outubro, exige a garantia de atendimento humano das 8h às 20h todos os dias",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/sacs-de-empresas-sao-obrigados-a-ter-contato-direto-com-consumidores-a-partir-desta-segunda/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-02",
+"h": "16:30",
+"t": "Ubatuba tem 32 vagas para o Conselho Municipal de Saúde; inscrições terminam nesta sexta",
+"p": "Processo eleitoral escolhe representantes para o biênio 2026–2028; entidades, associações e movimentos sociais podem participar",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ubatuba/ubatuba-abre-32-vagas-no-conselho-municipal-de-saude-inscricoes-terminam-nesta-sexta.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:30",
+"t": "Tempestades e vendavais deixam um morto e rastros de destruição em municípios paulistas",
+"p": "As fortes chuvas e rajadas de vento registradas entre a tarde do último domingo (1º) e a madrugada desta segunda-feira (2) causaram transtornos, destelhamentos e quedas de árvores em diversas regiões do Estado de São Paulo. O balanço do Governo do Estado, por meio da Defesa Civil e do Corpo de Bombeiros, aponta a…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tempestades-e-vendavais-deixam-um-morto-e-rastros-de-destruicao-em-municipios-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:30",
+"t": "Operação policial intercepta ônibus de viagem e apreende mais de 660 quilos de folhas de coca",
+"p": "Uma fiscalização de rotina realizada pela Polícia Militar Rodoviária resultou na apreensão de 661 quilos de folhas de coca na manhã do último domingo (1º), na Rodovia Comandante João Ribeiro de Barros (SP-294), no trecho do município de Irapuru. A carga ilícita, avaliada pelas forças de segurança em cerca de R$ 140…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Irapuru"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-policial-intercepta-onibus-de-viagem-e-apreende-mais-de-660-quilos-de-folhas-de-coca/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:28",
+"t": "Inscrições para 50 mil vagas remanescentes do Fies terminam nesta terça-feira; veja como participar",
+"p": "Oportunidades são para financiamento de cursos em instituições privadas de ensino superior no segundo semestre de 2026; resultado da seleção será divulgado em 16 de novembro",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/inscricoes-para-50-mil-vagas-remanescentes-do-fies-terminam-nesta-terca-feira-veja-como-participar/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:20",
+"t": "Pai é preso após sair com bebê de 7 meses e ameaçar devolvê-la apenas com presença da polícia em Guarujá",
+"p": "Homem carregava um garfo de churrasco enquanto circulava por ruas de Vicente de Carvalho; durante a abordagem, soltou a criança, que foi amparada por uma policial militar",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/pm-resgata-bebe-de-7-meses-durante-ocorrencia-de-violencia-domestica-em-guaruja.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:14",
+"t": "Motorista embriagado causa acidente na Washington Luís e abandona esposa ferida",
+"p": "Uma mulher de 32 anos ficou ferida após o carro em que viajava colidir contra estruturas de proteção na Rodovia Washington Luís (SP-310), em São José do Rio Preto, na noite do último domingo (1º). O acidente ocorreu na altura do quilômetro 434, por volta das 22h30, e o motorista do veículo, esposo da vítima, […]",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motorista-embriagado-causa-acidente-na-washington-luis-e-abandona-esposa-ferida/",
+"auto": true
+},
+{
+"d": "2026-11-02",
 "h": "16:00",
 "t": "Defesa Civil de SP prevê persistência da chuva nos próximos dias",
 "p": "Entre domingo (1º) e segunda (2) 88 alertas foram enviados à população entre a Capital e Região Metropolitana, além do interior e litoral",
@@ -57,6 +206,18 @@
 "c": [],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4366412/defesa-civil-de-sp-preve-persistencia-da-chuva-nos-proximos-dias",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "16:00",
+"t": "Projeto de R$ 6 bilhões para levar governo de SP ao centro começa com novo terminal de ônibus na região da Luz",
+"p": "A construção de um novo terminal de ônibus próximo à Estação da Luz deve marcar o início das intervenções para transferir a sede do governo de São Paulo para a região central da capital. Previsto para 2028, o equipamento substituirá o Terminal Princesa Isabel, que será demolido para permitir a ampliação da praça de…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/projeto-de-r-6-bilhoes-para-levar-governo-de-sp-ao-centro-comeca-com-novo-terminal-de-onibus-na-regiao-da-luz/",
 "auto": true
 },
 {
