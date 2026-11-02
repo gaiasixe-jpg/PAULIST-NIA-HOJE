@@ -33,6 +33,7 @@ SITE = "https://gaiasixe-jpg.github.io/PAULIST-NIA-HOJE/"
 VIDEOS = RAIZ / "data" / "videos.json"
 VOTACOES = RAIZ / "data" / "votacoes.json"
 PRESENCA = RAIZ / "data" / "presenca.json"
+EMENDAS = RAIZ / "data" / "emendas.json"
 YOUTUBE_CANAL = "UCaMYzI56lfmcMxRbO1B5EXQ"  # canal do YouTube (@aranellliz)
 DIAS_GUARDADOS = 120
 MAXIMO_ITENS = 4000
@@ -795,6 +796,61 @@ def coletar_presenca(agora):
             "n_sessoes": len(ordem), "deps": saida, "sessoes": sessoes}
 
 
+# ---------- Emendas parlamentares federais pagas a favorecidos de SP (Portal da Transparência, sem chave) ----------
+EMENDAS_ZIP = "https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares/UNICO"
+
+
+def coletar_emendas(agora, municipios):
+    """Quanto dinheiro de emendas federais chegou a cada cidade de SP no ano, quem mandou e quem recebeu."""
+    req = urllib.request.Request(EMENDAS_ZIP, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=180) as r:
+        bruto = r.read()
+    z = zipfile.ZipFile(io.BytesIO(bruto))
+    nome = [n for n in z.namelist() if n.endswith("PorFavorecido.csv")][0]
+    por_nome = {norm(m["n"]): m["i"] for m in municipios}
+    ano = agora.year
+    cid, autores, ultimo = {}, {}, ""
+    with z.open(nome) as f:
+        for x in csv.DictReader(io.TextIOWrapper(f, encoding="latin-1"), delimiter=";"):
+            if x.get("UF Favorecido") != "SP":
+                continue
+            am = x.get("Ano/Mês") or ""
+            a = am[:4]
+            if a not in (str(ano), str(ano - 1)):
+                continue
+            ibge = por_nome.get(norm(x.get("Município Favorecido") or ""))
+            if not ibge:
+                continue
+            try:
+                val = float((x.get("Valor Recebido") or "0").replace(".", "").replace(",", "."))
+            except ValueError:
+                continue
+            c = cid.setdefault(ibge, {"t": 0.0, "ta": 0.0, "aut": {}, "fav": {}})
+            if a == str(ano - 1):
+                c["ta"] += val
+                continue
+            ultimo = max(ultimo, am)
+            autor = re.sub(r"\s*\(.*$", "", (x.get("Nome do Autor da Emenda") or "Sem informação").strip()).title()
+            autor = re.sub(r"^Com\. (D[aeo]s? )?", "Comissão de ", autor).replace(" De Sao Paulo", " de São Paulo")
+            fav = (x.get("Favorecido") or "").strip().title()
+            c["t"] += val
+            c["aut"][autor] = c["aut"].get(autor, 0) + val
+            if x.get("Tipo Favorecido") == "Pessoa Jurídica" and "Individual" not in (x.get("Natureza Jurídica") or ""):  # pessoas e MEIs não são listados pelo nome
+                c["fav"][fav] = c["fav"].get(fav, 0) + val
+            au = autores.setdefault(autor, {"t": 0.0, "cid": {}})
+            au["t"] += val
+            au["cid"][ibge] = au["cid"].get(ibge, 0) + val
+    top = lambda d, n: [[k, round(v)] for k, v in sorted(d.items(), key=lambda kv: -kv[1])[:n] if v > 0]
+    saida_cid = {k: {"t": round(v["t"]), "ta": round(v["ta"]), "aut": top(v["aut"], 6), "fav": top(v["fav"], 5)}
+                 for k, v in cid.items() if v["t"] > 0 or v["ta"] > 0}
+    saida_aut = {k: {"t": round(v["t"]), "cid": top(v["cid"], 8)} for k, v in autores.items() if v["t"] > 0}
+    return {"atualizado": agora.strftime("%Y-%m-%dT%H:%M:%S-03:00"), "ano": ano,
+            "ate": f"{ultimo[4:6]}/{ultimo[:4]}" if ultimo else "",
+            "fonte": "Portal da Transparência (CGU) — emendas parlamentares, valores recebidos por favorecido",
+            "fonte_u": "https://portaldatransparencia.gov.br/emendas",
+            "cid": saida_cid, "autores": saida_aut}
+
+
 VOT_PULAR = re.compile(r"Reda[cç][aã]o Final|Requerimento|Mantido|Emenda de Reda|pressupostos|Regime de Tramita", re.I)
 VOT_MAX = 40
 
@@ -1012,6 +1068,15 @@ def main():
             print(f"federais: {len(fed['deputados'])} deputados")
         except Exception as e:
             print("  erro nos federais:", str(e)[:160])
+    # Emendas parlamentares (Portal da Transparência): uma vez por dia.
+    if not EMENDAS.exists() or agora.hour == 7 or "--emendas" in sys.argv:
+        try:
+            em = coletar_emendas(agora, municipios)
+            if em["cid"]:
+                gravar_se_mudou(EMENDAS, json.dumps(em, ensure_ascii=False, separators=(",", ":")))
+            print(f"emendas: {len(em['cid'])} cidades, {len(em['autores'])} autores, até {em['ate']}")
+        except Exception as e:
+            print("  erro nas emendas:", str(e)[:160])
     # Presença nas sessões do plenário da Câmara: uma vez por dia.
     if not PRESENCA.exists() or agora.hour == 7 or "--presenca" in sys.argv:
         try:
