@@ -3,6 +3,87 @@
 "itens": [
 {
 "d": "2026-11-02",
+"h": "15:00",
+"t": "Santo André economiza R$ 1,3 milhão com digitalização de processos e redução",
+"p": "Volume de cerca de 4,4 milhões de páginas corresponde à preservação de 442 árvores, de acordo com a prefeitura",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366409/santo-andre-economiza-rs-1-3-milhao-com-digitalizacao-de-processos-e-reducao",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "14:48",
+"t": "STF confirma mudança que afeta aposentados com doenças graves e reduz proteção sobre valores entre R$ 8,4 mil e R$ 16,9 mil",
+"p": "STF confirma por 7 votos a 3 o fim do duplo teto para servidores aposentados com doença grave. A isenção caiu de R$ 16.951,10 para R$ 8.475,55, e a cobrança vale só para os regimes próprios do serviço público, não para o INSS.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/stf-confirma-mudanca-que-afeta-aposentados-com-doencas-graves-e-reduz-protecao-sobre-valores-entre-r-84-mil-e-r-169-mil/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "14:36",
+"t": "Médico é assaltado enquanto trabalhava em UPA no litoral de São Paulo",
+"p": "Criminosos levaram o telefone celular, o relógio e uma corrente de ouro do médico. Caso aconteceu na madrugada de domino (1º/11) no Guarujá",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo",
+"Guarujá"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/medico-e-assaltado-enquanto-trabalhava-em-upa-no-litoral-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "14:30",
+"t": "Bertioga leva mil crianças para aulas sobre Mata Atlântica e cadeia alimentar",
+"p": "Projeto da Prefeitura reuniu 38 turmas do 3º ano da rede municipal e terminou em outubro, com atividades práticas no Centro de Educação Ambiental",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-leva-mil-criancas-para-aulas-sobre-mata-atlantica-e-cadeia-alimentar.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "14:21",
+"t": "Chuva forte provoca estragos em Marília",
+"p": "Temporal mobilizou equipes de diversos órgãos municipais para atender a ocorrências de danos estruturais e garantir a segurança da população.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/chuva-forte-provoca-estragos-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "14:12",
+"t": "Folga pós-eleições? Projeto prevê feriado após votação geral e municipal",
+"p": "De autoria da deputada Luciene Cavalcante (PSol-SP), a proposta visa facilitar o retorno de eleitores que precisarem viajar para votar",
+"tema": "Eleições",
+"s": "anunciado",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/folga-pos-eleicoes-projeto-preve-feriado-apos-votacao-geral-e-municipal",
+"auto": true
+},
+{
+"d": "2026-11-02",
 "h": "14:02",
 "t": "Redação do Enem: 5 eixos temáticos para orientar a revisão e se preparar para a prova",
 "p": "Com o primeiro dia do Exame Nacional do Ensino Médio (Enem) marcado para 8 de novembro, revisar conteúdos e acompanhar questões do cenário brasileiro pode ajudar os candidatos a ampliar o repertório e desenvolver uma argumentação mais consistente diante de diferentes propostas de redação. Nas semanas que antecedem…",
