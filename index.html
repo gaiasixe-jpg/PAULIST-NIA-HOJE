@@ -393,6 +393,7 @@ footer strong{font-family:var(--display);font-size:22px;color:var(--flag-ink);te
 <section class="view" id="v-regioes" aria-labelledby="h-reg" hidden>
   <h2 class="sec-h" id="h-reg">As nove regiões</h2>
   <p class="sec-sub">O estado dividido pelas áreas de DDD. Toque numa região para destacá-la no mapa, ou numa cidade para abrir a página dela.</p>
+  <div id="regEmd"></div>
   <div id="regList"></div>
 </section>
 
@@ -801,6 +802,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
 
   /* regiões */
   function drawRegions(){
+    var re=document.getElementById("regEmd");if(re)re.innerHTML=emdRegHTML();
     var sorted=MUN.slice().sort(function(a,b){return a.n.localeCompare(b.n,"pt-BR");});
     document.getElementById("regList").innerHTML=Object.keys(REGN).map(function(k){var ms=sorted.filter(function(m){return m.d===k;});var nrec=N.filter(function(n){return inReg(n,k);}).length;
       return '<div class="tablewrap"><table><thead><tr><th><button class="chip" type="button" data-reg-show="'+k+'">Ver no mapa</button>&nbsp; '+esc(REGN[k])+' · DDD '+k+' · '+ms.length+' municípios · '+nrec+' registros</th></tr></thead><tbody><tr><td class="more">Jornais da região: '+(PAPERS[k]||[]).map(function(p){return '<a href="'+p[1]+'" target="_blank" rel="noopener">'+esc(p[0])+'</a>';}).join(" · ")+'</td></tr><tr><td class="cities" style="line-height:1.9">'+ms.map(function(m){return '<button type="button" data-city="'+m.i+'"'+(m.rec.length?' style="color:var(--alert)"':'')+'>'+esc(m.n)+'</button>';}).join(" · ")+'</td></tr></tbody></table></div>';}).join("");
@@ -887,16 +889,24 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       if(r[2]&&r[2].camara&&r[2].alesp)GAS=r[2];
       drawVotPanel();drawCasa();drawDeps();try{drawProm();}catch(e){}if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(/^[df]-/.test(hh)||hh==="votacoes")route();});}
   var EMD=null,emdLoad=false;
-  function loadEmd(){if(EMD||emdLoad)return;emdLoad=true;loadJSON("data/emendas.json").then(function(d){if(!d||!d.cid)return;EMD=d;if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);if(curDep&&!document.getElementById("v-deputados").hidden)drawDep(curDep);}).catch(function(){});}
-  function brlc(v){v=+v||0;var n=Math.round(v/1e5)/10;return v>=1e6?"R$ "+n.toLocaleString("pt-BR",{maximumFractionDigits:1})+(n<2?" milhão":" milhões"):brl(v);}
+  function loadEmd(){if(EMD||emdLoad)return;emdLoad=true;loadJSON("data/emendas.json").then(function(d){if(!d||!d.cid)return;EMD=d;if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);if(!document.getElementById("v-regioes").hidden)drawRegions();if(curDep&&!document.getElementById("v-deputados").hidden)drawDep(curDep);}).catch(function(){});}
+  function brlc(v){v=+v||0;if(v>=1e9){var bi=Math.round(v/1e8)/10;return "R$ "+bi.toLocaleString("pt-BR",{maximumFractionDigits:1})+(bi<2?" bilhão":" bilhões");}var n=Math.round(v/1e5)/10;return v>=1e6?"R$ "+n.toLocaleString("pt-BR",{maximumFractionDigits:1})+(n<2?" milhão":" milhões"):brl(v);}
   function emdAutorLink(nome){var f=FEDS?FEDS.deputados.filter(function(x){return nomeIgual(nome,x.n);})[0]:null;return f?'<a href="#f-'+esc(f.id)+'">'+esc(nome)+'</a>':esc(nome);}
   function emdCidade(m){if(!EMD){loadEmd();return "";}var c=EMD.cid[m.i],ano=EMD.ano,fu=safeUrl(EMD.fonte_u);
     var h='<div class="official"><h3>Emendas parlamentares para '+esc(m.n)+' em '+esc(ano)+'</h3><p>Dinheiro do Orçamento federal que deputados, senadores, bancadas e comissões do Congresso mandaram para a cidade. Valores já pagos'+(EMD.ate?' até '+esc(EMD.ate):'')+'.</p>';
     if(!c||!(c.t>0)){h+='<p style="margin:0">Nenhum pagamento de emenda federal registrado para '+esc(m.n)+' em '+esc(ano)+' até agora.'+(c&&c.ta?' Em '+(ano-1)+' foram '+brlc(c.ta)+'.':'')+'</p>';}
-    else{h+='<p style="margin:0 0 8px"><strong style="font-size:26px">'+brlc(c.t)+'</strong>'+(c.ta?' <span class="more">· no ano todo de '+(ano-1)+': '+brlc(c.ta)+'</span>':'')+'</p>';
+    else{h+='<p style="margin:0 0 8px"><strong style="font-size:26px">'+brlc(c.t)+'</strong>'+(c.ta?' <span class="more">· no ano todo de '+(ano-1)+': '+brlc(c.ta)+'</span>':'')+'</p><p class="more" style="margin:0 0 6px">'+emdRank(m.i)+'ª cidade que mais recebeu entre as 645 do estado.</p>';
       if(c.aut.length)h+='<p class="more" style="margin:8px 0 2px">Quem mandou o dinheiro</p><ul style="margin:0">'+c.aut.map(function(a){return '<li>'+emdAutorLink(a[0])+' · '+brlc(a[1])+'</li>';}).join("")+'</ul>';
       if(c.fav.length)h+='<p class="more" style="margin:8px 0 2px">Quem recebeu</p><ul style="margin:0">'+c.fav.map(function(a){return '<li>'+esc(a[0])+' · '+brlc(a[1])+'</li>';}).join("")+'</ul>';}
     return h+'<p class="more" style="margin:8px 0 0">Fonte: '+(fu?'<a href="'+esc(fu)+'" target="_blank" rel="noopener">'+esc(EMD.fonte)+'</a>':esc(EMD.fonte))+'. Emendas do governo estadual (Alesp) não entram aqui.</p></div>';}
+  function emdRank(i){if(!EMD)return 0;var me=(EMD.cid[i]||{}).t||0;if(!me)return 0;var r=1;for(var k in EMD.cid)if((EMD.cid[k].t||0)>me)r++;return r;}
+  function emdRegHTML(){if(!EMD){loadEmd();return "";}var tot={},top={};MUN.forEach(function(m){var c=EMD.cid[m.i];if(!c||!c.t)return;tot[m.d]=(tot[m.d]||0)+c.t;if(!top[m.d]||c.t>EMD.cid[top[m.d].i].t)top[m.d]=m;});
+    var ks=Object.keys(tot).sort(function(a,b){return tot[b]-tot[a];}),mx=tot[ks[0]]||1;
+    var L=MUN.filter(function(m){var c=EMD.cid[m.i];return c&&c.t;}).sort(function(a,b){return EMD.cid[b.i].t-EMD.cid[a.i].t;}).slice(0,10);
+    return '<div class="official"><h3>Emendas federais por região em '+esc(EMD.ano)+'</h3><p>Dinheiro de emendas de deputados, senadores, bancadas e comissões já pago a prefeituras e entidades de cada região'+(EMD.ate?' (até '+esc(EMD.ate)+')':'')+'. Clique numa cidade para ver quem mandou.</p><div class="regbars">'+
+      ks.map(function(k){var m=top[k];return '<div class="regbar" style="cursor:default"><span>'+esc(REGN[k])+(m?' <small class="more">· maior: <button type="button" data-city="'+m.i+'" style="all:unset;cursor:pointer;text-decoration:underline">'+esc(m.n)+'</button></small>':'')+'</span><b>'+brlc(tot[k])+'</b><span class="bar"><i style="width:'+Math.max(2,Math.round(tot[k]/mx*100))+'%"></i></span></div>';}).join("")+'</div>'+
+      '<p class="more" style="margin:12px 0 4px">As 10 cidades que mais receberam no estado</p><ol style="margin:0">'+L.map(function(m){return '<li><button type="button" data-city="'+m.i+'" style="all:unset;cursor:pointer;text-decoration:underline">'+esc(m.n)+'</button> · '+brlc(EMD.cid[m.i].t)+'</li>';}).join("")+'</ol>'+
+      '<p class="more" style="margin:8px 0 0">Fonte: '+esc(EMD.fonte)+'.</p></div>';}
   function emdDep(x){if(!EMD){loadEmd();return "";}var k=Object.keys(EMD.autores).filter(function(a){return nomeIgual(a,x.n);})[0];if(!k)return "";var a=EMD.autores[k];
     return '<h4>Emendas pagas a cidades de SP em '+esc(EMD.ano)+'</h4><p style="margin:0 0 4px"><strong style="font-size:22px">'+brlc(a.t)+'</strong> <span class="more">· valores já pagos'+(EMD.ate?' até '+esc(EMD.ate):'')+'</span></p><div class="cities" style="font-size:14px">'+a.cid.map(function(c){var m=byCode[c[0]];return m?'<button type="button" data-city="'+m.i+'">'+esc(m.n)+'</button> ('+brlc(c[1])+')':'';}).filter(Boolean).join(" · ")+'</div><p class="more" style="margin:4px 0 0">Fonte: '+esc(EMD.fonte)+'.</p>';}
   function presDe(x){if(!PRES||!PRES.deps)return null;var r=PRES.deps[x.id];if(!r||!(r.t>0))return null;return {p:+r.p,t:+r.t,pct:Math.round(r.p/r.t*100),desde:r.desde};}
@@ -992,7 +1002,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
         var cc={decreto:0,obra:0,anunciado:0,entregue:0,alerta:0};m.rec.forEach(function(n){if(cc[n.s]!==undefined)cc[n.s]++;});
         var ccol={decreto:"#b9a4ff",obra:"#8fb0ff",anunciado:"#f3b74e",entregue:"#53d394",alerta:"#ff6b80"},bx=80;
         ["decreto","obra","anunciado","entregue","alerta"].forEach(function(k){x.fillStyle=ccol[k];x.font="900 72px "+DISP;x.fillText(String(cc[k]),bx,y+50);x.fillStyle="#c8cfe8";x.font="600 22px "+BODY;x.fillText(LBL[k].toUpperCase(),bx,y+86);bx+=186;});y+=150;
-        var LIM2=H-300,recs=m.rec.filter(function(n){return n.tema!=="Segurança"&&n.tema!=="Geral";});if(recs.length<3)recs=recs.concat(m.rec.filter(function(n){return recs.indexOf(n)<0;}));recs=recs.slice(0,3);x.fillStyle="#7f8ab3";x.font="500 22px "+BODY;x.fillText("Contagem dos últimos 4 meses na base do site",80,y-18);y+=46;
+        var LIM2=H-300,recs=m.rec.filter(function(n){return n.tema!=="Segurança"&&n.tema!=="Geral";});if(recs.length<3)recs=recs.concat(m.rec.filter(function(n){return recs.indexOf(n)<0;}));recs=recs.slice(0,3);x.fillStyle="#7f8ab3";x.font="500 22px "+BODY;x.fillText("Contagem dos últimos 4 meses na base do site",80,y-18);y+=46;var ec=EMD&&EMD.cid[m.i];if(ec&&ec.t){x.fillStyle="#ffd166";x.font="700 34px "+BODY;x.fillText("EMENDAS FEDERAIS EM "+EMD.ano+": "+brlc(ec.t).toUpperCase(),80,y);y+=40;x.fillStyle="#c8cfe8";x.font="500 26px "+BODY;x.fillText(emdRank(m.i)+"ª cidade que mais recebeu no estado · Portal da Transparência",80,y);y+=56;}
         if(recs.length){x.fillStyle="#a9b3d6";x.font="700 28px "+BODY;x.fillText("ÚLTIMAS NOTÍCIAS E ATOS",80,y);y+=60;
           recs.forEach(function(n){x.font="800 46px "+DISP;var ls=wrapText(x,n.t.toUpperCase(),920);if(ls.length>3){ls=ls.slice(0,3);ls[2]=ls[2].replace(/\s*\S*$/,"…");}if(y+ls.length*52+70>LIM2)return;x.fillStyle="#d3203a";x.fillRect(80,y-30,10,30);x.fillStyle="#ffffff";ls.forEach(function(l){x.fillText(l,104,y);y+=52;});x.fillStyle="#a9b3d6";x.font="500 26px "+BODY;x.fillText(fmt(n.d)+" · Fonte: "+n.src,104,y);y+=64;});}
         else{x.fillStyle="#ffffff";x.font="600 38px "+BODY;wrapText(x,"Ainda não há notícias verificadas de "+m.n+" na base. No site estão o Diário Oficial, o Portal da Transparência e os jornais da cidade.",920).forEach(function(l){x.fillText(l,80,y);y+=52;});y+=30;}
