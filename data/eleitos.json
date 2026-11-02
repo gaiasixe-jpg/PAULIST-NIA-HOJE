@@ -619,7 +619,8 @@
    "nome": "Luiz Philippe de Orléans e Bragança",
    "partido": "PL",
    "votos": 187743,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "guilherme-piai",
@@ -701,7 +702,29 @@
    "nome": "Jilmar Tatto",
    "partido": "PT",
    "votos": 152984,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "jilmar-tat01",
+     "area": "Transporte",
+     "t": "Aprovar a PEC da Tarifa Zero, com cerca de R$ 12 bilhões em 2027 para ônibus gratuito nos fins de semana e feriados",
+     "meta": "R$ 12 bi em 2027",
+     "u": "https://jilmartatto.com.br/noticias/"
+    },
+    {
+     "id": "jilmar-tat02",
+     "area": "Educação",
+     "t": "Ampliar os Institutos Federais",
+     "meta": "Sem número",
+     "u": "https://jilmartatto.com.br/noticias/"
+    },
+    {
+     "id": "jilmar-tat03",
+     "area": "Investimentos",
+     "t": "Buscar investimentos federais para São Paulo",
+     "meta": "Sem número",
+     "u": "https://jilmartatto.com.br/noticias/"
+    }
+   ]
   },
   {
    "id": "celso-russomanno",
@@ -840,7 +863,8 @@
    "nome": "Carlos Zarattini",
    "partido": "PT",
    "votos": 117608,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "edinho-silva",
@@ -883,7 +907,8 @@
    "nome": "Nilto Tatto",
    "partido": "PT",
    "votos": 114560,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "natalia-boulos",
@@ -905,7 +930,8 @@
    "nome": "Kiko Celeguim",
    "partido": "PT",
    "votos": 113158,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "motta",
@@ -920,14 +946,16 @@
    "nome": "Juliana Cardoso",
    "partido": "PT",
    "votos": 111904,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "joao-paulo-cunha",
    "nome": "João Paulo Cunha",
    "partido": "PT",
    "votos": 109548,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rodrigo-gambale",
@@ -1055,7 +1083,29 @@
    "nome": "Delegado Paulo Bilynskyj",
    "partido": "PL",
    "votos": 90363,
-   "promessas": [],
+   "promessas": [
+    {
+     "id": "delegado-paulo01",
+     "area": "Segurança",
+     "t": "Ampliar a legítima defesa e o porte de arma",
+     "meta": "Sem número",
+     "u": "https://paulobilynskyj.com/"
+    },
+    {
+     "id": "delegado-paulo02",
+     "area": "Segurança",
+     "t": "Endurecer as leis penais e combater o crime organizado",
+     "meta": "Sem número",
+     "u": "https://paulobilynskyj.com/"
+    },
+    {
+     "id": "delegado-paulo03",
+     "area": "Segurança",
+     "t": "Valorizar policiais, peritos e demais agentes de segurança",
+     "meta": "Sem número",
+     "u": "https://paulobilynskyj.com/"
+    }
+   ],
    "base": "São José do Rio Preto e região"
   },
   {
@@ -1116,7 +1166,8 @@
    "partido": "PRD",
    "votos": 54443,
    "promessas": [],
-   "base": "São José do Rio Preto (ex-prefeito)"
+   "base": "São José do Rio Preto (ex-prefeito)",
+   "busca": "2026-11-01"
   },
   {
    "id": "sonia-guajajara",
@@ -1309,7 +1360,43 @@
    "nome": "Rafa Minato",
    "partido": "Missão",
    "votos": 185582,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "rafa-minat01",
+     "area": "Cidades",
+     "t": "Criar uma lei estadual contra a perturbação do sossego (um \"Psiu estadual\")",
+     "meta": "Sem número",
+     "u": "https://rafaminato.com.br/"
+    },
+    {
+     "id": "rafa-minat02",
+     "area": "Contas públicas",
+     "t": "Instalar na Alesp uma CPI dos Grandes Devedores",
+     "meta": "Sem número",
+     "u": "https://rafaminato.com.br/"
+    },
+    {
+     "id": "rafa-minat03",
+     "area": "Saúde",
+     "t": "Ampliar o teste do pezinho em todo o estado, incluindo o teste para AME",
+     "meta": "Sem número",
+     "u": "https://rafaminato.com.br/"
+    },
+    {
+     "id": "rafa-minat04",
+     "area": "Transparência",
+     "t": "Proibir a indicação de esposas de políticos para o Tribunal de Contas do Estado",
+     "meta": "Sem número",
+     "u": "https://rafaminato.com.br/"
+    },
+    {
+     "id": "rafa-minat05",
+     "area": "Cidades",
+     "t": "Criar lei estadual para acabar com a atividade de flanelinhas",
+     "meta": "Sem número",
+     "u": "https://rafaminato.com.br/"
+    }
+   ]
   },
   {
    "id": "danilo-joan",
@@ -1376,7 +1463,8 @@
    "nome": "Delegado Olim",
    "partido": "PP",
    "votos": 163918,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rodrigo-ashiuchi",
@@ -1483,7 +1571,8 @@
    "nome": "Sargento Castro",
    "partido": "PP",
    "votos": 143422,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "professora-bebel",
@@ -1498,7 +1587,8 @@
    "nome": "Conte Lopes",
    "partido": "PL",
    "votos": 139225,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "felipe-sertanejo",
@@ -1520,14 +1610,16 @@
    "nome": "Telhadinha - Capitão Telhada",
    "partido": "PP",
    "votos": 134006,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "ana-carolina-serra",
    "nome": "Ana Carolina Serra",
    "partido": "PSDB",
    "votos": 132881,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "mariana-conti",
@@ -1779,7 +1871,8 @@
    "nome": "Luiz Fernando",
    "partido": "PT",
    "votos": 94901,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "debora-camilo",
@@ -1830,7 +1923,8 @@
    "nome": "Carla Morando",
    "partido": "PSD",
    "votos": 94596,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "ricardo-madalena",
@@ -1952,14 +2046,16 @@
    "nome": "Marina Bragante",
    "partido": "PSB",
    "votos": 78957,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "coronel-paganotto",
    "nome": "Coronel Paganotto",
    "partido": "PL",
    "votos": 77703,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "solange-freitas",
@@ -2047,7 +2143,8 @@
    "nome": "Barba",
    "partido": "PT",
    "votos": 74115,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rafael-silva-jr",
@@ -2069,7 +2166,8 @@
    "nome": "Rômulo",
    "partido": "PT",
    "votos": 73648,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "renata-sene",
@@ -2106,7 +2204,8 @@
    "nome": "Capitão Mosart",
    "partido": "PL",
    "votos": 70997,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "ana-perugini",
@@ -2203,7 +2302,8 @@
    "nome": "Thiago Auricchio",
    "partido": "PL",
    "votos": 59942,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "keit-lima",
@@ -2225,7 +2325,8 @@
    "nome": "Atila Jacomussi",
    "partido": "PRD",
    "votos": 54065,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "ricardo-franca",
