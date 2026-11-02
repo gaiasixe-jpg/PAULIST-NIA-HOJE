@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-02T07:13:52-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-02T08:08:59-03:00",
+"novos_nesta_coleta": 6,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,8 +29,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -44,9 +43,93 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-02",
+"h": "08:06",
+"t": "Jovem vê discussão, tenta proteger mulher de agressão e é morto a tiros",
+"p": "Polícia Civil procura por atirador que fugiu com mulher que jovem tentou proteger de eventual violência doméstica, na zona leste da capital",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/jovem-ve-discussao-tenta-proteger-mulher-de-agressao-e-e-morto-a-tiros",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "08:00",
+"t": "FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027",
+"p": "Conselho Curador mantém os recursos destinados à moradia no mesmo patamar de 2026 e prevê R$ 13 bilhões em subsídios para famílias de baixa renda. Regra de transição do saque-aniversário também ganha novo prazo",
+"tema": "Habitação",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "08:00",
+"t": "Mulheres negras morrem 3,8 vezes mais que mulheres brancas por câncer de mama, aponta Inca",
+"p": "Estudo revela desigualdades no diagnóstico e no tratamento da doença no Brasil. Além disso, publicação destaca a influência de fatores socioeconômicos, biológicos e do acesso aos serviços de saúde",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/vida/mulheres-negras-morrem-38-vezes-mais-que-mulheres-brancas-por-cancer-de-mama-aponta-inca/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "07:57",
+"t": "Vendaval e chuva forte atingem Ribeirão Preto nesta madrugada; vídeo",
+"p": "A madrugada de segunda-feira (2), feriado de Finados, começou com chuva forte e vendaval em Ribeirão Preto",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/vendaval-chuva-forte-atingem-ribeirao-preto-nesta-madrugada-video/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "07:49",
+"t": "Ônibus acerta saída de shopping após acidente com carro e deixa um ferido",
+"p": "Ônibus atravessou a Avenida Giovanni Gronchi, bateu em carro e parou na saída do estacionamento do shopping Jardim Sul, deixando um ferido",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/onibus-acerta-saida-de-shopping-apos-acidente-com-carro-e-deixa-um-ferido",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "07:18",
+"t": "Mira Estrela reúne cerca de 600 idosos em edição do Baile Intermunicipal da Melhor Idade",
+"p": "A área de lazer do município de Mira Estrela sediou, no último sábado (24), o tradicional Baile do Consórcio Intermunicipal da Melhor Idade. O evento reuniu cerca de 600 idosos vindos de 13 cidades da região para um dia dedicado à integração social, dança e entretenimento ao som de música ao vivo. A programação…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mira-estrela-reune-cerca-de-600-idosos-em-edicao-do-baile-intermunicipal-da-melhor-idade/",
+"auto": true
+},
 {
 "d": "2026-11-02",
 "h": "06:44",
