@@ -639,7 +639,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     document.getElementById("fCov").textContent=MUN.filter(function(m){return m.rec.length;}).length;
     temas=["Todos"];N.forEach(function(n){if(temas.indexOf(n.tema)<0)temas.push(n.tema);});
     drawWire();drawTemas();drawPaper();drawRegBars();drawDecs();drawRegions();drawMap(cv,mapOpts());
-    if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);
+    redrawCity();
   }
 
   function cityBtns(list,max){
@@ -790,6 +790,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     if(dc.length){h+='<div class="official"><h3>Deputados de olho em '+esc(m.n)+'</h3><p>Quem mais citou a cidade em pedidos e projetos na Alesp e na Câmara nos últimos 12 meses.</p><div class="olinks">'+
       dc.map(function(x){var d=(x[2]==="f"?FEDI:DEPI)[x[0]];if(!d)return "";return '<a href="#'+x[2]+'-'+esc(d.id)+'"><b>'+esc(d.n)+'</b><small>'+(x[2]==="f"?"Federal":"Estadual")+' · '+esc(d.p)+' · citou '+esc(m.n)+' '+(+x[1])+(x[1]>1?' vezes':' vez')+'</small></a>';}).join("")+'</div></div>';}
     h+=emdCidade(m);
+    h+='<div class="official"><h3>Comparar '+esc(m.n)+' com outra cidade</h3><p>Emendas recebidas, decretos, notícias e deputados que citam cada cidade, lado a lado.</p><div class="nlf"><input type="text" id="compIn" list="cidList" placeholder="Digite o nome da outra cidade" aria-label="Outra cidade"><button class="btn" type="button" data-comp="'+m.i+'">Comparar</button></div><p class="more" id="compMsg" style="margin:6px 0 0"></p></div>';
     h+='<h2 class="sec-h" style="font-size:32px">Notícias e decretos com fonte</h2>';
     if(m.rec.length)h+='<p style="margin:6px 0 0"><a class="rss" href="data/rss/'+m.i+'.xml" target="_blank" rel="noopener">Assinar as notícias de '+esc(m.n)+' (RSS)</a></p>';
     h+=m.rec.length?'<div class="stories">'+m.rec.map(function(n){return storyHTML(n);}).join("")+'</div>':'<div class="empty" style="margin-top:12px">Ainda não há notícias ou decretos verificados sobre '+esc(m.n)+' na base. As publicações oficiais acima já estão disponíveis, e os próximos itens da cidade aparecem aqui assim que forem publicados.</div>';
@@ -797,6 +798,25 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
     drawMap(cv,mapOpts());
     requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:m,focusRegion:true,label:false});});
   }
+  function redrawCity(){var cmh=location.hash.match(/^#comp-(\d{7})-(\d{7})$/);if(cmh&&byCode[cmh[1]]&&byCode[cmh[2]]){if(!document.getElementById("v-cidade").hidden)drawComp(byCode[cmh[1]],byCode[cmh[2]]);}else if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);}
+  function cidList(){if(document.getElementById("cidList"))return;var dl=document.createElement("datalist");dl.id="cidList";dl.innerHTML=MUN.map(function(m){return '<option value="'+esc(m.n)+'">';}).join("");document.body.appendChild(dl);}
+  function depsCit(m){var d=((DEPS&&DEPS.por_cidade&&DEPS.por_cidade[m.n])||[]).length,f=((FEDS&&FEDS.por_cidade&&FEDS.por_cidade[m.n])||[]).length;return d+f;}
+  function compRow(lab,va,vb,num){var w="";if(num){var a=+va.n||0,b=+vb.n||0;if(a!==b)w=a>b?"a":"b";}
+    return '<tr><td class="more">'+lab+'</td><td'+(w==="a"?' style="font-weight:800"':'')+'>'+va.t+'</td><td'+(w==="b"?' style="font-weight:800"':'')+'>'+vb.t+'</td></tr>';}
+  function compDados(m){var e=EMD&&EMD.cid[m.i]||{},dec=m.rec.filter(function(n){return n.s==="decreto"&&n.org==="Prefeitura";}).length,top=(e.aut&&e.aut[0])||null;
+    return {emd:{n:e.t||0,t:e.t?brlc(e.t):"R$ 0"},rk:{n:e.t?-emdRank(m.i):-9999,t:e.t?emdRank(m.i)+"º de 645":"—"},emdA:{n:e.ta||0,t:e.ta?brlc(e.ta):"R$ 0"},top:{t:top?esc(top[0])+" ("+brlc(top[1])+")":"—"},
+      rec:{n:m.rec.length,t:String(m.rec.length)},dec:{n:dec,t:String(dec)},al:{n:m.rec.filter(function(n){return n.s==="alerta";}).length,t:String(m.rec.filter(function(n){return n.s==="alerta";}).length)},dep:{n:depsCit(m),t:String(depsCit(m))},reg:{t:esc(REGN[m.d]||"")}};}
+  function drawComp(a,b){if(!EMD){loadEmd();}var A=compDados(a),B=compDados(b),ano=EMD?EMD.ano:"";
+    var h='<p style="margin:14px 0 0"><a class="readlink" href="#c-'+a.i+'">← Voltar para '+esc(a.n)+'</a></p><h2 class="sec-h" style="font-size:32px">'+esc(a.n)+' × '+esc(b.n)+'</h2>';
+    h+='<div class="tablewrap"><table><thead><tr><th></th><th>'+esc(a.n)+'</th><th>'+esc(b.n)+'</th></tr></thead><tbody>'+
+      compRow("Região",A.reg,B.reg)+compRow("Emendas federais recebidas em "+ano,A.emd,B.emd,1)+compRow("Posição no estado (emendas)",A.rk,B.rk,1)+compRow("Emendas no ano todo de "+(ano-1),A.emdA,B.emdA,1)+compRow("Quem mais mandou emendas",A.top,B.top)+
+      compRow("Notícias e atos no site (4 meses)",A.rec,B.rec,1)+compRow("Decretos da prefeitura na base",A.dec,B.dec,1)+compRow("Alertas (problemas, investigações)",A.al,B.al)+compRow("Deputados que citaram a cidade em projetos e pedidos",A.dep,B.dep,1)+
+      '</tbody></table></div><p class="more" style="margin:8px 0 0">Em negrito, o maior número. Emendas: Portal da Transparência (CGU). Notícias e decretos: base do Paulistânia Hoje, com fonte em cada item. Deputados: dados abertos da Alesp e da Câmara.</p>';
+    h+='<div class="btnrow" style="margin-top:12px"><a class="btn wab" href="'+esc(waLink(a.n+" × "+b.n+": quem recebeu mais emendas federais em "+ano+"?\n"+a.n+": "+A.emd.t.replace(/<[^>]+>/g,"")+"\n"+b.n+": "+B.emd.t.replace(/<[^>]+>/g,"")+"\nCompare tudo: "+SITE+"#comp-"+a.i+"-"+b.i))+'" target="_blank" rel="noopener">Compartilhar a comparação</a><a class="btn alt" href="#c-'+b.i+'">Ver a página de '+esc(b.n)+'</a></div>';
+    document.getElementById("cityOut").innerHTML=h;show("cidade");}
+  document.addEventListener("click",function(e){var bt=e.target.closest("[data-comp]");if(!bt)return;var a=byCode[bt.getAttribute("data-comp")],v=(document.getElementById("compIn")||{}).value||"",nv=norm(v),b=MUN.filter(function(m){return norm(m.n)===nv;})[0];
+    if(!b){var msg=document.getElementById("compMsg");if(msg)msg.textContent="Não achei essa cidade. Escolha um nome da lista.";return;}if(b===a)return;location.hash="comp-"+a.i+"-"+b.i;});
+  document.addEventListener("focusin",function(e){if(e.target&&e.target.id==="compIn")cidList();});
   function openCity(m){sug.hidden=true;q.value="";drawCity(m);if(location.hash!=="#c-"+m.i)location.hash="c-"+m.i;show("cidade");window.scrollTo({top:document.querySelector("nav.tabs").offsetTop,behavior:"smooth"});}
   document.addEventListener("click",function(e){var b=e.target.closest("[data-city]");if(b&&byCode[b.getAttribute("data-city")])openCity(byCode[b.getAttribute("data-city")]);});
 
@@ -887,9 +907,9 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       if(r[0]&&Array.isArray(r[0].deputados)){DEPS=r[0];DEPI={};prepDeps(DEPS,DEPI);}
       if(r[1]&&Array.isArray(r[1].deputados)){FEDS=r[1];FEDI={};prepDeps(FEDS,FEDI);}
       if(r[2]&&r[2].camara&&r[2].alesp)GAS=r[2];
-      drawVotPanel();drawCasa();drawDeps();try{drawProm();}catch(e){}if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(/^[df]-/.test(hh)||hh==="votacoes")route();});}
+      drawVotPanel();drawCasa();drawDeps();try{drawProm();}catch(e){}redrawCity();var hh=location.hash.slice(1);if(/^[df]-/.test(hh)||hh==="votacoes")route();});}
   var EMD=null,emdLoad=false;
-  function loadEmd(){if(EMD||emdLoad)return;emdLoad=true;loadJSON("data/emendas.json").then(function(d){if(!d||!d.cid)return;EMD=d;if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);if(!document.getElementById("v-regioes").hidden)drawRegions();if(curDep&&!document.getElementById("v-deputados").hidden)drawDep(curDep);}).catch(function(){});}
+  function loadEmd(){if(EMD||emdLoad)return;emdLoad=true;loadJSON("data/emendas.json").then(function(d){if(!d||!d.cid)return;EMD=d;redrawCity();if(!document.getElementById("v-regioes").hidden)drawRegions();if(curDep&&!document.getElementById("v-deputados").hidden)drawDep(curDep);}).catch(function(){});}
   function brlc(v){v=+v||0;if(v>=1e9){var bi=Math.round(v/1e8)/10;return "R$ "+bi.toLocaleString("pt-BR",{maximumFractionDigits:1})+(bi<2?" bilhão":" bilhões");}var n=Math.round(v/1e5)/10;return v>=1e6?"R$ "+n.toLocaleString("pt-BR",{maximumFractionDigits:1})+(n<2?" milhão":" milhões"):brl(v);}
   function emdAutorLink(nome){var f=FEDS?FEDS.deputados.filter(function(x){return nomeIgual(nome,x.n);})[0]:null;return f?'<a href="#f-'+esc(f.id)+'">'+esc(nome)+'</a>':esc(nome);}
   function emdCidade(m){if(!EMD){loadEmd();return "";}var c=EMD.cid[m.i],ano=EMD.ano,fu=safeUrl(EMD.fonte_u);
@@ -1061,7 +1081,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
   function show(v){if(views.indexOf(v)<0)v="hoje";views.forEach(function(x){document.getElementById("v-"+x).hidden=(x!==v);});
     document.querySelectorAll("nav.tabs a").forEach(function(a){if(a.getAttribute("data-view")===v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current");});
     if(v==="cidade"){if(!cur)drawCity(byName["São Paulo"]);else requestAnimationFrame(function(){var mm=document.getElementById("mini");if(mm)drawMap(mm,{city:cur,focusRegion:true,label:false});});}}
-  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else if(/^[df]-/.test(h)){CASA=h.charAt(0)==="f"?"camara":"alesp";if(casaSel)drawCasa();curDep=(CASA==="camara"?FEDI:DEPI)[h.slice(2)]||null;show("deputados");if(curDep){drawDep(curDep);window.scrollTo({top:document.querySelector("nav.tabs").offsetTop});}}else if(h==="votacoes"){CASA="camara";curDep=null;if(casaSel){drawCasa();drawDeps();}show("deputados");}else{if(h==="deputados"){curDep=null;drawDeps();}show(h);}}
+  function route(){var h=location.hash.slice(1);if(h==="sobre-contato"){show("sobre");requestAnimationFrame(function(){var el=document.getElementById("sobre-contato");if(el)el.scrollIntoView({behavior:"smooth"});});return;}var cm=h.match(/^comp-(\d{7})-(\d{7})$/);if(cm&&byCode[cm[1]]&&byCode[cm[2]]){cur=byCode[cm[1]];drawComp(byCode[cm[1]],byCode[cm[2]]);window.scrollTo({top:document.querySelector("nav.tabs").offsetTop});return;}if(h.indexOf("c-")===0&&byCode[h.slice(2)]){drawCity(byCode[h.slice(2)]);show("cidade");}else if(/^[df]-/.test(h)){CASA=h.charAt(0)==="f"?"camara":"alesp";if(casaSel)drawCasa();curDep=(CASA==="camara"?FEDI:DEPI)[h.slice(2)]||null;show("deputados");if(curDep){drawDep(curDep);window.scrollTo({top:document.querySelector("nav.tabs").offsetTop});}}else if(h==="votacoes"){CASA="camara";curDep=null;if(casaSel){drawCasa();drawDeps();}show("deputados");}else{if(h==="deputados"){curDep=null;drawDeps();}show(h);}}
   window.addEventListener("hashchange",route);
 
   /* dados ao vivo */
