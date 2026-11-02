@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-01T20:41:14-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-01T21:42:09-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 83 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -49,6 +49,30 @@
 "itens": [
 {
 "d": "2026-11-01",
+"h": "21:00",
+"t": "Farmácia Popular funciona como proteção financeira contra endividamento de famílias vulneráveis",
+"p": "A gratuidade de 100% dos medicamentos do programa Farmácia Popular atua como blindagem financeira para o orçamento das famílias brasileiras de menor renda. Desde a eliminação do copagamento pelo governo federal em fevereiro de 2025, a distribuição integral de insumos para doenças crônicas neutraliza o risco de…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/farmacia-popular-funciona-como-protecao-financeira-contra-endividamento-de-familias-vulneraveis/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "20:45",
+"t": "Boulos e Tarcísio divergem sobre aumento do ICMS do diesel: \"Lamentável\"",
+"p": "No último dia 27, governos estaduais aprovaram reajuste do ICMS sobre combustíveis a partir de 1º de fevereiro de 2027",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/boulos-e-tarcisio-divergem-sobre-aumento-do-icms-do-diesel-lamentavel",
+"auto": true
+},
+{
+"d": "2026-11-01",
 "h": "20:40",
 "t": "Policiais militares resgatam cachorro preso em bueiro",
 "p": "Uma ação realizada por uma equipe do 49º Batalhão de Polícia Militar do Interior (BPM/I) resultou no resgate de um cachorro de pequeno porte que estava preso no interior de um bueiro no bairro Jardim Tarumã, em Jundiaí. A ocorrência foi registrada na última sexta-feira (30), quando os agentes patrulhavam a região e…",
@@ -60,6 +84,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/policiais-militares-resgatam-cachorro-preso-em-bueiro/",
+"auto": true
+},
+{
+"d": "2026-11-01",
+"h": "20:23",
+"t": "Meteorito raro que vale quase R$ 30 mil por grama supera o preço do ouro e atrai caçadores mas lei proíbe dono de vender a pedra no mercado",
+"p": "Um único grama de meteorito raro pode custar até 5 mil euros (cerca de R$ 29,8 mil), e superar em dezenas de vezes o preço do ouro. O valor elevado tem impulsionado o mercado de rochas espaciais e atraído caçadores que percorrem regiões isoladas em busca de fragmentos com potencial científico e comercial. O…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/meteorito-raro-que-vale-quase-r-30-mil-por-grama-supera-o-preco-do-ouro-e-atrai-cacadores-mas-lei-proibe-dono-de-vender-a-pedra-no-mercado/",
 "auto": true
 },
 {
