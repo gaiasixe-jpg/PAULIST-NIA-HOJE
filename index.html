@@ -888,7 +888,7 @@ var MUN = [{"i":"3500105","n":"Adamantina","a":-21.682,"o":-51.0737,"d":"18"},{"
       drawVotPanel();drawCasa();drawDeps();try{drawProm();}catch(e){}if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);var hh=location.hash.slice(1);if(/^[df]-/.test(hh)||hh==="votacoes")route();});}
   var EMD=null,emdLoad=false;
   function loadEmd(){if(EMD||emdLoad)return;emdLoad=true;loadJSON("data/emendas.json").then(function(d){if(!d||!d.cid)return;EMD=d;if(cur&&!document.getElementById("v-cidade").hidden)drawCity(cur);if(curDep&&!document.getElementById("v-deputados").hidden)drawDep(curDep);}).catch(function(){});}
-  function brlc(v){v=+v||0;return v>=1e6?"R$ "+(v/1e6).toLocaleString("pt-BR",{maximumFractionDigits:1})+(v<2e6?" milhão":" milhões"):brl(v);}
+  function brlc(v){v=+v||0;var n=Math.round(v/1e5)/10;return v>=1e6?"R$ "+n.toLocaleString("pt-BR",{maximumFractionDigits:1})+(n<2?" milhão":" milhões"):brl(v);}
   function emdAutorLink(nome){var f=FEDS?FEDS.deputados.filter(function(x){return nomeIgual(nome,x.n);})[0]:null;return f?'<a href="#f-'+esc(f.id)+'">'+esc(nome)+'</a>':esc(nome);}
   function emdCidade(m){if(!EMD){loadEmd();return "";}var c=EMD.cid[m.i],ano=EMD.ano,fu=safeUrl(EMD.fonte_u);
     var h='<div class="official"><h3>Emendas parlamentares para '+esc(m.n)+' em '+esc(ano)+'</h3><p>Dinheiro do Orçamento federal que deputados, senadores, bancadas e comissões do Congresso mandaram para a cidade. Valores já pagos'+(EMD.ate?' até '+esc(EMD.ate):'')+'.</p>';
