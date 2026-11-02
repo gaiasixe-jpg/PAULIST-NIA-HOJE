@@ -410,7 +410,8 @@
    "partido": "PL",
    "votos": 379312,
    "promessas": [],
-   "base": "Miracatu (natural de Jundiaí)"
+   "base": "Miracatu (natural de Jundiaí)",
+   "busca": "2026-11-01"
   },
   {
    "id": "sargento-nantes",
@@ -470,7 +471,8 @@
    "nome": "Mauricio Neves",
    "partido": "PP",
    "votos": 269996,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "marcio-alvino",
@@ -486,7 +488,8 @@
    "nome": "Professora Luciene Cavalcante",
    "partido": "PSOL",
    "votos": 253778,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "ana-carolina-oliveira",
@@ -612,7 +615,8 @@
    "nome": "Marcos Pereira",
    "partido": "Republicanos",
    "votos": 196681,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "luiz-philippe-de-orleans-e-braganca",
@@ -656,7 +660,8 @@
    "nome": "Igor Soares",
    "partido": "PSD",
    "votos": 181820,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "paulo-alexandre-barbosa",
@@ -671,7 +676,8 @@
    "nome": "Felipe Becari",
    "partido": "Podemos",
    "votos": 162957,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "thiago-surfista",
@@ -731,7 +737,15 @@
    "nome": "Celso Russomanno",
    "partido": "Republicanos",
    "votos": 138827,
-   "promessas": []
+   "promessas": [
+    {
+     "id": "celso-russ01",
+     "area": "Consumidor",
+     "t": "Manter o Código de Defesa do Consumidor e barrar mudanças que tirem direitos",
+     "meta": "Sem número",
+     "u": "https://abcreporter.com.br/2026/09/18/russomanno-reforca-atuacao-no-congresso-em-defesa-da-manutencao-do-cdc/"
+    }
+   ]
   },
   {
    "id": "thiago-dos-reis",
@@ -768,7 +782,8 @@
    "nome": "Sidney Cruz",
    "partido": "MDB",
    "votos": 130951,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "joao-cury",
@@ -856,7 +871,8 @@
    "nome": "Ney Santos",
    "partido": "Republicanos",
    "votos": 118566,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "carlos-zarattini",
@@ -939,7 +955,8 @@
    "partido": "PL",
    "votos": 112854,
    "promessas": [],
-   "base": "São José do Rio Preto"
+   "base": "São José do Rio Preto",
+   "busca": "2026-11-01"
   },
   {
    "id": "juliana-cardoso",
@@ -971,21 +988,24 @@
    "nome": "Dra. Sandra Tadeu",
    "partido": "PL",
    "votos": 106471,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "enrico-misasi",
    "nome": "Enrico Misasi",
    "partido": "MDB",
    "votos": 106225,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "coronel-telhada",
    "nome": "Coronel Telhada",
    "partido": "PP",
    "votos": 104513,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "paulo-freire",
@@ -993,14 +1013,16 @@
    "partido": "PL",
    "votos": 99388,
    "promessas": [],
-   "base": "Campinas"
+   "base": "Campinas",
+   "busca": "2026-11-01"
   },
   {
    "id": "marcos-neves",
    "nome": "Marcos Neves",
    "partido": "PSD",
    "votos": 98359,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "jonas-donizete",
@@ -1024,14 +1046,16 @@
    "nome": "Saulo Pedroso",
    "partido": "PSD",
    "votos": 95096,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "altair-moraes",
    "nome": "Altair Moraes",
    "partido": "Republicanos",
    "votos": 94770,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "jefferson-campos",
@@ -1069,14 +1093,16 @@
    "nome": "Maria Rosas",
    "partido": "Republicanos",
    "votos": 91690,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "mario-frias",
    "nome": "Mario Frias",
    "partido": "PL",
    "votos": 91403,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "delegado-paulo-bilynskyj",
@@ -1113,7 +1139,8 @@
    "nome": "Carlos Bezerra Jr.",
    "partido": "PSD",
    "votos": 89414,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "sirlange-manga",
@@ -1128,7 +1155,8 @@
    "nome": "Milton Leite Filho",
    "partido": "União Brasil",
    "votos": 71631,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "adriana-ventura",
@@ -1151,14 +1179,16 @@
    "nome": "Wesley Cezar Lelinho",
    "partido": "PL",
    "votos": 66673,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "gil-diniz",
    "nome": "Gil Diniz",
    "partido": "PL",
    "votos": 63398,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "edinho-araujo",
@@ -1518,7 +1548,8 @@
    "nome": "Bruna Furlan",
    "partido": "Republicanos",
    "votos": 157381,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "marcos-damasio",
@@ -1556,7 +1587,8 @@
    "nome": "Regina Nunes",
    "partido": "MDB",
    "votos": 154966,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "duda-hidalgo",
@@ -1595,7 +1627,8 @@
    "nome": "Felipe Sertanejo",
    "partido": "PL",
    "votos": 138277,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rogerio-nogueira",
@@ -1603,7 +1636,8 @@
    "partido": "PSD",
    "votos": 137335,
    "promessas": [],
-   "base": "Indaiatuba"
+   "base": "Indaiatuba",
+   "busca": "2026-11-01"
   },
   {
    "id": "telhadinha-capitao-telhada",
@@ -1681,7 +1715,8 @@
    "nome": "Leonardo Grandini",
    "partido": "PT",
    "votos": 122158,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "danilo-campetti",
@@ -1697,14 +1732,16 @@
    "nome": "Barros Munhoz",
    "partido": "PSD",
    "votos": 116413,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "emidio",
    "nome": "Emídio",
    "partido": "PT",
    "votos": 108275,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "paulo-mansur",
@@ -1734,21 +1771,24 @@
    "nome": "Rafael Saraiva",
    "partido": "União Brasil",
    "votos": 105174,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "rodrigo-mar",
    "nome": "Rodrigo Mar",
    "partido": "PT",
    "votos": 104820,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "enio-tatto",
    "nome": "Enio Tatto",
    "partido": "PT",
    "votos": 102892,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "reinaldo-alguz",
@@ -1763,7 +1803,8 @@
    "nome": "Marta Costa",
    "partido": "PSD",
    "votos": 100083,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "caio-franca",
@@ -1807,21 +1848,24 @@
    "partido": "PL",
    "votos": 98375,
    "promessas": [],
-   "base": "Americana"
+   "base": "Americana",
+   "busca": "2026-11-01"
   },
   {
    "id": "douglas-garcia",
    "nome": "Douglas Garcia",
    "partido": "União Brasil",
    "votos": 97410,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "paulo-fiorilo",
    "nome": "Paulo Fiorilo",
    "partido": "PT",
    "votos": 96370,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "danilo-balas",
@@ -1916,7 +1960,8 @@
    "nome": "Donato",
    "partido": "PT",
    "votos": 94779,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "carla-morando",
@@ -1955,14 +2000,16 @@
    "nome": "Rogério Franco",
    "partido": "PL",
    "votos": 89156,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "analice-fernandes",
    "nome": "Analice Fernandes",
    "partido": "PSD",
    "votos": 88784,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "delegado-mesquita",
@@ -1994,14 +2041,16 @@
    "nome": "Bruno Zambelli",
    "partido": "PL",
    "votos": 82946,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "ely-santos",
    "nome": "Ely Santos",
    "partido": "Republicanos",
    "votos": 82559,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "leo-oliveira",
@@ -2099,14 +2148,16 @@
    "nome": "Camila Godoi",
    "partido": "União Brasil",
    "votos": 74733,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "caruso",
    "nome": "Caruso",
    "partido": "MDB",
    "votos": 74480,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "kaka-do-autismo",
@@ -2159,7 +2210,8 @@
    "nome": "Rodrigo Moraes",
    "partido": "PL",
    "votos": 73787,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "romulo",
@@ -2174,14 +2226,16 @@
    "nome": "Renata Sene",
    "partido": "Republicanos",
    "votos": 73526,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "marcolino",
    "nome": "Marcolino",
    "partido": "PT",
    "votos": 72574,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "joao-paulo-rillo",
@@ -2189,7 +2243,8 @@
    "partido": "PT",
    "votos": 72486,
    "promessas": [],
-   "base": "São José do Rio Preto (41.045 votos na cidade)"
+   "base": "São José do Rio Preto (41.045 votos na cidade)",
+   "busca": "2026-11-01"
   },
   {
    "id": "lucas-bove",
@@ -2221,21 +2276,24 @@
    "nome": "Sebastião Santos",
    "partido": "Republicanos",
    "votos": 68118,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "fabio-faria-de-sa",
    "nome": "Fabio Faria de Sá",
    "partido": "Podemos",
    "votos": 68055,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "lisboa",
    "nome": "Lisboa",
    "partido": "PL",
    "votos": 67413,
-   "promessas": []
+   "promessas": [],
+   "busca": "2026-11-01"
   },
   {
    "id": "henrique-krigner",
@@ -2279,7 +2337,8 @@
    "partido": "Republicanos",
    "votos": 66474,
    "promessas": [],
-   "base": "Campinas"
+   "base": "Campinas",
+   "busca": "2026-11-01"
   },
   {
    "id": "isaac-antunes",
@@ -2333,7 +2392,22 @@
    "nome": "Ricardo França",
    "partido": "Podemos",
    "votos": 53644,
-   "promessas": [],
+   "promessas": [
+    {
+     "id": "ricardo-fr01",
+     "area": "Causa animal",
+     "t": "Incluir a causa animal no orçamento público do estado",
+     "meta": "Sem número",
+     "u": "https://ricardofranca.com.br/"
+    },
+    {
+     "id": "ricardo-fr02",
+     "area": "Causa animal",
+     "t": "Leis mais rígidas e mais fiscalização contra maus-tratos a animais",
+     "meta": "Sem número",
+     "u": "https://ricardofranca.com.br/"
+    }
+   ],
    "base": "Indaiatuba"
   }
  ]
