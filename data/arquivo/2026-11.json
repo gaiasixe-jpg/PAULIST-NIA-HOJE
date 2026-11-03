@@ -3,6 +3,253 @@
 "itens": [
 {
 "d": "2026-11-03",
+"h": "19:48",
+"t": "Justiça condena homem por furto em escola de Três Fronteiras",
+"p": "Decisão da 2ª Vara de Santa Fé do Sul determinou 2 anos e 4 meses de reclusão em regime fechado após réu invadir prédio e levar bicicleta.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santa Fé do Sul",
+"Três Fronteiras"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-condenado-a-mais-de-dois-anos-de-prisao-por-furtar-bicicleta-em-escola-de-tres-fronteiras/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:45",
+"t": "Câmara de SP arquiva pedido de impeachment de Ricardo Nunes por redução da frota de ônibus durante as eleições 2026",
+"p": "A Comissão Especial da Câmara Municipal de São Paulo rejeitou, nesta terça-feira (3/11), o pedido de impeachment contra o prefeito Ricardo Nunes (MDB) relacionado à suposta redução da frota de ônibus durante o segundo turno das eleições presidenciais. O relatório recebeu cinco votos favoráveis e dois contrários,…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/camara-de-sp-arquiva-pedido-de-impeachment-de-ricardo-nunes-por-reducao-da-frota-de-onibus-durante-as-eleicoes-2026/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:44",
+"t": "Moto com chassi raspado e rolos de cobre são apreendidos após fuga de suspeitos",
+"p": "Abordagem ocorreu durante patrulhamento nas proximidades da Rodovia Euclides da Cunha (SP-320), em Fernandópolis/SP. Uma ação da Polícia Militar resultou na apreensão de uma motocicleta irregular e de três rolos de fios de cobre na madrugada deste domingo (1º.nov), em Fernandópolis/SP. Durante patrulhamento…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis",
+"Cunha"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/moto-com-chassi-raspado-e-rolos-de-cobre-sao-apreendidos-apos-fuga-de-suspeitos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:41",
+"t": "Senado rejeita incluir redução da maioridade penal na PEC da Segurança",
+"p": "Plenário aprovou requerimento para que redução da idade mínima para prisão seja discutida em proposta separada; placar foi de 38 votos a favor e 36 contra pela tramitação independente. O plenário do Senado rejeitou nesta terça-feira (3.nov) a inclusão da redução da maioridade penal de 18 para 16 anos na PEC…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/senado-rejeita-incluir-reducao-da-maioridade-penal-na-pec-da-seguranca/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:39",
+"t": "Em vitória para o governo Lula, Senado aprova PEC da Segurança Pública",
+"p": "O Senado aprovou nesta terça-feira (3/11), por unanimidade em dois turnos, a PEC da Segurança Pública, que mais força à União, criando regras nacionais para o setor e transformar a Polícia Rodoviária Federal em uma polícia Ostensiva para reforçar a proteção nas ruas e estradas. O texto deixou de fora a redução da…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/em-vitoria-para-o-governo-lula-senado-aprova-pec-da-seguranca-publica/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:35",
+"t": "A LISTA QUE NÃO PAGA BOLETO",
+"p": "A eleição terminou, mas esqueceram de avisar aos grupos de WhatsApp. Agora circulam listas de estabelecimentos que deveriam ser frequentados ou evitados conforme a preferência política dos proprietários. Antes de comprar pão ou consertar o carro, é preciso investigar em quem o comerciante votou. Daqui a pouco, o…",
+"tema": "Eleições",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/a-lista-que-nao-paga-boleto/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:31",
+"t": "PM prende homem armado após ameaças contra mulher e apreende espingarda em Fernandópolis",
+"p": "Suspeito foi detido em flagrante após ação da Polícia Militar no Conjunto Habitacional Albino Mininelli; faca, simulacro de arma e espingarda calibre .28 foram apreendidos. Um homem foi preso em flagrante pela Polícia Militar no último domingo (1º.nov) após ameaçar uma mulher no Conjunto Habitacional Albino…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/pm-prende-homem-armado-apos-ameacas-contra-mulher-e-apreende-espingarda-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:30",
+"t": "IPVA zero para motoristas de aplicativo é aprovado em estado brasileiro e começa a valer em 2027",
+"p": "Os motoristas e entregadores de aplicativo não têm direito à isenção do Imposto sobre a Propriedade de Veículos Automotores (IPVA) em todo o Brasil. Como não existe uma lei federal que conceda o benefício à categoria, a possibilidade de deixar de pagar o imposto depende de iniciativas e regras específicas de cada…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/ipva-zero-para-motoristas-de-aplicativo-e-aprovado-em-estado-brasileiro-e-comeca-a-valer-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:30",
+"t": "Colégio Unifev promove VI Festival de Natação e reúne famílias na Cidade Universitária",
+"p": "Evento contou com a participação de cerca de 150 alunos para demonstrar a evolução nas aulas e fortalecer o vínculo entre escola e comunidade. O Colégio Unifev realizou, no último sábado (31.out), a sexta edição do seu tradicional Festival de Natação, nas piscinas aquecidas do Complexo Poliesportivo da Cidade…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/colegio-unifev-promove-vi-festival-de-natacao-e-reune-familias-na-cidade-universitaria/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:27",
+"t": "Suspeito de matar cabo da PM em Minas Gerais é preso em Rio Preto",
+"p": "Homem de 33 anos foi localizado durante operação conjunta das polícias militares de Minas Gerais e São Paulo; outras duas pessoas também foram detidas. Um homem identificado como Marcelo Augusto Carvalho Fernandes, de 33 anos, foi preso na madrugada desta segunda-feira (2.nov) em São José do Rio Preto/SP, após ser…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/suspeito-de-matar-cabo-da-pm-em-minas-gerais-e-preso-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:25",
+"t": "Frente fria muda o tempo em SP, traz chuva e ventos de até 80 km/h; veja previsão",
+"p": "Frente fria chega na quinta-feira (5), com ventos intensos e possibilidade de temporais em todo o estado de São Paulo",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-muda-o-tempo-em-sp-traz-chuva-e-ventos-de-ate-80-km-h-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:22",
+"t": "Campinas convoca 24 aprovados em concursos públicos; veja lista, cargos e data da reunião",
+"p": "Prefeitura de Campinas convoca 24 aprovados em concursos públicos. Veja os cargos, a data da reunião obrigatória e como consultar a lista de convocados",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/campinas-convoca-24-aprovados-em-concursos-publicos-veja-lista-cargos-e-data-da-reuniao/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:22",
+"t": "Lula avalia criar Ministério da Comunicação Digital e acelerar regulação das redes",
+"p": "Nova estrutura poderá ganhar protagonismo no próximo governo, com foco em plataformas digitais, combate à desinformação e comunicação online. O presidente Luiz Inácio Lula da Silva (PT) avalia a criação de um Ministério da Comunicação Digital como parte de uma reestruturação da área de comunicação do governo…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/lula-avalia-criar-ministerio-da-comunicacao-digital-e-acelerar-regulacao-das-redes/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:21",
+"t": "Pedágio free flow na Imigrantes muda de lugar e cobrança de R$ 20,30 por sentido pode começar até dezembro",
+"p": "O pórtico do pedágio eletrônico no sistema free flow da Rodovia dos Imigrantes, no ABC paulista, foi reinstalado em um novo ponto na madrugada da última quinta-feira (29/10). A estrutura, que inicialmente ficaria no km 29, foi transferida para o km 37+300, no sentido São Paulo, após pressão de moradores de São…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mobilidade/pedagio-free-flow-na-imigrantes-muda-de-lugar-e-cobranca-de-r-2030-por-sentido-pode-comecar-ate-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:10",
+"t": "Lula sanciona lei da ‘OAB da Medicina’: saiba como vai funcionar a prova em 3 etapas que passa a barrar formandos sem nota mínima",
+"p": "O presidente Luiz Inácio Lula da Silva prepara a sanção presidencial da lei que institui a obrigatoriedade do Exame Nacional de Avaliação da Formação Médica (Enamed) para o exercício profissional no Brasil. Conhecida como “OAB da Medicina”, a exigência vinha sendo aplicada temporariamente por meio de Medida…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/lula-sanciona-lei-da-oab-da-medicina-saiba-como-vai-funcionar-a-prova-em-3-etapas-que-passa-a-barrar-formandos-sem-nota-minima/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:05",
+"t": "Cachorrinha resgatada em lixão de SP supera tumor e quimioterapia após meses internada e agora busca um novo lar cheio de carinho",
+"p": "A cachorrinha Suzy superou um dos momentos mais difíceis da sua vida e iniciou uma nova fase em São Paulo. Ela foi encontrada abandonada em péssimas condições de saúde dentro de um lixão na capital paulista, apresentando corpo tomado por nódulos, sujeira acumulada e falhas profundas na pelagem. Após o resgate…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/cachorrinha-resgatada-em-lixao-de-sp-supera-tumor-e-quimioterapia-apos-meses-internada/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "18:55",
+"t": "Quadras de areia da Lagoa do Taquaral ficam no escuro e geram reclamações de usuários",
+"p": "Das cinco quadras do Parque Portugal, em Campinas, três estão completamente apagadas e uma funciona com iluminação parcial; Prefeitura informou que fará vistoria nesta quarta-feira (4)",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas",
+"Taquaral"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/quadras-de-areia-da-lagoa-do-taquaral-ficam-no-escuro-e-geram-reclamacoes-de-usuarios/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "18:53",
+"t": "Reeleito, Adilson Jr (PP) presidirá Legislativo de Santos durante o biênio 2027/2028",
+"p": "Pela primeira vez, um vereador foi reeleito durante o mesmo mandato, após alteração no Regimento Interno da Câmara. Este será o seu quarto mandato. \"Nosso objetivo é deixar o Poder Legislativo à altura que a população merece\", destacou.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/adilson-jr-presidente-da-camara-reeleicao/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "18:47",
 "t": "Ciclones chegam a SP e provocam virada no tempo; veja quando",
 "p": "Dois ciclones devem provocar temporais, chuva forte e ventania em São Paulo; confira a previsão do tempo",
@@ -73,6 +320,20 @@
 },
 {
 "d": "2026-11-03",
+"h": "18:13",
+"t": "Ribeirão Pires terá conferência lúdica nesta quarta-feira (4)",
+"p": "Programação da 13ª Conferência Municipal dos Direitos da Criança e do Adolescente terá atividades participativas e debates também na quinta-feira (5)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366619/ribeirao-pires-tera-conferencia-ludica-nesta-quarta-feira-4-",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "18:12",
 "t": "Após sequência de eventos, Parque Raya recebe obras de recuperação do gramado; VEJA FOTOS",
 "p": "Recuperação do gramado do Parque Raya, em Ribeirão Preto, acontece após sequência de eventos que danificaram a vegetação do local",
@@ -83,6 +344,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/apos-sequencia-de-eventos-parque-raya-recebe-obras-de-recuperacao-do-gramado-veja-fotos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "18:12",
+"t": "São Bernardo terá ações de saúde para adolescentes no Novembro Azul",
+"p": "Campanha Novembrinho Azul terá atividades educativas e vacinação contra HPV; no sábado (28), as 36 UBSs funcionarão das 8h às 17h",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366625/sao-bernardo-tera-acoes-de-saude-para-adolescentes-no-novembro-azul",
 "auto": true
 },
 {
@@ -156,6 +431,20 @@
 "u": "https://www.gazetasp.com.br/cotidiano/suspeito-de-dar-voadora-em-idoso-em-osasco-ja-foi-condenado-a-14-anos-por-matar-carroceiro-com-flecha/",
 "auto": true,
 "org": "Prefeitura"
+},
+{
+"d": "2026-11-03",
+"h": "17:54",
+"t": "Comissão especial da Câmara Municipal de São Paulo arquiva pedido de impeachment de Nunes",
+"p": "Relatório de Major Palumbo recebeu cinco votos favoráveis e dois contrários; processo não seguirá para análise do plenário",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366632/comissao-especial-da-camara-municipal-de-sao-paulo-arquiva-pedido-de-impeachment-de-nunes",
+"auto": true
 },
 {
 "d": "2026-11-03",
