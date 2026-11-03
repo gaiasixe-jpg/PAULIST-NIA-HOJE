@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T19:52:09-03:00",
-"novos_nesta_coleta": 21,
+"atualizado": "2026-11-03T20:45:50-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 7 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,158 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "20:41",
+"t": "Justiça determina penhora de avião da Passaredo por dívida de R$ 9,2 mil com hotel em MG",
+"p": "Aeronave está registrada em nome da Passaredo, empresa do grupo Voepass, que teve as operações suspensas pela Anac em 2025",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/justica-determina-penhora-de-aviao-da-passaredo-por-divida-de-r-92-mil-com-hotel-em-mg/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "20:30",
+"t": "Adolescente se apresenta e é apreendido por latrocínio que matou engenheiro em Santos; VÍDEO",
+"p": "Divulgação/Polícia Civil Com a nova apreensão, nove pessoas já foram identificadas por envolvimento no crime.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/adolescente-se-apresenta-e-e-apreendido-por-latrocinio-que-matou-engenheiro-em-santos-video/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "20:26",
+"t": "Incêndio de grandes proporções atinge fábrica, deixa feridos e interdita rodovia",
+"p": "Pelo menos duas pessoas sofreram queimaduras e foram encaminhadas a hospital da cidade; segundo a prefeitura, vítimas não correm risco de morte",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/incendio-de-grandes-proporcoes-atinge-fabrica-deixa-feridos-e-interdita-rodovia/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "20:15",
+"t": "Regra de Proteção do Bolsa Família garante transição de 2 anos para beneficiários que entram no mercado de trabalho",
+"p": "O programa Bolsa Família conta com um mecanismo fundamental para garantir a estabilidade financeira dos beneficiários que ingressam no mercado de trabalho ou aumentam seus rendimentos: a Regra de Proteção. A medida do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) evita que o…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/regra-de-protecao-do-bolsa-familia-garante-transicao-de-2-anos-para-beneficiarios-que-entram-no-mercado-de-trabalho/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "20:11",
+"t": "Maior fabricante de veículos elétricos do mundo terá concessionária em Votuporanga",
+"p": "As obras da BYD já estão em andamento e reforçam a consolidação do município como polo regional dos setores automotivo e de serviços especializados. A inauguração está prevista para o início de 2027. Votuporanga segue ampliando sua participação no mercado automotivo regional com a chegada de novos investimentos…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/maior-fabricante-de-veiculos-eletricos-do-mundo-tera-concessionaria-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "20:06",
+"t": "Neoenergia Elektro lança edital de R$ 36 milhões para financiamento de projetos em SP e MS",
+"p": "Interessados poderão apresentar propostas de projetos, seguindo os critérios técnicos e comerciais definidos no edital da chamada, disponível na página da Neoenergia. O Programa de Eficiência Energética da Neoenergia Elektro está com edital de Chamada Pública aberto. Com investimento de R$ 36 milhões, os…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/neoenergia-elektro-lanca-edital-de-r-36-milhoes-para-financiamento-de-projetos-em-sp-e-ms/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "20:00",
+"t": "Prefeitura de Fartura (SP) usou R$ 1,1 milhão de Emenda Pix de obras para pagar cachês de shows sertanejos, aponta TCE",
+"p": "Um repasse federal de R$ 1,1 milhão em Emenda Pix, destinado originalmente para investimentos em obras e instalações públicas no município de Fartura, no interior de São Paulo, foi utilizado pela gestão municipal para custear shows de artistas sertanejos. A irregularidade foi identificada pelo Tribunal de Contas do…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Fartura"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/prefeitura-de-fartura-sp-usou-r-11-milhao-de-emenda-pix-de-obras-para-pagar-caches-de-shows-sertanejos-aponta-tce/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "20:00",
+"t": "Do iniciante ao avançado: saiba como participar da 11ª Clínica Bertioga em Movimento",
+"p": "Programação desta fase de clínicas é desenvolvida pelas Secretarias de Saúde e de Esportes até 30 de novembro",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/do-iniciante-ao-avancado-saiba-como-participar-da-11-clinica-bertioga-em-movimento.html",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:59",
+"t": "Raio mata 26 cabeças de gado durante tempestade em Américo de Campos",
+"p": "Descarga elétrica atingiu propriedade rural durante temporal que também causou danos em estradas e residências; Defesa Civil classificou o episódio como uma das ocorrências mais severas dos últimos anos no município. Uma forte tempestade registrada na tarde desta segunda-feira (2.nov) provocou a morte de 26 cabeças…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Américo de Campos"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/raio-mata-26-cabecas-de-gado-durante-tempestade-em-americo-de-campos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:56",
+"t": "Justiça de São Paulo barra novas regras da Meta que permitiam uso de conteúdos jornalísticos para treinar inteligência artificial",
+"p": "Em uma decisão histórica para o mercado de comunicação mundial, a Justiça de São Paulo concedeu, nesta terça-feira (3/11), uma liminar que impede a Meta de aplicar suas novas condições comerciais contra os veículos de imprensa associados à Associação Nacional de Jornais (ANJ), à Associação Brasileira de Emissoras…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/justica-de-sao-paulo-barra-novas-regras-da-meta-que-permitiam-uso-de-conteudos-jornalisticos-para-treinar-inteligencia-artificial/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:55",
+"t": "O que o aluno não fala que a escola precisa escutar!",
+"p": "Alberto Martins Cesário, professor e escritor Na terceira carteira da fileira junto à janela, uma criança permanecia em silêncio, não levantava a mão, não disputava respostas, não reclamava das atividades. Quando eu fazia uma pergunta, seus olhos encontravam algum ponto distante do quadro, como se a resposta…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/o-que-o-aluno-nao-fala-que-a-escola-precisa-escutar/",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "19:48",
@@ -115,6 +267,20 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/politica/em-vitoria-para-o-governo-lula-senado-aprova-pec-da-seguranca-publica/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:39",
+"t": "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes",
+"p": "A Comissão Especial da Câmara de Vereadores de São Paulo arquivou o pedido de impeachment contra o prefeito de São Paulo, Ricardo Nunes, por irregularidades no fornecimento de transporte público durante o segundo turno das eleições. No total, cinco parlamentares votaram contra o pedido (Rubinho Nunes - União, que…",
+"tema": "Eleições",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-de-sp-arquiva-pedido-de-impeachment-contra-ricardo-nunes",
 "auto": true
 },
 {
@@ -263,6 +429,20 @@
 ],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/variedades/cachorrinha-resgatada-em-lixao-de-sp-supera-tumor-e-quimioterapia-apos-meses-internada/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "19:00",
+"t": "Alexandre Damasio - Presidente da Câmara de Dirigentes Lojistas de São Caetano | ABC da Economia",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366641/alexandre-damasio-presidente-da-camara-de-dirigentes-lojistas-de-sao-caetano-%7C-abc-da-economia",
 "auto": true
 },
 {
