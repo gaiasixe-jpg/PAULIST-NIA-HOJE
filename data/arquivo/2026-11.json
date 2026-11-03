@@ -3,6 +3,75 @@
 "itens": [
 {
 "d": "2026-11-02",
+"h": "21:48",
+"t": "VÍDEO: chuva forte transforma ruas em rios e motorista precisa abandonar carro submerso no interior de SP",
+"p": "Chuva forte transforma rua em rio em José Bonifácio, interior de SP Uma forte tempestade atingiu cidades da região de São José do Rio Preto (SP) na tarde desta segunda-feira (2), o que transformou ruas em rios, além de causar pontos de alagamento, enxurradas e queda de árvores. Até a última atualização desta…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"José Bonifácio"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/video-chuva-forte-transforma-ruas-em-rios-e-motorista-precisa-abandonar-carro-submerso-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "21:19",
+"t": "Calor de até 38°C e risco de temporais marcam semana na região",
+"p": "Previsão indica temperaturas elevadas, com possibilidade de pancadas de chuva, trovoadas e rajadas de vento",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/calor-de-ate-38c-e-risco-de-temporais-marcam-semana-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "21:14",
+"t": "Santos oferece 100% de desconto em multas e juros até o fim do mês",
+"p": "As medidas do Programa de Recuperação Fiscal (Refis) abrangem débitos inscritos na Dívida Ativa. Além de, pela primeira vez, dívidas do Imposto Sobre Serviços (ISS) ainda não inscritas.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/descontos-multa-e-juros-prefeitura-santos/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "20:30",
+"t": "Diaristas que trabalham até 2 dias na mesma casa precisam pagar INSS e contribuição pode ser de R$ 178,31 ou R$ 324,20 em 2026",
+"p": "Uma diarista que trabalha duas vezes por semana na mesma residência pode ter uma obrigação previdenciária diferente daquela que presta serviços três ou mais dias para uma família. A distinção determina quem deve recolher a contribuição ao Instituto Nacional do Seguro Social (INSS) e pode fazer diferença no direito…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/diaristas-que-trabalham-ate-2-dias-na-mesma-casa-precisam-pagar-inss-e-contribuicao-pode-ser-de-r-17831-ou-r-32420-em-2026/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "20:23",
+"t": "Akira Auriani planeja reformulação no governo para janeiro",
+"p": "Prefeito de Rio Grande da Serra prevê mudanças na equipe para reorganizar a administração visando ao dois últimos anos de mandato",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Rio Grande da Serra"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366439/akira-auriani-planeja-reformulacao-no-governo-para-janeiro",
+"auto": true
+},
+{
+"d": "2026-11-02",
 "h": "20:18",
 "t": "Temporal causa alagamentos e água invade casas em Marília",
 "p": "Casas foram invadidas pela enxurrada e moradores tiveram prejuízos, perdendo móveis e mantimentos, principalmente na zona sul.",
@@ -39,6 +108,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/estradas/br-116-dutra/dutra-tem-bloqueio-em-pirai-e-transito-intenso-na-noite-desta-segunda-2.html",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "20:02",
+"t": "Aos 79 anos, mulher arrecada R$ 3 milhões e constrói duas escolas em um dos países mais pobres do mundo",
+"p": "Mulher arrecada R$ 3 milhões e constrói escolas em Malawi após começar campanha de doações aos 60 anos.",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/diario-mais/aos-79-anos-mulher-arrecada-r-3-milhoes-e-constroi-duas-escolas-em-um-dos-paises-mais-pobres-do-mundo/",
 "auto": true
 },
 {
