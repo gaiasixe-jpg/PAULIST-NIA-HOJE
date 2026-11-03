@@ -2,6 +2,44 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-03",
+"h": "01:14",
+"t": "Calor de até 38°C e risco de temporais marcam semana na região",
+"p": "Rio Preto e região devem enfrentar uma semana de calor intenso, com temperaturas que podem chegar aos 37°C e 38°C em alguns pontos do noroeste paulista. Além das altas temperaturas, a previsão indica aumento da instabilidade atmosférica, com possibilidade de pancadas de chuva, trovoadas, descargas elétricas e…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/calor-de-ate-38c-e-risco-de-temporais-marcam-semana-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "01:14",
+"t": "Motoristas têm até dia 16 para regularizar multas do Siga Fácil",
+"p": "O Departamento de Estradas de Rodagem do Estado de São Paulo (DER-SP) alerta motoristas sobre a aproximação do fim do prazo da regularização de débitos no sistema de pórticos Siga Fácil. Motoristas que receberam multas por não pagar tarifas do sistema de cobrança automática em rodovias paulistas podem solicitar…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/motoristas-tem-ate-dia-16-para-regularizar-multas-do-siga-facil/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "23:10",
+"t": "Ganância humana transforma ilha paradisíaca em cenário de poluição e água contaminada: agora, moradores e indígenas enfrentam riscos à saúde",
+"p": "Relatório identifica níquel, chumbo e cádmio em amostras de água e alimentos; mineração também ameaça a pesca e o território de comunidades Bajau na Indonésia.",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/ganancia-humana-transforma-ilha-paradisiaca-em-cenario-de-poluicao-e-agua-contaminada-agora-moradores-e-indigenas-enfrentam-riscos-a-saude/",
+"auto": true
+},
+{
 "d": "2026-11-02",
 "h": "22:35",
 "t": "WSL: resultados AO VIVO e horários de Yago Dora x Gabriel Medina e programação completa do Finals Day da etapa das Filipinas",
