@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T16:58:21-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-03T17:55:20-03:00",
+"novos_nesta_coleta": 26,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,313 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "17:48",
+"t": "Esposa acompanha Flávio nos EUA após ser peça-chave para vender moderação nas eleições",
+"p": "Reprodução / Redes Sociais Diante de milhares de apoiadores, no ato de 7 de Setembro na avenida Paulista, um dos principais eventos da campanha de Flávio Bolsonaro, a sua mulher, Fernanda Bolsonaro, fez um discurso de 56 segundos.",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/esposa-acompanha-flavio-nos-eua-apos-ser-peca-chave-para-vender-moderacao-nas-eleicoes/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:46",
+"t": "Feira em Várzea Paulista reúne produtos exclusivos e valoriza talentos da cidade",
+"p": "Foto: Prefeitura de Várzea Paulista Instalado no shopping, espaço oferece peças artesanais produzidas por empreendedores locais durante três dias da semana",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/feira-criativa-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:45",
+"t": "Taboão da Serra oferece exames gratuitos para homens acima de 50 anos, com consultas de cardiologista e urologista sem encaminhamento médico",
+"p": "Homens com 50 anos ou mais podem realizar consultas e exames gratuitos no Ambulatório Médico de Especialidades (AME) de Taboão da Serra, na Grande São Paulo. A unidade participa do programa “Filho que Ama Leva o Pai no AME”, da Secretaria de Estado da Saúde, que oferece check-up em mais de 20 unidades estaduais,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Taboão da Serra"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/taboao-da-serra-oferece-exames-gratuitos-para-homens-acima-de-50-anos-com-consultas-de-cardiologista-e-urologista-sem-encaminhamento-medico/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:36",
+"t": "Prefeitura de Sorocaba dá início à programação de 50 anos do Parque da Biquinha",
+"p": "A Prefeitura de Sorocaba deu início, na manhã desta terça-feira (3), à programação especial de aniversário de 50 anos do Parque da Biquinha (5 de novembro), um dos espaços verdes mais tradicionais da cidade. Voltada a pessoas de todas as idades, a iniciativa reunirá atividades educativas, culturais, recreativas e…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-da-inicio-a-programacao-de-50-anos-do-parque-da-biquinha/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:35",
+"t": "São José dos Campos alcança pontuação máxima em prêmio estadual com programa que oferece 22 modalidades esportivas para jovens",
+"p": "São José dos Campos, no Vale do Paraíba, conquistou o primeiro lugar na categoria Município Amigo do Esporte do Prêmio Selo Amigo do Esporte, promovido pela Secretaria de Esportes do Estado de São Paulo. O município alcançou a pontuação máxima de 50 pontos com o Programa Atleta Cidadão, iniciativa voltada à…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/sao-jose-dos-campos-alcanca-pontuacao-maxima-em-premio-estadual-com-programa-que-oferece-22-modalidades-esportivas-para-jovens/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:34",
+"t": "LSB enfrenta Tatuí pelas semifinais do Campeonato Paulista",
+"p": "A Liga Sorocabana de Basquete (LSB) enfrenta o Tatuí Basquete pela semifinais do Campeonato Paulista. A série será disputada em melhor de cinco jogos: o primeiro, nesta quarta-feira (4), às 19h30, na casa do adversário; já o segundo e o terceiro, serão em Sorocaba, na sexta-feira (6) e na segunda-feira (9), ambos…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba",
+"Tatuí"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/lsb-enfrenta-tatui-pelas-semifinais-do-campeonato-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:33",
+"t": "Polícia Civil desmonta laboratório do tráfico que abastecia presídio em Mongaguá e prende três mulheres",
+"p": "Operação da DISE de Itanhaém apreende drogas em bexigas, balança de precisão e uniformes do sistema prisional",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itanhaém",
+"Mongaguá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/policia-civil-desmonta-laboratorio-do-trafico-que-abastecia-presidio-em-mongagua-e-prende-tres-mulheres.html",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:32",
+"t": "Homem é condenado a mais de dois anos de prisão por furtar bicicleta em escola de Três Fronteiras",
+"p": "Em sentença proferida pela 2ª Vara do Foro de Santa Fé do Sul no dia 29 de outubro de 2026, o magistrado Felipe Ferreira Pimenta condenou Kennidy Nunes Pampanin pelo crime de furto qualificado por escalada. A pena definitiva do acusado foi estabelecida em 2 anos e 4 meses de reclusão no regime inicial fechado, […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santa Fé do Sul",
+"Três Fronteiras"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-condenado-a-mais-de-dois-anos-de-prisao-por-furtar-bicicleta-em-escola-de-tres-fronteiras/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:31",
+"t": "Waleska Gomes leva tradição do Carnaval paulistano à Mangueira e ministra aula especial para alunos de projeto social no Rio de Janeiro",
+"p": "A porta-bandeira oficial da Estrela do Terceiro Milênio, escola do Grupo Especial do Carnaval de São Paulo, Waleska Gomes, participou pelo segundo ano consecutivo de uma aula especial de dança de mestre-sala e porta-bandeira no Rio de Janeiro. O encontro foi realizado na última quarta-feira (28/10), na quadra da…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/waleska-gomes-leva-tradicao-do-carnaval-paulistano-a-mangueira-e-ministra-aula-especial-para-alunos-de-projeto-social-no-rio-de-janeiro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:30",
+"t": "TSE reabre período para mudança do local ou primeiro documento do título de eleitor, que pode ser feito pela internet ou presencialmente",
+"p": "A eleição deste ano ficou marcada por inúmeras pessoas que precisaram viajar milhares de quilômetros para exercer o dever de votar, muitas pelas por não ter alterado o local de votação. Segundo o TSE (Tribunal Superior Eleitoral), mais de 4 milhões de justificativas foram efetuadas pelo e-Titulo apenas no primeiro…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/tse-reabre-periodo-para-mudanca-do-local-ou-primeiro-documento-do-titulo-de-eleitor-que-pode-ser-feito-pela-internet-ou-presencialmente/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:30",
+"t": "Hospital pediátrico de Santos dispõe de bolha gigante para manter obras durante período de chuvas",
+"p": "Estrutura inflável de lona protege o canteiro e permite avançar na fase de fundação; unidade terá 30 leitos e atendimento gratuito pelo SUS",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/hospital-pediatrico-de-santos-dispoe-de-bolha-gigante-para-manter-obras-durante-periodo-de-chuvas.html",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:25",
+"t": "Empresa confirma investimento de R$ 20 milhões e abre 100 vagas de emprego em Ribeirão Preto",
+"p": "Empresa distribuidora de lubrificantes iniciou operações em nova unidade em Ribeirão Preto",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/empresa-confirma-investimento-de-r-20-milhoes-e-abre-100-vagas-de-emprego-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:24",
+"t": "Procon realiza negociação de dívidas de operadora com até 80% de desconto; veja como conseguir",
+"p": "Ação para renegociar dívidas com a operadora Claro será realizada nesta quinta-feira (5), no posto do Procon, localizado no Poupatempo de Ribeirão Preto",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/procon-realiza-negociacao-de-dividas-de-operadora-com-ate-80-de-desconto-veja-como-conseguir/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:22",
+"t": "Artista criou desenho que virou símbolo das calçadas de São Paulo há 60 anos, morre sem ganhar dinheiro pelo sucesso e agora obra pode desaparecer",
+"p": "Milhões de pessoas caminham diariamente sobre um desenho que representa o estado de São Paulo sem conhecer sua criadora. Presente nas calçadas da capital há 60 anos, o chamado piso paulista se tornou parte da identidade visual da cidade. Agora, porém, o símbolo enfrenta o risco de desaparecer aos poucos, enquanto…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/artista-criou-desenho-que-virou-simbolo-das-calcadas-de-sao-paulo-ha-60-anos-morre-sem-ganhar-dinheiro-pelo-sucesso-e-agora-obra-pode-desaparecer/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:19",
+"t": "Onde fazer massagem e terapias integrativas em Santos?",
+"p": "Espaço no bairro Aparecida reúne serviços de massoterapia, estética, acupuntura e atividades coletivas voltadas ao autocuidado.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/elas-delas/onde-fazer-massagem-e-terapias-integrativas-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:19",
+"t": "Sorocaba promove 1ª Jornada para a Equidade Racial e realiza 8º Fórum de Educação para as Relações Étnico-Raciais",
+"p": "Fotos: Divulgação/Sedu Iniciativa reuniu ações formativas, diálogos, práticas pedagógicas e manifestações culturais para fortalecer políticas públicas e práticas educativas antirracistas na rede municipal de ensino A Secretaria da Educação de Sorocaba (Sedu), em articulação com a Coordenadoria da Igualdade Racial,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-promove-1a-jornada-para-a-equidade-racial-e-realiza-8o-forum-de-educacao-para-as-relacoes-etnico-raciais/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:16",
+"t": "Disque-pó: polícia prende motoboy com 7 kg de drogas dentro da bolsa",
+"p": "Aos policiais, o motoboy confessou que teria pegado a carga em uma estação de metro e a transportaria até Itapecerica da Serra, na Grande SP",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itapecerica da Serra"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/disque-po-policia-prende-motoboy-com-7-kg-de-drogas-dentro-da-bolsa",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:06",
+"t": "Suspeito de matar ex-companheira em quarto de hotel em Jundiaí é preso em Caraguatatuba",
+"p": "Homem foi localizado na segunda-feira (2), no litoral norte de São Paulo, confessou o crime à Polícia Civil, e vai responder por feminicídio",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Caraguatatuba",
+"São Paulo",
+"Jundiaí"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/suspeito-de-matar-ex-companheira-em-quarto-de-hotel-em-jundiai-e-preso-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:02",
+"t": "Gengiva pálida ou arroxeada no cachorro? Entenda o que cada cor pode revelar sobre a saúde",
+"p": "A gengiva do cachorro pode fornecer pistas importantes sobre seu estado de saúde, já que sua aparência está relacionada à circulação sanguínea, à oxigenação dos tecidos e a outras condições do organismo. Em geral, quando está saudável, apresenta coloração rosada, superfície úmida e aspecto uniforme, embora a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/gengiva-palida-ou-arroxeada-no-cachorro-entenda-o-que-cada-cor-pode-revelar-sobre-a-saude/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:02",
+"t": "Calor intenso exige atenção: veja como proteger a saúde e evitar problemas nos dias quentes",
+"p": "Com a aproximação do verão, as temperaturas mais elevadas exigem atenção redobrada à saúde. A exposição prolongada ao calor pode favorecer a desidratação, provocar queda de pressão e, em situações mais graves, levar à exaustão térmica e à insolação. Por isso, reconhecer os sinais do organismo e adotar medidas…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/calor-intenso-exige-atencao-veja-como-proteger-a-saude-e-evitar-problemas-nos-dias-quentes/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:00",
+"t": "Hotéis em Brasília cobram até R$ 25 mil por diária na semana da posse de Lula em janeiro de 2027",
+"p": "A procura por hospedagem para a posse do presidente Luiz Inácio Lula da Silva (PT), marcada para 5 de janeiro de 2027, provocou uma disparada nos preços das diárias em Brasília (DF). Em alguns estabelecimentos, os valores ultrapassam R$ 25 mil por noite, segundo levantamento realizado pelo Metrópoles em sites de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/hoteis-em-brasilia-cobram-ate-r-25-mil-por-diaria-na-semana-da-posse-de-lula-em-janeiro-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "17:00",
+"t": "Festival Transformar movimenta Santos com feira de economia criativa e programação gratuita",
+"p": "Evento acontece de 11 a 15 de novembro, com oficinas gratuitas, atrações culturais e feira de economia criativa com mais de 60 marcas.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/festival-transformar-movimenta-santos-com-feira-de-economia-criativa-e-programacao-gratuita/",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "16:55",
@@ -135,6 +442,20 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/automotor/novos-honda-city-sedan-e-hatchback-2026-chegam-com-design-renovado-motor-1-5l-sistema-magic-seat-e-pacotes-avancados-de-seguranca-e-tecnologia/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:30",
+"t": "Rua das Hortências recebe asfalto em Ribeirão Pires",
+"p": "Obras no Jardim Santa Rosa avançam com aplicação de duas camadas de asfalto; intervenção integra pacote de R$ 1,2 milhão",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366580/rua-das-hortencias-recebe-asfalto-em-ribeirao-pires",
 "auto": true
 },
 {
@@ -2806,6 +3127,48 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67691",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Rolê Cultural movimenta Prudente com apresentações musicais que vão até dia 26",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67697",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Prefeitura de Prudente será sede do primeiro Sebrae Aqui Mulher da região",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67696",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Seduc Prudente promove aplicação do Sarem entre os dias 3 e 6 de novembro de 2026",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67695",
 "auto": true
 },
 {
