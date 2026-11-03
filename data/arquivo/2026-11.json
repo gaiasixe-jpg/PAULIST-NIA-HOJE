@@ -3,6 +3,388 @@
 "itens": [
 {
 "d": "2026-11-03",
+"h": "10:09",
+"t": "R$ 5,7 bilhões em debate: audiência pública discute orçamento de 2027 nesta quinta",
+"p": "Audiência pública na Câmara de Ribeirão Preto analisa projeto de R$ 5,77 bilhões para 2027 e recebe sugestões presenciais e pela internet",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/nevio-archibald/57-bilhoes-em-debate-audiencia-publica-discute-orcamento-de-2027-nesta-quinta/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "10:08",
+"t": "Bancada do PL na Alesp se reúne em meio à disputa sobre presidência da Casa",
+"p": "Sucessão de André do Prado (PL) segue em aberto. Pelo menos sete candidatos foram citados para o posto nos últimos dias",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bancada-do-pl-na-alesp-se-reune-em-meio-a-disputa-sobre-presidencia-da-casa",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "10:07",
+"t": "Justiça decreta prisão temporária de homem que deu voadora em idoso em SP",
+"p": "Denis Young Kim, de 43 anos, é procurado pela polícia, suspeito de dar uma voadora nas costas de um idoso nessa sexta-feira (30/10)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-decreta-prisao-temporaria-de-homem-que-deu-voadora-em-idoso-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "10:07",
+"t": "Confira a agenda do ‘Médico na Praça’ desta semana",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), segue com o “Médico na Praça”. O atendimento iniciará a semana, nesta terça-feira (3), das 9h às 13h, na Chácara do Idoso, na Rua Manoel Afonso, 64, na Vila Progresso. Na quarta-feira (4), das 8h às 16h, o serviço estará disponível no Paço Municipal, […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/confira-a-agenda-do-medico-na-praca-desta-semana-3/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "10:05",
+"t": "Obituário | Falecimentos registrados nesta terça-feira (3/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta terça-feira, dia 3 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-terca-feira-3-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "10:00",
+"t": "Superlotação é principal reclamação de passageiros de ônibus em Praia Grande",
+"p": "Fred Casagrande/Prefeitura de Praia Grande A superlotação dos ônibus é a principal reclamação dos usuários do transporte público municipal de Praia Grande, segundo levantamento.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/superlotacao-e-principal-reclamacao-de-passageiros-de-onibus-em-praia-grande/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "10:00",
+"t": "Ciclista morre após ser atingido por carro ao atravessar rodovia em Peruíbe",
+"p": "Divulgação/Portal CCM - ARTESP Um ciclista morreu após ser atingido lateralmente por um carro enquanto atravessava a Rodovia Padre Manoel da Nóbrega, em Peruíbe.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Peruíbe"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/ciclista-morre-apos-ser-atingido-por-carro-ao-atravessar-rodovia-em-peruibe/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "10:00",
+"t": "Hospital Regional de Itanhaém abre processo seletivo para 18 vagas",
+"p": "Divulgação O Hospital Regional Jorge Rossmann, em Itanhaém, abriu o processo seletivo para formação de cadastro reserva para 18 diferentes cargos.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/hospital-regional-de-itanhaem-abre-processo-seletivo-para-18-vagas/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:56",
+"t": "São Vicente assina comodato para gestão do Complexo Materno-Infantil",
+"p": "Contrato de 30 anos foi assinado na sexta (30), em conjunto com a Fundação Lusíada; prefeito também oficializou convocação de 81 profissionais para o hospital",
+"tema": "Saúde",
+"s": "obra",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/sao-vicente-assina-comodato-para-gestao-do-complexo-materno-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:54",
+"t": "Homem é preso após arrombar mercado e furtar mais de R$ 1,5 mil em produtos",
+"p": "Desempregado foi flagrado pela Polícia Militar carregando um saco com carnes, picolés, bebidas, doces e outros produtos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-preso-apos-arrombar-mercado-e-furtar-mais-de-r-15-mil-em-produtos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:51",
+"t": "Áudio: CCJ analisa criação de fundo de amparo às crianças órfãs",
+"p": "A Comissão de Constituição e Justiça (CCJ) analisa projeto de lei que cria o Fundo de Amparo às Crianças Órfãs e o Programa de Amparo às Crianças Órfãs. O PL 2.329/2021 tem o objetivo de garantir suporte financeiro e assistencial a crianças e adolescentes que perderam pais ou cuidadores primários. Condicionado à…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Amparo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/audio-ccj-analisa-criacao-de-fundo-de-amparo-as-criancas-orfas/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:51",
+"t": "Após 1 ano internado, adolescente que teve 90% do corpo queimado em explosão volta para casa: ‘Olho brilha de alegria’, diz mãe",
+"p": "Adolescente internado em Catanduva após explosão de churrasqueira volta para casa Depois de um ano e cinco meses internado em um hospital em Catanduva (SP), entre cirurgias e procedimentos para tratar queimaduras em quase 90% do corpo, Rikelme Alexandre de Brito, de 14 anos, voltou para casa. O acidente ocorreu no…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Catanduva"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/apos-1-ano-internado-adolescente-que-teve-90-do-corpo-queimado-em-explosao-volta-para-casa-olho-brilha-de-alegria-diz-mae/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:51",
+"t": "Segurança morre após cair de barracão no trabalho em Rio Preto",
+"p": "Hospital de Base de Rio Preto (SP) Divulgação Um segurança de 58 anos morreu, na manhã de segunda-feira (2), em São José do Rio Preto (SP) após cair de um barracão durante o trabalho. Ele passou 13 dias internado em estado grave no Hospital de Base (HB). Segundo o boletim de ocorrência, Denilson Alves de […]",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/seguranca-morre-apos-cair-de-barracao-no-trabalho-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:50",
+"t": "Eficiência energética e conforto térmico impulsionam o uso de exaustores eólicos em galpões industriais no estado de SP",
+"p": "Com as frequentes oscilações de temperatura no estado de São Paulo, indústrias e empresas de logística têm voltado suas atenções para soluções sustentáveis que garantam a renovação do ar e o conforto térmico de suas instalações. Manter um ambiente de trabalho arejado não é apenas uma exigência regulatória de saúde…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/eficiencia-energetica-e-conforto-termico-impulsionam-o-uso-de-exaustores-eolicos-em-galpoes-industriais-no-estado-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:48",
+"t": "Adolescente morre após se afogar em represa em Mogi das Cruzes",
+"p": "Vítima de 14 anos foi retirada da água em parada cardiorrespiratória e encaminhada à UPA do Oropó, onde a morte foi confirmada",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/adolescente-morre-apos-se-afogar-em-represa-em-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:32",
+"t": "Jim Caviezel, que vive Jair Bolsonaro nos cinemas, se manifesta sobre o cenário político brasileiro: “o comunismo assumiu totalmente a eleição”",
+"p": "O ator norte-americano Jim Caviezel, que interpretou o ex-presidente Jair Bolsonaro no longa “Dark Horse”, falou pela primeira vez sobre as polêmicas do filme e afirmou que “o comunismo assumiu totalmente a eleição” do Brasil. Até então, o ator apenas havia compartilhado imagens e escrito sobre o longa em suas…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/jim-caviezel-que-vive-jair-bolsonaro-nos-cinemas-se-manifesta-sobre-o-cenario-politico-brasileiro-o-comunismo-assumiu-totalmente-a-eleicao/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:32",
+"t": "Motociclista em alta velocidade atropela pedestre que atravessava rua",
+"p": "Acidente aconteceu na Rua Sete de Setembro, neste domingo (1º), e foi registrado por uma câmera de segurança; motociclista atingiu a pedestre, que sofreu fraturas na perna e na pelve",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motociclista-em-alta-velocidade-atropela-pedestre-que-atravessava-rua/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:32",
+"t": "MEC dá dicas aos participantes para o Enem 2026",
+"p": "A primeira prova do Exame Nacional do Ensino Médio (Enem) de 2026 está marcada para o próximo domingo (8) e o Ministério da Educação (MEC) elaborou uma lista para facilitar a preparação dos mais de 5 milhões de inscritos com itens que devem estar prontos antes da data do exame.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/mec-da-dicas-aos-participantes-para-o-enem-2026/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:30",
+"t": "Fazenda e refúgio de Rogério Ceni tem 3,9 mil hectares e armazém para 1 milhão de sacas no interior de Mato Grosso",
+"p": "A Fazenda Dona Dozolina, comandada pela família do ex-goleiro Rogério Ceni, fez uma ampliação para a produção de 1 milhão de sacas em seu armazém há cerca de seis anos. A propriedade de 3,9 mil hectares se tornou um refúgio para o atleta em Santa Carmem, no interior do Mato Grosso. Na época das obras […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/fazenda-e-refugio-de-rogerio-ceni-tem-39-mil-hectares-e-armazem-para-1-milhao-de-sacas-no-interior-de-mato-grosso/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:29",
+"t": "Eu experimentei a tendência ‘camadas de fibra’ por duas semanas, e essa consequência eu não esperava",
+"p": "Prato montado com feijão, folhas, maçã com casca, aveia e sementes ao lado de um copo de água, ilustrando o hábito de espalhar fibra ao longo do dia sem suplementos. Ilustração criada com Inteligência Artificial Uma jornalista testou a tendência alimentar fiber layering por 14 dias para melhorar a digestão, mas a…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/eu-experimentei-a-tendencia-camadas-de-fibra-por-duas-semanas-e-essa-consequencia-eu-nao-esperava/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:25",
+"t": "Motorista fica ferida após SUV aquaplanar e sair da pista em rodovia",
+"p": "Motorista ficou ferida após veículo aquaplanar com acúmulo de água da chuva e sair da pista na rodovia Altino Arantes, em Batatais",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Batatais"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motorista-fica-ferida-apos-suv-aquaplanar-e-sair-da-pista-em-rodovia/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:20",
+"t": "Moto supostamente furtada em Alagoas é apreendida em Rio Preto",
+"p": "Registro de furto foi em 2023, mas condutor apresentou contrato de locação com a empresa proprietária",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/moto-supostamente-furtada-em-alagoas-e-apreendida-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:19",
+"t": "Etec de Praia Grande prorroga prazo de inscrição do Vestibulinho e garante mais tempo para candidatos disputarem vagas nos cursos",
+"p": "O Vestibulinho da Escola Técnica Estadual (ETEC) de Praia Grande prorrogou seu prazo de inscrição até a próxima segunda feira. As oportunidades são voltadas para quem busca formação de qualidade e deseja ampliar as possibilidades de ingresso no mercado de trabalho. A unidade de Praia Grande oferece cursos que…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/etec-de-praia-grande-prorroga-prazo-de-inscricao-do-vestibulinho-e-garante-mais-tempo-para-candidatos-disputarem-vagas-nos-cursos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:10",
+"t": "Temporal mobiliza Defesa Civil e deixa rastro de estragos e desalojados no interior de São Paulo",
+"p": "Uma sequência de fortes chuvas registrada entre domingo (1º) e a noite desta terça-feira (3) causou inundações, quedas de árvores, destelhamentos e danos estruturais em diversas cidades do Estado de São Paulo. O Governo Estadual, por meio da Defesa Civil, atua de forma integrada com as prefeituras para prestar…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/temporal-mobiliza-defesa-civil-e-deixa-rastro-de-estragos-e-desalojados-no-interior-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:09",
+"t": "Registro sedia capacitação de enfermeiros para ampliar oferta de implante contraceptivo pelo SUS",
+"p": "saúde",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/registro-sedia-capacitacao-de-enfermeiros-para-ampliar-oferta-de-implante-contraceptivo-pelo-sus/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:08",
+"t": "Novas regras de atendimento ao consumidor começam a valer",
+"p": "Desde a última segunda-feira (2), os canais de atendimento telefônicos e eletrônicos - Serviço de Antendimento ao Consumidor (SAC) - das empresas estão obrigados a funcionar em contato direto com os consumidores.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/novas-regras-de-atendimento-ao-consumidor-comecam-a-valer/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "09:06",
+"t": "Discussão em fila de supermercado termina em agressão e caso vai parar na polícia",
+"p": "Advogada afirma ter sido derrubada, puxada pelos cabelos e arranhada por duas mulheres após desentendimento em caixas de supermercado atacadista",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/discussao-em-fila-de-supermercado-termina-em-agressao-e-caso-vai-parar-na-policia/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:55",
+"t": "Prefeitura de Santos antecipa operação da Defesa Civil e triplica a equipe para reforçar o monitoramento de morros no período de chuvas",
+"p": "O Plano Preventivo da Defesa Civil (PPDC) em Santos teve sua antecipação valendo pela primeira vez e passou a vigorar no último domingo, com o propósito de reforçar a prevenção dos efeitos das chuvas fortes associadas ao El Niño. Segundo o chefe da Defesa Civil, Daniel Onias, o monitoramento das áreas vulneráveis e…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/prefeitura-de-santos-antecipa-operacao-da-defesa-civil-e-triplica-a-equipe-para-reforcar-o-monitoramento-de-morros-no-periodo-de-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "08:54",
 "t": "Provão Paulista começa nesta quarta-feira (4) com 15,8 mil vagas em universidades públicas de SP",
 "p": "Provão oferece vagas na USP, Unesp, Unicamp, Univesp e nas Fatecs; estudantes da 3ª série do Ensino Médio realizam a prova nesta semana, enquanto alunos da 2ª e 1ª série realizam a prova a partir do dia 10",
@@ -13,6 +395,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/educacao/provao-paulista-comeca-nesta-quarta-feira-4-com-158-mil-vagas-em-universidades-publicas-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:54",
+"t": "Tubarão de 2,7 metros que vivia em aquário há quase 30 anos passa por eutanásia após piora de saúde e emociona funcionários",
+"p": "Howie chegou a 2,7 metros no habitat atlântico e vivia no aquário de Plymouth desde a abertura em 1998. Ilustração criada com Inteligência Artificial Howie, uma tubarão-mangona que viveu por quase 30 anos no National Marine Aquarium, na Inglaterra, morreu após apresentar piora em sua condição de saúde.",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo-pet/tubarao-de-27-metros-que-vivia-em-aquario-ha-quase-30-anos-passa-por-eutanasia-apos-piora-de-saude-e-emociona-funcionarios/",
 "auto": true
 },
 {
@@ -126,6 +522,18 @@
 },
 {
 "d": "2026-11-03",
+"h": "08:24",
+"t": "Quer fazer frango desfiado suculento sem deixar a carne seca? Cozinheiros recomendam trocar a água por este ingrediente que está na sua geladeira",
+"p": "Troque o líquido do cozimento e descubra como preservar a umidade das fibras para aproveitar melhor o preparo em diferentes receitas",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/quer-fazer-frango-desfiado-suculento-sem-deixar-a-carne-seca-cozinheiros-recomendam-trocar-a-agua-por-este-ingrediente-que-esta-na-sua-geladeira/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "08:15",
 "t": "Acompanhe a fila de espera da balsa Santos-Guarujá na manhã desta terça (3)",
 "p": "Sete embarcações operavam na travessia por volta das 8h desta terça; tarifa de R$12,30 para carros é cobrada só no embarque em Guarujá",
@@ -140,6 +548,18 @@
 },
 {
 "d": "2026-11-03",
+"h": "08:10",
+"t": "Black Friday 2026 já ‘começou’ no Brasil e esconde armadilhas que podem fazer consumidores perder dinheiro",
+"p": "Poucos momentos do ano são tão aguardados pelos consumidores brasileiros quanto a Black Friday. No entanto, diante da antecipação das ofertas, é preciso redobrar a atenção para não cair em falsas promoções. A Black Friday 2026 já movimenta o comércio brasileiro, embora a data oficial esteja marcada para 27 de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/black-friday-2026-ja-comecou-no-brasil-e-esconde-armadilhas-que-podem-fazer-consumidores-perder-dinheiro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "08:00",
 "t": "Interior de SP tem alerta de tempestade e previsão de chuva nesta terça-feira; veja horários",
 "p": "Inmet emitiu aviso amarelo para a cidade, com possibilidade de ventos de até 60 km/h e granizo; temperaturas podem chegar aos 30 °C",
@@ -150,6 +570,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/interior-de-sp-tem-alerta-de-tempestade-e-previsao-de-chuva-nesta-terca-feira-veja-horarios/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:00",
+"t": "Chef do D.O.M, Geovane Carneiro realiza bate-papo com aula-show em Rio Preto",
+"p": "Programação integra a Jornada Senac de Alimentação, Hospitalidade e Turismo 2026 e reúne especialistas para discutir o desenvolvimento regional e as tendências do setor",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/chef-do-d-o-m-geovane-carneiro-realiza-bate-papo-com-aula-show-em-rio-preto/",
 "auto": true
 },
 {
@@ -426,6 +860,20 @@
 "c": [],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/motoristas-tem-ate-dia-16-para-regularizar-multas-do-siga-facil/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Prefeitura promove ações de conscientização no primeiro aniversário do Código de Ética",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67690",
 "auto": true
 },
 {
