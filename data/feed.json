@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T04:17:18-03:00",
-"novos_nesta_coleta": 1,
+"atualizado": "2026-11-03T05:58:41-03:00",
+"novos_nesta_coleta": 0,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -12,6 +12,8 @@
 "Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
+"ACidade ON Ribeirão Preto",
+"ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
@@ -41,14 +43,6 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "ACidade ON Ribeirão Preto",
-"erro": "The read operation timed out"
-},
-{
-"fonte": "ACidade ON Campinas",
-"erro": "The read operation timed out"
 },
 {
 "fonte": "Portal Regional (Dracena)",
