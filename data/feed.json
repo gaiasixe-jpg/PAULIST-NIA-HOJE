@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T07:59:36-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-03T08:55:29-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -22,6 +22,7 @@
 "Costa Norte",
 "Portal Sorocaba.com",
 "Jornal Ita News",
+"Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
@@ -29,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 7 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,160 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Portal Regional (Dracena)",
-"erro": "HTTP Error 429: Too Many Requests"
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "08:54",
+"t": "Provão Paulista começa nesta quarta-feira (4) com 15,8 mil vagas em universidades públicas de SP",
+"p": "Provão oferece vagas na USP, Unesp, Unicamp, Univesp e nas Fatecs; estudantes da 3ª série do Ensino Médio realizam a prova nesta semana, enquanto alunos da 2ª e 1ª série realizam a prova a partir do dia 10",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/educacao/provao-paulista-comeca-nesta-quarta-feira-4-com-158-mil-vagas-em-universidades-publicas-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:48",
+"t": "Advogado Nelson Wilians faz BO por ameaça e tentativa de invasão à sua casa",
+"p": "Suspeito ficou ferido ao chutar portão da casa do advogado na zona oeste de SP. Wilians relatou à polícia ter recebido uma série de ameaças",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/advogado-nelson-wilians-faz-bo-por-ameaca-e-tentativa-de-invasao-a-sua-casa",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:40",
+"t": "INMET emite alerta de tempestade para Jundiaí nesta terça-feira (3); veja previsão",
+"p": "Foto: Prefeitura de Jundiaí Aviso amarelo prevê risco de chuva intensa, ventos de até 60 km/h e granizo; temperaturas podem chegar aos 30°C nos próximos dias.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/alerta-tempestade-jundiai-3-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:40",
+"t": "Falta de ônibus em linhas gera atrasos e filas nos terminais; veja linhas afetadas",
+"p": "Falta de ônibus comprometeu a operação do BRT Campo Grande na manhã desta terça-feira (3)",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-onibus-compromete-quatro-linhas-do-brt-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:35",
+"t": "Dois homens são condenados por tráfico de drogas após operação da Polícia Civil em Jales",
+"p": "O Juízo da 2ª Vara Criminal da Comarca de Jales condenou Jonathan Aparecido de Oliveira dos Santos e Gabriel Antônio da Silva Matias pelo crime de tráfico de entorpecentes. A sentença, proferida pelo magistrado Júnior Da Luz Miranda em 27 de outubro de 2026 e disponibilizada no início deste mês, fixou a pena de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/dois-homens-sao-condenados-por-trafico-de-drogas-apos-operacao-da-policia-civil-em-jales/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:30",
+"t": "Homem armado com simulacro, faca e espingarda é preso após ameaçar mulher em Fernandópolis",
+"p": "Um homem foi preso em flagrante pela Polícia Militar no último domingo (1º) após ameaçar uma mulher no Conjunto Habitacional Albino Mininelli, em Fernandópolis. A intervenção rápida dos agentes evitou uma tragédia e resultou na apreensão de uma faca, uma imitação de arma de fogo e uma espingarda municiada. As…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-armado-com-simulacro-faca-e-espingarda-e-preso-apos-ameacar-mulher-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:27",
+"t": "Homem rende motorista durante falsa carona e é preso após perseguição policial em Votuporanga",
+"p": "Um homem com histórico criminal foi preso em flagrante pela Polícia Militar na tarde desta segunda-feira (2), feriado de Finados, após praticar um assalto em Votuporanga. A ocorrência mobilizou equipes de patrulhamento territorial, Força Tática e o apoio da Polícia Militar Ambiental em um cerco que culminou na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-rende-motorista-durante-falsa-carona-e-e-preso-apos-perseguicao-policial-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:25",
+"t": "Polícia confirma morte de 2ª vítima de queda de muro na zona leste de SP",
+"p": "Raio teria causado o desabamento de muro em laje onde acontecia festa familiar. Duas pessoas morreram e outras 9 ficaram feridas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-confirma-morte-de-2a-vitima-de-queda-de-muro-na-zona-leste-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:24",
+"t": "Caminhonete furtada em Parisi é localizada pela polícia em São Carlos",
+"p": "A caminhonete Ford F-1000 que havia sido levada por criminosos durante a madrugada no município de Parisi foi encontrada nesta terça-feira. O veículo foi localizado por equipes policiais no município de São Carlos, situado a centenas de quilômetros de distância de onde ocorreu o crime. Após a constatação do furto,…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Carlos",
+"Parisi"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/caminhonete-furtada-em-parisi-e-localizada-pela-policia-em-sao-carlos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:15",
+"t": "Acompanhe a fila de espera da balsa Santos-Guarujá na manhã desta terça (3)",
+"p": "Sete embarcações operavam na travessia por volta das 8h desta terça; tarifa de R$12,30 para carros é cobrada só no embarque em Guarujá",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/balsas/santos-guaruja/acompanhe-a-fila-de-espera-da-balsa-santos-guaruja-na-manha-desta-terca-3.html",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "08:00",
+"t": "Interior de SP tem alerta de tempestade e previsão de chuva nesta terça-feira; veja horários",
+"p": "Inmet emitiu aviso amarelo para a cidade, com possibilidade de ventos de até 60 km/h e granizo; temperaturas podem chegar aos 30 °C",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/interior-de-sp-tem-alerta-de-tempestade-e-previsao-de-chuva-nesta-terca-feira-veja-horarios/",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "07:45",
@@ -74,6 +222,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/mais/esportes/stf-realiza-audiencia-para-discutir-as-bets-no-brasil-nesta-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:41",
+"t": "Tarifa zero no fim de semana? PEC foi enviada ao congresso e propõe transporte público gratuito",
+"p": "Já pensou em sair no fim de semana ou em um feriado com a família e não precisar pagar nada pelo transporte público? Essa é a proposta enviada pelo Governo Federal ao Congresso Nacional através de uma Proposta de Emenda à Constituição (PEC). A medida prevê o financiamento de passagens gratuitas aos sábados,…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/tarifa-zero-no-fim-de-semana-pec-foi-enviada-ao-congresso-e-propoe-transporte-publico-de-graca-aos-sabados-domingos-e-feriados/",
 "auto": true
 },
 {
@@ -132,6 +292,32 @@
 },
 {
 "d": "2026-11-03",
+"h": "07:32",
+"t": "Batida faz carro rodar no asfalto molhado e atingir poste em Ribeirão Preto; Vídeo",
+"p": "Carro rodou no asfalto molhado pela chuva após ser atingido por outro veículo e colidiu contra poste na tarde desta segunda (2)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/batida-faz-carro-rodar-no-asfalto-molhado-e-atingir-poste-em-ribeirao-preto-video/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:31",
+"t": "Mega da Virada muda data do sorteio pela 1ª vez em 17 anos e abre apostas com o maior prêmio de sua história",
+"p": "As apostas para a Mega da Virada 2026 começam nesta terça-feira (3), com prêmio estimado em R$ 1 bilhão. O valor coloca o concurso especial entre as maiores premiações já oferecidas pelas loterias brasileiras. Neste ano, o sorteio terá uma mudança excepcional no calendário. Em vez de ocorrer na noite de 31 de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/mega-da-virada-muda-data-do-sorteio-pela-1a-vez-em-17-anos-e-abre-apostas-com-o-maior-premio-de-sua-historia/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "07:25",
 "t": "Polícia investiga acidente com asa-delta que deixou dois mortos no Rio",
 "p": "Equipamento de voo que chocou-se contra o solo passará por perícia",
@@ -142,6 +328,18 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/policia-investiga-acidente-com-asa-delta-que-deixou-dois-mortos-no-rio/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:16",
+"t": "Luciano Hang ajuda filha de funcionário da Havan com doença rara e morava há 21 anos no hospital a arrecadar R$ 300 mil e finalmente voltar para casa",
+"p": "Luciano Hang, dono da Havan, visitou a jovem na última segunda-feira (21), Thalia, diagnosticada com Atrofia Muscular Espinhal (AME) ainda bebê, que passou 21 anos vivendo no Hospital de Jaraguá. Filha de um colaborador da Havan, o empresário havia doado para a família R$ 50 mil em fevereiro de 2025 e ajudou a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/luciano-hang-ajuda-filha-de-funcionario-da-havan-com-doenca-rara-e-morava-ha-21-anos-no-hospital-a-arrecadar-r-300-mil-e-e-finalmente-voltar-para-casa/",
 "auto": true
 },
 {
