@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T01:59:59-03:00",
-"novos_nesta_coleta": 3,
+"atualizado": "2026-11-03T02:59:59-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -22,7 +22,6 @@
 "Costa Norte",
 "Portal Sorocaba.com",
 "Jornal Ita News",
-"Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
@@ -44,9 +43,37 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Portal Regional (Dracena)",
+"erro": "HTTP Error 429: Too Many Requests"
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "02:00",
+"t": "Voto distrital: SP não perde cadeiras, mas pode mudar perfil de eleitos",
+"p": "Texto da PEC que pode mudar sistema eleitoral ainda não foi apresentado; ideia é que haja uma transição já na próxima eleição geral em 2030",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/voto-distrital-sp-nao-perde-cadeiras-mas-pode-mudar-perfil-de-eleitos",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "02:00",
+"t": "Motivo de briga entre Boulos e Tarcísio, novo ICMS entra em vigor dia 1º/2",
+"p": "Estados aprovaram nova alíquota do ICMS sobre combustíveis no último dia 27 de outubro. Entenda as regras!",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/motivo-de-briga-entre-boulos-e-tarcisio-novo-icms-entra-em-vigor-dia-1o-2",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "01:14",
