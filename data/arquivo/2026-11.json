@@ -3,6 +3,32 @@
 "itens": [
 {
 "d": "2026-11-02",
+"h": "22:35",
+"t": "WSL: resultados AO VIVO e horários de Yago Dora x Gabriel Medina e programação completa do Finals Day da etapa das Filipinas",
+"p": "Siga os resultados ao vivo do Finals Day da etapa das Filipinas do circuito mundial da World Surf League (WSL).",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/esportes/wsl-resultados-ao-vivo-e-horarios-de-yago-dora-x-gabriel-medina-e-programacao-completa-do-finals-day-da-etapa-das-filipinas/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "22:15",
+"t": "Como foi o Dia de Finados nos cemitérios da capital paulista",
+"p": "Cemitérios de São Paulo receberam programação especial para receber maior fluxo de visitantes nesta segunda (2/11), Dia de Finados",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/como-foi-o-dia-de-finados-nos-cemiterios-da-capital-paulista",
+"auto": true
+},
+{
+"d": "2026-11-02",
 "h": "21:48",
 "t": "VÍDEO: chuva forte transforma ruas em rios e motorista precisa abandonar carro submerso no interior de SP",
 "p": "Chuva forte transforma rua em rio em José Bonifácio, interior de SP Uma forte tempestade atingiu cidades da região de São José do Rio Preto (SP) na tarde desta segunda-feira (2), o que transformou ruas em rios, além de causar pontos de alagamento, enxurradas e queda de árvores. Até a última atualização desta…",
@@ -14,6 +40,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/video-chuva-forte-transforma-ruas-em-rios-e-motorista-precisa-abandonar-carro-submerso-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-02",
+"h": "21:30",
+"t": "Defesa Civil interdita muro e imóveis após desabamento que matou mulher de 80 anos e deixou 10 feridos durante temporal na zona leste de SP",
+"p": "Desabamento de muro na zona leste de São Paulo",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/defesa-civil-interdita-muro-e-imoveis-apos-desabamento-que-matou-mulher-de-80-anos-e-deixou-10-feridos-durante-temporal-na-zona-leste-de-sp/",
 "auto": true
 },
 {
