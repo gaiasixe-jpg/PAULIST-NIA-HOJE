@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T15:59:40-03:00",
-"novos_nesta_coleta": 27,
+"atualizado": "2026-11-03T16:58:21-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,192 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "16:55",
+"t": "Fatecs prorrogam prazo de inscrições para o vestibular até 16 de novembro",
+"p": "Processo seletivo oferece mais de 13 mil vagas para o primeiro semestre de 2027",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/fatecs-prorrogam-prazo-de-inscricoes-para-o-vestibular-ate-16-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:45",
+"t": "Esposa de Rafael Zulu, Aline Becker aposta em biquíni verde para mostrar boa forma em selfie no espelho",
+"p": "Aline Becke não passou despercebida pelos seguidores nesta terça-feira (03). A educadora física e nutricionista, que dá dicas de saúde e forma física para seus mais de 730 mil seguidores, nas redes sociais, surgiu em um biquíni verde ao posar para selfie no espelho. Na imagem, a mulher do ator Rafael Zulu, exibe…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/esposa-de-rafael-zulu-aline-becker-aposta-em-biquini-verde-para-mostrar-boa-forma-em-selfie-no-espelho/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:45",
+"t": "Errar o desenho da sobrancelha pode mudar sua expressão; saiba qual estilo combina com o formato do seu rosto e evite falhas graves",
+"p": "A busca pelo equilíbrio estético facial tem levado milhares de pessoas a revisitar a forma como cuidam do visual diariamente. Encontrar o formato ideal de sobrancelha exige a análise das proporções de cada rosto, usando técnicas de visagismo para valorizar a expressão natural e evitar erros definitivos no arco. O…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/gazeta-mais/estilo-de-vida/errar-o-desenho-da-sobrancelha-pode-mudar-sua-expressao-saiba-qual-estilo-combina-com-o-formato-do-seu-rosto-e-evite-falhas-graves/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:38",
+"t": "Equipes de manutenção urbana atuam simultaneamente nas cinco regiões de Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Equipes atuam em ruas, avenidas e parques com roçagem, poda de árvores e ações preventivas contra alagamentos.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/quem-ama-cuida-manutencao-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:35",
+"t": "Cartórios eleitorais de SP retomam atendimentos nesta terça-feira (3/11)",
+"p": "Interessados devem agendar horário pelo site do TRE, para solicitação do primeiro título de eleitor ou regularização da situação eleitoral",
+"tema": "Eleições",
+"s": "obra",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cartorios-eleitorais-de-sp-retomam-atendimentos-nesta-terca-feira-3-11",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:35",
+"t": "Itapeva abre inscrições para curso gratuito de fabricação de pães nutritivos",
+"p": "Estão abertas as inscrições para o curso gratuito “Aprenda a Fabricar Pães Nutritivos”, oferecido pela Prefeitura de Itapeva, por meio da Secretaria de Desenvolvimento Econômico e do Fundo Social Municipal, em parceria com o Sebrae-SP e o Sebrae Aqui. A capacitação será realizada entre os dias 12 de novembro e 2 de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/curso-paes-2/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:30",
+"t": "Novos Honda City Sedan e Hatchback 2026 chegam com design renovado, motor 1.5L, sistema Magic Seat e pacotes avançados de segurança e tecnologia",
+"p": "A Honda atualizou as linhas do City Sedan e do City Hatchback, consolidando os modelos como referências em eficiência, tecnologia e aproveitamento de espaço interno em seus respectivos segmentos. Ambas as carrocerias compartilham uma plataforma moderna, mas atendem a perfis distintos de motoristas: enquanto o sedan…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/automotor/novos-honda-city-sedan-e-hatchback-2026-chegam-com-design-renovado-motor-1-5l-sistema-magic-seat-e-pacotes-avancados-de-seguranca-e-tecnologia/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:25",
+"t": "Saúde Municipal discute enfrentamento da Sífilis em ação alusiva à campanha Outubro Verde",
+"p": "A Secretaria Municipal da Saúde de Sorocaba (SES), promoveu, no dia 29 de outubro, uma capacitação voltada aos profissionais da saúde intitulada “Outubro Verde – Enfrentamento da Sífilis, diagnóstico precoce e foco também na Transmissão Horizontal”. O encontro foi realizado na UFSCar Santa Rosália e contou com a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/saude-municipal-discute-enfrentamento-da-sifilis-em-acao-alusiva-a-campanha-outubro-verde/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:22",
+"t": "Jundiaí se prepara para receber o Festival Baobá Afro Party 2026, com quatro dias de cultura e ancestralidade",
+"p": "Foto: Reprodução Evento acontece de 19 a 22 de novembro, no Espaço Expressa, com mais de 30 apresentações artísticas, afroempreendedorismo e uma programação dedicada à valorização da cultura afro-brasileira",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/festival-baoba-afro-party-2026-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:21",
+"t": "Smart Sampa: Prefeitura abre investigação sobre novo vazamento de dados",
+"p": "Em novo vazamento de dados relacionados ao Smart Sampa, mais de 17 mil câmeras de locais privados da cidades foram acessadas pelo UOL",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/smart-sampa-prefeitura-abre-investigacao-sobre-novo-vazamento-de-dados",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:10",
+"t": "Coco Bambu chega à Baixada Santista com unidade no Litoral Plaza",
+"p": "Restaurante abre em 23 de novembro, em Praia Grande, com investimento de R$ 9 milhões, capacidade para mais de 300 pessoas, espaço kids, música ao vivo e cardápio especializado em frutos do mar.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/coco-bambu-chega-a-baixada-santista-com-unidade-no-litoral-plaza/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:00",
+"t": "Hospital pediátrico de Santos avança com solução para manter obras durante chuvas",
+"p": "Isabela Carrari/Divulgação Prefeitura de Santos Uma bolha gigante de lona foi a solução de engenharia encontrada para driblar o período de chuvas na construção do primeiro hospital pediátrico público da região.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/hospital-pediatrico-de-santos-avanca-com-solucao-para-manter-obras-durante-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "16:00",
+"t": "Trinca-ferro é resgatado após ser encontrado em quintal de casa em SV",
+"p": "Divulgação/Prefeitura de São Vicente A GCM Ambiental resgatou uma ave da espécie trinca-ferro (Saltator similis) no último domingo (1º), em São Vicente,",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/trinca-ferro-e-resgatado-apos-ser-encontrado-em-quintal-de-casa-em-sv/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "15:58",
+"t": "Mercado Municipal de Santos promove 1ª Festa Nordestina neste fim de semana",
+"p": "Evento gratuito reúne música ao vivo, gastronomia típica e artesanato, no sábado (7) e domingo (8); programação cultural ocorre das 14h às 20h30",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/mercado-municipal-de-santos-promove-1-festa-nordestina-neste-fim-de-semana.html",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "15:54",
@@ -201,6 +387,20 @@
 },
 {
 "d": "2026-11-03",
+"h": "15:33",
+"t": "‘Homenagem justa’: 1º Hospital Pediátrico Público de Santos vai se chamar Prefeita Telma de Souza; veja detalhes da obra de R$ 85 milhões",
+"p": "A Zona Noroeste de Santos será palco de um marco histórico para a saúde municipal. Em vídeo publicado nas redes sociais, o prefeito Rogério Santos anunciou que o primeiro Hospital Pediátrico Público da cidade receberá o nome de Hospital Pediátrico Prefeita Telma de Souza. O equipamento, que está com as obras em…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/homenagem-justa-1o-hospital-pediatrico-publico-de-santos-vai-se-chamar-prefeita-telma-de-souza-veja-detalhes-da-obra-de-r-85-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "15:30",
 "t": "Lula passará por exames de rotina em hospital de SP",
 "p": "Lula passará por exames de rotina em São Paulo nesta terça-feira (3). O petista deve viajar no fim do dia, após conversas com ministros.",
@@ -281,6 +481,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/coleta-residuos-ponte-sao-joao-diurna/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "15:04",
+"t": "Lula viaja para SP nesta terça-feira (3) para realizar exames de rotina no Hospital Sírio-Libanês",
+"p": "Segundo a Secom, exames foram programados para depois das eleições e presidente seguirá agenda regular após retorno à capital federal",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366596/lula-viaja-para-sp-nesta-terca-feira-3-para-realizar-exames-de-rotina-no-hospital-sirio-libanes",
 "auto": true
 },
 {
@@ -2538,6 +2750,62 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67690",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Prefeitura de Prudente realiza trabalho de manutenção pós-chuva em avenidas da cidade",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67694",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Prefeitura publica editais do 2º Ciclo da Política Nacional Aldir Blanc nesta quarta",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67693",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Paratriathlon da APOP/Semepp conquista prata e bronze na World Triathlon Para Cup no Chile",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67692",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Dia D de recolhimento de fios soltos em postes ocorre na próxima segunda (09), no Calçadão",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67691",
 "auto": true
 },
 {
