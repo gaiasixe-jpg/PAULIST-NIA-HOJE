@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T02:59:59-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-03T04:17:18-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -12,8 +12,6 @@
 "Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
-"ACidade ON Ribeirão Preto",
-"ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
@@ -45,11 +43,31 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "ACidade ON Ribeirão Preto",
+"erro": "The read operation timed out"
+},
+{
+"fonte": "ACidade ON Campinas",
+"erro": "The read operation timed out"
+},
+{
 "fonte": "Portal Regional (Dracena)",
 "erro": "HTTP Error 429: Too Many Requests"
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "03:00",
+"t": "Entenda o mistério por trás das camisinhas sujas espalhadas pela Liberdade",
+"p": "Cartazes com fotos de homens e mulheres têm camisinhas coladas na boca das vítimas. Polícia Civil instaurou inquérito para investigar",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/entenda-o-misterio-por-tras-das-camisinhas-sujas-espalhadas-pela-liberdade",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "02:00",
