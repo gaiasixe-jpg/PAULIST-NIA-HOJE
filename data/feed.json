@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T14:02:41-03:00",
-"novos_nesta_coleta": 25,
+"atualizado": "2026-11-03T14:56:06-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 7 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,171 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "14:52",
+"t": "Aliado de Nunes, João Jorge confirma disputa pelo comando da Câmara de SP",
+"p": "Eleição para a presidência da Câmara está marcada para 15 de dezembro; João Jorge busca apoio de vereadores de diferentes bancadas",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/aliado-de-nunes-joao-jorge-confirma-disputa-pelo-comando-da-camara-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:45",
+"t": "Médico brasileiro entra na sociedade de clínica nos EUA e aposta em mercado que um empresário de Orlando compara ao Brasil dos anos 90",
+"p": "O médico brasileiro Marcelo Bechara anunciou uma nova etapa de sua atuação internacional com a entrada na sociedade da True U Anti-Aging Health & Wellness, clínica de saúde e bem-estar localizada em Orlando, nos Estados Unidos. A parceria foi apresentada durante um evento realizado na última quarta-feira (28/10),…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/saude/medico-brasileiro-entra-na-sociedade-de-clinica-nos-eua-e-aposta-em-mercado-que-um-empresario-de-orlando-compara-ao-brasil-dos-anos-90/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:43",
+"t": "‘Imposto do pecado’: governo define data para cobrar nova taxa e aciona Congresso",
+"p": "Medida provisória que regulamenta o Imposto do Pecado deve ser enviado ao Congresso Nacional nesta terça-feira; cronograma prevê transição com IPI até 2028",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/imposto-do-pecado-governo-define-data-para-cobrar-nova-taxa-e-aciona-congresso/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:32",
+"t": "Prefeitura de Fernandópolis busca atrair indústria de tecnologia para o município",
+"p": "A Prefeitura de Fernandópolis realizou uma visita institucional à sede da Eletra – Tecnologia em Tração Elétrica, em São Bernardo do Campo, para apresentar o município como uma alternativa competitiva para a expansão industrial da companhia. A iniciativa busca atrair empreendimentos de alta tecnologia e promover a…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo",
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-busca-atrair-industria-de-tecnologia-para-o-municipio/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:31",
+"t": "Fernandópolis apresenta potencial logístico em reunião com representantes da Shopee",
+"p": "A Prefeitura de Fernandópolis realizou uma reunião com representantes da Shopee e da Directpar com o objetivo de atrair novos investimentos para o setor logístico e fortalecer a economia local. Durante o encontro, a administração municipal apresentou a estrutura da cidade e suas vantagens estratégicas para sediar…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fernandopolis-apresenta-potencial-logistico-em-reuniao-com-representantes-da-shopee/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:15",
+"t": "Justiça suspende Operação Mafiusi e \"Concierge do PCC\" pode ser solto",
+"p": "Decisão cancelou audiências marcadas para este mês e determinou que revisão de réus presos seja feita individualmente",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-suspende-operacao-mafiusi-e-concierge-do-pcc-pode-ser-solto",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:15",
+"t": "Maior arranha-céu do mundo terá 1 km de altura e observatório no topo; projeto de R$ 6,5 bilhões ficou parado por sete anos",
+"p": "Em construção após sete anos de projeto parado na Arábia Saudita, a Jeddah Tower terá mil metros de altura e deve se tornar o maior arranha-céu do mundo, deixando o Burj Khalifa, de Dubai, para trás. A previsão é que as obras sejam totalmente concluídas em 2028. O ícone arquitetônico global com mais de um […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/maior-arranha-ceu-do-mundo-tera-1-km-de-altura-e-observatorio-no-topo-projeto-de-r-65-bilhoes-ficou-parado-por-sete-anos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:15",
+"t": "Aposentado é vítima de assalto debaixo de pontilhão em Rio Preto",
+"p": "Um aposentado de 49 anos teve o telefone celular roubado na tarde do último sábado (31), enquanto caminhava pelo Conjunto Habitacional Costa do Sol, em São José do Rio Preto. A ocorrência foi registrada na Polícia Civil no início desta semana, na segunda-feira (2). Segundo informações do boletim de ocorrência, a…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/aposentado-e-vitima-de-assalto-debaixo-de-pontilhao-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:13",
+"t": "Empresa de tecnologia tem sistema invadido e dispara mensagens indevidas por WhatsApp",
+"p": "Um empresário de 46 anos procurou a Polícia Civil de São José do Rio Preto para denunciar um ataque hacker contra o sistema de sua empresa de tecnologia, localizada no bairro Jardim São Marcos. A invasão ocorreu na madrugada da última segunda-feira (2), quando criminosos acessaram sem autorização a API de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/empresa-de-tecnologia-tem-sistema-invadido-e-dispara-mensagens-indevidas-por-whatsapp/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:12",
+"t": "Furto de fiação prejudica atendimento em unidade de saúde e termina com dois presos",
+"p": "Dois homens, de 36 e 42 anos, foram presos em flagrante na manhã da última segunda-feira (2) sob a suspeita de furtar fios de cobre do Complexo de Doenças Crônicas Transmissíveis, localizado na Vila Curti, em São José do Rio Preto. O crime causou danos à estrutura do prédio e comprometeu temporariamente o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/furto-de-fiacao-prejudica-atendimento-em-unidade-de-saude-e-termina-com-dois-presos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:11",
+"t": "BAEP prende em Rio Preto suspeito de tentativa de homicídio ocorrida em Mirassol",
+"p": "Policiais do Batalhão de Ações Especiais de Polícia (BAEP) prenderam, na última segunda-feira (2), um homem suspeito de envolvimento em uma tentativa de homicídio qualificado registrada no município de Mirassol. A prisão ocorreu no bairro José Menino, em São José do Rio Preto, após o trabalho de patrulhamento e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Mirassol"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/baep-prende-em-rio-preto-suspeito-de-tentativa-de-homicidio-ocorrida-em-mirassol/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "14:06",
+"t": "Ilhabela alerta para golpe com links falsos na cobrança da taxa ambiental",
+"p": "Mensagens fraudulentas por WhatsApp e SMS simulam página oficial da TPA; prefeitura reforça prazo de 30 dias após entrada",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-alerta-para-golpe-com-links-falsos-na-cobranca-da-taxa-ambiental.html",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "14:01",
@@ -80,6 +239,20 @@
 },
 {
 "d": "2026-11-03",
+"h": "13:58",
+"t": "Justiça Eleitoral reabre cadastro em todo o país e retoma atendimento ao eleitor",
+"p": "Foto: Fernando Frazão/Agência Brasil Após suspensão temporária para a realização do pleito de 2026, atendimento presencial e digital volta a disponibilizar alistamento, transferência e regularização de títulos",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/justica-eleitoral-reabre-cadastro-eleitoral-servicos-eleitor/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "13:55",
 "t": "Campinas lidera ranking de motoristas que não prestam socorro em acidentes",
 "p": "Levantamento obtido via Lei de Acesso à Informação aponta 61 registros de omissão de socorro em acidentes de trânsito na região entre janeiro e agosto de 2026",
@@ -94,6 +267,20 @@
 },
 {
 "d": "2026-11-03",
+"h": "13:54",
+"t": "Santos conquista selo máximo da Caixa e entra para grupo seleto de cidades brasileiras com mais de 80 mil habitantes",
+"p": "A Prefeitura de Santos recebeu, nesta terça-feira (27), no Paço Municipal, o Selo Diamante da CAIXA Gestão Sustentável, a mais alta categoria de reconhecimento do programa da Caixa Econômica Federal. A certificação foi entregue ao prefeito Rogério Santos por Cristiano Medeiros, diretor de Governo da instituição. A…",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/santos-conquista-selo-maximo-da-caixa-e-entra-para-grupo-seleto-de-cidades-brasileiras-com-mais-de-80-mil-habitantes/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "13:45",
 "t": "Mega da Virada 2026 abre apostas com prêmio de mais de R$ 1 bilhão; veja como jogar",
 "p": "Foto: Tribuna de Jundiaí Concurso especial recebe apostas até 31 de dezembro, com jogos a partir de R$ 6 e sorteio marcado para o primeiro dia de 2027.",
@@ -104,6 +291,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/loterias/mega-da-virada-2026-apostas-premio-bilionario/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "13:45",
+"t": "Focadas na saúde, cafeteiras sem plástico feitas com aço inox que unem tecnologia e sustentabilidade viram febre e esgota estoques no mundo inteiro",
+"p": "A busca pela xícara de café ideal ganhou um novo critério que vai muito além de botões digitais e funções automáticas. Agora, o verdadeiro atrativo dos aparelhos mais sofisticados está na ausência de componentes plásticos no preparo da bebida. Essa mudança decorre do receio crescente em torno dos microplásticos e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/cafeteiras-sem-plastico-feitas-com-aco-inox-que-unem-tecnologia-e-sustentabilidade/",
 "auto": true
 },
 {
@@ -210,6 +409,18 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/cade-os-10-onibus-do-brt-de-campinas-que-nao-rodaram-hoje-veja-o-que-dizem-emdec-e-setcamp/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "13:29",
+"t": "El Niño desloca a chuva para o Paraná e São Paulo e novembro terá calor de até 6 °C acima da média; Pacífico aquece a +5 ºC, nível considerado extremo",
+"p": "El Niño bate +3,4 °C por duas semanas seguidas e o Pacífico passa de +5 °C. A chuva acima da média atinge São Paulo até 9 de novembro e depois migra para o Nordeste e o Sul. Calor pode passar de 6 °C acima da média.",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/el-nino-desloca-a-chuva-para-o-parana-e-sao-paulo-e-novembro-tera-calor-de-ate-6-c-acima-da-media-pacifico-aquece-a-5-oc-nivel-considerado-extremo/",
 "auto": true
 },
 {
