@@ -3,6 +3,128 @@
 "itens": [
 {
 "d": "2026-11-03",
+"h": "07:45",
+"t": "Rope jump: Meta deverá explicar exclusão de postagens após morte de jovem",
+"p": "Ofício enviado pela Justiça à empresa dona do Facebook pede esclarecimentos sobre o perfil da empresa responsável por salto de rope jump",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/rope-jump-meta-devera-explicar-exclusao-de-postagens-apos-morte-de-jovem",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:41",
+"t": "STF realiza audiência para discutir as bets no Brasil nesta terça-feira",
+"p": "Foto: Antonio Augusto/STF A reunião contará com representantes de clubes, entidades esportivas, governo federal e empresas do setor",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/stf-realiza-audiencia-para-discutir-as-bets-no-brasil-nesta-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:39",
+"t": "Prefeitura de SP marca audiências públicas para Plano Municipal de Cultura",
+"p": "Primeiro encontro está marcado para próxima segunda (9/11); plano deve definir metas da política cultural de SP para os próximos 10 anos",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-de-sp-marca-audiencias-publicas-para-plano-municipal-de-cultura",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:36",
+"t": "Prefeitura de Mira Estrela reforça alerta para o início da Piracema e restrições à pesca na região",
+"p": "O município de Mira Estrela, por meio da Secretaria Municipal de Cultura e Turismo, iniciou a divulgação de alertas sobre o começo do período da Piracema, que teve início no dia 1º de novembro de 2026 e se estenderá até 28 de fevereiro de 2027. Durante esses quatro meses, a pesca sofre restrições severas nos […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-mira-estrela-reforca-alerta-para-o-inicio-da-piracema-e-restricoes-a-pesca-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:36",
+"t": "Fernandópolis mobiliza comunidade com bazar beneficente e noite festiva na primeira semana de novembro",
+"p": "A primeira semana de novembro contará com duas grandes iniciativas solidárias em Fernandópolis destinadas à arrecadação de recursos para entidades de saúde e assistência social da cidade. Entre os dias 5 e 8 de novembro, moradores do município e da região poderão colaborar com o trabalho dos Voluntários da Santa…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/fernandopolis-mobiliza-comunidade-com-bazar-beneficente-e-noite-festiva-na-primeira-semana-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:36",
+"t": "Renato Colombano deverá disputar a presidência da ACIF e defende renovação com foco no desenvolvimento econômico",
+"p": "O empresário Renato Colombano deverá disputar a presidência da Associação Comercial e Industrial de Fernandópolis (ACIF). Segundo ele, a possibilidade surgiu após ser procurado por empresários que incentivaram sua participação na eleição deste ano. Colombano defende a renovação na condução da entidade e afirma que…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/renato-colombano-devera-disputar-a-presidencia-da-acif-e-defende-renovacao-com-foco-no-desenvolvimento-economico/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:25",
+"t": "Polícia investiga acidente com asa-delta que deixou dois mortos no Rio",
+"p": "Equipamento de voo que chocou-se contra o solo passará por perícia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-investiga-acidente-com-asa-delta-que-deixou-dois-mortos-no-rio/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:10",
+"t": "Renato Colombano deverá disputar a presidência da ACIF e defende renovação com foco no desenvolvimento econômico",
+"p": "O empresário Renato Colombano deverá disputar a presidência da Associação Comercial e Industrial de Fernandópolis (ACIF). Segundo ele, a possibilidade surgiu após ser procurado por empresários que incentivaram sua participação na eleição deste ano. Colombano defende a renovação na condução da entidade e afirma que…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/renato-colombano-devera-disputar-a-presidencia-da-acif-e-defende-renovacao-com-foco-no-desenvolvimento-economico/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "07:03",
+"t": "Roubos caem 32,7% no litoral sul paulista em setembro",
+"p": "O litoral sul de São Paulo registrou queda de 32,7% nos roubos em setembro, na comparação com o mesmo mês de 2025. Os furtos em geral diminuíram 57,2%, alcançando o segundo menor índice da série histórica para o mês, atrás apenas de 2008. Os dados são do Governo de São Paulo. Os roubos de veículos […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/roubos-caem-327-no-litoral-sul-paulista-em-setembro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "06:02",
 "t": "Fernandópolis mobiliza comunidade com bazar beneficente e noite festiva na primeira semana de novembro",
 "p": "A primeira semana de novembro contará com duas grandes iniciativas solidárias em Fernandópolis destinadas à arrecadação de recursos para entidades de saúde e assistência social da cidade. Entre os dias 5 e 8 de novembro, moradores do município e da região poderão colaborar com o trabalho dos Voluntários da Santa…",
