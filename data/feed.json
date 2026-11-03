@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T11:22:19-03:00",
-"novos_nesta_coleta": 22,
+"atualizado": "2026-11-03T12:58:24-03:00",
+"novos_nesta_coleta": 29,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,368 @@
 "itens": [
 {
 "d": "2026-11-03",
+"h": "12:48",
+"t": "Comissão especial arquiva pedido de impeachment contra Ricardo Nunes",
+"p": "Pedido de impeachment foi apresentado após relatos de problemas na circulação de ônibus em SP no dia do 2º turno das eleições presidenciais",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/comissao-especial-arquiva-pedido-de-impeachment-contra-ricardo-nunes",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:48",
+"t": "Qualifica SP Empreenda abre 500 vagas para cursos gratuitos de capacitação online",
+"p": "A Secretaria de Desenvolvimento Econômico do Estado de São Paulo abriu inscrições para 500 vagas gratuitas em seis novos cursos de qualificação voltados ao empreendedorismo, promovidos pelo programa Qualifica SP Empreenda. As capacitações abordam temas essenciais para o mercado atual, como gestão de custos, vendas…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/qualifica-sp-empreenda-abre-500-vagas-para-cursos-gratuitos-de-capacitacao-online/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:47",
+"t": "AMEs da região oferecem check-up gratuito para homens acima dos 50 anos",
+"p": "A Secretaria de Estado da Saúde de São Paulo mantém o programa “Filho que Ama Leva o Pai no AME”, iniciativa permanente que oferece exames e consultas preventivas gratuitas para homens a partir dos 50 anos. Realizado aos sábados em Ambulatórios Médicos de Especialidades de todo o estado — incluindo as unidades de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ames-da-regiao-oferecem-check-up-gratuito-para-homens-acima-dos-50-anos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:45",
+"t": "Falta de água atinge bairros hoje; veja regiões afetadas e quando volta",
+"p": "Falta de água atinge cinco bairros de Campinas nesta terça-feira (3). Veja as regiões afetadas e os horários previstos para a normalização do abastecimento",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-agua-atinge-bairros-hoje-veja-regioes-afetadas-e-quando-volta/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:37",
+"t": "Patrão suspeito de espancar ex-funcionário que foi cobrar salário é preso",
+"p": "Suspeito é dono de lanchonete em Sorocaba e estava foragido desde 23 de outubro após agredir a pauladas ex-funcionário motoboy",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/patrao-suspeito-de-espancar-ex-funcionario-que-foi-cobrar-salario-e-preso",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:35",
+"t": "Novas regras do SAC podem gerar até 100 mil empregos no Brasil",
+"p": "Foto: Tribuna de Jundiaí Atendimento humano ampliado deve impulsionar contratações em bancos, telecomunicações, energia e planos de saúde",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/novas-regras-sac-empregos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:27",
+"t": "Novembro Azul: Saúde de SP oferece check-up gratuito para homens",
+"p": "Programa \"Filho que Ama Leva o Pai no AME\" realiza exames aos sábados, sem necessidade de encaminhamento médico",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/vida/novembro-azul-saude-de-sp-oferece-check-up-gratuito-para-homens/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:22",
+"t": "Concessão do antigo Daem tem novo capítulo na Justiça de São Paulo",
+"p": "Parecer apresentado ao TJ-SP analisa a mudança de posição da administração após acordo que permitiu manter a concessão.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/concessao-do-antigo-daem-tem-novo-capitulo-na-justica-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:17",
+"t": "Pinacoteca Benedicto Calixto promove ciclo gratuito de palestras em novembro",
+"p": "A programação acontece de 6 a 28 de novembro, com oito encontros gratuitos sobre cultura, sustentabilidade, inovação e desenvolvimento regional, na Pinacoteca Benedicto Calixto, em Santos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/pinacoteca-benedicto-calixto-promove-ciclo-gratuito-de-palestras-em-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:15",
+"t": "Havan começa construção de megaloja de R$ 110 milhões com dois pisos e praça de alimentação; projeto dobrou de 10 mil para 20 mil m²",
+"p": "A Havan, gigante rede do varejo brasileiro, começou a construção de uma nova megaloja às margens da BR-101 em Tijucas, no Litoral de Santa Catarina. O investimento total é de R$ 110 milhões e projeto conta com 20 mil metros quadrados de área construída. O empresário Luciano Hang visitou o terreno da unidade em 26 […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/havan-comeca-construcao-de-megaloja-de-r-110-milhoes-com-dois-pisos-e-praca-de-alimentacao-projeto-dobrou-de-10-mil-para-20-mil-m%c2%b2/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:15",
+"t": "Construção de nova escola avança na Zona Noroeste de Santos",
+"p": "As obras da nova UME Hilda Rabaça, na Vila Haddad, Zona Noroeste de Santos, avançaram para novas etapas. Com a superestrutura e a alvenaria concluídas, os serviços incluem o reboco das paredes e a instalação dos contramarcos das esquadrias, após a recuperação das estruturas. A previsão de entrega é julho de 2027.",
+"tema": "Educação",
+"s": "entregue",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/construcao-de-nova-escola-avanca-na-zona-noroeste-de-santos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:06",
+"t": "Roubos caem 32,7% no litoral sul de SP em setembro, aponta governo",
+"p": "Roubos de veículos recuaram 11,9% em setembro; entre janeiro e setembro, roubos em geral caíram 29,2% e furtos tiveram redução de 15,7%",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/roubos-caem-327-no-litoral-sul-de-sp-em-setembro-aponta-governo.html",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:05",
+"t": "Escolas públicas podem se inscrever para receber Cuboteca em 2027; veja como participar",
+"p": "Instituto EP vai selecionar uma unidade de ensino para receber um Cuboteca; inscrições podem ser feitas até 30 de novembro",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/escolas-publicas-podem-se-inscrever-para-receber-cuboteca-em-2027-veja-como-participar/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:04",
+"t": "Jovem é pronunciado e irá a juri popular por tentar matar o pai em Marília",
+"p": "Laudo comprovou que menor não matou o pai adotivo em Marília e Justiça determinou desinternação Crime aconteceu em janeiro deste ano; vítima foi atingida por diversos disparos na garagem de casa na zona oeste da cidade.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/jovem-e-pronunciado-e-ira-a-juri-popular-por-tentar-matar-o-pai-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:02",
+"t": "Chuva à vista: veja como proteger a escova da umidade e prolongar a finalização",
+"p": "Manter o cabelo alinhado depois da escova pode ser um desafio quando a umidade do ar aumenta. Em dias de chuva ou calor intenso, os fios podem perder a forma e ganhar volume, comprometendo o resultado da produção. Para preservar o penteado por mais tempo, a escolha dos finalizadores e alguns cuidados durante a…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/chuva-a-vista-veja-como-proteger-a-escova-da-umidade-e-prolongar-a-finalizacao/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "12:02",
+"t": "11 livros para incluir na lista de leituras em novembro",
+"p": "Novembro chega para estimular a vontade de cumprir metas de leitura e de conhecer histórias que não podem ficar para depois. Nesta seleção, as obras passeiam por gêneros e temas que são capazes de cativar os mais diferentes grupos de leitores. Entre as lições universais de Khalil Gibran e as curiosidades por trás…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/11-livros-para-incluir-na-lista-de-leituras-em-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:52",
+"t": "Bertioga garante transporte gratuito para candidatos nos dias do Enem 2026",
+"p": "Tarifa zero vale para os dias 8 e 15 de novembro. Aluno precisa apresentar o cartão de inscrição e um documento com foto no momento do embarque",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-garante-transporte-gratuito-para-candidatos-nos-dias-do-enem-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:49",
+"t": "Cadastro eleitoral reabre nesta terça-feira (3) e cartórios retomam serviços de título; veja como agendar",
+"p": "Serviços de emissão de título, transferência de domicílio, coleta de biometria e regularização da situação eleitoral estão disponíveis",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/cadastro-eleitoral-reabre-nesta-terca-feira-3-e-cartorios-retomam-servicos-de-titulo-veja-como-agendar/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:44",
+"t": "Arranha-céu de US$ 1,2 bilhão promete atingir 1 km de altura, superar o Burj Khalifa e se tornar o prédio mais alto do mundo",
+"p": "A Jeddah Tower, na Arábia Saudita, tem uma meta ambiciosa para a engenharia mundial: alcançar um quilômetro de altura e se tornar o edifício mais alto do planeta. Com investimento estimado em US$ 1,2 bilhão (cerca de R$ 6,5 bilhões), o arranha-céu será construído na cidade de Jeddah. O edifício terá uso misto e…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/arranha-ceu-de-us-12-bilhao-promete-atingir-1-km-de-altura-superar-o-burj-khalifa-e-se-tornar-o-predio-mais-alto-do-mundo/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:42",
+"t": "Prefeitura de Fernandópolis lança nova etapa de recapeamento asfáltico para recuperar ruas da cidade",
+"p": "A Prefeitura de Fernandópolis iniciou as ações preparatórias para uma nova operação de recapeamento asfáltico que vai atender o perímetro urbano do município. A iniciativa dá continuidade aos trabalhos de melhoria da infraestrutura viária realizados na cidade e foi oficializada pelo prefeito João Paulo Cantarella.…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-lanca-nova-etapa-de-recapeamento-asfaltico-para-recuperar-ruas-da-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:41",
+"t": "Simpósio gratuito em Fernandópolis orienta artistas e agentes culturais sobre editais e direitos",
+"p": "Artistas, produtores e agentes culturais de Fernandópolis contam com uma oportunidade para aprimorar seus conhecimentos sobre captação de recursos e legislação do setor. Nos dias 18 e 19 de novembro, a Câmara Municipal sedia o simpósio “Cúpula Jurídica: Arte Além dos Palcos”, promovido pela Universidade Brasil. Com…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/simposio-gratuito-em-fernandopolis-orienta-artistas-e-agentes-culturais-sobre-editais-e-direitos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:39",
+"t": "Mulher encontra 35 obras de famoso pintor do século XVII em casa e acervo escondido há 100 anos pode chegar a mais de R$ 101 milhões",
+"p": "A holandesa Charlotte Meyer encontrou um conjunto histórico de obras de arte ao organizar pertences de família durante a pandemia de Covid-19 em 2020. Enquanto examinava um cofre antigo, ela abriu uma pasta esquecida que guardava 35 pequenas gravuras. As obras foram adquiridas por seu avô entre 1900 e 1920 por…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/mulher-encontra-35-obras-de-famoso-pintor-do-seculo-xvii-em-casa-e-acervo-escondido-ha-100-anos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:37",
+"t": "Dupla é presa após furtar fios de unidade de saúde em Rio Preto",
+"p": "Atendimento do Complexo de Doenças Crônicas Transmissíveis, na Vila Curti, não foi comprometido",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/dupla-e-presa-apos-furtar-fios-de-unidade-de-saude-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:31",
+"t": "Idoso fica gravemente ferido após colidir moto elétrica com ônibus em São Bernardo",
+"p": "O acidente ocorreu no momento em que o coletivo acessava o terminal Ferrazópolis",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366525/idoso-fica-gravemente-ferido-apos-colidir-moto-eletrica-com-onibus-em-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:30",
+"t": "Polícia faz operação contra esquema de agiotagem com juros abusivos em SP",
+"p": "Segundo a investigação, o grupo criminoso colocava juros abusivos em empréstimos e cobrava as dívidas com ameaças aos devedores",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-faz-operacao-contra-esquema-de-agiotagem-com-juros-abusivos-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:27",
+"t": "App do Banco do Brasil fica fora do ar, deixa clientes sem conseguir fazer Pix e ultrapassa 6 mil reclamações nesta terça-feira (3); veja o que fazer",
+"p": "O aplicativo do Banco do Brasil apresentou instabilidade na manhã desta terça-feira (3), deixando clientes com dificuldades para acessar serviços bancários e realizar transferências via Pix. O problema provocou uma onda de reclamações nas redes sociais e ultrapassou a marca de 6 mil notificações no Downdetector,…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/app-do-banco-do-brasil-fica-fora-do-ar-deixa-clientes-sem-conseguir-fazer-pix-e-ultrapassa-6-mil-reclamacoes-nesta-terca-feira-3-veja-o-que-fazer/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:23",
+"t": "El Niño pode afetar a saúde da população em Jundiaí; veja como a cidade se prepara",
+"p": "Foto: Prefeitura de Jundiaí Ações preventivas buscam reduzir riscos de dengue, desidratação e doenças associadas a enchentes",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/el-nino-jundiai-plano-saude/",
+"auto": true
+},
+{
+"d": "2026-11-03",
 "h": "11:19",
 "t": "Ilhabela abre processo seletivo para formadores esportivos em 14 modalidades",
 "p": "Prefeitura oferece 14 vagas iniciais, além de cadastro reserva, com salário de R$2.850, auxílio-alimentação e jornada de 30 horas semanais",
@@ -59,6 +421,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-abre-processo-seletivo-para-formadores-esportivos-em-14-modalidades.html",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "11:14",
+"t": "Vereador alvo de CP é conhecido por polêmica com servidora no antigo PA sul",
+"p": "Em 2021, Júnior Féfin foi acusado por funcionárias de intimidar e empurrar gerente de unidade de saúde; episódio teve repercussão política e desdobramentos na Justiça.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vereador-alvo-de-cp-e-conhecido-por-polemica-com-servidora-no-antigo-pa-sul/",
 "auto": true
 },
 {
@@ -101,6 +477,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/mais/esportes/santos-leva-reclamacao-a-cbf-garante-mattos/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "10:59",
+"t": "Polícia pede prisão preventiva de motorista que agrediu idoso com voadora em SP",
+"p": "O caso foi registrado como tentativa de homicídio por motivo fútil pelo 5º Distrito Policial de Osasco",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Osasco"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366517/policia-pede-prisao-preventiva-de-motorista-que-agrediu-idoso-com-voadora-em-sp",
 "auto": true
 },
 {
