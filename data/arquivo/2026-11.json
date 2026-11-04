@@ -3,6 +3,89 @@
 "itens": [
 {
 "d": "2026-11-04",
+"h": "05:00",
+"t": "Sesi Marília traz shows, teatro, dança e oficinas gratuitas em novembro",
+"p": "SESI Marília anuncia programação de novembro com atrações gratuitas para famílias Agenda conta com apresentações musicais, espetáculos teatrais, dança e oficinas com reserva antecipada de ingressos.",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/sesi-marilia-traz-shows-teatro-danca-e-oficinas-gratuitas-em-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "05:00",
+"t": "Justiça rejeita pedidos da defesa e mantém júri de ‘Ceará Tapeceiro’ nesta quarta-feira",
+"p": "Acusado de matar a companheira a facadas em Marília já teve julgamento adiado quatro vezes; defesa tentou suspender novamente a sessão.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/justica-rejeita-pedidos-da-defesa-e-mantem-juri-de-ceara-tapeceiro-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "05:00",
+"t": "Polícia desmonta célula que abastecia presídio com drogas em Mongaguá; VÍDEO",
+"p": "Divulgação/Polícia Civil Durante a operação contra o tráfico de drogas em Mongaguá, três mulheres foram presas por policiais civis da Dise de Itanhaém.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itanhaém",
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/policia-desmonta-celula-que-abastecia-presidio-com-drogas-em-mongagua-video/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "05:00",
+"t": "Hospital pediátrico de Santos levará o nome da ex-prefeita Telma de Souza",
+"p": "Reprodução O novo hospital pediátrico de Santos, que vai homenagear a ex-prefeita Telma de Souza, está sendo construído na Zona Noroeste.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/hospital-pediatrico-de-santos-levara-o-nome-da-ex-prefeita-telma-de-souza/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "05:00",
+"t": "Avenida da Zona Noroeste de Santos terá bloqueios por três dias para obras",
+"p": "Reprodução/Google Street View Interdições na Avenida Jovino de Melo começam nesta quarta-feira (4) e seguem até sexta (6).",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/avenida-da-zona-noroeste-de-santos-tera-bloqueios-por-tres-dias-para-obras/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "04:37",
+"t": "‘Por Você’: Leandra autoriza visita de Bela a Gabriel e Zé procura Vanessa no capítulo de quinta (05)",
+"p": "Nesta quinta-feira (5), em Por Você, a tensão toma conta do hospital após o atropelamento de Gabriel. Leandra passa por cima das ordens de Vanessa e autoriza a entrada de Bela no quarto, permitindo que a obstetra fique ao lado do ex-noivo, que segue em coma profundo. Abalada com o estado crítico do pai, a […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-leandra-autoriza-visita-de-bela-a-gabriel-e-ze-procura-vanessa-no-capitulo-de-quinta-05/",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "01:51",
 "t": "Câmara de São Paulo arquiva pedido de impeachment contra o prefeito Ricardo Nunes",
 "p": "A Comissão Especial da Câmara Municipal de São Paulo aprovou o arquivamento do pedido de impeachment contra o prefeito Ricardo Nunes. O processo apurava supostas irregularidades no dimensionamento da frota de transporte público municipal durante a realização do segundo turno das eleições. Por cinco votos a dois, os…",
