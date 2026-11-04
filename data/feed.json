@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T22:11:29-03:00",
-"novos_nesta_coleta": 18,
+"atualizado": "2026-11-03T23:06:32-03:00",
+"novos_nesta_coleta": 4,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,60 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "22:28",
+"t": "Polícia Militar captura procurado pela Justiça em Votuporanga",
+"p": "Homem com mandado de prisão expedido pela 1ª Vara Criminal foi localizado durante patrulhamento na região central e encaminhado à Central de Flagrantes. Um homem procurado pela Justiça foi capturado pela Polícia Militar na noite desta terça-feira (3.nov), na região central de Votuporanga/SP. Segundo a corporação,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/policia-militar-captura-procurado-pela-justica-em-votuporanga-25/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "22:26",
+"t": "Motorista embriagado bate carro, deixa esposa ferida e foge sem prestar socorro em Rio Preto",
+"p": "Mulher de 32 anos foi socorrida após colisão na Rodovia Washington Luís (SP-310); marido, que teria ingerido bebida alcoólica antes de dirigir, é investigado pela Polícia Civil. Uma mulher de 32 anos ficou ferida após o carro em que estava se envolver em um acidente na noite deste domingo (1º.nov), na Rodovia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/motorista-embriagado-bate-carro-deixa-esposa-ferida-e-foge-sem-prestar-socorro-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "22:12",
+"t": "Previsão do tempo indica sol, calor e pancadas de chuva isoladas em todo o Estado nesta quarta-feira",
+"p": "O estado de São Paulo terá mais um dia marcado pela predominância de sol e temperaturas elevadas nesta quarta-feira (4). Contudo, a combinação entre o calor intenso, a umidade e a atuação de um cavado meteorológico favorecerá o surgimento de áreas de instabilidade, provocando pancadas de chuva isoladas acompanhadas…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/previsao-do-tempo-indica-sol-calor-e-pancadas-de-chuva-isoladas-em-todo-o-estado-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "22:08",
+"t": "Câmara de São Paulo arquiva pedido de impeachment contra o prefeito Ricardo Nunes",
+"p": "A Comissão Especial da Câmara Municipal de São Paulo aprovou o arquivamento do pedido de impeachment contra o prefeito Ricardo Nunes. O processo apurava supostas irregularidades no dimensionamento da frota de transporte público municipal durante a realização do segundo turno das eleições. Por cinco votos a dois, os…",
+"tema": "Eleições",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/camara-de-sao-paulo-arquiva-pedido-de-impeachment-contra-o-prefeito-ricardo-nunes/",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "21:55",
