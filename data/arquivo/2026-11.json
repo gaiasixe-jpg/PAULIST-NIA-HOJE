@@ -3,6 +3,303 @@
 "itens": [
 {
 "d": "2026-11-04",
+"h": "16:02",
+"t": "Projeto Verão: 6 dicas para conquistar o cabelo dos sonhos",
+"p": "Com o verão se aproximando, o sol, o suor, a piscina e as altas temperaturas pedem mais atenção aos cabelos. A exposição frequente ao calor, ao cloro e à água do mar pode deixar os fios ressecados, com frizz, mais frágeis e sem brilho. Para ajudar a manter os cabelos bonitos e saudáveis durante a […]",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/projeto-verao-6-dicas-para-conquistar-o-cabelo-dos-sonhos/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "16:02",
+"t": "Correr na rua, na esteira ou caminhar: qual é a melhor opção para a saúde?",
+"p": "A prática de atividades físicas aeróbicas, como caminhada e corrida, é amplamente recomendada para a manutenção da saúde cardiovascular, melhora do condicionamento físico e bem-estar geral. No entanto, uma dúvida comum entre iniciantes e praticantes é se há diferenças relevantes entre correr na rua, na esteira ou…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/correr-na-rua-na-esteira-ou-caminhar-qual-e-a-melhor-opcao-para-a-saude/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "16:00",
+"t": "Defesa Civil alerta para tempestades entre quinta e sábado",
+"p": "Divulgação/Defesa Civil SP A Defesa Civil do Estado de São Paulo emitiu um alerta para a ocorrência de temporais em diferentes regiões paulistas.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/defesa-civil-alerta-para-tempestades-entre-quinta-e-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:59",
+"t": "Secretaria da Mulher realiza o encontro “Dia C da Convivência” reunindo pais de estudantes em ação informativa e de prevenção ao feminicídio",
+"p": "Foto: Divulgação/Semul A Prefeitura de Sorocaba, por meio da Secretaria da Mulher (Semul), realizou, no último dia 23 de outubro, um encontro com cerca de 150 pais de alunos da E.E. “Prof. Dionysio Vieira” sobre o tema “Dia C da Convivência”, com o objetivo de esclarecer a respeito e prevenir a violência contra a…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-realiza-o-encontro-dia-c-da-convivencia-reunindo-pais-de-estudantes-em-acao-informativa-e-de-prevencao-ao-feminicidio/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:55",
+"t": "Confira os jogos do Cruzeirinho 2026 deste fim de semana",
+"p": "O 46º Torneio Aberto de Futsal para Crianças e Adolescentes – Cruzeirinho 2026 entra em sua oitava semana de disputa neste sábado (7) e domingo (8). A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), promove 15 jogos, nos períodos da manhã e da tarde, e em diferentes […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/confira-os-jogos-do-cruzeirinho-2026-deste-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:53",
+"t": "Defesa Civil alerta para temporais com ventos de até 80 km/h a partir desta quinta-feira",
+"p": "A Defesa Civil do Estado de São Paulo emitia um alerta para a formação de instabilidades meteorológicas que devem provocar pancadas de chuva de moderada a forte intensidade e temporais em diversas regiões paulistas entre esta quinta-feira (5) e sábado (7). O panorama prevê descargas elétricas frequentes,…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-alerta-para-temporais-com-ventos-de-ate-80-km-h-a-partir-desta-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:52",
+"t": "Vira-lata caramelo que vivia na rua é adotado, vira protetor de tartarugas recém-nascidas e ajuda mais de 100 filhotes a chegar ao mar no México",
+"p": "Um vira-lata caramelo encontrou um propósito especial depois de ganhar uma nova família no México. Conhecido como Solovino, o cachorro ficou famoso por acompanhar tartarugas-marinhas na Praia de Miramar, em Tamaulipas, e ajudar os filhotes a chegarem ao oceano em segurança. A história começou quando uma mulher que…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/vira-lata-caramelo-que-vivia-na-rua-e-adotado-vira-protetor-de-tartarugas-recem-nascidas-e-ajuda-mais-de-100-filhotes-a-chegar-ao-mar-no-mexico/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:49",
+"t": "Blue Talks debate saúde do homem em Santos no Novembro Azul",
+"p": "Encontro promovido pelo Atz Day Hospital reúne especialistas para discutir câncer de próstata, saúde emocional e prevenção.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/vida/blue-talks-debate-saude-do-homem-em-santos-no-novembro-azul/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:47",
+"t": "Jundiaí promove capacitação gratuita para reforçar segurança e qualidade nos serviços de estética",
+"p": "Foto: Prefeitura de Jundiaí Treinamento será realizado em 24 de novembro e terá especialistas da Anvisa e de conselhos profissionais para orientar sobre segurança.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/capacitacao-gratuita-estetica-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:44",
+"t": "Roubos de veículos caem 50% em Ribeirão Pires, aponta SSP",
+"p": "Dados da Secretaria da Segurança Pública mostram que os furtos recuaram 10,98% nos nove primeiros meses de 2026, enquanto os roubos tiveram redução de 2,34%",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366838/roubos-de-veiculos-caem-50-em-ribeirao-pires-aponta-ssp",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:36",
+"t": "Bebê é abandonado dentro de mochila e acolhido por moradora em SP",
+"p": "Após resgatar o recém-nascido, a mulher acionou a Polícia Militar (PM). O neném ficou sob cuidados médicos",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bebe-e-abandonado-dentro-de-mochila-e-acolhido-por-moradora-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:33",
+"t": "Rodovia Padre Manoel da Nóbrega tem interdição parcial nesta quarta (4)",
+"p": "Bloqueio por obras ocorre no sentido Miracatu, entre os quilômetros 360 e 361; rodovia no sentido Praia Grande apresenta tráfego normal",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Miracatu"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-interdicao-parcial-nesta-quarta-4.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:31",
+"t": "Secretaria da Mulher abre inscrições às interessadas em participar do 1º Fórum Impulsiona Mulher",
+"p": "Ação, que acontece na próxima quarta-feira (11), reunirá uma série de atrativos, tais como palestras, oficinas, networking e a segunda edição da Feira da Empreendedora A Prefeitura de Sorocaba, por meio da Secretaria da Mulher (Semul), está com inscrições abertas para as interessadas em participar do 1º Fórum…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-abre-inscricoes-as-interessadas-em-participar-do-1o-forum-impulsiona-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:30",
+"t": "Coca-Cola inaugura árvore de Natal de 55 metros no Villa-Lobos com show gratuito do Fat Family e pista de patinação em São Paulo",
+"p": "A tradicional Árvore de Natal da Coca-Cola FEMSA Brasil será inaugurada no Parque Villa-Lobos, em São Paulo, no próximo sábado (14/11), com um show gratuito do grupo Fat Family. A atração marca a 10ª edição do projeto e abre a programação natalina, que terá pista de patinação e experiências imersivas para o…",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/coca-cola-inaugura-arvore-de-natal-de-55-metros-no-villa-lobos-com-show-gratuito-do-fat-family-e-pista-de-patinacao-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:19",
+"t": "MPSP avalia caso de racismo em loja com manequins negros servindo brancos",
+"p": "Especialistas apontam que a posição dos manequins representa uma hierarquia racial: \"Brancos no lugar da celebração, negros no de serviço\"",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-avalia-caso-de-racismo-em-loja-com-manequins-negros-servindo-brancos",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:14",
+"t": "Polícia Civil deflagra operação contra quadrilha que usava bloqueador para furtar carros em rodovias",
+"p": "A Polícia Civil deflagrou nesta quarta-feira (4) a Operação Chapolin, voltada ao desmantelamento de uma associação criminosa especializada em furtar pertences no interior de veículos estacionados em postos de combustíveis às margens das rodovias paulistas. A ação resultou no cumprimento de quatro mandados de busca…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-deflagra-operacao-contra-quadrilha-que-usava-bloqueador-para-furtar-carros-em-rodovias/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:13",
+"t": "Mulher condenada por estupro de vulnerável no Ceará é presa pela Polícia Civil em SP",
+"p": "Uma mulher de 25 anos que estava foragida da Justiça do Ceará foi presa pela Polícia Civil na manhã desta quarta-feira (4), no bairro Vila Miami, zona leste de São Paulo. A acusada possui uma condenação de 10 anos de reclusão pelo crime de estupro de vulnerável, com ordem de captura emitida pela Vara Única […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mulher-condenada-por-estupro-de-vulneravel-no-ceara-e-presa-pela-policia-civil-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:11",
+"t": "Ambulância fica sem combustível durante transporte de paciente na Mogi-Dutra",
+"p": "Veículo apresentou pane seca na altura do km 46; paciente precisou ser desembarcado e foi colocado novamente na ambulância após o reabastecimento",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/ambulancia-fica-sem-combustivel-durante-transporte-de-paciente-na-mogi-dutra/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:02",
+"t": "Redação do Enem 2026: 4 dicas para fugir das fórmulas prontas e melhorar a argumentação",
+"p": "Para conquistar uma nota alta na redação do Exame Nacional do Ensino Médio (Enem), não basta dominar a gramática e a estrutura do texto. É preciso construir uma argumentação sólida e conectar as referências ao tema proposto. A cartilha de redação do Enem 2026, divulgada pelo Instituto Nacional de Estudos e…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/redacao-do-enem-2026-4-dicas-para-fugir-das-formulas-prontas-e-melhorar-a-argumentacao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "15:01",
+"t": "EMEF João Garcia Andreo passa por melhorias na infraestrutura e controle de aves em Fernandópolis",
+"p": "A Escola Municipal de Ensino Fundamental (EMEF) João Garcia Andreo, localizada no bairro Jardim Bela Vista, em Fernandópolis, está sendo contemplada com um conjunto de intervenções e serviços de manutenção predial. As obras são coordenadas pela Secretaria Municipal de Educação e têm como meta reforçar as condições…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/emef-joao-garcia-andreo-passa-por-melhorias-na-infraestrutura-e-controle-de-aves-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:59",
+"t": "City Tour tem roteiro com parada no Parque da Biquinha neste fim de semana (7 e 8)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Turismo (Setur), está com inscrições abertas para as próximas edições do City Tour, que serão realizadas neste sábado e domingo (7 e 8). Desta vez, o passeio contemplará o tradicional roteiro histórico-cultural da cidade, com uma parada especial no Parque da…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/city-tour-tem-roteiro-com-parada-no-parque-da-biquinha-neste-fim-de-semana-7-e-8/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:54",
+"t": "Justiça concede tutela recursal e determina recondução imediata de Aparecida Salisso ao cargo de prefeita de Icém",
+"p": "O Desembargador Sergio Coimbra Schmidt, da 7ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, concedeu a tutela recursal no Agravo de Instrumento nº 4160730-09.2026.8.26.0000 para suspender a cassação de Aparecida Salisso e determinar a sua imediata recondução ao cargo de Prefeita Municipal…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Aparecida",
+"Icém"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-concede-tutela-recursal-e-determina-reconducao-imediata-de-aparecida-salisso-ao-cargo-de-prefeita-de-icem/",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "14:52",
 "t": "Rodovia Dutra tem tráfego intenso nesta quarta-feira (4); veja trechos",
 "p": "Motoristas enfrentam lentidão em Barra Mansa, no sentido São Paulo, com tempo de travessia de até 40 minutos em trechos de 7 km",
@@ -53,6 +350,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/guaruja/para-prevenir-acidentes-guaruja-retira-arvores-com-risco-de-queda-e-garante-poda-ecologica.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:38",
+"t": "Estado de SP tem queda em roubos de celulares entre janeiro e setembro",
+"p": "O estado de São Paulo registrou queda de 19,3% nos roubos de celulares entre janeiro e setembro de 2026, na comparação com o mesmo período do ano anterior. Segundo balanço do governo estadual, foram 61.189 ocorrências nos nove primeiros meses deste ano, contra 75.859 em 2025, uma diferença de 14.670 casos. Os dados…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/estado-de-sp-tem-queda-em-roubos-de-celulares-entre-janeiro-e-setembro",
 "auto": true
 },
 {
@@ -2164,6 +2473,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67699",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "00:00",
+"t": "Prefeitura de Prudente inicia montagem da estrutura do 2º Festival do Livro no IBC",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67702",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "00:00",
+"t": "Sedepp e Senai abrem vagas para cursos de Pintor Predial e Hidráulica, com 20 vagas cada",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67701",
 "auto": true
 },
 {
