@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-04T17:58:10-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-04T18:54:29-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -21,7 +23,6 @@
 "Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
-"Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
@@ -32,10 +33,6 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
@@ -44,15 +41,83 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Diário do Litoral",
+"fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Jornal Cruzeiro do Sul",
-"erro": "HTTP Error 403: Forbidden"
+"fonte": "Região Noroeste",
+"erro": "<urlopen error [Errno -3] Temporary failure in name resolution>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-04",
+"h": "18:53",
+"t": "Pedreiro de 75 anos morre em obra no primeiro dia de trabalho em Rio Preto",
+"p": "José Amorim da Silva caiu no poço de um elevador em construção; perícia analisa condições de segurança e uso de equipamentos de proteção. O pedreiro José Amorim da Silva, de 75 anos, que morreu após cair no poço de um elevador em um prédio em construção em São José do Rio Preto/SP, estava em seu […]",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/pedreiro-de-75-anos-morre-em-obra-no-primeiro-dia-de-trabalho-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "18:51",
+"t": "Caminhão encalha em valeta e provoca congestionamento no Contorno",
+"p": "Polícia Rodoviária sinaliza o trecho no sentido da Unimar; o Marília Notícia acompanha a ocorrência.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/caminhao-encalha-em-valeta-e-provoca-congestionamento-no-contorno/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "18:43",
+"t": "SP entra em alerta para temporais e ventos de 80 km/h até sábado (7/11)",
+"p": "Defesa Civil prevê temporais com raios, fortes rajadas de vento e possibilidade de grazino em pontos isolados",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sp-entra-em-alerta-para-temporais-e-ventos-de-ate-80-km-h-ate-sabado-7-11",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "18:09",
+"t": "‘Quarta com o Prefeito’, edição de novembro, mantém atendimento com variadas resoluções de demandas da população",
+"p": "Fotos: Michelle Alves/Secom Nesta quarta-feira (4), o programa “Quarta com o Prefeito”, realizado no Teatro Municipal “Teotônio Vilela” (TMTV), manteve o atendimento às variadas demandas da população. Esses eventos mensais seguem atraindo munícipes, organizações e sendo modelo para outras cidades. Como ocorre com…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/quarta-com-o-prefeito-edicao-de-novembro-mantem-atendimento-com-variadas-resolucoes-de-demandas-da-populacao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:58",
+"t": "Neymar marca golaço de bicicleta em treino do Santos; veja a programação do elenco",
+"p": "Raul Baretta / Santos O clube compartilhou o lance nas redes sociais, chamando a atenção dos torcedores",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/neymar-marca-golaco-de-bicicleta-em-treino-do-santos-veja-a-programacao-do-elenco/",
+"auto": true
+},
 {
 "d": "2026-11-04",
 "h": "17:47",
@@ -98,6 +163,20 @@
 },
 {
 "d": "2026-11-04",
+"h": "17:39",
+"t": "Operação Chapolin: golpistas usam aparelho que bloqueia alarme para furtar bagagens e eletrônicos de famílias em postos nas rodovias de São Paulo",
+"p": "A Polícia Civil realizou, nesta quarta-feira (4), a Operação Chapolin contra um grupo suspeito de furtar bagagens e aparelhos eletrônicos de veículos em grandes postos de combustíveis nas rodovias paulistas. Os criminosos utilizavam um dispositivo eletrônico capaz de bloquear o sinal do alarme e impedir o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/policia/operacao-chapolin-golpistas-usam-aparelho-que-bloqueia-alarme-para-furtar-bagagens-e-eletronicos-de-familias-em-postos-nas-rodovias-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "17:36",
 "t": "CEU das Artes do Laranjeiras abre inscrições para oficina gratuita de percussão infantil",
 "p": "Crianças de 8 a 14 anos poderão participar da Oficina de Iniciação Musical em instrumentos de percussão, do projeto Samba Consciente: Memória e Resistência no Coração de Sorocaba, que acontece no dia 29 de novembro, às 14h, no Centro de Artes e Esportes Unificados (CEU das Artes) “Prof. Flávio Vespasiano Di…",
@@ -126,6 +205,20 @@
 },
 {
 "d": "2026-11-04",
+"h": "17:28",
+"t": "Rio Grande da Serra terá seis eventos no Mês da Consciência Negra",
+"p": "Programação começa no sábado (7) e reúne atividades culturais, palestra sobre saúde, exposição de arte e homenagens a personalidades locais",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Rio Grande da Serra"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366859/rio-grande-da-serra-tera-seis-eventos-no-mes-da-consciencia-negra",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "17:20",
 "t": "Justiça muda crime de ladrão após provar que PM morreu por tiro de colega",
 "p": "Laudo comprovou que o tiro que matou o agente partiu da arma de outro policial que estava na ação. Juíza alterou crime imputado ao réu",
@@ -134,6 +227,32 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/justica-muda-crime-de-ladrao-apos-provar-que-pm-morreu-por-tiro-de-colega",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:17",
+"t": "GCM prende dois homens com 488 porções de drogas em São Bernardo",
+"p": "Suspeitos tentaram fugir em direções opostas durante fiscalização na Rua Faustino Negri; ambos foram detidos e encaminhados ao 8º DP",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366856/gcm-prende-dois-homens-com-488-porcoes-de-drogas-em-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:14",
+"t": "Construtora encontra banheira romano de quase 2 mil anos durante obra e descoberta pode custar R$ 74 milhões na Europa",
+"p": "Uma obra residencial nos Países Baixos acabou se transformando em uma disputa milionária depois que trabalhadores encontraram vestígios de um antigo complexo de banhos romanos no terreno destinado à construção de apartamentos. A descoberta aconteceu em Nijmegen, cidade do leste holandês conhecida por sua longa…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/construtora-encontra-banho-romano-de-quase-2-mil-anos-durante-obra-e-descoberta-pode-custar-r-74-milhoes-na-europa-nn/",
 "auto": true
 },
 {
@@ -188,6 +307,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/mundo/politico-virou-meme-no-brasil-em-2020-por-causa-do-sobrenome-talarico-foi-comparado-a-ex-de-luisa-sonza-e-descobriu-zeca-pagodinho-6-anos-depois-conquistou-feito-historico-e-se-tornou-senador/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "16:59",
+"t": "Ciclone se forma no Sul e leva alerta de temporal a 8 estados, com litoral de SP sob risco de enchentes e ventos intensos",
+"p": "Ciclone extratropical se forma sobre o Rio Grande do Sul nesta quarta (4), com temporal severo no Sul e risco de granizo e tornado isolado. Na quinta, a frente fria atinge Paraná, São Paulo, Minas, Rio e Goiás. O litoral paulista tem alerta de chuva duradoura.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/ciclone-se-forma-no-sul-e-leva-alerta-de-temporal-a-8-estados-com-litoral-de-sp-sob-risco-de-enchentes-e-ventos-intensos/",
 "auto": true
 },
 {
