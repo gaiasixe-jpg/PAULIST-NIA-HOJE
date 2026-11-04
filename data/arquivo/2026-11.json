@@ -3,6 +3,734 @@
 "itens": [
 {
 "d": "2026-11-04",
+"h": "10:10",
+"t": "Homem empresta celular e é agredido com pauladas na cabeça",
+"p": "Vítima sofreu corte profundo na cabeça e fratura na face após cobrar a devolução do aparelho",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-empresta-celular-e-e-agredido-com-pauladas-na-cabeca/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "10:08",
+"t": "Perícia judicial prevê R$ 4,1 milhões de indenização em caso de despejo do Aeroclube de Marília",
+"p": "Voa tenta anular tombamento do Aeroclube de Marília Laudo apresentado à Justiça calcula valor de construções em área disputada com a Rede VOA; eventual pagamento depende de decisão judicial.",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/pericia-judicial-preve-r-41-milhoes-de-indenizacao-em-caso-de-despejo-do-aeroclube-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "10:07",
+"t": "Ônibus de Mira Estrela quebra na Expedicionários e mobiliza equipes de trânsito no centro de Fernandópolis",
+"p": "Um ônibus pertencente à Prefeitura de Mira Estrela sofreu uma falha mecânica no início da manhã desta quarta-feira (4), em pleno trecho da Avenida Expedicionários Brasileiros, no centro de Fernandópolis. A interrupção do veículo em uma das vias mais movimentadas da cidade ocorreu em horário de pico, gerando…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Fernandópolis",
+"Mira Estrela"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/onibus-de-mira-estrela-quebra-na-expedicionarios-e-mobiliza-equipes-de-transito-no-centro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "10:05",
+"t": "Carreta tomba e bloqueia rodovia Cônego Domênico Rangoni em Guarujá",
+"p": "Bloqueio no sentido leste provocou 7km de retenção na via, nesta quarta (4); Corpo de Bombeiros atuou no resfriamento preventivo da carga",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sistema-anchieta-imigrantes/carreta-tomba-e-bloqueia-rodovia-conego-domenico-rangoni-em-guaruja.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "10:00",
+"t": "Homem fica ferido após ser esfaqueado durante discussão em Praia Grande",
+"p": "Arquivo/Governo de SP Um homem de 31 anos ficou ferido após ser atingido com uma facada durante uma discussão na noite de segunda-feira (2), em Praia Grande.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/praiagrande/homem-fica-ferido-apos-ser-esfaqueado-durante-discussao-em-praia-grande/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:52",
+"t": "Repórter da TV Record é agredido durante cobertura de morte de pecuarista investigado por feminicídio",
+"p": "O repórter Guilherme Gonçalves, da TV Record, foi vítima de uma agressão enquanto cobria o desdobramento da morte do pecuarista João Roberto Bolelli, de 62 anos, no município de Rifaina, interior de São Paulo. O incidente ocorreu em uma estrada de acesso à propriedade rural do fazendeiro e foi transmitido durante a…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Rifaina"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/reporter-da-tv-record-e-agredido-durante-cobertura-de-morte-de-pecuarista-investigado-por-feminicidio/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:51",
+"t": "Projetista tenta contratar acompanhante e acaba no prejuízo",
+"p": "Suspeito usou nome de uma facção criminosa e enviou vídeos de armas para exigir transferências via PIX",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/projetista-tenta-contratar-acompanhante-e-acaba-no-prejuizo/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:51",
+"t": "Médico da Santa Casa de Fernandópolis representa o Brasil em congresso internacional de saúde em Paris",
+"p": "A Santa Casa de Fernandópolis ganhou projeção internacional com a participação do cirurgião vascular Luiz Gustavo Madi Antonio no 2nd International Summit on Hepatology and Nephrology Research, simpósio científico realizado em Paris, na França. Na ocasião, o médico atuou como palestrante convidado para apresentar a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/medico-da-santa-casa-de-fernandopolis-representa-o-brasil-em-congresso-internacional-de-saude-em-paris/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:50",
+"t": "Natal Encantado 2026 terá roda-gigante, carrossel e Casinha do Papai Noel em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Natal Encantado 2026 em Jundiaí terá roda-gigante, carrossel, Papai Noel e atrações culturais. Confira a programação já anunciada.",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/natal-encantado-2026-jundiai-atracoes/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:50",
+"t": "Seminário de Boas Práticas reúne educadores de Jales e seleciona projeto para etapa regional",
+"p": "A Secretaria Municipal de Educação de Jales promoveu a terceira edição do Seminário de Boas Práticas da Educação, iniciativa integrada às ações do Programa Alfabetiza Juntos SP. O encontro reuniu professores dos Anos Iniciais do Ensino Fundamental, diretores, vice-diretores e coordenadores pedagógicos da rede…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/seminario-de-boas-praticas-reune-educadores-de-jales-e-seleciona-projeto-para-etapa-regional/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:45",
+"t": "Orquídea sem flores pode voltar a florescer com mistura de alho e água e esse preparo caseiro chama atenção de quem procura uma solução simples para cuidar da planta em casa",
+"p": "Entenda quais condições de iluminação, rega e nutrição ajudam a planta a desenvolver novas hastes e manter as raízes saudáveis",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/gazeta-mais/dicas-da-gazeta/orquidea-sem-flores-pode-voltar-a-florescer-com-mistura-de-alho-e-agua-e-esse-preparo-caseiro-chama-atencao-de-quem-procura-uma-solucao-simples-para-cuidar-da-planta-em-casa/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:44",
+"t": "ALEPA e CGU encerram inscrições nesta quarta, 4; veja demais concursos",
+"p": "O prazo para participar de 15 concursos públicos e processos seletivos termina nesta quarta-feira, 4 de novembro. As seleções reúnem 684 vagas em Alagoas, Pará, Goiás, Santa Catarina, Amazonas, Mato Grosso do Sul, Minas Gerais, Sergipe, Espírito Santo e São Paulo. Há oportunidades para candidatos com formação nos…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/alepa-e-cgu-encerram-inscricoes-nesta-quarta-4-veja-demais-concursos/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:43",
+"t": "Carro fica preso em árvore após batida no Jardim Conceição",
+"p": "Carro ficou preso em árvore após acidente envolvendo dois veículos na manhã desta quarta-feira (4), no Jardim Conceição; trânsito segue lento no trecho",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/carro-fica-preso-em-arvore-apos-batida-no-jardim-conceicao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:35",
+"t": "A Fazenda 18: sétima roça é formada após dinâmica com o fazendeiro; veja qual foi a escolha de Ana Bruna e vote na enquete em quem deve sair",
+"p": "Na noite desta terça-feira (3/11) foi formada a sétima roça de “A Fazenda 18”. Nela, disputam Eduarda Braum, Renata Del Bianco, Rikardo Negro e Mayk Leão. A berlinda foi formada após uma dinâmica inédita do programa, que foi anunciada por Adriane Galisteu na última segunda-feira (2/11). Ana Bruna, a fazendeira da…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/a-fazenda-18-setima-roca-e-formada-apos-dinamica-com-o-fazendeiro-veja-qual-foi-a-escolha-de-ana-bruna-e-vote-na-enquete-em-quem-deve-sair/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:33",
+"t": "São Vicente inaugura Nova Rodoviária neste domingo (8)",
+"p": "São Vicente entra em clima de festa neste domingo (8), com a inauguração da Nova Rodoviária. A partir das 9h, a Praça Bernardino de Campos (Centro) recebe uma programação especial para marcar a entrega do equipamento.",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/sao-vicente-inaugura-nova-rodoviaria-neste-domingo-8/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:31",
+"t": "Vira-lata caramelo maltratado é adotado por policial, ganha farda e medalhas e acaba promovido a sargento da PM no Rio de Janeiro",
+"p": "Um vira-lata caramelo conquistou um lugar especial em um batalhão da Polícia Militar do Rio de Janeiro. Conhecido como Oliveira, o animal chegou de mansinho ao 17º BPM, na Ilha do Governador, no fim de 2018, e acabou adotado pelos policiais. Desde então, passou a fazer parte da rotina do quartel e ganhou até uma […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/vira-lata-caramelo-maltratado-e-adotado-por-policial-ganha-farda-e-medalhas-e-acaba-promovido-a-sargento-da-pm-no-rio-de-janeiro/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:28",
+"t": "Ilha ameaçada pelo avanço do mar abandona o concreto e aposta em esperança verde e natural para salvar 3 mil pessoas das ondas violentas",
+"p": "Seja no Brasil ou em qualquer outro ponto do planeta, o avanço do mar é um vilão bem conhecido e temido. É nessa realidade que está uma pequena ilha ao norte de Manila, capital das Filipinas. Em meio ao caos e às tentativas frustradas de conter a água, moradores passaram anos convivendo com casas protegidas […]",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/ilha-ameacada-pelo-avanco-do-mar-abandona-o-concreto-e-aposta-em-esperanca-verde-e-natural-para-salvar-3-mil-pessoas-das-ondas-violentas/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:27",
+"t": "Suzano realiza mutirão de empregos com 450 vagas nesta sexta-feira",
+"p": "Ação ocorre das 9h às 15h, no Centro Unificado de Serviços (Centrus), e reúne oportunidades oferecidas por nove empresas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/suzano-realiza-mutirao-de-empregos-com-450-vagas-nesta-sexta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:25",
+"t": "Padilha defende proibição das bets e cita impacto no SUS",
+"p": "O ministro da Saúde, Alexandre Padilha, defendeu na terça-feira (3) a manutenção da decisão do governo federal que proibiu o funcionamento das empresas que operam sites de apostas online, conhecidas como bets.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/vida/padilha-defende-proibicao-das-bets-e-cita-impacto-no-sus/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:23",
+"t": "Falha elétrica atinge linha 9-Esmeralda, interrompe circulação em uma das vias e Paese é acionado",
+"p": "Uma falha elétrica afeta a circulação dos trens da linha 9-Esmeralda na manhã desta quarta-feira (4/11), provocando a interrupção do serviço em uma das vias entre as estações Presidente Altino e Ceasa, na Grande São Paulo. De acordo com a ViaMobilidade, concessionária responsável pela linha, o problema foi…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/falha-eletrica-atinge-linha-9-esmeralda-interrompe-circulacao-em-uma-das-vias-e-paese-e-acionado/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:21",
+"t": "AMAÊ Festival traz Matuê, Marina Sena e mais 17 atrações neste sábado (7)",
+"p": "Evento vem com grandes nomes do rap, trap, funk, pop e música eletrônica em dois palcos simultâneos, com mais de 12 horas de programação",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/amae-festival-traz-matue-marina-sena-e-mais-17-atracoes-neste-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:16",
+"t": "Obituário | Falecimentos registrados nesta quarta-feira (4/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta quarta-feira, dia 4 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-quarta-feira-4-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:15",
+"t": "Santos terá sol nesta quarta-feira, mas previsão indica chuva e raios a partir de quinta",
+"p": "Cidade terá tempo estável nesta quarta-feira (4), com predomínio de sol e temperaturas elevadas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/santos-tera-sol-nesta-quarta-feira-mas-previsao-indica-chuva-e-raios-a-partir-de-quinta/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:08",
+"t": "Polícia Civil prende suspeitos de aplicar golpe do falso leilão no interior de SP",
+"p": "Polícia Civil de Barretos prendeu 2 suspeitos durante cumprimento de madados na Capital; Vítima perdeu R$ 6 mil",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Barretos"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/policia-civil-prende-suspeitos-de-aplicar-golpe-do-falso-leilao-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:07",
+"t": "Provão Paulista é aplicado para 380 mil estudantes do ensino médio",
+"p": "Provão Paulista começa a ser aplicado nesta quarta (4/11) e quinta-feira (5/11) aos estudantes concluintes do ensino médio da rede pública",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/provao-paulista-e-aplicado-para-380-mil-estudantes-do-ensino-medio",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:07",
+"t": "Campinas inicia limpeza de piscinão na Avenida Norte-Sul",
+"p": "Piscinão de 90 mil metros quadrados na Norte-Sul passa por limpeza para retirar sedimentos acumulados com as chuvas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-inicia-limpeza-de-piscinao-na-avenida-norte-sul/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:07",
+"t": "Mega da Virada: Caixa anuncia que prêmio deve superar R$ 1 bilhão",
+"p": "Apostas para o concurso especial já estão disponíveis",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/mega-da-virada-caixa-anuncia-que-premio-deve-superar-r-1-bilhao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "09:02",
+"t": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+"p": "Texto foi aprovado por unanimidade",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/158539-2/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:59",
+"t": "Pedreiro morre após cair em poço de elevador durante obra em Rio Preto",
+"p": "Trabalhadores estariam sem equipamentos de proteção, segundo informações preliminares",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/pedreiro-morre-apos-cair-em-poco-de-elevador-durante-obra-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:54",
+"t": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+"p": "O plenário do Senado Federal aprovou na noite de terça-feira (3), em dois turnos, a Proposta de Emenda à Constituição (PEC) da Segurança Pública, que reorganiza as forças públicas para ampliar o combate ao crime organizado no país.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:52",
+"t": "Polícia pede prisão de empresário suspeito de matar advogada e filho dela",
+"p": "Paradeiro de Eric de Almeida é desconhecido das autoridades. Corpos de Anna Gabriela Faria Lima e Raphael Ferrari foram encontrados em Cotia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Cotia"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-pede-prisao-de-empresario-suspeito-de-matar-advogada-e-filho-dela",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:49",
+"t": "Feijão do dia anterior pode ficar muito mais saboroso e com caldo cremoso novamente, mas existe um cuidado com a quantidade de água e o tempo no fogo que faz toda a diferença",
+"p": "Amasse alguns grãos com uma colher e misture ao caldo para ajudar a engrossar sem acrescentar outros ingredientes",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/gazeta-mais/dicas-da-gazeta/feijao-do-dia-anterior-pode-ficar-muito-mais-saboroso-e-com-caldo-cremoso-novamente-mas-existe-um-cuidado-com-a-quantidade-de-agua-e-o-tempo-no-fogo-que-faz-toda-a-diferenca/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:45",
+"t": "Calor intenso pode matar estas 5 plantas populares; veja como protegê-las do sol forte e evitar folhas secas e manchadas",
+"p": "Nem todas as plantas conseguem suportar as altas temperaturas do verão. Enquanto algumas espécies estão adaptadas à exposição solar intensa, outras preferem ambientes frescos, úmidos e protegidos da luz direta. Por isso, dias muito quentes exigem atenção redobrada com determinadas plantas ornamentais, que podem…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/calor-intenso-pode-matar-estas-5-plantas-populares-veja-como-protege-las-do-sol-forte-e-evitar-folhas-secas-e-manchadas/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:41",
+"t": "Lotofácil faz dois milionários; Quina acumula na terça-feira (3)",
+"p": "Apostas de São Paulo e Espírito Santo recebem R$ 4,7 milhões cada; Quina pode pagar R$ 12 milhões no próximo concurso",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366713/lotofacil-faz-dois-milionarios-quina-acumula-na-terca-feira-3-",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:38",
+"t": "GCM resgata 20 aves silvestres de cativeiro durante ocorrência de violência doméstica, em Suzano",
+"p": "Ocorrência foi atendida pela Patrulha Maria da Penha, que recebeu a denúncia de violência doméstica; GPA foi posteriormente acionado e identificou as aves, que foram recolhidas por uma equipe especializada",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/gcm-resgata-20-aves-silvestres-de-cativeiro-durante-ocorrencia-de-violencia-domestica-em-suzano/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:37",
+"t": "Jundiaí terá calor de 31°C nesta quarta (4), mas chuva e queda de temperatura estão previstas",
+"p": "Foto: Prefeitura de Jundiaí Quarta-feira (4) terá sol entre nuvens e calor, mas o INMET mantém alerta para tempestade. Previsão indica chuva nos próximos dias.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-calor-chuva-frio/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:32",
+"t": "Câmara aprova desconto e isenção de IPTU para moradores e beneficiários do BPC",
+"p": "Vereadores também rejeitam convocações de secretários para prestar esclarecimentos sobre auxílio-atleta e situação financeira do município",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/camara-aprova-desconto-e-isencao-de-iptu-para-moradores-e-beneficiarios-do-bpc/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:30",
+"t": "Governo de SP altera local da futura estação Ana Rosa da Linha 16-Violeta",
+"p": "Resolução foi publicada no Diário Oficial desta quarta (4/11); linha de Metrô deve conectar os parques da capital paulista",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/governo-de-sp-altera-local-da-futura-estacao-ana-rosa-da-linha-16-violeta",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:30",
+"t": "Lula passa por exames médicos em São Paulo; veja o resultado",
+"p": "Presidente passou por avaliação de rotina na terça-feira (3), no Hospital Sírio-Libanês, em São Paulo, e mantém agenda habitual",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366728/lula-passa-por-exames-medicos-em-sao-paulo-veja-o-resultado",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:30",
+"t": "Ônibus com pneu furado deixa passageiros à espera de outro veículo por 1h30",
+"p": "Passageiros precisaram esperar das 5h20 às 6h50 por outro veículo após pneu de ônibus da linha 708-BL1 furar no meio do trajeto",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/onibus-com-pneu-furado-deixa-passageiros-a-espera-de-outro-veiculo-por-1h30/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:28",
+"t": "São Vicente promove feira de empreendedorismo com dezenas de estandes nos setores de gastronomia moda e serviços",
+"p": "O Conecta Mais São Vicente valoriza o empreendedorismo e conecta empresários locais à população. A iniciativa reúne mais de 80 estandes com expositores de diversos segmentos como gastronomia moda e serviços. O evento no Boulevard Shopping oferece aos participantes a oportunidade de apresentar marcas produtos e…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/sao-vicente-promove-feira-de-empreendedorismo-com-dezenas-de-estandes-nos-setores-de-gastronomia-moda-e-servicos/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:27",
+"t": "Exames do presidente Lula estão dentro da normalidade, diz boletim",
+"p": "Boletim médico publicado às 23h desta terça-feira (3) informa que os exames do presidente Lula estão “dentro da normalidade”. Lula viajou para São Paulo ontem e foi internado no Hospital Sírio-Libanês para realizar exames de rotina previamente agendados. Notícias relacionadas: Lula vai a São Paulo para fazer exames…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/exames-do-presidente-lula-estao-dentro-da-normalidade-diz-boletim",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:21",
+"t": "Furto de fiação elétrica causa interrupção de atendimentos em Centro de Especialidades Odontológicas por seis dias",
+"p": "O furto de cabos de internet e de fiação elétrica causou a interrupção dos atendimentos no Centro de Especialidades Odontológicas de Araçatuba (SP) durante seis dias. O crime foi descoberto nesta terça-feira (3), quando os funcionários se preparavam para retomar os serviços no local após o feriado prolongado do Dia…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Araçatuba"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/furto-de-fiacao-eletrica-causa-interrupcao-de-atendimentos-em-centro-de-especialidades-odontologicas-por-seis-dias/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:20",
+"t": "Homem é morto em confronto com policiais militares em Andradina",
+"p": "Um homem de 29 anos foi morto em um confronto com a Polícia Militar nesta terça-feira (3) em Andradina (SP). De acordo com a Polícia Civil, havia um mandado de prisão por violência doméstica contra Rodney Augusto Lara Ferreira. Ele foi localizado pela equipe da Força Tática em uma casa abandonada. Ao entrarem no…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Andradina"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/homem-e-morto-em-confronto-com-policiais-militares-em-andradina/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:15",
+"t": "Trânsito em São Paulo chega a 602 km de lentidão e motoristas enfrentam atrasos de até 1 hora nesta quarta-feira",
+"p": "A cidade de São Paulo registra 602 quilômetros de lentidão no trânsito nesta quarta-feira (4/11), segundo dados da Companhia de Engenharia de Tráfego (CET). O trânsito intenso também atinge importantes rodovias de acesso à capital paulista, com destaque para a Raposo Tavares, que apresenta mais de 23 quilômetros de…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/transito-em-sao-paulo-chega-a-602-km-de-lentidao-e-motoristas-enfrentam-atrasos-de-ate-1-hora-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:12",
+"t": "Caminhão tomba e deixa carga espalhada na Rodovia Cônego Domênico Rangoni na manhã desta quarta-feira (4)",
+"p": "Um caminhão tombou na descida da acidente aconteceu por volta das 7h45, na Rodovia Cônego Domênico Rangoni, no sentido Guarujá, na manhã desta quarta-feira (4), sentido Guarujá. A carga está espalhada pelo trecho. Segundo informações da Ecovias, o acidente aconteceu no km 252 com acostamento e faixa 2 bloqueadas e…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/caminhao-tomba-e-deixa-carga-espalhada-na-rodovia-na-manha-desta-quarta-feira-4/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:11",
+"t": "Pedreiro morre ao cair em poço aberto para construção de elevador em obra",
+"p": "Um pedreiro de 75 anos morreu na manhã desta terça-feira (3) em São José do Rio Preto (SP) ao cair em um poço destinado à construção de um elevador em uma obra. Segundo consta no boletim de ocorrência, José Amorim da Silva estava na área superior do prédio junto com outro trabalhador, quando teria tropeçado […]",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/pedreiro-morre-ao-cair-em-poco-aberto-para-construcao-de-elevador-em-obra/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:08",
+"t": "Fogo destrói ônibus escolar em almoxarifado da prefeitura de Adamantina",
+"p": "Um ônibus escolar pegou fogo dentro do Almoxarifado Municipal de Adamantina (SP), na manhã de sábado (31). As informações foram divulgadas pela prefeitura nesta terça-feira (3). As chamas foram percebidas por servidores que chegavam ao local. Os próprios funcionários conseguiram controlar o incêndio. Segundo a…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Adamantina"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/fogo-destroi-onibus-escolar-em-almoxarifado-da-prefeitura-de-adamantina/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "08:06",
+"t": "Detran-SP faz leilão com quase 800 veículos e lances a partir de R$ 540 na região",
+"p": "Um leilão realizado pelo Departamento Estadual de Trânsito de São Paulo (Detran-SP) tem quase 800 veículos disponíveis em cidades das regiões de Bauru, Presidente Prudente e São José do Rio Preto. A etapa de pré-lances começou nesta terça-feira (3). Os veículos estão recolhidos em Palmital, Cândido Mota, Presidente…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Presidente Prudente",
+"São Paulo",
+"Palmital",
+"Bauru"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/detran-sp-faz-leilao-com-quase-800-veiculos-e-lances-a-partir-de-r-540-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "07:59",
+"t": "Centro Dia de Fernandópolis encerra programação do Mês do Idoso com Encontro Familiar",
+"p": "O Centro Dia do Idoso de Fernandópolis finalizou as comemorações do Mês do Idoso com a realização do Encontro Familiar, reunindo os frequentadores da unidade e seus parentes em uma noite de integração. O encerramento teve como atração principal o espetáculo teatral “O Baile da Última Estação”, encenado pelos…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/centro-dia-de-fernandopolis-encerra-programacao-do-mes-do-idoso-com-encontro-familiar/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "07:58",
+"t": "Fernandópolis recebe o espetáculo “Doroteia” durante o Festival Nacional de Teatro",
+"p": "O clássico do dramaturgo Nelson Rodrigues, “Doroteia”, ganha uma nova montagem no palco do Teatro Municipal de Fernandópolis durante o Festival Nacional de Teatro. Produzido pelo Fócu – Grupo de Teatro, de Ribeirão Preto, o espetáculo é uma das cinco atrações selecionadas para a programação oficial do evento,…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/fernandopolis-recebe-o-espetaculo-doroteia-durante-o-festival-nacional-de-teatro/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "07:12",
+"t": "Mega-Sena sorteia prêmio acumulado de R$ 46 milhões nesta quarta-feira",
+"p": "A Mega-Sena sorteia nesta quarta-feira (4) prêmio estimado em R$ 46 milhões. As seis dezenas do concurso 3.081 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) em casas lotéricas credenciadas pela Caixa em todo o…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-acumulado-de-r-46-milhoes-nesta-quarta-feira",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "07:01",
+"t": "Ortopedista do Imot é um dos três médicos brasileiros convidados para visita técnica em hospital de Portugal",
+"p": "Marcos Nali acompanhou cirurgias, participou de discussões clínicas e trocou experiências com especialistas do Hospital Lusíadas, no Porto, centro de referência no tratamento de infecções ortopédicas",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/acao-em-rede/ortopedista-do-imot-e-um-dos-tres-medicos-brasileiros-convidados-para-visita-tecnica-em-hospital-de-portugal/",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "05:00",
 "t": "Sesi Marília traz shows, teatro, dança e oficinas gratuitas em novembro",
 "p": "SESI Marília anuncia programação de novembro com atrações gratuitas para famílias Agenda conta com apresentações musicais, espetáculos teatrais, dança e oficinas com reserva antecipada de ingressos.",
