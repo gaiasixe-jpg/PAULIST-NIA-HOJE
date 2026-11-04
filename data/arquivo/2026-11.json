@@ -2,6 +2,46 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-04",
+"h": "01:51",
+"t": "Câmara de São Paulo arquiva pedido de impeachment contra o prefeito Ricardo Nunes",
+"p": "A Comissão Especial da Câmara Municipal de São Paulo aprovou o arquivamento do pedido de impeachment contra o prefeito Ricardo Nunes. O processo apurava supostas irregularidades no dimensionamento da frota de transporte público municipal durante a realização do segundo turno das eleições. Por cinco votos a dois, os…",
+"tema": "Eleições",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/camara-de-sao-paulo-arquiva-pedido-de-impeachment-contra-o-prefeito-ricardo-nunes/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "01:50",
+"t": "Previsão do tempo indica sol, calor e pancadas de chuva isoladas em todo o Estado nesta quarta-feira",
+"p": "O estado de São Paulo terá mais um dia marcado pela predominância de sol e temperaturas elevadas nesta quarta-feira (4). Contudo, a combinação entre o calor intenso, a umidade e a atuação de um cavado meteorológico favorecerá o surgimento de áreas de instabilidade, provocando pancadas de chuva isoladas acompanhadas…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/previsao-do-tempo-indica-sol-calor-e-pancadas-de-chuva-isoladas-em-todo-o-estado-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "01:13",
+"t": "São Paulo tem três universidades estaduais entre as melhores instituições do mundo em empregabilidade",
+"p": "Três universidades estaduais de São Paulo estão entre as 300 melhores instituições de ensino superior do mundo em empregabilidade, segundo o Global Employability University Ranking and Survey (GEURS) 2027. A Universidade de São Paulo (USP) é a primeira a aparecer na lista (em 89º), logo após estão a Universidade…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sao-paulo-tem-tres-universidades-estaduais-entre-as-melhores-instituicoes-do-mundo-em-empregabilidade/",
+"auto": true
+},
+{
 "d": "2026-11-03",
 "h": "23:07",
 "t": "Voepass vai penhorar aeronave de R$ 25 milhões por determinação da Justiça",
