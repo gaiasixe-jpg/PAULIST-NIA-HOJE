@@ -3,6 +3,186 @@
 "itens": [
 {
 "d": "2026-11-04",
+"h": "14:52",
+"t": "Rodovia Dutra tem tráfego intenso nesta quarta-feira (4); veja trechos",
+"p": "Motoristas enfrentam lentidão em Barra Mansa, no sentido São Paulo, com tempo de travessia de até 40 minutos em trechos de 7 km",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/rodovia-dutra-tem-trafego-intenso-nesta-quarta-feira-4-veja-trechos.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:47",
+"t": "Novembro Azul em Caraguatatuba: exames de PSA em porta aberta e orientações percorrem postos e bairros",
+"p": "Unidades de saúde e espaços comunitários oferecem consultas diretas, checagem de pressão e exames para prevenção do câncer de próstata",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/novembro-azul-em-caraguatatuba-exames-de-psa-em-porta-aberta-e-orientacoes-percorrem-postos-e-bairros.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:42",
+"t": "Procurado por associação ao tráfico de drogas é preso pela Polícia Militar em Ouroeste",
+"p": "Um homem de 28 anos com mandado de prisão em aberto foi capturado pela Polícia Militar na manhã desta quarta-feira (4), no município de Ouroeste. O suspeito era procurado pela Justiça para o cumprimento de pena pelo crime de associação para o tráfico de drogas. A prisão foi efetuada por agentes do 10º Grupamento de […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/procurado-por-associacao-ao-trafico-de-drogas-e-preso-pela-policia-militar-em-ouroeste/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:40",
+"t": "Para prevenir acidentes, Guarujá retira árvores com risco de queda e garante poda ecológica",
+"p": "Ações de segurança ambiental em outubro resultam no recolhimento de 390 metros cúbicos de galhos e no transplante de palmeira na Enseada",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/para-prevenir-acidentes-guaruja-retira-arvores-com-risco-de-queda-e-garante-poda-ecologica.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:34",
+"t": "Quadrilha que furtava bagagens em postos de rodovias é alvo de operação",
+"p": "Grupo agia em rodovias paulista, e tinha como preferência famílias, com crianças, que estavam paravam para descansar durante viagens",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/quadrilha-que-furtava-bagagens-em-postos-de-rodovias-e-alvo-de-operacao",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:32",
+"t": "Coleta de lixo em Jundiaí muda para o período noturno nos bairros Medeiros e Tulipas",
+"p": "Foto: Prefeitura de Jundiaí Coleta noturna em Jundiaí começa em 9 de novembro nos bairros Medeiros e Tulipas. Veja o novo horário e quais serviços serão afetados.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/coleta-noturna-jundiai-medeiros-tulipas/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:28",
+"t": "Fundo Social de Ubatuba fecha para reformas; confira onde ocorrerão os serviços",
+"p": "Atendimento do Perequê-Açu migra para o paço municipal, durante obras no prédio; assistência a famílias e doações seguem no Centro até 2027",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ubatuba/fundo-social-de-ubatuba-fecha-para-reformas-confira-onde-ocorrerao-os-servicos.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:21",
+"t": "Mototaxista perde perna após colidir contra placa de trânsito durante corrida",
+"p": "Um mototaxista de 57 anos teve a perna direita amputada após sofrer um grave acidente de trânsito na Avenida 01A, no município de Araçatuba. O homem pilotava uma motocicleta por aplicativo e transportava uma estudante de 15 anos no momento da colisão, registrada oficialmente pelas autoridades policiais nesta…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mototaxista-perde-perna-apos-colidir-contra-placa-de-transito-durante-corrida/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:20",
+"t": "Operação da Polícia Civil prende cinco suspeitos de furtar 74 cabeças de gado",
+"p": "A Polícia Civil deflagrou nesta quarta-feira (4) a Operação Curral do Crime, que resultou na prisão de cinco homens investigados pelo furto de 74 cabeças de gado na área rural de Paulo de Faria, município localizado a cerca de 100 quilômetros de São José do Rio Preto. O crime causou um prejuízo estimado em R$ […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Paulo de Faria"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-da-policia-civil-prende-cinco-suspeitos-de-furtar-74-cabecas-de-gado/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:07",
+"t": "Coral Infantojuvenil Municipal leva espetáculo gratuito ‘Os Saltimbancos’ à Sala Glória Rocha",
+"p": "Foto: Prefeitura de Jundiaí Apresentações acontecem neste domingo (8), em dois horários, com entrada gratuita e participação do Pré-Coral e da Cia de Teatro de Jundiaí",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/espetaculo-os-saltimbancos-gratuito-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:04",
+"t": "Confira as tabelas dos Jogos Escolares de Sorocaba da próxima semana",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), divulga as partidas válidas pelos Jogos Escolares de Sorocaba (JES 2026), agendadas entre os próximos dias 9 e 13 de novembro. A competição entrará na nona semana da categoria Mirim e na quarta semana da categoria Pré-Mirim.…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/confira-as-tabelas-dos-jogos-escolares-de-sorocaba-da-proxima-semana-6/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:02",
+"t": "Obras da Sabesp podem afetar abastecimento de água em Itanhaém e Peruíbe",
+"p": "Sabesp fará intervenções durante a noite de quarta (4) e a madrugada de quinta-feira (5); moradores podem enfrentar oscilações no abastecimento de água",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Itanhaém",
+"Peruíbe"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/obras-da-sabesp-podem-afetar-abastecimento-de-agua-em-itanhaem-e-peruibe.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "14:01",
+"t": "Dani Alonso e Capitão Augusto acompanham avanço das Casas Terapêuticas em Marília",
+"p": "Conquista do serviço voltado a pessoas com vício em álcool e drogas atende pedido do vereador Damasceno, levado pelos parlamentares.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/dani-alonso-e-capitao-augusto-acompanham-avanco-das-casas-terapeuticas-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "13:49",
 "t": "Cuidadora com 34 anos de trabalho em lar de idosos é demitida por crise econômica e ganha indenização de 200 mil euros após erro formal na Espanha",
 "p": "Uma trabalhadora com mais de 34 anos de serviço em um lar de idosos na Espanha obteve uma vitória na Justiça após ser demitida. O Tribunal Superior de Justiça do País Basco considerou o desligamento injusto e determinou o pagamento de uma indenização superior a 200 mil euros. A decisão levou em conta falhas formais […]",
@@ -152,6 +332,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/apos-chuvas-prefeitura-avalia-danos-em-residencias-e-atende-familias/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "13:30",
+"t": "Motos isentas de IPVA em São Paulo podem perder benefício em 2027 por causa de uma exigência na documentação",
+"p": "Os proprietários de motos de até 180 cilindradas em São Paulo precisam ficar atentos às condições para manter a isenção do IPVA em 2027. Embora a legislação estadual dispense esses veículos do pagamento do imposto, uma exigência relacionada à documentação pode impedir a aplicação do benefício. A Lei Estadual nº…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/automotor/motos-isentas-de-ipva-em-sao-paulo-podem-perder-beneficio-em-2027-por-causa-de-uma-exigencia-na-documentacao/",
 "auto": true
 },
 {
@@ -617,6 +811,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/noticias/fefin-diz-que-gravou-video-para-companheira-refletir-no-dia-seguinte/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:48",
+"t": "Féfin diz que gravou vídeo para companheira ‘refletir’ no dia seguinte",
+"p": "Em discurso na Câmara, vereador atribui conflito à suspeita de traição, nega agressão e acusa terceiros de divulgar vídeo com interesses políticos. Parlamentar afirmou que protegia companheira e ainda criticou manifestação de mulheres.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/fefin-diz-que-gravou-video-para-companheira-refletir-no-dia-seguinte/",
 "auto": true
 },
 {
@@ -1928,6 +2136,34 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/sao-paulo-tem-tres-universidades-estaduais-entre-as-melhores-instituicoes-do-mundo-em-empregabilidade/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "00:00",
+"t": "Prefeitura convoca 103 professores aprovados em concurso para compor quadro efetivo",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67700",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "00:00",
+"t": "Coordenadoria PCD leva 60 alunos da APAE e Rosário para sessão de cinema",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67699",
 "auto": true
 },
 {
