@@ -3,6 +3,117 @@
 "itens": [
 {
 "d": "2026-11-04",
+"h": "17:47",
+"t": "Chega de horas gastas lavando janelas com panos e vinagre: acessórios limpam janelas em 5 minutos",
+"p": "Robô limpa-vidros realiza a limpeza automática de uma grande janela de apartamento. O equipamento utiliza sucção para permanecer preso ao vidro e se movimenta pela superfície, removendo sujeiras e marcas de água. A tecnologia promete facilitar a faxina doméstica, reduzir o esforço manual e limpar determinados…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/inovacao/chega-de-horas-gastas-lavando-janelas-com-panos-e-vinagre-acessorios-limpam-janelas-em-5-minutos/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:43",
+"t": "Casa da Agricultura volta a funcionar em Jundiaí com serviços para produtores rurais",
+"p": "Foto: Prefeitura de Jundiaí Espaço oferece assistência técnica nas propriedades, análise gratuita de solo, apoio com documentação ambiental e orientação sobre programas agrícolas",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/casa-da-agricultura-jundiai-servicos-produtores-rurais/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:40",
+"t": "Rodovia Oswaldo Cruz tem tráfego normal nos trechos monitorados nesta quarta-feira (4)",
+"p": "Motoristas encontram boas condições de visibilidade na ligação entre Taubaté e Ubatuba, mas devem redobrar a atenção no trecho de serra",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Taubaté",
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-tem-trafego-normal-nos-trechos-monitorados-nesta-quarta-feira-4.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:36",
+"t": "CEU das Artes do Laranjeiras abre inscrições para oficina gratuita de percussão infantil",
+"p": "Crianças de 8 a 14 anos poderão participar da Oficina de Iniciação Musical em instrumentos de percussão, do projeto Samba Consciente: Memória e Resistência no Coração de Sorocaba, que acontece no dia 29 de novembro, às 14h, no Centro de Artes e Esportes Unificados (CEU das Artes) “Prof. Flávio Vespasiano Di…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/ceu-das-artes-do-laranjeiras-abre-inscricoes-para-oficina-gratuita-de-percussao-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:30",
+"t": "1º Workshop de Soluções Baseadas na Natureza é realizado no Jardim Botânico de Sorocaba",
+"p": "Fotos: Mariana Campos/Secom A Prefeitura de Sorocaba deu início, nesta quarta-feira (4), ao 1º Workshop Municipal sobre Soluções Baseadas na Natureza (SbN), no Jardim Botânico “Irmãos Villas-Bôas”. O encontro prosseguirá nesta quinta-feira (5), com painéis teóricos sobre governança e oficinas práticas relacionadas…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/1o-workshop-de-solucoes-baseadas-na-natureza-e-realizado-no-jardim-botanico-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:20",
+"t": "Justiça muda crime de ladrão após provar que PM morreu por tiro de colega",
+"p": "Laudo comprovou que o tiro que matou o agente partiu da arma de outro policial que estava na ação. Juíza alterou crime imputado ao réu",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-muda-crime-de-ladrao-apos-provar-que-pm-morreu-por-tiro-de-colega",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:13",
+"t": "Etec prorroga inscrições para curso técnico em Bertioga",
+"p": "Prazo para concorrer ao curso técnico de administração vai até terça-feira (10); aulas ocorrem no período noturno na escola José Inácio Hora",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/educacao/etec-prorroga-inscricoes-para-curso-tecnico-em-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "17:03",
+"t": "Morre José Francisco Breviglieri, ex-delegado regional e referência comunitária em Votuporanga",
+"p": "Delegado aposentado, líder comunitário e Cidadão Votuporanguense dedicou décadas à segurança pública e ao desenvolvimento social do município, deixando um legado de serviço, respeito e compromisso com a comunidade. Votuporanga se despede de uma de suas personalidades mais respeitadas. Faleceu nesta quarta-feira…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/morre-jose-francisco-breviglieri-ex-delegado-regional-e-referencia-comunitaria-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "17:02",
 "t": "Enem está chegando: veja como a família pode apoiar o estudante sem aumentar a pressão",
 "p": "A preparação para o Exame Nacional do Ensino Médio (Enem) envolve desafios que vão além de estudar os conteúdos e conquistar bons resultados nos simulados. A expectativa pela aprovação e a preocupação com o futuro também podem gerar tensão dentro de casa, especialmente quando os adolescentes sentem que precisam…",
