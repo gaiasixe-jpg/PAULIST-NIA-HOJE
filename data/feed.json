@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-04T19:54:20-03:00",
-"novos_nesta_coleta": 31,
+"atualizado": "2026-11-04T20:48:46-03:00",
+"novos_nesta_coleta": 25,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -23,12 +23,14 @@
 "Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
+"Região Noroeste",
+"Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 50 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -42,17 +44,79 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Região Noroeste",
-"erro": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-},
-{
-"fonte": "Prefeitura de Presidente Prudente",
-"erro": "<urlopen error _ssl.c:993: The handshake operation timed out>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-04",
+"h": "20:30",
+"t": "Sete brasileiros conquistam cadeiras na Câmara dos EUA e se tornam deputados estaduais pelo Partido Democrata",
+"p": "As eleições de meio de mandato realizadas nos Estados Unidos resultaram em uma conquista histórica para a comunidade imigrante de origem brasileira. Candidatos com trajetórias ligadas ao Brasil garantiram vitórias expressivas para os legislativos estaduais no país, reforçando a presença e a voz da população…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/sete-brasileiros-conquistam-cadeiras-na-camara-dos-eua-e-se-tornam-deputados-estaduais-pelo-partido-democrata/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "20:06",
+"t": "Polícia Civil prende homem acusado de agredir idoso de 79 anos",
+"p": "A Polícia Civil de São Paulo cumpriu, nesta quarta-feira (4), o mandado de prisão temporária contra Denis Young Kim, de 43 anos, investigado por tentativa de homicídio qualificado por motivo fútil contra um idoso de 79 anos. O suspeito apresentou-se acompanhado por seu advogado no 99º Distrito Policial, na zona sul…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-prende-homem-acusado-de-agredir-idoso-de-79-anos/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "20:06",
+"t": "Provão Paulista aborda vício em apostas esportivas na redação",
+"p": "A Secretaria da Educação do Estado de São Paulo (Seduc-SP) divulgou o tema da redação do Provão Paulista Seriado, aplicado nesta quarta-feira (4) para 380 mil estudantes concluintes do Ensino Médio na rede pública. Os candidatos tiveram como proposta redigir um texto dissertativo-argumentativo sobre o vício em…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/provao-paulista-aborda-vicio-em-apostas-esportivas-na-redacao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "20:06",
+"t": "Polícia investiga morte de homem achado ferido em Auriflama",
+"p": "Antônio de Oliveira, de 57 anos, foi socorrido no quintal de casa e transferido para a Santa Casa de Araçatuba, mas não resistiu",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"Auriflama"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-investiga-morte-suspeita-de-homem-encontrado-ferido-em-auriflama/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "20:00",
+"t": "Detran-SP realiza leilão de quase 800 veículos no interior de SP com lances a partir de R$ 540; veja como participar",
+"p": "O Departamento Estadual de Trânsito de São Paulo (Detran-SP) disponibiliza 792 veículos em um novo leilão realizado em cidades das regiões de Bauru, Presidente Prudente e São José do Rio Preto. Os lances iniciais começam em R$ 540 para motocicletas e R$ 810 para carros. A etapa de pré-lances teve início nesta…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Presidente Prudente",
+"São Paulo",
+"Bauru"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/detran-sp-realiza-leilao-de-quase-800-veiculos-no-interior-de-sp-com-lances-a-partir-de-r-540-veja-como-participar/",
+"auto": true
+},
 {
 "d": "2026-11-04",
 "h": "19:49",
@@ -162,6 +226,32 @@
 },
 {
 "d": "2026-11-04",
+"h": "19:28",
+"t": "Polícia Civil investiga morte suspeita de homem encontrado ferido em Auriflama",
+"p": "A Polícia Civil instaurou um inquérito para apurar as causas da morte de Antônio de Oliveira, de 57 anos, encontrado desacordado e com graves ferimentos no último domingo (1º), em Auriflama. A vítima chegou a ser socorrida e internada em estado grave, mas não resistiu às lesões e faleceu na Unidade de Terapia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Auriflama"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-investiga-morte-suspeita-de-homem-encontrado-ferido-em-auriflama/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "19:26",
+"t": "Provão Paulista aborda vício em apostas esportivas na redação",
+"p": "A Secretaria da Educação do Estado de São Paulo (Seduc-SP) divulgou o tema da redação do Provão Paulista Seriado, aplicado nesta quarta-feira (4) para 380 mil estudantes concluintes do Ensino Médio na rede pública. Os candidatos tiveram como proposta redigir um texto dissertativo-argumentativo sobre o vício em…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/provao-paulista-aborda-vicio-em-apostas-esportivas-na-redacao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "19:25",
 "t": "Novo carregador portátil de 20.000 mAh com lanterna repõe carga com energia solar, resiste a água e a quedas e carrega até notebooks",
 "p": "A INIU lançou o Outdoor Rugged 20000, um carregador portátil para viagens, trilhas e acampamentos. O modelo reúne bateria de 20.000 mAh, lanterna com luz branca e vermelha e proteção contra água e poeira. No mercado internacional, o power bank chegou por US$ 76,99, cerca de R$ 422 em conversão direta. Para repor a…",
@@ -197,6 +287,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/caminhonete-a-servico-do-der-pega-fogo-e-e-destruida-entre-votuporanga-e-nhandeara/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "19:22",
+"t": "Polícia Civil prende homem acusado de agredir idoso de 79 anos",
+"p": "A Polícia Civil de São Paulo cumpriu, nesta quarta-feira (4), o mandado de prisão temporária contra Denis Young Kim, de 43 anos, investigado por tentativa de homicídio qualificado por motivo fútil contra um idoso de 79 anos. O suspeito apresentou-se acompanhado por seu advogado no 99º Distrito Policial, na zona sul…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-homem-acusado-de-agredir-idoso-de-79-anos/",
 "auto": true
 },
 {
@@ -7468,6 +7572,312 @@
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/terca-feira-sera-de-sol-e-chuva-em-ribeirao-preto-veja-a-previsao-do-tempo/",
 "auto": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Bragança Paulista: Fixa prazos para pagamento do Imposto Predial e Territorial Urbano - IPTU, no exercício de 2027",
+"p": "Decreto nº 5.071, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Bragança Paulista"
+],
+"src": "Diário Oficial de Bragança Paulista",
+"u": "https://data.queridodiario.ok.org.br/3507605/2026-11-03/bc25aa395fc8414d0da6a46407d9b17aa8b8fc9c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.071",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Bragança Paulista: Dispõe sobre a Planta Genérica de Valores, os valores do metro quadrado do terreno e os valores do metro quadrado da tipologia da edificação para o ano de 2027",
+"p": "Decreto nº 5.072, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Bragança Paulista"
+],
+"src": "Diário Oficial de Bragança Paulista",
+"u": "https://data.queridodiario.ok.org.br/3507605/2026-11-03/bc25aa395fc8414d0da6a46407d9b17aa8b8fc9c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.072",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Botucatu: Altera o Decreto n.º 14.014/2026 que dispõe sobre a criação da Comissão Permanente de Acompanhamento Atuarial - CPAA",
+"p": "Decreto nº 14.024, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-03/4ced2be500eb567999840d006a07533963c7d882.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.024",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Botucatu: Dispõe sobre a nomeação dos membros titulares do Grupo de Análise de Projetos (GAP) do Município de Botucatu, nos termos da Lei Municipal nº 6.969, de 20 de outubro de",
+"p": "Decreto nº 14.025, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-03/4ced2be500eb567999840d006a07533963c7d882.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.025",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Guaraçaí: Institui a Política Municipal de Alfabetização, estabelece suas diretrizes, objetivos, mecanismos de governança e monitoramento no âmbito da Rede Municipal de Ensino de Guaraçaí/SP, cria o Comitê…",
+"p": "Decreto nº 117, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Guaraçaí"
+],
+"src": "Diário Oficial de Guaraçaí",
+"u": "https://data.queridodiario.ok.org.br/3517802/2026-11-03/8ada320d5279b0e447fadd8f7d6b8cebade1219c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 117",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Guaraçaí: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 03/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Guaraçaí"
+],
+"src": "Diário Oficial de Guaraçaí",
+"u": "https://data.queridodiario.ok.org.br/3517802/2026-11-03/8ada320d5279b0e447fadd8f7d6b8cebade1219c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 03/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Itápolis: Dispõe sobre a suplementação de verbas do orçamento em vigor, nos termos do artigo 11 da Lei Ordinária nº 4.325, de 09 de dezembro de 2025",
+"p": "Decreto nº 6.665, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-03/e20d4bd18972af3de2a815ddc5db21420033103c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.665",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Itápolis: Dispõe sobre a suplementação de verbas do orçamento em vigor",
+"p": "Decreto nº 6.696, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-03/e20d4bd18972af3de2a815ddc5db21420033103c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.696",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Itápolis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 03/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-03/e20d4bd18972af3de2a815ddc5db21420033103c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 03/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Jaboticabal: Altera dispositivos dos Decretos nº",
+"p": "Decreto nº 8.567, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Jaboticabal"
+],
+"src": "Diário Oficial de Jaboticabal",
+"u": "https://data.queridodiario.ok.org.br/3524303/2026-11-03/a7576b7d725f3f9a5054578ee4ca0199af2bd33c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.567",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Macaubal: Dispõe sobre a designação dos membros do Comitê Municipal de Alfabetização do Município de Macaubal/SP, instituído pela Lei Municipal nº 740, de 16 de outubro de 2026.” ACÁCIO",
+"p": "Decreto nº 646, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Macaubal"
+],
+"src": "Diário Oficial de Macaubal",
+"u": "https://data.queridodiario.ok.org.br/3528106/2026-11-03/28d978fcb6e81354bb31775433494946e5e1120f.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 646",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Ourinhos: Dispõe sobre o expediente nas repartições públicas municipais da Administração Direta e Indireta",
+"p": "Decreto nº 8.243, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ourinhos"
+],
+"src": "Diário Oficial de Ourinhos",
+"u": "https://data.queridodiario.ok.org.br/3534708/2026-11-03/51d0990b1b2b3558a19393948b6aff6f647bb563.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.243",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Osasco: Estabelece a tarifa gratuita para a utilização dos veículos que operam no Sistema de Transporte Coletivo Urbano de Passageiros na Cidade de Osasco no Exame Nacional do Ensino Médio Enem",
+"p": "Decreto nº 15.311, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Osasco"
+],
+"src": "Diário Oficial de Osasco",
+"u": "https://data.queridodiario.ok.org.br/3534401/2026-11-03/49a9c78f15c321905012ef3fd67517d3043ecee1.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 15.311",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Pontes Gestal: Dispõe sobre a disseminação de Boas Práticas na Educação Municipal para o ano letivo de 2026",
+"p": "Decreto nº 4.524, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Pontes Gestal"
+],
+"src": "Diário Oficial de Pontes Gestal",
+"u": "https://data.queridodiario.ok.org.br/3540309/2026-11-03/de0bc1102c01096fa7f4ba10d88a94aaec3ce518.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4.524",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Penápolis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 03/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-03/435eaf89f6b169df1d70941b720e075f9603964f.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 03/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 400.000,00 e dá outras providências",
+"p": "Decreto nº 404, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-03/6241a437df63579b8bffdb30ab2d11a7b50b135e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 404",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-03",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 463.720,00 e dá outras providências",
+"p": "Decreto nº 405, publicado no Diário Oficial do município em 03/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-03/6241a437df63579b8bffdb30ab2d11a7b50b135e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 405",
+"qd": true,
+"mun": true
 },
 {
 "d": "2026-11-03",
