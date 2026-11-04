@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-03T23:06:32-03:00",
-"novos_nesta_coleta": 4,
+"atualizado": "2026-11-03T23:57:05-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,44 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-03",
+"h": "23:07",
+"t": "Voepass vai penhorar aeronave de R$ 25 milhões por determinação da Justiça",
+"p": "Justiça de São Paulo determinou a penhora da aeronave da Voepass por dívida de R$ 9 mil em hotel mineiro",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/voepass-vai-penhorar-aeronave-de-r-25-milhoes-por-determinacao-da-justica",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "23:00",
+"t": "A polêmica por trás da nova lei de Lula, que corta o auxílio-reclusão para o crime organizado",
+"p": "Sancionada pelo presidente Luiz Inácio Lula da Silva em 24 de março de 2026, a Lei 15.358/2026 (Lei Antifacção) abriu um intenso debate jurídico e político no país ao vetar o auxílio-reclusão para dependentes de presos por envolvimento com o crime organizado. A medida reacendeu a discussão nacional entre o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/a-polemica-por-tras-da-nova-lei-de-lula-que-corta-o-auxilio-reclusao-para-o-crime-organizado/",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "22:30",
+"t": "Nova rodada do Gás do Povo é dia 10: como resgatar o benefício sem perder o prazo",
+"p": "A liberação de nova rodada do programa Gás do Povo no dia 10 de novembro pela Caixa Econômica Federal consolida o fim da transferência financeira direta e impõe a retirada de cupons nas distribuidoras. O regulamento estabelece prazos de expiração que vedam o acúmulo de vouchers entre ciclos, podendo resultar no…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/nova-rodada-do-gas-do-povo-veja-como-resgatar-sem-perder-o-prazo/",
+"auto": true
+},
 {
 "d": "2026-11-03",
 "h": "22:28",
