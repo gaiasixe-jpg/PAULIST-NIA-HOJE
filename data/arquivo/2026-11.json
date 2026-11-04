@@ -3,6 +3,323 @@
 "itens": [
 {
 "d": "2026-11-04",
+"h": "12:56",
+"t": "Sócios são encontrados mortos em caçamba de caminhonete em Itapeva; polícia investiga o caso",
+"p": "Dois homens foram encontrados mortos em uma caminhonete, em Itapeva (SP), na noite de terça-feira (4). O caso está sob investigação da Polícia Civil. Segundo a Polícia Militar, as vítimas são João Batista Nunes Neto, de 47 anos, e Heleno Benedito Ferreira, de 48. Eles eram sócios e moravam em Taquarituba (SP). As…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Taquarituba",
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/socios-encontrados-mortos/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:53",
+"t": "Governo estuda criar órgão de \"conciliação\" para conflitos em concessões",
+"p": "Câmara com agências reguladoras e Procuradoria Geral do Estado (PGE) teria objetivo de padronizar procedimentos de remodelação contratual",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/governo-estuda-criar-orgao-de-conciliacao-para-conflitos-em-concessoes",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:45",
+"t": "Veículo cai em ribanceira e GCM auxilia no resgate de vítima no Jardim Carandá",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba resgatou um homem de 46 anos de idade, após acidente de trânsito à 0h30 desta quarta-feira (4), no Jardim Carandá, Zona Norte da cidade. O veículo despencou em ribanceira de aproximadamente 15 metros de altura, após o condutor perder o controle da direção. A operação se…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/veiculo-cai-em-ribanceira-e-gcm-auxilia-no-resgate-de-vitima-no-jardim-caranda/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:33",
+"t": "Dani Alonso e Capitão Augusto acompanham avanço das Casas Terapêuticas em Marília",
+"p": "Conquista do serviço voltado a pessoas com vício em álcool e drogas atende pedido do vereador Damasceno, levado pelos parlamentares.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/dani-alonso-e-capitao-augusto-acompanham-avanco-das-casas-terapeuticas-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:32",
+"t": "Espetáculo “Hilda e Caio” é destaque na programação do 1º Festival Nacional de Teatro de Fernandópolis",
+"p": "O Teatro Municipal de Fernandópolis recebe no próximo dia 20 de novembro, às 20h, a apresentação do espetáculo “Hilda e Caio”, uma das atrações mais aguardadas da programação do 1º Festival Nacional de Teatro da cidade. Dirigido e escrito pelo premiado dramaturgo Kiko Rieser, a montagem traz no elenco os atores…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/espetaculo-hilda-e-caio-e-destaque-na-programacao-do-1o-festival-nacional-de-teatro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:31",
+"t": "Jales é finalista do Prêmio Band Cidades Excelentes na categoria Educação",
+"p": "O município de Jales conquistou a indicação como finalista do Prêmio Band Cidades Excelentes 2026 na categoria Educação, entre as cidades com população de 30 mil a 100 mil habitantes. O convite oficial para a cerimônia de entrega da premiação foi formalizado à administração municipal pela representante da Band TV…",
+"tema": "Educação",
+"s": "entregue",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jales-e-finalista-do-premio-band-cidades-excelentes-na-categoria-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:30",
+"t": "Prefeitura de Ouroeste promove seminário gratuito para valorizar e capacitar artesãos locais e regionais",
+"p": "O Governo Municipal de Ouroeste, por meio da Secretaria Municipal de Cultura, realiza na próxima terça-feira, 10 de novembro, o seminário “O Ouro da Terra: como valorizar as produções artesanais locais”. O evento é gratuito e voltado para artesãos de Ouroeste, do distrito de Arabá e de demais municípios da região…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-promove-seminario-gratuito-para-valorizar-e-capacitar-artesaos-locais-e-regionais/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:29",
+"t": "São João das Duas Pontes abre programação do “Natal Encantado 2026” na Praça da Matriz",
+"p": "A Prefeitura de São João das Duas Pontes prepara o lançamento do projeto “Natal Encantado 2026”, que promete movimentar o centro do município durante as festividades do final de ano. As celebrações terão início oficial no dia 20 de novembro com o acendimento das luzes natalinas na Praça da Matriz, marcando a…",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/sao-joao-das-duas-pontes-abre-programacao-do-natal-encantado-2026-na-praca-da-matriz/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:25",
+"t": "Vereador quer calendário anual e multas para organizadores de corridas de rua",
+"p": "Proposta estabelece período de inscrição, exige alvará e prevê penalidades para cancelamentos de última hora e eventos sem autorização",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereador-quer-calendario-anual-e-multas-para-organizadores-de-corridas-de-rua/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:19",
+"t": "Boliviana é presa com drogas em fundo falso de malas em Palmital",
+"p": "Entorpecentes foram encontrados em mala de boliviana em Palmital Policiais encontraram drogas após abordagem de um ônibus que seguia de Puerto Suárez, na Bolívia, para o Rio de Janeiro.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Palmital"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/boliviana-e-presa-com-drogas-em-fundo-falso-de-malas-em-palmital/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:19",
+"t": "Passageira fica ferida após caminhão furar sinal e bater em ônibus em Ribeirão Preto; vídeo",
+"p": "Passageira foi levada para a UPA Leste após o impacto e já teve alta; motorista do caminhão fugiu sem prestar socorro",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/passageira-fica-ferida-apos-caminhao-furar-sinal-e-bater-em-onibus-em-ribeirao-preto-video/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:17",
+"t": "Hopi Pride 2027 abre venda de ingressos para edição especial de 10 anos; veja valores",
+"p": "Edição comemorativa do Hopi Pride será realizada em 24 de abril, com 12 horas de programação; ingressos do primeiro lote à venda a partir desta quarta-feira (4)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/hopi-pride-2027-abre-venda-de-ingressos-para-edicao-especial-de-10-anos-veja-valores/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:15",
+"t": "Receita Federal cumpre mandados no Alphaville em operações contra sonegação",
+"p": "Operações apuram uso de empresas de fachada para sonegar impostos e lavar dinheiro na comercialização de sebo e gordura de origem animal",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/receita-federal-cumpre-mandados-no-alphaville-em-operacoes-contra-sonegacao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:00",
+"t": "Interior de São Paulo registra queda expressiva em roubos e furtos no mês de setembro",
+"p": "Os índices de criminalidade no interior paulista apresentaram uma redução significativa durante o mês de setembro, quando comparados ao mesmo período do ano passado. Dados consolidados pela Secretaria da Segurança Pública do Estado de São Paulo (SSP-SP) apontam uma queda de 22,6% nos roubos em geral, com o total de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/interior-de-sao-paulo-registra-queda-expressiva-em-roubos-e-furtos-no-mes-de-setembro/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:00",
+"t": "Estado de SP registra queda de 19,3% nos roubos de celulares nos primeiros nove meses do ano",
+"p": "O estado de São Paulo contabilizou uma redução de 19,3% nos casos de roubos de telefones celulares entre janeiro e setembro de 2026, na comparação com o mesmo período do ano passado. Dados consolidados pela Secretaria da Segurança Pública indicam que o número de ocorrências caiu de 75.859 para 61.189 nos nove…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estado-de-sp-registra-queda-de-193-nos-roubos-de-celulares-nos-primeiros-nove-meses-do-ano/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "12:00",
+"t": "Ações integradas das forças de segurança de SP garantem a localização de quase 60 mil pessoas desaparecidas",
+"p": "O trabalho conjunto das polícias Civil, Militar e Científica do estado de São Paulo resultou na localização de 59.017 pessoas que estavam registradas como desaparecidas entre janeiro de 2023 e setembro de 2026. O volume representa um índice de solução de 78,6% dos casos notificados no período, com uma média diária…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/acoes-integradas-das-forcas-de-seguranca-de-sp-garantem-a-localizacao-de-quase-60-mil-pessoas-desaparecidas/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:57",
+"t": "Câmara de Jundiaí aprova projetos para saúde, idosos e mulheres na ciência",
+"p": "Foto: Tribuna de Jundiaí Sessão ordinária desta terça (3) aprova pauta com foco no tratamento da obesidade pelo SUS, rotas acessíveis para a terceira idade e reconhecimento esportivo",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-de-jundiai-aprova-projetos-saude-idosos-ciencia/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:54",
+"t": "Guerra, economia, IA e casos de corrupção derrotam Trump nos EUA",
+"p": "Republicanos perderam maioria na Câmara e Senado em derrota histórica",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/guerra-economia-ia-e-casos-de-corrupcao-derrotam-trump-nos-eua/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:48",
+"t": "Féfin diz que gravou vídeo para companheira ‘refletir’ no dia seguinte",
+"p": "Em discurso na Câmara, vereador atribui conflito à suspeita de traição, nega agressão e acusa terceiros de divulgar vídeo com interesses políticos. Parlamentar afirmou que protegia companheira e ainda criticou manifestação de mulheres.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/noticias/fefin-diz-que-gravou-video-para-companheira-refletir-no-dia-seguinte/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:46",
+"t": "Cozinheiro é resgatado após atear fogo em casa na zona oeste de Marília",
+"p": "Corpo de Bombeiros atuaram em ocorrência na zona oeste de Marília Morador foi socorrido inconsciente e encaminhado à UPA norte; chamas mobilizaram PM e bombeiros.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/cozinheiro-e-resgatado-apos-atear-fogo-em-casa-na-zona-oeste-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:42",
+"t": "Polícia Civil prende cinco suspeitos de furtar 74 cabeças de gado na região",
+"p": "Operação Curral do Crime cumpriu cinco mandados de prisão temporária e 11 de busca e apreensão",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-civil-prende-cinco-suspeitos-de-furtar-74-cabecas-de-gado-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:41",
+"t": "Homem é encontrado morto com \"buraco na cabeça\" em carrinho de supermercado",
+"p": "Corpo foi localizado enrolado em cobertores debaixo do viaduto Jaceguai, no centro de São Paulo. Caso é investigado pela Polícia Civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-e-encontrado-morto-com-buraco-na-cabeca-em-carrinho-de-supermercado",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:37",
+"t": "Justiça decreta prisão de empresário acusado de matar a ex e o filho dela",
+"p": "Eric Conrado Alves de Almeida está foragido. Ele é suspeito de matar a ex e o filho dela dentro de casa, em Cotia, na Grande São Paulo",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Cotia"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-determina-prisao-de-empresario-que-matou-ex-namorada-e-o-filho-dela",
+"auto": true
+},
+{
+"d": "2026-11-04",
 "h": "11:24",
 "t": "Concurso público dá nova chance para analista com remuneração inicial de R$ 11,3 mil",
 "p": "Prazo final para inscrições vai até esta quinta-feira (5); oportunidades no concurso público exigem nível superior em qualquer área",
@@ -41,6 +358,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/cubatao/cdhu-movel-oferece-atendimento-para-mutuarios-ate-14-de-novembro-em-cubatao.html",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "11:10",
+"t": "São Bernardo prevê enviar nova lei de uso do solo em dezembro",
+"p": "Após aprovação do Plano Diretor, Prefeitura elabora legislação que definirá parâmetros para construções, parcelamento de terrenos e atividades permitidas na cidade",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366759/sao-bernardo-preve-enviar-nova-lei-de-uso-do-solo-em-dezembro",
 "auto": true
 },
 {
