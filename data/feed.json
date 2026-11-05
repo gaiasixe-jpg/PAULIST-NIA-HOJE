@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-05T14:20:45-03:00",
-"novos_nesta_coleta": 58,
+"atualizado": "2026-11-05T16:01:47-03:00",
+"novos_nesta_coleta": 39,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 73 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,497 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-05",
+"h": "16:00",
+"t": "Leilão de obras de arte e almoço especial arrecadam recursos para o Hospital GACC Vale em evento neste sábado em Campos do Jordão",
+"p": "O Campos do Jordão Design Festival (CJDF) promove neste sábado (7/11), a partir das 12h, o evento beneficente “Entre Traços e Sabores”, em Campos do Jordão, no interior de São Paulo. A programação terá almoço gastronômico e leilão de obras de arte, com a renda revertida para o Hospital GACC Vale, de São José dos […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/leilao-de-obras-de-arte-e-almoco-especial-arrecadam-recursos-para-o-hospital-gacc-vale-em-evento-neste-sabado-em-campos-do-jordao/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:00",
+"t": "Ciesp Santo André promove curso sobre recuperação de créditos com inadimplentes",
+"p": "Capacitação será realizada nos dias 10 e 11 de novembro e apresentará estratégias para aprimorar a gestão de cobranças e recuperar valores em aberto e negociar",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367100/ciesp-santo-andre-promove-curso-sobre-recuperacao-de-creditos-com-inadimplentes",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:00",
+"t": "Fila por urologista cai quase pela metade em Diadema; veja ações",
+"p": "Número de pacientes à espera de consulta caiu de 1.029 para 528; programação do Novembro Azul inclui testes rápidos, palestras e atividades nas UBSs",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367103/fila-por-urologista-cai-quase-pela-metade-em-diadema-veja-acoes",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:00",
+"t": "Sabesp Praia Grande Vôlei estreia em casa na Superliga B 2026/2027",
+"p": "Fred Casagrande/Prefeitura de Praia Grande A Sabesp Praia Grande Vôlei estreia em casa na competição diante da Apan Blumenau, no dia 8 de dezembro, no Ginásio Rodrigão.",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/praiagrande/sabesp-praia-grande-volei-estreia-em-casa-na-superliga-b-2026-2027/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:00",
+"t": "Santos faz mapeamento inédito da drenagem nos morros para prevenir alagamentos",
+"p": "Marcella Biasi/Divulgação Prefeitura de Santos Diante dos impactos das mudanças climáticas e da necessidade de ampliar as ações preventivas, Santos iniciou um levantamento inédito dos sistemas de drenagem dos Morros. A primeira etapa, realizada na Nova Cintra, identificou 485 dispositivos de drenagem, distribuídos…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-faz-mapeamento-inedito-da-drenagem-nos-morros-para-prevenir-alagamentos/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:00",
+"t": "Rodovia Presidente Dutra registra 29 km de lentidão em quatro trechos; veja locais",
+"p": "Motoristas encontram lentidão em Guarulhos e Santa Isabel, no sentido São Paulo; obras na pista e tráfego intenso afetam circulação",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santa Isabel",
+"Guarulhos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-29-km-de-lentidao-em-quatro-trechos-veja-locais.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:58",
+"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal nesta quinta (5)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-nesta-quinta-5.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:52",
+"t": "Litoral de SP tem alerta de vento, chuva e frio no fim de semana; veja previsão do tempo",
+"p": "Baixada Santista e litoral norte podem registrar temporais e rajadas de vento; Inmet também prevê queda de temperatura no domingo (8)",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/clima/litoral-de-sp-tem-alerta-de-vento-chuva-e-frio-no-fim-de-semana-veja-previsao-do-tempo.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:45",
+"t": "Elon Musk anuncia megaprojeto de R$ 105 bilhões para criar fábrica de chips de inteligência artificial do tamanho de 1,3 mil Maracanãs",
+"p": "O bilionário Elon Musk anunciou um projeto ambicioso para ampliar a produção de semicondutores nos Estados Unidos. Batizada de Terafab, a iniciativa prevê a construção de uma fábrica de chips voltada à inteligência artificial (IA) no Texas, com investimento estimado em US$ 20 bilhões, o equivalente a cerca de R$…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/elon-musk-anuncia-megaprojeto-de-r-105-bilhoes-para-criar-fabrica-de-chips-de-inteligencia-artificial-do-tamanho-de-13-mil-maracanas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:44",
+"t": "Advogada esfaqueia mulher que teria \"furado fila\" de bar em SP",
+"p": "Além de advogada, a suspeita, que não foi presa, tem cargo na Prefeitura de Itapecerica da Serra, na Grande São Paulo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itapecerica da Serra"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/advogada-esfaqueia-mulher-que-teria-furado-fila-de-bar-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:43",
+"t": "Refis Ribeirão 2026 oferece até 100% de desconto em juros e multas",
+"p": "Programa permite regularizar débitos de IPTU, ITBI, ISS, Saerp, entre outros, com condições especiais de pagamento e adesão até 18 de dezembro.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/conteudo-patrocinado/prefeituraderibeiraopreto/refis-ribeirao-2026-oferece-ate-100-de-desconto-em-juros-e-multas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:43",
+"t": "Cachoeira que deságua no mar: a beleza intocada da praia do Arpoador em Peruíbe",
+"p": "Escondido no Parque Estadual Itinguçu, refúgio de ecoturismo combina banho de água doce e salgada no mesmo espaço e exige acompanhamento de guia",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Peruíbe"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/turismo/cachoeira-que-desagua-no-mar-a-beleza-intocada-da-praia-do-arpoador-em-peruibe.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:42",
+"t": "Itanhaém conclui primeira etapa de desassoreamento do Rio Campininha",
+"p": "Intervenção ampliou a capacidade de escoamento da água, contribuindo para reduzir os riscos de alagamentos",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/itanhaem-conclui-primeira-etapa-de-desassoreamento-do-rio-campininha/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:40",
+"t": "Jacareí tem 'Dia D' com exames e testes gratuitos para homens",
+"p": "Ação ocorre no sábado, dia 28, em quatro unidades de saúde, das 8h às 17h. Programação inclui testes rápidos, vacinação e solicitação de exame PSA",
+"tema": "Saúde",
+"s": "obra",
+"c": [
+"Jacareí"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/vale-do-paraiba/jacarei-tem-dia-d-com-exames-e-testes-gratuitos-para-homens.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:39",
+"t": "Sorocaba promove ações alusivas à campanha Novembro Azul nas UBSs",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), realizará, ao longo do mês, uma série de ações alusivas à campanha Novembro Azul nas Unidades Básicas de Saúde (UBSs) da cidade. Com objetivo de ampliar o acesso aos serviços, divulgar as estratégias de prevenção e promoção da saúde, a iniciativa visa…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-promove-acoes-alusivas-a-campanha-novembro-azul-nas-ubss/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:38",
+"t": "Escritor ribeirão-pretano lança livro feito em parceria com filho de 10 anos neste final de semana",
+"p": "Escritor e músico Nelson Ribeiro Barbosa lança a obra neste sábado (7), às 10h, na Biblioteca Sinhá Junqueira, no Centro de Ribeirão Preto",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/escritor-ribeirao-pretano-lanca-livro-feito-em-parceria-com-filho-de-10-anos-neste-final-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:35",
+"t": "São José dos Campos acumula mais de 3,9 mil empregos formais criados em 2026",
+"p": "Dados do Caged apontam saldo positivo de 161 carteiras assinadas em setembro, impulsionado pelo setor de serviços no município",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/vale-do-paraiba/sao-jose-dos-campos-acumula-mais-de-39-mil-empregos-formais-criados-em-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:34",
+"t": "‘Quem cuida de quem cuida?’: especialistas apontam o que mais pesa na saúde mental dos profissionais da educação",
+"p": "A saúde mental nas escolas costuma ser discutida a partir dos alunos. Mas quem cuida dos profissionais responsáveis por ensinar, acolher e acompanhar crianças e adolescentes? Professores, gestores, funcionários da direção e equipes de apoio também enfrentam desafios emocionais no ambiente escolar. A sobrecarga, a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/quem-cuida-de-quem-cuida-especialistas-apontam-o-que-mais-pesa-na-saude-mental-dos-profissionais-da-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:31",
+"t": "Rio Grande do Sul confirma duas mortes e ocorrência de tornado em três cidades",
+"p": "Divulgação/CBMRS A Defesa Civil do Rio Grande do Sul confirmou duas mortes e a ocorrência de um tornado em áreas rurais dos municípios de Erval Grande, Itatiba do Sul e Barra do Rio Azul.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Itatiba"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/rio-grande-do-sul-confirma-duas-mortes-e-ocorrencia-de-tornado-em-tres-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:31",
+"t": "Centro Público de Emprego de Santos tem 160 vagas na construção civil",
+"p": "Vagas são para funções de pedreiro, carpinteiro, encanador, calceteiro, eletricista, operador de máquinas, motorista de caminhão e ajudante de obras",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/centro-publico-de-emprego-de-santos-tem-160-vagas-na-construcao-civil/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:30",
+"t": "Ganhador dos R$ 324,8 milhões da Mega-Sena em Rondonópolis, no Mato Grosso, resgata prêmio na Caixa Econômica Federal",
+"p": "A aposta ganhadora do concurso 3077 da Mega-Sena, realizada no dia 28 de outubro, deu entrada na Caixa Econômica Federal para resgatar seu prêmio de R$ 324,8 milhões. O bilhete premiado saiu para a cidade de Rondonópolis, no Mato Grosso, e foi feito por meio dos canais digitais da Caixa e uma aposta simples, de […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/ganhador-dos-r-3248-milhoes-da-mega-sena-em-rondonopolis-no-mato-grosso-resgata-premio-na-caixa-economica-federal/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:22",
+"t": "Alerta de perigo do Inmet prevê chuva de até 100 mm e vento de até 60 km/h no interior de SP",
+"p": "Alerta do Inmet é válido ao longo desta quinta-feira (5) para o estado de São Paulo",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/alerta-de-perigo-do-inmet-preve-chuva-de-ate-100-mm-e-vento-de-ate-60-km-h-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:20",
+"t": "Datena prepara retorno ao jornalismo policial em projeto inédito de Luiz Bacci após passagens por Band, SBT, RedeTV! e TV Brasil",
+"p": "José Luiz Datena já tem uma nova casa para voltar a programação nacional. Após deixar a TV Brasil, o apresentador foi anunciado no elenco da Bacci Notícias TV, canal no YouTube idealizado e comandado por Luiz Bacci. A chegada marca mais uma mudança na trajetória profissional do jornalista, que passou por quatro…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/datena-prepara-retorno-ao-jornalismo-policial-em-projeto-inedito-de-luiz-bacci-apos-passagens-por-band-sbt-redetv-e-tv-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:19",
+"t": "Obras vão modificar entradas e saídas de condomínios na Avenida Ozanam, em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Obras na Av. Ozanam, em Jundiaí, vão reorganizar acessos de condomínios na Vila Nambi para melhorar a circulação e a segurança no trânsito.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/obras-avenida-ozanam-acessos-condominios-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:16",
+"t": "Tarcísio e Carla Morando celebram entrega da recuperação da Vila do Doce",
+"p": "Deputada articulou recursos estaduais de R$ 2,185 milhões para recuperar galeria atingida por desabamento de sete quiosques em Ribeirão Pires",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367089/tarcisio-e-carla-morando-celebram-entrega-da-recuperacao-da-vila-do-doce-",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:09",
+"t": "Ribeirão Preto será sede do ‘Miss e Mister São Paulo 2027’; Veja quando será o concurso",
+"p": "Concurso Miss e Mister São Paulo acontece entre os dias 18 e 21 de novembro, em Ribeirão Preto",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/giro-lazer-e-cultura/ribeirao-preto-sera-sede-do-miss-e-mister-sao-paulo-2027-veja-quando-sera-o-concurso/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:00",
+"t": "Neymar Jr tem pena reduzida pelo STJD e poderá enfrentar o Coritiba",
+"p": "Raul Baretta/Santos FC O Superior Tribunal de Justiça Desportiva (STJD) acatou o recurso do Santos FC e reduziu a pena do meia Neymar Jr. para apenas um jogo de suspensão no Campeonato Brasileiro, após a expulsão contra a equipe do Bahia em virtude da Lei Vini Jr. Com a decisão, o camisa 10 estará à disposição do…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/esporte/santosfc/neymar-jr-pena-reduzida-stjd/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:56",
+"t": "Cetesb libera oito dos nove pontos de monitoramento nas praias de Bertioga",
+"p": "Boletim atualizado garante bandeira verde na maior parte da orla do município; técnicos alertam contra o banho de mar após fortes chuvas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/cetesb-libera-oito-dos-nove-pontos-de-monitoramento-nas-praias-de-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:55",
+"t": "Juninho do Chicão encabeça chapa para presidente da Câmara de Diadema",
+"p": "Vereador reúne representantes de cinco partidos em composição única para disputar a Mesa Diretora no biênio 2027/2028; eleição está marcada para o dia 12",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367083/juninho-do-chicao-encabeca-chapa-para-presidente-da-camara-de-diadema",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:55",
+"t": "Força Tática prende homem suspeito de assaltar loja de utilidades em Fernandópolis",
+"p": "A Polícia Militar, por meio da equipe de Força Tática, prendeu em flagrante um homem suspeito de roubar uma loja de utilidades em Fernandópolis. O crime ocorreu no final da manhã desta quinta-feira (5), mobilizando os policiais após o acionamento das vítimas. Segundo as informações apuradas, o criminoso invadiu o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/forca-tatica-prende-homem-suspeito-de-assaltar-loja-de-utilidades-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:47",
+"t": "Coca-Cola FEMSA realiza mutirão de emprego em Jundiaí com salários de até R$ 5.987",
+"p": "Foto: Prefeitura de Jundiaí Seleção acontece no dia 13 de novembro, no Maxi Shopping, com oportunidades em cinco funções e benefícios para os contratados.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/mutirao-emprego-coca-cola-femsa-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:34",
+"t": "Santiago Peña, presidente do Paraguai, renuncia ao cargo após crise bancária no país",
+"p": "Presidente era alvo de um processo de impeachment, apoiado inclusive pela base do governo",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/santiago-pena-presidente-do-paraguai-renuncia-ao-cargo-apos-crise-bancaria-no-pais/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:30",
+"t": "Ribeirão Preto muda idade para rastrear diabetes e altera teste de diagnóstico na rede pública",
+"p": "Adultos sem sintomas de diabetes passam a ser avaliados a partir dos 35 anos nos postos de saúde; exame de tolerância à glicose passa a durar uma hora",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/ribeirao-preto-muda-idade-para-rastrear-diabetes-e-altera-teste-de-diagnostico-na-rede-publica/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:28",
+"t": "Derrotado nas eleições, Ciro Nogueira se reúne com Tarcísio em SP",
+"p": "Presidente nacional do Progressistas encontra governador no Palácio dos Bandeirantes, ao lado de deputado federal Maurício Neves",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/derrotado-nas-eleicoes-ciro-nogueira-se-reune-com-tarcisio-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:26",
+"t": "Após cobranças, Prefeitura inicia manutenção em fonte da Praça Fernando Jacob em Fernandópolis",
+"p": "Uma equipe de manutenção da Prefeitura de Fernandópolis iniciou nesta quinta-feira (5) os trabalhos de reparo na fonte de água da Praça Fernando Jacob, um dos principais cartões-postais do município. A intervenção ocorre após uma série de reportagens e cobranças veiculadas pela imprensa local a respeito da…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/apos-cobrancas-prefeitura-inicia-manutencao-em-fonte-da-praca-fernando-jacob-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:25",
+"t": "Vigilância Sanitária de Votuporanga alerta comerciantes sobre golpe do Pix no WhatsApp",
+"p": "A Secretaria Municipal da Saúde de Votuporanga emitia um alerta aos comerciantes locais a respeito de uma tentativa de fraude que utiliza indevidamente o nome da Vigilância Sanitária Municipal. Proprietários de estabelecimentos relataram ter recebido mensagens no aplicativo WhatsApp de criminosos que se passam por…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vigilancia-sanitaria-de-votuporanga-alerta-comerciantes-sobre-golpe-do-pix-no-whatsapp/",
+"auto": true
+},
 {
 "d": "2026-11-05",
 "h": "14:19",
@@ -127,6 +618,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/turismo/capital-nacional-do-doce-cidade-conquista-turistas-com-receitas-centenarias-casaroes-historicos-e-praias-de-agua-doce-que-surpreendem-visitantes/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "14:13",
+"t": "Cobradora de ônibus encontra filhote de urubu, se encanta pela ave e passa três meses levando comida e água todos os dias para cuidar dela",
+"p": "Uma cobradora de ônibus de Curitiba, no Paraná, encontrou uma companhia inusitada durante sua rotina de trabalho: um filhote de urubu-de-cabeça-preta. Depois de se encantar pela ave, Edna de Moraes passou a acompanhar seu crescimento e a levar água e comida para ajudá-la a se desenvolver. A história foi publicada…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/cobradora-de-onibus-encontra-filhote-de-urubu-se-encanta-pela-ave-e-passa-tres-meses-levando-comida-e-agua-todos-os-dias-para-cuidar-dela/",
 "auto": true
 },
 {
@@ -2801,6 +3304,34 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/viver-bem/conquistar-um-cliente-ja-nao-basta-por-que-as-relacoes-comerciais-ficaram-mais-complexas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "00:00",
+"t": "Prefeitura realiza Feira Meu Primeiro Emprego nesta sexta com oferta de 400 vagas",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67707",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "00:00",
+"t": "Prudente representa Oeste Paulista em Seminário Estadual de Regionalização da Saúde",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67706",
 "auto": true
 },
 {
