@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-04T20:48:46-03:00",
-"novos_nesta_coleta": 25,
+"atualizado": "2026-11-04T22:13:29-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 50 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,206 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-04",
+"h": "22:06",
+"t": "Debatedores divergem sobre projeto de lei para ampliar concorrência no mercado de gás natural",
+"p": "Renato Araujo / Câmara dos Deputados Duas comissões da Câmara debateram o assunto Audiência pública conjunta das comissões de Desenvolvimento Econômico e de Minas e Energia discutiu o Projeto de Lei (PL) 5802/25, de autoria do deputado Kim Kataguiri (Missão-SP). A proposta trata da desconcentração do mercado de gás…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/debatedores-divergem-sobre-projeto-de-lei-para-ampliar-concorrencia-no-mercado-de-gas-natural/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:48",
+"t": "Polícia prende empresário suspeito de matar a ex e o filho dela em Cotia",
+"p": "Eric Conrado Alves de Almeida, suspeito de matar a ex e o filho dela, estava foragido e foi encontrado em uma residência na zona oeste de SP",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Cotia"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-prende-empresario-suspeito-de-matar-a-ex-e-o-filho-dela-em-cotia",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:43",
+"t": "Polícia Civil prende dois homens por furto a condomínio e roubos em série",
+"p": "A Polícia Civil de Araçatuba prendeu, na manhã desta quarta-feira (4), dois homens suspeitos de envolvimento em diferentes crimes patrimoniais registrados no município. As prisões foram efetuadas em ações distintas decorrentes de investigações conduzidas pelas equipes locais. Um dos investigados é apontado como…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-dois-homens-por-furto-a-condominio-e-roubos-em-serie/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:42",
+"t": "Empresário é preso no Aeroporto de Rio Preto por dívida de R$ 1,2 milhão em pensão alimentícia",
+"p": "Um empresário de 52 anos foi preso pela Polícia Civil na manhã desta quarta-feira (4), ao desembarcar no Aeroporto Estadual Professor Eribelto Manoel Reino, em São José do Rio Preto. O homem possuía um mandado de prisão em aberto decorrente de um débito de pensão alimentícia acumulado em mais de R$ 1,2 milhão. O…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/empresario-e-preso-no-aeroporto-de-rio-preto-por-divida-de-r-12-milhao-em-pensao-alimenticia/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:40",
+"t": "Polícia Civil prende três suspeitos de fraudar compras virtuais",
+"p": "Policiais do Departamento de Operações Policiais Estratégicas (Dope) prenderam em flagrante três pessoas nesta quarta-feira (4), na zona leste de São Paulo, em uma operação voltada ao combate de fraudes em compras realizadas pela internet. O grupo é investigado por utilizar documentos falsos e comprovantes de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-tres-suspeitos-de-fraudar-compras-virtuais/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:34",
+"t": "Defesa Civil de SP alerta para risco de temporais em diferentes regiões do estado",
+"p": "Aviso vale entre quinta-feira (5) e sábado (7). Instabilidades podem provocar chuva forte, rajadas de vento de até 80km/h, descargas elétricas e queda de granizo; população deve adotar medidas preventivas. A Defesa Civil do Estado de São Paulo emitiu um alerta para todo o território paulista devido à previsão de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/defesa-civil-de-sp-alerta-para-risco-de-temporais-em-diferentes-regioes-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:31",
+"t": "Tornados e tempestades atingem Santa Catarina e Rio Grande do Sul; instabilidade avança para SP",
+"p": "Tornados e tempestades severas causaram destruição e deixaram dezenas de desabrigados na Região Sul do país nesta quarta-feira (4). A Defesa Civil de Santa Catarina confirmou a passagem de tornados nos municípios de Chapecó e Xanxerê, no oeste catarinense, com rajadas de vento que atingiram até 126 km/h. O mau…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tornados-e-tempestades-atingem-santa-catarina-e-rio-grande-do-sul-instabilidade-avanca-para-sp/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:30",
+"t": "STF derruba lei estadual que dava liberdade para pais proibirem a presença de filhos em aulas sobre gênero e sexualidade",
+"p": "O Supremo Tribunal Federal (STF) derrubou a lei estadual do Maranhão, que concedia aos pais o direito de proibir a presença dos filhos em aulas ou projetos pedagógicos sobre gênero e sexualidade. A decisão, tomada na ADI 7883, gera dúvidas práticas para pais e mães de alunos da rede pública e privada em todo o […]",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/stf-derruba-lei-estadual-que-dava-liberdade-para-pais-proibirem-a-presenca-de-filhos-em-aulas-sobre-genero-e-sexualidade/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:28",
+"t": "Idosa fica ferida após ser derrubada por ladrão durante assalto na Vila Tibério",
+"p": "Idosa foi arrastada durante o roubo, registrado por câmera de segurança, na madrugada de terça-feira (3), em Ribeirão Preto",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/idosa-fica-ferida-apos-ser-derrubada-por-ladrao-durante-assalto-na-vila-tiberio/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:20",
+"t": "Detran-SP leiloa quase 800 veículos com lances a partir de R$ 540; veja como participar",
+"p": "Foto: Divulgação/Governo de São Paulo Leilão online começa em 9 de novembro e oferece carros, motos e sucatas; interessados já podem apresentar pré-lances.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/leilao-detran-sp-792-veiculos-lances-540-reais/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:20",
+"t": "Justiça quebra sigilo de processo sobre queda de avião da Voepass e revela mensagens de funcionários antes da tragédia",
+"p": "Documento com mais de 81 mil páginas reúne conversas recuperadas do celular de comissária que morreu no acidente em Vinhedo; em uma delas, ex-mecânico afirmou que aviões 'só não caíam porque Deus gostava muito deles'",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Vinhedo"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/justica-quebra-sigilo-de-processo-sobre-queda-de-aviao-da-voepass-e-revela-mensagens-de-funcionarios-antes-da-tragedia/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:04",
+"t": "Pedras de até 318 kg se movem sozinhas no deserto e cientistas descobrem o que provoca o fenômeno misterioso",
+"p": "As marcas no barro endurecido permanecem visíveis muito depois que a lâmina de água e o gelo fino já evaporaram, o que por décadas alimentou hipóteses sem nenhuma filmagem do deslocamento real. Ilustração criada com Inteligência Artificial Pedras que se movem sozinhas no Vale da Morte, nos EUA, intrigaram…",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/pedras-de-ate-318-kg-se-movem-sozinhas-no-deserto-e-cientistas-descobrem-o-que-provoca-o-fenomeno-misterioso/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:03",
+"t": "Saiu o resultado! Veja os números sorteados da Mega-Sena nesta quarta-feira (4/11) da com prêmio acumulado em R$ 47,3 milhões",
+"p": "A Caixa Econômica Federal sorteou na noite desta quarta-feira (4/11) as seis dezenas do concurso 3081 da Mega-Sena, que poderá pagar um prêmio de R$ 47,3 milhões para quem acertar todas os números. Confira os números: Como apostar na Mega-Sena A Mega-Sena é a principal loteria do país e premia quem acertar os seis…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/saiu-o-resultado-veja-os-numeros-sorteados-da-mega-sena-nesta-quarta-feira-4-11-da-com-premio-acumulado-em-r-473-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "21:01",
+"t": "Aos 38 anos, mulher abandona vida na cidade, passa 1 ano e meio construindo casa de barro com 12 para-brisas no lugar das janelas e faz telhado de coração",
+"p": "Aos 22 anos, Mariana Di Pascuales decidiu deixar a rotina urbana de Rosario, na Argentina, e buscar uma vida mais próxima da natureza. A mudança abriu caminho para experiências que mais tarde influenciariam a construção da própria casa, de barro! Durante uma temporada no Uruguai, ela viveu sem água encanada nem…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/aos-38-anos-mulher-abandona-vida-na-cidade-passa-1-ano-e-meio-construindo-casa-de-barro-com-12-para-brisas-no-lugar-das-janelas-e-faz-telhado-de-coracao/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "20:55",
+"t": "Homem sofre fratura após ser atropelado na Rodovia Francisco Von Zuben",
+"p": "Acidente aconteceu na noite desta quarta-feira (4); na terça (3), outros dois acidentes foram registrados em um trecho da rodovia, cerca de 500 metros abaixo do local do atropelamento",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/homem-sofre-fratura-apos-ser-atropelado-na-rodovia-francisco-von-zuben/",
+"auto": true
+},
 {
 "d": "2026-11-04",
 "h": "20:30",
