@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-05T16:01:47-03:00",
-"novos_nesta_coleta": 39,
+"atualizado": "2026-11-05T16:59:11-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,258 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-05",
+"h": "16:53",
+"t": "Carro capota após batida traseira na Rodovia Santos Dumont",
+"p": "Acidente aconteceu no km 54 em Indaiatuba e deixou uma vítima com ferimentos moderados",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Indaiatuba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/carro-capota-apos-batida-traseira-na-rodovia-santos-dumont/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:43",
+"t": "Helicóptero Águia da PM faz buscas por procurado da Justiça em Campinas",
+"p": "Suspeito fugiu de abordagem policial e pulou por telhados de casas no bairro São Gabriel",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/helicoptero-aguia-da-pm-faz-buscas-por-procurado-da-justica-em-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:38",
+"t": "Tooro Nagashi reúne mais de 25 mil pessoas e movimenta mais de R$ 1 milhão em Registro",
+"p": "cultura",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/tooro-nagashi-reune-mais-de-25-mil-pessoas-e-movimenta-mais-de-r-1-milhao-em-registro/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:34",
+"t": "Governo de SP destina R$ 23,8 milhões para obras de prevenção a desastres em 36 municípios",
+"p": "O governador Tarcísio de Freitas formalizou, nesta quinta-feira (5), a assinatura de 25 novos convênios e a entrega de 11 obras voltadas à prevenção e mitigação de riscos em 36 municípios paulistas. As ações somam R$ 23,8 milhões em investimentos do Estado e visam preparar as cidades para o período de chuvas…",
+"tema": "Meio ambiente",
+"s": "entregue",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-destina-r-238-milhoes-para-obras-de-prevencao-a-desastres-em-36-municipios/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:33",
+"t": "Ilhabela é destaque em seminário nacional de educação em Belém",
+"p": "União permite ampliar as experiências educativas para além da sala de aula e oferece novas oportunidades de aprendizagem aos estudantes",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/educacao/ilhabela-e-destaque-em-seminario-nacional-de-educacao.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:32",
+"t": "Operação da PM apreende 114 celulares escondidos em cintas modeladoras",
+"p": "A Polícia Militar apreendeu 114 aparelhos celulares, avaliados em cerca de R$ 350 mil, durante a Operação Depósito Brás, realizada nesta quinta-feira (5) na região central da capital paulista. A carga eletrônica era transportada de forma clandestina por duas passageiras a bordo de um ônibus de viagem que partiu de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-da-pm-apreende-114-celulares-escondidos-em-cintas-modeladoras/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:31",
+"t": "Sabesp realiza obras para reforçar abastecimento de água em bairros de Mongaguá",
+"p": "A previsão é que os serviços sejam concluídos até 10 de dezembro",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/sabesp-realiza-obras-para-reforcar-abastecimento-de-agua-em-bairros-de-mongagua/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:31",
+"t": "Polícia Civil prende homem acusado de agredir idoso de 79 anos",
+"p": "Uma operação de inteligência realizada pela Polícia Civil de São Paulo culminou na prisão de um homem de 43 anos investigado por agredir brutalmente um idoso de 79 anos em Osasco, na Grande São Paulo. O ataque, ocorrido no dia 30 de outubro no bairro Helena Maria, foi registrado por câmeras de segurança e causou […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Osasco"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-homem-acusado-de-agredir-idoso-de-79-anos-2/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:30",
+"t": "Urupês suspende ‘Bolsa Mounjaro’ após decisão da Justiça e deixa 400 pacientes sem aplicação de tirzepatida pelo SUS",
+"p": "A Justiça de São Paulo determinou a suspensão das aplicações de tirzepatida manipulada oferecidas pela Prefeitura de Urupês, no interior paulista, a pacientes com obesidade atendidos pela rede pública. A decisão é provisória e foi tomada em primeira instância após ação movida pela Eli Lilly, fabricante do Mounjaro.…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Urupês"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/urupes-suspende-bolsa-mounjaro-apos-decisao-da-justica-e-deixa-400-pacientes-sem-aplicacao-de-tirzepatida-pelo-sus/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:29",
+"t": "Saldo de empregos em Sorocaba cresce 45% em setembro",
+"p": "A empregabilidade sorocabana continua aquecida assim como o desenvolvimento econômico atual. Prova disso é que em setembro de 2026, o município registrou saldo positivo de 214 vagas de empregos com carteira assinada (11.799 admissões ante 11.585 desligamentos), ou seja um salto de 45,57% em relação ao mesmo período…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/saldo-de-empregos-em-sorocaba-cresce-45-em-setembro/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:26",
+"t": "Secretaria da Mulher e Instituto Kanjiko do Brasil realizam evento de Capacitação Profissional gratuito para mulheres",
+"p": "Fotos: Divulgação A Secretaria da Mulher (Semul) reaizou, em parceria com o Instituto Kanjiko do Brasil, uma ação de Capacitação Profissional, com foco no ingresso ao mercado de trabalho. A capacitação, oferecida envolveu temas como: carreira, como se portar na entrevista de emprego e preparação de currículo, tudo…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-e-instituto-kanjiko-do-brasil-realizam-evento-de-capacitacao-profissional-gratuito-para-mulheres/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:20",
+"t": "Artesã começa a fazer difusores durante recuperação de problemas de saúde, perde emprego na pandemia e leva a própria marca a feira em São Paulo",
+"p": "Antes de apresentar produtos em uma feira, Lucimara Jovenacci encontrou em um trabalho manual uma nova atividade para ocupar os dias de recuperação. Um vídeo ensinando a preparar difusores e um kit de essências deram origem às primeiras experiências com aromas. Depois, durante a pandemia, a perda do emprego levou a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/artesa-comeca-a-fazer-difusores-durante-recuperacao-de-problemas-de-saude-perde-emprego-na-pandemia-e-leva-a-propria-marca-a-feira-em-sao-paulo-nn/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:15",
+"t": "Bertioga inicia substituição do telhado do Hospital Municipal",
+"p": "A nova cobertura garante mais segurança e durabilidade à unidade",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/bertioga-inicia-substituicao-do-telhado-do-hospital-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:13",
+"t": "IFSP abre 40 vagas para curso técnico gratuito em Administração em Jundiaí",
+"p": "Foto: Divulgação/IFSP Oportunidade é destinada a estudantes do Ensino Médio e a quem já concluiu os estudos; ingresso está previsto para o primeiro semestre de 2027",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/ifsp-vagas-curso-tecnico-administracao-jundiai-2027/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:07",
+"t": "Mudanças na Avenida Ozanam reduzem em até 40% tempo de percurso de ônibus em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Melhorias na Avenida Ozanam, em Jundiaí, reduziram em até 40% o tempo de percurso da linha 514. Novas obras também reorganizam acessos de condomínios.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/onibus-linha-514-tempo-viagem-avenida-ozanam-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:07",
+"t": "1ª Mostra de Dramaturgia Experimental de Sorocaba é realizada neste fim de semana (7 e 8)",
+"p": "Fotos: Divulgação Sorocaba recebe, neste fim de semana (7 e 8 de outubro), a programação especial da sua primeira edição da Mostra de Dramaturgia Experimental, no Nauta Estúdio. Com entrada gratuita, a atração reunirá textos inéditos e experimentações cênicas com recorte feminino e diferentes formatos, com leituras…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/1a-mostra-de-dramaturgia-experimental-de-sorocaba-e-realizada-neste-fim-de-semana-7-e-8/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:06",
+"t": "Sabesp anuncia suspensão temporária da emissão de contas de água em Itapeva; medida começa nesta sexta-feira (6)",
+"p": "Durante coletiva de imprensa realizada nesta quinta-feira (5), foram anunciadas novas medidas relacionadas à crise da água em Itapeva. Entre os principais pontos está a suspensão da emissão de contas pela Sabesp, inicialmente pelo período de um ciclo de faturamento, de 6 de novembro a 5 de dezembro. Segundo as…",
+"tema": "Saneamento",
+"s": "alerta",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/suspensao-contas-agua-itapeva/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:02",
+"t": "IBGE abre 27 mil vagas com salário fixo, produtividade e auxílio-alimentação de R$ 1,1 mil",
+"p": "Inscrições para o processo seletivo do IBGE abrem nesta sexta-feira (6) pela Cesgranrio; contratos são válidos por até seis meses",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/ibge-abre-27-mil-vagas-com-salario-fixo-produtividade-e-auxilio-alimentacao-de-r-11-mil/",
+"auto": true
+},
 {
 "d": "2026-11-05",
 "h": "16:00",
@@ -142,6 +394,20 @@
 "c": [],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-nesta-quinta-5.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "15:57",
+"t": "Cubatão vira refém dos caminhões: congestionamentos ameaçam a rotina dos moradores e levam autoridades a discutir medidas para frear o caos",
+"p": "O trânsito de caminhões em Cubatão entrou na pauta de uma reunião entre autoridades, representantes do setor portuário e lideranças comunitárias nesta quarta-feira (4). O encontro discutiu alternativas para reduzir os congestionamentos e minimizar os impactos dos veículos pesados na mobilidade urbana da Baixada…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/cubatao-vira-refem-dos-caminhoes-congestionamentos-ameacam-a-rotina-dos-moradores-e-levam-autoridades-a-discutir-medidas-para-frear-o-caos/",
 "auto": true
 },
 {
@@ -3332,6 +3598,48 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67706",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "00:00",
+"t": "Paratriathlon da APOP/Semepp conquista prata e bronze em competição no Chile",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67710",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "00:00",
+"t": "Setur promove Festival de Pesca neste domingo no Balneário; inscrições seguem abertas",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67709",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "00:00",
+"t": "Semepp promove Festival e Torneio de Vôlei de Verão para categorias de base neste sábado",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67708",
 "auto": true
 },
 {
