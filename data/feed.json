@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-04T23:19:40-03:00",
-"novos_nesta_coleta": 1,
+"atualizado": "2026-11-05T01:00:12-03:00",
+"novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,74 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-05",
+"h": "00:55",
+"t": "Seedorf tranquiliza sobre Garro, explica Memphis e culpa a chuva pelo jogo travado no Majestoso",
+"p": "Rodrigo Coca/Agência Corinthians Seedorf defendeu Yuri Alberto, que perdeu chances e foi expulso no confronto",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/seedorf-tranquiliza-sobre-garro-explica-memphis-e-culpa-a-chuva-pelo-jogo-travado-no-majestoso/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "00:02",
+"t": "O que assistir no cinema? Conheça 5 estreias desta quinta-feira (05/11)",
+"p": "Se você está pensando em aproveitar o tempo livre para ir ao cinema, mas ainda não decidiu o que assistir, vale conferir as novidades que chegam às telonas nesta quinta-feira, 5 de novembro. A programação reúne produções de diferentes gêneros, com histórias que passeiam por humor, drama, aventura e animação. São…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/o-que-assistir-no-cinema-conheca-5-estreias-desta-quinta-feira-05-11/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "00:02",
+"t": "Conquistar um cliente já não basta: por que as relações comerciais ficaram mais complexas?",
+"p": "Conquistar um cliente corporativo pode significar convencer muito mais gente do que o executivo responsável pela contratação. Uma decisão de compra entre empresas envolve, em média, 13 participantes internos e nove influenciadores externos, segundo o estudo “The State of Business Buying, 2026“, divulgado pela…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/conquistar-um-cliente-ja-nao-basta-por-que-as-relacoes-comerciais-ficaram-mais-complexas/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "23:53",
+"t": "Papai Noel chega ao Brisamar Shopping neste domingo (8) com espetáculo musical e atração surpresa em São Vicente",
+"p": "O espírito natalino toma conta de São Vicente a partir deste domingo (8) com a aguardada chegada oficial do Papai Noel ao Brisamar Shopping. A programação especial tem início marcado para as 17 horas e inaugura a cenografia temática de fim de ano no empreendimento do litoral. Com o tema Natal no Parque Nevado, o […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/sao-vicente/papai-noel-chega-ao-brisamar-shopping-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "23:25",
+"t": "Água muito quente no banho pode dilatar vasos e provocar tontura ou desmaio; veja como prevenir a queda de pressão no banheiro",
+"p": "Sentir tontura depois de um banho quente pode parecer apenas um mal-estar passageiro. No entanto, essa reação pode estar relacionada a uma queda temporária da pressão arterial, provocada pela exposição prolongada a temperaturas elevadas. O desconforto costuma aparecer ao desligar o chuveiro, sair da banheira ou…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/agua-muito-quente-no-banho-pode-dilatar-vasos-e-provocar-tontura-ou-desmaio-veja-como-prevenir-a-queda-de-pressao-no-banheiro/",
+"auto": true
+},
 {
 "d": "2026-11-04",
 "h": "22:06",
