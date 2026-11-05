@@ -3,6 +3,131 @@
 "itens": [
 {
 "d": "2026-11-05",
+"h": "07:00",
+"t": "Fernandópolis chega a 2026 com contas aprovadas e R$ 114,5 milhões reservados para a saúde",
+"p": "Cidade-polo do Noroeste Paulista destina cerca de um quarto do orçamento à saúde e se organiza com municípios vizinhos em consórcio regional",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fernandopolis-chega-a-2026-com-contas-aprovadas-e-r-1145-milhoes-reservados-para-a-saude/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:49",
+"t": "Resultado do Super Sete 918: concurso acumula para R$ 200 mil; confira as colunas",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Ninguém acertou as sete colunas em 04/11; uma aposta levou R$ 21,7 mil com seis acertos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-super-sete-concurso-918/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:37",
+"t": "Resultado da Lotofácil 3821: ninguém acerta 15 dezenas e prêmio vai a R$ 5 milhões",
+"p": "Foto: Depositphotos Concurso de 04/11 teve 158 apostas com 14 acertos; confira todas as 15 dezenas.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotofacil-concurso-3821/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:35",
+"t": "Resultado da Quina 7159: aposta única ganha R$ 11,8 milhões; veja os cinco números",
+"p": "Foto: Depositphotos Concurso sorteado em 04/11 teve um acerto na faixa principal por aposta feita no canal eletrônico.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-quina-concurso-7159/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:27",
+"t": "Frente fria aumenta risco de temporais e Inmet emite alerta para Ribeirão Preto; Veja previsão",
+"p": "Inmet prevê instabilidade ao longo de quinta-feira (5), com pancadas de chuva, rajadas de vento e possibilidade de granizo no interior paulista",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-aumenta-risco-de-temporais-e-inmet-emite-alerta-para-ribeirao-preto-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:15",
+"t": "Escondido no Vale do Paraíba, complexo natural tem cachoeira com três poços de águas cristalinas e trilha fácil para bate e volta saindo de SP",
+"p": "Localizada em Lavrinhas, no interior de São Paulo, a Cachoeira da Pedreira é uma ótima opção de passeio para um bate e volta de fim de semana. O complexo fica na região da Capela do Jacu e acompanha o curso do Rio do Braço, com quedas d’água, rochosas e diversos poços de água transparente. Na […]",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Lavrinhas",
+"Pedreira"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/escondido-no-vale-do-paraiba-complexo-de-cachoeira-tem-tres-pocos-de-aguas-cristalinas-e-trilha-facil-para-bate-e-volta-saindo-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:11",
+"t": "Caixa Tem: veja como consultar adiantamento do Bolsa Família de novembro e dezembro pelo aplicativo",
+"p": "Os beneficiários do Bolsa Família já podem se preparar para os pagamentos antecipados de novembro e dezembro de 2026. O calendário extraordinário, anunciado pelo Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), concentra os depósitos em três datas por mês, de acordo com o último…",
+"tema": "Assistência social",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/caixa-tem-veja-como-consultar-adiantamento-do-bolsa-familia-de-novembro-e-dezembro-pelo-aplicativo/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:03",
+"t": "Impasse sobre rotatória no Shopping Fernandópolis se arrasta há meses e gera risco no trânsito",
+"p": "O que foi anunciado como uma alteração provisória no tráfego durante a realização da Expo Fernandópolis tornou-se um problema recorrente para quem circula pelas imediações do Shopping Center Fernandópolis. A indefinição sobre a construção de uma rotatória definitiva no local tem provocado preocupação entre…",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/impasse-sobre-rotatoria-no-shopping-fernandopolis-se-arrasta-ha-meses-e-gera-risco-no-transito/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:02",
+"t": "Contribuintes de Fernandópolis podem renegociar dívidas municipais com descontos pelo REFIS",
+"p": "A Prefeitura de Fernandópolis abriu a adesão ao Programa de Recuperação Fiscal (REFIS), oferecendo aos contribuintes a oportunidade de quitar e regularizar débitos municipais de forma presencial ou digital. Os moradores interessados em acertar a situação financeira junto ao município podem optar por negociar as…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/contribuintes-de-fernandopolis-podem-renegociar-dividas-municipais-com-descontos-pelo-refis/",
+"auto": true
+},
+{
+"d": "2026-11-05",
 "h": "06:01",
 "t": "Ouroeste sedia capacitação do Coren e vira polo de formação para aplicação de Implanon",
 "p": "O município de Ouroeste sediou nesta quarta-feira (21) um curso de capacitação técnica promovido pelo Conselho Regional de Enfermagem (Coren), consolidando a cidade como polo regional para a qualificação de profissionais de saúde na implantação do método contraceptivo Implanon. A iniciativa contou com o suporte do…",
@@ -8556,6 +8681,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67695",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "Altera a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+"p": "Decreto estadual nº 70.956, de 03/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.956",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213076",
+"auto": true
+},
+{
+"d": "2026-11-03",
+"h": "00:00",
+"t": "5 decretos de crédito suplementar no Orçamento do Estado (03/11)",
+"p": "Reforço de verbas (crédito suplementar) para: Administração Pública; Ministério Público; Fundação para Desenvolvimento da Educação - FDE; Secretaria da Educação; Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto. Decretos nº 70.951, 70.952, 70.953, 70.954, 70.955.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.951 a 70.955",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213071",
 "auto": true
 },
 {
