@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-05T08:12:43-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-05T09:02:46-03:00",
+"novos_nesta_coleta": 24,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,312 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | The read operation timed out | curl: curl: (28) Operation timed out after 60001 milliseconds with 0 bytes received\n"
 }
 ],
 "itens": [
+{
+"d": "2026-11-05",
+"h": "09:03",
+"t": "Prefeitura abre as inscrições para o último Mutirão de Emprego de 2026",
+"p": "Última edição do Mutirão em 2026 é uma excelente oportunidade para aproveitar as vagas surgidas no final do ano para empregos efetivos e temporários. A Prefeitura de Sorocaba, por meio das Secretarias de Relações do Trabalho e Qualificação Profissional (Sert) e de Desenvolvimento Econômico (Sede), com o apoio da…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-abre-as-inscricoes-para-o-ultimo-mutirao-de-emprego-de-2026/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:57",
+"t": "Motorista perde o controle ao desviar de capivara e capota caminhonete na vicinal entre Indiaporã e Ouroeste",
+"p": "Um acidente de trânsito foi registrado na madrugada desta quinta-feira (5) na rodovia vicinal que interliga os municípios de Indiaporã e Ouroeste. O condutor de uma caminhonete VW Amarok, de cor preta, acabou perdendo o controle da direção após tentar desviar de um animal na pista. De acordo com as informações…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Indiaporã",
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motorista-perde-o-controle-ao-desviar-de-capivara-e-capota-caminhonete-na-vicinal-entre-indiapora-e-ouroeste/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:56",
+"t": "Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara",
+"p": "Alcolumbre disse que atendeu a um pedido do presidente da Câmara, Hugo Motta (Republicanos-PB). Agora, caberá à Câmara dos Deputados debater o tema em uma comissão especial.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:49",
+"t": "Após 19 dias de internação em estado grave, paciente do Hospital Municipal de Mogi recebe alta e é homenageado",
+"p": "Mario Maldonado, de 74 anos, enfrentou um quadro de insuficiência respiratória aguda, associado a outras complicações clínicas, e teve a recuperação celebrada por profissionais do hospital",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/apos-19-dias-de-internacao-em-estado-grave-paciente-do-hospital-municipal-de-mogi-recebe-alta-e-e-homenageado/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:47",
+"t": "Ladrões usam bloqueador de alarme para furtar objetos de veículos em postos de rodovias de SP",
+"p": "Reprodução/CCR Rodoanel Quadrilhas têm usado um dispositivo eletrônico apelidado pela polícia de \"Chapolin\", capaz de bloquear o sinal do alarme e impedir",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/ladroes-usam-bloqueador-de-alarme-para-furtar-objetos-de-veiculos-em-postos-de-rodovias-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:40",
+"t": "Defesa Civil alerta para risco de temporais em São Paulo desta quinta (5) até sábado (7)",
+"p": "Raimundo Rosa/PMS As simulações atmosféricas mais recentes do CGE (Centro de Gerenciamento de Emergências Climáticas) da Prefeitura",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/defesa-civil-alerta-para-risco-de-temporais-em-sao-paulo-desta-quinta-5-ate-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:38",
+"t": "Serra Nova da Tamoios fecha às 21h para passagem de megacarga",
+"p": "Serra Antiga recebe o trânsito nos dois sentidos na noite de quinta. O Contorno Sul terá bloqueio em outra etapa da operação.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/tamoios-serra-nova-megacarga-5-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:38",
+"t": "Taubaté debate regras para regularização de imóveis nesta quinta",
+"p": "Audiência está marcada para as 16h30, no Centro de Formação dos Professores, e discutirá um projeto de lei municipal.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Taubaté"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/taubate-audiencia-regularizacao-fundiaria-5-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:38",
+"t": "Taubaté muda horários de 19 linhas e oferece ônibus para o mirante de Quiririm",
+"p": "Tabelas entraram em vigor em 1º de novembro. A linha 22 é a opção indicada pela Prefeitura para o Mirante Pôr do Sol.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Taubaté"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/taubate-novos-horarios-onibus-mirante-quiririm-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:38",
+"t": "Defesa Civil alerta para risco de temporais em SP até sábado",
+"p": "Comunicado estadual prevê possibilidade de chuva forte, raios e rajadas. Avisos de curto prazo podem ser consultados no painel da Defesa Civil.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/defesa-civil-risco-temporais-sp-5-a-7-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:34",
+"t": "Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara",
+"p": "Presidente do Senado disse que atendeu a pedido de Hugo Motta",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:32",
+"t": "Veja empresas farmacêuticas suspensas em operação contra remédios falsos",
+"p": "Operação do Ministério Público de São Paulo cumpre mandados contra investigados por esquema de falsificação de remédios para tratar câncer",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/veja-empresas-farmaceuticas-suspensas-em-operacao-contra-remedios-falsos",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:28",
+"t": "Vitória democrata no Senado amplia pressão sobre tarifas de Trump ao Brasil",
+"p": "Reprodução/ Casa Branca A vitória dos democratas nos midterms não afeta, no curto prazo, as tarifas impostas pelo presidente Donald Trump sobre o Brasil.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Casa Branca"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/vitoria-democrata-no-senado-amplia-pressao-sobre-tarifas-de-trump-ao-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:25",
+"t": "Prefeitura apura se empresa superestimou exames em São Caetano",
+"p": "Paço diz ser preciso investigar melhor a realização de ao menos 35 mil procedimentos da administração anterior; líder de governo sugere CPI",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366956/prefeitura-apura-se-empresa-superestimou-exames-em-sao-caetano",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:24",
+"t": "Anchieta e Imigrantes têm lentidão nesta quinta-feira (5); veja trechos",
+"p": "Retenções atingem o sentido São Paulo nas duas rodovias; Rodoanel Mário Covas apresenta tráfego normal",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366949/anchieta-e-imigrantes-tem-lentidao-nesta-quinta-feira-5-veja-trechos",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:18",
+"t": "Ribeirão Pires vai ter verba estadual para restauro da Fábrica de Sal",
+"p": "Prefeitura receberá R$ 500 mil para elaboração de projeto que visa intervenções no espaço histórico; Rio Grande também foi contemplada",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4366953/ribeirao-pires-vai-ter-verba-estadual-para-restauro-da-fabrica-de-sal",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:18",
+"t": "Ouroeste sedia capacitação do Coren e vira polo de formação para aplicação de Implanon",
+"p": "O município de Ouroeste sediou nesta quarta-feira (21) um curso de capacitação técnica promovido pelo Conselho Regional de Enfermagem (Coren), consolidando a cidade como polo regional para a qualificação de profissionais de saúde na implantação do método contraceptivo Implanon. A iniciativa contou com o suporte do…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ouroeste-sedia-capacitacao-do-coren-e-vira-polo-de-formacao-para-aplicacao-de-implanon/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:18",
+"t": "Contribuintes de Fernandópolis podem renegociar dívidas municipais com descontos pelo REFIS",
+"p": "A Prefeitura de Fernandópolis abriu a adesão ao Programa de Recuperação Fiscal (REFIS), oferecendo aos contribuintes a oportunidade de quitar e regularizar débitos municipais de forma presencial ou digital. Os moradores interessados em acertar a situação financeira junto ao município podem optar por negociar as…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/contribuintes-de-fernandopolis-podem-renegociar-dividas-municipais-com-descontos-pelo-refis/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:18",
+"t": "Impasse sobre rotatória no Shopping Fernandópolis se arrasta há meses e gera risco no trânsito",
+"p": "O que foi anunciado como uma alteração provisória no tráfego durante a realização da Expo Fernandópolis tornou-se um problema recorrente para quem circula pelas imediações do Shopping Center Fernandópolis. A indefinição sobre a construção de uma rotatória definitiva no local tem provocado preocupação entre…",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/impasse-sobre-rotatoria-no-shopping-fernandopolis-se-arrasta-ha-meses-e-gera-risco-no-transito/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:18",
+"t": "Fernandópolis chega a 2026 com contas aprovadas e R$ 114,5 milhões reservados para a saúde",
+"p": "Um orçamento público só merece confiança quando as contas que vieram antes dele estão em ordem. Em Fernandópolis, cidade de 71.186 habitantes segundo o Censo 2022, essa sequência aparece com clareza. Em maio de 2026, o município teve noticiado o parecer favorável do Tribunal de Contas do Estado de São Paulo às…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/fernandopolis-chega-a-2026-com-contas-aprovadas-e-r-1145-milhoes-reservados-para-a-saude/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:15",
+"t": "Foram mais de 5 mil km, 15 dias de estradas e 8 de balsa: como a Estátua da Liberdade da Havan chegou a Roraima em operação histórica",
+"p": "A Estátua da Liberdade da Havan percorreu mais de 5 mil quilômetros entre Santa Catarina e Roraima para marcar a inauguração da loja de número 200 da rede. A operação logística, que atravessou o Brasil de Sul a Norte, levou mais de 15 dias pelas rodovias e outros oito dias de navegação por balsa até […]",
+"tema": "Transporte",
+"s": "entregue",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/foram-mais-de-5-mil-km-15-dias-de-estradas-e-8-de-balsa-como-a-estatua-da-liberdade-da-havan-chegou-a-roraima-em-operacao-historica/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:15",
+"t": "Câmara de Mira Estrela aprova por unanimidade contas de 2024 da ex-prefeita Priscilla Prado",
+"p": "A Câmara Municipal de Mira Estrela aprovou por unanimidade, no dia 19 de outubro, as contas da Prefeitura referentes ao exercício de 2024, último ano do mandato da ex-prefeita Priscilla Prado. O julgamento seguiu o parecer prévio favorável emitido pelo Tribunal de Contas do Estado de São Paulo (TCE-SP) no processo…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/camara-de-mira-estrela-aprova-por-unanimidade-contas-de-2024-da-ex-prefeita-priscilla-prado/",
+"auto": true
+},
 {
 "d": "2026-11-05",
 "h": "08:12",
@@ -156,6 +456,20 @@
 },
 {
 "d": "2026-11-05",
+"h": "08:00",
+"t": "Polícia Civil e Gaeco miram esquema de remédios falsificados para câncer e Justiça bloqueia até R$ 15 milhões em SP",
+"p": "O Ministério Público de São Paulo (MP-SP) e a Polícia Civil deflagraram, nesta quinta-feira (5/11), uma operação contra um esquema suspeito de comercializar medicamentos falsificados para o tratamento de câncer e lavar dinheiro. A ação prevê três mandados de prisão preventiva, 18 de busca e apreensão e o bloqueio…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/policia-civil-e-gaeco-miram-esquema-de-remedios-falsificados-para-cancer-e-justica-bloqueia-ate-r-15-milhoes-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-05",
 "h": "07:50",
 "t": "Distribuidora é alvo de operação por vender remédios falsos contra o câncer",
 "p": "Segundo Ministério Público esquema envolvendo a distribuidora e a venda de remédios contra o câncer falsificados acontece desde 2024",
@@ -190,6 +504,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-entra-em-alerta-para-tempestade-fim-de-semana-tera-chuva-forte-e-queda-de-temperatura/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "07:30",
+"t": "Operação Laziosi mira falsificação de remédios com alvo em Marília",
+"p": "Segunda fase da Operação Laziosi, conduzida pelo Gaeco e pela Polícia Civil, mobilizou a DIG em Marília para cumprir mandados de busca.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/operacao-laziosi-mira-falsificacao-de-remedios-com-alvo-em-marilia/",
 "auto": true
 },
 {
