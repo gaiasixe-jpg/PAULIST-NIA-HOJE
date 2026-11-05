@@ -3,6 +3,253 @@
 "itens": [
 {
 "d": "2026-11-05",
+"h": "19:46",
+"t": "Tarifa zero em Ribeirão Preto: ônibus serão gratuitos para toda a população no Enem",
+"p": "Tarifa Zero será válida nos dias 8 e 15 de novembro em Ribeirão Preto; medida será liberada para todos os usuários",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/tarifa-zero-em-ribeirao-preto-onibus-serao-gratuitos-para-toda-a-populacao-no-enem/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:34",
+"t": "Polícia Militar desarticula desmanche de veículos e prende dois suspeitos em Suzano",
+"p": "Agentes também apreenderam 118 peças de veículos",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/policia/policia-militar-desarticula-desmanche-de-veiculos-e-prende-dois-suspeitos-em-suzano/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:34",
+"t": "PM de SP apreende mais de 100 celulares escondidos em cintas modeladoras durante operação no Brás, centro da capital",
+"p": "A Polícia Militar apreendeu 114 aparelhos celulares, avaliados em R$ 350 mil, durante a Operação Depósito Brás, nesta quinta-feira (5), no bairro do Brás, região central de São Paulo. Os dispositivos eram transportados por duas passageiras de um ônibus procedente de Foz do Iguaçu (PR), com destino à capital…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-de-sp-apreende-mais-de-100-celulares-escondidos-em-cintas-modeladoras-durante-operacao-no-bras-centro-da-capital/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:34",
+"t": "Governo de SP investe R$ 23,8 milhões em obras de prevenção de riscos em 36 municípios",
+"p": "O governador Tarcísio de Freitas formalizou, nesta quinta-feira (5), 25 novos convênios para ações de prevenção e mitigação de riscos em municípios paulistas, com investimentos de R$ 16,8 milhões. Na mesma cerimônia, realizada no Palácio dos Bandeirantes, foram entregues 11 intervenções concluídas, que receberam R$…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-investe-r-238-milhoes-em-obras-de-prevencao-de-riscos-em-36-municipios/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:33",
+"t": "STJ autoriza seguro de vida coletivo a ficar mais caro conforme a idade do cliente, mas estabelece 3 condições para permitir reajustes",
+"p": "O valor pago por um seguro de vida coletivo pode aumentar conforme o segurado envelhece. A possibilidade foi reconhecida pelo Superior Tribunal de Justiça (STJ), que estabeleceu critérios para a aplicação de reajustes por faixa etária nesses contratos. A decisão pode afetar consumidores que mantêm esse tipo de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/stj-autoriza-seguro-de-vida-coletivo-a-ficar-mais-caro-conforme-a-idade-do-cliente-mas-estabelece-3-condicoes-para-permitir-reajustes/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:33",
+"t": "Obras do Sistema Paiva Castro avançam com 15 frentes de trabalho e 239 profissionais mobilizados",
+"p": "Com 15 frentes de trabalho e 239 profissionais mobilizados, a Sabesp está implantação uma nova estrutura de abastecimento de água para Campo Limpo Paulista e Várzea Paulista. O Sistema Paiva Castro prevê a construção de uma adutora de 25,5 quilômetros para transportar água da represa de mesmo nome, em Franco da…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campo Limpo Paulista",
+"Várzea Paulista"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/obras-do-sistema-paiva-castro-avancam-com-15-frentes-de-trabalho-e-239-profissionais-mobilizados/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:33",
+"t": "Defesa Civil registra rajadas de vento de até 80 km/h e quedas de árvores em municípios paulistas",
+"p": "O Centro de Gerenciamento de Emergências (CGE) da Defesa Civil de São Paulo registrou fortes rajadas de vento em diferentes regiões paulistas nesta quinta-feira (5), em meio ao avanço das instabilidades previstas para o estado. A maior velocidade foi registrada em Paulínia, com 80,5 km/h, seguida por Osasco, com…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo",
+"Paulínia",
+"Osasco"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-registra-rajadas-de-vento-de-ate-80-km-h-e-quedas-de-arvores-em-municipios-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:29",
+"t": "Após mais de um século, Vila Carvalho começa a receber pavimentação asfáltica",
+"p": "Obras de R$ 1,7 milhão já estão em andamento e atendem uma reivindicação histórica dos moradores do povoado mais antigo de Votuporanga. Uma espera de mais de 100 anos começa a chegar ao fim para os moradores da Vila Carvalho, considerada o povoado mais antigo de Votuporanga. A Prefeitura iniciou as obras de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/apos-mais-de-um-seculo-vila-carvalho-comeca-a-receber-pavimentacao-asfaltica/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:28",
+"t": "Base aliada de Nunes protocola texto para nomear GCM como Polícia Municipal",
+"p": "Nesta semana, o prefeito de SP anunciou que faria troca da nomenclatura da Guarda Civil Metropolitana, após a aprovação da PEC da Segurança",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/base-aliada-de-nunes-protocola-texto-que-renomeia-gcm-como-policia-municipal",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:27",
+"t": "Entre gols, memórias e paixão: livro eterniza a história do Votuporanguense",
+"p": "“Pantera Alvinegra – O Guia Completo do Clube Atlético Votuporanguense” traz 440 fichas de partidas, depoimentos de ídolos, treinadores e imagens históricas. A obra dos Memorialistas se transforma no mais completo registro já produzido sobre a Pantera Alvinegra. Jorge Honorio jorgehonoriojornalista@gmail.com No dia…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/entre-gols-memorias-e-paixao-livro-eterniza-a-historia-do-votuporanguense/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:24",
+"t": "Tarcísio deve nomear ex-ministro Ricardo Salles como secretário da Justiça",
+"p": "Ex-ministro de Jair Bolsonaro, Ricardo Salles desistiu de concorrer a vaga no Senado após articulação do governador por André do Prado (PL) e Guilherme Derrite (PP). O governador reeleito de São Paulo, Tarcísio de Freitas (Republicanos), deve nomear o ex-ministro Ricardo Salles (Novo) como secretário da Justiça e…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/tarcisio-deve-nomear-ex-ministro-ricardo-salles-como-secretario-da-justica/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:22",
+"t": "Árvore cai e esmaga carro com motorista e passageira durante temporal em Bady Bassit",
+"p": "Caso foi registrado na manhã desta quinta-feira (5); vítimas tiveram apenas ferimentos leves. Em Piacatu/SP também registrou quedas de árvores por conta da chuva. Uma árvore esmagou um carro ao cair em cima dele na avenida principal, durante um forte temporal em Bady Bassit/SP, na manhã desta quinta-feira (5.nov).…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Piacatu"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/arvore-cai-e-esmaga-carro-com-motorista-e-passageira-durante-temporal-em-bady-bassit/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:11",
+"t": "Guardiões da memória",
+"p": "Projeto piloto aproxima estudantes da história de Votuporanga por meio da leitura e de atividades interativas; iniciativa começa em duas escolas municipais e deverá chegar a toda a rede de Ensino Fundamental em 2027. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/guardioes-da-memoria/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:10",
+"t": "Único trilionário do mundo, Elon Musk perde mais de 200 de bilhões de dólares após derrota eleitoral de aliados de Trump nas urnas",
+"p": "O empresário Elon Musk,primeiro e único trilionário no mundo, registrou uma perda bilionária em sua fortuna pessoal logo no primeiro dia de negociações após os resultados das eleições legislativas nos Estados Unidos (midterms). O movimento refletiu a reação imediata do mercado financeiro à vitória expressiva do…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/unico-trilionario-do-mundo-elon-musk-perde-mais-de-200-de-bilhoes-de-dolares-apos-derrota-eleitoral-de-aliados-de-trump-nas-urnas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:08",
+"t": "Câmara aprova mudanças nas regras do prêmio “Professor Nota 1000”",
+"p": "Resolução atualiza critérios da homenagem, amplia participação das universidades e flexibiliza a data de entrega dos títulos. A Câmara de Votuporanga aprovou, durante a 39ª sessão ordinária realizada nesta terça-feira (3.nov), alterações na resolução que regulamenta o prêmio “Professor Nota 1000”, homenagem…",
+"tema": "Educação",
+"s": "entregue",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/camara-aprova-mudancas-nas-regras-do-premio-professor-nota-1000/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:07",
+"t": "Secretária de Votuporanga representa especialistas em gestão da saúde formados pelo Albert Einstein",
+"p": "Ivonete Félix do Nascimento foi escolhida para representar os alunos do Hospital Israelita durante seminário estadual que marcou a conclusão de formação voltada à gestão regional da saúde pública. A secretária municipal da Saúde de Votuporanga, Ivonete Félix do Nascimento, foi escolhida para representar os…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/secretaria-de-votuporanga-representa-especialistas-em-gestao-da-saude-formados-pelo-albert-einstein/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:04",
+"t": "Polícia investiga morte de homem encontrado desacordado com ferimentos em Auriflama",
+"p": "Antônio de Oliveira, de 57 anos, foi localizado desacordado e com múltiplas lesões. Polícia Civil instaurou inquérito para esclarecer as circunstâncias da morte. A Polícia Civil investiga a morte de Antônio de Oliveira, de 57 anos, ocorrida nesta terça-feira (3.nov), após o homem ser encontrado desacordado e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Auriflama"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/policia-investiga-morte-de-homem-encontrado-desacordado-com-ferimentos-em-auriflama/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:02",
+"t": "Novembro Azul: cuidado integral",
+"p": "Unidades de saúde de Votuporanga terão programação especial de 23 a 27 de novembro, com orientações sobre prevenção de doenças, vacinação, saúde mental e autocuidado. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com A prevenção de doenças e o acompanhamento regular da…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/novembro-azul-cuidado-integral/",
+"auto": true
+},
+{
+"d": "2026-11-05",
 "h": "18:52",
 "t": "Polícia prende cinco suspeitos de furtar 74 cabeças de gado e desarticula esquema na região",
 "p": "Ação da Polícia Civil cumpriu mandados em várias cidades do interior paulista. Investigação aponta prejuízo de cerca de R$ 200 mil aos pecuaristas e apreendeu armas e celulares que podem revelar novos envolvidos. A Polícia Civil deflagrou nesta quarta-feira (4.nov) a operação “Curral do Crime”, que resultou na…",
