@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-05T02:05:54-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-05T03:08:20-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,46 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-05",
+"h": "02:30",
+"t": "Ativo nas redes, pastor réu por estupro não é localizado pela Justiça",
+"p": "Pastor Fabio Prado é investigado por estupro de vulnerável contra a própria sobrinha de dois anos",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ativo-nas-redes-pastor-reu-por-estupro-nao-e-localizado-pela-justica",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "02:14",
+"t": "Polícia Civil prende dois homens por furto a condomínio e roubos em série",
+"p": "A Polícia Civil de Araçatuba prendeu, na manhã desta quarta-feira (4), dois homens suspeitos de envolvimento em diferentes crimes patrimoniais registrados no município. As prisões foram efetuadas em ações distintas decorrentes de investigações conduzidas pelas equipes locais. Um dos investigados é apontado como…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-prende-dois-homens-por-furto-a-condominio-e-roubos-em-serie/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "02:10",
+"t": "Escolas de São Paulo registram média de 25 agressões por dia letivo",
+"p": "Mais de 5 mil ocorrências de lesão corporal em escolas e creches foram registradas de setembro de 2025 a agosto de 2026 no estado paulista",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/escolas-de-sao-paulo-registram-media-de-25-agressoes-por-dia-letivo",
+"auto": true
+},
 {
 "d": "2026-11-05",
 "h": "02:00",
