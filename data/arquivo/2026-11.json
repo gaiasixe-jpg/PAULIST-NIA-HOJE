@@ -3,6 +3,338 @@
 "itens": [
 {
 "d": "2026-11-05",
+"h": "12:56",
+"t": "Mauá negocia 170 vagas em curso gratuito com auxílio de R$ 1.600",
+"p": "Prefeitura discute parceria com a UFABC para oferecer formação a trabalhadores domésticos; proposta prevê aulas aos sábados e auxílio para transporte e alimentação.",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367053/maua-negocia-170-vagas-em-curso-gratuito-com-auxilio-de-rs-1-600",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:54",
+"t": "Psicologia e Medicina Unifev debatem obsessão e ciúme patológico no III PsicoTalks",
+"p": "Iniciativa conjunta entre os cursos promoveu integração interdisciplinar sobre temas centrais da saúde mental na noite da última terça-feira (3). A Unifev promoveu, na noite da última terça-feira (3.nov), a terceira edição do PsicoTalks no auditório do Câmpus Centro. Com o tema “Obsessão e ciúme patológico”, o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/psicologia-e-medicina-unifev-debatem-obsessao-e-ciume-patologico-no-iii-psicotalks/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:51",
+"t": "Atendimentos para tratamento do câncer de próstata no SUS paulista sobem 21,8% em dois anos",
+"p": "Os atendimentos voltados ao tratamento do câncer de próstata na rede pública de saúde do Estado de São Paulo registraram um aumento de 21,8% entre 2023 e 2025. Dados levantados pela Secretaria de Estado da Saúde (SES-SP) revelam que, somente no ano passado, o Sistema Único de Saúde (SUS) realizou 209.611…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/atendimentos-para-tratamento-do-cancer-de-prostata-no-sus-paulista-sobem-218-em-dois-anos/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:49",
+"t": "Crise climática exige compromissos efetivos de governos e setor privado",
+"p": "Às vésperas da 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP 31), a Organização Meteorológica Mundial (OMM) alerta que as novas metas apresentadas pelos países permitirão reduzir as emissões globais em apenas 6% até 2035. É um avanço dez vezes menor do que o necessário para limitar o aumento da…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/crise-climatica-exige-compromissos-efetivos-de-governos-e-setor-privado/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:48",
+"t": "Roubos caem 42,11% em um ano em São Caetano, aponta SSP",
+"p": "Município também registra queda anual de 13,33% nos furtos de veículos e, segundo a Prefeitura, não contabiliza homicídios dolosos desde o início de 2025.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367048/roubos-caem-42-11-em-um-ano-em-sao-caetano-aponta-ssp",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:44",
+"t": "Polícia Federal prende homem por armazenar conteúdos de abuso sexual infantil",
+"p": "Polícia Federal prendeu homem em flagrante nesta quinta (5), em Serrana, na região de Ribeirão Preto",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Serrana"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/policia-federal-prende-homem-por-armazenar-conteudos-de-abuso-sexual-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:44",
+"t": "Força Tática prende casal e apreende drogas na zona rural de Votuporanga",
+"p": "Operação da Polícia Militar localizou tijolos de maconha, cocaína, crack, skunk, balança de precisão e motocicleta usada na distribuição de entorpecentes. Um casal foi preso em flagrante por tráfico de drogas e associação para o tráfico durante uma ação da Força Tática do 16º Batalhão de Polícia Militar do Interior…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/forca-tatica-prende-casal-e-apreende-drogas-na-zona-rural-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:44",
+"t": "Uso frequente de cones em buracos gera cobrança por tapa-buracos em Fernandópolis",
+"p": "A presença de cones de sinalização instalados pela Prefeitura de Fernandópolis para alertar sobre buracos em vias públicas tem chamado a atenção de motoristas e pedestres que transitam pelo município. Embora os equipamentos auxiliem na prevenção de acidentes e na indicação de trechos perigosos, a permanência…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/uso-frequente-de-cones-em-buracos-gera-cobranca-por-tapa-buracos-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:43",
+"t": "Linha 21-Vinho pode ampliar ligação do Grande ABC com São Paulo",
+"p": "Gilvan Ferreira afirma que traçado em estudo inclui cidades da região; Metrô está na fase de contratação do anteprojeto",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367046/linha-21-vinho-pode-ampliar-ligacao-do-grande-abc-com-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:42",
+"t": "Motociclista morre após bater na traseira de caminhão de lixo em Araçatuba",
+"p": "Jéssica Xavier de Souza, de 33 anos, morreu no local do acidente ocorrido próximo à ponte do Ribeirão Baguaçu. Polícia Civil apura as circunstâncias da colisão. Uma mulher de 33 anos morreu na noite desta quarta-feira (4.nov) após se envolver em um grave acidente de trânsito no bairro Residencial Vista Verde, em…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/motociclista-morre-apos-bater-na-traseira-de-caminhao-de-lixo-em-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:41",
+"t": "Ribeirão Pires e Estado concluem reconstrução da galeria da Vila do Doce",
+"p": "Entrega oficial foi realizada na manhã desta quinta-feira (5), na Capital, pelo governador Tarcísio de Freitas",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367050/ribeirao-pires-e-estado-concluem-reconstrucao-da-galeria-da-vila-do-doce-",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:41",
+"t": "CINORP promove formação para coordenadores pedagógicos com foco na fluência leitora e na matemática",
+"p": "Encontro realizado em parceria com o Instituto Alfa e Beto reuniu coordenadores pedagógicos em Votuporanga para apresentar estratégias de diagnóstico e intervenção nas redes municipais de ensino. O Consórcio Intermunicipal do Noroeste Paulista (CINORP), por meio da Escola de Governo, realizou, em parceria com o…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/cinorp-promove-formacao-para-coordenadores-pedagogicos-com-foco-na-fluencia-leitora-e-na-matematica/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:40",
+"t": "Profissionais de São João das Duas Pontes participam de reunião da Undime em Ouroeste",
+"p": "A Secretaria Municipal de Educação de Ouroeste sediou a 1ª Reunião da União dos Dirigentes Municipais de Educação (Undime) – Polo Fernandópolis. O encontro reuniu gestores e secretários de Educação dos municípios da região no intuito de debater o fortalecimento da rede pública de ensino e o alinhamento de políticas…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São João das Duas Pontes",
+"Fernandópolis",
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/profissionais-de-sao-joao-das-duas-pontes-participam-de-reuniao-da-undime-em-ouroeste/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:37",
+"t": "EMEF de São João das Duas Pontes sedia formação pedagógica voltada para o Saresp",
+"p": "A EMEF Manoel Joaquim Santana sediou a 2ª Formação do Giro Brasil Cultural, conduzida pelo professor Marcos Ferrari Jr. O encontro teve como público-alvo as equipes pedagógicas responsáveis pelas turmas dos 2º e 5º anos do ensino fundamental, com foco no aprimoramento das estratégias de ensino voltadas ao Sistema…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/emef-de-sao-joao-das-duas-pontes-sedia-formacao-pedagogica-voltada-para-o-saresp/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:37",
+"t": "Semob implanta mão única de direção em trecho de rua no Vila Rica",
+"p": "Fotos: Semob A Prefeitura de Sorocaba, por meio da Secretaria de Mobilidade (Semob), implantou, nesta quinta-feira (5), sentido único de circulação em trecho da Rua Rubens Antonio Nazare Santos, no bairro Vila Rica, Zona Oeste da cidade. A alteração foi realizada pela equipe de sinalização da Semob, no trecho entre…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/semob-implanta-mao-unica-de-direcao-em-trecho-de-rua-no-vila-rica/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:34",
+"t": "Festival Literário de São Vicente terá programação gratuita",
+"p": "Evento acontece de 12 a 14 de novembro, na Vila de São Vicente, com feira de livros, apresentações artísticas, atividades para crianças, jovens e adultos e programação gratuita.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/festival-literario-de-sao-vicente-tera-programacao-gratuita/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:32",
+"t": "Polícia Militar de SP abre concurso com 2 mil vagas para aluno-soldado; veja como se inscrever",
+"p": "Inscrições começam no dia 9 de novembro e seguem até 22 de dezembro; salário inicial é de R$ 5,4 mil",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/policia-militar-de-sp-abre-concurso-com-2-mil-vagas-para-aluno-soldado-veja-como-se-inscrever/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:25",
+"t": "Justiça suspende aplicação de tirzepatida manipulada em programa de Urupês",
+"p": "Liminar atende a ação da fabricante do Mounjaro, que questiona a utilização da substância preparada em farmácias de manipulação",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Urupês"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/justica-suspende-aplicacao-de-tirzepatida-manipulada-em-programa-de-urupes/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:23",
+"t": "Marília intensifica reparos no asfalto durante período de chuvas em diferentes bairros",
+"p": "Equipes da Infraestrutura atuam nas zonas norte, sul, leste e oeste da cidade.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-intensifica-reparos-no-asfalto-durante-periodo-de-chuvas-em-diferentes-bairros/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:21",
+"t": "Vira-lata ganha lar temporário no interior de SP após cair em bueiro e ser resgatado por policiais militares com a ajuda dos moradores",
+"p": "Um cachorro de pequeno porte sem raça definida recebeu ajuda de policiais militares depois de ficar preso em um bueiro no Jardim Tarumã, em Jundiaí, no interior de São Paulo. O resgate aconteceu na sexta-feira (30), quando três pessoas chamaram uma equipe do 49º Batalhão de Polícia Militar do Interior (BPM/I). Os…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí",
+"Tarumã"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/vira-lata-ganha-lar-temporario-no-interior-de-sp-apos-cair-em-bueiro-e-ser-resgatado-por-policiais/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:15",
+"t": "SP: estudantes da rede pública estadual terão transporte gratuito para Enem",
+"p": "Medida do governo de São Paulo deve atender 70 mil alunos matriculados no 3º ano do ensino médio; prova acontece nos dias 8 e 15 de noevmbro",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sp-estudantes-da-rede-publica-estadual-terao-transporte-gratuito-para-enem",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:15",
+"t": "Ludmilla passa por cima de acusação de plágio em música de início de carreira e compositor terá que pagar honorários",
+"p": "A cantora Ludmilla saiu vitoriosa de uma disputa judicial envolvendo uma de suas primeiras composições. A Justiça do Rio de Janeiro rejeitou a ação movida pelo compositor Reynaldo Veríssimo da Purificação, que reivindicava a coautoria de uma música da artista e pedia indenização por danos morais. A decisão foi…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/ludmilla-passa-por-cima-de-acusacao-de-plagio-em-musica-de-inicio-de-carreira-e-compositor-tera-que-pagar-honorarios/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:13",
+"t": "MP dá 20 dias para Prefeitura de Rio Preto explicar cortes no Auxílio-Atleta",
+"p": "Promotor quer esclarecimentos sobre desligamento de professores e possível interrupção de aulas gratuitas de ginástica, zumba e futebol",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mp-da-20-dias-para-prefeitura-de-rio-preto-explicar-cortes-no-auxilio-atleta/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:09",
+"t": "Prefeitura amplia agenda de lazer no Centro de Jundiaí com atrações gratuitas neste fim de semana",
+"p": "Foto: Prefeitura de Jundiaí Programação reúne música, gastronomia, robótica e atividades culturais entre sexta (6) e domingo (8), dando continuidade às ações de valorização da região central.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/centro-da-gente-jundiai-atracoes-gratuitas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
 "h": "12:01",
 "t": "Operação Azzardo mira rede de apostas ilegais que movimentou centenas de milhões de reais",
 "p": "A Polícia Civil do Distrito Federal, em conjunto com forças policiais de São Paulo e de outros quatro estados, deflagrou na manhã desta quinta-feira (5) a Operação Azzardo. A ação busca desmantelar uma organização criminosa responsável por operar plataformas de apostas online não autorizadas — as chamadas bets…",
@@ -1680,6 +2012,20 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/corpo-de-bombeiros-conquista-o-trofeu-servidor-publico-2026-em-jales/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "06:00",
+"t": "Fachin dá 15 dias para PGR analisar indiciamento de Vorcaro",
+"p": "O ministro Edson Fachin, do Supremo Tribunal Federal (STF), deu prazo de 15 dias para a Procuradoria-Geral da República (PGR) se manifestar sobre o relatório no qual a Polícia Federal (PF) indiciou o ex-banqueiro Daniel Vorcaro e mais 14 investigados pelas fraudes financeiras no Banco Regional de Brasília (BRB).",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/fachin-da-15-dias-para-pgr-analisar-indiciamento-de-vorcaro/",
 "auto": true
 },
 {
