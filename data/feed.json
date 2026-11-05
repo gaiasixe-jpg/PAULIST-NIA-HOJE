@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-05T17:56:51-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-05T18:53:50-03:00",
+"novos_nesta_coleta": 17,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,180 @@
 "itens": [
 {
 "d": "2026-11-05",
+"h": "18:52",
+"t": "Polícia prende cinco suspeitos de furtar 74 cabeças de gado e desarticula esquema na região",
+"p": "Ação da Polícia Civil cumpriu mandados em várias cidades do interior paulista. Investigação aponta prejuízo de cerca de R$ 200 mil aos pecuaristas e apreendeu armas e celulares que podem revelar novos envolvidos. A Polícia Civil deflagrou nesta quarta-feira (4.nov) a operação “Curral do Crime”, que resultou na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/policia-prende-cinco-suspeitos-de-furtar-74-cabecas-de-gado-e-desarticula-esquema-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:48",
+"t": "Tiroteio contra “seguranças do PCC” deixa 2 policiais feridos na Grande SP",
+"p": "Confronto entre policiais e suspeitos ligados ao tráfico ocorreu durante operação de combate ao crime organizado em comunidade nesta quinta",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tiroteio-contra-segurancas-do-pcc-deixa-2-policiais-feridos-na-grande-sp",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:18",
+"t": "\"Direitos humanos urgente\": presos sobem em caixa d'água de presídio em SP",
+"p": "Segundo a Polícia Penal, os presos aproveitaram um momento de deslocamento interno para subir na estrutura. Policiais trabalham no resgate",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/direitos-humanos-urgente-presos-sobem-em-caixa-dagua-de-presidio-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:18",
+"t": "Espaço cultural em São Vicente recebe workshop e mostra coletiva sobre ancestralidade em homenagem ao Dia da Consciência Negra",
+"p": "O Centro Cultural Grupo Criarts, em São Vicente, recebe uma programação artística em celebração ao Dia da Consciência Negra. O evento inclui um workshop neste sábado (7) e a exposição coletiva ‘A arte é a voz que ecoa nossa ancestralidade’, que acontece de 19 de novembro a 20 de dezembro. A visitação será gratuita,…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/sao-vicente/sao-vicente-recebe-workshop-e-mostra-em-homenagem-ao-dia-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:13",
+"t": "Zagueiro da base do Santos assina primeiro contrato profissional",
+"p": "Gabriel Neves, de 17 anos, assina vínculo válido até o fim de 2028 com o Peixe; destaque da equipe sub-17, zagueiro já participa de treinos no sub-20",
+"tema": "Geral",
+"s": "obra",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/esportes/futebolnacional/santos/zagueiro-da-base-do-santos-assina-primeiro-contrato-profissional.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:10",
+"t": "\"Supermaconha\": três são presos em rodovia com mais de 30 quilos de skunk",
+"p": "Durante a abordagem, os policiais encontraram um dispositivo de rastreamento dentro da droga, que seria deixada na capital paulista",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/supermaconha-tres-sao-presos-em-rodovia-com-mais-de-30-quilos-de-skunk",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:08",
+"t": "Coca-Cola investe R$ 75 milhões em centro de distribuição de 40 mil m² às margens de rodovia no interior de SP para atender 22 cidades e gerar 400 empregos",
+"p": "Limeira, no interior de São Paulo, receberá um novo centro de distribuição da Coca-Cola FEMSA Brasil, empresa que já conta com diversas fábricas no solo brasileiro. O empreendimento terá investimento de R$ 75 milhões e previsão de gerar 400 empregos diretos na fase inicial de operação. A unidade será construída em…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Limeira"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/coca-cola-investe-r-75-milhoes-em-centro-de-distribuicao-de-40-mil-m%c2%b2-as-margens-de-rodovia-no-interior-de-sp-para-atender-22-cidades-e-gerar-400-empregos/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:07",
+"t": "Turistas perdem viagem à Grécia após seguir orientação de chatbot e agora cobram R$ 13,5 mil",
+"p": "Dois passageiros da Noruega perderam uma viagem de férias para a ilha de Creta, na Grécia, depois de seguirem informações fornecidas por um chatbot de atendimento aeroportuário. Agora, eles buscam uma indenização de 26 mil coroas norueguesas, aproximadamente R$ 13,5 mil. O caso foi divulgado pelo jornal norueguês…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/turismo/turistas-perdem-viagem-a-grecia-apos-seguir-orientacao-de-chatbot-e-agora-cobram-r-135-mil-nn/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:04",
+"t": "Trabalho escravo: 22 são resgatados em colheita de feijão em São Paulo",
+"p": "Trabalhadores atuavam em lavoura de feijão descalços, sem água potável, banheiros ou equipamentos de segurança, além de dormirem no chão",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/trabalho-escravo-22-resgatados-sp",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:03",
+"t": "MPSP denuncia vereador do PT, filho e ex-assessores por lavagem de dinheiro",
+"p": "Esquema supostamente vinculado ao ex-presidente da Câmara de Catanduva, Marcos Aparecido Ferreira, desviou cerca de R$ 3,89 milhões",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Catanduva"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-denuncia-vereador-do-pt-filho-e-ex-assessores-por-lavagem-de-dinheiro",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:02",
+"t": "Enem: começar pelas questões ou pela redação? Veja como administrar o tempo na prova",
+"p": "No Exame Nacional do Ensino Médio (Enem), administrar o tempo é um dos desafios enfrentados pelos candidatos. Além das questões objetivas, o primeiro dia de prova inclui a redação, que exige leitura, planejamento, elaboração e revisão do texto. Por isso, deixar a produção textual para os últimos minutos pode…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/enem-comecar-pelas-questoes-ou-pela-redacao-veja-como-administrar-o-tempo-na-prova/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:00",
+"t": "Menina de 11 anos percebe motorista sem ar no ônibus escolar e chama o pai, que usa carrinho de golfe para ajudar a salvar a profissional de uma crise de asma",
+"p": "Durante a viagem de ônibus para casa, a menina Bella Scott, de 11 anos, percebeu que a motorista precisava de ajuda. Christine Huston tossia repetidamente, respirava com chiado e falava com dificuldade. Diante desses sinais, a estudante pegou o celular e ligou para o pai. Primeiro, descreveu o que acontecia;…",
+"tema": "Educação",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/menina-de-11-anos-percebe-motorista-sem-ar-no-onibus-escolar-e-chama-o-pai-que-usa-carrinho-de-golfe-para-ajudar-a-salvar-a-profissional-de-uma-crise-de-asma/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "18:00",
+"t": "Campinas registra mais de 500 recusas ao teste do bafômetro em blitze realizadas em 2026",
+"p": "Levantamento da Emdec aponta que quase 19 mil testes foram realizados neste ano; dos 35 mortos no trânsito da cidade, oito tiveram a morte associada ao consumo de álcool, entre os 19 casos já analisados",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-registra-mais-de-500-recusas-ao-teste-do-bafometro-em-blitze-realizadas-em-2026/",
+"auto": true
+},
+{
+"d": "2026-11-05",
 "h": "17:47",
 "t": "Confira as ofertas de emprego no PAT Marília nesta sexta-feira (6/11)",
 "p": "Posto reúne 94 vagas em diferentes áreas, com oportunidades na indústria, limpeza, construção civil, transporte e serviços; há seleção exclusiva para PCDs.",
@@ -77,6 +251,20 @@
 },
 {
 "d": "2026-11-05",
+"h": "17:46",
+"t": "Mogi das Cruzes recebe a 20ª edição do Festcão; confira a programação",
+"p": "Evento gratuito será realizado no Parque Botyra e terá concurso de cães, apresentações e espaço para adoção responsável",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-recebe-20a-edicao-do-festcao-confira-a-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-05",
 "h": "17:43",
 "t": "Confira a previsão do tempo para Marília nesta sexta-feira (6/11)",
 "p": "Termômetros podem atingir os 34°C durante a tarde, há previsão de chuvas rápidas e isoladas na madrugada e no meio da manhã.",
@@ -87,6 +275,18 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-sexta-feira-6-11/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "17:42",
+"t": "Governo prepara nova mordida no bolso: imposto do pecado chega a bebidas, cigarros e carros e terá taxa de até 66,7% em 2027; veja o que muda",
+"p": "O governo federal definiu as alíquotas do Imposto Seletivo, conhecido popularmente como “imposto do pecado”. A medida prevê a cobrança sobre produtos e atividades considerados prejudiciais à saúde ou ao meio ambiente. As regras constam de uma medida provisória (MP) assinada pelo presidente Luiz Inácio Lula da Silva…",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/governo-prepara-nova-mordida-no-bolso-imposto-do-pecado-chega-a-bebidas-cigarros-e-carros-e-tera-taxa-de-ate-667-em-2027-veja-o-que-muda/",
 "auto": true
 },
 {
@@ -129,6 +329,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/escolas-municipais-da-zona-norte-de-sorocaba-participam-de-projetos-de-turismo-pedagogico-da-setur/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "17:30",
+"t": "Diagnosticada com câncer de mama aos 34 anos, servidora enfrenta três anos de tratamento e relata as marcas que permanecem depois das terapias",
+"p": "O filho tinha 5 anos quando Kátia Sant’Ana recebeu o diagnóstico de câncer de mama, em 2018. A preocupação com a criança atravessou uma rotina que reuniu afastamento do trabalho, mudanças físicas e tratamentos ao longo de aproximadamente três anos. Em relato publicado pela Prefeitura de São Vicente em 26 de outubro…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/diagnosticada-com-cancer-de-mama-aos-34-anos-servidora-enfrenta-tres-anos-de-tratamento-e-relata-as-marcas-que-permanecem-depois-das-terapias-nn/",
 "auto": true
 },
 {
@@ -390,6 +604,20 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/jovem-cria-projeto-aos-14-anos-visita-26-escolas-e-transforma-iniciativa-em-negocio-que-reune-oito-livros-e-atividades-em-14-estados-brasileiros-nn/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "16:59",
+"t": "Jardim Zaíra, em Mauá, terá novo ponto dos Correios; veja endereço",
+"p": "Novo ponto de atendimento será instalado na Avenida Presidente Castelo Branco, 2.069, e oferecerá serviços postais de menor complexidade",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367121/jardim-zaira-em-maua-tera-novo-ponto-dos-correios-veja-endereco",
 "auto": true
 },
 {
