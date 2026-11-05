@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-04T22:13:29-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-04T23:19:40-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -57,6 +57,18 @@
 "c": [],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/debatedores-divergem-sobre-projeto-de-lei-para-ampliar-concorrencia-no-mercado-de-gas-natural/",
+"auto": true
+},
+{
+"d": "2026-11-04",
+"h": "22:00",
+"t": "Pesquisa aponta qual é o curso de faculdade preferido dos bilionários do Brasil; confira o ranking",
+"p": "A procura por se graduar sempre vem com uma dúvida importante: qual curso devo fazer? Quem procura inspiração nas trajetórias de sucesso dos grandes empresários do país, tem a resposta graças a um estudo realizado pelo The College analisou a vida escolar dos 70 bilionários brasileiros presentes no ranking…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/pesquisa-aponta-qual-e-o-curso-de-faculdade-preferido-dos-bilionarios-do-brasil-confira-o-ranking/",
 "auto": true
 },
 {
