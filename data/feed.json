@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-05T10:19:07-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-05T12:04:19-03:00",
+"novos_nesta_coleta": 37,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,469 @@
 "itens": [
 {
 "d": "2026-11-05",
+"h": "12:01",
+"t": "Operação Azzardo mira rede de apostas ilegais que movimentou centenas de milhões de reais",
+"p": "A Polícia Civil do Distrito Federal, em conjunto com forças policiais de São Paulo e de outros quatro estados, deflagrou na manhã desta quinta-feira (5) a Operação Azzardo. A ação busca desmantelar uma organização criminosa responsável por operar plataformas de apostas online não autorizadas — as chamadas bets…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-azzardo-mira-rede-de-apostas-ilegais-que-movimentou-centenas-de-milhoes-de-reais/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "12:00",
+"t": "Polícia Militar de SP abre concurso público com 2 mil vagas para aluno-soldado",
+"p": "A Polícia Militar do Estado de São Paulo abriu um novo concurso público voltado ao preenchimento de 2 mil vagas para o cargo de aluno-soldado. Destinada a homens e mulheres, a seleção oferece remuneração inicial de R$ 5.482,51. As inscrições começam às 10h de segunda-feira (9) e seguem abertas até as 23h59 do dia…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-de-sp-abre-concurso-publico-com-2-mil-vagas-para-aluno-soldado/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:48",
+"t": "Dentista é preso por furto de energia elétrica em condomínio",
+"p": "Caso foi registrado na CPJ de Marília Ação conjunta entre a concessionária e a Polícia Civil flagrou desvio clandestino de eletricidade; acusado se trancou no banheiro.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/dentista-e-preso-por-furto-de-energia-eletrica-em-condominio/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:46",
+"t": "Governo de SP mobiliza 7 mil ônibus para garantir transporte gratuito a estudantes no Enem",
+"p": "Cerca de 70 mil estudantes da 3ª série do ensino médio da rede estadual paulista contarão com transporte público gratuito para realizar as provas do Exame Nacional do Ensino Médio (Enem) nos dias 8 e 15 de novembro. A megaoperação organizada pela Secretaria da Educação do Estado de São Paulo (Seduc-SP) envolve a…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-mobiliza-7-mil-onibus-para-garantir-transporte-gratuito-a-estudantes-no-enem/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:45",
+"t": "Cardigan feminino em alta: 7 maneiras estilosas de usar o tricô e driblar a frente fria com elegância nesta temporada",
+"p": "As oscilações repentinas nos termômetros e a chegada de frentes frias fora de época pegaram os paulistanos de surpresa nas últimas semanas, mas também trouxeram de volta às ruas uma das peças mais versáteis do guarda-roupa: o cardigan feminino. Longe da imagem rígida de uniformes escolares ou de peças antiquadas, o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/gazeta-mais/estilo-de-vida/cardigan-feminino-em-alta-confira-sete-maneiras-estilosas-de-usar-o-trico-e-driblar-a-frente-fria-com-elegancia-nesta-temporada/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:45",
+"t": "GCM detém adolescente por tentativa de roubo e apreende réplicas de arma de fogo",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba deteve um adolescente de 15 anos de idade, na tarde de terça-feira (2), após tentativa de roubo nas proximidades da sede do Serviço de Obras Sociais (SOS), no Jardim Capitão, Zona Oeste da cidade. Duas réplicas de arma de fogo foram apreendidas com o rapaz. Durante…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-detem-adolescente-por-tentativa-de-roubo-e-apreende-replicas-de-arma-de-fogo/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:42",
+"t": "Randstad e Mercado Livre abrem vagas em Itupeva sem exigir experiência; veja como se candidatar",
+"p": "Foto: Divulgação Oportunidades oferecem salário de até R$ 2.317 por mês, além de benefícios e transporte fretado para Jundiaí e região",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Itupeva",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/vagas-mercado-livre-itupeva-sem-experiencia/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:39",
+"t": "Cão policial é aposentado com apenas 2 anos após lesão na coluna e agora procura uma família para adotá-lo",
+"p": "Foto em formato 16:9 com um pastor belga malinois em destaque no primeiro plano, postura calma e coleira simples, sugerindo a transição do trabalho policial para a vida em família, sem setas ou textos na imagem. Créditos: Hoy Chico, um pastor belga malinois de 2 anos, precisou se aposentar da Polícia Nacional da…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/cao-policial-e-aposentado-com-apenas-2-anos-apos-lesao-na-coluna-e-agora-procura-uma-familia-para-adota-lo/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:38",
+"t": "Saiu o edital da PM de SP: 2 mil vagas de soldado e salário de R$ 5 mil",
+"p": "Inscrições para o concurso público da PM devem ser realizadas no site da Fundação Vunesp; veja o edital",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/saiu-edital-da-pm-de-sp-2-mil-vagas-de-soldado-e-salario-de-r-5-mil/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:36",
+"t": "Justiça suspende programa que oferece Mounjaro de graça no interior de SP",
+"p": "A Prefeitura de Urupês anunciou em fevereiro deste ano que ofereceria Mounjaro de graça para 200 pacientes. Medida deve ser suspensa",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Urupês"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-suspende-programa-que-oferece-mounjaro-de-graca-no-interior-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:36",
+"t": "Polícia Militar de SP abre concurso com duas mil vagas e salário inicial de R$ 5,4 mil",
+"p": "Inscrições começam em 9 de novembro; candidatos precisam ter Ensino Médio e habilitação de motorista.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/policia-militar-de-sp-abre-concurso-com-duas-mil-vagas-e-salario-inicial-de-r-54-mil/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:30",
+"t": "INSS volta a permitir empréstimos consignados após decisão do TCU, mas mantém 2 modalidades de cartão suspensas por preocupações com fraudes",
+"p": "Aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS) voltaram a ter a possibilidade de contratar novos empréstimos pessoais consignados após uma decisão do Tribunal de Contas da União (TCU). Entretanto, a liberação não vale para todas as modalidades de crédito que permitem descontar parcelas…",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/inss-volta-a-permitir-emprestimos-consignados-apos-decisao-do-tcu-mas-mantem-2-modalidades-de-cartao-suspensas-por-preocupacoes-com-fraudes/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:20",
+"t": "Hospital de Várzea Paulista passa a realizar tomografias e agiliza diagnósticos de urgência",
+"p": "Foto: Prefeitura de Várzea Paulista Antes, pacientes da UPA precisavam aguardar vagas e transporte para hospitais de outras cidades; agora, muitos exames são feitos no próprio município.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/hospital-de-varzea-paulista-tomografias-diagnosticos-de-urgencia/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:20",
+"t": "Prefeitura abre inscrições para Torneio de Xadrez no CEU das Artes do Laranjeiras",
+"p": "A Prefeitura de Sorocaba promove, no dia 6 de dezembro, domingo, o IX Torneio Regional de Xadrez, a partir das 8h30, no Centro de Esportes e Artes Unificado “Prof. Flávio Vespasiano Di Giorgi” (CEU das Artes), no Parque das Laranjeiras. A competição é aberta a participantes de todas as idades e está com inscrições…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-abre-inscricoes-para-torneio-de-xadrez-no-ceu-das-artes-do-laranjeiras/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:16",
+"t": "PM de SP abre concurso para aluno-soldado com salário inicial de R$ 5,4 mil",
+"p": "Inscrições começam na próxima segunda-feira (9/11) e ficam abertas até 22 de dezembro. Concurso tem prova objetiva e teste físico",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pm-de-sp-abre-concurso-para-aluno-soldado-com-salario-inicial-de-r-54-mil",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:16",
+"t": "Lagarto teiú é atropelado em praça no centro de São Vicente e recebe socorro da GCM",
+"p": "Lagarto foi encontrado ferido na praça 22 de Janeiro, na terça-feira (3); GCM orienta a população a evitar contato com animais silvestres e ligar 153",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/mundoanimal/lagarto-teiu-e-atropelado-em-praca-no-centro-de-sao-vicente-e-recebe-socorro-da-gcm.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:15",
+"t": "Fábrica de bilionários, WEG desembolsa R$ 44 milhões para comprar terreno na Índia; país conta com 2 mil trabalhadores da multinacional",
+"p": "A WEG, multinacional brasileira conhecida por tornar os seus herdeiros bilionários, anunciou a aquisição de um novo terreno na Índia nessa quarta-feira (4/11). Com o investimento, a companhia precisou desembolsar R$ 44 milhões para comprar um novo espaço no país em que já emprega 2 mil trabalhadores. Ao todo, a WEG…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/fabrica-de-bilionarios-weg-desembolsa-r-44-milhoes-para-comprar-terreno-na-india-pais-conta-com-2-mil-trabalhadores-da-multinacional/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:13",
+"t": "Polo da Univesp em Fernandópolis forma novos profissionais em Tecnologia da Informação",
+"p": "A Universidade Virtual do Estado de São Paulo (Univesp), Polo de Fernandópolis, realizou nesta quarta-feira (4) a colação de grau de mais duas pessoas no curso superior de Tecnologia da Informação, com ênfase em Internet das Coisas. Os novos graduados são a professora de educação infantil Camila Cristina Paiva…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/polo-da-univesp-em-fernandopolis-forma-novos-profissionais-em-tecnologia-da-informacao/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:13",
+"t": "Coordenadoria de Políticas para a Diversidade Sexual divulga datas das reuniões do GADS e do GPH deste mês de novembro",
+"p": "A Coordenadoria de Políticas para a Diversidade Sexual, ligada à Secretaria da Cidadania (Secid) da Prefeitura de Sorocaba, divulga as datas das reuniões do mês de novembro com o GPH (Grupo de Apoio a Pais de LGBTs de Sorocaba) e o GADS (Grupo de Apoio à Diversidade Sexual). O intuito é promover a troca de […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/coordenadoria-de-politicas-para-a-diversidade-sexual-divulga-datas-das-reunioes-do-gads-e-do-gph-deste-mes-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:12",
+"t": "Grande ABC recebe a primeira Fashion Weekend Plus Size",
+"p": "21ª edição do evento terá dois dias de programação com desfiles, shows, oficinas de moda e arte e atividades voltadas à diversidade e à inclusão na Fábrica de Cultura de São Bernardo",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367017/grande-abc-recebe-a-primeira-fashion-weekend-plus-size",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:04",
+"t": "Cadeirante é achado morto com cortes na garganta e lesão de pedrada na face",
+"p": "Segundo a GCM, o cadeirante foi encontrado na calçada da Rua Senador Feijó, região central de São Paulo, na manhã desta quinta-feira (5/11)",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cadeirante-e-achado-morto-com-cortes-na-garganta-e-lesao-de-pedrada-na-face",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:04",
+"t": "Prefeitura de São Paulo nega terreno para centro de treinamento do Santos na Zona Leste",
+"p": "Área recebe obras de uma unidade de saúde, além de abrigar equipamentos esportivos e moradias provisórias para pessoas em situação de vulnerabilidade",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo",
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/esportes/futebolnacional/santos/prefeitura-de-sao-paulo-nega-terreno-para-centro-de-treinamento-do-santos-na-zona-leste.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:03",
+"t": "Polícia Militar captura homem procurado pela Justiça em bairro rural de Buri",
+"p": "Um homem procurado pela Justiça foi capturado pela Polícia Militar na quarta-feira (4), no bairro rural Chapeuzinho, em Buri. De acordo com informações da corporação, policiais do 54º Batalhão de Polícia Militar do Interior (54º BPM/I) receberam informações sobre a possível localização do indivíduo e realizaram…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Buri"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/procurado-buri/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:00",
+"t": "Instituto Federal de Santos inscreve para curso técnico de informática",
+"p": "Henrique Teixeira/Divulgação Prefeitura de Santos Jovens que desejam investir em uma carreira na área de tecnologia têm uma oportunidade no Instituto Federal de Santos.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/instituto-federal-de-santos-inscreve-para-curso-tecnico-de-informatica/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:00",
+"t": "Concurso Público do Porto de Santos é prorrogado por dois anos",
+"p": "Divulgação/APS A Autoridade Portuária de Santos (APS) prorrogou por dois anos o prazo de validade do Concurso Público nº 002/2024.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/porto-e-negocios/concurso-publico-do-porto-de-santos-e-prorrogado-por-dois-anos/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "11:00",
+"t": "Lançamento duplo reúne Leão Serva, Christian Dunker e Cláudio Thebas na Realejo",
+"p": "Divulgação A livraria Realejo Livros, em Santos, recebe no sábado (7) uma programação especial com dois grandes lançamentos editoriais.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/lancamento-duplo-reune-leao-serva-christian-dunker-e-claudio-thebas-na-realejo/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:54",
+"t": "Polícia Civil de Guapiara prende dois procurados pela Justiça com apoio da GCM de Tatuí",
+"p": "A Polícia Civil de Guapiara, com apoio da Guarda Civil Municipal (GCM) de Tatuí, prendeu dois homens que eram procurados pela Justiça. Contra ambos havia mandados de prisão preventiva em aberto. Segundo a Polícia Civil, a localização dos indivíduos foi resultado de diligências investigativas realizadas após a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guapiara",
+"Tatuí"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/procurados-guapiara/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:46",
+"t": "Defesa Civil de SP ativa gabinete de crise contra temporais até sábado (7)",
+"p": "Órgão monitora risco de granizo, ventos de até 80km/h e raios, no estado; período de maior perigo ocorre de quinta-feira (5) a sábado (7)",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/clima/defesa-civil-de-sp-ativa-gabinete-de-crise-contra-temporais-ate-sabado-7.html",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:43",
+"t": "Sincomércio pede à Câmara abertura das lojas até as 18h em todos os sábados",
+"p": "Comércio sustentou alta nas vagas de emprego em Marília Sindicato patronal defende ampliação do expediente após fim da escala 6x1 e redução da jornada semanal de trabalho; setor reúne 16,1 mil empregos formais em Marília.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/sincomercio-pede-a-camara-abertura-das-lojas-ate-as-18h-em-todos-os-sabados/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:39",
+"t": "Exposição, dança e tradição japonesa são temas do Compartilha deste sábado",
+"p": "Programa apresenta exposição de fotógrafo de Ferraz no MIS, projeto de dança para mulheres acima dos 40 anos e a história de templo budista em Suzano",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/conteudo-de-marca/exposicao-danca-e-tradicao-japonesa-sao-temas-do-compartilha-deste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:38",
+"t": "Alerta para temporais no estado de SP: Defesa Civil mobiliza gabinete de crise",
+"p": "Defesa Civil de SP renovou alerta de temporais e ativou gabinete de crise da Operação El Niño",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/alerta-para-temporais-no-estado-de-sp-defesa-civil-mobiliza-gabinete-de-crise/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:22",
+"t": "Prefeitura de Marília inicia em 11 de novembro entrega de cestas a servidores",
+"p": "Cestas de alimentos serão entregues a 5 mil servidores municipais de Marília Distribuição dos alimentos referentes a outubro segue até o dia 13, conforme a secretaria de lotação dos funcionários.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-de-marilia-inicia-em-11-de-novembro-entrega-de-cestas-a-servidores/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:20",
+"t": "Maior ponte para animais do mundo custou R$ 624 milhões, atravessa rodovia com 10 faixas e 300 mil veículos por dia e promete proteger a vida selvagem",
+"p": "Uma ponte coberta de vegetação está perto de devolver aos animais uma rota que o trânsito interrompeu durante décadas na Califórnia, nos Estados Unidos. A Passagem de Fauna Wallis Annenberg atravessa dez faixas da rodovia US-101 e pretende conectar áreas naturais separadas pela estrada. A construção começou em…",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/maior-ponte-para-animais-do-mundo-custou-r-624-milhoes-atravessa-rodovia-com-10-faixas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:19",
+"t": "Prefeitura remove árvores após quedas provocadas pelas chuvas em Avencas",
+"p": "Serviço foi realizado em vias públicas, acessos ao distrito, estrada rural e escola estadual.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-remove-arvores-apos-quedas-provocadas-pelas-chuvas-em-avencas/",
+"auto": true
+},
+{
+"d": "2026-11-05",
 "h": "10:14",
 "t": "Justiça manda suspender ‘Bolsa Mounjaro’ em Urupês; prefeitura aplicava versão manipulada, comprada com emenda de Tiririca",
 "p": "Tirzepatida aplicada é versão feita em farmácia de manipulação, o que é legal, mas exige regras Pexels A Justiça de São Paulo mandou a Prefeitura de Urupês, no interior de São Paulo, suspender as aplicações de tirzepatida manipulada em pacientes com obesidade atendidos pela rede pública. A decisão é provisória, de…",
@@ -60,6 +523,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/justica-manda-suspender-bolsa-mounjaro-em-urupes-prefeitura-aplicava-versao-manipulada-comprada-com-emenda-de-tiririca/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:10",
+"t": "Após 81 anos, ponte destruída na Segunda Guerra Mundial será reconstruída em obra de R$ 500 milhões que substituirá travessia por balsa",
+"p": "Uma estrutura destruída durante a Segunda Guerra Mundial está prestes a voltar a conectar duas regiões da Polônia. Após 81 anos, uma nova ponte sobre o rio Oder está em fase final de construção, perto da cidade de Racibórz. A obra substituirá a antiga travessia por balsa, que funcionou no local durante décadas. A…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/apos-81-anos-ponte-destruida-na-segunda-guerra-mundial-sera-reconstruida-em-obra-de-r-500-milhoes-que-substituira-travessia-por-balsa/",
 "auto": true
 },
 {
@@ -116,6 +591,20 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/forca-tatica-prende-casal-por-trafico-de-drogas-em-propriedade-rural-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "10:03",
+"t": "Polícia prende suspeito de fraturar rosto de homem em praia de Bertioga",
+"p": "Vítima, de 54 anos, foi atacada por três suspeitos de bicicleta em 17 de outubro; polícia tenta identificar os outros envolvidos",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/policia-prende-suspeito-de-fraturar-rosto-de-homem-em-praia-de-bertioga.html",
 "auto": true
 },
 {
@@ -505,6 +994,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/trio-e-preso-em-operacao-do-gaeco-de-ribeirao-preto-contra-venda-de-medicamentos-oncologicos-falsificados/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "08:44",
+"t": "Sesc Marília apresenta nova unidade e detalha atrações da inauguração",
+"p": "Complexo abre nos dias 14 e 15 de novembro, com mais de 80 atividades gratuitas; estrutura terá piscinas, teatro e serviços para moradores de 47 municípios.",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/conteudopatrocinado/sesc-marilia-apresenta-nova-unidade-e-detalha-atracoes-da-inauguracao/",
 "auto": true
 },
 {
