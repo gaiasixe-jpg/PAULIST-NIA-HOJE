@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-05T19:54:49-03:00",
-"novos_nesta_coleta": 18,
+"atualizado": "2026-11-05T20:50:08-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 73 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,212 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-05",
+"h": "20:49",
+"t": "Pesquisador da USP é morto a tiros na Dutra; polícia pede prisão de suspeito",
+"p": "Pesquisador da USP, Daniel Oliveira de Andrade, tinha 28 anos e dormia no carro quando veículo recebeu disparos em Nova Iguaçu",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/pesquisador-da-usp-morto-a-tiros-na-dutra-policia-pede-prisao-de-suspeito/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:40",
+"t": "Diário Comunidade deste domingo (8) destaca diabetes e os cuidados com a saúde",
+"p": "Edição reúne histórias de pessoas que convivem com o diagnóstico, orientações de especialistas e dicas para manter uma alimentação equilibrada",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/conteudo-de-marca/diario-comunidade-deste-domingo-8-destaca-diabetes-e-os-cuidados-com-a-saude/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:38",
+"t": "Justiça condena ex-prefeito de Monte Azul Paulista por desvio de dinheiro",
+"p": "Ex-prefeito e ex-secretária de Monte Azul Paulista desviaram dinheiro para financiar evento de rodeio e sertanejo na cidade, diz Justiça",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Monte Azul Paulista"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-condena-ex-prefeito-de-monte-azul-paulista-por-desvio-de-dinheiro",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:35",
+"t": "Filha de Brad Pitt com Angelina Jolie ganha aval da Justiça para retirar sobrenome do pai e adota novo nome oficial na Califórnia",
+"p": "Vivienne, filha de Angelina Jolie e Brad Pitt, teve o pedido de retirada do sobrenome paterno aprovado pela Justiça da Califórnia. Segundo documentos judiciais obtidos pela revista People, a jovem de 18 anos poderá passar a assinar oficialmente como Vivienne Marcheline Jolie, em vez de Vivienne Marcheline…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/filha-de-brad-pitt-com-angelina-jolie-ganha-aval-da-justica-para-retirar-sobrenome-do-pai-e-adota-novo-nome-oficial-na-california/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:30",
+"t": "Polícia investiga suspeito de aplicar golpe do aparelho auditivo em Santos",
+"p": "Apoio CANAL5WEBTV Até o momento, a investigação identificou pelo menos nove vítimas e cinco boletins de ocorrência relacionados aos fatos.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-baixada/policia-investiga-suspeito-de-aplicar-golpe-do-aparelho-auditivo-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:23",
+"t": "Operação Impacto apreende mais de meia tonelada de drogas e captura foragido",
+"p": "Uma ação ostensiva da Polícia Militar de São Paulo resultou na apreensão de 576 quilos de drogas e na captura de um procurado da Justiça entre a quarta (4) e esta quinta-feira (5). Denominada Operação Impacto – Canil Integrado, a ofensiva mobilizou equipes da Polícia Rodoviária e do Policiamento de Choque com o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-impacto-apreende-mais-de-meia-tonelada-de-drogas-e-captura-foragido/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:21",
+"t": "Rajadas de vento de até 80 km/h derrubam árvores e atingem cidades do interior de SP",
+"p": "O avanço de uma frente fria trouxe fortes rajadas de vento e instabilidades para diversas regiões do estado de São Paulo ao longo desta quinta-feira (5). De acordo com o Centro de Gerenciamento de Emergências (CGE) da Defesa Civil estadual, as maiores velocidades foram apuradas em Paulínia (80,5 km/h), Osasco (78,1…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Paulínia",
+"Osasco"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/rajadas-de-vento-de-ate-80-km-h-derrubam-arvores-e-atingem-cidades-do-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:18",
+"t": "Auxiliar de cozinha é preso após esfaquear chapeiro por divergência política",
+"p": "A Justiça manteve a prisão preventiva de Fabio Luis Rosa Pedão, de 48 anos, em audiência de custódia realizada nesta quinta-feira (5). O auxiliar de cozinha é investigado pela tentativa de homicídio contra um chapeiro de 33 anos dentro da padaria onde trabalhavam, no município de Araçatuba. O crime ocorreu no dia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/auxiliar-de-cozinha-e-preso-apos-esfaquear-chapeiro-por-divergencia-politica/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:17",
+"t": "Gaeco denuncia ex-presidente da Câmara de Catanduva e aliados por lavagem de dinheiro",
+"p": "O Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), do Ministério Público de São Paulo, denunciou o ex-presidente da Câmara Municipal de Catanduva, Marcos Aparecido Ferreira (PT), seu filho e outros integrantes de seu grupo político pelos crimes de lavagem de dinheiro e ocultação de patrimônio. A…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Catanduva",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/gaeco-denuncia-ex-presidente-da-camara-de-catanduva-e-aliados-por-lavagem-de-dinheiro/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:13",
+"t": "TSE admite ação do Novo contra a chapa Lula-Alckmin por abuso de poder político",
+"p": "Partido alega que o governo Lula adotou medidas de apelo popular para beneficiar o presidente durante a campanha eleitoral",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/tse-admite-acao-do-novo-contra-a-chapa-lula-alckmin-por-abuso-de-poder-politico/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:10",
+"t": "Ação em memória às vítimas de acidentes de trânsito é destaque no calendário educativo da Semob para novembro",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Mobilidade (Semob), iniciou na terça-feira (3) sua programação na área de Educação no Trânsito para o mês de novembro. Entre as 42 atividades programadas até o próximo dia 30 estão, inclusive, ações inéditas de conscientização alusivas ao Dia Mundial em Memória às…",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/acao-em-memoria-as-vitimas-de-acidentes-de-transito-e-destaque-no-calendario-educativo-da-semob-para-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:05",
+"t": "Morangos que seriam jogados fora por causa da aparência viram bebida fermentada e gomas nas mãos de 3 adolescentes de 16 anos que conquistam prêmio",
+"p": "Existem morangos que nunca chegaram à ser comercializados. As vezes, podem não estar nem estragados e nem podres, no entanto, podem não atender aos padrões desejados pelas lojas ou feirantes. Uma dúvida sobre o que fazer com elas foi o ponto de partida para três estudantes de 16 anos da Escola Pumahue Curauma, em…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/morangos-que-seriam-jogados-fora-por-causa-da-aparencia-viram-bebida-fermentada-e-gomas-nas-maos-de-3-adolescentes-de-16-anos-que-conquistam-premio/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:02",
+"t": "Motorista envolvido em acidente que matou mulher Campinas-Monte Mor se apresentou à Polícia",
+"p": "Homem afirma que não se lembra do que aconteceu antes da batida e negou participação em racha; investigação analisa imagens de câmera da rodovia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motorista-envolvido-em-acidente-que-matou-mulher-campinas-monte-mor-se-apresentou-a-policia/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:00",
+"t": "Homem é preso com canivete após tentar roubar estudante perto de escola em Itanhaém",
+"p": "Rerpodução Suspeito abordou aluno na área externa da unidade, foi localizado perto da orla com um canivete e reconhecido por outra vítima de roubo.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/homem-e-preso-com-canivete-apos-tentar-roubar-estudante-perto-de-escola-em-itanhaem/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "19:50",
+"t": "País europeu coloca 11 raças de cães em ‘lista negra’, proíbe criação e reprodução e impõe novas restrições para animais que já vivem no território",
+"p": "Um país europeu decidiu endurecer suas regras de proteção animal e segurança pública ao incluir 11 raças e categorias de cães em uma lista de restrições. A medida foi aprovada na Moldávia, no Leste Europeu, e proibirá a criação e a reprodução desses animais a partir de 6 de setembro de 2027, além de estabelecer […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/pais-europeu-coloca-11-racas-de-caes-em-lista-negra-proibe-criacao-e-reproducao-e-impoe-novas-restricoes-para-animais-que-ja-vivem-no-territorio/",
+"auto": true
+},
 {
 "d": "2026-11-05",
 "h": "19:46",
