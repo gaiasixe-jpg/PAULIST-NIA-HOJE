@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T15:58:54-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-06T16:56:19-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,163 @@
 "itens": [
 {
 "d": "2026-11-06",
+"h": "16:50",
+"t": "Quem era o falso padre condenado por estelionato encontrado morto no centro",
+"p": "Marcos Rodrigues Fontana tinha 65 anos e um histórico de crimes patrimoniais. Ele se passava por padre e cobrava para rezar missas",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/quem-era-o-falso-padre-condenado-por-estelionato-encontrado-morto-no-centro",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:48",
+"t": "Empresas de Jundiaí são mapeadas para ampliar exportações e negócios internacionais",
+"p": "Foto: Prefeitura de Jundiaí Empresas são mapeadas para ampliar exportações. Programa identifica setores prioritários e prepara ações para negócios internacionais.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-exportacoes-investimentos-mercado-internacional/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:47",
+"t": "Dia Municipal do... Telecatch? Eleitores questionam vereadora autora de lei",
+"p": "Nova data comemorativa será comemorada no dia 18 de outubro, em homenagem ao dia de nascimento de Ted Boy Marino, grande nome do telecatch",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/dia-municipal-do-telecatch-eleitores-questionam-vereadora-autora-de-lei",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:46",
+"t": "Estudantes da 3ª série do Ensino Médio realizam avaliação do Saresp nas escolas estaduais",
+"p": "Logo após enfrentarem a maratona de dois dias de provas do Provão Paulista Seriado, cerca de 322 mil estudantes da 3ª série do Ensino Médio da rede estadual paulista passam por mais uma etapa importante nesta sexta-feira (6). Os alunos realizam o Saresp (Sistema de Avaliação de Rendimento Escolar do Estado de São…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estudantes-da-3a-serie-do-ensino-medio-realizam-avaliacao-do-saresp-nas-escolas-estaduais/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:45",
+"t": "Mogi Shopping abre Natal com espetáculo inspirado na Broadway e decoração que terá árvore gigante de mais de 8,5 metros",
+"p": "O Mogi Shopping abre a programação de Natal no dia 11 de novembro, às 20h, com o espetáculo “The Christmas Show”, do Estúdio Broadway, sob direção artística de Fernanda Chamma. A apresentação será gratuita e aberta ao público, na Praça de Eventos, e marcará a inauguração da decoração natalina “Acordes de Natal”.…",
+"tema": "Geral",
+"s": "entregue",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/mogi-shopping-abre-natal-com-espetaculo-inspirado-na-broadway-e-decoracao-que-tera-arvore-gigante-de-mais-de-85-metros/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:40",
+"t": "Programação – Cinema",
+"p": "Confira a programação dos cinemas da Baixada Santista entre os dias 7 e 10 de novembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/agende-se/programacao-cinema-308/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:33",
+"t": "Homem é preso e moto furtada é recuperada pela PM após perseguição",
+"p": "Uma ação da Polícia Militar resultou na prisão de um homem e na recuperação de uma motocicleta furtada na manhã de quinta-feira (5), em Monte Aprazível. O veículo, uma Honda CG 160 Fan, havia sido levado durante a madrugada no município vizinho de Bálsamo. A intervenção ocorreu durante um patrulhamento de rotina,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Monte Aprazível",
+"Bálsamo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-e-moto-furtada-e-recuperada-pela-pm-apos-perseguicao/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:30",
+"t": "Acompanhamento de saúde: regra nacional exige vacinação e peso em dia de crianças e gestantes para manter o Bolsa Família",
+"p": "O acompanhamento periódico da saúde de crianças e gestantes é uma condicionalidade obrigatória do programa Bolsa Família em todo o território nacional. Determinado pelo Governo Federal e operacionalizado pelo Ministério da Saúde em conjunto com o Ministério do Desenvolvimento e Assistência Social, Família e Combate…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/acompanhamento-de-saude-regra-nacional-exige-vacinacao-e-peso-em-dia-de-criancas-e-gestantes-para-manter-o-bolsa-familia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:02",
+"t": "Citronela, alecrim e manjericão afastam mosquitos? Entenda os limites e os cuidados necessários",
+"p": "Com a chegada do período chuvoso, a atenção com os ambientes externos e internos da casa precisa ser redobrada. Vasos, canteiros e pequenos espaços do quintal passam a exigir mais cuidados, especialmente com o aumento da umidade e a presença de mosquitos. Nesse cenário, algumas plantas aromáticas despertam o…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/citronela-alecrim-e-manjericao-afastam-mosquitos-entenda-os-limites-e-os-cuidados-necessarios/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:00",
+"t": "‘Milei paraguaio’, ex-senador Payo Cubas é expulso por manifestantes durante protesto contra o governo de Santiago Peña",
+"p": "O ex-senador e ex-candidato à Presidência do Paraguai Payo Cubas viveu momentos de forte tensão na madrugada desta sexta-feira (6/11) ao ser expulso por manifestantes durante um protesto contra o governo do Presidente Santiago Peña. O episódio ocorreu no centro de Assunção, onde milhares de cidadãos se reuniram…",
+"tema": "Eleições",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/milei-paraguaio-ex-senador-payo-cubas-e-expulso-por-manifestantes-durante-protesto-contra-o-governo-de-santiago-pena/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:00",
+"t": "Obras na Alemoa Industrial chegam a 98% e novo trecho é liberado",
+"p": "Divulgação Mais um trecho da Rua Augusto Scaraboto, na Alemoa Industrial, em Santos, foi liberado ao trânsito na terça-feira (3).",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/obras-na-alemoa-industrial-chegam-a-98-e-novo-trecho-e-liberado/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:00",
+"t": "Câmara de Mongaguá realiza audiência pública para discutir a Lei Orçamentária Anual de 2027",
+"p": "Divulgação A Câmara de Mongaguá realiza, na próxima quinta-feira (12), às 19 horas, uma Audiência Pública para apresentar e discutir a Lei Orçamentária Anual (LOA).",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/camara-de-mongagua-realiza-audiencia-publica-para-discutir-a-lei-orcamentaria-anual-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "15:58",
 "t": "Guarda municipal é presa em operação contra venda irregular de medicamentos para emagrecer",
 "p": "Polícia Civil encontrou 15 ampolas de tirzepatida, substância presente no Mounjaro, além de produtos farmacêuticos de origem estrangeira e um revólver; Prefeitura de Amparo abriu sindicância para apurar o caso",
@@ -87,6 +244,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/exposicao-criacoes-e-reproducoes-impressoes-em-giz-pastel-esta-disponivel-no-patio-ciane-shopping/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "15:28",
+"t": "Vereador de Santo André promove ação no Centro em celebração à vitória de Lula",
+"p": "Atividade na Rua Coronel Oliveira Lima conta com personalização de camiseta e apresentações musicais",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367336/vereador-de-santo-andre-promove-acao-no-centro-em-celebracao-a-vitoria-de-lula",
 "auto": true
 },
 {
@@ -3080,6 +3251,48 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67713",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Candidatos têm até 10 de novembro para efetuar inscrição no concurso público da Prudenprev",
+"p": "",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67717",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "2º Festival do Livro é aberto e segue com programação até 26 de novembro no IBC",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67716",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Prefeitura capacita Central de Ambulâncias e do Transporte Social para implantação do SAMU",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67715",
 "auto": true
 },
 {
