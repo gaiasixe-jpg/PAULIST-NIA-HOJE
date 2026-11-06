@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T00:58:49-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-06T02:04:10-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,46 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-06",
+"h": "02:03",
+"t": "Vereador quer promoção para GCMs que exerceram cargos de comando",
+"p": "Um projeto de lei apresentado pelo vereador Klebinho Kizumba (PL) pode abrir caminho para que guardas municipais de Rio Preto que já exerceram funções de comando na corporação avancem na carreira e cheguem ao cargo de inspetor. A proposta estabelece que servidores que tenham trabalhado como comandante ou…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/vereador-quer-promocao-para-gcms-que-exerceram-cargos-de-comando/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "02:00",
+"t": "Cotista alvo de racismo na infância perde vaga na USP após decisão judicial",
+"p": "Rebecca Vieira foi desligada da Faculdade de Direito da Universidade de São Paulo (USP) depois de mais de dois anos de batalha na Justiça",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cotista-alvo-de-racismo-na-infancia-perde-vaga-na-usp-apos-decisao-judicial",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "01:35",
+"t": "Polícia de SP apreende 576 quilos de drogas e captura procurado durante operação nas rodovias paulistas",
+"p": "A Polícia Militar do Estado de São Paulo realiza, entre quarta-feira (4) e quinta-feira (5), a Operação Impacto – Canil Integrado para combater o tráfico de drogas e outros crimes nas principais rodovias do estado. Até a noite desta quinta, a ação já resultou na apreensão de 576 quilos de drogas, com 1.099 pessoas…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-de-sp-apreende-576-quilos-de-drogas-e-captura-procurado-durante-operacao-nas-rodovias-paulistas/",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "00:03",
