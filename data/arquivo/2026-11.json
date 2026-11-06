@@ -3,6 +3,82 @@
 "itens": [
 {
 "d": "2026-11-05",
+"h": "23:34",
+"t": "Batida entre carro e moto deixa ferido no Campus Universitário",
+"p": "Vítima sendo socorrida após acidente em Marília Vítima foi encaminhada por uma equipe do Samu para o HC de Marília, após acidente de trânsito na zona oeste da cidade.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/batida-entre-carro-e-moto-deixa-ferido-no-campus-universitario/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "23:25",
+"t": "Dorme oito horas e ainda acorda cansado? Entenda por que isso acontece e quais problemas de saúde podem estar por trás",
+"p": "Você dorme sete, oito ou até nove horas, mas, quando o despertador toca, parece que não descansou nada? Os olhos continuam pesados, levantar da cama exige esforço e a vontade de voltar a dormir acompanha boa parte da manhã. Embora seja comum, essa sensação pode indicar que algo está prejudicando a qualidade do…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/dorme-oito-horas-e-ainda-acorda-cansado-entenda-por-que-isso-acontece-e-quais-problemas-de-saude-podem-estar-por-tras/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "22:57",
+"t": "Professora de 42 anos deixa cidade grande e constrói casa hexagonal de barro com 30 m² nas montanhas; detalhe curioso é que seu filho nasceu ali mesmo",
+"p": "Uma professora argentina de 42 anos trocou a vida na região metropolitana de Buenos Aires por uma pequena casa de barro construída com as próprias mãos nas montanhas de Córdoba. A moradia tem apenas 30 metros quadrados, formato hexagonal e utiliza materiais naturais encontrados na região. A protagonista é Jésica…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/professora-de-42-anos-deixa-cidade-grande-e-constroi-casa-hexagonal-de-barro-com-30-m%c2%b2-nas-montanhas-detalhe-curioso-e-que-seu-filho-nasceu-ali-mesmo-nn/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "22:51",
+"t": "Procurado da Justiça morre após troca de tiros com o Baep em Santo André",
+"p": "Homem foi localizado em sótão de apartamento na Vila Guiomar; segundo a PM, ele estava armado com uma pistola de numeração suprimida e reagiu à abordagem.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367182/procurado-da-justica-morre-apos-troca-de-tiros-com-o-baep-em-santo-andre",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "22:30",
+"t": "Kim Kataguiri propõe trava sobre aumento de benefícios sociais durante ano eleitoral em Projeto de Lei",
+"p": "A proibição expressa do aumento de benefícios sociais e de despesas com pessoal em anos eleitorais pode passar a ser formalizada no País através do Projeto de Lei Complementar (PLP) 279/2026. De autoria do deputado federal Kim Kataguiri, o texto propõe alterar a Lei de Responsabilidade Fiscal e a Lei das Eleições…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/kim-kataguiri-propoe-trava-sobre-aumento-de-beneficios-sociais-durante-ano-eleitoral-em-projeto-de-lei/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "22:30",
+"t": "A Coreia do Norte testou uma arma tão poderosa que pode destruir 60 mil metros quadrados com um único ataque",
+"p": "Coreia do Norte testou míssil de cruzeiro com ogiva de fragmentação capaz de atingir até 60 mil metros quadrados, segundo o governo.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/a-coreia-do-norte-testou-uma-arma-tao-poderosa-que-pode-destruir-60-mil-metros-quadrados-com-um-unico-ataque/",
+"auto": true
+},
+{
+"d": "2026-11-05",
 "h": "22:13",
 "t": "Engenheiro morto em ato pró-Lula: 6º adolescente é apreendido pela polícia",
 "p": "Marcelo de Oliveira foi agredido durante um roubo enquanto participava de um ato pró-Lula no litoral e morreu em decorrência dos ferimentos",
@@ -63,6 +139,18 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/mulher-diz-ter-perdido-r-26-mil-em-golpe-apos-romance-em-app-e-denuncia-suspeito-a-policia/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:44",
+"t": "Mulher de 41 anos deixa lar de idosos após 18 meses e vai morar em residência adequada à sua idade; falta de vagas explica toda a espera",
+"p": "Uma mulher de 41 anos finalmente conseguiu deixar uma casa de repouso para idosos depois de passar aproximadamente um ano e meio vivendo em uma instituição que não correspondia à sua faixa etária. O caso aconteceu na Alemanha e chamou atenção para a dificuldade de encontrar moradias assistidas para adultos que…",
+"tema": "Habitação",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/mulher-de-41-anos-deixa-lar-de-idosos-apos-18-meses-e-vai-morar-em-residencia-adequada-a-sua-idade-falta-de-vagas-explica-toda-a-espera-nn/",
 "auto": true
 },
 {
