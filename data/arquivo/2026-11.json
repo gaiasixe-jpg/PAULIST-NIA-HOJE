@@ -3,6 +3,42 @@
 "itens": [
 {
 "d": "2026-11-06",
+"h": "02:45",
+"t": "Iza, João Gomes, Matuê, festival de cinema e evento geek: o que fazer em SP",
+"p": "Programação do final de semana conta com shows de Iza, João Gomes, Matuê, Daniel e mais. Agenda também tem humor, teatro e cinema",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/iza-joao-gomes-matue-geek-sp",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "02:28",
+"t": "Polícia de SP e Cruz Vermelha firmam acordo para identificar 300 ossadas no IML",
+"p": "A Polícia Técnico-Científica do Estado de São Paulo e o Comitê Internacional da Cruz Vermelha (CICV) assinaram, nesta quinta-feira (5), um termo de cooperação técnica para atuar na identificação de 300 ossadas sob custódia do Instituto Médico Legal (IML) paulista. A iniciativa visa ampliar a capacidade de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-de-sp-e-cruz-vermelha-firmam-acordo-para-identificar-300-ossadas-no-iml/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "02:26",
+"t": "Lua Minguante traz momento ideal para encerrar cobranças em silêncio e fortalecer relações com o Hierofante",
+"p": "A fase da Lua Minguante atua no firmamento de 1 de novembro de 2026, às 17h30min, até ao dia 9 de novembro de 2026, às 04h02min, momento em que o zodíaco abraça a Lua Nova. A atmosfera deste período reflete-se de modo contundente nos laços afetivos e nas dinâmicas de parceria. Esta fase convida os […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/lua-minguante-traz-momento-ideal-para-encerrar-cobrancas-em-silencio-e-fortalecer-relacoes-com-o-hierofante/",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "02:03",
 "t": "Vereador quer promoção para GCMs que exerceram cargos de comando",
 "p": "Um projeto de lei apresentado pelo vereador Klebinho Kizumba (PL) pode abrir caminho para que guardas municipais de Rio Preto que já exerceram funções de comando na corporação avancem na carreira e cheguem ao cargo de inspetor. A proposta estabelece que servidores que tenham trabalhado como comandante ou…",
