@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T12:56:22-03:00",
-"novos_nesta_coleta": 34,
+"atualizado": "2026-11-06T13:58:18-03:00",
+"novos_nesta_coleta": 21,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,283 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-06",
+"h": "13:51",
+"t": "Mogi-Bertioga tem interdição parcial em dois trechos nesta sexta-feira (6)",
+"p": "Motoristas encontram obras entre os quilômetros 75 e 92 e também no segmento de Bertioga, entre os quilômetros 92 e 98,1",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicao-parcial-em-dois-trechos-nesta-sexta-feira-6.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:48",
+"t": "Vinis, brinquedos antigos e obras de arte movimentam o Centro de Jundiaí neste domingo (8)",
+"p": "Feira reúne artistas e colecionadores na Praça da Matriz, com obras de arte, antiguidades e peças de colecionismo - Foto: Prefeitura de Jundiaí Última edição de 2026 da Feira de Artes Plásticas e Antiguidades reúne artistas e colecionadores no Centro de Jundiaí, com opções para quem gosta de arte, antiguidades e…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/feira-artes-plasticas-antiguidades-jundiai-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:46",
+"t": "TCE questiona edital e suspende licitação de R$ 1,8 milhão em Marília",
+"p": "Marília reformula Carta de Serviços e amplia opções de atendimento no portal oficial Pregão previa plataforma de gestão de processos administrativos; suspensão ocorreu por decisão cautelar da Corte de Contas.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tce-questiona-edital-e-suspende-licitacao-de-r-18-milhao-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:44",
+"t": "Operação da Polícia e MP de SP investiga desvio de R$ 24 milhões da Previdência de Itanhaém e cumpre cinco mandados",
+"p": "A Polícia Militar e o Ministério Público de São Paulo (MPSP) cumpriram cinco mandados de busca e apreensão nesta sexta-feira (6), em Itanhaém, no litoral paulista, durante uma operação que investiga o suposto desvio de aproximadamente R$ 24 milhões da Previdência dos Funcionários Públicos do município. Batizada de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Itanhaém"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-da-policia-e-mp-de-sp-investiga-desvio-de-r-24-milhoes-da-previdencia-de-itanhaem-e-cumpre-cinco-mandados/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:44",
+"t": "PM de SP impede furto de uma tonelada de fios de cobre e prende três suspeitos",
+"p": "Três integrantes de uma quadrilha especializada em furto de fios foram presos na madrugada desta sexta-feira (6), após a Polícia Militar interromper um furto em andamento no bairro Jardim Jussara, na zona oeste de São Paulo. Cerca de uma tonelada de cabos de cobre foi recuperada durante a ação. Os suspeitos estavam…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-de-sp-impede-furto-de-uma-tonelada-de-fios-de-cobre-e-prende-tres-suspeitos/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:44",
+"t": "Governo de SP inicia nova etapa das Travessias Litorâneas com R$ 2,5 bilhões em investimentos previstos e modernização da frota",
+"p": "O Governo de São Paulo inicia, na próxima segunda-feira (9), uma nova etapa na gestão e operação das Travessias Litorâneas, com a entrada da concessionária Acquavias, que passará a operar o sistema em regime de transição. O início da nova fase será acompanhado por um período de três meses de operação assistida,…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-inicia-nova-etapa-das-travessias-litoraneas-com-r-25-bilhoes-em-investimentos-previstos-e-modernizacao-da-frota/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:44",
+"t": "Rodovia Oswaldo Cruz registra tráfego intenso no trecho de serra nesta sexta-feira (6)",
+"p": "Fluxo é intenso nos dois sentidos da serra, enquanto os demais pontos monitorados entre Taubaté e Ubatuba apresentam tráfego normal",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Taubaté",
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-registra-trafego-intenso-no-trecho-de-serra-nesta-sexta-feira-6.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:44",
+"t": "“Vozes Negras” discute caminhos para uma educação antirracista",
+"p": "igualdade racial",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/vozes-negras-discute-caminhos-para-uma-educacao-antirracista/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:38",
+"t": "Itapeva: Sabesp anuncia medidas para reforçar tratamento e monitoramento da água, ampliar apoio à população e contribuir com o esclarecimento dos fatos",
+"p": "Como parte de sua atuação diante dos casos de gastroenterite registrados em Itapeva, a Sabesp anuncia, nesta quinta-feira (5/11), a adoção de seis novas medidas para reforçar o tratamento e o monitoramento da água, ampliar o suporte à população e contribuir para o esclarecimento dos fatos. A segurança da água e a…",
+"tema": "Saneamento",
+"s": "anunciado",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/tratamento-agua-itapeva/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:35",
+"t": "PT deve apoiar aliado de Nunes para presidência da Câmara Municipal de SP",
+"p": "Vereador João Jorge (MDB), que é da base governista, anunciou a candidatura à presidência da Casa nesta semana",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pt-deve-apoiar-aliado-de-nunes-para-presidencia-da-camara-municipal-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:35",
+"t": "Defesa Civil de Registro participa de capacitação para atuação no período de chuvas",
+"p": "gestão de riscos",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/defesa-civil-de-registro-participa-de-capacitacao-para-atuacao-no-periodo-de-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:23",
+"t": "Vereador Junior Féfin presta depoimento à Polícia Civil em Marília",
+"p": "Junior Féfin prestou depoimento para a Polícia Civil em Marília Parlamentar foi ouvido na manhã desta sexta-feira pelo delegado Mário Furlaneto Neto e evitou a imprensa na saída da Delegacia Seccional.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/vereador-junior-fefin-presta-depoimento-a-policia-civil-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:23",
+"t": "Justiça autoriza volta do funcionamento de três bets no Brasil",
+"p": "A decisão da desembargadora Adriana Pileggi libera a volta às atividades das plataformas Casa de Apostas, Betsul e Jogo Online, todas pertencentes à CDA Gaming.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/justica-autoriza-volta-do-funcionamento-de-tres-bets-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:13",
+"t": "Operação investiga desvio de R$ 24 milhões da Previdência de Itanhaém e cumpre cinco mandados",
+"p": "Polícia Militar e Gaeco realizaram buscas em quatro residências e na sede da instituição; eletrônicos, joias, dinheiro e um veículo foram apreendidos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/operacao-investiga-desvio-de-r-24-milhoes-da-previdencia-de-itanhaem/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:11",
+"t": "Lula vai criar Ministério da Segurança Pública com Medida Provisória",
+"p": "Nova pasta foi uma das promessas de campanha do presidente reeleito",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:10",
+"t": "Justiça autoriza volta do funcionamento de três bets no Brasil",
+"p": "O Tribunal Regional Federal da 3ª Região (TRF-3), de São Paulo, autorizou, em liminar, a volta do funcionamento de três casas de apostas. O governo federal proibiu no mês de setembro, por meio de medida provisória assinada pelo presidente Luiz Inácio Lula da Silva, as bets de atuarem no Brasil. A decisão da…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-autoriza-volta-do-funcionamento-de-tres-bets-no-brasil",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:06",
+"t": "Estudantes da zona rural e pessoas com deficiência terão transporte gratuito no Enem",
+"p": "Governo de SP oferecerá deslocamento a alunos da rede estadual em mais de 500 cidades; em Rio Preto, gratuidade já é garantida aos demais usuários aos domingos",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/estudantes-da-zona-rural-e-pessoas-com-deficiencia-terao-transporte-gratuito-no-enem/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:02",
+"t": "Preparação para entrevistas de emprego e apoio emocional são temas de encontros na Casa do Trabalhador na próxima semana",
+"p": "Programação gratuita dos dias 10 e 11 de novembro busca fortalecer a confiança e preparar trabalhadores para novas oportunidades. A Prefeitura de Sorocaba, por meio da Secretaria de Relações do Trabalho e Qualificação Profissional (Sert), realizará, no dia 10 de novembro (terça-feira), às 9h30, o encontro gratuito…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/preparacao-para-entrevistas-de-emprego-e-apoio-emocional-sao-temas-de-encontros-na-casa-do-trabalhador-na-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "13:00",
+"t": "Fim da escala 6×1 terá decreto na próxima segunda-feira e regras permitirão negociar a distribuição de oito folgas",
+"p": "O governo federal pretende publicar na próxima segunda-feira (9/11) um decreto para regulamentar o fim da escala de trabalho 6×1, com orientações para garantir aos trabalhadores pelo menos oito folgas a cada 30 dias A medida deverá permitir diferentes formas de organizar as jornadas, desde que sejam respeitados os…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/fim-da-escala-6x1-tera-decreto-na-proxima-segunda-feira-e-regras-permitirao-negociar-a-distribuicao-de-oito-folgas/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-06",
+"h": "12:59",
+"t": "Beach tennis promove inclusão de alunos surdos em Santos",
+"p": "Atividade gratuita na praia do Gonzaga oferece aulas com interpretação em libras; programação segue até sexta-feira (6)",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/beach-tennis-promove-inclusao-de-alunos-surdos-em-santos.html",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "12:50",
@@ -156,6 +433,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/consultorio-veterinario-movel-atendera-no-jardim-maria-eugenia-na-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "12:23",
+"t": "Mostra de saúde em São Bernardo reúne 88 trabalhos",
+"p": "Evento termina nesta sexta-feira (6), na Faculdade de Direito, com a premiação de dez iniciativas desenvolvidas por profissionais da rede municipal",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367277/mostra-de-saude-em-sao-bernardo-reune-88-trabalhos",
 "auto": true
 },
 {
