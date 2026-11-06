@@ -2,6 +2,20 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-06",
+"h": "00:03",
+"t": "Vereador quer promoção para GCMs que exerceram cargos de comando",
+"p": "Servidores que tenham sido comandantes ou subcomandantes por pelo menos dois anos poderão chegar à função de inspetor, desde que cumpram outros requisitos",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereador-quer-promocao-para-gcms-que-exerceram-cargos-de-comando/",
+"auto": true
+},
+{
 "d": "2026-11-05",
 "h": "23:34",
 "t": "Batida entre carro e moto deixa ferido no Campus Universitário",
@@ -449,6 +463,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/motorista-envolvido-em-acidente-que-matou-mulher-campinas-monte-mor-se-apresentou-a-policia/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:02",
+"t": "Motorista envolvido em acidente que matou mulher Campinas-Monte Mor se apresenta à Polícia",
+"p": "Homem afirma que não se lembra do que aconteceu antes da batida e negou participação em racha; investigação analisa imagens de câmera da rodovia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motorista-envolvido-em-acidente-que-matou-mulher-campinas-monte-mor-se-apresenta-a-policia/",
 "auto": true
 },
 {
