@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T10:12:49-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-06T11:24:00-03:00",
+"novos_nesta_coleta": 31,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,401 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-06",
+"h": "11:23",
+"t": "Câmera flagra professora puxando aluno de 5 anos pelo agasalho: TRT-2 mantém justa causa e nega indenização por danos morais",
+"p": "A câmera de segurança do refeitório da escola registrou o momento em que uma professora de educação infantil puxou bruscamente um aluno de cinco anos pelo agasalho. Depois do episódio, a escola demitiu a profissional por justa causa. A professora recorreu da decisão e pediu a reversão da penalidade. Alegou que a…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/camera-flagra-professora-puxando-aluno-de-5-anos-pelo-agasalho-trt-2-mantem-justa-causa-e-nega-indenizacao-por-danos-morais/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:23",
+"t": "Aos 70 anos, homem descobre quem matou sua esposa após gastar R$ 700 mil para manter cena do crime intacta por 26 anos",
+"p": "Um homem no Japão passou 26 anos pagando o aluguel do apartamento onde sua esposa foi assassinada, sem alterar as provas. A decisão custou mais de 23 milhões de ienes (aproximadamente R$ 700 mil) e acabou ajudando a polícia a desvendar um crime que parecia impossível de solucionar. A persistência de Satoru Takaba…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/aos-70-anos-homem-descobre-quem-matou-sua-esposa-apos-gastar-r-700-mil-para-manter-cena-do-crime-intacta-por-26-anos/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:22",
+"t": "Sua câmera de segurança pode estar filmando o vizinho; entenda quando isso vira problema e quais cuidados tomar",
+"p": "Instalar uma câmera de segurança em casa é uma das alternativas para aumentar a proteção contra furtos, invasões e outras ocorrências. No entanto, o equipamento que deveria trazer tranquilidade pode acabar provocando problemas com a vizinhança e até consequências legais. Isso acontece quando o sistema ultrapassa os…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/sua-camera-de-seguranca-pode-estar-filmando-o-vizinho-entenda-quando-isso-vira-problema-e-quais-cuidados-tomar/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:22",
+"t": "Uma viagem de barco leva a um lugar que parece parado no tempo: museu recria o luxo dos barões e a rotina dura dos antigos seringueiros",
+"p": "Uma embarcação deixa a região urbana de Manaus e avança pelas águas do rio Negro. Conforme o trajeto se aproxima do igarapé São João, a paisagem passa a ser dominada pela vegetação. À margem do curso d’água, construções de madeira remetem ao período em que a exploração da borracha transformou a economia amazônica.…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/museu-do-seringal-vila-paraiso/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:20",
+"t": "Pedreiro é agredido com golpes de enxada por colega de trabalho em obra",
+"p": "Um homem de 41 anos foi vítima de uma tentativa de agressão grave na manhã de quinta-feira (5), no Residencial Jardim Antonieta, em São José do Rio Preto. O trabalhador foi atingido por golpes de enxada no momento em que chegava à obra onde presta serviços. Segundo declarações da vítima à Polícia Militar, o autor […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pedreiro-e-agredido-com-golpes-de-enxada-por-colega-de-trabalho-em-obra/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:20",
+"t": "Homem é preso em flagrante após furtar luminária de restaurante",
+"p": "Um homem desempregado, de 39 anos, foi preso em flagrante pela Polícia Militar na tarde de quinta-feira (5), após furtar uma luminária de um imóvel onde opera um restaurante japonês, no centro de São José do Rio Preto. A prisão foi ratificada pela Polícia Civil, que já representou à Justiça pela conversão da…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-em-flagrante-apos-furtar-luminaria-de-restaurante/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:16",
+"t": "Erika Hilton confirma interesse em disputar Prefeitura de São Paulo",
+"p": "Deputada federal mais votada na história, Erika Hilton (PSol) confirmou interesse em concorrer à vaga de prefeita nas eleições de 2028",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/erika-hilton-confirma-interesse-em-disputar-prefeitura-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:15",
+"t": "Escola cívico-militar abre inscrições para Ensino Fundamental",
+"p": "Inscrições para o ano letivo de 2027 serão realizadas de 9 a 27 de novembro",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/escola-civico-militar-abre-inscricoes-para-ensino-fundamental/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:15",
+"t": "Polícia Militar prende homem por tráfico de drogas em Capão Bonito",
+"p": "Um homem foi preso por tráfico de drogas na quinta-feira (5), durante uma ação conjunta da Força Tática da Polícia Militar e da Polícia Civil, em Capão Bonito. Segundo informações da Polícia Militar, a abordagem ocorreu nas proximidades de um posto de combustíveis, onde os policiais localizaram uma porção de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Capão Bonito"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/trafico-capao-bonito-5/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:13",
+"t": "Por que o lago do Parque das Artes está passando por obras? Entenda o serviço",
+"p": "Serviço de desassoreamento do lago do Parque das Artes, em Ribeirão Preto, deve seguir até janeiro",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/por-que-o-lago-do-parque-das-artes-esta-passando-por-obras-entenda-o-servico/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:11",
+"t": "Operação Running: Polícia Civil prende cinco suspeitos de envolvimento em roubo e sequestro de vereador",
+"p": "A Polícia Civil do Estado de São Paulo deflagrou, na manhã desta sexta-feira (6), a Operação “Running”, com o objetivo de cumprir mandados judiciais e prender integrantes de um grupo criminoso investigado pelo roubo e sequestro de um vereador de Itapeva. A ação foi coordenada pela Delegacia de Investigações Gerais…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/operacao-running/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:10",
+"t": "Problemas técnicos suspendem atendimento do Procon no Campolim",
+"p": "Em razão de problemas técnicos, o Procon Sorocaba suspendeu nesta sexta-feira (6) os atendimentos presenciais em sua sede, localizada na Avenida Antônio Carlos Comitre, 331, Parque Campolim. Os serviços seguem normalmente no Procon Móvel, que permanece até as 13h na Praça Coronel Fernando prestes, no Centro; e nas…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/problemas-tecnicos-suspendem-atendimento-do-procon-no-campolim/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:09",
+"t": "PM de SP abre concurso com 2 mil vagas para aluno-soldado e salário de R$5.482,51",
+"p": "Inscrições vão de 9 de novembro a 22 de dezembro no site da Vunesp, com taxa de R$110; candidatos devem ter entre 17 e 30 anos",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/brasil/pm-de-sp-abre-concurso-com-2-mil-vagas-para-aluno-soldado-e-salario-de-r548251.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "11:00",
+"t": "Cobra-d’água entra em casa pela tubulação e é resgatada pela GCM em São Vicente",
+"p": "Divulgação Uma cobra-d’água entrou em uma residência pela tubulação e surpreendeu uma moradora em São Vicente, na manhã de quarta-feira (4).",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/cobra-dagua-entra-em-casa-pela-tubulacao-e-e-resgatada-pela-gcm-em-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:56",
+"t": "Obras em 70%: Hospital Universitário de Jundiaí vai ganhar 3 mil m² de estrutura e novo Centro Cirúrgico",
+"p": "Foto: Prefeitura de Jundiaí Com investimento de R$ 70 milhões, unidade terá seis salas cirúrgicas, espaços para parto natural e mudanças nas acomodações de mães e bebês. Confira.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-universitario-de-jundiai-novo-centro-cirurgico-obras-70-porc/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:54",
+"t": "Uma viagem pela história de Jundiaí: caminhada gratuita explora patrimônios do Centro neste sábado (7)",
+"p": "Foto: Prefeitura de Jundiaí Participação é gratuita, mediante inscrição on-line; roteiro aborda a importância dos patrimônios culturais de Jundiaí",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/caminhada-gratuita-centro-historico-jundiai-patrimonios-culturais/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:43",
+"t": "Secretaria da Mulher promove atividade física gratuita com foco na saúde preventiva de mulheres a partir dos 40 anos de idade",
+"p": "Fotos: Rose Campos/Secom Com o objetivo de promover acolhimento, saúde e bem-estar, a Prefeitura de Sorocaba, por meio da Secretaria da Mulher (Semul), vem desenvolvendo vários projetos voltados ao público feminino, no Espaço Mulher 40+, no Centro da cidade. Criado especialmente para acolher e atender mulheres na…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-promove-atividade-fisica-gratuita-com-foco-na-saude-preventiva-de-mulheres-a-partir-dos-40-anos-de-idade/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:31",
+"t": "Ação no TSE questiona 35 decretos e programas da gestão Lula em ano eleitoral",
+"p": "Foto: Ricardo Stuckert/PR Partido Novo aponta uso de benefícios sociais para alavancar reeleição; Justiça manda notificar a chapa",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/acao-no-tse-questiona-35-decretos-e-programas-da-gestao-lula-em-ano-eleitoral/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-06",
+"h": "10:30",
+"t": "Riopreto Shopping abre temporada de Natal neste domingo (8)",
+"p": "Programação reúne atrações artísticas, experiências para toda a família, iniciativas sociais e culturais e decoração exclusiva",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/riopreto-shopping-abre-temporada-de-natal-neste-domingo-8/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:28",
+"t": "GCM localiza motocicleta com sinais de adulteração no bairro Nova Esperança",
+"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba localizou, manhã de quinta-feira (5), uma motocicleta com sinais de adulteração nos elementos identificadores, no bairro Nova Esperança, Zona Oeste da cidade. O caso ocorreu durante patrulhamento preventivo pelas adjacências. A equipe identificou o veículo…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-localiza-motocicleta-com-sinais-de-adulteracao-no-bairro-nova-esperanca/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:25",
+"t": "MP-SP faz operação contra desvio de R$ 24,9 milhões da previdência municipal de Itanhaém",
+"p": "Recursos teriam sido transferidos para contas de pessoas sem vínculo com a autarquia e repassados, em sua maioria, a servidores municipais",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/mp-sp-faz-operacao-contra-suspeita-de-desvio-milionario-da-previdencia-de-itanhaem.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:24",
+"t": "Assalto termina com reféns agredidos, tiro dentro de casa e R$ 400 mil levados em Garça",
+"p": "Quadrilha armada agrediu e ameaçou três pessoas durante o crime; Polícia Civil tenta descobrir autoria.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Garça"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/assalto-de-r-400-mil-termina-com-refens-agredidos-e-tiro-dentro-de-casa-em-garca/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:24",
+"t": "Troca emergencial de bomba pode deixar 6 bairros de Ribeirão Preto sem água até sábado",
+"p": "Manutenção emergencial em poço pode afetar abastecimento entre esta sexta (6) e sábado (7)",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/troca-emergencial-de-bomba-pode-deixar-6-bairros-de-ribeirao-preto-sem-agua-ate-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:21",
+"t": "Comissão aprova projeto que prevê apoio a profissionais da educação vítimas de violência",
+"p": "Kayo Magalhães / Câmara dos Deputados Tarcísio Motta é o relator da proposta A Comissão de Cultura aprovou o Projeto de Lei 7114/25, que cria o Programa Nacional de Apoio Jurídico, Psicológico e de Segurança aos Profissionais da Educação. A proposta do deputado Amom Mandel (Republicanos-AM) prevê assistência…",
+"tema": "Educação",
+"s": "anunciado",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/comissao-aprova-projeto-que-preve-apoio-a-profissionais-da-educacao-vitimas-de-violencia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:21",
+"t": "Áudio: CCJ analisa criação da Universidade do Vale do Juruá, no Acre",
+"p": "A Comissão de Constituição e Justiça (CCJ) analisa projeto de lei que autoriza o Poder Executivo a criar a Universidade Federal do Vale do Juruá (UFVJ), com sede em Cruzeiro do Sul, no Acre (PL 5352/2025). A proposta tem o objetivo de interiorizar a oferta de ensino superior público na Amazônia ocidental e…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Cruzeiro"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/audio-ccj-analisa-criacao-da-universidade-do-vale-do-jurua-no-acre/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:21",
+"t": "Justiça condena dois homens a 45 anos de prisão por assassinar mulher na frente dos filhos",
+"p": "Dois homens foram condenados pelo Tribunal do Júri de São José do Rio Preto a penas que somam 45 anos de reclusão pelo assassinato de Júnia Calixto, de 26 anos, morta a tiros na frente dos filhos de quatro e dois anos. O crime ocorreu em agosto de 2024, no bairro João Paulo II. A […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-condena-dois-homens-a-45-anos-de-prisao-por-assassinar-mulher-na-frente-dos-filhos/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:17",
+"t": "Mutirão contra dengue passa por dois bairros de Rio Preto",
+"p": "Agentes de saúde estarão nas duas áreas neste sábado, 7/11, das 8h às 14h",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mutirao-contra-dengue-passa-por-dois-bairros-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:16",
+"t": "Homem de 46 anos é encontrado morto na Estrada do Pedroso, em Santo André",
+"p": "Vítima foi localizada submersa na água na noite de quinta-feira (5); ocorrência foi registrada no 6º DP (Distrito Policial) do município",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367233/homem-de-46-anos-e-encontrado-morto-na-estrada-do-pedroso-em-santo-andre-",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:12",
+"t": "Passageiro morre após passar mal em voo para São Paulo",
+"p": "Tripulação iniciou primeiros-socorros e solicitou pouso de emergência. Vítima foi levada de ambulância e faleceu ao chegar ao hospital",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/passageiro-menor-de-idade-morre-apos-passar-mal-em-voo-com-destino-a-sp",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "10:11",
@@ -162,6 +557,20 @@
 },
 {
 "d": "2026-11-06",
+"h": "09:59",
+"t": "Câmara irá realizar audiência pública para discutir Lei Orçamentária de 2027",
+"p": "População poderá participar da discussão sobre as prioridades e os investimentos do município. Encontro, que acontece dia 12 de novembro, será transmitido ao vivo.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/camara-ira-realizar-audiencia-publica-para-discutir-lei-orcamentaria-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "09:53",
 "t": "Neto identifica ex da namorada como suspeito de incendiar caminhonete do avô",
 "p": "Homem reconheceu um dos envolvidos nas imagens de segurança",
@@ -186,6 +595,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/motorista-registra-manobra-perigosa-em-trecho-do-contorno-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:48",
+"t": "Motorista registra manobra perigosa em trecho do Contorno em Marília",
+"p": "Imagens mostram imprudência nas proximidades do acesso às universidades e ao cemitério, na rodovia do Contorno.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/motorista-registra-manobra-perigosa-em-trecho-do-contorno-em-marilia/",
 "auto": true
 },
 {
