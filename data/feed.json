@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T16:56:19-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-06T17:54:02-03:00",
+"novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,268 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-06",
+"h": "17:49",
+"t": "Parque da Biquinha recebe evento de adoção de cães do Canil Municipal de Sorocaba neste sábado (7)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema), realizará, neste sábado (7), das 9h às 13h, o evento de adoção de cães do Canil Municipal no Parque da Biquinha, localizado na Av. Comendador Pereira Inácio, 1.112, no Jardim Emília. O evento faz parte da…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/parque-da-biquinha-recebe-evento-de-adocao-de-caes-do-canil-municipal-de-sorocaba-neste-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:48",
+"t": "Sindicatos apontam desafios para implantação da escala 5×2",
+"p": "A redução da jornada de trabalho e a adoção da escala 5x2 devem provocar mudanças na organização de empresas e instituições. Representantes do comércio, setor imobiliário, porto e área da saúde apontam desafios relacionados aos custos, à contratação de funcionários e à manutenção dos serviços.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/setores-apontam-desafios-para-implantacao-da-escala-5x2/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:48",
+"t": "Prefeitura de Sorocaba abre inscrições para oficina gratuita de horta orgânica no Parque da Água Vermelha",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema), realizará no dia 14 de novembro, sábado, das 9h às 11h, a oficina gratuita de horta orgânica, no Parque da Água Vermelha ‘João Câncio Pereira’. As vagas são limitadas e as inscrições podem ser feitas pelo link:…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-abre-inscricoes-para-oficina-gratuita-de-horta-organica-no-parque-da-agua-vermelha/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:45",
+"t": "Confira a agenda do ‘Médico na Praça’ da próxima semana",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), segue com o “Médico na Praça”. O atendimento iniciará a semana, na segunda-feira (9), das 8h às 12h, na Praça da Bandeira, no Centro. Na terça-feira (10), das 9h às 13h, o veículo estará no Quintais do Imperador, na Rua José Carlos do Nascimento, […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/confira-a-agenda-do-medico-na-praca-da-proxima-semana-3/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:44",
+"t": "DAE inicia construção de reservatório com capacidade para 5 milhões de litros no Jardim Planalto",
+"p": "Foto: DAE Jundiaí Com investimento de R$ 11,5 milhões, estrutura vai reforçar o abastecimento de água para cerca de 16 mil famílias; DAE também prevê outros três reservatórios na cidade",
+"tema": "Água",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/dae-construcao-reservatorio-5-milhoes-litros-jardim-planalto/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:43",
+"t": "Ribeirão Preto convoca mais de 53 mil pessoas com diabetes para exames e consultas em postos de saúde",
+"p": "Ação Conexão Glicada vai até 30 de novembro em 31 unidades básicas de Ribeirão Preto; medida antecipa idade de rastreio da diabetes para 35 anos",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/ribeirao-preto-convoca-mais-de-53-mil-pessoas-com-diabetes-para-exames-e-consultas-em-postos-de-saude/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:31",
+"t": "‘Treinão’ comemora 39 anos da GCM Sorocaba neste domingo (8)",
+"p": "O ‘Treinão 39 anos GCM Sorocaba’ comemora neste domingo (8), a partir das 7h30, o 39.º aniversário de fundação da Guarda Civil Municipal (GCM). Aberta ao público de todas as idades, a programação prevê aula de alongamento, corrida e caminhada, com início e encerramento na altura do n.º 59 da Avenida São Paulo, no […]",
+"tema": "Segurança",
+"s": "anunciado",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/treinao-comemora-39-anos-da-gcm-sorocaba-neste-domingo-8/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:24",
+"t": "UBS Rodrigo promove oficina alusiva ao Mês da Consciência Negra",
+"p": "A UBS Rodrigo realizou, nesta sexta-feira (6), três oficinas abordando os temas Letramento Racial e Saúde da População Negra para profissionais da unidade. A iniciativa é alusiva ao Mês da Consciência Negra. Os encontros contaram com o apoio do psicólogo residente Ruan Kaique Alves Ferreira, que conduziu os…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/ubs-rodrigo-promove-oficina-alusiva-ao-mes-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:23",
+"t": "Nova carteira de identidade pode ser pedida pelo celular em Jundiaí; veja como solicitar gratuitamente",
+"p": "Foto: Imagem ilustrativa/Tribuna de Jundiaí Primeira via é gratuita, agendamento pode ser feito pelo aplicativo do Poupatempo e documento pode ser entregue em casa pelos Correios.",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/nova-carteira-de-identidade-pode-ser-pedida-pelo-celular-em-jundiai-veja-como-solicitar-gratuitamente/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:21",
+"t": "Defensoria Pública de SP abre concurso com 70 vagas e salário de R$ 29,7 mil",
+"p": "Foto: Reprodução/Defensoria Pública do Estado de São Paulo Primeira prova está prevista para janeiro de 2027, em São Paulo, com 88 questões de múltipla escolha",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/concurso-defensoria-publica-sp-70-vagas-salario-29-mil/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:19",
+"t": "Corrida Track & Field interdita avenida em Praia Grande neste domingo",
+"p": "Bloqueio começa às 5h e deve terminar por volta das 10h; linhas de ônibus terão alterações nos itinerários",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Praia Grande"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/corrida-track-field-interdita-avenida-em-praia-grande-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:15",
+"t": "Cubatão confirma novas datas de passeios gratuitos para alunos da rede pública",
+"p": "Projeto Educando para o Turismo prevê visitas a parques e áreas ambientais até dezembro; quatro escolas participam da programação",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/cubatao-confirma-novas-datas-de-passeios-gratuitos-para-alunos-da-rede-publica.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:06",
+"t": "Líder religioso é preso suspeito de violência sexual contra 10 vítimas; polícia fez buscas no litoral paulista",
+"p": "Homem de 62 anos foi preso na quinta-feira (5); segundo a polícia, ele teria usado a influência religiosa sobre frequentadores, entre eles adolescentes",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/lider-religioso-e-preso-suspeito-de-violencia-sexual-contra-10-vitimas-policia-fez-buscas-no-litoral-paulista.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:02",
+"t": "13º salário na conta? Veja erros que podem comprometer seu orçamento",
+"p": "Com a chegada do 13º salário, muitas famílias ganham um reforço importante no orçamento. O recurso, no entanto, costuma chegar em um período marcado por compras de fim de ano e pela proximidade de despesas do início do ano seguinte. Sem planejamento, decisões tomadas em poucas semanas podem consumir o benefício…",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/13o-salario-na-conta-veja-erros-que-podem-comprometer-seu-orcamento/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:02",
+"t": "El Niño: 7 cuidados para proteger a saúde diante de temperaturas extremas",
+"p": "O interesse dos brasileiros pelo El Niño também aparece nas buscas por informações sobre o fenômeno. O levantamento do Research & Innovation Center (RIC), núcleo de pesquisa da Afya, analisou dados do Google Trends ao longo de setembro de 2026, em comparação com o mesmo mês de 2025, e identificou um aumento de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/el-nino-7-cuidados-para-proteger-a-saude-diante-de-temperaturas-extremas/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:59",
+"t": "Obras na Avenida Bento do Amaral Gurgel alteram trânsito a partir deste sábado (7)",
+"p": "Foto: Prefeitura de Jundiaí Intervenções começam às 7h deste sábado (7), na Vila Nambi, e incluem interdições em três pontos da avenida durante a execução dos serviços",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/obras-avenida-bento-amaral-gurgel-alteram-transito-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:59",
+"t": "Bertioga em Movimento divulga resultado da Etapa Rios; Waltamir Alves e Ilma Santos vencem",
+"p": "Segunda prova do circuito reuniu 216 atletas, na noite de sábado (31); etapa faz parte do Bertioga em Movimento, programa da prefeitura voltado à promoção da saúde por meio da atividade física",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-em-movimento-divulga-resultado-da-etapa-rios-waltamir-alves-e-ilma-santos-vencem.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:53",
+"t": "Gás invisível do fundo de um lago matou mais de 1.700 pessoas enquanto elas dormiam; não houve fogo ou explosão visível, tampouco barulho",
+"p": "Uma nuvem de CO2 saiu do lago Nyos, em Camarões, na noite de 21 de agosto de 1986, e matou pelo menos 1.700 pessoas. O fenômeno, batizado de erupção límnica, levou a um programa de desgaseificação que durou 32 anos e reduziu o gás do lago.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/gas-invisivel-do-fundo-de-um-lago-matou-mais-de-1-700-pessoas-enquanto-elas-dormiam-nao-houve-fogo-ou-explosao-visivel-tampouco-barulho/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:51",
+"t": "Criminosos abrem buraco em banco e levam até R$ 400 mil em São Bernardo",
+"p": "Dois homens renderam funcionário durante abastecimento de caixas eletrônicos e fugiram pelos fundos da agência, segundo a Polícia Militar",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367351/criminosos-abrem-buraco-em-banco-e-levam-ate-rs-400-mil-em-sao-bernardo",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "16:50",
@@ -111,6 +373,32 @@
 },
 {
 "d": "2026-11-06",
+"h": "16:45",
+"t": "Mulher é morta a facadas na frente do filho em São Vicente; companheiro é preso",
+"p": "Vítima de 38 anos foi encontrada morta no apartamento; companheiro dela confessou o crime e foi detido pela GCM após procurar agentes",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/mulher-e-morta-a-facadas-na-frente-do-filho-em-sao-vicente-companheiro-e-preso.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:41",
+"t": "Imposto do pecado muda preço dos carros em 2027: diesel pode pagar até 30%, enquanto modelos PcD, táxis e sustentáveis ficam isentos",
+"p": "O Imposto Seletivo, conhecido como “imposto do pecado”, vai mudar a tributação dos carros no Brasil a partir de 2 de fevereiro de 2027. Os veículos a gasolina e diesel tendem a pagar mais do que modelos flex e elétricos. A medida provisória que estabelece as alíquotas do novo tributo transfere para o Imposto…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/imposto-do-pecado-muda-preco-dos-carros-em-2027-diesel-pode-pagar-ate-30-enquanto-modelos-pcd-taxis-e-sustentaveis-ficam-isentos/",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "16:40",
 "t": "Programação – Cinema",
 "p": "Confira a programação dos cinemas da Baixada Santista entre os dias 7 e 10 de novembro",
@@ -140,6 +428,18 @@
 },
 {
 "d": "2026-11-06",
+"h": "16:31",
+"t": "Cobra venenosa é encontrada na entrada de escola infantil no litoral de SP",
+"p": "Serpente peçonhenta foi localizada em grade de escola no bairro Getuba, na manhã desta sexta-feira (6), e resgatada pelo Corpo de Bombeiros",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/cobra-venenosa-e-encontrada-na-entrada-de-escola-infantil-no-litoral-de-sp.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "16:30",
 "t": "Acompanhamento de saúde: regra nacional exige vacinação e peso em dia de crianças e gestantes para manter o Bolsa Família",
 "p": "O acompanhamento periódico da saúde de crianças e gestantes é uma condicionalidade obrigatória do programa Bolsa Família em todo o território nacional. Determinado pelo Governo Federal e operacionalizado pelo Ministério da Saúde em conjunto com o Ministério do Desenvolvimento e Assistência Social, Família e Combate…",
@@ -148,6 +448,44 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/economia/acompanhamento-de-saude-regra-nacional-exige-vacinacao-e-peso-em-dia-de-criancas-e-gestantes-para-manter-o-bolsa-familia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:20",
+"t": "MP atribui a ex-juiz de tribunal de impostos elo com propinas de fiscais da Fazenda de SP",
+"p": "",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367348/mp-atribui-a-ex-juiz-de-tribunal-de-impostos-elo-com-propinas-de-fiscais-da-fazenda-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:19",
+"t": "Piscinão do Bairro Fundação atinge 90% da estrutura concluída",
+"p": "Reservatório passa pela instalação de peças pré-moldadas que darão sustentação à futura laje de cobertura; obra integra o programa Drenar São Caetano",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367344/piscinao-do-bairro-fundacao-atinge-90-da-estrutura-concluida",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "16:19",
+"t": "Astronautas voltam ao mundo normal após NASA mantê-los isolados por 378 dias em ‘Marte simulado’ em experimento que levará humanos ao planeta vermelho",
+"p": "Depois de 378 dias vivendo como se estivessem em Marte, quatro voluntários finalmente deixaram o confinamento imposto pela NASA. A missão terminou no último sábado (31), no Centro Espacial Johnson, em Houston, nos Estados Unidos. Durante mais de um ano, os participantes permaneceram em uma instalação de apenas 158…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/astronautas-voltam-ao-mundo-normal-apos-nasa-mante-los-isolados-por-378-dias-em-marte-simulado-em-experimento-que-levara-humanos-ao-planeta-vermelho/",
 "auto": true
 },
 {
@@ -244,6 +582,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/exposicao-criacoes-e-reproducoes-impressoes-em-giz-pastel-esta-disponivel-no-patio-ciane-shopping/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "15:30",
+"t": "Reforma do Centro de Saúde da Mulher avança em Bertioga",
+"p": "Intervenção de R$1 milhão na unidade do bairro Vista Linda inclui troca de telhado, piso, pintura e iluminação; previsão de entrega é para 2027",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/reforma-do-centro-de-saude-da-mulher-avanca-em-bertioga.html",
 "auto": true
 },
 {
@@ -3293,6 +3645,20 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67715",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Prudente recebe representantes do Exército para alinhar retomada integral dos serviços",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67718",
 "auto": true
 },
 {
