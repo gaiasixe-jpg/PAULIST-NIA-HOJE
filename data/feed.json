@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T17:54:02-03:00",
-"novos_nesta_coleta": 27,
+"atualizado": "2026-11-06T18:48:10-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,256 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-06",
+"h": "18:48",
+"t": "Câmara vota três projetos de denominação de vias e área de lazer na segunda-feira",
+"p": "Propostas em pauta na 40ª sessão ordinária homenageiam moradores com a denominação de rua e sistema de lazer em loteamentos de Votuporanga. A Câmara Municipal de Votuporanga realiza na próxima segunda-feira (9.nov), às 18h, a 40ª sessão ordinária de 2026. Na Ordem do Dia, os vereadores deverão analisar três…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/camara-vota-tres-projetos-de-denominacao-de-vias-e-area-de-lazer-na-segunda-feira/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:46",
+"t": "Adolescente com mandado de apreensão é capturado pela PM em Votuporanga",
+"p": "Jovem foi encontrado durante patrulhamento da Polícia Militar e deverá ser encaminhado à Fundação Casa. Um adolescente com mandado de busca e apreensão em aberto foi localizado pela Polícia Militar nesta quinta-feira (5.nov), em Votuporanga/SP. De acordo com a corporação, a equipe recebeu informações de que o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/adolescente-com-mandado-de-apreensao-e-capturado-pela-pm-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:42",
+"t": "Modernização no serviço de leitura pode gerar economia de mais de R$ 700 mil por ano para Saev Ambiental",
+"p": "Semelhante ao serviço de coleta de lixo, trabalho será executado por uma empresa especializada contratada mediante licitação. A Saev Ambiental (Superintendência de Água, Esgoto e Meio Ambiente de Votuporanga) está preparando uma mudança no serviço de leitura dos hidrômetros do município que deverá gerar uma…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/modernizacao-no-servico-de-leitura-pode-gerar-economia-de-mais-de-r-700-mil-por-ano-para-saev-ambiental/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:38",
+"t": "Acidentes mobilizam equipes de resgate em duas rodovias de Votuporanga",
+"p": "Colisão entre caminhões na Euclides da Cunha (SP-320) e batida envolvendo veículo da Prefeitura de Cardoso na Péricles Bellini (SP-461) movimentaram Corpo de Bombeiros, SAMU e Polícia Rodoviária. Duas ocorrências de trânsito mobilizaram equipes de emergência na noite desta quinta-feira (5.nov) em Votuporanga/SP. Os…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga",
+"Cardoso",
+"Cunha"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/acidentes-mobilizam-equipes-de-resgate-em-duas-rodovias-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:33",
+"t": "Serginho da Farmácia pede que Procon leve atendimento itinerante à zona Norte",
+"p": "Vereador quer ampliar o acesso dos moradores aos serviços de orientação e defesa do consumidor por meio de ações realizadas diretamente nos bairros. O vereador Serginho da Farmácia (PP) apresentou uma indicação ao Poder Executivo solicitando a inclusão da zona Norte de Votuporanga/SP no calendário de ações…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/serginho-da-farmacia-pede-que-procon-leve-atendimento-itinerante-a-zona-norte/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:30",
+"t": "Virginia Fonseca recebeu R$ 17,7 milhões de empresa investigada pela PF por suspeita de lavagem de dinheiro",
+"p": "A empresa Talismã Digital, ligada à influenciadora Virginia Fonseca, recebeu R$ 17,7 milhões da AMP Pay Marketing e Negócios, companhia investigada pela Polícia Federal (PF) por possível ligação com o advogado Willer Tomaz, amigo do senador Flávio Bolsonaro (PL-RJ). Os pagamentos foram feitos por meio de cinco…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/virginia-fonseca-recebeu-r-177-milhoes-de-empresa-investigada-pela-pf-por-suspeita-de-lavagem-de-dinheiro/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:29",
+"t": "1º Fórum de Patrimônio Cultural de Sorocaba será realizado na próxima sexta-feira (13)",
+"p": "O Teatro Municipal “Teotônio Vilela” (TMTV) receberá, na próxima sexta-feira (13), das 9h às 17h, o 1º Fórum de Patrimônio Cultural de Sorocaba, realizado pelo Conselho Municipal de Defesa do Patrimônio Artístico, Arquitetônico, Turístico e Paisagístico de Sorocaba (CMDP) e pela Secretaria da Cultura (Secult), por…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/1o-forum-de-patrimonio-cultural-de-sorocaba-sera-realizado-na-proxima-sexta-feira-13/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:27",
+"t": "Colégio Unifev envolve alunos do Ensino Médio na reta final para o Enem",
+"p": "Projeto “Entre o café e o pensamento” promoveu palestras sobre saúde mental, direitos do cidadão, técnicas de relaxamento e apresentação musical na Cidade Universitária. O Colégio Unifev realizou a segunda edição do projeto “Entre o café e o pensamento” na manhã desta sexta-feira (6.nov), reunindo estudantes do…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/colegio-unifev-envolve-alunos-do-ensino-medio-na-reta-final-para-o-enem/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:26",
+"t": "Confira a previsão do tempo para Marília neste sábado (7/11)",
+"p": "Temperaturas sobem durante a tarde, mas previsão aponta aumento da possibilidade de chuva à noite.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-neste-sabado-7-11/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:13",
+"t": "Frente fria muda o tempo em Santos com chuva intensa, ventos fortes e mar agitado",
+"p": "No sábado, o dia começa com abertura de sol e elevação das temperaturas. No entanto, o avanço da frente fria deve provocar instabilidade a partir do final da tarde, com previsão de chuva durante a noite.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/frente-fria-muda-o-tempo-em-santos-com-chuva-intensa-e-ventos-fortes/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:11",
+"t": "Cidades do Alto Tietê terão transporte gratuito para candidatos do Enem 2026",
+"p": "Ao menos oito dos dez municípios da região não cobrarão tarifa dos candidatos no dia da aplicação do exame",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/cidades-do-alto-tiete-terao-transporte-gratuito-para-candidatos-do-enem-2026/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:09",
+"t": "Bortoleto faz 8º melhor tempo, e Câmara, 16º, no primeiro dia em Interlagos",
+"p": "Divulgação/Audi Campeão da temporada de F1, o italiano Kimi Antonelli liderou o segundo treino livre para o GO São Paulo nesta sexta-feira (6)",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/esporte/bortoleto-faz-8o-melhor-tempo-e-camara-16o-no-primeiro-dia-em-interlagos/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:03",
+"t": "Jacquin pede respeito a Fogaça após crítica da Folha, mas defesa contrasta com avaliações ácidas do chef nos programas culinários exibidos pela Band",
+"p": "Foto: Divulgação/Band TV Erick Jacquin defendeu Henrique Fogaça após crítica negativa da Folha ao Sal Gastronomia, mas a manifestação contrasta com avaliações duras do próprio jurado no MasterChef.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/entretenimento/jacquin-pede-respeito-a-fogaca-apos-critica-da-folha-mas-defesa-contrasta-com-avaliacoes-acidas-do-chef-nos-programas-culinarios-exibidos-pela-band/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:02",
+"t": "Enem: o que fazer um dia antes da prova? 7 dicas para chegar preparado e evitar erros na véspera",
+"p": "Depois de meses de preparação, a véspera do Exame Nacional do Ensino Médio (Enem) costuma vir acompanhada de uma dúvida: ainda dá tempo de estudar ou o melhor é fechar os livros? Para muitos candidatos, a ansiedade faz justamente o contrário do que seria desejável. É nesse momento que aparecem maratonas de revisão,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/enem-o-que-fazer-um-dia-antes-da-prova-7-dicas-para-chegar-preparado-e-evitar-erros-na-vespera/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:01",
+"t": "Após espera de 40 anos, Hospital de Peruíbe supera 2,4 mil exames, amplia atendimento infantil e reforça saúde no Litoral Sul da região",
+"p": "O Hospital Municipal de Peruíbe ultrapassou a marca de 2,4 mil exames de imagem e endoscopia desde a inauguração, em junho de 2026. A unidade também registrou 327 internações e 242 altas hospitalares até o fim de outubro. O balanço dos primeiros meses mostra a ampliação gradual dos serviços e da capacidade de…",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Peruíbe"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/apos-espera-de-40-anos-hospital-de-peruibe-supera-24-mil-exames-amplia-atendimento-infantil-e-reforca-saude-no-litoral-sul-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:00",
+"t": "Ribeirão Pires recebe novo veículo para serviços de limpeza urbana",
+"p": "Veículo passa a integrar a estrutura da Secretaria de Clima, Meio Ambiente e Habitação para apoiar os trabalhos realizados em diferentes regiões da cidade.",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367367/ribeirao-pires-recebe-novo-veiculo-para-servicos-de-limpeza-urbana",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:58",
+"t": "Marília passa a oferecer patinetes elétricos para aluguel a partir de domingo",
+"p": "Serviço começa com 20 equipamentos, cinco pontos de retirada e tarifas a partir de R$ 0,68 por minuto.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-passa-a-oferecer-patinetes-eletricos-para-aluguel-a-partir-de-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:54",
+"t": "Colégio Divino Salvador leva alunos de Jundiaí à NASA e planeja ampliar intercâmbio em 2027",
+"p": "Fotos: Divulgação/Colégio Divino Salvador Estudantes do Ensino Médio participaram de atividades de robótica e engenharia, conheceram astronautas e visitaram instituições de ensino na Flórida.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/colegio-divino-salvador-leva-alunos-de-jundiai-a-nasa-e-planeja-ampliar-intercambio-em-2027/",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "17:49",
@@ -105,6 +355,18 @@
 },
 {
 "d": "2026-11-06",
+"h": "17:45",
+"t": "Brasil desacelera contratações e registra menor saldo de vagas em setembro desde 2020, durante a pandemia",
+"p": "O mercado de trabalho formal no Brasil encerrou o mês de setembro com uma redução no ritmo de abertura de novos postos de trabalho. As estatísticas do Cadastro Geral de Empregados e Desempregados (Caged), divulgadas pelo Ministério do Trabalho e Emprego, mostram a criação líquida de 121,3 mil empregos formais no…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/brasil-desacelera-contratacoes-e-registra-menor-saldo-de-vagas-em-setembro-desde-2020-durante-a-pandemia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "17:44",
 "t": "DAE inicia construção de reservatório com capacidade para 5 milhões de litros no Jardim Planalto",
 "p": "Foto: DAE Jundiaí Com investimento de R$ 11,5 milhões, estrutura vai reforçar o abastecimento de água para cerca de 16 mil famílias; DAE também prevê outros três reservatórios na cidade",
@@ -129,6 +391,32 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/saude/ribeirao-preto-convoca-mais-de-53-mil-pessoas-com-diabetes-para-exames-e-consultas-em-postos-de-saude/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:40",
+"t": "Superesportivo elétrico da BYD supera 503 km/h em pista fechada e bate recorde mundial de velocidade para carros de produção",
+"p": "O superesportivo elétrico Yangwang U9 Xtreme superou a velocidade de 503,17 km/h. Com esse feito, o modelo estabeleceu um novo recorde mundial para carros de produção. A façanha histórica ocorreu em uma rodovia fechada em Abu Dhabi, nos Emirados Árabes Unidos. A divisão de ultraluxo da fabricante BYD bateu o seu…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/superesportivo-eletrico-da-byd-supera-503-km-h-em-pista-fechada-e-bate-recorde/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:32",
+"t": "Suspeito de matar dono de adega em São Bernardo é preso",
+"p": "Crime ocorreu em setembro, após discussão sobre valor cobrado em máquina de cartão",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367364/suspeito-de-matar-dono-de-adega-em-sao-bernardo-e-preso",
 "auto": true
 },
 {
@@ -199,6 +487,20 @@
 ],
 "src": "Boqnews",
 "u": "https://www.boqnews.com/litoral/corrida-track-field-interdita-avenida-em-praia-grande-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "17:16",
+"t": "Exposição gratuita em Santo André reúne 38 obras sobre cidades",
+"p": "Mostra Cidades Invisíveis, da artista Corina Ishikura, abre neste sábado (7), com pinturas e instalações que abordam a ocupação urbana e a presença de áreas verdes",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367359/exposicao-gratuita-em-santo-andre-reune-38-obras-sobre-cidades",
 "auto": true
 },
 {
