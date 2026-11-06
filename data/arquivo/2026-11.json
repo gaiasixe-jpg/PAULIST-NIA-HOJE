@@ -3,6 +3,366 @@
 "itens": [
 {
 "d": "2026-11-06",
+"h": "10:11",
+"t": "Casa é invadida por dupla de ladrões no Jardim Nova Europa",
+"p": "Criminosos arrombaram o portão da casa e levaram eletrônicos, joias, relógios e perfumes importados; ação foi registrada por câmera de segurança",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Nova Europa"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/casa-e-invadida-por-dupla-de-ladroes-no-jardim-nova-europa/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:03",
+"t": "Prefeitura de Itápolis-SP abre novo edital com vagas na Educação",
+"p": "A Prefeitura de Itápolis, em São Paulo, anunciou um novo processo seletivo público que vai formar cadastro de reserva em diferentes cargos de nível médio e superior na Secretaria Municipal de Educação. Os salários variam de R$ 25,64 por hora a R$ 1.908,44 ao mês, mais ticket de R$ 880,57 para Agente Educacional,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo",
+"Itápolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-itapolis-sp-abre-novo-edital-com-vagas-na-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:03",
+"t": "Processo seletivo da Prefeitura de Pontal-SP 2026; veja edital",
+"p": "A Prefeitura de Pontal, no estado de São Paulo, lançou o edital nº 01/2026 com abertura de processo seletivo simplificado, que busca formar cadastro de reserva em cargos de nível superior para atuação na Secretaria Municipal de Educação. Abertura inscrições 05/11/2026 Encerra inscrições 30/11/2026 Data da prova…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Pontal"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/processo-seletivo-da-prefeitura-de-pontal-sp-2026-veja-edital/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:02",
+"t": "Acusado de atacar flanelinha com facão no Centro de Marília vai a júri",
+"p": "Acusado por tentativa de homicídio será submetido ao Tribunal do Júri em Marília Homem teria atingido a vítima na cabeça após discussão na praça São Bento; Justiça também manteve sua prisão.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/acusado-de-atacar-flanelinha-com-facao-no-centro-de-marilia-vai-a-juri/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:01",
+"t": "Jardim Solare amplia oferta de moradias em Ribeirão Preto",
+"p": "Novo empreendimento da Pacaembu Construtora contará com três condomínios na região leste; Condomínio Alvorada, segunda etapa do projeto, terá 395 casas.",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Pacaembu"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/conteudo-patrocinado/pacaembu-construtora/jardim-solare-amplia-oferta-de-moradias-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:00",
+"t": "A Fazenda: peão é o sétimo eliminado do reality após quase escapar da berlinda; saiba como foi a saída",
+"p": "Na noite desta quinta-feira (5/11), o participante Rikardo Negro foi o eliminado na sétima roça de “A Fazenda 18“. O modelo conseguiu apenas 11,32% dos votos para permanecer no programa. O peão ficou por pouco de escapar na berlinda durante a Prova do Fazendeiro, na quarta-feira (4/11), mas acabou perdendo o posto…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/a-fazenda-peao-e-o-setimo-eliminado-do-reality-apos-quase-escapar-da-berlinda-saiba-como-foi-a-saida/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:00",
+"t": "Zona Azul de Cubatão terá tarifa de R$ 3 por hora a partir de 2027",
+"p": "Divulgação/Prefeitura de Cubatão A tarifa da Zona Azul de Cubatão, no litoral de São Paulo, será de R$ 3 por hora a partir de 1º de janeiro de 2027.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo",
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/zona-azul-de-cubatao-tera-tarifa-de-r-3-por-hora-a-partir-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:59",
+"t": "Câmara irá realizar audiência pública para discutir Lei Orçamentária de 2027",
+"p": "População poderá participar da discussão sobre as prioridades e os investimentos do município. Encontro, que acontece dia 12 de novembro, será transmitido ao vivo.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/camara-ira-realizar-audiencia-publica-para-discutir-lei-orcamentaria-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:53",
+"t": "Neto identifica ex da namorada como suspeito de incendiar caminhonete do avô",
+"p": "Homem reconheceu um dos envolvidos nas imagens de segurança",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/neto-identifica-ex-da-namorada-como-suspeito-de-incendiar-caminhonete-do-avo/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:48",
+"t": "Motorista registra manobra perigosa em trecho do Contorno em Marília",
+"p": "Imagens mostram imprudência nas proximidades do acesso às universidades e ao cemitério, na rodovia do Contorno.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/motorista-registra-manobra-perigosa-em-trecho-do-contorno-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:47",
+"t": "Condenado a 20 anos por estupro de vulnerável é preso em Itaquaquecetuba",
+"p": "Homem foi localizado pela Polícia Militar no bairro Piratininga; mandado de prisão é definitivo e tem validade até 2046",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itaquaquecetuba",
+"Piratininga"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/policia/condenado-a-20-anos-por-estupro-de-vulneravel-e-preso-em-itaquaquecetuba/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:44",
+"t": "Homem invade casa da ex, ameaça matá-la com faca e acaba preso em Caraguatatuba",
+"p": "Suspeito estava armado quando foi localizado pela Polícia Militar; ele também descumpriu medida protetiva expedida em favor da ex-companheira",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/homem-invade-casa-da-ex-ameaca-mata-la-com-faca-e-acaba-preso-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:40",
+"t": "Distrito de Arabá realiza Cavalgada Mirim para celebrar a cultura sertaneja",
+"p": "O distrito de Arabá, pertencente ao município de Ouroeste, promove nesta sexta-feira (6) a edição da Cavalgada Mirim. Organizado pelo Governo Municipal por meio da Secretaria Municipal da Educação, o evento tem como objetivo fortalecer os costumes locais e incentivar a preservação das tradições sertanejas entre as…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/distrito-de-araba-realiza-cavalgada-mirim-para-celebrar-a-cultura-sertaneja/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:39",
+"t": "Roubos de veículos caem pela metade em São José dos Campos em 2026, segundo a SSP",
+"p": "Foram 33 casos de janeiro a setembro, contra 68 no mesmo período de 2025; prefeitura compara outros crimes com 2016, antes do programa São José Unida",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/roubos-de-veiculos-caem-pela-metade-em-sao-jose-dos-campos-em-2026-segundo-a-ssp.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:32",
+"t": "Falso padre condenado por estelionato é encontrado morto dentro de casa",
+"p": "Marcos Rodrigues Fontana foi condenado, em 2009, após se passar por padre e cobrar até R$ 450 por missas em São Paulo",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/falso-padre-condenado-por-estelionato-e-encontrado-morto-dentro-de-casa",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:31",
+"t": "Resultado da Mega-Sena: apostas do interior de SP são premiadas; veja os números",
+"p": "Concurso 3081 da Mega-Sena foi sorteado nesta quarta-feira (4); confira o resultado",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/resultado-da-mega-sena-apostas-do-interior-de-sp-sao-premiadas-veja-os-numeros/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:30",
+"t": "Campinas tem falta de água hoje; veja região afetada e quando volta",
+"p": "Reparo emergencial na rede de abastecimento deve afetar moradores até a tarde desta sexta-feira (6); veja quando a água volta",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-falta-de-agua-hoje-veja-regiao-afetada-e-quando-volta/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:30",
+"t": "Polícia investiga morte suspeita de mulher de 49 anos em Rio Preto",
+"p": "Mulher passou mal dentro de casa e morreu antes da chegada do socorro",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-investiga-morte-suspeita-de-mulher-de-49-anos-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:24",
+"t": "Censo de pessoas com deficiência em Mauá recebe respostas até dezembro",
+"p": "Levantamento iniciado em setembro reúne informações sobre saúde, mobilidade, educação e emprego; moradores podem responder pela internet ou presencialmente",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367214/censo-de-pessoas-com-deficiencia-em-maua-recebe-respostas-ate-dezembro",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:21",
+"t": "Engenheiro químico revela por que usa bicarbonato de sódio misturado com água para limpar paredes e tênis e ensina como fazer em casa",
+"p": "Aprenda a preparar uma solução caseira com ingredientes simples e veja os cuidados necessários antes de aplicá-la em diferentes superfícies",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/engenheiro-quimico-revela-por-que-usa-bicarbonato-de-sodio-misturado-com-agua-para-limpar-paredes-e-tenis-e-ensina-como-fazer-em-casa/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:21",
+"t": "Bairros da zona Norte de Ribeirão Preto podem ficar sem água até o fim da noite; Veja quais",
+"p": "Bairros da zona Norte da cidade têm alerta para falta d'água nesta sexta (6), devido à troca emergencial de bomba em poço",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/bairros-da-zona-norte-de-ribeirao-preto-podem-ficar-sem-agua-ate-o-fim-da-noite-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:15",
+"t": "Nova fábrica de 10 mil m² da Britânia no interior do Brasil deve entrar em operação em 2028 e abrir espaço para mais de 700 vagas de emprego",
+"p": "Uma nova fábrica de 10 mil metros quadrados da Britânia, gigante dos eletrodomésticos, deve entrar em operação a partir de 2028. Joinville, no Norte de Santa Catarina, foi a cidade escolhida para abrigar a nova unidade da marca. O valor do investimento não foi comunicado. A cidade catarinense já possui uma planta…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/nova-fabrica-de-10-mil-m%c2%b2-da-britania-no-interior-do-brasil-deve-entrar-em-operacao-em-2028-e-abrir-espaco-para-mais-de-700-vagas-de-emprego/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:09",
+"t": "Polícia apreende sexto adolescente suspeito de envolvimento na morte de engenheiro",
+"p": "Vítima, de 28 anos, foi agredida e roubada na Vila Mathias, em 24 de outubro, e morreu em decorrência dos ferimentos; investigação aponta nove envolvidos no caso.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/policia-apreende-sexto-adolescente-suspeito-de-envolvimento-na-morte-de-engenheiro/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:07",
+"t": "Obituário | Falecimentos registrados nesta sexta-feira (6/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta sexta-feira, dia 6 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-sexta-feira-6-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "09:01",
+"t": "Operação Shylock: forças de segurança miram quadrilha de agiotagem e extorsão",
+"p": "Uma ação integrada entre a Polícia Civil, a Polícia Militar e o Ministério Público do Estado de São Paulo (MPSP) cumpre mandados judiciais na manhã desta sexta-feira (6) no âmbito da Operação Shylock. A força-tarefa visa desarticular uma organização criminosa investigada por agiotagem, extorsão, falsidade…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-shylock-forcas-de-seguranca-miram-quadrilha-de-agiotagem-e-extorsao/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "08:56",
+"t": "Desvios na previdência de Itanhaém: Justiça manda afastar 2 servidores",
+"p": "Os 2 servidores são investigados pelo MPSP por participarem de esquema que desviou R$ 25 milhões da previdência social de Itanhaém",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/desvios-na-previdencia-de-itanhaem-justica-manda-afastar-2-servidores",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "08:45",
 "t": "Justiça de Santa Fé do Sul condena homem por tráfico de drogas",
 "p": "O juiz Felipe Ferreira Pimenta, da 2ª Vara de Santa Fé do Sul, condenou Tiago Espozetti Gonçalves pela prática do crime de tráfico de drogas, tipificado no artigo 33, caput, da Lei nº 11.343/2006. O réu recebeu a pena de 5 anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa. A […]",
@@ -298,6 +658,20 @@
 },
 {
 "d": "2026-11-06",
+"h": "08:09",
+"t": "Ciclista morre após ser atropelado em alça de acesso da SP-294",
+"p": "Um ciclista morreu após ser atropelado por um carro no trevo de acesso entre a Rodovia Comandante João Ribeiro de Barros (SP-294) e a Rodovia Lourenço Lozano (SP-293), em Duartina (SP), na noite desta quarta-feira (4). Segundo o registro feito pela concessionária que administra o trecho, o motorista do carro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Duartina"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/ciclista-morre-apos-ser-atropelado-em-alca-de-acesso-da-sp-294/",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "08:03",
 "t": "Sexta-feira começa com chuva e 639 km de lentidão em São Paulo enquanto motoristas enfrentam atrasos em avenidas e rodovias",
 "p": "O trânsito na cidade de São Paulo registra 639 quilômetros de lentidão na manhã desta sexta-feira (6/11), com congestionamentos espalhados pelas cinco regiões da capital paulista. O Rodízio Municipal de Veículos já está valendo para carros com placas final 9 e 0. Os automóveis não podem circular em todo centro…",
@@ -308,6 +682,21 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/sexta-feira-comeca-com-chuva-e-639-km-de-lentidao-em-sao-paulo-enquanto-motoristas-enfrentam-atrasos-em-avenidas-e-rodovias/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "08:03",
+"t": "Três pessoas são presas com mais de 30 kg de ‘supermaconha’ em Mirante do Paranapanema",
+"p": "Três pessoas foram presas transportando mais de 30 kg de drogas na Rodovia Olímpio Ferreira da Silva (SP-272), em Mirante do Paranapanema (SP), na tarde de quarta-feira (4). Segundo a Polícia Civil, um veículo foi abordado próximo ao km 27 por fazer ultrapassagens perigosas. Na vistoria, 31,8 kg de skunk, droga…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mirante do Paranapanema",
+"Paranapanema"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/tres-pessoas-sao-presas-com-mais-de-30-kg-de-supermaconha-em-mirante-do-paranapanema/",
 "auto": true
 },
 {
@@ -323,6 +712,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-sexta-6.html",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "08:01",
+"t": "Homem é preso suspeito de estuprar a enteada de 8 anos em Dracena",
+"p": "Um homem de 40 anos foi preso pela Polícia Civil nesta quinta-feira (5) suspeito de estupro de vulnerável contra a própria enteada, uma criança de oito anos, em Dracena (SP). Segundo a Polícia Civil, o caso foi registrado na terça-feira (3), após a mãe da vítima denunciar o caso ao Conselho Tutelar. A mãe da […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Dracena"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/homem-e-preso-suspeito-de-estuprar-a-enteada-de-8-anos-em-dracena/",
 "auto": true
 },
 {
