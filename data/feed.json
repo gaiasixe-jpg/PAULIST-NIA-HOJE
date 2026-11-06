@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-05T20:50:08-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-05T22:17:10-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 73 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,174 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-05",
+"h": "22:13",
+"t": "Engenheiro morto em ato pró-Lula: 6º adolescente é apreendido pela polícia",
+"p": "Marcelo de Oliveira foi agredido durante um roubo enquanto participava de um ato pró-Lula no litoral e morreu em decorrência dos ferimentos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/engenheiro-morto-em-ato-pro-lula-6o-adolescente-e-apreendido-pela-policia",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:58",
+"t": "Trabalhadores da CET fazem acordo com Prefeitura de SP após ameaçarem greve",
+"p": "Funcionários da Companhia de Engenharia de Tráfego iam paralizar durante período da Fórmula 1 para conquistar reajuste salarial",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/trabalhadores-da-cet-fazem-acordo-com-prefeitura-de-sp-apos-ameacarem-greve",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:58",
+"t": "Números da Dia de Sorte 1340 hoje (05/11); veja resultado",
+"p": "O concurso 1340 do Dia de Sorte foi realizado nesta quinta-feira, 5 de novembro de 2026, com prêmio estimado em R$ 2,3 milhões. O sorteio ocorreu no Espaço da Sorte, em São Paulo (SP), e os apostadores já podem conferir as dezenas extraídas e o Mês da Sorte. A modalidade das Loterias Caixa premia quem […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/numeros-da-dia-de-sorte-1340-hoje-05-11-veja-resultado/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:54",
+"t": "Polícia de SP e Cruz Vermelha firmam acordo para identificar 300 ossadas no IML",
+"p": "A Polícia Técnico-Científica do Estado de São Paulo e o Comitê Internacional da Cruz Vermelha (CICV) assinaram, nesta quinta-feira (5), um termo de cooperação técnica para atuar na identificação de 300 ossadas sob custódia do Instituto Médico Legal (IML) paulista. A iniciativa visa ampliar a capacidade de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-de-sp-e-cruz-vermelha-firmam-acordo-para-identificar-300-ossadas-no-iml/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:52",
+"t": "Mulher diz ter perdido R$ 26 mil em golpe após romance em app e denuncia suspeito à polícia",
+"p": "Mulher diz que suspeito se apresentou como agrônomo e fazendeiro; outras cinco vítimas também registraram ocorrência",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/mulher-diz-ter-perdido-r-26-mil-em-golpe-apos-romance-em-app-e-denuncia-suspeito-a-policia/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:35",
+"t": "Em 2026, cidade de SP tem segundo outubro mais chuvoso desde 1995, diz CGE",
+"p": "Capital paulista registrou 220,3 mm de precipitação, volume 96,7% superior à média esperada. Mês teve 26 dias com chuva",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/em-2026-cidade-de-sp-tem-segundo-outubro-mais-chuvoso-desde-1995-diz-cge",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:32",
+"t": "TJ-SP libera retomada de instrução da comissão contra vereador de S.Caetano",
+"p": "Decisão mantém suspensa análise final do caso de Getúlio Filho em plenário até deliberação da Justiça",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367173/tj-sp-libera-retomada-de-instrucao-da-comissao-contra-vereador-de-s-caetano",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:31",
+"t": "Mauá anuncia projeto de reforma do Teatro Municipal",
+"p": "Com investimento estadual de R$ 4 mi, obra inicia em janeiro de 2027 e termina em março de 2028",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367172/maua-anuncia-projeto-de-reforma-do-teatro-municipal-",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:30",
+"t": "Conheça a regra constitucional dos EUA que proíbe mais de dois mandatos e tira Trump das disputas em 2028",
+"p": "A vedação constitucional ao exercício de mais de dois mandatos na Presidência da República barra em definitivo a candidatura do presidente Donald Trump à eleição presidencial dos Estados Unidos em 2028. Em conformidade com os termos da 22ª Emenda da Constituição norte-americana, o limite legal atinge o republicano…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/conheca-a-regra-constitucional-dos-eua-que-proibe-mais-de-dois-mandatos-e-tira-trump-das-disputas-em-2028/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:28",
+"t": "Ricardo Salles deve assumir secretaria de Tarcísio após acordo eleitoral",
+"p": "Salles desistiu de candidatura ao Senado a uma semana das eleições deste ano após reunião com Tarcísio de Freitas",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ricardo-salles-deve-assumir-secretaria-de-tarcisio-apos-acordo-eleitoral",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:20",
+"t": "Polícia de SP e Cruz Vermelha vão atuar para identificar desaparecidos",
+"p": "A Polícia Técnico-Científica de São Paulo e o Comitê Internacional da Cruz Vermelha (CICV) firmaram, nesta quinta-feira (5), um acordo de cooperação para a identificação de 300 ossadas que estão sob responsabilidade do Instituto Médico Legal (IML) paulista. O trabalho, segundo o governo do estado, será feito com…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/policia-de-sp-e-cruz-vermelha-vao-atuar-para-identificar-desaparecidos",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "21:17",
+"t": "Saiu o resultado! Confira os números da Quina, Lotofácil, Timemania, +Milionária e Dia de Sorte desta quinta-feira (05)",
+"p": "As Loterias da Caixa sortearam na noite quinta-feira (05) os prêmios de concursos da Quina, Lotofácil, Timemania, +Milionária e Dia de Sorte",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-quina-lotofacil-timemania-milionaria-e-dia-de-sorte-desta-quinta-feira-05/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:52",
+"t": "Responsável por clínica clandestina é preso por maus-tratos a idosos",
+"p": "Cinco idosos foram encontrados em situação de abandono, o local foi interditado e assistência social tenta localizar familiares",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/responsavel-por-clinica-clandestina-e-preso-por-maus-tratos-a-idosos/",
+"auto": true
+},
 {
 "d": "2026-11-05",
 "h": "20:49",
@@ -113,6 +281,20 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/santos-baixada/policia-investiga-suspeito-de-aplicar-golpe-do-aparelho-auditivo-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-05",
+"h": "20:25",
+"t": "Motorista é condenado a 20 anos de prisão por matar jovem após briga de trânsito",
+"p": "Raul de Oliveira, 42 anos, atirou na cabeça de Patrik Brito, 22, em São Bernardo, em abril de 2025; defesa vai recorrer",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367160/motorista-e-condenado-a-20-anos-de-prisao-por-matar-jovem-apos-briga-de-transito-",
 "auto": true
 },
 {
