@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T04:24:30-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-06T06:03:41-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,101 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-06",
+"h": "05:22",
+"t": "SP deve indenizar autista que lambeu chão de escola por promessa de dinheiro em Santos",
+"p": "Reprodução Durante bullying no pátio da Escola Estadual Professora Alzira Martins Lichti, no Morro da Nova Cintra, o garoto foi humilhado por dois colegas mais velhos.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/sp-deve-indenizar-autista-que-lambeu-chao-de-escola-por-promessa-de-dinheiro-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "05:00",
+"t": "Exposição reúne obras de artistas da Apae na Galeria Municipal de Marília",
+"p": "Mostra 'Cores Inclusivas', dos alunos da Apae, será aberta em 7 de novembro e terá visitação gratuita até 5 de dezembro.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/exposicao-reune-obras-de-artistas-da-apae-na-galeria-municipal-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "05:00",
+"t": "Justiça condena homem por roubo em sorveteria de Marília",
+"p": "Laudo comprovou que menor não matou o pai adotivo em Marília e Justiça determinou desinternação Crime foi registrado na noite do dia 16 de abril de 2022, por volta das 23h30, em uma sorveteria na avenida João Ramalho.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"João Ramalho",
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/justica-condena-homem-por-roubo-em-sorveteria-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "05:00",
+"t": "Praia Grande tem musical e concerto com tributo a Queen e Coldplay à luz de velas",
+"p": "Reprodução/Prefeitura de Praia Grande A noite desta sexta-feira (6) movimenta a cena cultural de Praia Grande com duas atrações de peso para públicos variados.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/musical-heathers-e-concerto-starlight-apresentam-em-praia-grande/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "05:00",
+"t": "Guarujá publica lei para prevenir e punir casos de assédio no serviço público",
+"p": "Divulgação/PMG Guarujá passa a contar com uma legislação específica para prevenir e combater o assédio moral e sexual na administração pública.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/guaruja-publica-lei-para-prevenir-e-punir-casos-de-assedio-no-servico-publico/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "04:30",
+"t": "Resumo de ‘Por Você’ desta sexta (6): Vanessa descobre que Junqueira encomendou atentado contra Gabriel e decide contratar Zé",
+"p": "O capítulo de Por Você desta sexta-feira (6/11) será marcado por novas descobertas sobre o acidente de Gabriel. Vanessa descobrirá que Junqueira foi quem encomendou o atentado contra o médico e, diante da ameaça, decidirá agir contra o empresário. Enquanto isso, a polícia começa a investigar as circunstâncias do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-sexta-6-vanessa-descobre-que-junqueira-encomendou-atentado-contra-gabriel-e-decide-contratar-ze/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "04:28",
+"t": "‘Por Você’: Vanessa manda Zé roubar celular de Junqueira e Juarez descobre crime no capítulo de sábado (07)",
+"p": "Neste sábado (7), em Por Você, a guerra interna na diretoria do hospital fica ainda mais perigosa. Determinada a se blindar e derrubar o rival de uma vez por todas, Vanessa ordena que Zé roube o aparelho de Junqueira e apague todos os registros, com o objetivo de eliminar qualquer rastro que a incrimine e […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-vanessa-manda-ze-roubar-celular-de-junqueira-e-juarez-descobre-crime-no-capitulo-de-sabado-07/",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "02:45",
