@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T18:48:10-03:00",
-"novos_nesta_coleta": 22,
+"atualizado": "2026-11-06T19:48:28-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,116 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-06",
+"h": "19:30",
+"t": "Coca-Cola investe R$ 75 milhões em novo centro de distribuição que deve gerar 400 empregos no interior de SP",
+"p": "A Coca-Cola FEMSA Brasil anunciou a construção de um novo centro de distribuição em Limeira, no interior de São Paulo, com investimento estimado em R$ 75 milhões. A unidade será instalada às margens da rodovia Deputado Laércio Corte, conhecida como Limeira-Piracicaba, e terá capacidade para atender 22 municípios da…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Limeira"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/coca-cola-investe-r-75-milhoes-em-novo-centro-de-distribuicao-que-deve-gerar-400-empregos-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "19:28",
+"t": "Justiça de Campinas proíbe multinacional de RH de realizar exames médicos por telemedicina em todo o Brasil",
+"p": "Decisão atende a pedido do Ministério Público do Trabalho, que identificou mais de 18 mil exames ocupacionais remotos realizados pela GI Group; empresa terá 60 dias para cumprir determinação",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/justica-de-campinas-proibe-multinacional-de-rh-de-realizar-exames-medicos-por-telemedicina-em-todo-o-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "19:15",
+"t": "Risco de roubo de veículos em SP se concentra em anel de cidades no entorno da capital, aponta estudo; Itapecerica da Serra lidera ranking",
+"p": "O Estado de São Paulo atingiu o menor patamar de roubos de veículos da série histórica recente. De janeiro a julho, a Secretaria da Segurança Pública (SSP-SP) contabilizou 9.951 ocorrências do tipo, quando o condutor é rendido sob ameaça, número muito distante dos 60.297 registros computados no mesmo período de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itapecerica da Serra"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/risco-de-roubo-de-veiculos-em-sp-se-concentra-em-anel-de-cidades-no-entorno-da-capital-aponta-estudo-itapecerica-da-serra-lidera-ranking/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "19:03",
+"t": "Hospital abre seleção para residência médica com vagas em quatro especialidades",
+"p": "Inscrições para residência no Hospital São Lucas, em Ribeirão Preto, acontecem até o dia 13 de dezembro",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/hospital-abre-selecao-para-residencia-medica-com-vagas-em-quatro-especialidades/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "19:01",
+"t": "Câmera de segurança flagra homem roubando mãe que buscava filhas na escola",
+"p": "Mulher buscava filhas pequenas em escola na zona oeste de São Paulo quando homem abriu carro e roubou bolsa sem ser visto",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/camera-de-seguranca-flagra-homem-roubando-mae-que-buscava-filhas-na-escola",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "19:00",
+"t": "Festa do Imigrante reúne mais de 50 países em SP com música, gastronomia e entrada gratuita",
+"p": "A Festa do Imigrante chega à sua 30ª edição no próximo sábado (14/11) e domingo (15/11), no Museu da Imigração, no Brás, em São Paulo. Com entrada gratuita mediante a doação de 1 kg de alimento não perecível, exceto sal, o evento reunirá representantes de mais de 50 países e regiões em uma programação com […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/festa-do-imigrante-reune-mais-de-50-paises-em-sp-com-musica-gastronomia-e-entrada-gratuita/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:54",
+"t": "Luiz Gustavo é o novo reforço do CAV para a temporada 2027",
+"p": "Zagueiro de 23 anos chega ao Votuporanguense após conquistar o acesso à elite do futebol paulista com o Juventus-SP. Na tarde desta sexta-feira (6.nov), a diretoria do Clube Atlético Votuporanguense confirmou a contratação do zagueiro Luiz Gustavo, de 23 anos, como novo reforço da Pantera Alvinegra para a temporada…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/luiz-gustavo-e-o-novo-reforco-do-cav-para-a-temporada-2027/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:52",
+"t": "Modernizar os portos exige olhar além do cais",
+"p": "Quando se fala em modernização portuária, é natural pensar em grandes obras: canais mais profundos, novos berços de atracação, guindastes de última geração e terminais com capacidade crescente de movimentação. Tudo isso é indispensável para que o Brasil acompanhe as transformações do comércio internacional. Mas há…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/artigo/modernizar-os-portos-exige-olhar-alem-do-cais/",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "18:48",
@@ -121,6 +231,18 @@
 },
 {
 "d": "2026-11-06",
+"h": "18:31",
+"t": "Alguém teve a ideia de unir um lar de idosos a um orfanato, e o resultado não é sobre o começo ou o fim da vida, mas sobre viver o presente; um dia de cada vez",
+"p": "O Providence Mount St. Vincent, em Seattle, abriga desde 1991 uma creche dentro de um lar de idosos. O Intergenerational Learning Center reúne crianças de seis semanas a cinco anos e residentes com média de 92 anos em atividades diárias, modelo que virou referência e se espalhou para Japão, Canadá e Europa.",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/alguem-teve-a-ideia-de-unir-um-lar-de-idosos-a-um-orfanato-e-o-resultado-nao-e-sobre-o-comeco-ou-o-fim-da-vida-mas-sobre-viver-o-presente-um-dia-de-cada-vez/",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "18:30",
 "t": "Virginia Fonseca recebeu R$ 17,7 milhões de empresa investigada pela PF por suspeita de lavagem de dinheiro",
 "p": "A empresa Talismã Digital, ligada à influenciadora Virginia Fonseca, recebeu R$ 17,7 milhões da AMP Pay Marketing e Negócios, companhia investigada pela Polícia Federal (PF) por possível ligação com o advogado Willer Tomaz, amigo do senador Flávio Bolsonaro (PL-RJ). Os pagamentos foram feitos por meio de cinco…",
@@ -189,6 +311,20 @@
 },
 {
 "d": "2026-11-06",
+"h": "18:13",
+"t": "São Bernardo terá ônibus gratuitos nos dois domingos do Enem",
+"p": "Gratuidade será válida nos dias 8 e 15 de novembro, das 8h às 22h; candidatos deverão apresentar Cartão Legal Estudante ou comprovante de inscrição.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367379/sao-bernardo-tera-onibus-gratuitos-nos-dois-domingos-do-enem",
+"auto": true
+},
+{
+"d": "2026-11-06",
 "h": "18:11",
 "t": "Cidades do Alto Tietê terão transporte gratuito para candidatos do Enem 2026",
 "p": "Ao menos oito dos dez municípios da região não cobrarão tarifa dos candidatos no dia da aplicação do exame",
@@ -225,6 +361,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/entretenimento/jacquin-pede-respeito-a-fogaca-apos-critica-da-folha-mas-defesa-contrasta-com-avaliacoes-acidas-do-chef-nos-programas-culinarios-exibidos-pela-band/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "18:03",
+"t": "Grande ABC terá seminário sobre saúde de negros, indígenas e imigrantes",
+"p": "Encontro será realizado das 9h às 13h30, em Santo André, com debates sobre acesso aos serviços de saúde e políticas de equidade racial.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367375/grande-abc-tera-seminario-sobre-saude-de-negros-indigenas-e-imigrantes",
 "auto": true
 },
 {
@@ -2484,6 +2634,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/gcm-localiza-motocicleta-com-sinais-de-adulteracao-no-bairro-nova-esperanca/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "10:28",
+"t": "Patrão entrega funcionário por suspeita de tráfico de drogas",
+"p": "Polícia apreendeu cocaína, balança de precisão e materiais usados para fracionar a droga na empresa",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/patrao-entrega-funcionario-por-suspeita-de-trafico-de-drogas/",
 "auto": true
 },
 {
