@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T13:47:17-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-07T14:43:25-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,8 +29,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -44,9 +43,162 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-07",
+"h": "14:39",
+"t": "Pesquisadora investiga cobertura televisiva da reforma trabalhista do governo Michel Temer",
+"p": "Resultado de uma pesquisa acadêmica adaptada para um público amplo, o livro investiga a cobertura televisiva da reforma trabalhista do governo Michel Temer e o espaço concedido — ou negado — às vozes do movimento sindical.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/reforma-trabalhista-sob-otica-da-imprensa/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:39",
+"t": "Equipes da Prefeitura de Sorocaba estão mobilizadas para atender ocorrências relacionadas às chuvas deste sábado (7)",
+"p": "A Prefeitura de Sorocaba, por meio da Defesa Civil, das Secretarias de Mobilidade (Semob) e de Serviços Públicos e Obras (Serpo) e Saae/Sorocaba, além dos demais setores da Administração Municipal, mantém equipes mobilizadas para atuar em ocorrências relativas àschuvas intensas deste sábado (7) O nível do Rio…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/equipes-da-prefeitura-de-sorocaba-estao-mobilizadas-para-atender-ocorrencias-relacionadas-as-chuvas-deste-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:31",
+"t": "Casos de Covid-19 crescem há seis semanas em 19 estados, aponta Ministério da Saúde",
+"p": "Aumento é observado em todas as faixas etárias; apesar da alta, o órgão classifica como baixo o nível de atividade da doença em todos os estados",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/saude/casos-de-covid-19-crescem-ha-seis-semanas-em-19-estados-aponta-ministerio-da-saude/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:30",
+"t": "Abandonado aos 8 anos, homem revela como foi adotado por Zezé Motta após encontro inesperado em casamento no Rio",
+"p": "A história de Robson Motta, adotado pela atriz Zezé Motta depois de passar parte da infância vivendo nas ruas do Rio de Janeiro, emocionou o público do programa “Avisa Lá Que Eu Vou”, do GNT. Aos 45 anos, ele relembrou ao apresentador Paulo Vieira o abandono aos 8 anos, os anos na Central do Brasil […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/abandonado-aos-8-anos-homem-revela-como-foi-adotado-por-zeze-motta-apos-encontro-inesperado-em-casamento-no-rio/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:20",
+"t": "Frente fria muda o tempo na região no fim de semana do Enem",
+"p": "O fim de semana será marcado por mudanças no tempo em Rio Preto. A chegada de uma frente fria deve provocar pancadas de chuva, possibilidade de temporais e queda nas temperaturas entre sábado (7) e domingo (8), quando será aplicado o primeiro dia do Exame Nacional do Ensino Médio (Enem) 2026. Neste sábado, o calor […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/frente-fria-muda-o-tempo-na-regiao-no-fim-de-semana-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:16",
+"t": "Porte de arma e táticas de tiro: GCM de Cubatão passa por qualificação profissional",
+"p": "Capacitação anual dividida em duas etapas cumpre exigências da Polícia Federal e aborda a Lei de Abuso de Autoridade e procedimentos em delegacia",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/porte-de-arma-e-taticas-de-tiro-gcm-de-cubatao-passa-por-qualificacao-profissional.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:58",
+"t": "Veja como as passagens de fauna nas rodovias concedidas de SP garantem segurança viária e proteção aos animais",
+"p": "De capivaras, tatus, cotias a onças e até lobos-guarás, além de animais silvestres, podem ser avistados cruzando o percurso das rodovias paulistas concedidas. Apesar de ser um momento que pode gerar contemplação, é comum motoristas terem dúvidas sobre como agir nessas situações. A preservação da fauna silvestre é…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/veja-como-as-passagens-de-fauna-nas-rodovias-concedidas-de-sp-garantem-seguranca-viaria-e-protecao-aos-animais/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:58",
+"t": "Banco de Sangue do Hospital do Servidor Público Estadual funciona com 18% do estoque ideal; saiba como doar",
+"p": "O Banco de Sangue do Hospital do Servidor Público Estadual (HSPE) de São Paulo funciona com 18% do estoque. A reserva ideal é de mil bolsas do insumo e atualmente conta com 180. O diretor da unidade, Fábio Lino, explica que essa quantidade é insuficiente para manter o volume de segurança nos níveis padrão, pois […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/banco-de-sangue-do-hospital-do-servidor-publico-estadual-funciona-com-18-do-estoque-ideal-saiba-como-doar/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:58",
+"t": "Governo de SP leva 10 startups paulistas ao Web Summit Lisboa 2026",
+"p": "A Secretaria de Ciência, Tecnologia e Inovação do Estado de São Paulo irá liderar uma comitiva composta por representantes de 10 startups paulistas, que embarcam durante este final de semana para Lisboa (Portugal) para participar do Web Summit 2026, considerado o maior evento de tecnologia e inovação do mundo. Ao…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-leva-10-startups-paulistas-ao-web-summit-lisboa-2026/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:58",
+"t": "Orgulho Nerd SP anuncia Supercombo, Miura Jam e Arena Medieval como as primeiras atrações da edição 2026",
+"p": "O mundo dos games, animes, quadrinhos e da cultura pop/nerd vão invadir a Mercado Livre Arena Pacaembu, pela primeira vez, com o Orgulho Nerd SP, nos dias 21 e 22 de novembro (sábado e domingo). Gratuito, o evento é realizado pela Secretaria da Cultura, Economia e Indústria Criativas do Governo do Estado de São…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Pacaembu"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/orgulho-nerd-sp-anuncia-supercombo-miura-jam-e-arena-medieval-como-as-primeiras-atracoes-da-edicao-2026/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:52",
+"t": "Mogi-Bertioga tem tráfego normal apesar da chuva neste sábado (7)",
+"p": "Trechos monitorados entre Mogi das Cruzes e Bertioga não apresentam lentidão, mas há pancadas de chuva no litoral e chuva fraca com trovoadas na serra",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-trafego-normal-apesar-da-chuva-neste-sabado-7.html",
+"auto": true
+},
 {
 "d": "2026-11-07",
 "h": "13:43",
@@ -103,6 +255,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/piracicaba/mulher-morre-apos-carro-bater-de-frente-com-van-em-estrada-da-ceasa/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:08",
+"t": "Mostra de Cinema Chinês terá mais três sessões em São Caetano",
+"p": "Após a abertura na quinta-feira (5), programação segue nos dias 12, 19 e 26, sempre às 19h30, no auditório da Secretaria de Cultura",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367467/mostra-de-cinema-chines-tera-mais-tres-sessoes-em-sao-caetano",
 "auto": true
 },
 {
