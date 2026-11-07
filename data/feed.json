@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T14:43:25-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-07T15:51:19-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,101 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-07",
+"h": "15:46",
+"t": "Defesa Civil de SP emite mais de 40 alertas de tempestade e inclui Baixada Santista e cidades do litoral norte e Vale",
+"p": "Gabinete de crise estadual monitora risco de temporais com ventania e granizo no litoral paulista durante este fim de semana",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/clima/defesa-civil-de-sp-emite-mais-de-40-alertas-de-tempestade-e-inclui-baixada-santista-e-cidades-do-litoral-norte-e-vale.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "15:34",
+"t": "Nível do Rio Sorocaba sobe acima de 2 metros na Praça Lions e equipes da Prefeitura trabalham para atender as ocorrências decorrentes das fortes chuvas deste sábado (7)",
+"p": "Um dos pontos da cidade onde o nível do Rio Sorocaba chegou mais alto, neste sábado (7), foi próximo à Praça Lions, onde superou a marca de 2 metros e continua sendo monitorado. Até o momento não há registro de vítimas ou desalojados. A média histórica de chuvas para novembro todo em Sorocaba é de […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/nivel-do-rio-sorocaba-sobe-acima-de-2-metros-na-praca-lions-e-equipes-da-prefeitura-trabalham-para-atender-as-ocorrencias-decorrentes-das-fortes-chuvas-deste-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "15:04",
+"t": "Tudo sobre as novas regras do vale-refeição e alimentação que começam neste sábado",
+"p": "Entenda como as mudanças no vale-refeição e no vale-alimentação afetam o uso dos cartões, a aceitação nas maquininhas, as taxas cobradas e os prazos de pagamento",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/tudo-sobre-as-novas-regras-do-vale-refeicao-e-alimentacao-que-comecam-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:56",
+"t": "Prefeitura efetiva Lígia Cavassani como secretária de Saúde de Rio Preto",
+"p": "Servidora municipal há 20 anos, ela comandava a pasta interinamente desde setembro e já ocupou cargos de direção na rede pública",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeitura-efetiva-ligia-cavassani-como-secretaria-de-saude-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:50",
+"t": "El Niño está muito mais forte do que o previsto e Pacífico aquece a +3,4 ºC; sua família está preparada para lidar com os efeitos do fenômeno?",
+"p": "O El Niño de 2026 bateu recorde histórico com anomalia de +3,4°C na região Niño 3.4, segundo a NOAA, superando o episódio de 2015. O fenômeno deve manter intensidade muito forte entre novembro e janeiro, com chuva acima da média no Sul e seca no Norte e Nordeste.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/el-nino-esta-muito-mais-forte-do-que-o-previsto-e-pacifico-aquece-a-34-oc-sua-familia-esta-preparada-para-lidar-com-os-efeitos-do-fenomeno/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:48",
+"t": "Frente fria chega hoje e vira o tempo no interior de SP",
+"p": "Mudança no tempo deve provocar queda nas temperaturas; região está sob alerta para chuva forte, raios, granizo e ventos de até 70 km/h",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/frente-fria-chega-hoje-e-vira-o-tempo-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:48",
+"t": "Polícia Militar mobiliza 7 mil agentes no Estado para segurança e escolta do Enem 2026",
+"p": "A Polícia Militar do Estado de São Paulo estruturou uma operação especial de segurança para garantir a integridade dos materiais sigilosos e a tranquilidade dos inscritos no Exame Nacional do Ensino Médio (Enem) de 2026. A ação contará com a mobilização diária de cerca de 7 mil policiais e 3,5 mil viaturas durante…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-militar-mobiliza-7-mil-agentes-no-estado-para-seguranca-e-escolta-do-enem-2026/",
+"auto": true
+},
 {
 "d": "2026-11-07",
 "h": "14:39",
@@ -76,6 +165,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/equipes-da-prefeitura-de-sorocaba-estao-mobilizadas-para-atender-ocorrencias-relacionadas-as-chuvas-deste-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:39",
+"t": "Guarda Civil Municipal de Praia Grande prende grupo especializado em furtar bicicletas de alto valor",
+"p": "Operação no bairro Vila Sônia recupera cinco veículos no valor de até R$ 50 mil e encaminha suspeitos à Central de Polícia Judiciária",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/praiagrande/guarda-civil-municipal-de-praia-grande-prende-grupo-especializado-em-furtar-bicicletas-de-alto-valor.html",
 "auto": true
 },
 {
@@ -116,6 +219,21 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/frente-fria-muda-o-tempo-na-regiao-no-fim-de-semana-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "14:20",
+"t": "Polícia prende dois e apreende mais de 2kg de drogas em São Vicente e Praia Grande",
+"p": "Operação Monte Castelo cumpriu cinco mandados de busca em São Vicente e Praia Grande; ação resultou na apreensão de 2.051 porções de entorpecentes",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Monte Castelo",
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/policia-prende-dois-e-apreende-mais-de-2kg-de-drogas-em-sao-vicente-e-praia-grande.html",
 "auto": true
 },
 {
