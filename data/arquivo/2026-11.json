@@ -3,6 +3,170 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "11:42",
+"t": "Vinicius autoriza reforma de R$ 450 mil em escola no distrito de Lácio",
+"p": "Serviços incluem recuperação do telhado, troca do forro, manutenção das calhas e pintura.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vinicius-autoriza-reforma-de-r-450-mil-em-escola-infantil-no-distrito-de-lacio/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:36",
+"t": "Frente fria traz ventos acima de 80 km/h e ondas de até 2 metros para Santos",
+"p": "Chuva de moderada a forte ganha força no final da tarde deste sábado (7) e segue até segunda (9); Defesa Civil alerta para ressaca e alagamentos",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/frente-fria-traz-ventos-acima-de-80-kmh-e-ondas-de-ate-2-metros-para-santos.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:34",
+"t": "Poço do Figueirinha entra em operação para combater falta d’água na zona norte",
+"p": "Com investimento de R$ 15 milhões, estrutura terá capacidade de produzir até 260 mil litros por hora quando estiver em pleno funcionamento.",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mntv/poco-do-figueirinha-entra-em-operacao-para-combater-falta-dagua-na-zona-norte/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:27",
+"t": "Natal na Estação reúne artesanato em Guaratinguetá neste fim de semana",
+"p": "Feira acontece na Estação Ferroviária nos dias 7 e 8 de novembro; confira os horários divulgados pela Prefeitura.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Guaratinguetá"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/natal-na-estacao-guaratingueta-7-8-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:19",
+"t": "Campinas terá feira de adoção com 18 cães e gatos e vacinação gratuita neste sábado; veja como participar",
+"p": "Evento será realizado das 9h às 16h, na sede do Departamento de Proteção e Bem-Estar Animal, na Vila Boa Vista. Programação também inclui microchipagem gratuita e visita às instalações",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/campinas-tera-feira-de-adocao-com-18-caes-e-gatos-e-vacinacao-gratuita-neste-sabado-veja-como-participar/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:19",
+"t": "Secid realiza Oficina de Construção do Plano Municipal de Assistência Social de Sorocaba 2026–2029",
+"p": "Fotos: Divulgação/Secid O auditório do Centro das Indústrias do Estado de São Paulo (CIESP) de Sorocaba foi palco de um importante momento de diálogo, construção coletiva e troca de experiências: a Oficina de Construção do Plano Municipal de Assistência Social (PMAS) 2026–2029. O encontro foi realizado na última…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secid-realiza-oficina-de-construcao-do-plano-municipal-de-assistencia-social-de-sorocaba-2026-2029/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:16",
+"t": "Moradores do Jardim Piatã, em Mogi, reclamam de buracos, falta de pavimentação e iluminação pública",
+"p": "Moradores apontam dificuldades de circulação e insegurança em ruas do bairro; Prefeitura afirma que realiza manutenções e prevê intervenções em vias da região",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/moradores-do-jardim-piata-em-mogi-reclamam-de-buracos-falta-de-pavimentacao-e-iluminacao-publica/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:16",
+"t": "Polícia Militar mobiliza 7 mil agentes no Estado para segurança e escolta do Enem 2026",
+"p": "A Polícia Militar do Estado de São Paulo estruturou uma operação especial de segurança para garantir a integridade dos materiais sigilosos e a tranquilidade dos inscritos no Exame Nacional do Ensino Médio (Enem) de 2026. A ação contará com a mobilização diária de cerca de 7 mil policiais e 3,5 mil viaturas durante…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-mobiliza-7-mil-agentes-no-estado-para-seguranca-e-escolta-do-enem-2026/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:05",
+"t": "São Paulo tem alerta de tempestade na tarde deste sábado (7)",
+"p": "Divulgação/Governo de SP Uma nova frente fria chega ao estado de São Paulo neste sábado (7), provocando pancadas de chuva de moderada a forte intensidade",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/sao-paulo-tem-alerta-de-tempestade-na-tarde-deste-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:01",
+"t": "Defesa Civil vistoria escolas de Ubatuba para prevenir riscos climáticos",
+"p": "Cinco unidades de ensino passaram por avaliações que integram o Plano de Contingência Escolar 2026",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ubatuba/defesa-civil-vistoria-escolas-de-ubatuba-para-prevenir-riscos-climaticos.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:00",
+"t": "Aposta de São Bernardo ganha R$ 976 mil na Lotofácil",
+"p": "Sortudo acertou 15 números do concurso 3823, divulgado nesta sexta-feira (6); Outras três vitórias são computadas no Grande ABC",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367449/aposta-de-sao-bernardo-ganha-rs-976-mil-na-lotofacil",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:57",
+"t": "Saúde faz ação contra a dengue em bairros da zona norte neste sábado",
+"p": "Equipes da Saúde percorrem Aniz Badra e Vida Nova Paraíso para eliminar criadouros e orientar moradores.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/saude-faz-acao-contra-a-dengue-em-bairros-da-zona-norte-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "10:55",
 "t": "Família aponta falha em socorro de emergência em Brasitânia e Prefeitura de Fernandópolis apura conduta de equipe",
 "p": "Uma denúncia envolvendo o atendimento prestado pela rede municipal de saúde no distrito de Brasitânia, em Fernandópolis, motivou a abertura de apurações por parte da Prefeitura local. Familiares de uma moradora que sofreu uma parada cardíaca na última quarta-feira (4) relatam que a ambulância do distrito teria se…",
@@ -42,6 +206,21 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/grupo-politico-de-macedonia-viabiliza-quase-r-300-mil-do-estado-para-reconstrucao-de-ponte-na-divisa-com-mira-estrela/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:54",
+"t": "Santo André abre inscrições para curso gratuito de açougueiro",
+"p": "Aulas começam na próxima segunda-feira; formação da Escola de Ouro, em parceria com o Fundo Social de São Paulo, terá aulas práticas em carreta equipada e turmas nos períodos da manhã, tarde e noite",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santo André",
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367450/santo-andre-abre-inscricoes-para-curso-gratuito-de-acougueiro",
 "auto": true
 },
 {
@@ -184,6 +363,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/loterias/resultado-super-sete-concurso-919/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:26",
+"t": "Projeto aprovado pela Lei Rouanet pode receber R$ 0: detalhe pouco conhecido explica por que autorização não significa dinheiro na conta do artista",
+"p": "Uma frase bem-humorada que circula nas redes sociais compara a dificuldade de decorar a tabuada com a de explicar a Lei Rouanet. A brincadeira faz referência à quantidade de opiniões e discussões envolvendo o financiamento de projetos culturais no Brasil. Mas existe um detalhe que costuma desaparecer dessas…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/projeto-aprovado-pela-lei-rouanet-pode-receber-r-0-detalhe-pouco-conhecido-explica-por-que-autorizacao-nao-significa-dinheiro-na-conta-do-artista/",
 "auto": true
 },
 {
