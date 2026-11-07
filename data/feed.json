@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T23:55:24-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-07T00:56:09-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,18 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-07",
+"h": "00:19",
+"t": "Vereador do MDB é acusado de agredir munícipe no interior de São Paulo",
+"p": "Vereador Paulo Nogueira (MDB) teria tentado dar um soco em rapaz que tentou gravar discussão entre o parlamentar e o pai dele",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/vereador-do-mdb-e-acusado-de-agredir-municipe-no-interior-de-sao-paulo",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "22:45",
