@@ -3,6 +3,94 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "01:51",
+"t": "Previsão do tempo para sábado (07), em SP: tempo firme",
+"p": "Neste sábado, dia 07, um sistema de baixa pressão avançará pela costa paulista e dará origem a uma nova frente fria. O dia começará com tempo firme, mas, a partir do início da tarde, haverá condições para pancadas de chuva de moderada a forte intensidade, acompanhadas de raios, em todo o território paulista. Também…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/previsao-do-tempo-para-sabado-07-em-sp-tempo-firme/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "01:51",
+"t": "Previsão do tempo para domingo (08), em SP: tempo instável",
+"p": "Neste domingo, dia 08, o tempo permanecerá instável em todo o Estado de São Paulo, com predomínio de muita nebulosidade e ocorrência de chuva fraca a moderada a qualquer hora, sobretudo nas faixas norte e leste. No litoral, a chuva poderá se intensificar e persistir em alguns períodos, elevando os acumulados. Nas…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/previsao-do-tempo-para-domingo-08-em-sp-tempo-instavel/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "01:51",
+"t": "Polícia Militar, Bombeiros e Defesa Civil de SP atendem ocorrência de desabamento no Brás, em São Paulo",
+"p": "Equipes da Polícia Militar, do Corpo de Bombeiros e da Defesa Civil de São Paulo atuam no atendimento a uma ocorrência de desabamento do teto de uma loja de roupas na Rua Maria Joaquina, 192, no Brás, região central da capital paulista, na noite desta sexta-feira (6). O estabelecimento tem quatro pavimentos. Ao…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-militar-bombeiros-e-defesa-civil-de-sp-atendem-ocorrencia-de-desabamento-no-bras-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "01:51",
+"t": "Governo de SP oferece transporte metropolitano gratuito para estudantes nos dias de Enem",
+"p": "O Governo do Estado de São Paulo, por meio da Secretaria dos Transportes Metropolitanos e da Secretaria de Parcerias em Investimentos, garantirá gratuidade no transporte público para todos os estudantes que irão realizar as provas do Exame Nacional do Ensino Médio (Enem). A medida valerá para as linhas da CPTM,…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-oferece-transporte-metropolitano-gratuito-para-estudantes-nos-dias-de-enem/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "01:51",
+"t": "Operação da PM para o Enem mobiliza 7 mil policiais e reforça segurança dos candidatos no estado de SP",
+"p": "A Polícia Militar preparou uma operação especial para garantir a segurança dos candidatos, dos profissionais envolvidos na aplicação das provas e dos materiais sigilosos do Exame Nacional do Ensino Médio (Enem) 2026, com a mobilização de cerca de 7 mil policiais e 3,5 mil viaturas em todo o estado. As provas serão…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-da-pm-para-o-enem-mobiliza-7-mil-policiais-e-reforca-seguranca-dos-candidatos-no-estado-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "01:00",
+"t": "Gazeta transmite ao vivo o 1º Fórum Nacional da Transparência nesta segunda-feira, com participação de ministro e outras autoridades",
+"p": "A Gazeta vai transmitir ao vivo, pelo seu canal no YouTube, o 1º Fórum Nacional da Transparência (FNT 2026), que será realizado na próxima segunda-feira (9/11), em São Paulo. O encontro reunirá autoridades do governo federal, representantes de tribunais de contas, especialistas e profissionais da imprensa para…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/gazeta-transmite-ao-vivo-o-1o-forum-nacional-da-transparencia-nesta-segunda-feira-com-participacao-de-ministro-e-outras-autoridades/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "00:25",
+"t": "Menino de 11 anos passa centenas de horas transformando brinquedo em arte e usa 18.750 peças de Lego para criar obra impressionante",
+"p": "Menino de 11 anos usa 18.750 peças de Lego para criar retrato com esculturas famosas e miniaturas escondidas em meio aos blocos.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/menino-de-11-anos-passa-centenas-de-horas-transformando-brinquedo-em-arte-e-usa-18-750-pecas-de-lego-para-criar-obra-impressionante/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "00:19",
 "t": "Vereador do MDB é acusado de agredir munícipe no interior de São Paulo",
 "p": "Vereador Paulo Nogueira (MDB) teria tentado dar um soco em rapaz que tentou gravar discussão entre o parlamentar e o pai dele",
