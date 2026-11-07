@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T16:47:51-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-07T17:45:14-03:00",
+"novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,62 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "17:40",
+"t": "Nuvem prateleira chama atenção em Viracopos, que recebe voos desviados durante temporal",
+"p": "Aeroporto de Campinas operou pousos e decolagens por instrumentos durante a chuva, mas não registrou impactos nas operações; seis voos desviados tinham Congonhas como destino",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/nuvem-prateleira-chama-atencao-em-viracopos-que-recebe-voos-desviados-durante-temporal/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "17:33",
+"t": "Hospital abre processo seletivo para diferentes vagas e salários de até R$ 7,3 mil",
+"p": "Edital do Hospital Santa Lydia prevê oportunidades para candidatos de níveis médio e superior, além de formação de cadastro reserva; inscrições seguem até 16 de novembro",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/hospital-abre-processo-seletivo-para-diferentes-vagas-e-salarios-de-ate-r-73-mil/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "17:02",
+"t": "Há risco de desastre em SP? Entenda orientação da Defesa Civil sobre kit de sobrevivência para 72 horas",
+"p": "Recomendação da Defesa Civil tem caráter preventivo e busca preparar moradores para situações em que o atendimento das equipes de emergência pode demorar a chegar",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/ha-risco-de-desastre-em-sp-entenda-orientacao-da-defesa-civil-sobre-kit-de-sobrevivencia-para-72-horas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "16:50",
+"t": "Quatro irmãos são presos por tráfico de drogas em Ilhabela",
+"p": "Operação Laços de Sangue ocorreu no bairro Barra Velha, após investigação iniciada em janeiro; Polícia Civil aponta divisão de tarefas entre suspeitos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/quatro-irmaos-sao-presos-por-trafico-de-drogas-em-ilhabela.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "16:47",
 "t": "Árvore cai sobre carro durante temporal e casas ficam destelhadas na região",
 "p": "Chuva forte atingiu a região na tarde deste sábado (7); Piracicaba registrou ventos fortes e Hortolândia teve pontos com grande volume de água",
@@ -72,6 +128,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/defesa-civil-interdita-2-imoveis-vizinhos-ao-predio-que-desabou-no-bras",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "16:33",
+"t": "Mulher de 40 anos não precisa esperar aparecer um caroço para pedir mamografia pelo SUS; entenda por que a rotina começa somente aos 50 anos",
+"p": "Uma mulher de 40 anos pode procurar o Sistema Único de Saúde (SUS) para realizar uma mamografia mesmo sem sentir dor, perceber um caroço ou apresentar qualquer outro sinal de câncer de mama. Essa possibilidade faz parte das orientações do Ministério da Saúde, mas existe uma diferença importante entre ter acesso ao…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/mulher-de-40-anos-nao-precisa-esperar-aparecer-um-caroco-para-pedir-mamografia-pelo-sus-entenda-por-que-a-rotina-comeca-somente-aos-50-anos/",
 "auto": true
 },
 {
