@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-06T22:05:55-03:00",
-"novos_nesta_coleta": 18,
+"atualizado": "2026-11-06T23:02:08-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,112 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-06",
+"h": "22:45",
+"t": "Mais de 3,5 mil alunos trocam salas de aula por diversão em fonte interativa para celebrar fim de ciclo escolar no litoral de SP",
+"p": "Mais de 3,5 mil alunos da rede municipal de São Vicente, no litoral de São Paulo, terão uma comemoração especial para marcar a conclusão do 5º ano do Ensino Fundamental. Até o dia 12 de novembro, os estudantes participarão de passeios na Fonte das Crianças, localizada na Praça Tom Jobim, no Gonzaguinha. A…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Vicente",
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/sao-vicente/mais-de-35-mil-alunos-trocam-salas-de-aula-por-diversao-em-fonte-interativa-para-celebrar-fim-de-ciclo-escolar-no-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "22:40",
+"t": "Prefeito de São Bernardo troca comando da Guarda Municipal",
+"p": "Giovani Chagas assume o comando da corporação, enquanto Magda Stein Molina passa a chefiar a Corregedoria",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Magda",
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367422/prefeito-de-sao-bernardo-troca-comando-da-guarda-municipal",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "22:30",
+"t": "Fim da correria ao CRAS: BPC estende prazo do CadÚnico até 2027 para idosos e PCDs acamados",
+"p": "O Ministério do Desenvolvimento Social (MDS) flexibilizou as regras de recadastramento do Benefício de Prestação Continuada (BPC) para conter as filas nos postos e evitar injustiças com quem está acamado. A apresentação do formulário de impossibilidade física agora garante que a atualização no Cadastro Único…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/fim-da-correria-ao-cras-bpc-estende-prazo-do-cadunico-ate-2027-para-idosos-e-pcds-acamados/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "22:29",
+"t": "Câmera de segurança flagra o momento exato do desabamento de prédio no Brás",
+"p": "Prédio de 4 andares desabou na noite desta sexta-feira no bairro do Brás. Câmera de segurança do sistema Smart Sampa flagrou o momento exato",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/camera-de-seguranca-flagra-o-momento-exato-do-desabamento-de-predio-no-bras",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "22:28",
+"t": "Nova lei condiciona registro de médicos à aprovação em exame",
+"p": "Ricardo Stuckert/Presidência da República Sanção da lei que institui novas regras para o Enamed O presidente Luiz Inácio Lula da Silva sancionou nesta sexta-feira (6), no Palácio do Planalto, a lei que institui novas regras para o Exame Nacional de Avaliação da Formação Médica (Enamed). A legislação condiciona o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Planalto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "22:21",
+"t": "Nunes e Tarcísio se pronunciam sobre desabamento de prédio no Brás",
+"p": "Prefeito e governador reforçaram a mobilização de equipes e afirmaram estar monitorando o caso para eventuais desdobramentos",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/nunes-e-tarcisio-se-pronunciam-sobre-desabamento-de-predio-no-bras",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "22:15",
+"t": "SBT perde recurso sobre Ratinho e decisão explica o que a classificação indicativa permite na TV",
+"p": "O encerramento da discussão administrativa sobre a classificação indicativa do Programa do Ratinho traz à tona os limites jurídicos da atuação do governo na televisão aberta. Ao rejeitar o recurso do SBT, o Ministério da Justiça e Segurança Pública manteve o selo de 12 anos, mas esbarra em barreiras constitucionais…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/sbt-perde-recurso-sobre-ratinho-e-decisao-explica-o-que-a-classificacao-indicativa-permite-na-tv/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "22:10",
+"t": "Sorteio da Dupla Sena 3029 revelou os números na noite desta sexta-feira (6); Confira",
+"p": "Concurso desta rodada, em São Paulo, movimentou as apostas para o prêmio milionário de R$ 11,3 milhões da Dupla Sena",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/loterias/sorteio-da-dupla-sena-3029-revelou-os-numeros-na-noite-desta-sexta-feira-6-confira.html",
+"auto": true
+},
 {
 "d": "2026-11-06",
 "h": "22:00",
@@ -165,6 +271,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/ex-funcionaria-de-banco-confessa-desvio-de-dinheiro-de-idosos-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "21:15",
+"t": "Teto de loja de roupas desaba no Brás, em São Paulo",
+"p": "O teto de uma loja de roupas desabou no Brás, na capital paulista, na noite desta sexta-feira (6). O estabelecimento fica na Rua Maria Joaquina, número 192. Equipes da Polícia Militar, do Corpo de Bombeiros e da Defesa Civil de São Paulo atuam no atendimento da ocorrência. Ao todo, 17 viaturas e 51 bombeiros foram…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
 "auto": true
 },
 {
