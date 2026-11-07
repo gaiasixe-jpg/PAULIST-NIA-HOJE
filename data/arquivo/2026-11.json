@@ -3,6 +3,329 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "10:55",
+"t": "Família aponta falha em socorro de emergência em Brasitânia e Prefeitura de Fernandópolis apura conduta de equipe",
+"p": "Uma denúncia envolvendo o atendimento prestado pela rede municipal de saúde no distrito de Brasitânia, em Fernandópolis, motivou a abertura de apurações por parte da Prefeitura local. Familiares de uma moradora que sofreu uma parada cardíaca na última quarta-feira (4) relatam que a ambulância do distrito teria se…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/familia-aponta-falha-em-socorro-de-emergencia-em-brasitania-e-prefeitura-de-fernandopolis-apura-conduta-de-equipe/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:54",
+"t": "Frente fria muda o tempo na região no fim de semana do Enem",
+"p": "No domingo, dia da primeira prova do Enem, temperatura cai e há possibilidade de chuva durante a tarde",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/frente-fria-muda-o-tempo-na-regiao-no-fim-de-semana-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:54",
+"t": "Grupo político de Macedônia viabiliza quase R$ 300 mil do Estado para reconstrução de ponte na divisa com Mira Estrela",
+"p": "Uma articulação realizada por lideranças políticas de Macedônia junto ao Governo do Estado de São Paulo garantiu o repasse de quase R$ 300 mil para a infraestrutura rural do município. O recurso será destinado à construção de uma nova ponte sobre o Córrego do Veado, localizada na Estrada Municipal MAC-384,…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mira Estrela",
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/grupo-politico-de-macedonia-viabiliza-quase-r-300-mil-do-estado-para-reconstrucao-de-ponte-na-divisa-com-mira-estrela/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:47",
+"t": "Porteiro ganha carro após mais de 30 anos na mesma escola e cai no choro ao descobrir presente",
+"p": "Foto: Reprodução/Redes sociais @marinamacdowell Pais de alunos e instituição se uniram para surpreender Batista, que trabalha em uma escola de Fortaleza; vídeo da homenagem emocionou as redes sociais.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/porteiro-ganha-carro-30-anos-escola/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:46",
+"t": "Jovem de 17 anos é picado por cascavel e fica internado na UTI após reação alérgica ao soro",
+"p": "Adolescente foi picado por cascavel em Cristais Paulistas, interior de SP; moradores cobram limpeza de terreno no Jardim Novo Horizonte",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Novo Horizonte"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/adolescente-de-17-anos-e-picado-por-cascavel-e-moradores-reclamam-de-terreno-com-mato-alto/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:46",
+"t": "Ouroeste promove 6ª Cavalgada de Arabá neste domingo com expectativa de grande público",
+"p": "O distrito de Arabá, no município de Ouroeste, sedia neste domingo (8) a 6ª edição da Cavalgada de Arabá, evento tradicional que reúne comitivas e apreciadores da cultura sertaneja da região. A programação oficial organizada pelo Governo Municipal tem início previsto para as 9h e conta com mais de 300 participantes…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ouroeste-promove-6a-cavalgada-de-araba-neste-domingo-com-expectativa-de-grande-publico/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:43",
+"t": "Votuporanga confirma segundo caso de leishmaniose visceral em 2026 e liga alerta para a saúde pública",
+"p": "A Secretaria Municipal de Saúde de Votuporanga confirmou nesta semana o segundo caso de leishmaniose visceral registrado na cidade em 2026. O novo diagnóstico é de um adolescente de 17 anos, morador do bairro Vila Marim, que permanece internado em unidade hospitalar recebendo o tratamento adequado contra a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/votuporanga-confirma-segundo-caso-de-leishmaniose-visceral-em-2026-e-liga-alerta-para-a-saude-publica/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:40",
+"t": "Vigilante é agredido com lixeira durante abordagem no Terminal Urbano de Rio Preto",
+"p": "Um vigilante de 44 anos ficou ferido após ser atingido por uma lixeira durante uma confusão registrada na madrugada de sexta-feira (6), no Terminal Urbano de São José do Rio Preto. O agressor, um morador em situação de rua, foi abordado pela equipe de segurança do local após importunar uma passageira que aguardava…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vigilante-e-agredido-com-lixeira-durante-abordagem-no-terminal-urbano-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:38",
+"t": "Polícia Civil investiga morte de cadela agredida com ferramenta agrícola em propriedade rural",
+"p": "A Polícia Civil abriu um inquérito para apurar a morte de uma cadela em uma propriedade rural no município de Palestina. O caso foi registrado na manhã de sexta-feira (6), na Central de Flagrantes de São José do Rio Preto, após a tutora do animal, uma mulher de 50 anos, denunciar que o cão foi […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Palestina"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-investiga-morte-de-cadela-agredida-com-ferramenta-agricola-em-propriedade-rural/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:35",
+"t": "Princípio de incêndio atinge banca de camelô no Centro",
+"p": "Fogo teria começado na fiação elétrica da banca na manhã deste sábado (7); ninguém ficou ferido e linhas de ônibus seguem operando normalmente",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/principio-de-incendio-atinge-banca-de-camelo-no-centro/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:34",
+"t": "Resultados das loterias de sexta-feira (06/11): Mega-Sena, Lotofácil, Quina e mais",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Confira as dezenas, os ganhadores e os prêmios dos concursos da Mega-Sena, Lotofácil, Quina, Lotomania, Dupla Sena, Dia de Sorte, Super Sete e +Milionária.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultados-loterias-6-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:28",
+"t": "Homem é suspeito de matar cachorra com garfo de jardinagem ao coletar limões em propriedade rural",
+"p": "Central de Flagrantes de Rio Preto (SP) Madelyne Boer/TV TEM Um homem que fazia coleta de limões em uma propriedade rural de Palestina (SP) na quinta-feira (5) é suspeito de matar uma cachorra com um garfo de jardinagem. Segundo o boletim de ocorrência, a tutora disse à polícia ter sido informada por funcionários…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Palestina",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-suspeito-de-matar-cachorra-com-garfo-de-jardinagem-ao-coletar-limoes-em-propriedade-rural/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:27",
+"t": "Resultado da Super Sete 919: ninguém acerta as sete colunas e prêmio sobe para R$ 250 mil",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de sexta-feira (6) teve duas apostas premiadas com R$ 8.140,81 por seis acertos; confira os números de cada coluna.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-super-sete-concurso-919/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:24",
+"t": "Resultado do Dia de Sorte 1341: prêmio acumula para R$ 3,2 milhões; veja os números e o Mês da Sorte",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de sexta-feira (6) não teve ganhador dos sete números, mas 110 apostas receberão mais de R$ 2 mil por seis acertos.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/resultado-dia-de-sorte-concurso-1341/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:22",
+"t": "Resultado da Dupla Sena 3029: aposta de Brasília ganha R$ 121 mil; prêmio principal acumula para R$ 11,6 milhões",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de sexta-feira (6) teve uma aposta vencedora com seis acertos no segundo sorteio; veja as dezenas das duas extrações.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-dupla-sena-concurso-3029/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:19",
+"t": "Resultado da Lotomania 2996: prêmio acumula para R$ 4 milhões; confira os 20 números sorteados",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Ninguém acertou todas as dezenas no concurso de sexta-feira (6), mas três apostas ganharam mais de R$ 77 mil com 19 acertos.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotomania-concurso-2996/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:19",
+"t": "Instituto Lóttus recebe visita de Dani Alonso e Capitão Augusto após reeleição",
+"p": "Encontro teve agradecimento pelo apoio recebido e discussão sobre as prioridades da instituição para o próximo mandato.",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/instituto-lottus-recebe-visita-de-dani-alonso-e-capitao-augusto-apos-reeleicao/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:17",
+"t": "Resultado da Quina 7161: ninguém acerta e prêmio sobe para R$ 2,1 milhões; veja as dezenas",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de sexta-feira (6) não teve vencedor dos cinco números, mas 19 apostas ganharam quase R$ 16 mil com quatro acertos.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-quina-concurso-7161/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:14",
+"t": "Concurso Jandira-SP 2026: Prefeitura lança 4 editais com 1.380 vagas",
+"p": "A Prefeitura de Jandira, no estado de São Paulo, divulgou quatro novos editais para realizar concursos públicos com 1.380 vagas imediatas para todos os níveis de escolaridade. Abertura inscrições 16/11/2026 Encerra inscrições 04/01/2027 Data da prova 21/02/2027 Salários até R$ 12.213,03 Total de vagas 1.380…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jandira"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/concurso-jandira-sp-2026-prefeitura-lanca-4-editais-com-1-380-vagas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:06",
+"t": "Concessionária Tamoios programa bloqueios para obras até segunda (9)",
+"p": "Intervenções ocorrem no km 65 neste sábado (7) e no trecho urbano de Caraguatatuba na segunda (9); confira os desvios e rotas alternativas na rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/concessionaria-tamoios-programa-bloqueios-para-obras-ate-segunda-9.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:02",
+"t": "Funfarme registra aumento de atendimentos a pacientes com câncer de próstata",
+"p": "Hospital de Base contabilizou 3.245 atendimentos no primeiro semestre deste ano, ante 3.140 no mesmo período de 2025",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/funfarme-registra-aumento-de-atendimentos-a-pacientes-com-cancer-de-prostata/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:00",
+"t": "Ribeirão Pires intensifica ações de zeladoria e manutenção urbana em bairros da cidade",
+"p": "Equipes da Prefeitura atuaram com serviços de tapa-buracos, capinação, cata-bagulho, drenagem, limpeza de mobiliário urbano e manutenção de vias, reforçando o cuidado com os espaços públicos",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367445/ribeirao-pires-intensifica-acoes-de-zeladoria-e-manutencao-urbana-em-bairros-da-cidade",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "10:00",
+"t": "‘Branco’ na hora do Enem pode atrapalhar alunos, mas técnicas simples ajudam a controlar a ansiedade e recuperar o foco sem entrar em desespero",
+"p": "Depois de meses de estudos e preparação, chegar ao Exame Nacional do Ensino Médio (Enem) e esquecer tudo diante das questões é um dos grandes receios dos candidatos. O famoso “branco” pode aparecer acompanhado de coração acelerado, tremores e dificuldade de concentração. Entretanto, algumas técnicas simples podem…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/branco-na-hora-do-enem-pode-atrapalhar-alunos-mas-tecnicas-simples-ajudam-a-controlar-a-ansiedade-e-recuperar-o-foco-sem-entrar-em-desespero/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "09:55",
 "t": "Bombeiros retomam retirada de escombros após desabamento no Brás",
 "p": "Trabalhos foram interrompidos durante a madrugada devido ao risco de novos desabamentos; quatro pessoas foram encaminhadas à UPA",
@@ -125,6 +448,23 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/anhanguera-e-bandeirantes-terao-operacoes-com-comboios-neste-domingo-8/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:16",
+"t": "Lotofácil 3823 premia 40 apostas de SP, com ganhadores no litoral, interior e Grande São Paulo",
+"p": "O concurso 3823 da Lotofácil premiou 40 apostas do estado de São Paulo. No entanto, nenhuma delas levou o maior prêmio da noite da última sexta-feira (6). No litoral de São Paulo, uma aposta registrada em Peruíbe garantiu R$ 2.924,45 com 14 acertos. Além dela, cidades do interior, como Campinas, Franca, Ribeirão…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo",
+"Campinas",
+"Peruíbe",
+"Franca"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/lotofacil-3823-premia-40-apostas-de-sp-com-ganhadores-no-litoral-interior-e-grande-sao-paulo/",
 "auto": true
 },
 {
