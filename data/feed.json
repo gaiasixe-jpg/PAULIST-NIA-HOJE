@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T11:48:33-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-07T12:45:39-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,199 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "12:39",
+"t": "GCM Ambiental resgata tuim de asa azul ferido no Centro de São Vicente",
+"p": "Ave foi encontrada por moradora no telhado de um prédio após apresentar dificuldades para voar; animal recebe cuidados e passará por avaliação",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/gcm-ambiental-resgata-tuim-de-asa-azul-ferido-no-centro-de-sao-vicente.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:33",
+"t": "PM mobiliza 7 mil policiais para reforçar segurança durante o Enem em todo o estado de São Paulo",
+"p": "Operação terá 7 mil policiais e 3,5 mil viaturas em 222 municípios paulistas, com escolta das provas e reforço da segurança nas escolas e rodovias",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/pm-mobiliza-7-mil-policiais-para-reforcar-seguranca-durante-o-enem-em-todo-o-estado-de-sao-paulo.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:31",
+"t": "Jundiaí elege Miss Pérola Negra e princesas da Corte Afro 2026; conheça as vencedoras",
+"p": "Foto: Prefeitura de Jundiaí Vencedora havia ficado em segundo lugar na edição anterior e agora representará Jundiaí em atividades culturais e de igualdade racial.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-elege-miss-perola-negra-e-princesas-da-corte-afro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:18",
+"t": "‘Preso eu não vou’: áudios mostram o que dizia suspeito de golpe contra mulheres",
+"p": "Pelo menos cinco mulheres procuraram a polícia para denunciar suspeito de estelionato sentimental; gravações mostram pedidos de dinheiro, promessas e ameaças contra vítimas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/preso-eu-nao-vou-audios-mostram-o-que-dizia-suspeito-de-golpe-contra-mulheres/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:14",
+"t": "Quer trabalhar no Hopi Hari? Seleção para vagas de emprego acontece no Maxi Shopping nesta segunda (9)",
+"p": "Foto: Divulgação/Hopi Hari Candidatos precisam ter ensino fundamental completo; benefícios incluem plano odontológico, alimentação e passaporte anual para o parque.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/selecao-para-vagas-de-emprego-hopi-hari-no-maxi-shopping/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:12",
+"t": "Ensaio gratuito da Orquestra Sinfônica reúne multidão no Centro de Convivência",
+"p": "Apresentação aberta da obra Carmina Burana permitiu ao público acompanhar a preparação para o espetáculo final",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/ensaio-gratuito-da-orquestra-sinfonica-reune-multidao-no-centro-de-convivencia/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:07",
+"t": "Rodovias de SP têm 415 passagens de fauna para proteger animais silvestres",
+"p": "Estruturas subterrâneas e aéreas ajudam a reduzir atropelamentos e preservar a biodiversidade; levantamento da Artesp prevê outras 121 travessias",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodovias-de-sp-tem-415-passagens-de-fauna-para-proteger-animais-silvestres.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:04",
+"t": "Corrida Track&Field altera trânsito em Ubatuba neste domingo (8)",
+"p": "Bloqueios na avenida Iperoig e vias centrais começam de madrugada; prova com percursos de 5km e 10km ocorre sob previsão de chuva e rajadas de vento",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ubatuba/corrida-trackfield-altera-transito-em-ubatuba-neste-domingo-8.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:01",
+"t": "Sesc Jundiaí oferece oficinas gratuitas de tranças, máscaras africanas e bonecas Abayomi",
+"p": "Foto: Divulgação/Sesc Jundiaí Programação acontece de 7 a 22 de novembro e reúne atividades manuais, exposição e vivências culturais promovidas pelo Coletivo PretaEu.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/entretenimento/sesc-jundiai-oferece-oficinas-gratuitas-de-trancas-mascaras-africanas-e-bonecas-abayomi/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:00",
+"t": "Suspeito de integrar grupo de roubo contra motoristas de aplicativo é preso em Diadema",
+"p": "Polícia Civil cumpriu mandado de prisão nesta sexta-feira; dois outros indivíduos foram capturados e um permaneceu foragido",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367457/suspeito-de-integrar-grupo-de-roubo-contra-motoristas-de-aplicativo-e-preso-em-diadema",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:00",
+"t": "Obras avançam pelo Centro de Vicente de Carvalho e recuperam ruas após 20 anos",
+"p": "Divulgação/Prefeitura de Guarujá A intervenção faz parte da Operação Asfalto Novo e contempla trechos de importantes vias da região central do Distrito de Vicente de Carvalho.",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/obras-avancam-pelo-centro-de-vicente-de-carvalho-e-recuperam-ruas-apos-20-anos/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:00",
+"t": "Afrobonde resgata história da população negra de Santos com passeios",
+"p": "Carlos Nogueira/Divulgação Prefeitura de Santos O Afrobonde terá passeios gratuitos, com saídas às 13h e às 15h, do Largo Marquês de Monte Alegre, 2, no Valongo.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/afrobonde-resgata-historia-da-populacao-negra-de-santos-com-passeios/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:00",
+"t": "Polícia prende dois suspeitos e desarticula esquema de tráfico em SV e PG",
+"p": "Divulgação/Polícia Civil Uma operação conjunta desarticulou pontos de armazenamento e venda de drogas na área continental de São Vicente e em Praia Grande.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande",
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/sao-vicente/policia-prende-dois-suspeitos-desarticula-esquema-trafico-sv-pg/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:49",
+"t": "Litoral de SP entra em alerta com rajadas de 100 km/h e chuva de 100 mm entre esse sábado e domingo",
+"p": "Uma frente fria chega ao litoral de São Paulo neste sábado (7) e provoca chuva de até 100 mm por dia, rajadas de 60 km/h a 100 km/h e queda de 11°C até domingo. O Inmet mantém alerta laranja para a Baixada Santista e a Defesa Civil ativou gabinete de crise.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/litoral-de-sp-entra-em-alerta-com-rajadas-de-100-km-h-e-chuva-de-100-mm-entre-esse-sabado-e-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "11:42",
 "t": "Vinicius autoriza reforma de R$ 450 mil em escola no distrito de Lácio",
 "p": "Serviços incluem recuperação do telhado, troca do forro, manutenção das calhas e pintura.",
@@ -87,6 +280,18 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mntv/poco-do-figueirinha-entra-em-operacao-para-combater-falta-dagua-na-zona-norte/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "11:30",
+"t": "STF derruba idade mínima para aposentadoria especial do INSS e muda regra para trabalhadores expostos a riscos",
+"p": "O Supremo Tribunal Federal (STF) derrubou a exigência de idade mínima para a concessão da aposentadoria especial do INSS a trabalhadores expostos a agentes nocivos. Com a decisão, quem comprovar o tempo necessário de atividade em condições prejudiciais à saúde poderá solicitar o benefício sem precisar esperar até…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/stf-derruba-idade-minima-para-aposentadoria-especial-do-inss-e-muda-regra-para-trabalhadores-expostos-a-riscos/",
 "auto": true
 },
 {
