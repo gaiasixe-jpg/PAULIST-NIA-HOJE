@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T05:57:24-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-07T06:53:05-03:00",
+"novos_nesta_coleta": 8,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -13,7 +13,6 @@
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
-"ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
@@ -44,9 +43,127 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "ACidade ON Campinas",
+"erro": "HTTP Error 522: <none>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-07",
+"h": "06:02",
+"t": "Orquestra de Violeiros e Prefeitura de Fernandópolis assinam convênio para projeto de resgate da música sertaneja",
+"p": "A Prefeitura de Fernandópolis, por meio da Secretaria Municipal de Cultura e Turismo, oficializou nesta sexta-feira (6) a assinatura do Termo de Execução Cultural com a Associação Cultural João de Barro — Centro de Tradições Caipiras. A parceria destina R$ 17.019,68, com recursos provenientes da Política Nacional…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/orquestra-de-violeiros-e-prefeitura-de-fernandopolis-assinam-convenio-para-projeto-de-resgate-da-musica-sertaneja/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "06:02",
+"t": "Prefeitura de Fernandópolis intensifica cursos de qualificação profissional e apoio ao empreendedorismo",
+"p": "A Prefeitura de Fernandópolis, por meio da Secretaria Municipal de Desenvolvimento Sustentável, vem ampliando as ações de capacitação profissional e incentivo aos pequenos negócios locais. Em parceria com o Sebrae e o Governo do Estado de São Paulo, o município realizou uma série de oficinas e palestras gratuitas…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-intensifica-cursos-de-qualificacao-profissional-e-apoio-ao-empreendedorismo/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "06:01",
+"t": "Prefeitura de Jales capacita profissionais de saúde para notificação e combate à violência interpessoal e autoprovocada",
+"p": "A Prefeitura de Jales, por meio da Secretaria Municipal de Saúde, promoveu um treinamento especializado no Ambulatório Médico de Especialidades (AME) voltado à identificação, acolhimento e notificação de casos de violência interpessoal e autoprovocada. A capacitação reuniu equipes multidisciplinares, profissionais…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-jales-capacita-profissionais-de-saude-para-notificacao-e-combate-a-violencia-interpessoal-e-autoprovocada/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "06:01",
+"t": "Ganha Tempo de Macedônia passa a contar com Ponto de Atendimento Virtual da Receita Federal",
+"p": "A Prefeitura de Macedônia anunciou a implantação de um Ponto de Atendimento Virtual (PAV) da Receita Federal na unidade do Ganha Tempo do município. A novidade passa a funcionar a partir desta segunda-feira e busca facilitar o acesso dos cidadãos a orientações e serviços fiscais sem a necessidade de deslocamento…",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ganha-tempo-de-macedonia-passa-a-contar-com-ponto-de-atendimento-virtual-da-receita-federal/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "06:01",
+"t": "Prefeitura de Ouroeste faz alerta e reforça denúncias contra suspeita de envenenamento de gatos",
+"p": "A Coordenadoria de Bem-Estar Animal da Prefeitura de Ouroeste emitiu um alerta à população sobre casos de maus-tratos e mortes de felinos por suspeita de envenenamento no bairro do Bosque. A situação acendeu o sinal de aviso na comunidade local, que costuma cuidar e alimentar gatos comunitários na região. A…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-faz-alerta-e-reforca-denuncias-contra-suspeita-de-envenenamento-de-gatos/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "06:01",
+"t": "Guarani d’Oeste participa de seminário regional para fortalecer rede de acolhimento de crianças e adolescentes",
+"p": "O município de Guarani d’Oeste marcou presença no Seminário Macrorregional de Aprimoramento dos Serviços de Acolhimento Institucional e Implantação do Serviço de Acolhimento em Família Acolhedora, sediado em Andradina. O evento reuniu profissionais e gestores da região para debater melhorias no atendimento e na…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarani d'Oeste",
+"Andradina"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/guarani-doeste-participa-de-seminario-regional-para-fortalecer-rede-de-acolhimento-de-criancas-e-adolescentes/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "06:01",
+"t": "Fã de Rio Preto viaja 440 km para show do BTS e fica sem ingresso na entrada do estádio",
+"p": "Uma fã do grupo sul-coreano BTS enfrentou uma frustração ao percorrer cerca de 440 quilômetros de São José do Rio Preto até a capital paulista para acompanhar a turnê da banda no Estádio do Morumbis. Ao desembarcar no local do evento, Nayane Spadini, de 18 anos, descobriu que a agência contratada para a excursão…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fa-de-rio-preto-viaja-440-km-para-show-do-bts-e-fica-sem-ingresso-na-entrada-do-estadio/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "06:00",
+"t": "GCM detém quadrilha suspeita de furtar bicicletas de até R$ 50 mil em Praia Grande",
+"p": "Divulgação Pelo menos cinco bicicletas foram encontradas em imóvel na Vila Sônia.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/gcm-detem-quadrilha-suspeita-de-furtar-bicicletas-de-ate-r-50-mil-em-praia-grande/",
+"auto": true
+},
 {
 "d": "2026-11-07",
 "h": "02:44",
