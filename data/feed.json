@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T17:45:14-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-07T18:43:48-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,126 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "18:42",
+"t": "Temporal derruba árvores e bloqueia trânsito entre Marília e Vera Cruz",
+"p": "Chuva forte atingiu a região na tarde deste sábado (7); queda de árvore interrompeu passagem de veículos nas proximidades do Espaço T.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/temporal-derruba-arvores-e-bloqueia-transito-entre-marilia-e-vera-cruz/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:34",
+"t": "Chuva forte derruba árvores, arranca telhados e provoca danos à rede elétrica",
+"p": "Ocorrências foram registradas em diferentes pontos de Guariba neste sábado (7), após chuva forte acompanhada de ventos intensos",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Guariba"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-forte-derruba-arvores-arranca-telhados-e-provoca-danos-a-rede-eletrica/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:29",
+"t": "Elo com PCC: Polícia Civil indicia e pede prisão preventiva de Milton Leite",
+"p": "Polícia Civil aponta envolvimento com o PCC, indicia e pede prisão preventiva de ex-vereador Milton Leite e mais 15 envolvidos em operação",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/elo-com-pcc-policia-civil-indicia-e-pede-prisao-preventiva-de-milton-leite",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:18",
+"t": "Prefeitura de Sorocaba mantém atendimentos a ocorrências causadas pelas fortes chuvas deste sábado (7)",
+"p": "A Prefeitura de Sorocaba mantém em andamento o atendimento às ocorrências decorrentes das chuvas intensas deste sábado (7), em especial, ações de limpeza e desobstrução das vias. Equipes da Defesa Civil, das Secretarias de Mobilidade (Semob) e de Serviços Públicos e Obras (Serpo) e Saae/Sorocaba, além dos demais…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-mantem-atendimentos-a-ocorrencias-causadas-pelas-fortes-chuvas-deste-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:00",
+"t": "Tempestade com granizo destelha centenas de casas na Serra Gaúcha, mobiliza moradores e provoca filas por lonas em Bento Gonçalves",
+"p": "Impacto da chuva em Bento Gonçalves",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/tempestade-com-granizo-destelha-centenas-de-casas-na-serra-gaucha-mobiliza-moradores-e-provoca-filas-por-lonas-em-bento-goncalves/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:00",
+"t": "VLT e ônibus intermunicipais terão gratuidade nos dias de provas do Enem",
+"p": "Divulgação O transporte municipal das cidades de Santos e Praia Grande - VLT e intermunicipal - terão gratuidade de passagem nos dois próximos domingos.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/vlt-e-onibus-intermunicipais-terao-gratuidade-nos-dias-de-provas-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:00",
+"t": "Santos mobiliza moradores na limpeza e preservação do manguezal no São Manoel",
+"p": "Raimundo Rosa/Divulgação Prefeitura de Santos Moradores e voluntários participaram do mutirão de limpeza no manguezal do Bairro São Manoel, na Zona Noroeste de Santos.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-mobiliza-moradores-na-limpeza-e-preservacao-do-manguezal-no-sao-manoel/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:00",
+"t": "Homem em situação de rua é socorrido com hipotermia em ponto de ônibus em Santos",
+"p": "Reprodução/Google Street View Um homem em situação de rua, de 50 anos, foi resgatado com ferimentos e quadro de hipotermia em um ponto de ônibus neste sábado (7) em Santos.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/homem-em-situacao-de-rua-e-socorrido-com-hipotermia-em-ponto-de-onibus-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "17:50",
+"t": "F-1: veja o grid de largada do GP de SP com Norris na pole, Câmara em 11º e Bortoleto em 19º",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367498/f-1-veja-o-grid-de-largada-do-gp-de-sp-com-norris-na-pole-camara-em-11-e-bortoleto-em-19-",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "17:40",
 "t": "Nuvem prateleira chama atenção em Viracopos, que recebe voos desviados durante temporal",
 "p": "Aeroporto de Campinas operou pousos e decolagens por instrumentos durante a chuva, mas não registrou impactos nas operações; seis voos desviados tinham Congonhas como destino",
@@ -73,6 +193,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/hospital-abre-processo-seletivo-para-diferentes-vagas-e-salarios-de-ate-r-73-mil/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "17:06",
+"t": "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras",
+"p": "A TV Brasil exibe neste domingo (8) o jogo de volta da semifinal entre Ferroviária e São Paulo pelo Paulista F Sub-20 Petrobras. A transmissão na emissora pública da Empresa Brasil de Comunicação (EBC) tem início às 9h45. A partida acontece na cidade de Araraquara (SP). No jogo de ida, disputado na noite de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araraquara"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/tv-brasil-transmite-jogo-entre-ferroviaria-e-paulista-sub-20-petrobras",
 "auto": true
 },
 {
