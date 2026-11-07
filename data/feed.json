@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T08:46:22-03:00",
-"novos_nesta_coleta": 21,
+"atualizado": "2026-11-07T09:57:14-03:00",
+"novos_nesta_coleta": 18,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 83 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,252 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-07",
+"h": "09:55",
+"t": "Bombeiros retomam retirada de escombros após desabamento no Brás",
+"p": "Trabalhos foram interrompidos durante a madrugada devido ao risco de novos desabamentos; quatro pessoas foram encaminhadas à UPA",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/bombeiros-retomam-retirada-de-escombros-apos-desabamento-no-bras/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:52",
+"t": "Câmara de Marília retoma site que reúne história das ruas e homenageados",
+"p": "Plataforma voltou a ficar disponível após trabalho da direção e do setor de informática do Legislativo.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/camara-de-marilia-retoma-site-que-reune-historia-das-ruas-e-homenageados/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:52",
+"t": "Morador de rua agride vigilante com lixeira no Terminal Urbano",
+"p": "Segurança de 44 anos sofreu hematomas no braço esquerdo após ser atingido durante a abordagem",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/morador-de-rua-agride-vigilante-com-lixeira-no-terminal-urbano/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:35",
+"t": "Mutirão oferece vagas em oito funções na próxima quarta-feira em Marília",
+"p": "Seleção para contratação imediata será realizada na quarta-feira, no Terminal Urbano - Seleção será realizada no Terminal Rodoviário Urbano, das 9h às 18h20, com recebimento de currículos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/mutirao-oferece-vagas-em-oito-funcoes-na-proxima-quarta-feira-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:32",
+"t": "ROMU apreende mais de 300 porções de drogas perto de praça, em Santos",
+"p": "Homem abandonou sacola com crack, cocaína e maconha; ele fugiu de bicicleta ao notar a aproximação da GCM na praça do BNH",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/romu-apreende-mais-de-300-porcoes-de-drogas-perto-de-praca-em-santos.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:30",
+"t": "Funcionária do Assaí é demitida após esperar 1h30 para ir ao banheiro no interior de SP",
+"p": "A rede Assaí Atacadista foi condenada pela Justiça do Trabalho a pagar R$ 50 mil por danos morais coletivos após denúncias de irregularidades nas condições de trabalho em uma unidade de Piracicaba, no interior de São Paulo. Entre os relatos analisados no processo está o de uma funcionária que teria sido demitida…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Piracicaba"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/funcionaria-do-assai-e-demitida-apos-esperar-1h30-para-ir-ao-banheiro-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:29",
+"t": "Mudança nos horários da coleta de lixo em três bairros de Jundiaí é adiada para dia 16",
+"p": "Foto: Prefeitura de Jundiaí Alteração estava prevista para o dia 9; Ponte São João terá coleta diurna, enquanto Tulipas e Medeiros passarão ao período noturno.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/mudanca-coleta-de-lixo-em-tres-bairros-de-jundiai-adiada/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:27",
+"t": "Obituário | Falecimentos registrados neste sábado (7/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região neste sábado, dia 7 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-sabado-7-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:19",
+"t": "Anhanguera e Bandeirantes terão operações com comboios neste domingo (8)",
+"p": "Foto: Motiva AutoBAn Intervenções ocorrerão pela manhã para permitir a instalação de cabos de energia elétrica sobre as rodovias.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/anhanguera-e-bandeirantes-terao-operacoes-com-comboios-neste-domingo-8/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:07",
+"t": "Desabamento no Brás: prédio não tinha alvará de funcionamento da prefeitura",
+"p": "Prédio comercial desabou na noite dessa sexta (6/11), deixando 27 pessoas levemente feridas. Bombeiros atuam no local neste sábado (7/11)",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/desabamento-no-bras-predio-nao-tinha-alvara-de-funcionamento-da-prefeitura",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:04",
+"t": "Brasil registra menor número de casos de malária em 47 anos e reduz mortes em 30%; veja os sintomas que exigem atendimento após viagem à Amazônia",
+"p": "O Brasil registrou em 2025 o menor número de casos de malária contraídos no território nacional desde 1978. Foram 118.037 infecções, uma redução de 14,8% em comparação com o ano anterior, segundo o Ministério da Saúde. O avanço também apareceu no número de mortes. Em 2024, a doença provocou 56 óbitos no país. Em…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/brasil-registra-menor-numero-de-casos-de-malaria-em-47-anos-e-reduz-mortes-em-30-veja-os-sintomas-que-exigem-atendimento-apos-viagem-a-amazonia/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "09:00",
+"t": "Prédio que desabou no Brás não tinha Auto de Vistoria do Corpo de Bombeiros e deixa quatro feridos",
+"p": "O prédio de quatro andares que desabou no Brás, na região central de São Paulo, na noite de sexta-feira (6/11), não tinha o Auto de Vistoria do Corpo de Bombeiros (AVCB). O documento é exigido para comprovar que uma edificação segue as normas de segurança contra incêndios e situações de pânico. O desabamento…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/predio-que-desabou-no-bras-nao-tinha-auto-de-vistoria-do-corpo-de-bombeiros-e-deixa-quatro-feridos/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:50",
+"t": "Mais de 58 mil câmeras e dados de 6 mil agentes expostos: o que se sabe sobre a falha de segurança do Smart Sampa em São Paulo",
+"p": "Um sistema criado para ajudar a polícia a localizar criminosos pode ter aberto uma janela para que criminosos espionassem a própria polícia. O sistema Smart Sampa teve dados sensíveis expostos na internet e permitiu acesso indevido a mais de 58 mil câmeras. O caso ganhou ainda mais força porque as imagens não se…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/mais-de-58-mil-cameras-e-dados-de-6-mil-agentes-expostos-o-que-se-sabe-sobre-a-falha-de-seguranca-do-smart-sampa-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:48",
+"t": "Prefeitura de Ouroeste faz alerta e reforça denúncias contra suspeita de envenenamento de gatos",
+"p": "A Coordenadoria de Bem-Estar Animal da Prefeitura de Ouroeste emitiu um alerta à população sobre casos de maus-tratos e mortes de felinos por suspeita de envenenamento no bairro do Bosque. A situação acendeu o sinal de aviso na comunidade local, que costuma cuidar e alimentar gatos comunitários na região. A…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Ouroeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-ouroeste-faz-alerta-e-reforca-denuncias-contra-suspeita-de-envenenamento-de-gatos/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:48",
+"t": "Ganha Tempo de Macedônia passa a contar com Ponto de Atendimento Virtual da Receita Federal",
+"p": "A Prefeitura de Macedônia anunciou a implantação de um Ponto de Atendimento Virtual (PAV) da Receita Federal na unidade do Ganha Tempo do município. A novidade passa a funcionar a partir desta segunda-feira e busca facilitar o acesso dos cidadãos a orientações e serviços fiscais sem a necessidade de deslocamento…",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Macedônia"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ganha-tempo-de-macedonia-passa-a-contar-com-ponto-de-atendimento-virtual-da-receita-federal/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:48",
+"t": "Prefeitura de Jales capacita profissionais de saúde para notificação e combate à violência interpessoal e autoprovocada",
+"p": "A Prefeitura de Jales, por meio da Secretaria Municipal de Saúde, promoveu um treinamento especializado no Ambulatório Médico de Especialidades (AME) voltado à identificação, acolhimento e notificação de casos de violência interpessoal e autoprovocada. A capacitação reuniu equipes multidisciplinares, profissionais…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-jales-capacita-profissionais-de-saude-para-notificacao-e-combate-a-violencia-interpessoal-e-autoprovocada/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:46",
+"t": "Uma dívida de até R$ 45 milhões por pessoa pode sair com desconto de 70%; um detalhe impede abatimento no valor do trabalhador",
+"p": "Empregadores com dívidas de Fundo de Garantia do Tempo de Serviço (FGTS) podem aproveitar uma nova oportunidade para regularizar valores atrasados. A Procuradoria-Geral da Fazenda Nacional (PGFN) abriu uma negociação que permite descontos de até 70% e parcelamentos que, em determinadas situações, chegam a 133…",
+"tema": "Contas públicas",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/uma-divida-de-ate-r-45-milhoes-por-pessoa-pode-sair-com-desconto-de-70-um-detalhe-impede-abatimento-no-valor-do-trabalhador/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:41",
+"t": "Ilhabela retoma concurso da Corte Carnavalesca após período sem escolha de representantes",
+"p": "Inscrições para Rei Momo, Rainha e Princesa do Carnaval 2027 começam na segunda-feira (9); premiação chega a R$ 8 mil",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-retoma-concurso-da-corte-carnavalesca-apos-periodo-sem-escolha-de-representantes.html",
+"auto": true
+},
 {
 "d": "2026-11-07",
 "h": "08:38",
