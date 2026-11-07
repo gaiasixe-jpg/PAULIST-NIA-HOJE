@@ -3,6 +3,86 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "02:44",
+"t": "Defesa Civil alerta para risco de pancadas de chuva e ventos de até 60 km/h",
+"p": "A Defesa Civil do Estado de São Paulo emitiu um alerta meteorológico prevendo pancadas de chuva moderadas a fortes, acompanhadas de descargas elétricas e rajadas de vento que podem atingir 60 km/h neste domingo (8). A oscilação do tempo deve atingir com maior intensidade as regiões leste, norte e central do estado,…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-alerta-para-risco-de-pancadas-de-chuva-e-ventos-de-ate-60-km-h/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "02:44",
+"t": "Justiça de Jales condena jovem a 5 anos de prisão por tráfico de drogas",
+"p": "A juíza Laise Souza Cestari de Jesus, da 2ª Vara Criminal de Jales, condenou Cauã Henrique Montanari Carvalho pelo crime de tráfico de drogas, tipificado no artigo 33, caput, da Lei nº 11.343/2006. A pena fixada foi de 5 anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 dias-multa no valor…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-de-jales-condena-jovem-a-5-anos-de-prisao-por-trafico-de-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "02:44",
+"t": "Polícia Civil prende suspeito de tentar matar homem durante roubo de aliança",
+"p": "A Polícia Civil prendeu, nesta sexta-feira (6), um homem de 26 anos investigado por tentativa de latrocínio na Avenida Francisco Matarazzo, localizada no bairro da Água Branca, na Zona Oeste de São Paulo. O suspeito foi localizado por agentes da 3ª Central Especializada de Repressão a Crimes e Ocorrências Diversas…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-prende-suspeito-de-tentar-matar-homem-durante-roubo-de-alianca/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "02:43",
+"t": "Teto de loja desaba e mobiliza forças de segurança para resgate de vítimas",
+"p": "Equipes do Corpo de Bombeiros, da Polícia Militar e da Defesa Civil de São Paulo atuam no resgate de vítimas após o desabamento do teto de um estabelecimento comercial na Rua Maria Joaquina, no bairro do Brás, região central da capital. A ocorrência envolve um prédio de quatro pavimentos onde funciona uma loja de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/teto-de-loja-desaba-e-mobiliza-forcas-de-seguranca-para-resgate-de-vitimas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "02:20",
+"t": "Trânsito de São Paulo tem 1 multa por celular na direção a cada 5 minutos",
+"p": "Combinação entre celular e direção levou a 62 mil multas aplicadas por agentes de trânsito na cidade de São Paulo entre janeiro e julho",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/transito-de-sao-paulo-tem-1-multa-por-celular-na-direcao-a-cada-5-minutos",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "02:00",
+"t": "Câmara de SP deixa projeto contra bets em banho-maria após MP de Lula",
+"p": "Parlamentares aguardam desdobramentos no Congresso Nacional e no STF antes de retomar a discussão sobre a proposta de casas de aposta",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/camara-de-sp-deixa-projeto-contra-bets-em-banho-maria-apos-mp-de-lula",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "01:51",
 "t": "Previsão do tempo para sábado (07), em SP: tempo firme",
 "p": "Neste sábado, dia 07, um sistema de baixa pressão avançará pela costa paulista e dará origem a uma nova frente fria. O dia começará com tempo firme, mas, a partir do início da tarde, haverá condições para pancadas de chuva de moderada a forte intensidade, acompanhadas de raios, em todo o território paulista. Também…",
