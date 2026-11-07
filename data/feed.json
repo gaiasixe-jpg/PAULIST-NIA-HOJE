@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T15:51:19-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-07T16:47:51-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,143 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "16:47",
+"t": "Árvore cai sobre carro durante temporal e casas ficam destelhadas na região",
+"p": "Chuva forte atingiu a região na tarde deste sábado (7); Piracicaba registrou ventos fortes e Hortolândia teve pontos com grande volume de água",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Hortolândia",
+"Piracicaba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/arvore-cai-sobre-carro-durante-temporal-e-casas-ficam-destelhadas-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "16:40",
+"t": "Defesa Civil interdita 2 imóveis vizinhos ao prédio que desabou no Brás",
+"p": "Perícia foi feita no local neste sábado (7/11). Bombeiros passaram o dia trabalhando na retirada de escombros do desabamento",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/defesa-civil-interdita-2-imoveis-vizinhos-ao-predio-que-desabou-no-bras",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "16:32",
+"t": "Evento de adoção de cães do Canil Municipal ocorrerá no Parque Campolim neste domingo (8)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema), realizará, neste domingo (8), das 9h às 12h, o evento de adoção de cães no Parque “Carlos Alberto de Souza”, no Parque Campolim. Todos os animais são vacinados, castrados e microchipados. A campanha municipal de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/evento-de-adocao-de-caes-do-canil-municipal-ocorrera-no-parque-campolim-neste-domingo-8/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "16:26",
+"t": "Temporal provoca alagamentos e queda de árvores em Campinas; veja os estragos",
+"p": "Um forte temporal atingiu diferentes regiões de Campinas no começo da tarde deste sábado (7), provocando alagamentos em ruas, queda de galhos de árvores e transtornos no trânsito",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/temporal-provoca-alagamentos-e-queda-de-galhos-em-campinas-veja-os-estragos/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "16:19",
+"t": "Rodovia Padre Manoel da Nóbrega tem lentidão e interdição neste sábado (7)",
+"p": "Excesso de veículos provoca lentidão entre os quilômetros 271 e 274, enquanto obras exigem operação Pare e Siga no km 361, em Itariri",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Itariri"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-lentidao-e-interdicao-neste-sabado-7.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "16:10",
+"t": "“OAB da Medicina”: Lula sanciona lei de prova obrigatória para novos médicos",
+"p": "Foto: Pixelshot/Canva Sancionada nesta sexta-feira (6), legislação prevê três avaliações durante a graduação e estabelece regras de transição para estudantes já matriculados.",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/oab-da-medicina-lula-sanciona-lei-enamed-obrigatorio-para-novos-medicos/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "15:58",
+"t": "Devido às condições climáticas, as atividades de sábado (7) à tarde e do domingo (8) dos 50 anos do Parque da Biquinha foram suspensas",
+"p": "Devido às fortes chuvas ocorridas neste sábado e à previsão das condições climáticas para este domingo (8), as atividades que estavam programadas para acontecer ao longo desses dois dias, em celebração aos 50 anos do Parque da Biquinha, foram suspensas e serão reagendadas em breve, com divulgação pelos canais…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/devido-as-condicoes-climaticas-as-atividades-de-sabado-7-a-tarde-e-do-domingo-8-dos-50-anos-do-parque-da-biquinha-foram-suspensas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "15:57",
+"t": "Defesa Civil envia 44 alertas de chuva forte para SP neste sábado (7/11)",
+"p": "Desde quinta (5/11), previsão de chuva forte mobiliza gabinete de crise da Defesa Civil. Em Interlagos, treino classificatório foi suspenso",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/defesa-civil-envia-44-alertas-de-chuva-forte-para-sp-neste-sabado-7-11",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "15:57",
+"t": "Espetáculo da Galinha Pintadinha é cancelado por causa da forte chuva",
+"p": "O espetáculo “TOP 10 da Galinha Pintadinha”, que seria apresentado na tarde deste sábado (7), em Campinas, foi cancelado devido às fortes chuvas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/espetaculo-da-galinha-pintadinha-e-cancelado-por-causa-da-forte-chuva/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "15:54",
+"t": "Chuva forte e ventos de 90 km/h: frente fria avança e coloca 16 regiões de SP em alerta; Veja quais",
+"p": "Com a chegada de forte frente fria, Defesa Civil já enviou 44 alertas preventivos neste sábado (7), enquanto o Inmet mantém aviso de perigo potencial para temporais",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-forte-e-ventos-de-90-km-h-frente-fria-avanca-e-coloca-16-regioes-de-sp-em-alerta-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "15:46",
 "t": "Defesa Civil de SP emite mais de 40 alertas de tempestade e inclui Baixada Santista e cidades do litoral norte e Vale",
 "p": "Gabinete de crise estadual monitora risco de temporais com ventania e granizo no litoral paulista durante este fim de semana",
@@ -57,6 +194,18 @@
 "c": [],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/clima/defesa-civil-de-sp-emite-mais-de-40-alertas-de-tempestade-e-inclui-baixada-santista-e-cidades-do-litoral-norte-e-vale.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "15:43",
+"t": "Marinha alerta para fortes ventos no litoral de SP",
+"p": "Rajadas de vento devem atingir a faixa costeira entre sábado (7) e domingo (8) segundo a Marinha; Defesa Civil ativa gabinete de crise",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/clima/marinha-alerta-para-fortes-ventos-no-litoral-de-sp.html",
 "auto": true
 },
 {
