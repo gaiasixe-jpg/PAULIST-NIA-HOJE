@@ -3,6 +3,90 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "08:38",
+"t": "Balsa de Ilhabela opera com quatro embarcações nesta manhã de sábado (7)",
+"p": "Maré baixa impede o transporte de veículos pesados entre São Sebastião e Ilhabela; fila é de 30 minutos em ambas as margens",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/balsas/ilhabela/balsa-de-ilhabela-opera-com-quatro-embarcacoes-nesta-manha-de-sabado-7.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:27",
+"t": "Homem tenta esfaquear funcionária de farmácia durante assalto em Ubatuba",
+"p": "Câmeras de segurança registraram a ação; vítima usou um cabo de rodo para se defender das agressões do criminoso, que fugiu levando dinheiro do caixa",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/homem-tenta-esfaquear-funcionaria-de-farmacia-durante-assalto-em-ubatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:17",
+"t": "Guaratinguetá abre inscrições para rodada de negócios com grandes indústrias",
+"p": "Encontro gratuito do Sebrae e da Prefeitura será em 12 de novembro, na FEG Unesp. Inscrições seguem até dia 11.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Guaratinguetá"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/guara-compra-guara-rodada-negocios-exportacao-12-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:17",
+"t": "Sabores de Rua tem shows, brechós e programação pet em Pindamonhangaba",
+"p": "Festival gratuito ocupa o Bosque da Princesa neste sábado e domingo. Desfile pet recebe inscrições no local, com doação de alimento ou ração.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Pindamonhangaba"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/sabores-de-rua-bosque-princesa-pinda-7-8-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:15",
+"t": "Enem terá transporte metropolitano gratuito em SP das 9h às 21h",
+"p": "Medida vale em 8 e 15 de novembro para os sistemas indicados pelo governo estadual. Não será exigido comprovante de escolaridade.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/enem-2026-transporte-metropolitano-gratuito-sp-8-15-novembro.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "08:15",
+"t": "Tamoios passa a fiscalizar cinto e celular com câmeras neste sábado",
+"p": "Imagens serão encaminhadas à Polícia Militar Rodoviária, responsável pela autuação. A fiscalização inclui passageiros do banco traseiro.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/tamoios-fiscalizacao-cinto-celular-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "07:47",
 "t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste sábado (7)",
 "p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas segundo informações das concessionárias Ecovias e CNL",
@@ -17,6 +101,18 @@
 },
 {
 "d": "2026-11-07",
+"h": "07:45",
+"t": "Ferrovia de 1.360 km promete ligar Brasília ao litoral do Espírito Santo com investimento bilionário e rota por 38 municípios no País",
+"p": "Ferrovia de Brasília a Espírito Santo",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/ferrovia-de-1-360-km-promete-ligar-brasilia-ao-litoral-do-espirito-santo-com-investimento-bilionario-e-rota-por-38-municipios-no-pais/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "07:15",
 "t": "MELHOR ESTUDANTE: Talentos que encontram oportunidades",
 "p": "O Melhor Estudante de Votuporanga do Rotary Club 8 de Agosto chega à 24ª edição com 116 estudantes inscritos de 10 escolas públicas; concurso já proporcionou mais de 100 bolsas integrais para o Ensino Médio e terá prova final neste domingo (8), no IFSP Marcos Garcia, integrante do Rotary Club 8 de Agosto (à…",
@@ -27,6 +123,18 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/talentos-que-encontram-oportunidades-2/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "07:00",
+"t": "Bolsa Família pode ser bloqueado; saiba quem corre risco",
+"p": "O Programa Bolsa Família, gerido pelo Governo Federal por meio do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) em conjunto com as pastas da Saúde e da Educação, conta com diretrizes unificadas em todo o território nacional. Para garantir a permanência no programa de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/bolsa-familia-pode-ser-bloqueado-saiba-quem-corre-risco/",
 "auto": true
 },
 {
@@ -4474,6 +4582,240 @@
 ],
 "src": "Diário Oficial de São Bernardo do Campo",
 "u": "https://data.queridodiario.ok.org.br/3548708/2026-11-06/baf05cb031c8f17add4035a0b66f4dfaa7a2372c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 06/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Barbosa: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Barbosa"
+],
+"src": "Diário Oficial de Barbosa",
+"u": "https://data.queridodiario.ok.org.br/3505104/2026-11-06/5ebd9be656775f6614f16d100fa7b273a8ff54a6.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 06/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Avaré: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Avaré"
+],
+"src": "Diário Oficial de Avaré",
+"u": "https://data.queridodiario.ok.org.br/3504503/2026-11-06/8c1f3f0dce47e1b1c51d78a00d4428c05aa77fbe.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 06/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Bragança Paulista: Autoriza, em caráter específico e sob condições resolutivas, a implantação de atividade industrial de relevante interesse público, classificada no nível 6 (ZI-6), no imóvel resultante da…",
+"p": "Decreto nº 5.080, publicado no Diário Oficial do município em 06/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Bragança Paulista"
+],
+"src": "Diário Oficial de Bragança Paulista",
+"u": "https://data.queridodiario.ok.org.br/3507605/2026-11-06/6a7d76d9e32191dac473f44e81ecfaa84681a126.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.080",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Botucatu: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-06/a50fe2c3356dab6eb13243f110281a518d62cee5.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 06/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Dirce Reis: Aprova o Plano Municipal de Alfabetização do Município de Dirce Reis, para o período de 2027 a 2030, e dá outras providências)",
+"p": "Decreto nº 2.384, publicado no Diário Oficial do município em 06/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Dirce Reis"
+],
+"src": "Diário Oficial de Dirce Reis",
+"u": "https://data.queridodiario.ok.org.br/3513850/2026-11-06/8e7d8cd49601a38f94080833ed34a91c0c006a1a.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 2.384",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Parisi: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Parisi"
+],
+"src": "Diário Oficial de Parisi",
+"u": "https://data.queridodiario.ok.org.br/3536257/2026-11-06/973bdaffde1770ce0efe1081248dfba25bafc7f4.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 06/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Ourinhos: Dispõe sobre a revogação do Decreto nº 8.140, de 3 de fevereiro de 2026",
+"p": "Decreto nº 8.231, publicado no Diário Oficial do município em 06/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ourinhos"
+],
+"src": "Diário Oficial de Ourinhos",
+"u": "https://data.queridodiario.ok.org.br/3534708/2026-11-06/0a90caff405dce51ae97766fa63178a57221980f.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.231",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 95.629,06 e dá outras providências",
+"p": "Decreto nº 411, publicado no Diário Oficial do município em 06/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-06/f99e4a48ad41b0d9115bcc2cf3ce4d583d5f6e98.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 411",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Salto: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-06/f99e4a48ad41b0d9115bcc2cf3ce4d583d5f6e98.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 06/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Tapiraí: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Tapiraí"
+],
+"src": "Diário Oficial de Tapiraí",
+"u": "https://data.queridodiario.ok.org.br/3553500/2026-11-06/59ecc60d347bf247f979ce4b8225cef7b6b4a098.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 06/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Sarutaiá: Declara Situação de Emergência em todo Município de Sarutaiá , afetados por desastre classificado como Chuvas Intensas – COBRADE 1.3.2.1.4, e dá outras providências",
+"p": "Decreto nº 60, publicado no Diário Oficial do município em 06/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Sarutaiá"
+],
+"src": "Diário Oficial de Sarutaiá",
+"u": "https://data.queridodiario.ok.org.br/3551207/2026-11-06/f85b282777e690574e54cf1f89d8181294d15ac2.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 60",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Valinhos: Altera e acresce dispositivos ao Decreto nº 13.082/2026, que regulamenta os procedimentos operacionais, contábeis e administrativos",
+"p": "Decreto nº 13.161, publicado no Diário Oficial do município em 06/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-06/3c64188a0dc53217cc642b223fd8b6cbe2d0dadb.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 13.161",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-06",
+"h": "06:00",
+"t": "Valinhos: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-06/3c64188a0dc53217cc642b223fd8b6cbe2d0dadb.pdf",
 "auto": true,
 "org": "Prefeitura",
 "num": "Créditos 06/11",
