@@ -3,6 +3,104 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "13:43",
+"t": "Rodovia Oswaldo Cruz tem tráfego normal entre Taubaté e Ubatuba neste sábado (7)",
+"p": "Tempo está bom e a visibilidade é boa nos trechos monitorados, mas motoristas devem ficar atentos à possibilidade de neblina na serra",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Taubaté",
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-tem-trafego-normal-entre-taubate-e-ubatuba-neste-sabado-7.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:36",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal neste sábado (7)",
+"p": "Motoristas encontram tempo bom e boa visibilidade entre Taubaté e Campos do Jordão, mas devem ficar atentos à possibilidade de neblina na serra",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-neste-sabado-7.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:29",
+"t": "Papai Noel chega neste final de semana com festa especial; Veja programação",
+"p": "Papai Noel chega ao Iguatemi neste sábado (7) e ao Santa Úrsula no domingo (8), com festas, cortejos e atrações especiais para as famílias",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/papai-noel-chega-neste-final-de-semana-com-festa-especial-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:18",
+"t": "Mulher morre após carro bater de frente com van em estrada da Ceasa",
+"p": "Acidente ocorreu na manhã deste sábado (7), na Estrada do Ceasa, próximo à Rodovia Cornélio Pires; pista ficou parcialmente interditada para perícia",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/mulher-morre-apos-carro-bater-de-frente-com-van-em-estrada-da-ceasa/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:05",
+"t": "Ave branca, bico preto e nenhuma pista do que era: o filhote encontrado no mato em Curitiba que virou compromisso diário de uma cobradora de ônibus por quase três meses",
+"p": "Cobradora de ônibus encontra filhote de urubu em Curitiba e passa quase três meses levando carne e água para acompanhar seu crescimento.",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/ave-branca-bico-preto-e-nenhuma-pista-do-que-era-o-filhote-encontrado-no-mato-em-curitiba-que-virou-compromisso-diario-de-uma-cobradora-de-onibus-por-quase-tres-meses/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "13:00",
+"t": "Metrô mais profundo da América Latina custará R$ 19 bilhões, terá 15 estações subterrâneas e reduzirá viagem de 1h30 para apenas 23 minutos",
+"p": "Uma viagem que pode levar cerca de uma hora e meia de ônibus deverá ser feita em apenas 23 minutos com a nova Linha 6-Laranja do metrô de São Paulo. Conhecida como “Linha das Universidades”, a estrutura terá 15,3 quilômetros de extensão e 15 estações subterrâneas. O trajeto ligará o bairro da Brasilândia, na Zona […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/metro-mais-profundo-da-america-latina-custara-r-19-bilhoes-tera-15-estacoes-subterraneas-e-reduzira-viagem-de-1h30-para-apenas-23-minutos/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:48",
+"t": "Rodovia Presidente Dutra tem lentidão nos dois sentidos neste sábado (7)",
+"p": "Motoristas enfrentam tráfego intenso na Via Dutra em Cachoeira Paulista, Barra Mansa e Itatiaia; tempo chega a 45 minutos em um dos trechos",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Cachoeira Paulista"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-dutra-tem-lentidao-nos-dois-sentidos-neste-sabado-7.html",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "12:39",
 "t": "GCM Ambiental resgata tuim de asa azul ferido no Centro de São Vicente",
 "p": "Ave foi encontrada por moradora no telhado de um prédio após apresentar dificuldades para voar; animal recebe cuidados e passará por avaliação",
@@ -43,6 +141,30 @@
 },
 {
 "d": "2026-11-07",
+"h": "12:30",
+"t": "Lutador preso após agredir três vizinhas no Rio diz à polícia que não se lembra dos ataques",
+"p": "O lutador Lucas Portela Fontana Gomes, preso nesta sexta-feira (6/11) após agredir três vizinhas em um prédio na Zona Norte do Rio de Janeiro, afirmou à Polícia Civil que não se lembrava dos ataques. Em depoimento, ele disse fazer uso de anabolizantes e alegou que o consumo das substâncias poderia ter relação com a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/lutador-preso-apos-agredir-tres-vizinhas-no-rio-diz-a-policia-que-nao-se-lembra-dos-ataques/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:30",
+"t": "Brasil poderá ganhar primeiras ‘estradas no céu’ com carros voadores para conectar 5 cidades turísticas famosas em projeto que prevê até 12 aeronaves elétricas",
+"p": "Uma nova modalidade de transporte poderá transformar o transporte entre cidades turísticas do Sul do Brasil. SC e RS estão entre os estados escolhidos para um projeto de carros voadores, que pretende conectar destinos do litoral. A iniciativa ganhou força depois que a Eve Air Mobility, empresa ligada à Embraer,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil-podera-ganhar-primeiras-estradas-no-ceu-com-carros-voadores-para-conectar-5-cidades-turisticas-famosas-em-projeto-que-preve-ate-12-aeronaves-eletricas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "12:18",
 "t": "‘Preso eu não vou’: áudios mostram o que dizia suspeito de golpe contra mulheres",
 "p": "Pelo menos cinco mulheres procuraram a polícia para denunciar suspeito de estelionato sentimental; gravações mostram pedidos de dinheiro, promessas e ameaças contra vítimas",
@@ -67,6 +189,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/economia/empregos/selecao-para-vagas-de-emprego-hopi-hari-no-maxi-shopping/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "12:14",
+"t": "Municípios da tríplice fronteira recebem mobilização contra o sarampo",
+"p": "Municípios da chamada tríplice fronteira entre Brasil, Peru e Colômbia recebem neste sábado (7) uma mobilização conjunta de vacinação contra o sarampo. No lado brasileiro, a ação acontece em Tabatinga (AM), Benjamin Constant (AM), São Paulo de Olivença (AM) e Atalaia do Norte (AM). Em nota, o Ministério da Saúde…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Tabatinga"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/municipios-da-triplice-fronteira-recebem-mobilizacao-contra-o-sarampo",
 "auto": true
 },
 {
