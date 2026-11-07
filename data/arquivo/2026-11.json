@@ -3,6 +3,84 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "19:36",
+"t": "Temporal com ventos de 96,1 km/h provoca queda de árvores e estragos em Piracicaba",
+"p": "Rajadas de vento chegaram a 96,1 km/h; chuva também causou interrupções de energia e pode afetar o abastecimento de água em diferentes regiões da cidade",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Piracicaba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/temporal-com-ventos-de-961-km-h-provoca-queda-de-arvores-e-estragos-em-piracicaba/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "19:06",
+"t": "Rafael Câmara se diz “tranquilo” para correr após batida durante qualy",
+"p": "Câmara prendeu roda durante o Q2 e bateu contra o muro. Desempenho no qualy e punições de outros pilotos rendeu ao recifense o 11º lugar",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/rafael-camara-se-diz-tranquilo-para-correr-apos-batida-durante-qualy",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "19:00",
+"t": "Show de Natanzinho Lima é adiado em SP após PM apontar falta de segurança",
+"p": "Natanzinho Lima alega que público \"acima do esperado\" não estava nos planos do esquema de segurança e show será remarcado",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/show-de-natanzinho-lima-e-adiado-em-sp-apos-pm-apontar-falta-de-seguranca",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "19:00",
+"t": "PM impede que Natanzinho Lima faça show por falta de segurança",
+"p": "Natanzinho Lima alega que público \"acima do esperado\" não estava nos planos do esquema de segurança e show será remarcado",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pm-impede-que-natanzinho-lima-faca-show-por-falta-de-seguranca",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:50",
+"t": "São Bernardo recebe Torneio GRBrasil de Ginástica Rítmica com 1.900 atletas",
+"p": "Cidade será representada por 388 alunas das escolas de esporte da prefeitura; competição acontece no Ginásio Poliesportivo, com entrada gratuita",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367496/sao-bernardo-recebe-torneio-grbrasil-de-ginastica-ritmica-com-1-900-atletas",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "18:46",
+"t": "VLT e ônibus terão acesso gratuito aos domingos em razão do Enem",
+"p": "No sistema de transporte metropolitano, que inclui o VLT e os ônibus intermunicipais, a gratuidade será válida das 9h às 21h. Em Guarujá, alunos devem apresentar os comprovantes de inscrição do ENEM.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/vlt-e-onibus-gratis-aos-domingos-enem/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "18:42",
 "t": "Temporal derruba árvores e bloqueia trânsito entre Marília e Vera Cruz",
 "p": "Chuva forte atingiu a região na tarde deste sábado (7); queda de árvore interrompeu passagem de veículos nas proximidades do Espaço T.",
