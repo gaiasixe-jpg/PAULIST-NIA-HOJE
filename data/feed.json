@@ -1,12 +1,11 @@
 {
-"atualizado": "2026-11-07T19:44:19-03:00",
-"novos_nesta_coleta": 6,
+"atualizado": "2026-11-07T20:42:32-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -14,14 +13,12 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -29,13 +26,16 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
 },
 {
 "fonte": "A Tribuna",
@@ -44,9 +44,229 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | The read operation timed out | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-07",
+"h": "20:40",
+"t": "Buenavista, da Corazul, ficará atracado em Santos para ajustes internos",
+"p": "Embarcação Buenavista ficará em Santos para fazer os serviços necessários para melhor atendimento aos hóspedes. Viagens com saídas de Santos e Rio de Janeiro foram canceladas. Passageiros serão reembolsados.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/turismo/navio-corazul-temporada-de-cruzeiros/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:21",
+"t": "Prefeitura efetiva Lígia Cavassani como secretária de Saúde de Rio Preto",
+"p": "A Prefeitura de Rio Preto oficializou neste sábado (7) a efetivação de Lígia Cavassani como secretária municipal de Saúde. A decisão do prefeito Fábio Candido (PL) confirma a permanência da servidora no comando da pasta, que ela assumiu interinamente em 1º de setembro, durante uma reorganização do primeiro escalão…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-efetiva-ligia-cavassani-como-secretaria-de-saude-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:13",
+"t": "Motorista de 56 anos morre após bater carro contra árvore na Rodovia SP-322",
+"p": "O motorista Ademilson Rodrigues de Oliveira, de 56 anos, morreu na noite de sexta-feira (6) após o veículo que ele conduzia sair da pista e colidir violentamente contra uma árvore às margens da Rodovia Armando de Salles Oliveira (SP-322), no município de Olímpia. O acidente ocorreu na altura do quilômetro 461, no…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Olímpia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motorista-de-56-anos-morre-apos-bater-carro-contra-arvore-na-rodovia-sp-322/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:10",
+"t": "Acidentes em rodovias da região deixam duas pessoas mortas em Adolfo e Olímpia",
+"p": "Dois acidentes fatais foram registrados em rodovias estaduais da região de São José do Rio Preto entre a noite de sexta-feira (6) e a madrugada deste sábado (7). As ocorrências envolveram o atropelamento de um ciclista na SP-355 e a colisão de um automóvel contra uma árvore na SP-322, ambas atendidas pela Polícia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Adolfo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/acidentes-em-rodovias-da-regiao-deixam-duas-pessoas-mortas-em-adolfo-e-olimpia/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:09",
+"t": "Homem agride mulher em bar e é contido pelo prefeito em Itaquaquecetuba",
+"p": "Prefeito deu um golpe e imobilizou um homem que arrastava uma mulher pelos cabelos após sair de um bar em Itaquaquecetuba",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-agride-mulher-em-bar-e-e-contido-pelo-prefeito-em-itaquaquecetuba",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:07",
+"t": "Chuva provoca desabamento do telhado de supermercado em Barueri",
+"p": "Duas viaturas dos bombeiros foram deslocadas para atender à ocorrência registrada por volta das 13h30",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Barueri"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-provoca-desabamento-de-telhado-de-supermercado-em-barueri",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:07",
+"t": "Fisiculturista de 23 anos morre após colidir motocicleta contra árvore",
+"p": "O fisiculturista Guilherme Vieira da Silva de Souza, de 23 anos, morreu após sofrer um acidente de trânsito na madrugada deste sábado (7), no bairro Jardim Gisete, em São José do Rio Preto. O jovem pilotava uma motocicleta pela Rua James Moore quando perdeu o controle do veículo e colidiu violentamente contra uma…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fisiculturista-de-23-anos-morre-apos-colidir-motocicleta-contra-arvore/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:03",
+"t": "Desabamento no Brás: Defesa Civil interdita dois imóveis; trabalho dos bombeiros continua",
+"p": "O Corpo de Bombeiros trabalha desde as 6h30 deste sábado (7) na retirada dos escombros do imóvel que desabou na Rua Maria Joaquina, 192, no Brás, região central de São Paulo, na noite de sexta-feira (6). Dois imóveis vizinhos do que desabou precisaram ser interditados pela Defesa Civil por segurança, enquanto as…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/desabamento-no-bras-defesa-civil-interdita-dois-imoveis-trabalho-dos-bombeiros-continua/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:03",
+"t": "Defesa Civil de SP emite mais de 40 alertas de chuva e mantém gabinete de crise em todo o estado neste final de semana",
+"p": "A Defesa Civil do Estado de São Paulo enviou 45 alertas preventivos desde as 11h30 deste sábado (7) (41 por SMS e quatro por meio de Cell Broadcast) em razão das chuvas que atingiram diferentes regiões paulistas. Até o momento, não há relatos de ocorrências graves. As mensagens alertaram para chuvas fortes,…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-de-sp-emite-mais-de-40-alertas-de-chuva-e-mantem-gabinete-de-crise-em-todo-o-estado-neste-final-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:03",
+"t": "Cachoeira Paulista registra rajadas de vento de 126,7 km/h neste sábado (7)",
+"p": "Cachoeira Paulista, no Vale do Paraíba, registrou rajadas de vento de 126,7 km/h na tarde deste sábado (7). No município, também houve registros de destelhamentos de residências e quedas de árvores sobre vias públicas, principalmente nos bairros São José, Vila Carmem e São João. Ao longo do dia, a Defesa Civil…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Cachoeira Paulista"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/cachoeira-paulista-registra-rajadas-de-vento-de-1267-km-h-neste-sabado-7/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:03",
+"t": "Museu Republicano de Itu oferece programação cultural gratuita em novembro",
+"p": "O Museu Republicano de Itu, órgão ligado ao Museu Paulista da USP, oferece, em novembro, uma programação cultural gratuita com música, literatura e ações educativas. Entre as atrações estão o recital de violão sete cordas com Guilherme Lamas, a apresentação da maquete tátil do Jardim das Quatro Estações e o…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Itu"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/museu-republicano-de-itu-oferece-programacao-cultural-gratuita-em-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:03",
+"t": "Estado de SP registra 72 alertas de chuva; Cachoeira Paulista tem microexplosão atmosférica",
+"p": "Diante do cenário de instabilidade em todo o estado, a Defesa Civil de São Paulo emitiu 72 alertas de chuva para celulares ao longo deste sábado (7), por meio dos sistemas SMS e Cell Broadcast. O Centro de Gerenciamento de Emergências (CGE) classificou como microexplosão atmosférica o fenômeno registrado em…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Cachoeira Paulista",
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/estado-de-sp-registra-72-alertas-de-chuva-cachoeira-paulista-tem-microexplosao-atmosferica/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:03",
+"t": "Microexplosão atmosférica causa estragos em dia de 72 alertas de chuva no Estado de SP",
+"p": "A passagem de instabilidades extremas pelo Estado de São Paulo neste sábado (7) mobilizou a Defesa Civil Estadual a emitir 72 alertas preventivos via SMS e Cell Broadcast. O caso mais severo foi registrado em Cachoeira Paulista, no Vale do Paraíba, onde o Centro de Gerenciamento de Emergências (CGE) confirmou a…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Cachoeira Paulista"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/microexplosao-atmosferica-causa-estragos-em-dia-de-72-alertas-de-chuva-no-estado-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:01",
+"t": "Defesa Civil de SP emite mais de 40 alertas de tempestade e mantém gabinete de crise ativo no Estado",
+"p": "A Defesa Civil do Estado de São Paulo emitiu 45 alertas preventivos neste sábado (7) devido ao avanço de tempestades por diversas regiões paulistas. Do total de avisos enviados por SMS e pelo sistema de transmissão emergencial, quatro tiveram como alvo a capital paulista, colocada em estado de atenção para…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-de-sp-emite-mais-de-40-alertas-de-tempestade-e-mantem-gabinete-de-crise-ativo-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "20:00",
+"t": "Nike lança Air Force 1 com tecnologias para enfrentar o El Niño e suas condições extremas",
+"p": "Nike apresenta Air Force 1 com proteção contra água e sola de maior aderência; modelo integra coleção internacional de outono e inverno",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/nike-lanca-air-force-1-com-tecnologias-para-enfrentar-o-el-nino-e-suas-condicoes-extremas/",
+"auto": true
+},
 {
 "d": "2026-11-07",
 "h": "19:36",
