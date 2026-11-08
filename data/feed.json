@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-08T09:58:01-03:00",
-"novos_nesta_coleta": 24,
+"atualizado": "2026-11-08T10:55:38-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -13,6 +13,7 @@
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
+"ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
@@ -43,13 +44,196 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "ACidade ON Campinas",
-"erro": "HTTP Error 522: <none>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-08",
+"h": "10:44",
+"t": "Tempestades provocam destelhamentos, quedas de árvores e alagamentos no Estado",
+"p": "A passagem de uma frente fria acompanhada de temporais causou estragos em dezenas de municípios do Estado de São Paulo entre o sábado (7) e o domingo (8). O monitoramento meteorológico da Defesa Civil estadual resultou no disparo de 92 alertas de emergência via celular para orientar a população sobre o risco de…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tempestades-provocam-destelhamentos-quedas-de-arvores-e-alagamentos-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:43",
+"t": "Inscrições de detentos no Enem PPL crescem 9,6% no Estado de São Paulo",
+"p": "A participação de pessoas privadas de liberdade no Exame Nacional do Ensino Médio (Enem PPL) registrou um aumento de 9,64% nas penitenciárias do Estado de São Paulo este ano. Ao todo, a Polícia Penal contabilizou 24.601 inscritos distribuídos por 175 unidades prisionais, superando as 22.439 adesões registradas em…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/inscricoes-de-detentos-no-enem-ppl-crescem-96-no-estado-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:40",
+"t": "Colisão entre carro e carreta mata quatro pessoas na Rodovia Elyeser Montenegro Magalhães",
+"p": "Um grave acidente de trânsito resultou na morte de quatro pessoas na madrugada deste domingo (8), por volta das 5h30, no trecho da Rodovia Elyeser Montenegro Magalhães (SP-463) pertencente ao município de Santo Antônio do Aracanguá. A colisão envolveu um Chevrolet Corsa e uma carreta no trecho regional conhecido…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santo Antônio do Aracanguá"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/colisao-entre-carro-e-carreta-mata-quatro-pessoas-na-rodovia-elyeser-montenegro-magalhaes/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:30",
+"t": "Moradora da região morre em hospital de Minas Gerais após sofrer grave acidente de trânsito",
+"p": "Morreu neste final de semana Kelly Cristina Ferro, de 42 anos, vítima de um grave acidente de trânsito registrado no Estado de Minas Gerais. A moradora, que residia no município de Parisi e possui laços familiares consolidados em Votuporanga, permaneceu internada por vários dias em estado crítico em uma unidade…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Votuporanga",
+"Parisi"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/moradora-da-regiao-morre-em-hospital-de-minas-gerais-apos-sofrer-grave-acidente-de-transito/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:26",
+"t": "Chuva em SP: jovem de 20 anos desaparece após ser arrastado por correnteza",
+"p": "Klaiver Peitoxo foi levado pela água em meio ao temporal que atingiu a zona sul da capital paulista nesse sábado (7/11)",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-em-sp-jovem-de-20-anos-desaparece-apos-ser-arrastado-por-correnteza",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:25",
+"t": "Colisão frontal entre carro e moto deixa um morto na vicinal entre Tanabi e Ibiporanga",
+"p": "Um grave acidente de trânsito ocorrido na noite de quinta-feira (5) resultou na morte de um motociclista no quilômetro 5 da Estrada Vicinal Henrique Alves, via que conecta o município de Tanabi ao distrito de Ibiporanga. O acidente provocou forte comoção entre os moradores da localidade, onde a vítima era bastante…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Tanabi"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/colisao-frontal-entre-carro-e-moto-deixa-um-morto-na-vicinal-entre-tanabi-e-ibiporanga/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:20",
+"t": "Concurso Público: 14 órgãos abrem inscrições para 5 mil vagas nesta segunda, 9",
+"p": "A próxima segunda-feira, 9 de novembro, marca o início das inscrições de 14 concursos públicos e processos seletivos em diferentes regiões do país. Ao todo, os novos editais dão o pontapé para tentar 5.157 vagas nos estados de Goiás, Mato Grosso, Minas Gerais, Rio Grande do Sul, São Paulo e Tocantins. Com chances…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/concurso-publico-14-orgaos-abrem-inscricoes-para-5-mil-vagas-nesta-segunda-9/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:16",
+"t": "Temporal em Campinas: cidade registra 51 ocorrências, entre quedas de árvores e alagamentos",
+"p": "Segundo o último levantamento da Defesa Civil, temporal deste sábado (7) provocou quedas de árvores, alagamentos em vias públicas e imóveis e queda de muro",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/temporal-em-campinas-cidade-registra-51-ocorrencias-entre-quedas-de-arvores-e-alagamentos/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:14",
+"t": "Hospital São Vicente registra crescimento de 5,3% de pacientes acompanhados por câncer de próstata; oncologista explica sinais de alerta",
+"p": "Oncologista clínico Dr. Breno Reiss, do Hospital de Caridade São Vicente de Paulo - Foto: Hospital São Vicente Hospital de Jundiaí acompanhou 1.183 pacientes pelo SUS entre janeiro e outubro de 2026. Especialista alerta que a doença pode evoluir sem sintomas e reforça a importância do diagnóstico precoce",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/saude/hsv-aumento-atendimentos-cancer-prostata-2026/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:05",
+"t": "Novo tornado no Brasil destrói empresa e arremessa trabalhador por 40 metros em Palmeira das Missões",
+"p": "Um tornado atingiu Palmeira das Missões, no Noroeste do Rio Grande do Sul, por volta das 2h15 deste sábado (7), destruiu uma empresa de mudas e arremessou um trabalhador por 40 metros. A Defesa Civil confirmou dois tornados na mesma madrugada e o estado chegou a três na semana.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/novo-tornado-no-brasil-destroi-empresa-e-arremessa-trabalhador-por-40-metros-em-palmeira-das-missoes/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:00",
+"t": "Jundiaí enfrenta domingo chuvoso, mas semana começa com mudança no tempo",
+"p": "Foto: Chalabala/Canva Com máxima de 20°C, domingo terá chuva e risco de rajadas de vento e granizo; temperaturas começam a subir a partir de terça-feira.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-8-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:59",
+"t": "Ciclista morre após ser atropelado por carro em rodovia da região",
+"p": "Vítima morreu antes de ser socorrida",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/ciclista-morre-apos-ser-atropelado-por-carro-em-rodovia-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:58",
+"t": "INSS recebe 5,8 milhões de pedidos de auxílio por incapacidade em 2026 e benefício representa 46% das solicitações feitas ao instituto",
+"p": "Um benefício destinado a trabalhadores que precisam se afastar temporariamente de suas atividades por problemas de saúde se tornou o mais solicitado ao Instituto Nacional do Seguro Social (INSS) em 2026. Dos mais de 12 milhões de requerimentos recebidos pelo órgão no período divulgado, aproximadamente 5,8 milhões…",
+"tema": "Saúde",
+"s": "entregue",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/inss-recebe-58-milhoes-de-pedidos-de-auxilio-por-incapacidade-em-2026-e-beneficio-representa-46-das-solicitacoes-feitas-ao-instituto/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:57",
+"t": "Mongaguá oferta 130 vagas de ensino integral para educação infantil em novas creches",
+"p": "Oportunidades contemplam novas unidades no Itaguaí, Vila Atlântica e Centro; inscrições devem ser feitas diretamente nas secretarias escolares",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/mongagua/mongagua-oferta-130-vagas-de-ensino-integral-para-educacao-infantil-em-novas-creches.html",
+"auto": true
+},
 {
 "d": "2026-11-08",
 "h": "09:53",
@@ -364,6 +548,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/enem-2026-mobiliza-mais-de-22-mil-estudantes-em-fernandopolis-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:00",
+"t": "Lagoa do Taquaral recebe “balanço” feito de carteiras escolares; veja a obra",
+"p": "Obra “Aula Suspensa” transforma carteiras de sala de aula em balanços interativos; saiba até quando a obra fica no Taquaral",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Taquaral"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/lagoa-do-taquaral-recebe-balanco-feito-de-carteiras-escolares-veja-a-obra/",
 "auto": true
 },
 {
