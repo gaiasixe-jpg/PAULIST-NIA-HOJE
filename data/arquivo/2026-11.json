@@ -3,6 +3,162 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "15:47",
+"t": "Várzea Paulista cria lei que permite regularizar imóveis construídos sem alvará; veja as regras",
+"p": "Foto: Prefeitura de Várzea Paulista Legislação estabelece critérios para construções sem alvará, desdobros de terrenos e parcelamento de taxas e multas em até 36 vezes.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/varzea-paulista-cria-lei-que-permite-regularizar-imoveis-construidos-sem-alvara-veja-as-regras/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:43",
+"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal neste domingo (8)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-neste-domingo-8.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:10",
+"t": "Rodovia Presidente Dutra tem tráfego normal neste domingo (8)",
+"p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 15h",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-tem-trafego-normal-neste-domingo-8.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:08",
+"t": "\"Primavera dos sonhos\" faz Cantareira encher mais rápido que verão passado",
+"p": "Chuvas que causam transtorno nas cidades são as mesmas que fazem Cantareira se recuperar nesta primavera mais rapidamente que no verão",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/primavera-dos-sonhos-faz-cantareira-encher-mais-rapido-que-verao-passado",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:03",
+"t": "Colisão entre carro e carreta mata quatro pessoas na Rodovia Elyeser Montenegro Magalhães",
+"p": "Um grave acidente de trânsito resultou na morte de quatro pessoas na madrugada deste domingo (8), por volta das 5h30, no trecho da Rodovia Elyeser Montenegro Magalhães (SP-463) pertencente ao município de Santo Antônio do Aracanguá. A colisão envolveu um Chevrolet Corsa e uma carreta no trecho regional conhecido…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santo Antônio do Aracanguá"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/colisao-entre-carro-e-carreta-mata-quatro-pessoas-na-rodovia-elyeser-montenegro-magalhaes/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:03",
+"t": "Inscrições de detentos no Enem PPL crescem 9,6% no Estado de São Paulo",
+"p": "A participação de pessoas privadas de liberdade no Exame Nacional do Ensino Médio (Enem PPL) registrou um aumento de 9,64% nas penitenciárias do Estado de São Paulo este ano. Ao todo, a Polícia Penal contabilizou 24.601 inscritos distribuídos por 175 unidades prisionais, superando as 22.439 adesões registradas em…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/inscricoes-de-detentos-no-enem-ppl-crescem-96-no-estado-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:03",
+"t": "Tempestades provocam destelhamentos, quedas de árvores e alagamentos no Estado",
+"p": "A passagem de uma frente fria acompanhada de temporais causou estragos em dezenas de municípios do Estado de São Paulo entre o sábado (7) e o domingo (8). O monitoramento meteorológico da Defesa Civil estadual resultou no disparo de 92 alertas de emergência via celular para orientar a população sobre o risco de…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tempestades-provocam-destelhamentos-quedas-de-arvores-e-alagamentos-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:03",
+"t": "Animais soltos em Cemitério são recolhidos em Fernandópolis",
+"p": "Dois cavalos foram recolhidos pela empresa prestadora de serviços ao município na manhã deste domingo, dia 8, após serem flagrados no interior do Cemitério da Consolação, em Fernandópolis. A ação ocorreu depois que populares que estavam no local notaram a presença dos animais vagando entre os túmulos. Diante da…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/animais-soltos-em-cemiterio-sao-recolhidos-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:00",
+"t": "São Bernardo reforça atendimentos oftalmológicos com 4.700 novos procedimentos em unidade móvel do Ministério da Saúde",
+"p": "Programa do Governo Federal ampliará serviços já ofertados pela rede municipal, na Clínica da Visão; carreta atenderá pacientes com agendamento",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367556/sao-bernardo-reforca-atendimentos-oftalmologicos-com-4-700-novos-procedimentos-em-unidade-movel-do-ministerio-da-saude",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:00",
+"t": "Morador de cidade do interior de SP ganha quase R$ 1 milhão no concurso 3824 da Lotofácil e muda de vida",
+"p": "A Lotofácil 3824 deixou um morador da cidade de Taubate, no interior de São Paulo, bem feliz na manhã desta domingo (8). Com o feito de gabaritar a mobilidade, ele levou para casa R$800.258,57 e dividiu o prêmio máximo com um bolão de Salvador, na capital do estado da Bahia. Agora, a Lotofácil volta a […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/morador-de-cidade-do-interior-de-sp-ganha-quase-r-1-milhao-no-concurso-3824-da-lotofacil-e-muda-de-vida/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "14:46",
+"t": "Neymar ironiza renovação com o Santos no GP de São Paulo",
+"p": "Raul Baretta / Santos O contrato atual de Neymar termina em dezembro de 2026",
+"tema": "Geral",
+"s": "obra",
+"c": [
+"São Paulo"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/neymar-ironiza-renovacao-com-o-santos-no-gp-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "14:44",
+"t": "São Vicente inaugura nova rodoviária 24h; veja destinos e linhas de ônibus",
+"p": "Terminal começa a operar nesta segunda-feira (9), com viagens para São Paulo, interior e outros estados; estrutura conta com cinco plataformas",
+"tema": "Transporte",
+"s": "entregue",
+"c": [
+"São Paulo"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/sao-vicente-inaugura-nova-rodoviaria-24h-veja-destinos-e-linhas-de-onibus.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "14:36",
 "t": "Caminhão do Mercado Livre chega a Itupeva nesta segunda (9) com vagas de emprego; participe",
 "p": "Foto: Prefeitura de Itupeva Candidatos com 18 anos ou mais e Ensino Fundamental completo poderão participar do processo seletivo, mesmo sem experiência profissional.",
@@ -56,6 +212,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/ciclista-morre-apos-ser-atropelado-por-carro-em-rodovia-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "14:33",
+"t": "Enem 2026 aborda valorização do SUS como direito universal e leva candidatos a discutir os principais desafios da saúde pública brasileira",
+"p": "Sistema Único de Saúde (SUS)",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/enem-2026-aborda-valorizacao-do-sus-como-direito-universal-e-leva-candidatos-a-discutir-os-principais-desafios-da-saude-publica-brasileira/",
 "auto": true
 },
 {
