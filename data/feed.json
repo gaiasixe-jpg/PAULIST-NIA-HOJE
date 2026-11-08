@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-07T23:12:16-03:00",
-"novos_nesta_coleta": 4,
+"atualizado": "2026-11-07T23:57:46-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -100,6 +100,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/concurso-de-sao-bernardo-do-campo-sp-fica-perto-de-ter-banca-definida/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "22:18",
+"t": "Amaê Festival é cancelado após fortes ventos danificarem estrutura do evento",
+"p": "Organização anunciou o cancelamento após o início da programação neste sábado (7); segundo comunicado oficial, ninguém ficou ferido",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/amae-festival-e-cancelado-apos-fortes-ventos-danificarem-estrutura-do-evento/",
 "auto": true
 },
 {
