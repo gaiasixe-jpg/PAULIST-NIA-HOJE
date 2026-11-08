@@ -3,6 +3,76 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "13:30",
+"t": "Kit de emergência para 72 horas viraliza e Defesa Civil esclarece motivo da recomendação às famílias",
+"p": "A Defesa Civil Nacional esclareceu a recomendação para que famílias mantenham um kit de emergência preparado para até 72 horas após uma publicação sobre o assunto viralizar nas redes sociais. O órgão reforçou que a orientação tem caráter preventivo e não significa que exista algum risco iminente. A recomendação foi…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/kit-de-emergencia-para-72-horas-chama-atencao-nas-redes-e-defesa-civil-explica-o-que-motivou-a-recomendacao-as-familias/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "13:29",
+"t": "Pescador que desapareceu após chuva no interior de SP é encontrado morto",
+"p": "Vítima estava em embarcação que tombou contra outra, durante chuva forte em Lins. Cinco pessoas que também estavam nos barcos sobreviveram",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Lins"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pescador-que-desapareceu-apos-chuva-no-interior-de-sp-e-encontrado-morto",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "13:27",
+"t": "Mogi-Bertioga tem tráfego normal, mas chuva exige atenção neste domingo (8)",
+"p": "Chuva atinge os dois sentidos da rodovia; temperaturas são de 21°C no trecho de Bertioga e 17°C na região de Mogi das Cruzes",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-trafego-normal-mas-chuva-exige-atencao-neste-domingo-8.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "13:16",
+"t": "Rodovia Oswaldo Cruz tem tráfego intenso na serra no sentido Taubaté neste domingo (8)",
+"p": "Tempo instável em pontos isolados e visibilidade reduzida exigem cuidado dos motoristas na ligação entre o Vale do Paraíba e Ubatuba",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Taubaté",
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-tem-trafego-intenso-na-serra-no-sentido-taubate-neste-domingo-8.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "12:55",
+"t": "Jardim Santa Gertrudes recebe mutirão de empregos e serviços gratuitos nesta semana",
+"p": "Foto: cifotart/Canva Ação acontece no sábado (14), na EMEB Luiz Biela de Souza, com oportunidades de trabalho e atendimentos de diferentes órgãos públicos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santa Gertrudes"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jardim-santa-gertrudes-recebe-mutirao-de-empregos-e-servicos-gratuitos-nesta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "12:38",
 "t": "Entrega do Skyline marca novo patamar da verticalização em Marília",
 "p": "Com 91 metros de altura e 28 andares, edifício da Tack passa a ser o mais alto da cidade; Skyline integra obras entregues pela incorporadora.",
@@ -13,6 +83,18 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/conteudopatrocinado/entrega-do-skyline-marca-novo-patamar-da-verticalizacao-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "12:37",
+"t": "Menina aprende a ler sozinha aos 2 anos, surpreende pais ao reconhecer palavras em inglês e chega ao segundo ano do ensino fundamental aos 4",
+"p": "Enquanto muitas crianças de dois anos ainda estão ampliando o vocabulário e aprendendo a formar frases, Catarina Ritter já surpreendia os pais com uma habilidade inesperada. Sem ter frequentado a escola ou passado por um processo formal de alfabetização, a menina de Redenção, no sudeste do Pará, começou a ler…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/menina-aprende-a-ler-sozinha-aos-2-anos-surpreende-pais-ao-reconhecer-palavras-em-ingles-e-chega-ao-segundo-ano-do-ensino-fundamental-aos-4/",
 "auto": true
 },
 {
