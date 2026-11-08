@@ -3,6 +3,336 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "09:53",
+"t": "Av. Paulista aberta para carros: veja alterações no trânsito em dia de Enem",
+"p": "CET recomenda que candidatos do Enem na região de Interlagos planejem o trajeto com antecedência por causa da realização do GP de F1",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/av-paulista-aberta-para-carros-veja-alteracoes-no-transito-em-dia-de-enem",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:50",
+"t": "Vídeo: prefeito de Itaquaquecetuba imobiliza homem que agrediu mulher durante saída de bar",
+"p": "Agressor for detido e encaminhado à Delegacia de Polícia após a chegada da GCM no local",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/video-prefeito-de-itaquaquecetuba-imobiliza-homem-que-agrediu-mulher-durante-saida-de-bar/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:49",
+"t": "Lotofácil 3824 tem sorteio de R$ 2 milhões neste domingo (8); veja horário e regras",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso será realizado às 11h e premia apostas com 11 a 15 acertos; jogo simples custa R$ 3,50.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-lotofacil-concurso-3824/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:47",
+"t": "Casal agride motorista e rouba dinheiro de ônibus em Marília",
+"p": "Ocorrência foi registrada na CPJ de Marília Vítima foi atacada com socos e chutes após advertir que chamaria a polícia; acusados levaram cerca de R$ 70.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/casal-agride-motorista-e-rouba-dinheiro-de-onibus-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:45",
+"t": "Dia de Sorte 1342 sorteia R$ 3,2 milhões neste domingo (8); veja como jogar",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso das 11h vai sortear sete números e um Mês da Sorte; aposta mínima custa R$ 2,50.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-dia-de-sorte-concurso-1342/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:43",
+"t": "Timemania 2465 sorteia R$ 25,8 milhões neste domingo (8); veja como funciona",
+"p": "Foto: Depositphotos Concurso será realizado às 11h e também vai definir o Time do Coração; aposta simples custa R$ 3,50.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-timemania-concurso-2465/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:41",
+"t": "Mega-Sena 3083 sorteia R$ 60 milhões neste domingo (8); veja horário e regras",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso será realizado às 11h, com prêmio principal estimado em R$ 60 milhões; apostas simples foram encerradas no sábado.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-mega-sena-concurso-3083/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:31",
+"t": "Inmet alerta cidades do estado de SP para chuva com granizo e ventos; Veja regiões afetadas",
+"p": "Inmet emitiu alerta para o risco de tempestade neste domigo (8) e áreas paulistas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/inmet-alerta-cidades-do-estado-de-sp-para-chuva-com-granizo-e-ventos-veja-regioes-afetadas/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:27",
+"t": "Travessias de SP terão nova operação a partir de segunda, com tarifas mantidas",
+"p": "Acquavias inicia três meses de operação assistida em 9 de novembro. Pix e cartões serão implantados gradualmente; veja o que muda.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/travessias-acquavias-9-novembro-2026-tarifas-pix-cartoes.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:26",
+"t": "Domingo tem previsão de chuva após temporais causarem estragos no Vale",
+"p": "Defesa Civil confirma quedas de árvores em Guaratinguetá e ventos de 126,7 km/h em Cachoeira Paulista; domingo tem previsão de novas pancadas.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Cachoeira Paulista",
+"Guaratinguetá"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/chuvas-vale-paraiba-domingo-8-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:25",
+"t": "Idoso é encontrado morto em fazenda de Garça",
+"p": "Caso será investigado pela Polícia Civil de Marília Exames necroscópico e toxicológico foram solicitados após perícia; polícia aguarda laudo.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília",
+"Garça"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/idoso-e-encontrado-morto-em-fazenda-de-garca/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:25",
+"t": "Prefeitura de Sorocaba decreta situação de emergência em razão das fortes chuvas deste sábado (7)",
+"p": "A Prefeitura de Sorocaba decretou situação de emergência pública na cidade em decorrência das fortes chuvas registradas na cidade neste sábado (7). A medida mantém mobilizada a estrutura organizada pelo município para garantir a adoção de medidas imediatas e um pronto atendimento às ocorrências, assim como…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-decreta-situacao-de-emergencia-em-razao-das-fortes-chuvas-deste-sabado-7/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-08",
+"h": "09:16",
+"t": "Obituário | Falecimentos registrados neste domingo (8/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram informações sobre os velórios e sepultamentos de seis pessoas neste domingo, dia 8 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-domingo-8-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:14",
+"t": "Confira a previsão do tempo para Marília neste domingo (8/11)",
+"p": "Dia deve ser marcado por chuva, com máxima de 25°C e previsão de baixa precipitação durante a noite.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-neste-domingo-8-11/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:12",
+"t": "SP e litoral seguem com risco de temporal neste domingo de ENEM, com rajadas de 100 km/h",
+"p": "São Paulo e o litoral paulista seguem sob alerta de tempestade neste domingo (8), com chuva de até 100 mm por dia e rajadas de 100 km/h em 480 municípios. A Defesa Civil orienta candidatos do ENEM a sair cedo e ninguém deve atravessar ruas alagadas.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/sp-e-litoral-seguem-com-risco-de-temporal-neste-domingo-de-enem-com-rajadas-de-100-km-h/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:12",
+"t": "Tatuador tenta contratar acompanhante em site e acaba sendo extorquido",
+"p": "Vítima contou que passou a receber mensagens com ameaças de divulgação de informações constrangedoras",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/tatuador-tenta-contratar-acompanhante-em-site-e-acaba-sendo-extorquido/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:11",
+"t": "Hidratante perfumado ou neutro? Veja se fragrância faz mal à saúde da pele",
+"p": "Esses dias me perguntei se um hidratante corporal pode deixar a pele macia, ajudar a manter a hidratação e ainda funcionar como uma espécie de perfume para o dia a dia sem perder efetividade por conta do cheiro forte. Imaginei que produtos com fragrâncias intensas e duradouras poderiam não fazer tão bem à pele…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/hidratante-perfumado-ou-neutro-veja-se-fragrancia-faz-mal-a-saude-da-pele/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:06",
+"t": "Avô acompanha neta em evento de cosplay, vira Mestre dos Magos, ganha concurso e recebe homenagem da Câmara Municipal ao completar 70 anos",
+"p": "O que começou como um simples gesto de carinho de um avô pela neta acabou transformando a vida de Wilson Ferreira da Silva. Ao acompanhá-la em um evento de cosplay, ele decidiu se vestir como o Mestre dos Magos, personagem do desenho animado Caverna do Dragão. A semelhança chamou tanta atenção que Wilson venceu um […]",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/avo-acompanha-neta-em-evento-de-cosplay-vira-mestre-dos-magos-ganha-concurso-e-recebe-homenagem-da-camara-municipal-ao-completar-70-anos/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:00",
+"t": "Roberto Justus alerta sobre golpe com inteligência artificial que usa rosto e voz do apresentador para divulgar falsos investimentos",
+"p": "O apresentador Roberto Justus, de 71 anos, alertou sobre um golpe que utiliza inteligência artificial para reproduzir a imagem e a voz do apresentador em um vídeo falso sobre investimentos. Segundo Justus, o conteúdo não foi gravado por ele e já teria levado pessoas a perder dinheiro. O empresário fez o alerta…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/roberto-justus-alerta-sobre-golpe-com-inteligencia-artificial-que-usa-rosto-e-voz-do-apresentador-para-divulgar-falsos-investimentos/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:00",
+"t": "PM da região recebe drone de alta tecnologia com câmera térmica para operações e resgates",
+"p": "A Polícia Militar da região de São José do Rio Preto, sob a circunscrição do Comando de Policiamento do Interior (CPI-5) — que engloba o 16º Batalhão com sede em Fernandópolis —, incorporou um drone de alta tecnologia à sua frota operacional. O equipamento é dotado de câmera térmica, sistema de captação de imagens…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-da-regiao-recebe-drone-de-alta-tecnologia-com-camera-termica-para-operacoes-e-resgates/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:00",
+"t": "Artista de Fernandópolis é contemplado pela Lei Aldir Blanc com projeto que une arte metálica e sustentabilidade",
+"p": "O artista plástico fernandopolense Marcos Elvis Antolini foi contemplado pela Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), por meio do edital público promovido pela Secretaria Municipal de Cultura e Turismo de Fernandópolis. Com a conquista do recurso de R$ 4,2 mil, o escultor desenvolverá o projeto…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/artista-de-fernandopolis-e-contemplado-pela-lei-aldir-blanc-com-projeto-que-une-arte-metalica-e-sustentabilidade/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:00",
+"t": "Prefeitura de Fernandópolis sanciona lei que cria sessões de cinema e eventos culturais adaptados para autistas",
+"p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou a Lei Municipal nº 5.787, de 6 de novembro de 2026, que institui o programa “Cine Azul e Cultura Acessível”. A nova legislação altera a política municipal de proteção dos direitos das pessoas com Transtorno do Espectro Autista (TEA), transformando…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-fernandopolis-sanciona-lei-que-cria-sessoes-de-cinema-e-eventos-culturais-adaptados-para-autistas/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "09:00",
+"t": "Enem 2026 mobiliza mais de 2,2 mil estudantes em Fernandópolis neste domingo",
+"p": "Mais de 2,2 mil estudantes residentes em Fernandópolis iniciam neste domingo (8) a maratona de provas do Exame Nacional do Ensino Médio (Enem) de 2026. Ao todo, 2.289 candidatos locais foram alocados entre as salas de aplicação da Fundação Educacional de Fernandópolis (FEF) e da Escola Técnica Estadual (Etec) para…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/enem-2026-mobiliza-mais-de-22-mil-estudantes-em-fernandopolis-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "08:54",
+"t": "Drone ajuda Polícia Ambiental a flagrar furto de diesel de trem na região",
+"p": "Suspeitos foram encontrados em Simonsen com cerca de 100 litros de combustível retirados de locomotivas",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/drone-ajuda-policia-ambiental-a-flagrar-furto-de-diesel-de-trem-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "08:36",
 "t": "Polícia Militar intensifica patrulhamento na zona rural de Votuporanga",
 "p": "Ações preventivas buscam reforçar a segurança de moradores e produtores rurais do município A Polícia Militar intensificou o patrulhamento na zona rural de Votuporanga, com o objetivo de prevenir crimes e ampliar a segurança dos moradores e proprietários de imóveis rurais. A iniciativa busca fortalecer a presença…",
