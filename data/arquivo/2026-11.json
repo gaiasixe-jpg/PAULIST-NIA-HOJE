@@ -3,6 +3,32 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "21:24",
+"t": "Prefeitura de Sorocaba disponibiliza estrutura de atendimento 24 horas em função das chuvas",
+"p": "O prefeito Rodrigo Manga se reuniu, na noite deste sábado (7), com secretários municipais, agentes da Defesa Civil, entre outros setores da Administração Municipal, no Centro de Controle Operacional Integrado (CCOI) das Secretarias de Mobilidade (Semob) e de Segurança Urbana (Sesu), para definir a continuidade do…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-disponibiliza-estrutura-de-atendimento-24-horas-em-funcao-das-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "21:00",
+"t": "Erros de postura na cadeira escolar podem provocar dores e afetar a capacidade de raciocínio de candidatos durante as provas do Enem",
+"p": "Saber exatamente como evitar dores no corpo durante provas longas do Enem exige manter os dois pés totalmente apoiados no chão, o quadril encaixado no fundo da cadeira e realizar pequenos movimentos a cada trinta minutos. Permanecer imóvel por cinco horas seguidas em cadeiras escolares rígidas bloqueia a circulação…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/erros-de-postura-na-cadeira-escolar-podem-provocar-dores-e-afetar-a-capacidade-de-raciocinio-de-candidatos-durante-as-provas-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "20:40",
 "t": "Buenavista, da Corazul, ficará atracado em Santos para ajustes internos",
 "p": "Embarcação Buenavista ficará em Santos para fazer os serviços necessários para melhor atendimento aos hóspedes. Viagens com saídas de Santos e Rio de Janeiro foram canceladas. Passageiros serão reembolsados.",
@@ -207,6 +233,20 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/nike-lanca-air-force-1-com-tecnologias-para-enfrentar-o-el-nino-e-suas-condicoes-extremas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "19:59",
+"t": "Polícia Militar descobre esquema de clonagem de cartões em Diadema",
+"p": "Homem foi flagrado com 293 cartões bancários, nove máquinas de pagamento e dois veículos; suspeito confessou utilizar equipamentos adulterados para aplicar golpes após corridas de transporte de passageiros.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367512/policia-militar-descobre-esquema-de-clonagem-de-cartoes-em-diadema",
 "auto": true
 },
 {

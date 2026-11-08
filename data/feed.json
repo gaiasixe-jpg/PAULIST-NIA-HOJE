@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-07T20:42:32-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-07T22:12:09-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,12 +14,14 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -26,16 +29,13 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
 },
 {
 "fonte": "A Tribuna",
@@ -44,21 +44,35 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | The read operation timed out | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-07",
+"h": "21:24",
+"t": "Prefeitura de Sorocaba disponibiliza estrutura de atendimento 24 horas em função das chuvas",
+"p": "O prefeito Rodrigo Manga se reuniu, na noite deste sábado (7), com secretários municipais, agentes da Defesa Civil, entre outros setores da Administração Municipal, no Centro de Controle Operacional Integrado (CCOI) das Secretarias de Mobilidade (Semob) e de Segurança Urbana (Sesu), para definir a continuidade do…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-disponibiliza-estrutura-de-atendimento-24-horas-em-funcao-das-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "21:00",
+"t": "Erros de postura na cadeira escolar podem provocar dores e afetar a capacidade de raciocínio de candidatos durante as provas do Enem",
+"p": "Saber exatamente como evitar dores no corpo durante provas longas do Enem exige manter os dois pés totalmente apoiados no chão, o quadril encaixado no fundo da cadeira e realizar pequenos movimentos a cada trinta minutos. Permanecer imóvel por cinco horas seguidas em cadeiras escolares rígidas bloqueia a circulação…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/erros-de-postura-na-cadeira-escolar-podem-provocar-dores-e-afetar-a-capacidade-de-raciocinio-de-candidatos-durante-as-provas-do-enem/",
+"auto": true
+},
 {
 "d": "2026-11-07",
 "h": "20:40",
@@ -265,6 +279,20 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/nike-lanca-air-force-1-com-tecnologias-para-enfrentar-o-el-nino-e-suas-condicoes-extremas/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "19:59",
+"t": "Polícia Militar descobre esquema de clonagem de cartões em Diadema",
+"p": "Homem foi flagrado com 293 cartões bancários, nove máquinas de pagamento e dois veículos; suspeito confessou utilizar equipamentos adulterados para aplicar golpes após corridas de transporte de passageiros.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367512/policia-militar-descobre-esquema-de-clonagem-de-cartoes-em-diadema",
 "auto": true
 },
 {
