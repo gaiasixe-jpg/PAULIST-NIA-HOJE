@@ -2,6 +2,34 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-08",
+"h": "02:28",
+"t": "Amaê Festival é cancelado após fortes ventos danificarem estrutura do evento",
+"p": "O Amaê Festival 2026, realizado neste sábado (7), no Recinto de Exposições de São José do Rio Preto, precisou ser cancelado após o início de sua programação devido às fortes chuvas e rajadas de vento que atingiram a cidade. As condições climáticas extremas provocaram danos severos à estrutura montada para o evento,…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/amae-festival-e-cancelado-apos-fortes-ventos-danificarem-estrutura-do-evento/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "02:28",
+"t": "Temporal provoca 80 ocorrências em Rio Preto e região",
+"p": "O forte temporal que atingiu São José do Rio Preto e cidades da região no início da noite deste sábado (7) provocou uma série de transtornos e mobilizou equipes do Corpo de Bombeiros. Até o momento, foram registradas 80 ocorrências relacionadas às chuvas intensas e às fortes rajadas de vento. De acordo com o 13º […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/temporal-provoca-80-ocorrencias-em-rio-preto-e-regiao/",
+"auto": true
+},
+{
 "d": "2026-11-07",
 "h": "22:33",
 "t": "Ciclista e motorista morrem em acidentes em rodovias do noroeste de SP",
