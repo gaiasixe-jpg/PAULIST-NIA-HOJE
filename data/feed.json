@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-08T02:55:01-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-08T04:08:03-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,20 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-08",
+"h": "02:58",
+"t": "Defesa Civil de SP emite mais de 40 alertas de tempestade e mantém gabinete de crise ativo no Estado",
+"p": "A Defesa Civil do Estado de São Paulo emitiu 45 alertas preventivos neste sábado (7) devido ao avanço de tempestades por diversas regiões paulistas. Do total de avisos enviados por SMS e pelo sistema de transmissão emergencial, quatro tiveram como alvo a capital paulista, colocada em estado de atenção para…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-de-sp-emite-mais-de-40-alertas-de-tempestade-e-mantem-gabinete-de-crise-ativo-no-estado/",
+"auto": true
+},
 {
 "d": "2026-11-08",
 "h": "02:28",
