@@ -3,6 +3,88 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "16:47",
+"t": "Dono de carro roubado que foi leiloado será indenizado pelo estado de SP",
+"p": "Carro ficou anos esquecido em pátio após ser recuperado pela polícia e acabou vendido por R$ 735, indo contra liminar da Justiça",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/dono-de-carro-roubado-que-foi-leiloado-sera-indenizado-pelo-estado-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "16:30",
+"t": "Praia da Lagoa esconde ruínas históricas e cenário paradisíaco em Ubatuba",
+"p": "Com 800 metros de extensão, praia isolada no litoral norte de SP reúne lagoa de água doce, trilhas pela Mata Atlântica e vestígios do período colonial",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ubatuba/praia-da-lagoa.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "16:24",
+"t": "Polícia investiga pastor por denúncia de abuso sexual contra adolescente, em Itaquaquecetuba",
+"p": "Segundo a SSP, a vítima, atualmente com 18 anos, relatou que os episódios de violência sexual vinham sendo praticados desde a adolescência dela",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/policia-civil-investiga-pastor-por-denuncia-de-abuso-sexual-contra-adolescente-em-itaquaquecetuba/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "16:10",
+"t": "Hospital de Itupeva recebe melhorias em quartos de internação e Pronto-Socorro Infantil",
+"p": "Foto: Prefeitura de Itupeva Obras contemplam ambientes internos e externos da unidade de saúde, com serviços de manutenção e revitalização da estrutura.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/hospital-de-itupeva-recebe-melhorias-em-quartos-de-internacao-e-pronto-socorro-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:56",
+"t": "Elo com o PCC: defesa de ex-candidato do PL nega relação com facção",
+"p": "Ex-candidato à Prefeitura de Praia Grande e a deputado estadual pelo PL, Danilo Morgado nega relação com o PCC após indiciamento",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/elo-com-o-pcc-defesa-de-ex-candidato-do-pl-nega-relacao-com-faccao",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:50",
+"t": "Câmara de São Bernardo celebra Dia do Axé",
+"p": "Iniciativa idealizada pelo vereador Netinho Rodrigues reuniu líderes religiosos de matriz africana",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367562/camara-de-sao-bernardo-celebra-dia-do-axe",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "15:47",
 "t": "Várzea Paulista cria lei que permite regularizar imóveis construídos sem alvará; veja as regras",
 "p": "Foto: Prefeitura de Várzea Paulista Legislação estabelece critérios para construções sem alvará, desdobros de terrenos e parcelamento de taxas e multas em até 36 vezes.",
@@ -25,6 +107,18 @@
 "c": [],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-neste-domingo-8.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "15:30",
+"t": "Com aposta simples de apenas R$ 6, sortudo fatura R$ 59,5 milhões no concurso 3083 da Mega-Sena",
+"p": "O concurso 3083 da Mega-Sena decidiu premiar uma aposta simples de R$ 6,0 de Goiana, Goiás, na manhã deste domingo (8). Com o feito histórico, ele levou para casa algo em torno de R$59.526.903,72. Agora, a Mega-Sena volta a ser sorteada nesta terça-feira (10). Mega-Sena 3083 Qual era o prêmio do concurso? A Caixa…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/com-aposta-simples-de-apenas-r-6-sortudo-fatura-r-595-milhoes-no-concurso-3083-da-mega-sena/",
 "auto": true
 },
 {
