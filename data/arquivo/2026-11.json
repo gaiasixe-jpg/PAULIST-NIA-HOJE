@@ -3,6 +3,73 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "20:36",
+"t": "Semana começa com temperaturas amenas, mas calor volta a ganhar força",
+"p": "A semana começa com temperaturas mais amenas e predomínio de nuvens em Rio Preto, mas o calor deve voltar a ganhar força nos próximos dias. A previsão aponta elevação gradual das temperaturas, com possibilidade de pancadas de chuva e tempestades isoladas na quarta-feira (11). Nesta segunda-feira (9), os termômetros…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/semana-comeca-com-temperaturas-amenas-mas-calor-volta-a-ganhar-forca/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "20:36",
+"t": "Colisão entre carro e ônibus deixa um ferido na BR-153",
+"p": "Uma colisão frontal entre um carro e um ônibus que transportava adolescentes para uma competição de vôlei deixou uma pessoa com ferimentos leves na madrugada deste domingo (8), na rodovia Transbrasiliana (BR-153), em José Bonifácio, na região de Rio Preto. De acordo com a Polícia Rodoviária Federal (PRF), o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"José Bonifácio",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/colisao-entre-carro-e-onibus-deixa-um-ferido-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "20:13",
+"t": "SP atende estrangeiros em situação de vulnerabilidade nas Casas de Passagem; veja como funciona",
+"p": "O Governo de SP, por meio da Secretaria de Desenvolvimento Social do Estado de São Paulo (SEDS), oferece os Serviços de Acolhimento Institucional na modalidade Casa de Passagem para migrantes, refugiados, solicitantes de refúgio e vítimas de tráfico de pessoas estrangeiras e nacionais, com o objetivo de acolher e…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sp-atende-estrangeiros-em-situacao-de-vulnerabilidade-nas-casas-de-passagem-veja-como-funciona/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "20:00",
+"t": "Menina de 11 anos viaja de trailer com a família, enfrenta forte tempestade na porta da Havan e tem sonho realizado por Luciano Hang",
+"p": "Lara, uma menina de 11 anos e fã de Ana Castela, viajou de trailer com a família de Gaspar (SC) até Brusque para assistir ao show da cantora, promovido pela Havan no último sábado (8). A família chegou ao local por volta das 21h de sexta-feira (7) e enfrentou uma forte chuva colada à grade […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/menina-de-11-anos-viaja-de-trailer-com-a-familia-enfrenta-forte-tempestade-na-porta-da-havan-e-tem-sonho-realizado-por-luciano-hang/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "19:35",
+"t": "Professora vê tema da redação do Enem como chance para discutir cidadania",
+"p": "Andreia Menarbini, doutora em Educação da Fundação Santo André, destaca relação entre o SUS, a redução das desigualdades e a garantia de direitos sociais",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367589/professora-ve-tema-da-redacao-do-enem-como-chance-para-discutir-cidadania",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "18:55",
 "t": "Veja a opinião dos alunos sobre tema da redação do Enem 2026",
 "p": "Na capital paulista, os candidatos que fizeram as provas do Enem 2026 deixaram os locais de prova antes das 16h. Este ano, mais de 5 milhões se inscreveram para o exame, dos quais 2,34 milhões cursavam o último ano do ensino médio. No Butantã, zona oeste da capital, Erick Pedrosa, 19 anos e estudante do terceiro…",
