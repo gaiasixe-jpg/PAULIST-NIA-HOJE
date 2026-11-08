@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-08T04:08:03-03:00",
-"novos_nesta_coleta": 1,
+"atualizado": "2026-11-08T05:08:52-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,32 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-08",
+"h": "05:00",
+"t": "UBS São Judas promove reunião com moradores para discutir organização da unidade",
+"p": "Encontro tem como objetivo esclarecer dúvidas dos usuários e orientar os moradores sobre a organização da UBS.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/ubs-sao-judas-promove-reuniao-com-moradores-para-discutir-organizacao-da-unidade/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "03:35",
+"t": "‘Lá na Minha Terra’: Aluísio usa suborno e cortejos para tentar dominar terras e dobrar Rosenda; veja o resumo de 09 a 14 de novembro",
+"p": "O ator Gustavo Vaz atua na novela da Globo",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/la-na-minha-terra-aluisio-usa-suborno-e-cortejos-para-tentar-dominar-terras-e-dobrar-rosenda-veja-o-resumo-de-09-a-14-de-novembro/",
+"auto": true
+},
 {
 "d": "2026-11-08",
 "h": "02:58",

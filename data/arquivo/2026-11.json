@@ -3,6 +3,32 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "05:00",
+"t": "UBS São Judas promove reunião com moradores para discutir organização da unidade",
+"p": "Encontro tem como objetivo esclarecer dúvidas dos usuários e orientar os moradores sobre a organização da UBS.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/ubs-sao-judas-promove-reuniao-com-moradores-para-discutir-organizacao-da-unidade/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "03:35",
+"t": "‘Lá na Minha Terra’: Aluísio usa suborno e cortejos para tentar dominar terras e dobrar Rosenda; veja o resumo de 09 a 14 de novembro",
+"p": "O ator Gustavo Vaz atua na novela da Globo",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/la-na-minha-terra-aluisio-usa-suborno-e-cortejos-para-tentar-dominar-terras-e-dobrar-rosenda-veja-o-resumo-de-09-a-14-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "02:58",
 "t": "Defesa Civil de SP emite mais de 40 alertas de tempestade e mantém gabinete de crise ativo no Estado",
 "p": "A Defesa Civil do Estado de São Paulo emitiu 45 alertas preventivos neste sábado (7) devido ao avanço de tempestades por diversas regiões paulistas. Do total de avisos enviados por SMS e pelo sistema de transmissão emergencial, quatro tiveram como alvo a capital paulista, colocada em estado de atenção para…",
