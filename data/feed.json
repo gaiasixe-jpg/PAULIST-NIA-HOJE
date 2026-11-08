@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-08T06:53:42-03:00",
-"novos_nesta_coleta": 6,
+"atualizado": "2026-11-08T07:50:23-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,35 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-08",
+"h": "07:28",
+"t": "6º Festival de Aves Costeiras do Litoral Paulista reúne mais de 30 entidades ambientais em Peruíbe",
+"p": "Reconhecida como a primeira Cidade das Aves do Brasil, Peruíbe vai sediar a 6º edição do Festival de Aves Costeiras do Litoral Paulista entre os dias 12 e 15 deste mês. O evento vai acontecer na Praça da Matriz e na Câmara Municipal. Com o tema “Cidade Cidadã, o evento é gratuito e reúne mais […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Peruíbe"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/6o-festival-de-aves-costeiras-do-litoral-paulista-reune-mais-de-30-entidades-ambientais-em-peruibe/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "07:00",
+"t": "Estado prevê R$ 260 milhões para construir piscinões no eixo Tamanduateí",
+"p": "Semil diz que obras em Santo André e Mauá estão na fase de licenciamento ambiental e de disponibilização das áreas para as intervenções",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Santo André",
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367500/estado-preve-rs-260-milhoes-para-construir-piscinoes-no-eixo-tamanduatei",
+"auto": true
+},
 {
 "d": "2026-11-08",
 "h": "06:04",
