@@ -3,6 +3,61 @@
 "itens": [
 {
 "d": "2026-11-07",
+"h": "22:33",
+"t": "Ciclista e motorista morrem em acidentes em rodovias do noroeste de SP",
+"p": "Rodovia Armando de Salles Oliveira (SP-322), trecho entre Olímpia e Guaraci (SP) Reprodução / Google Street View Duas pessoas morreram em acidentes de trânsito em rodovias da região de São José do Rio Preto (SP) entre a noite de sexta-feira (6) e a madrugada deste sábado (7). As ocorrências foram atendidas pela…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Guaraci"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ciclista-e-motorista-morrem-em-acidentes-em-rodovias-do-noroeste-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "22:33",
+"t": "Tem Solução: projetos sociais e incentivo à reciclagem transformam realidades no interior de SP e contribuem para metas da ONU",
+"p": "TEM Solução: projetos unem empresas e população pelo meio ambiente Os Objetivos de Desenvolvimento Sustentável (ODS) foram criados pela Organização das Nações Unidas (ONU) para enfrentar alguns dos principais desafios globais, como a pobreza, a desigualdade social, a falta de acesso à educação e as mudanças…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tem-solucao-projetos-sociais-e-incentivo-a-reciclagem-transformam-realidades-no-interior-de-sp-e-contribuem-para-metas-da-onu/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "22:33",
+"t": "Professores voluntários ajudam bolsistas e alunos da rede pública na preparação para o Enem em cursinho comunitário",
+"p": "Cursinho voluntário reforça preparação de estudantes para o Enem em Araçatuba A reta final com revisões para o Exame Nacional do Ensino Médio (Enem) foi decisiva para bolsistas e para mais de 100 alunos da rede pública em Araçatuba, no interior de São Paulo, que tiveram ajuda de professores voluntários em um…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/professores-voluntarios-ajudam-bolsistas-e-alunos-da-rede-publica-na-preparacao-para-o-enem-em-cursinho-comunitario/",
+"auto": true
+},
+{
+"d": "2026-11-07",
+"h": "22:18",
+"t": "Concurso de São Bernardo do Campo-SP fica perto de ter banca definida",
+"p": "Quem aguarda uma oportunidade na Prefeitura de São Bernardo do Campo, na Grande São Paulo, tem um novo movimento para acompanhar. A administração municipal formalizou o registro de preços do Instituto Mais de Gestão e Desenvolvimento Social, empresa que poderá organizar futuros concursos públicos e processos…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/concurso-de-sao-bernardo-do-campo-sp-fica-perto-de-ter-banca-definida/",
+"auto": true
+},
+{
+"d": "2026-11-07",
 "h": "21:24",
 "t": "Prefeitura de Sorocaba disponibiliza estrutura de atendimento 24 horas em função das chuvas",
 "p": "O prefeito Rodrigo Manga se reuniu, na noite deste sábado (7), com secretários municipais, agentes da Defesa Civil, entre outros setores da Administração Municipal, no Centro de Controle Operacional Integrado (CCOI) das Secretarias de Mobilidade (Semob) e de Segurança Urbana (Sesu), para definir a continuidade do…",
