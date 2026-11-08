@@ -3,6 +3,76 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "11:24",
+"t": "Danilo da Saúde propõe documento para identificar mães atípicas em Marília",
+"p": "Requerimento prevê identificação para facilitar o acesso a serviços e direitos de responsáveis por pessoas com deficiência e transtornos.",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/danilo-da-saude-propoe-documento-para-identificar-maes-atipicas-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "11:10",
+"t": "Consumo consciente: a responsabilidade pela água começa dentro de casa",
+"p": "Acompanhar o hidrômetro e adotar hábitos simples ajudam a evitar desperdícios e reduzir o consumo de água.",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/colunistas/consumo-consciente-a-responsabilidade-pela-agua-comeca-dentro-de-casa/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:58",
+"t": "Falta de água afeta bairro nesta semana; veja data e região afetada",
+"p": "Intervenção na rede de abastecimento vai exigir a suspensão temporária do fornecimento de água para a execução dos trabalhos",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-agua-afeta-bairro-nesta-semana-veja-data-e-regiao-afetada/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:57",
+"t": "Prefeitura de Mogi das Cruzes entrega revitalização do CEU das Artes da Vila Nova União",
+"p": "Complexo recebeu R$ 469,5 mil em melhorias na na quadra poliesportiva, auditório, playground, Cozinha Comunitária e CRAS",
+"tema": "Assistência social",
+"s": "entregue",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/prefeitura-de-mogi-das-cruzes-entrega-revitalizacao-do-ceu-das-artes-da-vila-nova-uniao/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "10:54",
+"t": "Câmara vota projeto sobre direitos de pacientes com câncer nesta segunda-feira",
+"p": "Pauta inclui propostas voltadas à inclusão de pessoas com deficiência e à criação de datas no calendário municipal.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/camara-de-marilia-vota-projeto-que-preve-prioridade-a-pacientes-com-cancer-nesta-segunda-feira/",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "10:44",
 "t": "Tempestades provocam destelhamentos, quedas de árvores e alagamentos no Estado",
 "p": "A passagem de uma frente fria acompanhada de temporais causou estragos em dezenas de municípios do Estado de São Paulo entre o sábado (7) e o domingo (8). O monitoramento meteorológico da Defesa Civil estadual resultou no disparo de 92 alertas de emergência via celular para orientar a população sobre o risco de…",
@@ -356,6 +426,20 @@
 "u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-decreta-situacao-de-emergencia-em-razao-das-fortes-chuvas-deste-sabado-7/",
 "auto": true,
 "org": "Prefeitura"
+},
+{
+"d": "2026-11-08",
+"h": "09:21",
+"t": "PM abre inscrições de concurso com 2 mil vagas para aluno-soldado",
+"p": "Para participar, é necessário ter entre 17 e 30 anos, ensino médio completo e Carteira Nacional de Habilitação (CNH) nas categorias B a E",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/pm-abre-inscricoes-de-concurso-com-2-mil-vagas-para-aluno-soldado/",
+"auto": true
 },
 {
 "d": "2026-11-08",
