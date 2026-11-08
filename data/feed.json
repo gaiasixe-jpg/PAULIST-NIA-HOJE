@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-08T11:47:36-03:00",
-"novos_nesta_coleta": 6,
+"atualizado": "2026-11-08T12:44:40-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,141 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-08",
+"h": "12:38",
+"t": "Entrega do Skyline marca novo patamar da verticalização em Marília",
+"p": "Com 91 metros de altura e 28 andares, edifício da Tack passa a ser o mais alto da cidade; Skyline integra obras entregues pela incorporadora.",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/conteudopatrocinado/entrega-do-skyline-marca-novo-patamar-da-verticalizacao-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "12:36",
+"t": "Shows são cancelados no Rio e no interior de SP por causa da chuva",
+"p": "Paulo Pinto/Agência Brasil Promovido pela rádio FM O Dia, a Maratona da Alegria foi cancelada por causa da chuva forte e da ventania que atingiram o Rio de Janeiro.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/shows-sao-cancelados-no-rio-e-no-interior-de-sp-por-causa-da-chuva/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "12:13",
+"t": "Animais soltos em Cemitério são recolhidos em Fernandópolis",
+"p": "Dois cavalos foram recolhidos pela empresa prestadora de serviços ao município na manhã deste domingo, dia 8, após serem flagrados no interior do Cemitério da Consolação, em Fernandópolis. A ação ocorreu depois que populares que estavam no local notaram a presença dos animais vagando entre os túmulos. Diante da…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/animais-soltos-em-cemiterio-sao-recolhidos-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "12:00",
+"t": "Rosas laranjas feitas à mão vão simbolizar fim da violência contra mulheres em Santos",
+"p": "Raimundo Rosa/Divulgação Prefeitura de Santos Uma oficina de artesanato reuniu participantes na confecção de rosas laranjas que serão distribuídas durante uma mobilização do Novembro Laranja.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/rosas-laranjas-feitas-a-mao-vao-simbolizar-fim-da-violencia-contra-mulheres-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "12:00",
+"t": "Operação em Bertioga prende suspeitos de tráfico e lavagem de dinheiro",
+"p": "Divulgação/Delegacia Seccional de Santos A Polícia Civil deflagrou a operação, na última sexta-feira (6), cumprindo dois mandados de prisão preventiva.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Bertioga",
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/bertioga-baixada/operacao-em-bertioga-prende-suspeitos-de-trafico-e-lavagem-de-dinheiro/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "11:57",
+"t": "Uma golden retriever tão exausta que tinha dificuldade para se movimentar passou por uma cesárea de emergência e deu à luz 14 filhotes de uma só vez; nove semanas depois, todos os filhotes retornaram vivos e saudáveis à ",
+"p": "Foto: Clinique Vétérinaire Dokhora Cadela passou por uma cesariana de emergência, e o que mais emocionou a profissional não foi o número de nascimentos, mas o estado de saúde dos animais dois meses depois.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo-pet/golden-retriever-14-filhotes-cesarea-emergencia/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "11:55",
+"t": "Inscrições para programa de jovem aprendiz da Prefeitura de Campinas começam amanhã",
+"p": "Programa de jovem aprendiz oferece 148 vagas para jovens de 16 a 18 anos, com salário de R$ 1.621 e benefícios",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/inscricoes-para-programa-de-jovem-aprendiz-da-prefeitura-de-campinas-comecam-amanha/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "11:53",
+"t": "Prazo apertado para planejar 2027 pode favorecer permanência de Dorival",
+"p": "Rubens Chiri / saopaulofc.net Com eleição prevista para dezembro e posse em janeiro, novo presidente terá pouco tempo para definir treinador e diretor de futebol",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/prazo-apertado-para-planejar-2027-pode-favorecer-permanencia-de-dorival/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "11:52",
+"t": "Saiu o resultado! Confira os números da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte deste domingo (8)",
+"p": "As Loterias da Caixa sortearam na manga deste domingo (8), os prêmios de concursos da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-quina-lotofacil-timemania-e-dia-de-sorte-deste-domingo-8/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "11:45",
+"t": "Mega-Sena sorteia prêmio de R$ 60 milhões neste domingo; confira os números e resultados",
+"p": "A Caixa Econômica Federal sorteou neste domingo (8/11) as seis dezenas do concurso 3083 da Mega-Sena, que poderá pagar um prêmio de R$ 60 milhões para quem acertar todos os números. Confira os números sorteados: 22 – 25 – 29 – 37 – 46 – 54. Como apostar na Mega-Sena A Mega-Sena é a principal […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/mega-sena-sorteia-premio-de-r-60-milhoes-neste-domingo-confira-os-numeros-e-resultados/",
+"auto": true
+},
 {
 "d": "2026-11-08",
 "h": "11:24",
