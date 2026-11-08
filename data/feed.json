@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-08T05:08:52-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-08T05:57:26-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -13,7 +13,6 @@
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
-"ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
@@ -44,6 +43,10 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "ACidade ON Campinas",
+"erro": "HTTP Error 522: <none>"
 }
 ],
 "itens": [
@@ -59,6 +62,18 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/ubs-sao-judas-promove-reuniao-com-moradores-para-discutir-organizacao-da-unidade/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "04:53",
+"t": "‘Por Você’; veja o resumo dos capítulos de 09 a 14 de novembro",
+"p": "Depois de despertar do coma, Gabriel recebe alta hospitalar e retoma a investigação contra Junqueira. Com a ajuda de Vanessa, que lhe entrega provas reunidas contra o empresário, o advogado decide denunciá-lo. O delegado Macedo, porém, recomenda que ele consiga evidências mais contundentes antes de formalizar a…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/por-voce-veja-o-resumo-dos-capitulos-de-09-a-14-de-novembro/",
 "auto": true
 },
 {
