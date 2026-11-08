@@ -3,6 +3,49 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "17:22",
+"t": "Colisão entre carro e ônibus deixa um ferido na BR-153",
+"p": "Ônibus levava atletas de Rio Preto para uma competição de vôlei em Ourinhos",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ourinhos",
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/colisao-entre-carro-e-onibus-deixa-um-ferido-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "17:07",
+"t": "Interdição de rua no Jardim São Judas Tadeu altera trânsito nesta segunda-feira",
+"p": "Bloqueio será realizado das 8h30 às 13h para uma obra na rede de água; rua terá desvio e mudança no itinerário de ônibus",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/interdicao-de-rua-no-jardim-sao-judas-tadeu-altera-transito-nesta-segunda-feira/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "17:05",
+"t": "Ciclista morre após ser atropelado na Rodovia Maurício Goulart em Adolfo",
+"p": "Um ciclista ainda não identificado morreu após ser atropelado por um automóvel Fiat Siena no quilômetro 42 da Rodovia Maurício Goulart (SP-355), localizada na zona rural do município de Adolfo. A ocorrência foi registrada pela polícia na madrugada deste sábado, dia 7, por volta das 4h20. Uma equipe do Serviço de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Adolfo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ciclista-morre-apos-ser-atropelado-na-rodovia-mauricio-goulart-em-adolfo/",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "16:47",
 "t": "Dono de carro roubado que foi leiloado será indenizado pelo estado de SP",
 "p": "Carro ficou anos esquecido em pátio após ser recuperado pela polícia e acabou vendido por R$ 735, indo contra liminar da Justiça",
@@ -11,6 +54,20 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/dono-de-carro-roubado-que-foi-leiloado-sera-indenizado-pelo-estado-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "16:45",
+"t": "Guarujá terá nova sede da Força Tática com investimento de R$ 4,89 milhões e previsão de conclusão no primeiro semestre de 2027",
+"p": "Situação atual do reforma do batalhão da Polícia Militar na praia do Tombo",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/guaruja-tera-nova-sede-da-forca-tatica-com-investimento-de-r-489-milhoes-e-previsao-de-conclusao-no-primeiro-semestre-de-2027/",
 "auto": true
 },
 {
@@ -25,6 +82,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/ubatuba/praia-da-lagoa.html",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "16:30",
+"t": "Enem 2026: tema da redação aborda valorização do SUS; veja as melhores abordagens para uma boa nota, segundo professores",
+"p": "Tema da redação do Enem 2026 exige reflexão sobre o papel do SUS e os obstáculos que dificultam o acesso universal à saúde no Brasil.",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/enem-2026-tema-da-redacao-aborda-valorizacao-do-sus-veja-as-melhores-abordagens-para-uma-boa-nota-segundo-professores/",
 "auto": true
 },
 {
@@ -53,6 +122,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/itupeva/hospital-de-itupeva-recebe-melhorias-em-quartos-de-internacao-e-pronto-socorro-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "16:09",
+"t": "São Bernardo conquista reconhecimento nacional por inovação e uso de IA na gestão pública",
+"p": "Reconhecimento no IA Honors 2026 premia tecnologia, integração de dados e soluções para os serviços públicos",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367567/sao-bernardo-conquista-reconhecimento-nacional-por-inovacao-e-uso-de-ia-na-gestao-publica-",
 "auto": true
 },
 {
