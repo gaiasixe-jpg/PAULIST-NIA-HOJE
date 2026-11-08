@@ -3,6 +3,77 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "18:22",
+"t": "Novembro Azul: veja os sinais de alerta e onde buscar atendimento em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí UBSs e Clínicas da Família oferecem acompanhamento da saúde masculina, com avaliação médica, exames conforme a necessidade e encaminhamento para especialistas.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/novembro-azul-jundiai-sintomas-atendimento/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "18:00",
+"t": "São Vicente inaugura nova rodoviária 24 horas no Centro",
+"p": "Divulgação/Prefeitura de São Vicente A nova rodoviária de São Vicente conta com cinco plataformas de embarque e desembarque, além da operação de 10 companhias de transporte.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/sao-vicente-inaugura-nova-rodoviaria-24-horas-no-centro/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "18:00",
+"t": "Santos elege delegados em Conferência dos direitos da criança e adolescente",
+"p": "Raimundo Rosa/Divulgação Prefeitura de Santos A conferência debateu propostas e elegeu sete delegados, que representarão Santos na próxima etapa.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-elege-delegados-em-conferencia-dos-direitos-da-crianca-e-adolescente/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "17:48",
+"t": "Família e amigos são feitos reféns durante assalto em Américo de Campos",
+"p": "Dois homens encapuzados e armados invadiram uma residência no bairro Bela Vista, na região do Oásis, em Américo de Campos, região de Votuporanga, na noite de sexta-feira (6). Durante o assalto, cinco pessoas foram rendidas e mantidas como reféns, incluindo uma funcionária da Câmara Municipal, o marido, a filha…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Américo de Campos",
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/familia-e-amigos-sao-feitos-refens-durante-assalto-em-americo-de-campos/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "17:42",
+"t": "Vem mais chuva? Confira como fica o tempo neste início de semana em Ribeirão Preto",
+"p": "Veja a previsão do tempo para este início de semana em Ribeirão Preto",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/vem-mais-chuva-confira-como-fica-o-tempo-neste-inicio-de-semana-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "17:22",
 "t": "Colisão entre carro e ônibus deixa um ferido na BR-153",
 "p": "Ônibus levava atletas de Rio Preto para uma competição de vôlei em Ourinhos",
