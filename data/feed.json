@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T19:53:23-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-09T20:47:26-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 71 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,212 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-09",
+"h": "20:46",
+"t": "Câmara de Campinas aprova mudança em terreno para escola estadual no Satélite Íris",
+"p": "Projeto corrige em 400 m² a área que será doada ao governo de São Paulo e retira prazo de sete anos previsto na legislação anterior; unidade está em construção, segundo a Câmara",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/camara-de-campinas-aprova-mudanca-em-terreno-para-escola-estadual-no-satelite-iris/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:42",
+"t": "Facada em escola na Mooca: alunos envolvidos são afastados das aulas",
+"p": "Secretaria da Educação do Estado de São Paulo (Seduc) afirmou que os estudantes foram \"preventivamente\" suspensos por três dias",
+"tema": "Educação",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/facada-em-escola-na-mooca-alunos-envolvidos-sao-afastados-das-aulas",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:37",
+"t": "Estudante é presa em Araçatuba por suspeita de usar inteligência artificial durante o Enem",
+"p": "Uma estudante de 18 anos foi presa em flagrante no domingo (8), em Araçatuba, sob a suspeita de fraudar o Exame Nacional do Ensino Médio (Enem) com o auxílio de inteligência artificial (IA). A candidata foi surpreendida por fiscais de prova utilizando um aparelho celular durante a aplicação do exame. A…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estudante-e-presa-em-aracatuba-por-suspeita-de-usar-inteligencia-artificial-durante-o-enem/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:36",
+"t": "A infância que espere, temos uma meta para cumprir!",
+"p": "Alberto Martins Cesário, professor e escritor Naquela manhã, um menino chegou à escola carregando um carrinho sem uma das rodas e uma pergunta que não estava no roteiro daquele dia: “Professor, por que tem criança que não tem tempo de ser criança?” Confesso que, por alguns segundos, procurei a resposta entre os…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/a-infancia-que-espere-temos-uma-meta-para-cumprir/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:35",
+"t": "Virada Inclusiva 2026 terá mais de 600 atrações gratuitas em SP",
+"p": "Programação ocorre de 28 de novembro a 6 de dezembro em mais de 80 municípios paulistas, com abertura no Memorial da América Latina.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/virada-inclusiva-2026-tera-mais-de-600-atracoes-espalhadas-por-80-municipios-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:34",
+"t": "São Paulo tem 12 das 20 melhores rodovias do país, mostra CNT",
+"p": "A SP-270 manteve a liderança e a SP-320, entre Rubinéia e Mirassol, subiu para a terceira colocação nacional na Pesquisa de Rodovias 2026.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Rubinéia"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sp-tem-12-dos-20-trechos-rodoviarios-mais-bem-avaliados-do-pais-aponta-cnt/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:33",
+"t": "Prefeitura apoia iniciativa da Airvo que oferece cadastro de currículos e cursos gratuitos em Votuporanga",
+"p": "“Airvo Recruta” será realizado nos dias 10 e 11 de novembro, com cadastro para vagas no setor industrial e inscrições para cursos de qualificação profissional. Quem busca ingressar no mercado de trabalho, especialmente no setor industrial, ou deseja investir na qualificação profissional poderá participar, nos dias…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeitura-apoia-iniciativa-da-airvo-que-oferece-cadastro-de-curriculos-e-cursos-gratuitos-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:32",
+"t": "Segurança de supermercado é agredido com barra de ferro durante tentativa de furto",
+"p": "Um segurança aposentado de 58 anos foi agredido a golpes de barra de ferro na tarde de domingo (7) ao tentar conter uma tentativa de furto em um supermercado em Araçatuba. O suspeito do crime, de 46 anos, foi localizado e preso em flagrante pela Polícia Militar nas imediações do estabelecimento. De acordo com o […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/seguranca-de-supermercado-e-agredido-com-barra-de-ferro-durante-tentativa-de-furto/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:30",
+"t": "Itanhaém abre seleção para 33 vagas temporárias com salários de até R$ 2,6 mil",
+"p": "Divulgação/Prefeitura de Itanhaém Oportunidades são para Fiscal de Posturas e seis funções de nível fundamental.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/itanhaem-abre-selecao-para-33-vagas-temporarias-com-salarios-de-ate-r-26-mil/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:30",
+"t": "Prefeitura de Fernandópolis realiza coletiva para esclarecer atualização do cadastro imobiliário municipal",
+"p": "O secretário da Fazenda, José Carlos Roda, e o procurador-geral do Município, Gerson Januário, concederam uma entrevista coletiva nesta segunda-feira (9), no Paço Municipal, para detalhar o processo de notificação dos contribuintes com base no georreferenciamento urbano. O levantamento atualiza dados que estavam…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-realiza-coletiva-para-esclarecer-atualizacao-do-cadastro-imobiliario-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:27",
+"t": "Polícia aponta ex-companheiro como principal suspeito de matar corretora de imóveis em Itapira",
+"p": "Polícia Civil passou a registrar o caso como feminicídio; investigado está foragido",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itapira"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/policia-aponta-ex-companheiro-como-principal-suspeito-de-matar-corretora-de-imoveis-em-itapira/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:26",
+"t": "Votuprev e Procuradoria Geral iniciam encontros para orientar servidores municipais sobre aposentadoria e questões jurídicas",
+"p": "Iniciativa busca aproximar os órgãos dos servidores, oferecendo informações, esclarecendo dúvidas e ampliando o acesso aos serviços de orientação. O Votuprev (Instituto de Previdência do Município de Votuporanga) e a Procuradoria Geral do Município (PGM) iniciaram um trabalho conjunto de aproximação com os…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/votuprev-e-procuradoria-geral-iniciam-encontros-para-orientar-servidores-municipais-sobre-aposentadoria-e-questoes-juridicas/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:14",
+"t": "Foragido por homicídio em MG é preso em Votuporanga durante operação da Polícia Civil",
+"p": "Conhecido como “Biro-Biro”, suspeito de matar um homem enquanto ele dormia foi localizado por policiais disfarçados no interior paulista. Um homem de 27 anos, conhecido pelo apelido de “Biro-Biro”, foi preso em Votuporanga/SP durante uma operação da Polícia Civil de Minas Gerais que investiga um homicídio ocorrido…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/foragido-por-homicidio-em-mg-e-preso-em-votuporanga-durante-operacao-da-policia-civil/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:05",
+"t": "Feira de Adoção encontra famílias para 14 animais e terá nova edição neste sábado",
+"p": "Promovida pela Secretaria Municipal de Bem-Estar Animal, ação tem o objetivo de incentivar a adoção responsável de cães e gatos. Quatorze animais ganharam um novo lar durante a Feira de Adoção promovida pela Prefeitura de Votuporanga, por meio da Secretaria Municipal de Bem-Estar Animal, no último sábado (7.nov). A…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/feira-de-adocao-encontra-familias-para-14-animais-e-tera-nova-edicao-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:01",
+"t": "Incêndio em apartamento deixa mãe e filha intoxicadas em Santo André",
+"p": "Moradoras inalaram fumaça e foram encaminhadas à UPA; fogo foi controlado por vizinhos antes da chegada dos bombeiros",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367806/incendio-em-apartamento-deixa-mae-e-filha-intoxicadas-em-santo-andre",
+"auto": true
+},
 {
 "d": "2026-11-09",
 "h": "19:50",
