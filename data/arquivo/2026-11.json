@@ -3,6 +3,145 @@
 "itens": [
 {
 "d": "2026-11-08",
+"h": "22:03",
+"t": "Veja a opinião dos alunos sobre tema da redação do Enem 2026",
+"p": "Na capital paulista, os candidatos que fizeram as provas do Enem 2026 deixaram os locais de prova antes das 16h. Este ano, mais de 5 milhões se inscreveram para o exame, dos quais 2,34 milhões cursavam o último ano do ensino médio. No Butantã, zona oeste da capital, Erick Pedrosa, 19 anos e estudante do […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/veja-a-opiniao-dos-alunos-sobre-tema-da-redacao-do-enem-2026/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:51",
+"t": "Quatro jovens morrem em colisão frontal entre carro e caminhão na Rodovia Elyeser Montenegro Magalhães",
+"p": "Quatro moradores de Santo Antônio do Aracanguá morreram na madrugada deste domingo (8) após o carro em que estavam colidir de frente com um caminhão na Rodovia Elyeser Montenegro Magalhães (SP-463), no trecho entre o município e o distrito de Lourdes. As vítimas foram identificadas como Marcelo da Silva Amaral, de…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santo Antônio do Aracanguá",
+"Lourdes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/quatro-jovens-morrem-em-colisao-frontal-entre-carro-e-caminhao-na-rodovia-elyeser-montenegro-magalhaes/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:50",
+"t": "Carro na contramão colide de frente com ônibus escolar na BR-153",
+"p": "Um carro de passeio invadiu a pista contrária e colidiu frontalmente com um ônibus que transportava alunos e professores de São José do Rio Preto (SP), na madrugada deste domingo (8), no trecho da Rodovia Transbrasiliana (BR-153) pertencente ao município de José Bonifácio (SP). De acordo com a Secretaria Municipal…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"José Bonifácio"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/carro-na-contramao-colide-de-frente-com-onibus-escolar-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:49",
+"t": "PM prende 12 procurados pela Justiça no GP de São Paulo; nove deviam pensão",
+"p": "Nove dos 12 presos pela PM tinham mandados de prisão por não pagarem pensão alimentícia; um deles foi condenado por estupro",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pm-prende-12-procurados-pela-justica-no-gp-de-sao-paulo-nove-deviam-pensao",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:47",
+"t": "Investigado por lavar dinheiro do tráfico é preso em shopping de luxo",
+"p": "Um homem de 45 anos, conhecido pelo apelido de “Rei da Sucata”, foi preso na noite do último sábado (7) dentro de um estabelecimento comercial no Shopping Cidade Jardim, localizado na zona oeste de São Paulo. O investigado é apontado pela Polícia Civil como peça-chave em um esquema de lavagem de capitais a serviço…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/investigado-por-lavar-dinheiro-do-trafico-e-preso-em-shopping-de-luxo/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:45",
+"t": "Defesa Civil e Fundo Social enviam ajuda humanitária a municípios atingidos por vendavais no interior de SP",
+"p": "A Defesa Civil do Estado de São Paulo e o Fundo Social de São Paulo (FUSSP) estruturaram uma força-tarefa de ajuda humanitária para atender municípios paulistas impactados pelos fortes vendavais e temporais registrados no último sábado (7). As ações contemplam a distribuição emergencial de cestas básicas, kits de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-e-fundo-social-enviam-ajuda-humanitaria-a-municipios-atingidos-por-vendavais-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:30",
+"t": "Prefeito de cidade de SP imobiliza agressor que arrastava mulher pelos cabelos; município está há 2 anos sem feminicídios",
+"p": "Prefeito impede ataque a mulher em cidade na Grande SP",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/prefeito-de-cidade-de-sp-imobiliza-agressor-que-arrastava-mulher-pelos-cabelos-municipio-esta-ha-2-anos-sem-feminicidios/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:05",
+"t": "Ciclista morre após ser atropelado na Rodovia Maurício Goulart em Adolfo",
+"p": "Um ciclista ainda não identificado morreu após ser atropelado por um automóvel Fiat Siena no quilômetro 42 da Rodovia Maurício Goulart (SP-355), localizada na zona rural do município de Adolfo. A ocorrência foi registrada pela polícia na madrugada deste sábado, dia 7, por volta das 4h20. Uma equipe do Serviço de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Adolfo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ciclista-morre-apos-ser-atropelado-na-rodovia-mauricio-goulart-em-adolfo/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:05",
+"t": "Família e amigos são feitos reféns durante assalto em Américo de Campos",
+"p": "Dois homens encapuzados e armados invadiram uma residência no bairro Bela Vista, na região do Oásis, em Américo de Campos, região de Votuporanga, na noite de sexta-feira (6). Durante o assalto, cinco pessoas foram rendidas e mantidas como reféns, incluindo uma funcionária da Câmara Municipal, o marido, a filha…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Américo de Campos",
+"Votuporanga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/familia-e-amigos-sao-feitos-refens-durante-assalto-em-americo-de-campos/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "21:01",
+"t": "Lula, em pronunciamento na TV: “A inflação está sob controle e a renda do trabalhador está crescendo. A trajetória da dívida pública e os juros altos me preocupam”",
+"p": "Lula falou sobre dívida pública, juros e investimentos no primeiro pronunciamento em rede nacional após vencer as eleições de 2026",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/politica/lula-em-pronunciamento-na-tv-a-inflacao-esta-sob-controle-e-a-renda-do-trabalhador-esta-crescendo-a-trajetoria-da-divida-publica-e-os-juros-altos-me-preocupam/",
+"auto": true
+},
+{
+"d": "2026-11-08",
 "h": "20:36",
 "t": "Semana começa com temperaturas amenas, mas calor volta a ganhar força",
 "p": "A semana começa com temperaturas mais amenas e predomínio de nuvens em Rio Preto, mas o calor deve voltar a ganhar força nos próximos dias. A previsão aponta elevação gradual das temperaturas, com possibilidade de pancadas de chuva e tempestades isoladas na quarta-feira (11). Nesta segunda-feira (9), os termômetros…",
@@ -52,6 +191,18 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/variedades/menina-de-11-anos-viaja-de-trailer-com-a-familia-enfrenta-forte-tempestade-na-porta-da-havan-e-tem-sonho-realizado-por-luciano-hang/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "19:54",
+"t": "Homem agride namorada com puxões de cabelo e é imobilizado por prefeito em SP",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367591/homem-agride-namorada-com-puxoes-de-cabelo-e-e-imobilizado-por-prefeito-em-sp",
 "auto": true
 },
 {
