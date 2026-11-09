@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T13:09:47-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-09T14:16:50-03:00",
+"novos_nesta_coleta": 25,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 71 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,282 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-09",
+"h": "14:13",
+"t": "Restaurante em Sousas é multado por transformar área de preservação em estacionamento",
+"p": "Fiscalização identificou intervenção em 397 m² de terreno protegido às margens do Ribeirão das Cabras; segundo a Prefeitura, local foi nivelado e recebeu brita, prejudicando a regeneração da vegetação",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/restaurante-em-sousas-e-multado-por-transformar-area-de-preservacao-em-estacionamento/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "14:08",
+"t": "62% dos brasileiros consideram erro a ida de Flávio Bolsonaro para os EUA, diz Quaest",
+"p": "Foto: Lula Marques/Agência Brasil Levantamento mostra que a maioria da população associa a viagem a uma tentativa de desviar da Justiça; direita não bolsonarista aparece dividida sobre a atitude",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/quaest-62-por-cento-errou-flavio-bolsonaro-estados-unidos/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:59",
+"t": "IPVA 2027 em SP terá desconto de 3% em janeiro e parcelamento em até cinco vezes",
+"p": "Calendário começa em 11 de janeiro e segue o final da placa; proprietários também poderão pagar o imposto à vista em fevereiro, sem desconto",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/ipva-2027-em-sp-tera-desconto-de-3-em-janeiro-e-parcelamento-em-ate-cinco-vezes.html",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:58",
+"t": "Após derrota, Trump admite que sua política de deportações foi “dura demais”",
+"p": "O presidente dos Estados Unidos, Donald Trump, admitiu que sua política de deportação em massa de imigrantes foi excessivamente rigorosa. A declaração foi feita neste domingo (8), durante entrevista à emissora CBS, poucos dias após a derrota do Partido Republicano nas eleições legislativas de meio de mandato.…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/apos-derrota-trump-admite-que-sua-politica-de-deportacoes-foi-dura-demais/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:56",
+"t": "TJ nega recurso do Estado e mantém ordem para recuperar CDHU em Marília",
+"p": "Decisão preserva obrigação de recuperar o conjunto Paulo Lúcio Nogueira ou oferecer novas moradias, sob pena de multa diária de R$ 500 mil.",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tj-nega-recurso-do-estado-e-mantem-ordem-para-recuperar-cdhu-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:44",
+"t": "Festival Bem-Estar & Sabores reúne gastronomia, cultura e sustentabilidade com programação gratuita em São José dos Campos neste fim de semana",
+"p": "Por: Vanessa Dias com colaboração de Poliana Presses Unir bem-estar, gastronomia, cultura e sustentabilidade em um só lugar. Essa é a proposta do Festival Bem-Estar & Sabores, que será realizado nos dias 14 e 15 de novembro, no Parque Vicentina Aranha, em São José dos Campos. Com uma programação que inclui…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/festival-bem-estar-sabores-reune-gastronomia-cultura-e-sustentabilidade-com-programacao-gratuita-em-sao-jose-dos-campos-neste-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:40",
+"t": "Mongaguá abre 90 vagas na Educação com salários de até R$1,9 mil",
+"p": "Processo seletivo oferece oportunidades para candidatos com ensino Médio completo; inscrições são gratuitas e devem ser feitas entre 10 e 19 de novembro",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/mongagua/mongagua-abre-90-vagas-na-educacao-com-salarios-de-ate-r-19-mil.html",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:38",
+"t": "Justiça derruba liminares e libera ações contra casal investigado por furto de vírus na Unicamp",
+"p": "Soledad Palameta Miller e Michael Edward Miller são investigados pelo furto de cepas de vírus do Laboratório de Virologia do Instituto de Biologia da Unicamp",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/justica-derruba-liminares-e-libera-acoes-contra-casal-investigado-por-furto-de-virus-na-unicamp/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:35",
+"t": "Fundação Bradesco abre inscrições gratuitas para EJA em Marília",
+"p": "Oportunidade é destinada a jovens, adultos e idosos que não concluíram o Ensino Fundamental ou Médio; aulas são presenciais e realizadas à noite.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/fundacao-bradesco-abre-inscricoes-gratuitas-para-eja-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:30",
+"t": "Lula faz primeiro pronunciamento após vencer as eleições e reafirma compromisso com responsabilidade fiscal",
+"p": "O presidente Luiz Inácio Lula da Silva (PT) fez neste domingo (8) seu primeiro pronunciamento em rede nacional de rádio e televisão após ser reeleito, em 25 de outubro, na disputa presidencial contra Flávio Bolsonaro (PL). Durante a mensagem, que durou cerca de sete minutos, o petista agradeceu aos eleitores, falou…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/lula-faz-primeiro-pronunciamento-apos-vencer-as-eleicoes-e-reafirma-compromisso-com-responsabilidade-fiscal/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:26",
+"t": "Polícia investiga divulgação de imagens de apartamento do ex-presidente FHC",
+"p": "BO foi registrado pela esposa de FHC, Patrícia Kundrát, que afirmou ter liberado entrada de homem, mas não sabia sobre gravação de imagens",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-investiga-divulgacao-de-imagens-de-apartamento-do-ex-presidente-fhc",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:24",
+"t": "Alunos de escola em Ribeirão Preto são dispensados após incêndio em prédio vizinho",
+"p": "Escola no Jardim Sumaré adotou medida preventiva nesta segunda-feira (9) devido à fumaça",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Sumaré"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/alunos-de-escola-em-ribeirao-preto-sao-dispensados-apos-incendio-em-predio-vizinho/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:23",
+"t": "Homem de 56 anos morre em bar após suspeita de engasgamento em Marília",
+"p": "Equipes do Samu realizaram manobras de reanimação, mas o óbito foi constado no local; exames devem esclarecer a causa do óbito.",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-de-56-anos-morre-em-bar-apos-suspeita-de-engasgamento-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:22",
+"t": "Obras milionárias de R$ 112,5 milhões prometem atingir mais de 13 mil moradores e prevê melhorias na coleta de esgoto em cidade no litoral de SP",
+"p": "Um investimento de R$ 112,5 milhões está sendo destinado à ampliação do sistema de coleta de esgoto em Guarujá, no litoral de São Paulo. As obras, que já estão em andamento, devem beneficiar cerca de 13 mil moradores de cinco bairros do município, com a implantação de novas redes coletoras e melhorias na…",
+"tema": "Saneamento",
+"s": "anunciado",
+"c": [
+"São Paulo",
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/obras-milionarias-de-r-1125-milhoes-prometem-atingir-mais-de-13-mil-moradores-e-preve-melhorias-na-coleta-de-esgoto-em-cidade-no-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:20",
+"t": "Caminhão da Coca-Cola de Natal chega ao Grande ABC nesta terça-feira (10)",
+"p": "São Caetano abre a programação regional a partir das 17h30, com saída do Atacadão e passagem por avenidas e ruas da cidade; Santo André e São Bernardo recebem o desfile na quarta-feira (11)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo André",
+"São Bernardo do Campo",
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367715/caminhao-da-coca-cola-de-natal-chega-ao-grande-abc-nesta-terca-feira-10-",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:17",
+"t": "Campinas reduz prazo para reabertura de comércios autuados; entenda",
+"p": "Segundo a Prefeitura de Campinas, mudança vale para estabelecimentos autuados que regularizarem as pendências e tiverem o pedido aprovado",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-reduz-prazo-para-reabertura-de-comercios-autuados-entenda/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:17",
+"t": "Polícia identifica homem morto a tiros dentro de carro na Região Norte",
+"p": "Corpo foi encontrado no banco do motorista, com marcas de disparos na cabeça e no braço, no Jardim Itapema",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-identifica-homem-morto-a-tiros-dentro-de-carro-na-regiao-norte/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:15",
+"t": "Camarão a partir de R$ 36,99 é o destaque de festival no Mercado de Peixes de Santos",
+"p": "A iniciativa encerra a programação de festivais do Mercado de Peixes neste ano e reforça a valorização dos produtos comercializados no espaço",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/camarao-a-partir-de-r-3699-e-o-destaque-de-festival-no-mercado-de-peixes-de-santos/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:15",
+"t": "Cubatão oferece 20 vagas em concursos públicos; salários chegam a R$5,5 mil",
+"p": "Seleções contemplam cargos de níveis Médio e Superior, com oportunidades nas áreas jurídica, administrativa e da saúde; inscrições seguem até 3 de dezembro",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/cubatao-oferece-20-vagas-em-concursos-publicos-salarios-chegam-a-r-55-mil.html",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:12",
+"t": "Marcha para Jesus vai percorrer avenidas de Jundiaí neste sábado (14)",
+"p": "Foto: Divulgação Marcha para Jesus Jundiaí 2026 acontece em 14 de novembro, a partir das 15h. Confira o percurso e a programação.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/marcha-para-jesus-2026-jundiai-percurso-horario/",
+"auto": true
+},
 {
 "d": "2026-11-09",
 "h": "13:04",
@@ -71,6 +347,20 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/com-mais-de-400-internacoes-em-uti-sp-registra-alta-de-casos-de-covid-19",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:57",
+"t": "Confira o calendário de pagamento do IPVA de 2027 em São Paulo",
+"p": "O Governo do Estado de São Paulo divulgou nesta segunda-feira (9) o calendário de pagamento do Imposto sobre a Propriedade de Veículos Automotores (IPVA) de 2027. Em janeiro, os contribuintes poderão quitar o imposto em cota única, com 3% de desconto , ou optar pelo parcelamento em até cinco vezes, a depender do…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/confira-o-calendario-de-pagamento-do-ipva-de-2027-em-sao-paulo",
 "auto": true
 },
 {
@@ -103,6 +393,18 @@
 },
 {
 "d": "2026-11-09",
+"h": "12:47",
+"t": "Folha de papel na pia antes de viajar pode evitar um problema comum na cozinha e o motivo para colocar um copo virado sobre o ralo vai surpreender quem não conhece esse truque doméstico",
+"p": "A água acumulada na curva do sifão funciona como uma barreira que impede os gases do esgoto de retornarem pelo encanamento",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/folha-de-papel-na-pia-antes-de-viajar-pode-evitar-um-problema-comum-na-cozinha-e-o-motivo-para-colocar-um-copo-virado-sobre-o-ralo-vai-surpreender-quem-nao-conhece-esse-truque-domestico/",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "12:46",
 "t": "Vereadores de Jundiaí votam projeto que premia empresas focadas na saúde da mulher",
 "p": "Foto: Tribuna de Jundiaí Proposta do vereador Juninho Adilson incentiva ações de prevenção e cuidado no ambiente de trabalho; sessão inclui pautas de transporte, comércio e saúde pública",
@@ -127,6 +429,18 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/queda-de-arvore-atinge-fiacao-e-provoca-suspensao-de-aulas-em-escola-da-zona-norte/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:45",
+"t": "Paraguai apreende iate de US$ 3,3 milhões, dois aviões e carros de luxo ligados a ex-CEO do Ueno Bank em investigação milionária no país",
+"p": "Uma coleção de carros, um iate avaliado em milhões de dólares e duas aeronaves particulares estão entre os bens apreendidos pelo Ministério Público do Paraguai em uma investigação sobre supostas irregularidades envolvendo o Ueno Bank. O patrimônio associado a Federico Miguel Vázquez Villasanti, ex-vice-presidente e…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/paraguai-apreende-iate-de-us-33-milhoes-dois-avioes-e-carros-de-luxo-ligados-a-ex-ceo-do-ueno-bank-em-investigacao-milionaria-no-pais/",
 "auto": true
 },
 {
@@ -1614,6 +1928,42 @@
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/policia-militar-abre-inscricoes-nesta-segunda-para-concurso-com-2-mil-vagas-de-aluno-soldado/",
 "auto": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Campinas: Declara de utilidade pública e autoriza a desapropriação de imóveis destinados à instalação do Centro de Distribuição da Rede Municipal Dr",
+"p": "Decreto nº 24.721, publicado no Diário Oficial do município em 09/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial de Campinas",
+"u": "https://data.queridodiario.ok.org.br/3509502/2026-11-09/6051c2c6cb8706f7225c18b604a7b6d5530f1438.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 24.721",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Monte Mor: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 09/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-11-09/f485b2b2ace4defeb450fa59fe620df87b284739.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 09/11",
+"qd": true,
+"mun": true
 },
 {
 "d": "2026-11-09",
