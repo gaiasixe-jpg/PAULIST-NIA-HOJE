@@ -3,6 +3,242 @@
 "itens": [
 {
 "d": "2026-11-09",
+"h": "13:04",
+"t": "Santos Brasil propõe novo ciclo de investimentos de cerca de R$ 3,5 bilhões no Porto de Santos",
+"p": "Divulgação A Santos Brasil, referência em operações portuárias e logística, apresentou à APS (Autoridade Portuária de Santos) um plano de investimentos",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/porto-e-negocios/santos-brasil-propoe-novo-ciclo-de-investimentos-de-cerca-de-r-35-bilhoes-no-porto-de-santos/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "13:01",
+"t": "Com mais de 400 internações em UTI, SP registra alta de casos de Covid-19",
+"p": "Em 2026, mais de 1 milhão de doses da vacina contra Covid foram aplicadas. A Secretaria de Estado da Saúde alerta para os grupos de risco",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/com-mais-de-400-internacoes-em-uti-sp-registra-alta-de-casos-de-covid-19",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:53",
+"t": "Prefeitura de Sorocaba recebe inscrições para vagas do Conselho Municipal de Proteção e Bem-Estar Animal",
+"p": "As Organizações Não Governamentais (ONGs) relacionadas aos direitos e defesa dos animais e as instituições de instituição de Ensino Superior com curso de graduação em Medicina Veterinária interessadas em participar do processo de eleição do Conselho Municipal de Proteção e Bem-Estar Animal (CMPBEA), para o biênio…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-recebe-inscricoes-para-vagas-do-conselho-municipal-de-protecao-e-bem-estar-animal/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:52",
+"t": "Polícia Militar de SP abre inscrições de concurso com 2 mil vagas para aluno-soldado",
+"p": "Para participar, é necessário ter entre 17 e 30 anos, ensino médio completo e Carteira Nacional de Habilitação (CNH) nas categorias B a E",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/policia-militar-de-sp-abre-inscricoes-de-concurso-com-2-mil-vagas-para-aluno-soldado/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:46",
+"t": "Vereadores de Jundiaí votam projeto que premia empresas focadas na saúde da mulher",
+"p": "Foto: Tribuna de Jundiaí Proposta do vereador Juninho Adilson incentiva ações de prevenção e cuidado no ambiente de trabalho; sessão inclui pautas de transporte, comércio e saúde pública",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-jundiai-vota-selo-empresa-amiga-saude-da-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:46",
+"t": "Queda de árvore atinge fiação e provoca suspensão de aulas em escola da zona Norte",
+"p": "Secretaria da Educação de Ribeirão Preto informa que o fornecimento de energia na escola foi restabelecido na manhã desta segunda-feira (9)",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/queda-de-arvore-atinge-fiacao-e-provoca-suspensao-de-aulas-em-escola-da-zona-norte/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:31",
+"t": "Polícia Civil investiga incêndio após fogo danificar quarto em Marília",
+"p": "Corpo de Bombeiros controlou as chamas que atingiram os fundos de uma residência na noite de sexta-feira em Marília.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/policia-civil-investiga-incendio-apos-fogo-danificar-quarto-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:23",
+"t": "Defesa Civil diz não haver motivo para pânico por kit de emergência",
+"p": "Recomendação ganhou repercussão online, com muitos comentários classificando a iniciativa da Defesa Civil de “exagero”, enquanto outros usuários de redes sociais compartilharam o receio de que algum desastre estivesse prestes a acontecer.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/defesa-civil-diz-nao-haver-motivo-para-panico-por-kit-de-emergencia/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:23",
+"t": "Contação de história é atração gratuita na Biblioteca Infantil nesta quinta-feira (12)",
+"p": "Crianças de adultos poderão conferir, nesta quinta-feira (12), às 14h30, a atividade de contação de histórias da Miraculos Editora, na Biblioteca Infantil Municipal “Renato Sêneca de Sá Fleury”, no Centro. A atividade é aberta ao público geral, sem necessidade de inscrição prévia. Realizada pela Prefeitura de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/contacao-de-historia-e-atracao-gratuita-na-biblioteca-infantil-nesta-quinta-feira-12/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:10",
+"t": "Sorocabanos podem abrir seu comércio por meio do projeto “Mercado na Garagem”",
+"p": "Lei da Liberdade Econômica garante atividade do negócio próprio Os moradores de Sorocaba que desejam iniciar no mundo do comércio, podem empreender na própria garagem de casa por meio do projeto “Mercado na Garagem”. A novidade é uma iniciativa da Prefeitura de Sorocaba, por meio da Secretaria de Empreendedorismo,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sorocabanos-podem-abrir-seu-comercio-por-meio-do-projeto-mercado-na-garagem/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:08",
+"t": "Barragem da Hidrelétrica de Chavantes entra em estado de alerta",
+"p": "Cachoeira Véu da Noiva registrou volume de água acima do normal em Chavantes Com vazão registrada em 1.237,6 m³/s nesta segunda-feira (9), represa fica próxima ao patamar de emergência em Chavantes.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Chavantes"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/barragem-da-hidreletrica-de-chavantes-entra-em-estado-de-alerta/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:08",
+"t": "Sol, pancadas de chuva e máxima de 32°C: confira a previsão do tempo para a semana em Ribeirão Preto",
+"p": "Termômetros sobem gradualmente e chegam a 32°C no sábado, em Ribeirão Preto; quinta-feira concentra o maior volume de chuva, segundo a previsão do tempo",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/sol-pancadas-de-chuva-e-maxima-de-32c-confira-a-previsao-do-tempo-para-a-semana-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:07",
+"t": "Idoso de 68 anos morre após ser atingido por taco de beisebol em conflito familiar em Jales",
+"p": "Um idoso de 68 anos morreu nesta segunda-feira (9) no hospital após ter sido atingido na cabeça por um taco de beisebol durante um desentendimento familiar no bairro Jardim Paraíso, em Jales. O caso ocorreu na última quinta-feira (5) e passou a ser investigado pela Polícia Civil. As informações apuradas indicam que…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/idoso-de-68-anos-morre-apos-ser-atingido-por-taco-de-beisebol-em-conflito-familiar-em-jales/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:04",
+"t": "Concurso Literário Filhos da Terra premia estudantes e passa a integrar patrimônio oficial de Fernandópolis",
+"p": "O Teatro Municipal de Fernandópolis recebeu a 21ª edição do Concurso Literário Filhos da Terra em duas noites de premiação. O evento, que contou com mais de 300 trabalhos inscritos entre estudantes, professores e moradores, marcou a história cultural do município com a aprovação do projeto de lei na Câmara de…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/concurso-literario-filhos-da-terra-premia-estudantes-e-passa-a-integrar-patrimonio-oficial-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:03",
+"t": "Reforma de escola municipal em Santos chega a 75% de execução",
+"p": "Melhorias incluem melhorias estruturais e adequações necessárias para a renovação do Auto de Vistoria e do Corpo de Bombeiros",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/reforma-de-escola-municipal-em-santos-chega-a-75-de-execucao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:03",
+"t": "Obras de galeria interditam trecho da Avenida Pedro Ferrari em Fernandópolis até sexta-feira",
+"p": "A Avenida Pedro Ferrari está com o trânsito interrompido no cruzamento com a Avenida Raul Gonçalves Junior para a realização de obras de galeria de águas pluviais. As melhorias na infraestrutura viária são executadas por equipes da Secretaria Municipal de Obras e Infraestrutura. A interdição da via deve se estender…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/obras-de-galeria-interditam-trecho-da-avenida-pedro-ferrari-em-fernandopolis-ate-sexta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:02",
+"t": "Posso perguntar à IA se estou doente? Especialista explica o que vale pesquisar e o que exige cuidado",
+"p": "Hoje em dia, é cada vez mais fácil recorrer à inteligência artificial (IA) para esclarecer dúvidas sobre saúde. Seja para entender uma dor diferente, interpretar termos de um resultado de exame ou descobrir se um suplemento divulgado nas redes sociais realmente funciona, ferramentas como os chatbots oferecem…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/posso-perguntar-a-ia-se-estou-doente-especialista-explica-o-que-vale-pesquisar-e-o-que-exige-cuidado/",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "12:00",
 "t": "PIB paulista avança 1,5% em 2026 impulsionado pela agropecuária e força do setor de serviços",
 "p": "O Produto Interno Bruto (PIB) do estado de São Paulo registrou crescimento de 1,5% no acumulado de 2026 em comparação com o mesmo período do ano anterior, segundo dados apurados pela Fundação Seade. O avanço da economia paulista foi puxado principalmente pelos desempenhos positivos da agropecuária, que acumulou…",
@@ -63,6 +299,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-abre-cadastramento-para-mapear-artistas-e-agentes-culturais/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "12:00",
+"t": "Estado de SP domina ranking nacional de rodovias com 60% das melhores estradas do país na Pesquisa CNT 2026",
+"p": "O estado de São Paulo consolidou sua posição de liderança na infraestrutura viária nacional ao reunir 12 dos 20 trechos rodoviários mais bem avaliados do Brasil na Pesquisa CNT de Rodovias 2026, levantamento anual divulgado pela Confederação Nacional do Transporte. O resultado representa 60% das primeiras…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estado-de-sp-domina-ranking-nacional-de-rodovias-com-60-das-melhores-estradas-do-pais-na-pesquisa-cnt-2026/",
 "auto": true
 },
 {
@@ -135,6 +383,18 @@
 },
 {
 "d": "2026-11-09",
+"h": "11:52",
+"t": "Novembro é o mês para olhar para o céu: duas chuvas de meteoros, superlua de 361 mil km e um marco que a Voyager 1 levou 49 anos para alcançar",
+"p": "Novembro de 2026 ainda reserva duas chuvas de meteoros: Táuridas do Norte no dia 12 e Leônidas no dia 17, com até 15 meteoros por hora. Também tem superlua no dia 24, a 361 mil quilômetros, e a Voyager 1 atingindo 1 dia-luz da Terra no dia 18.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/novembro-e-o-mes-para-olhar-para-o-ceu-duas-chuvas-de-meteoros-superlua-de-361-mil-km-e-um-marco-que-a-voyager-1-levou-49-anos-para-alcancar/",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "11:43",
 "t": "GCM Sorocaba comemora 39º aniversário com ‘Treinão’ de corrida",
 "p": "A Prefeitura de Sorocaba, por meio da Secretaria da Segurança Urbana (Sesu), promoveu neste domingo (8) o ‘Treinão 39 anos GCM Sorocaba’, em comemoração ao 39º aniversário de fundação da Guarda Civil Municipal (GCM). A programação gratuita, que começou às 7h30, reuniu cerca de 200 participantes para uma aula de…",
@@ -145,6 +405,18 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/gcm-sorocaba-comemora-39o-aniversario-com-treinao-de-corrida/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "11:43",
+"t": "22 milhões de trabalhadores poderão usar vale-refeição em mais restaurantes após nova regra nas maquininhas",
+"p": "Milhões de trabalhadores brasileiros poderão ter mais opções para usar os cartões de vale-refeição e vale-alimentação. Uma nova regra, em vigor desde sábado (7), permite que os benefícios sejam aceitos em mais maquininhas de pagamento, sem a necessidade de os estabelecimentos manterem contratos e equipamentos…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/22-milhoes-de-trabalhadores-ganham-novidade-no-vale-refeicao-e-poderao-usar-cartoes-em-mais-estabelecimentos/",
 "auto": true
 },
 {
