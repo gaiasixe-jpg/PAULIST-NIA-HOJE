@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T15:06:10-03:00",
-"novos_nesta_coleta": 32,
+"atualizado": "2026-11-09T16:00:38-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,241 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-09",
+"h": "16:00",
+"t": "Camarão a partir de R$ 36,99 é o destaque de festival no Mercado de Peixes",
+"p": "Raimundo Rosa/Divulgação Prefeitura de Santos Os apaixonados por frutos do mar têm mais um bom motivo para visitar o Mercado de Peixes de Santos em novembro.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/gastronomia/camarao-a-partir-de-r-3699-e-o-destaque-de-festival-no-mercado-de-peixes/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:58",
+"t": "A cada 100 imóveis, cerca de três têm focos do mosquito da dengue, diz Prefeitura de Ribeirão",
+"p": "Índice de infestação coloca Ribeirão Preto em situação de alerta para dengue, chikungunya e Zika; Prefeitura intensifica ações de combate ao mosquito",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/a-cada-100-imoveis-cerca-de-tres-tem-focos-do-mosquito-da-dengue-diz-prefeitura-de-ribeirao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:54",
+"t": "Governo Presente no Monte Carlo incentiva adesão à coleta seletiva",
+"p": "40% do lixo comum ainda são materiais recicláveis; 4ª edição do projeto foi realizada no sábado, dia 07 de novembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/governo-presente-no-monte-carlo-incentiva-adesao-a-coleta-seletiva.html",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:40",
+"t": "ANTT deverá regulamentar transporte de animais em ônibus",
+"p": "Decisão reconhece omissão da agência reguladora e determina abertura de processo para estabelecer normas específicas; advogado defende o fim do transporte de animais no bagageiro dos ônibus.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/antt-devera-regulamentar-transporte-de-animais-em-onibus/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:38",
+"t": "Referência do vôlei mundial, Bruninho estará em Jarinu para evento gratuito",
+"p": "Foto: Divulgação/ Prefeitura de Jarinu Bruninho em Jarinu: campeão olímpico participa de evento gratuito de vôlei no dia 10 de novembro, às 18h. Saiba como participar.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jarinu"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jarinu/bruninho-em-jarinu/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:35",
+"t": "Prefeito de Cubatão é aprovado por 49,2% da população",
+"p": "O desempenho do prefeito de Cubatão, Cesar Nascimento (PSD), é aprovado por 49,2% da população da cidade e reprovado por 44%. É o que revela pesquisa do Instituto Badra, realizada nos dias 27 e 28 de outubro, ouvindo 1.060 pessoas. Do total de entrevistados, 6,8% não souberam dizer. O desempenho de Cesar vem…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/politica/prefeito-de-cubatao-e-aprovado-por-492-da-populacao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:35",
+"t": "Bike Santos tem novos valores a partir desta terça-feira (10)",
+"p": "Programa segue como uma importante alternativa de deslocamento para moradores e visitantes",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/bike-santos-tem-novos-valores-a-partir-desta-terca-feira-10/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:29",
+"t": "Lula se pronunciou: o que disse o presidente em rede nacional na noite do último domingo (8), 14 dias após sua reeleição",
+"p": "Em pronunciamento na noite de domingo (8), Lula reafirmou compromisso com a responsabilidade fiscal, prometeu elevar investimentos a 20% do PIB e criar condições para reduzir juros. Ele pediu conciliação, cobrou reforma política e do Judiciário e não anunciou medidas de ajuste.",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/lula-se-pronunciou-o-que-disse-o-presidente-em-rede-nacional-na-noite-do-ultimo-domingo-8-14-dias-apos-sua-reeleicao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:18",
+"t": "Aprovação ao prefeito de Santos sobe para 70%",
+"p": "Prestes a concluir a primeira metade de seu segundo mandato, o desempenho do prefeito de Santos, Rogério Santos (Republicanos) é aprovado por 70% da população da cidade e reprovado por apenas 24,3%. É o que revela pesquisa do Instituto Badra, realizada no dia 27 de outubro, ouvindo 1060 pessoas com 16 anos ou mais.…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/politica/aprovacao-ao-prefeito-de-santos-sobe-para-70/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:18",
+"t": "Em SP, relator propõe voto distrital misto para eleições de 2032",
+"p": "Texto apresentado na capital paulista prevê votação ainda este ano e inclui cidades com mais de 200 mil eleitores a partir de 2032.",
+"tema": "Eleições",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/proposta-de-voto-distrital-misto-preve-mudanca-nas-eleicoes-proporcionais-do-pais-a-partir-de-2032/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:15",
+"t": "GCM detém suspeito de tráfico e apreende drogas no Parque Bitaru, em São Vicente",
+"p": "Suspeito tentou fugir ao perceber a aproximação dos guardas e foi levado ao 1º DP; buscas com cães localizaram mais drogas em um quintal",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/gcm-detem-suspeito-de-trafico-e-apreende-drogas-no-parque-bitaru-em-sao-vicente.html",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:13",
+"t": "SESI oferece teatro e música gratuitos em Santos e Cubatão",
+"p": "Programação de novembro reúne espetáculos teatrais, comédia e show em homenagem a Tim Maia e Jorge Ben, com entrada gratuita",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Cubatão",
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/sesi-oferece-teatro-e-musica-gratuitos-em-santos-e-cubatao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:12",
+"t": "IPVA 2027 SP: veja calendário de pagamento, descontos e parcelamento",
+"p": "Foto: Agência São Paulo Motoristas paulistas terão desconto de 3% para quitar o imposto em janeiro; datas variam conforme o final da placa.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/ipva-2027-sp-calendario-pagamento/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:11",
+"t": "Governo Kayo Amado em São Vicente tem 59,4% de aprovação",
+"p": "Pesquisa realizada pelo Instituto Badra no dia 30 de outubro apontou que a gestão do prefeito de São Vicente, Kayo Amado (Podemos), conta com a aprovação de 59,4% dos munícipes. O levantamento, que ouviu 1.060 moradores da cidade, indicou ainda que 34,5% desaprovam a condução do Executivo, enquanto 6,0% não…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/politica/governo-kayo-amado-em-sao-vicente-tem-594-de-aprovacao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:11",
+"t": "Festival de churrasco terá roda gigante de costela, seis horas de carnes à vontade e chope gelado no litoral de SP",
+"p": "O Festival A Trinca chega a Santos no próximo sábado (14) com sua primeira edição, reunindo diferentes estilos de churrasco, cortes especiais e experiências gastronômicas em um só lugar. Com formato all inclusive, a programação terá seis horas de comida e bebida à vontade, incluindo uma atração que promete chamar a…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/gastronomia/festival-de-churrasco-tera-roda-gigante-de-costela-seis-horas-de-carnes-a-vontade-e-chope-gelado-no-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:11",
+"t": "GCM prende acusado por roubo de celular na Avenida Dom Aguirre",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba, na madrugada desta segunda-feira (9), prendeu um homem acusado de roubo de telefone celular. Ele foi abordado durante patrulhamento preventivo pela Avenida Dom Aguirre. A equipe foi acionada por um munícipe, que acenou para a viatura e pediu ajuda. Ele relatou que havia…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-prende-acusado-por-roubo-de-celular-na-avenida-dom-aguirre/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:10",
+"t": "Gestão de Farid Madi é aprovada por 56,2% dos eleitores em Guarujá",
+"p": "Pesquisa realizada pelo Instituto Badra nos dias 26 e 27 de outubro revelou que 56,2% da população de Guarujá aprova o desempenho do prefeito Farid Madi (Podemos) à frente do Executivo municipal. Por outro lado, 35,0% dos entrevistados reprovam a atual administração, enquanto 8,8% não souberam responder. O estudo…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/politica/gestao-de-farid-madi-e-aprovada-por-562-dos-eleitores-em-guaruja/",
+"auto": true
+},
 {
 "d": "2026-11-09",
 "h": "15:05",
@@ -294,6 +529,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/prefeitura-de-macedonia-inaugura-ponto-de-atendimento-virtual-da-receita-federal-no-ganha-tempo/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "14:40",
+"t": "Arqueólogos encontram tronos de pedra e jarro quase intacto por séculos em cemitério perto de Roma que ajudam a revelar costumes secretos",
+"p": "Uma equipe de arqueólogos encontrou estruturas e objetos históricos surpreendentes durante obras de recuperação em um antigo cemitério etrusco em Cerveteri, na Itália. O que começou como uma operação para evitar o desmoronamento de túmulos acabou revelando tronos esculpidos em pedra, paredes com pinturas…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/arqueologos-encontram-tronos-de-pedra-e-jarro-quase-intacto-por-seculos-em-cemiterio-perto-de-roma-que-ajudam-a-revelar-costumes-secretos/",
 "auto": true
 },
 {
@@ -2544,6 +2791,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67719",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "00:00",
+"t": "Programa de saúde bucal de Prudente é retratado em websérie da Rede ColaboraAPS",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67721",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "00:00",
+"t": "Prefeitura, Energisa e empresas iniciam mutirão para regularizar fios soltos",
+"p": "",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67720",
 "auto": true
 },
 {
