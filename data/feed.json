@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T16:00:38-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-09T17:00:12-03:00",
+"novos_nesta_coleta": 19,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,182 @@
 "itens": [
 {
 "d": "2026-11-09",
+"h": "16:51",
+"t": "Câmara de Campinas vota alteração em terreno para construção de escola no Satélite Íris",
+"p": "Projeto prevê correção da área que será doada ao governo estadual para implantação da unidade escolar; vereadores também vão analisar proposta que estabelece regras para reparos em vias públicas após obras",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/camara-de-campinas-vota-alteracao-em-terreno-para-construcao-de-escola-no-satelite-iris/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:50",
+"t": "Refis 2026: contribuintes de Guarujá têm até 18 de dezembro para negociar dívidas",
+"p": "Programa oferece descontos de até 100% em multas e juros, para débitos inscritos na Dívida Ativa; adesão pode ser feita pela internet e presencialmente",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/refis-2026-contribuintes-de-guaruja-tem-ate-18-de-dezembro-para-negociar-dividas.html",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:46",
+"t": "Agenda Municípios debate desafios das cidades para 2027 em evento gratuito",
+"p": "Encontro promovido pelo Grupo EP será realizado nesta quarta-feira (11), das 9h às 18h, com debates sobre gestão pública, reforma tributária, habitação, investimentos e segurança",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/agenda-municipios-debate-desafios-das-cidades-para-2027-em-evento-gratuito/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:42",
+"t": "FEX Engenharia entrega novo centro de distribuição da Shopee em Rio Preto",
+"p": "Com aproximadamente 8 mil m² de área construída, empreendimento desenvolvido sob medida na marginal da Rodovia Washington Luís reforça a infraestrutura logística da cidade",
+"tema": "Transporte",
+"s": "entregue",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/fex-engenharia-entrega-novo-centro-de-distribuicao-da-shopee-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:36",
+"t": "Vereador conhecido como Pezão morre aos 57 anos",
+"p": "Parlamentar lutava contra um linfoma e já estava eleito para presidir a Câmara a partir de 2027; ele deixa esposa e nove filhos",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/vereador-conhecido-como-pezao-morre-aos-57-anos/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:35",
+"t": "Dexco anuncia 60 vagas para auxiliar de produção em Jundiaí",
+"p": "Foto: Divulgação/Dexco Oportunidades na unidade Deca Louças incluem vale-alimentação de R$ 300, assistência médica e escala com folgas prolongadas.",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/auxiliar-producao-jundiai-dexco/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:35",
+"t": "Operação policial apreende 4,5 toneladas de maconha e fuzil em caminhão",
+"p": "A Polícia Militar Rodoviária apreendeu 4,5 toneladas de maconha e um fuzil calibre 7.62 durante uma abordagem da Operação Impacto no último domingo (8), na Rodovia Orlando Quagliato, no município de Ourinhos. A droga estava oculta sob uma carga de farinha de carne e ossos transportada em um caminhão com reboque. O…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ourinhos"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-policial-apreende-45-toneladas-de-maconha-e-fuzil-em-caminhao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:30",
+"t": "Polícia paraguaia encontra passagem secreta e porta blindada em casa de Santiago Peña, preso por envolvimento no Ueno Bank",
+"p": "A polícia paraguaia e agentes do Ministério Público local realizaramum mandado de busca e apreensão na casa de Santiago Peña. A residência de verão do ex-presidente está localizada na cidade turística de San Bernardino, a cerca de 50 quilômetros de Assunção. Durante a varredura no imóvel, as autoridades localizaram…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/policia-paraguaia-encontra-passagem-secreta-e-porta-blindada-em-casa-de-verao-de-santiago-pena-preso-por-envolvimento-no-ueno-bank/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:26",
+"t": "Homem sem uma das pernas é preso furtando fios de prédio de prefeitura",
+"p": "O crime ocorreu no bairro Vila Nova, em Santos, nesse domingo (8/11). O ladrão estava acompanhado de um comparsa, que conseguiu fugir",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-sem-uma-das-pernas-e-preso-furtando-fios-de-predio-de-prefeitura",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:24",
+"t": "Rodoanel: após promessa de Tarcísio, governo adia entrega do trecho final",
+"p": "Governador de São Paulo havia prometido antecipar a conclusão da obra para este ano. Artesp alega que chuvas atrapalharam o andamento",
+"tema": "Meio ambiente",
+"s": "entregue",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/rodoanel-apos-promessa-de-tarcisio-governo-adia-entrega-do-trecho-final",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:19",
+"t": "Vigilância Sanitária orienta instituições geriátricas sobre boas práticas e cuidados com idosos",
+"p": "Foto: Prefeitura de Jundiaí Oficina reuniu 40 profissionais de 18 instituições para orientar sobre normas sanitárias, organização e qualidade da assistência à população idosa",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/vigilancia-sanitaria-orienta-instituicoes-geriatricas-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:15",
+"t": "Vereador de Severínia sofre tentativa de homicídio e escapa de ataque com motosserra em seu bar",
+"p": "O vereador e comerciante Lourival escapou ileso de uma tentativa de homicídio ocorrida dentro do próprio estabelecimento comercial no último sábado (7), no bairro Cohab IV, em Severínia. O parlamentar foi atacado por um homem armado com uma motosserra acionada, mas conseguiu se salvar graças ao auxílio de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Severínia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vereador-de-severinia-sofre-tentativa-de-homicidio-e-escapa-de-ataque-com-motosserra-em-seu-bar/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:01",
+"t": "Inscrições para Vestibulinho das Etecs terminam nesta terça-feira",
+"p": "Processo seletivo oferece cerca de 90 mil vagas gratuitas para o primeiro semestre de 2027. As inscrições vão até 20h desta terça",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/inscricoes-para-vestibulinho-das-etecs-termina-nesta-terca-feira",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "16:00",
 "t": "Camarão a partir de R$ 36,99 é o destaque de festival no Mercado de Peixes",
 "p": "Raimundo Rosa/Divulgação Prefeitura de Santos Os apaixonados por frutos do mar têm mais um bom motivo para visitar o Mercado de Peixes de Santos em novembro.",
@@ -59,6 +235,48 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/gastronomia/camarao-a-partir-de-r-3699-e-o-destaque-de-festival-no-mercado-de-peixes/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:00",
+"t": "Museu das Favelas celebra aniversário com Festival Nicho e programação especial",
+"p": "Instituição promove atividades gratuitas no Mês da Consciência Negra, com debates e atividades gratuitas durante novembro; programação inclui exposição de artista de Diadema",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367727/museu-das-favelas-celebra-aniversario-com-festival-nicho-e-programacao-especial",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:00",
+"t": "São Bernardo inicia regularização de imóveis no Royal Park",
+"p": "Prefeitura iniciou estudos para legalizar imóveis na região do Batistini; processo poderá viabilizar obras de esgoto e pavimentação.",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367748/sao-bernardo-inicia-regularizacao-de-imoveis-no-royal-park",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "16:00",
+"t": "2ª Feira do Livro de Mongaguá acontece na sexta e no sábado",
+"p": "Rafael Correia/Divulgação Prefeitura de Mongaguá A programação da 2ª Feira do Livro de Mongaguá também contará com atividades voltadas ao público infantojuvenil.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/2a-feira-do-livro-de-mongagua-acontece-na-sexta-e-no-sabado/",
 "auto": true
 },
 {
@@ -334,6 +552,20 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367743/predio-e-interditado-em-diadema-apos-pilares-quebrarem",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "15:00",
+"t": "Prédio é interditado em Diadema após pilares cederem",
+"p": "Caso na Rua Corunha não deixou vítimas; Prefeitura solicitou laudo para avaliação da estrutura",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367743/predio-e-interditado-em-diadema-apos-pilares-cederem",
 "auto": true
 },
 {
@@ -2819,6 +3051,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67720",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "00:00",
+"t": "Esporte de PP conquista pódios na ginástica rítmica e atletismo e promove festival de vôlei",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67724",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "00:00",
+"t": "3ª Feira de Artesanato e Culinária Japonesa reúne mais de 100 trabalhadores da cultura",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67723",
 "auto": true
 },
 {
