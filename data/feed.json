@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T01:02:12-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-09T02:12:52-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,30 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-09",
+"h": "02:00",
+"t": "\"E aí criminalidade\": olheiros digitais usavam WhatsApp para atuar pelo PCC",
+"p": "\"Olheiros digitais\" monitoravam ininterruptamente movimentação da polícia e trocavam informações por meio de grupo de WhatsApp",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/e-ai-criminalidade-olheiros-digitais-usavam-whatsapp-para-atuar-pelo-pcc",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "01:30",
+"t": "‘Roque Santeiro’: Lulu busca ajuda de Padre Albano para se libertar de Zé das Medalhas; veja resumo de segunda (09)",
+"p": "No capítulo desta segunda-feira (09), em ‘Roque Santeiro’, a rotina sufocante dentro de casa atinge o limite do desespero e acende o alerta no povoado. Submetida ao controle rígido e ao isolamento impostos pelo negociante, a dona de casa enfrenta um forte sofrimento psicológico no lar, pois Lulu vive momentos de…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-lulu-busca-ajuda-de-padre-albano-para-se-libertar-de-ze-das-medalhas-veja-resumo-de-segunda-09/",
+"auto": true
+},
 {
 "d": "2026-11-08",
 "h": "23:00",
