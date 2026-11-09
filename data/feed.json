@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-09T03:17:18-03:00",
+"atualizado": "2026-11-09T05:33:36-03:00",
 "novos_nesta_coleta": 4,
 "fontes_ok": [
 "Agência Brasil",
@@ -50,6 +50,60 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-09",
+"h": "05:05",
+"t": "Obituário | Falecimentos registrados nesta segunda-feira em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta segunda-feira, dia 9 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-segunda-feira-em-marilia-e-regiao-8/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "05:00",
+"t": "Confira as ofertas de emprego no PAT Marília nesta segunda-feira (9/11)",
+"p": "Oportunidades somam 95 vagas em 17 funções, com opções para diferentes níveis de escolaridade e pessoas com deficiência.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-segunda-feira-9-11/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "05:00",
+"t": "Festejos de Iemanjá de Praia Grande têm inscrições reabertas até terça",
+"p": "Fred Casagrande/Arquivo Prefeitura de Praia Grande Devotos, templos, terreiros, tendas e demais entidades podem fazer o cadastro pelo portal oficial dos Festejos de Iemanjá.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/festejos-de-iemanja-de-praia-grande-inscricoes-reabertas-ate-terca/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "04:00",
+"t": "Resumo de ‘Quem Ama Cuida’ desta segunda-feira: após a separação de Tom, Pilar se aproxima para usá-lo em seus planos",
+"p": "A novela ‘Quem Ama Cuida’ desta segunda-feira (09/11) terá Adriana (Letícia Colin) prometendo pensar no pedido de Ulisses (Alexandre Borges) de não fazer a denúncia dele à polícia. Pedro (Chay Suede) não revela a Ademir (Dan Stulbach) que sabe quem foi o autor do atentado que sofreu. Adriana abriga Elenice (Mariana…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-quem-ama-cuida-desta-segunda-feira-apos-a-separacao-de-tom-pilar-se-aproxima-para-usa-lo-em-seus-planos/",
+"auto": true
+},
 {
 "d": "2026-11-09",
 "h": "03:06",
