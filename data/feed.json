@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-08T22:15:31-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-08T23:19:59-03:00",
+"novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,75 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-08",
+"h": "23:00",
+"t": "Homem finge ser juiz do STF em app de relacionamento, promete casamento e levanta mais de R$ 22 mil em golpes contra 20 mulheres",
+"p": "Um homem acusado de se passar por juiz do Supremo Tribunal Federal (STF) para conquistar uma mulher e aplicar um golpe de cerca de R$ 7 mil virou alvo da polícia em Niterói, na Região Metropolitana do Rio de Janeiro. Segundo a investigação, Renato dos Anjos Mello, de 59 anos, simulou uma vida de luxo […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/homem-finge-ser-juiz-do-stf-em-app-de-relacionamento-promete-casamento-e-levanta-mais-de-r-22-mil-em-golpes-contra-20-mulheres/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "22:44",
+"t": "Ventos de 66 km/h derrubam árvores e suspendem show em recinto de Rio Preto",
+"p": "Ventos de 66 km/h derrubam árvores, suspendem show em recinto e mobilizam gabinete de crise em Rio Preto Prefeitura de São José do Rio Preto/Divulgação Ventos de 66 km/h derrubam árvores, suspendem show em recinto e mobilizam gabinete de crise em Rio Preto Prefeitura de São José do Rio Preto/Divulgação Rajadas de…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ventos-de-66-km-h-derrubam-arvores-e-suspendem-show-em-recinto-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "22:44",
+"t": "Dupla é presa com apoio de drone suspeita de furtar combustível de trem em distrito de Votuporanga",
+"p": "Dupla foi presa suspeita de furtar combustível de trens em distrito de Votuporanga (SP) Polícia Militar Ambiental/Divulgação Dois homens foram presos em flagrante suspeitos de furtar cerca de 100 litros de combustível de um trem em Simonsen, distrito de Votuporanga (SP), na madrugada de sábado (7). Segundo a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/dupla-e-presa-com-apoio-de-drone-suspeita-de-furtar-combustivel-de-trem-em-distrito-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "22:44",
+"t": "Carro invade a contramão e bate de frente com ônibus escolar de Rio Preto na BR-153",
+"p": "Carro que invadiu a contramão bateu contra um ônibus que transportava alunos e professores de uma escola de São José do Rio Preto (SP), em José Bonifácio (SP) Reprodução Um carro invadiu a pista contrária e bateu de frente contra um ônibus que transportava estudantes e professores de São José do Rio Preto (SP), na […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"José Bonifácio"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/carro-invade-a-contramao-e-bate-de-frente-com-onibus-escolar-de-rio-preto-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-08",
+"h": "22:44",
+"t": "Inscrições são abertas para primeira escola cívico-militar municipal de Rio Preto; veja como participar",
+"p": "Primeiro Colégio cívico-militar de Rio Preto (SP) abrirá vagas para Ensino Fundamental na próxima segunda-feira (9) Foto: Ivan Feitosa / SMCS As inscrições para a primeira escola cívico-militar gerida pela Prefeitura de São José do Rio Preto (SP) serão abertas a partir desta segunda-feira (9). Segundo a Secretaria…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/inscricoes-sao-abertas-para-primeira-escola-civico-militar-municipal-de-rio-preto-veja-como-participar/",
+"auto": true
+},
 {
 "d": "2026-11-08",
 "h": "22:03",
