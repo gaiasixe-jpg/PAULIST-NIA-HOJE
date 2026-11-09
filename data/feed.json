@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T07:06:09-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-09T08:04:21-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -24,12 +24,12 @@
 "Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
+"Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -45,11 +45,90 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Prefeitura de Presidente Prudente",
-"erro": "HTTP Error 502: Bad Gateway"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Erro"
 }
 ],
 "itens": [
+{
+"d": "2026-11-09",
+"h": "08:02",
+"t": "Belutti deixou local de acidente com Porsche antes de chegada dos bombeiros",
+"p": "Cantor sertanejo da dupla Marcos & Belutti foi levado ao hospital por testemunha do acidente. Ele foi liberado após atendimento médico",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/belutti-deixou-local-de-acidente-com-porsche-antes-de-chegada-dos-bombeiros",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:00",
+"t": "Câmera com inteligência artificial aumenta em 28 vezes média de multas na Rodovia Dom Pedro I",
+"p": "Equipamento registrou 3,1 mil infrações em cinco meses, contra 281 em todo o ano passado no mesmo ponto; uso irregular da faixa da esquerda por caminhões e falta do cinto de segurança lideram as autuações",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/camera-com-inteligencia-artificial-aumenta-em-28-vezes-media-de-multas-na-rodovia-dom-pedro-i/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "07:51",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta segunda (9)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-segunda-9.html",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "07:32",
+"t": "Governo de SP divulga calendário do IPVA 2027; veja as datas de vencimento",
+"p": "Vencimento do IPVA é de acordo com o final de cada placa; calendário foi publicado nesta segunda-feira (9/11) no Diário Oficial",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/governo-de-sp-divulga-calendario-do-ipva-2027-veja-as-datas-de-vencimento",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "07:30",
+"t": "Frio marca início da semana em Jundiaí, mas temperaturas voltam a subir; veja a previsão",
+"p": "Foto: Prefeitura de Jundiaí Com mínima de 14°C e céu carregado de nuvens, segunda-feira terá tempo firme. Temperaturas sobem nos próximos dias, mas a chuva também deve retornar.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-9-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "07:03",
+"t": "Fazenda de rosas se preparou para chuvas históricas, mas agora tem 40% de flores sobrando por dia; após 72 horas, elas vão para o lixo",
+"p": "Uma das maiores fazendas de rosas do Quênia passou semanas se preparando para enfrentar chuvas intensas provocadas pelo El Niño. Estufas foram reforçadas, sistemas de drenagem receberam melhorias e equipamentos de emergência foram comprados. Mas, quando o período de instabilidade se aproximou, os produtores…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/fazenda-de-rosas-se-preparou-para-chuvas-historicas-mas-agora-tem-40-de-flores-sobrando-por-dia-apos-72-horas-elas-vao-para-o-lixo/",
+"auto": true
+},
 {
 "d": "2026-11-09",
 "h": "07:00",
@@ -78,6 +157,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/dez-municipios-do-noroeste-paulista-recebem-novos-investimentos-do-estado-para-obras-de-prevencao-a-desastres/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "06:49",
+"t": "Motoristas enfrentam quilômetros de congestionamento na Anchieta e Imigrantes na manhã desta segunda-feira",
+"p": "Na manhã desta segunda-feira (9), os motoristas encontram pontos de congestionamento nas rodovias Anchieta e Imigrantes, no sentido da Capital. As lentidões ocorrem devido ao excesso de veículos, conforme informações da Ecovias Imigrantes. Na Rodovia Anchieta (SP-150), há dois trechos congestionados. O primeiro…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/motoristas-enfrentam-quilometros-de-congestionamento-na-anchieta-e-imigrantes-na-manha-desta-segunda-feira/",
 "auto": true
 },
 {
