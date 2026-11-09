@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T08:04:21-03:00",
-"novos_nesta_coleta": 7,
+"atualizado": "2026-11-09T09:02:18-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,287 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Erro"
 }
 ],
 "itens": [
+{
+"d": "2026-11-09",
+"h": "08:59",
+"t": "Jundiaí na liderança: Cidade é a primeira a chegar à segunda fase do Município Global; o que isso significa para a economia local?",
+"p": "Foto: Prefeitura de Jundiaí Pioneirismo coloca Jundiaí à frente de uma estratégia para atrair investimentos, ampliar exportações e criar novas oportunidades para empresas e trabalhadores.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-no-municipio-global-segunda-fase/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:52",
+"t": "Trabalhe de casa: confira vagas remotas em engenharia, vendas e educação em Jundiaí e região",
+"p": "Foto: Canva Confira 3 vagas de emprego remoto para Jundiaí e região nas áreas de engenharia, vendas e educação; saiba como se candidatar.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/vagas-emprego-remoto-home-office-jundiai-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:51",
+"t": "Lula se compromete com responsabilidade fiscal e busca conciliação",
+"p": "Em relação a economia reafirmou o compromisso com a responsabilidade fiscal, mantendo investimentos, que o governo buscará elevar para 20% do Produto Interno Bruto (PIB).",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/lula-se-compromete-com-responsabilidade-fiscal-e-busca-conciliacao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:47",
+"t": "Mulher recebeu orçamento de até R$ 440 mil para reformar a cozinha, mas decidiu não quebrar nada; o resultado veio com tinta, puxadores e 2 luminárias",
+"p": "Canto da Pia Sage e Forest Green com Pingente (Depois) | Crédito: @refreshedandrefurbishedmb Uma moradora transformou sua cozinha dos anos 2000 com pintura em dois tons, novos pontos de luz e puxadores, evitando uma reforma de R$ 220 mil a R$ 440 mil. O projeto prova que é possível renovar sem quebrar paredes.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/mulher-recebeu-orcamento-de-ate-r-440-mil-para-reformar-a-cozinha-mas-decidiu-nao-quebrar-nada-o-resultado-veio-com-tinta-puxadores-e-2-luminarias/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:46",
+"t": "Homem é preso em flagrante por agredir família e ameaçar companheira de morte em Valentim Gentil",
+"p": "Um homem foi preso em flagrante pela Polícia Militar na noite de sexta-feira (6) sob a acusação de agredir a esposa e as enteadas a socos, além de ameaçar matar a companheira, que carregava o filho do casal, um bebê de apenas três meses, nos braços. A violência ocorreu na Rua 13 de Maio, na […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Valentim Gentil"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-em-flagrante-por-agredir-familia-e-ameacar-companheira-de-morte-em-valentim-gentil/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:45",
+"t": "Motorista perde o controle de carro após atingir lona de caminhão abandonada na Rodovia Euclides da Cunha",
+"p": "Um acidente de trânsito foi registrado na Rodovia Euclides da Cunha (SP-320), no trecho que liga as cidades de Estrela d’Oeste e Fernandópolis. Um motorista de 26 anos, morador de Estrela d’Oeste, perdeu o controle da direção do veículo após passar por cima de uma lona de caminhão que estava abandonada no meio da…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Estrela d'Oeste",
+"Fernandópolis",
+"Cunha"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motorista-perde-o-controle-de-carro-apos-atingir-lona-de-caminhao-abandonada-na-rodovia-euclides-da-cunha/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:44",
+"t": "Colisão entre carro na contramão e moto deixa casal ferido na Rodovia Péricles Bellini em Votuporanga",
+"p": "Um casal ficou ferido após a motocicleta em que trafegava ser atingida por um automóvel na noite deste domingo (8), na Rodovia Péricles Bellini (SP-461), em Votuporanga. O acidente ocorreu nas proximidades da alça de acesso ao entroncamento com a Rodovia Euclides da Cunha. De acordo com as informações preliminares…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Votuporanga",
+"Cunha"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/colisao-entre-carro-na-contramao-e-moto-deixa-casal-ferido-na-rodovia-pericles-bellini-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:43",
+"t": "Homem é preso após furtar fios de cobre de supermercado",
+"p": "Um ajudante geral de 46 anos foi preso em flagrante na noite deste domingo (8), suspeito de furtar fios de cobre de um supermercado no bairro Vila Zilda, em Rio Preto. Ele foi localizado pela Guarda Civil Municipal (GCM) nas proximidades do estabelecimento, após uma denúncia. Segundo o boletim de ocorrência, os…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-preso-apos-furtar-fios-de-cobre-de-supermercado/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:42",
+"t": "Jovem fica em estado gravíssimo após ser atropelado e arrastado em capô de carro",
+"p": "Um jovem de 23 anos, morador de Tanabi, encontra-se internado em estado gravíssimo na Unidade de Terapia Intensiva (UTI) do Hospital de Base de São José do Rio Preto, após ser atropelado e arrastado sobre o capô de um automóvel na manhã deste domingo (8). A violência ocorreu no distrito de Engenheiro Balduíno,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Tanabi"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jovem-fica-em-estado-gravissimo-apos-ser-atropelado-e-arrastado-em-capo-de-carro/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:37",
+"t": "Acúmulo de água complica o trânsito na Avenida Nossa Senhora de Fátima nesta segunda-feira e exige atenção dos condutores",
+"p": "Após as fortes chuvas na madrugada deste domingo (8), trechos da Avenida Nossa Senhora de Fátima, em Santos, registraram pontos de alagamento na manhã desta segunda-feira (9). A Companhia de Engenharia de Tráfego orienta motoristas que transitam pela região a redobrar a atenção e utilizar rotas alternativas.…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/acumulo-de-agua-complica-o-transito-na-avenida-nossa-senhora-de-fatima-nesta-segunda-feira-e-exige-atencao-dos-condutores/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:29",
+"t": "Lula se compromete com responsabilidade fiscal e busca conciliação",
+"p": "Em pronunciamento, o presidente reforçou prioridades do governo",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/lula-se-compromete-com-responsabilidade-fiscal-e-busca-conciliacao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:21",
+"t": "PIB paulista avança 1,5% no acumulado de 2026",
+"p": "O PIB paulista cresceu 1,5% no acumulado de 2026 na comparação com o mesmo período do ano anterior, mostram os dados do PIB Mensal elaborados pela Fundação Seade. O crescimento foi impulsionado pelos setores da agropecuária (2,8%) e de serviços (2,4%). Em relação ao mesmo mês do ano anterior, o indicador avançou…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pib-paulista-avanca-15-no-acumulado-de-2026/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:21",
+"t": "Entenda o que é a LOA e como acompanhar a proposta de orçamento de São Paulo para 2027",
+"p": "O planejamento do orçamento público é uma das principais ferramentas para garantir o funcionamento dos serviços essenciais e orientar os investimentos do Governo do Estado de São Paulo. Por meio da Lei Orçamentária Anual (LOA), são estimadas as receitas e autorizadas as despesas para áreas como saúde, educação,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/entenda-o-que-e-a-loa-e-como-acompanhar-a-proposta-de-orcamento-de-sao-paulo-para-2027/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:21",
+"t": "IPVA 2027: SP divulga calendário com desconto de 3% em janeiro e pagamento em até cinco parcelas",
+"p": "O Governo de São Paulo definiu o calendário de pagamento do Imposto sobre a Propriedade de Veículos Automotores (IPVA) de 2027, administrado pela Secretaria da Fazenda e Planejamento do Estado de São Paulo (Sefaz-SP). Os proprietários de veículos usados poderão quitar o imposto em janeiro, com desconto de 3%, pagar…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ipva-2027-sp-divulga-calendario-com-desconto-de-3-em-janeiro-e-pagamento-em-ate-cinco-parcelas/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:20",
+"t": "Motoboy de 20 anos morre após queda de motocicleta e colisão contra poste",
+"p": "Um acidente de trânsito vitimou o jovem Alex Lucas da Silva, de 20 anos, na madrugada desta segunda-feira (9), na Avenida Brasilusa, trecho adjacente ao Plaza Shopping, no bairro Parque Estoril, em São José do Rio Preto. A vítima trabalhava como motoboy e conduzia uma motocicleta no momento da ocorrência. De acordo…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motoboy-de-20-anos-morre-apos-queda-de-motocicleta-e-colisao-contra-poste/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:19",
+"t": "Defesa Civil esclarece publicação preventiva sobre kit de emergência após onda de boatos e especulações nas redes sociais",
+"p": "Após a publicação em que orientava a população a preparar um kit de emergência na última sexta-feira (6), a Defesa Civil Nacional divulgou uma nota para esclarecer que a postagem tinha caráter exclusivamente preventivo. A medida ocorreu após a repercussão causada pela apreensão de internautas, que imaginaram a…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/defesa-civil-esclarece-publicacao-preventiva-sobre-kit-de-emergencia-apos-onda-de-boatos-e-especulacoes-nas-redes-sociais/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:15",
+"t": "Trânsito em SP passa de 570 km de lentidão, com 230 km na zona sul e 6 km de congestionamento na Bandeirantes",
+"p": "O trânsito em São Paulo amanheceu carregado com 571 quilômetros de lentidão nas principais ruas, avenidas e rodovias, nesta segunda-feira (9/11). O Rodízio Municipal de Veículos já está valendo em todo centro expandido. Carros com placas finais 1 e 2 não podem circular até às 10h. Segundo dados da Companhia de…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/transito-em-sp-ultrapassa-570-km-de-lentidao-zona-sul-concentra-230-km-e-rodovia-dos-bandeirantes-tem-6-km-de-congestionamento/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:13",
+"t": "Temporal deixa um morto e causa estragos na região",
+"p": "Duas embarcações de pequeno porte viraram no leito do Rio Dourado na noite deste sábado (7), em Lins (SP). Cinco pessoas que estavam a bordo conseguiram sair da água em segurança, mas um homem de 50 anos afundou, ficou desaparecido e foi encontrado morto neste domingo (8). A suspeita do Corpo de Bombeiros e da […]",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Lins"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/temporal-deixa-um-morto-e-causa-estragos-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:11",
+"t": "Mulher de 52 anos condenada por estupro de vulnerável é presa em Caiabu",
+"p": "Uma mulher de 52 anos foi presa na noite de sexta-feira (6), em Caiabu (SP), após ter a prisão definitiva decretada pela Justiça pelo crime de estupro de vulnerável. Segundo a Polícia Civil, a equipe da Polícia Militar localizou a condenada em um imóvel da cidade após receber a ordem judicial de prisão emitida pela […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Caiabu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/mulher-de-52-anos-condenada-por-estupro-de-vulneravel-e-presa-em-caiabu/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "08:10",
+"t": "Dengue mais de 3,5 mil adultos precisam tomar 2ª dose para fechar esquema vacinal em Prudente",
+"p": "Mais de 3,5 mil moradores de Presidente Prudente (SP) que receberam a primeira dose da vacina contra a dengue ainda precisam completar o esquema vacinal. A segunda aplicação está disponível para adultos imunizados em julho e agosto com doses de um lote que estava próximo do vencimento. Segundo balanço da Secretaria…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/dengue-mais-de-35-mil-adultos-precisam-tomar-2a-dose-para-fechar-esquema-vacinal-em-prudente/",
+"auto": true
+},
 {
 "d": "2026-11-09",
 "h": "08:02",
@@ -93,6 +368,20 @@
 },
 {
 "d": "2026-11-09",
+"h": "07:49",
+"t": "Jacaré de espécie que chega a quase 3,5 metros e faz inveja aos dinossauros aparece sobre colchão em ciclovia, surpreende moradores e ‘trava’ trânsito no litoral de SP",
+"p": "Uma cena que parece ter saído de um desenho animado surpreendeu moradores e pessoas que passavam pelo bairro de Morrinhos, em Guarujá. Um jacaré foi encontrado sobre um colchão na ciclovia da Avenida Vereador Lydio Martins. O susto foi tão grande que a situação chegou a interromper o trânsito por alguns minutos e…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/jacare-de-especie-que-chega-a-quase-35-metros-e-faz-inveja-aos-dinossauros-aparece-sobre-colchao-em-ciclovia-surpreende-moradores-e-trava-transito-no-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "07:32",
 "t": "Governo de SP divulga calendário do IPVA 2027; veja as datas de vencimento",
 "p": "Vencimento do IPVA é de acordo com o final de cada placa; calendário foi publicado nesta segunda-feira (9/11) no Diário Oficial",
@@ -115,6 +404,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-9-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "07:25",
+"t": "Novo terminal de ônibus de São Vicente oferece viagens para 13 cidades paulistas e destinos interestaduais no Centro; veja quais",
+"p": "A Prefeitura de São Vicente inaugurou a nova rodoviária do município no último domingo (8), na Praça Bernardino de Campos, no Centro. O equipamento opera linhas intermunicipais e interestaduais para diversos destinos do Estado de São Paulo e outras regiões do país. Para orientar os passageiros, a administração…",
+"tema": "Transporte",
+"s": "entregue",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/novo-terminal-de-onibus-de-sao-vicente-oferece-viagens-para-13-cidades-paulistas-e-destinos-interestaduais-no-centro-veja-quais/",
 "auto": true
 },
 {
