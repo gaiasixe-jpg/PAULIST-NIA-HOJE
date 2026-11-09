@@ -3,6 +3,64 @@
 "itens": [
 {
 "d": "2026-11-09",
+"h": "03:06",
+"t": "Defesa Civil e Fundo Social enviam ajuda humanitária a municípios atingidos por vendavais no interior de SP",
+"p": "A Defesa Civil do Estado de São Paulo e o Fundo Social de São Paulo (FUSSP) estruturaram uma força-tarefa de ajuda humanitária para atender municípios paulistas impactados pelos fortes vendavais e temporais registrados no último sábado (7). As ações contemplam a distribuição emergencial de cestas básicas, kits de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-e-fundo-social-enviam-ajuda-humanitaria-a-municipios-atingidos-por-vendavais-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "03:06",
+"t": "Investigado por lavar dinheiro do tráfico é preso em shopping de luxo",
+"p": "Um homem de 45 anos, conhecido pelo apelido de “Rei da Sucata”, foi preso na noite do último sábado (7) dentro de um estabelecimento comercial no Shopping Cidade Jardim, localizado na zona oeste de São Paulo. O investigado é apontado pela Polícia Civil como peça-chave em um esquema de lavagem de capitais a serviço…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/investigado-por-lavar-dinheiro-do-trafico-e-preso-em-shopping-de-luxo/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "03:06",
+"t": "Carro na contramão colide de frente com ônibus escolar na BR-153",
+"p": "Um carro de passeio invadiu a pista contrária e colidiu frontalmente com um ônibus que transportava alunos e professores de São José do Rio Preto (SP), na madrugada deste domingo (8), no trecho da Rodovia Transbrasiliana (BR-153) pertencente ao município de José Bonifácio (SP). De acordo com a Secretaria Municipal…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"José Bonifácio"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/carro-na-contramao-colide-de-frente-com-onibus-escolar-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "03:06",
+"t": "Quatro jovens morrem em colisão frontal entre carro e caminhão na Rodovia Elyeser Montenegro Magalhães",
+"p": "Quatro moradores de Santo Antônio do Aracanguá morreram na madrugada deste domingo (8) após o carro em que estavam colidir de frente com um caminhão na Rodovia Elyeser Montenegro Magalhães (SP-463), no trecho entre o município e o distrito de Lourdes. As vítimas foram identificadas como Marcelo da Silva Amaral, de…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santo Antônio do Aracanguá",
+"Lourdes"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/quatro-jovens-morrem-em-colisao-frontal-entre-carro-e-caminhao-na-rodovia-elyeser-montenegro-magalhaes/",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "02:00",
 "t": "\"E aí criminalidade\": olheiros digitais usavam WhatsApp para atuar pelo PCC",
 "p": "\"Olheiros digitais\" monitoravam ininterruptamente movimentação da polícia e trocavam informações por meio de grupo de WhatsApp",
