@@ -3,6 +3,221 @@
 "itens": [
 {
 "d": "2026-11-10",
+"h": "15:55",
+"t": "Justiça manda internar menor que fez ameaças nazistas a crianças de creche",
+"p": "O adolescente de 16 anos também atacou o prefeito e cometeu injúria racial contra a mãe de um vereador de uma cidade no interior",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-manda-internar-menor-que-fez-ameacas-nazistas-a-criancas-de-creche",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:52",
+"t": "São Vicente elimina mais de 6 mil focos de dengue em outubro",
+"p": "Larvas do mosquito foram identificadas principalmente em latas, frascos, plásticos, ralos de quintal e materiais de construção",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/sao-vicente-elimina-mais-de-6-mil-focos-de-dengue-em-outubro/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:51",
+"t": "Senado abre licitação de R$ 6 milhões para renovar celulares com modelos de luxo como o iPhone 18 Pro e ampliação do pacote de internet",
+"p": "Uma licitação estimada em R$ 6 milhões vai renovar os celulares utilizados por parlamentares e servidores do Senado Federal. Aberto no fim de outubro, o processo prevê a contratação de 425 aparelhos, entre eles 95 iPhones 18 Pro e outros 330 dispositivos das marcas Samsung e Motorola. Além disso, o contrato inclui…",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/senado-abre-licitacao-de-r-6-milhoes-para-renovar-celulares-com-modelos-de-luxo-como-o-iphone-18-pro-e-ampliacao-do-pacote-de-internet/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:47",
+"t": "Porto de Santos investiga possível ataque hacker e ativa plano de contingência; veja como ficam cargas, navios e serviços",
+"p": "O Porto de Santos, no litoral de São Paulo, investiga uma possível invasão de seus sistemas digitais e colocou em prática um plano de contingência para manter os serviços. A indisponibilidade das plataformas pode provocar lentidão em processos administrativos, mas a Autoridade Portuária de Santos (APS) afirma que a…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/porto-de-santos-investiga-possivel-ataque-hacker-e-ativa-plano-de-contingencia-veja-como-ficam-cargas-navios-e-servicos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:46",
+"t": "Tarcísio afirma que Flávio Bolsonaro tem direito de disputar o Planalto em 2030",
+"p": "O governador de São Paulo, Tarcísio de Freitas, declarou nesta terça-feira (10) que o senador Flávio Bolsonaro tem todo o direito de figurar entre os nomes para a disputa da Presidência da República em 2030. No entanto, o chefe do Executivo paulista ponderou que o debate sobre a sucessão nacional ainda é prematuro…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tarcisio-afirma-que-flavio-bolsonaro-tem-direito-de-disputar-o-planalto-em-2030/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:40",
+"t": "Mulher é acusada de agredir filhas em condomínio na zona leste",
+"p": "PM prendeu suspeitos de tráfico de drogas Polícia Militar foi acionada após o ex-marido da acusada receber vídeos e mensagens de socorro enviados por suas filhas.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/mulher-e-acusada-de-agredir-filhas-em-condominio-na-zona-leste-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:37",
+"t": "Loja de móveis alega crise financeira e dá golpe de R$ 55 mil em cliente",
+"p": "Loja de móveis planejados de Rio Claro, no interior paulista, fechou devido a crise financeira e não cumpriu projetos já contratados",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Rio Claro"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/loja-de-moveis-alega-crise-financeira-e-da-golpe-de-r-55-mil-em-cliente",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:22",
+"t": "Azedou: polícia acha remédios ilegais em caixas de leite; suspeito é preso",
+"p": "Suspeito é dono de uma loja e foi preso em flagrante pelo crime de comércio de medicamentos sem registro administrativo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/azedou-policia-acha-remedios-ilegais-em-caixas-de-leite-suspeito-e-preso",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:12",
+"t": "Presa admite assassinato de pai de Rony",
+"p": "Divulgação As circunstâncias que levaram ao ataque ainda estão sendo apuradas pela polícia civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/presa-admite-assassinato-de-pai-de-rony/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:12",
+"t": "Câmara Municipal de Várzea Paulista vai apresentar projeto de sua nova sede",
+"p": "Foto: Divulgação/Câmara Municipal de Várzea Paulista Evento aberto à população acontece em 17 de novembro, às 19h, e apresentará a proposta arquitetônica do futuro prédio do Legislativo",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-varzea-paulista-apresenta-projeto-nova-sede/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:12",
+"t": "Hospital São Vicente alerta pacientes sobre dificuldades para agendar exames em Jundiaí",
+"p": "Foto: Divulgação/ HSV HSV, em Jundiaí, alerta sobre dificuldades no agendamento de exames por telefones desatualizados. Saiba como atualizar seus dados de contato.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-sao-vicente-jundiai-agendamento-exames/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:09",
+"t": "Flávio tem direito de disputar Presidência em 2030, diz Tarcísio após admitir possibilidade de concorrer",
+"p": "Douglas Gomes O governador Tarcísio de Freitas afirmou em entrevista que o senador Flávio Bolsonaro tem o direito de se candidatar à Presidência em 2030.",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/flavio-tem-direito-de-disputar-presidencia-em-2030-diz-tarcisio-apos-admitir-possibilidade-de-concorrer/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:05",
+"t": "Prefeitura promove ação de saúde e vacinação para atender 700 adolescentes do Camp Guarujá",
+"p": "Programação inclui palestras sobre cuidados preventivos e aplicação de vacinas, até 16 de novembro, diretamente na instituição",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/prefeitura-promove-acao-de-saude-e-vacinacao-para-atender-700-adolescentes-do-camp-guaruja.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:00",
+"t": "Porto de Santos confirma ataque hacker e diz não saber se dados foram acessados",
+"p": "Divulgação/APS Segundo empresas que operam no Porto de Santos, há lentidão no embarque e desembarque de cargas devido ao reforço dos procedimentos de segurança.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/porto-e-negocios/porto-de-santos-confirma-ataque-hacker-e-diz-nao-saber-se-dados-foram-acessados/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:00",
+"t": "Santos distribuirá 2 mil pulseirinhas gratuitas para identificação de crianças nas praias",
+"p": "Fábio Nunes/Divulgação Prefeitura de Santos Santos inicia, em 1º de dezembro, a distribuição gratuita de pulseirinhas de identificação ao longo da orla.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-distribuira-2-mil-pulseirinhas-gratuitas-para-identificacao-de-criancas-nas-praias/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:00",
+"t": "Cetesb abre concurso público com vagas em Santos",
+"p": "Divulgação/Governo de SP O Governo de São Paulo publicou nesta terça-feira (10) o edital de um novo concurso público para a Cetesb.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/cetesb-abre-concurso-publico-com-vagas-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "14:51",
 "t": "Bom Prato chega a três novas cidades hoje; veja os endereços",
 "p": "Parceria com SuperAção SP leva refeições a R$ 1 para Nova Odessa, Monte Mor e Paulínia; Elias Fausto será o próximo município a contar como o serviço em breve",
@@ -70,6 +285,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/cdhu-lanca-edital-de-recompra-de-imoveis-para-santo-andre/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:44",
+"t": "Empresa de transporte de cargas oferece 30 vagas em Ribeirão Preto; Veja como entregar currículo",
+"p": "Empresa com sede em Ribeirão Preto tem oportunidades de emprego para o cargo efetivo de auxiliar de transportes",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/empresa-de-transporte-de-cargas-oferece-30-vagas-em-ribeirao-preto-veja-como-entregar-curriculo/",
 "auto": true
 },
 {
