@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T05:59:03-03:00",
-"novos_nesta_coleta": 4,
+"atualizado": "2026-11-10T07:00:20-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,132 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-10",
+"h": "06:39",
+"t": "Obituário | Falecimentos registrados nesta terça-feira em Marília e região",
+"p": "Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta terça-feira, dia 10 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-terca-feira-em-marilia-e-regiao-7/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "06:35",
+"t": "Carreta tomba e causa 7 km de congestionamento na Raposo Tavares",
+"p": "Acidente foi na madrugada desta terça-feira (10/11), no km 25 da Rodovia Raposo Tavares (SP-270), em Cotia",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Cotia"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/carreta-tomba-e-causa-congestionamento-na-raposo-tavares",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "06:02",
+"t": "Fernandópolis promove festa em celebração aos 88 anos do bairro Brasilândia com música e gastronomia",
+"p": "A comemoração dos 88 anos do bairro Brasilândia, fundado oficialmente em 10 de novembro, terá uma programação festiva em Fernandópolis. Entre os dias 12 e 14 de novembro, a Praça São Luiz Gonzaga será a sede do evento, que reunirá atrações musicais e opções de alimentação para a comunidade local e regional.…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fernandopolis-promove-festa-em-celebracao-aos-88-anos-do-bairro-brasilandia-com-musica-e-gastronomia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "06:01",
+"t": "Ouroeste abre inscrições para o 7º Concurso Gastronômico de Pratos à Base de Mandioca",
+"p": "A Secretaria Municipal de Turismo de Ouroeste está com inscrições abertas para a 7ª edição do Concurso Gastronômico de Pratos à Base de Mandioca. A competição culinária faz parte da programação oficial do 9º Festival da Mandioca e busca valorizar os talentos locais e os sabores tradicionais da culinária regional.…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ouroeste-abre-inscricoes-para-o-7o-concurso-gastronomico-de-pratos-a-base-de-mandioca/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "06:01",
+"t": "Rodovia Euclides da Cunha conquista 3º lugar no ranking nacional da Pesquisa CNT de Rodovias 2026",
+"p": "A Rodovia Euclides da Cunha (SP-320), via fundamental para o escoamento de produção e deslocamento de moradores na região, foi eleita a terceira melhor rodovia do Brasil no ranking da Pesquisa CNT de Rodovias 2026, promovida pela Confederação Nacional do Transporte. No âmbito estadual, o trecho compreendido entre…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Cunha"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/rodovia-euclides-da-cunha-conquista-3o-lugar-no-ranking-nacional-da-pesquisa-cnt-de-rodovias-2026/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "06:01",
+"t": "Representantes da Saúde de Duas Pontes participam de seminário sobre regionalização do SUS em SP",
+"p": "A secretária municipal de Saúde e uma enfermeira da Unidade Básica de Saúde (UBS) participaram, nos dias 3 e 4 de novembro, do seminário “Regionalização, Governança e Sustentabilidade do SUS: Reduzindo as Distâncias e Ampliando o Acesso à Saúde em São Paulo”. O evento foi realizado na capital paulista e reuniu…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/representantes-da-saude-de-duas-pontes-participam-de-seminario-sobre-regionalizacao-do-sus-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "06:01",
+"t": "Prefeitura de Macedônia implementa projeto Balcão Térmico e renova equipamentos da merenda escolar",
+"p": "A Secretaria Municipal de Educação de Macedônia anunciou a implantação do projeto “Sirva-se Bem” nas unidades da rede municipal de ensino, acompanhada da entrega de novos equipamentos para o setor de merenda escolar. A iniciativa foi adotada no Cemei José Marques de Toledo, na modalidade pré-escola, e na EMEF…",
+"tema": "Educação",
+"s": "entregue",
+"c": [
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-macedonia-implementa-projeto-balcao-termico-e-renova-equipamentos-da-merenda-escolar/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "06:01",
+"t": "Secretaria de Educação de Jales promove Seminário de Boas Práticas da Educação Infantil",
+"p": "A Secretaria Municipal de Educação de Jales sediou, no último dia 5 de novembro, o Seminário de Boas Práticas da Educação Infantil – Pré-Escola. O evento marcou o encerramento do ciclo de formação continuada promovido ao longo de 2026 com os profissionais da rede pública municipal de ensino. A capacitação foi…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/secretaria-de-educacao-de-jales-promove-seminario-de-boas-praticas-da-educacao-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "05:34",
+"t": "Saúde de Diadema segue sem os R$ 24 mi prometidos pelo Estado",
+"p": "Prefeitura diz ter adotado soluções internas para garantir atendimento; governo paulista afirma que solicitou informações complementares",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367827/saude-de-diadema-segue-sem-os-rs-24-mi-prometidos-pelo-estado",
+"auto": true
+},
 {
 "d": "2026-11-10",
 "h": "05:31",
@@ -13888,6 +14014,104 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67718",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Ratifica convênio celebrado nos termos da Lei Complementar federal nº 24, de 7 de janeiro de 1975.",
+"p": "Decreto estadual nº 70.961, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Investimentos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.961",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213081",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando o levantamento do Balanço Geral do Estado do exercício de 2026 e dá prov…",
+"p": "Decreto estadual nº 70.959, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.959",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213090",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2027, o percentual de desconto para pagamento integral e dá outras providên…",
+"p": "Decreto estadual nº 70.960, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.960",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213080",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Dispõe sobre a gratuidade no sistema metropolitano de transportes públicos de passageiros das Regiões Metropolitanas do Estado de São Paulo nas datas de 8 e 15 de novembro de 2026.",
+"p": "Decreto estadual nº 70.958, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.958",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213089",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Dispõe sobre a classificação institucional da Secretaria de Meio Ambiente, Infraestrutura e Logística nos Sistemas de Administração Financeira e Orçamentária do Estado e dá providências correlatas.",
+"p": "Decreto estadual nº 70.962, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.962",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213082",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
+"p": "Decreto estadual nº 70.963, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
+"tema": "Decretos",
+"s": "decreto",
+"org": "Estado",
+"num": "Decreto nº 70.963",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213083",
+"auto": true
+},
+{
+"d": "2026-11-06",
+"h": "00:00",
+"t": "5 decretos de crédito suplementar no Orçamento do Estado (06/11)",
+"p": "Reforço de verbas (crédito suplementar) para: Instituto de Pesquisas Tecnológicas Estadual - IPT; Secretaria de Meio Ambiente; Secretaria da Saúde; Centro Estatual de Educação Tecnológica Paula Souza - CEETEPS; Secretaria de Parcerias em Investimentos. Decretos nº 70.964, 70.965, 70.966, 70.967, 70.968.",
+"tema": "Contas públicas",
+"s": "decreto",
+"org": "Estado",
+"num": "Nº 70.964 a 70.968",
+"c": [],
+"src": "Diário Oficial (via Alesp)",
+"u": "https://www.al.sp.gov.br/norma/213084",
 "auto": true
 },
 {
