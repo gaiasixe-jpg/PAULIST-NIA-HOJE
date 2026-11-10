@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T23:12:17-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-09T23:57:12-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,32 @@
 "itens": [
 {
 "d": "2026-11-09",
+"h": "23:48",
+"t": "Pela 1ª vez, eleição dos Conselhos Participativos Municipais será online",
+"p": "Conselhos Participativos Municipais representam a população nas 32 Subprefeituras de São Paulo. Saiba como votar",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pela-1a-vez-eleicao-dos-conselhos-participativos-municipais-sera-online",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "22:55",
+"t": "O truque simples de 5 minutos recomendado por especialistas que ajuda a acabar com a umidade e previne o aparecimento de mofo dentro de casa",
+"p": "Mofo, manchas nas paredes, mau cheiro e condensação nas janelas são problemas comuns em muitas casas, especialmente durante períodos de chuva e temperaturas mais baixas. No entanto, um hábito simples, que leva apenas cinco minutos, pode ajudar a reduzir a umidade acumulada nos ambientes e prevenir o aparecimento de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/o-truque-simples-de-5-minutos-recomendado-por-especialistas-que-ajuda-a-acabar-com-a-umidade-e-previne-o-aparecimento-de-mofo-dentro-de-casa/",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "22:39",
 "t": "Vereadores pedem convocação de chefe de gabinete da Prefeitura de Rio Preto",
 "p": "Grupo quer informações sobre atividades, resultados e custos dos cargos de assessores especiais da Prefeitura",
@@ -73,6 +99,18 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/ladrao-furta-dinheiro-e-celular-de-casa-tenta-se-esconder-em-hospital-e-e-preso/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "22:31",
+"t": "Árvore gigante de mais de 200 anos e 17 metros de altura na Riviera Francesa vira finalista em concurso de Árvore do Ano e mobiliza votação",
+"p": "Uma árvore com mais de dois séculos de história disputa o título de Árvore do Ano 2026 na França. O ficus (Ficus macrophylla) de Beaulieu-sur-Mer, na Riviera Francesa, foi selecionado como representante da região de Provence-Alpes-Côte d’Azur (PACA) no concurso nacional L’Arbre de l’Année. Com 17 metros de altura e…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/arvore-gigante-de-mais-de-200-anos-e-17-metros-de-altura-na-riviera-francesa-vira-finalista-em-concurso-de-arvore-do-ano-e-mobiliza-votacao/",
 "auto": true
 },
 {
