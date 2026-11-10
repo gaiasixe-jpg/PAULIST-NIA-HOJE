@@ -3,6 +3,236 @@
 "itens": [
 {
 "d": "2026-11-10",
+"h": "14:51",
+"t": "Bom Prato chega a três novas cidades hoje; veja os endereços",
+"p": "Parceria com SuperAção SP leva refeições a R$ 1 para Nova Odessa, Monte Mor e Paulínia; Elias Fausto será o próximo município a contar como o serviço em breve",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Nova Odessa",
+"Monte Mor",
+"Paulínia"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/bom-prato-chega-a-tres-novas-cidades-hoje-veja-os-enderecos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:49",
+"t": "Mogi das Cruzes recebe espetáculo musical inspirado em obra de Machado de Assis",
+"p": "Peça estrelada por Marcos Damigo terá sessões gratuitas em Mogi; ingressos devem ser retirados pela internet",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Assis"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/mogi-das-cruzes-recebe-espetaculo-musical-inspirado-em-obra-de-machado-de-assis/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:45",
+"t": "Provão Paulista abre escolha de cursos para vagas em SP",
+"p": "Candidatos da 3ª série do ensino médio têm até 27 de novembro para indicar até quatro opções e concorrer a 15,8 mil vagas no ensino superior.",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/provao-paulista-confira-as-proximas-etapas-para-os-candidatos-as-158-mil-vagas-na-usp-unesp-unicamp-e-fatecs/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:45",
+"t": "Prodesp apresenta ferramentas digitais em Águas de São Pedro",
+"p": "Encontro AMPPESP Fomenta 2026 reúne prefeitos e gestores públicos para discutir modernização administrativa e inovação em municípios.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Águas de São Pedro"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prodesp-apresenta-solucoes-digitais-para-modernizar-servicos-e-processos-municipais/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:44",
+"t": "CDHU abre recompra de até 200 imóveis em Santo André",
+"p": "Medida atende mutuários do Conjunto Habitacional Santo André A com contratos de pelo menos 18 meses, mesmo inadimplentes.",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/cdhu-lanca-edital-de-recompra-de-imoveis-para-santo-andre/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:40",
+"t": "Unifef abre cadastro reserva para contratação de professores de Enfermagem em Fernandópolis",
+"p": "O Centro Universitário de Fernandópolis abriu processo seletivo para a formação de cadastro reserva de professores. A oportunidade é destinada ao curso de Enfermagem, vinculado ao Centro de Ciências da Saúde e Qualidade de Vida da instituição, conforme estabelecido no Edital nº 21/2026. Os profissionais…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/unifef-abre-cadastro-reserva-para-contratacao-de-professores-de-enfermagem-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:38",
+"t": "Caso Dark Horse: Prefeitura fará nova licitação para pontos de wi-fi em SP",
+"p": "Contrato foi unilateralmente cancelado nesta semana; ONG responsável pelo serviço é de produtora do filme Dark Horse",
+"tema": "Política",
+"s": "obra",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/caso-dark-horse-prefeitura-fara-nova-licitacao-para-pontos-de-wi-fi-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:35",
+"t": "Projeto para visitas a sítio arqueológico na Liberdade tem obras iniciadas",
+"p": "Terreno na região da Liberdade receberá o Memorial dos Aflitos para preservar o patrimônio cultural de matriz africana e indígena na região",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/projeto-para-visitas-a-sitio-arqueologico-na-liberdade-tem-obras-iniciadas",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:29",
+"t": "Comerciante é morto a tiros durante encontro com amigo para discutir dívida",
+"p": "Câmera de segurança flagrou momento em que homem com máscara branca se aproxima de comerciante e atira contra ele",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/comerciante-e-morto-a-tiros-durante-encontro-com-amigo-para-discutir-divida",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:23",
+"t": "Governo Lula adia decreto sobre fim da escala 6×1 após viagem do presidente à Ásia",
+"p": "O governo federal adiou a publicação do decreto que regulamenta o fim da escala de trabalho 6×1. A medida, que estava prevista para esta segunda-feira (9), deverá ser divulgada somente após o retorno do presidente Luiz Inácio Lula da Silva (PT) de uma viagem internacional à Turquia e às Filipinas. A previsão é que…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/governo-lula-adia-decreto-sobre-fim-da-escala-6x1-apos-viagem-do-presidente-a-asia/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-10",
+"h": "14:23",
+"t": "Clientes mobilizam protesto contra a Hadassa Viagens; empresa justifica adiamentos",
+"p": "Consumidores questionam viagens não realizadas e reembolsos; Hadassa afirma priorizar a segurança dos passageiros.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/clientes-mobilizam-protesto-contra-a-hadassa-viagens-empresa-justifica-adiamentos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:20",
+"t": "Motorista morto a tiros dentro de carro esteve envolvido em briga com esfaqueamento dois dias antes",
+"p": "O motorista Hamilton César Fresneda Peres, de 51 anos, encontrado morto a tiros dentro de seu veículo na manhã da última segunda-feira (9), em São José do Rio Preto, havia se envolvido em uma briga generalizada no sábado (7) que deixou três pessoas feridas a facadas. A Polícia Civil apura a relação entre os dois […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motorista-morto-a-tiros-dentro-de-carro-esteve-envolvido-em-briga-com-esfaqueamento-dois-dias-antes/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:19",
+"t": "Taylor Swift completa 9 anos de Reputation, álbum que vendeu 1,216 milhão de cópias na estreia e marcou uma nova fase de sua carreira",
+"p": "Em 10 de novembro de 2026, duas datas importantes da carreira de Taylor Alison Swift se encontram no calendário. O álbum Reputation completa nove anos de lançamento, enquanto Blank Space chega aos 12 anos de sua data de lançamento como single nos Estados Unidos. Separadas por três anos, as duas obras alcançaram o…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/taylor-swift-completa-9-anos-de-reputation-album-que-vendeu-1216-milhao-de-copias-na-estreia-e-marcou-uma-nova-fase-de-sua-carreira/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:19",
+"t": "Decisão inédita obriga governo federal a pagar seguro-desemprego a trabalhadores resgatados",
+"p": "Decisão inédita no interior de SP supera veto do governo e assegura três parcelas do benefício a grupo que atuava no corte de cana",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/decisao-inedita-obriga-governo-federal-a-pagar-seguro-desemprego-a-trabalhadores-resgatados/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:18",
+"t": "Mototaxista é preso em flagrante com CNH digital falsa durante abordagem",
+"p": "Um mototaxista de 30 anos foi preso em flagrante pela Polícia Militar na madrugada desta terça-feira (10), no bairro Nova Esperança, em São José do Rio Preto, após apresentar um documento falso durante uma fiscalização. O suspeito utilizava uma Carteira Nacional de Habilitação (CNH) digital fraudulenta instalada no…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mototaxista-e-preso-em-flagrante-com-cnh-digital-falsa-durante-abordagem/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:08",
+"t": "O que vai acontecer com os 50 cães encontrados trancados em uma casa?",
+"p": "Polícia Militar encontrou animais trancados dentro de casa após ser acionada para atender a um desentendimento familiar",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/o-que-vai-acontecer-com-os-50-caes-encontrados-trancados-em-uma-casa/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "14:00",
+"t": "Ex-presidente da Câmara de SP é denunciado por suposto controle de empresa ligada ao PCC",
+"p": "O Ministério Público de São Paulo (MPSP) denunciou o ex-presidente da Câmara Municipal Milton Leite, por suspeita de favorecer os interesses do Primeiro Comando da Capital (PCC) no transporte público da capital paulista. A acusação foi apresentada nesta segunda-feira (9/11). Milton usou influencia para beneficiar…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/policia/ex-presidente-da-camara-de-sp-e-denunciado-por-suposto-controle-de-empresa-ligada-ao-pcc/",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "13:58",
 "t": "Campinas aumenta prazo para o cadastro de blocos para o Carnaval de Rua 2027",
 "p": "Representantes dos blocos de Carnaval têm até 15 de novembro para fazer o cadastro; atividades não inscritas ficarão fora da programação oficial da festa",
@@ -27,6 +257,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/bertioga/projeto-bertioga-em-movimento-promove-clinica-gratuita-sobre-fortalecimento-para-corredores-na-quinta-12.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "13:55",
+"t": "Você não deve tomar banho durante chuvas fortes segundo a Defesa Civil; veja motivo",
+"p": "Tomar banho durante uma tempestade com raios não é recomendado. O hábito aparentemente inofensivo pode provocar choques elétricos caso uma descarga atmosférica atinja a rede de energia ou instalações próximas à residência. Por isso, a Defesa Civil orienta que a população evite usar o chuveiro e até mesmo torneiras…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/voce-nao-deve-tomar-banho-durante-chuvas-fortes-segundo-a-defesa-civil-veja-motivo/",
 "auto": true
 },
 {
@@ -59,6 +301,32 @@
 },
 {
 "d": "2026-11-10",
+"h": "13:46",
+"t": "Revolta da Vacina deixou 30 mortos e 945 presos no Rio de Janeiro, mas um detalhe pouco lembrado impressiona: 461 pessoas foram deportadas",
+"p": "Em novembro de 1904, ruas do Rio de Janeiro foram tomadas por barricadas, confrontos e uma repressão que terminou com mortos, feridos, presos e centenas de pessoas deportadas. O episódio entrou para a história como Revolta da Vacina, mas a dimensão da crise ultrapassou a resistência à vacinação obrigatória.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/revolta-da-vacina-deixou-30-mortos-e-945-presos-no-rio-de-janeiro-mas-um-detalhe-pouco-lembrado-impressiona-461-pessoas-foram-deportadas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "13:46",
+"t": "Câmara de Santo André aprova LOA de 2027 em primeira votação",
+"p": "Projeto recebeu 23 votos favoráveis durante sessão desta terça-feira",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367919/camara-de-santo-andre-aprova-loa-de-2027-em-primeira-votacao",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "13:44",
 "t": "Mogi-Bertioga tem interdição parcial em trecho de Bertioga nesta terça-feira (10)",
 "p": "Obras afetam segmento entre os quilômetros 75 e 92; demais pontos monitorados apresentam tráfego normal no início da tarde",
@@ -69,6 +337,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicao-parcial-em-trecho-de-bertioga-nesta-terca-feira-10.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "13:44",
+"t": "Polícia investiga homem que gravou vídeo com Fernando Henrique Cardoso",
+"p": "A Polícia Civil de São Paulo abriu investigação contra um homem que entrou no apartamento do ex-presidente da República Fernando Henrique Cardoso e divulgou imagens do imóvel e do próprio ex-presidente, de 95 anos, com a saúde fragilizada. O caso é apurado com base nas determinações do Estatuto da Pessoa Idosa. O…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/policia-investiga-homem-que-gravou-video-com-fernando-henrique-cardoso",
 "auto": true
 },
 {
@@ -97,6 +379,21 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/atrasos-e-cobrancas-poem-servicos-essenciais-sob-pressao-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "13:41",
+"t": "Zona Azul começa em Guarujá nesta quinta; veja praias e regiões que terão cobrança",
+"p": "O sistema de estacionamento rotativo de Guarujá, conhecido como Zona Azul, começa a funcionar de forma experimental na próxima quinta- feira (12). A implantação do projeto Roda Guarujá prevê vagas em regiões comerciais e turísticas do município, incluindo áreas próximas a cinco praias: Enseada, Pitangueiras,…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Pitangueiras",
+"Guarujá"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/zona-azul-comeca-em-guaruja-nesta-quinta-veja-praias-e-regioes-que-terao-cobranca/",
 "auto": true
 },
 {
@@ -149,6 +446,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/homem-e-condenado-por-furtar-equipamentos-de-clinica-medica-em-rio-preto-coautor-e-absolvido/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "13:32",
+"t": "É claro que Flávio Bolsonaro Tem direito de ser candidato em 2030, diz Tarcísio",
+"p": "",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367915/e-claro-que-flavio-bolsonaro-tem-direito-de-ser-candidato-em-2030-diz-tarcisio",
 "auto": true
 },
 {
@@ -257,6 +566,18 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/economia/cetesb-abre-concurso-publico-com-107-vagas-de-emrego-veja-areas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "13:00",
+"t": "Justiça de SP nega pedido de associações para proibir venda online de pets",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367911/justica-de-sp-nega-pedido-de-associacoes-para-proibir-venda-online-de-pets",
 "auto": true
 },
 {
