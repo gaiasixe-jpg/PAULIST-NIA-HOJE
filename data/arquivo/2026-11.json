@@ -3,6 +3,60 @@
 "itens": [
 {
 "d": "2026-11-10",
+"h": "04:00",
+"t": "Resumo de ‘Quem Ama Cuida’ desta terça-feira: Tom e Elenice se separam, enquanto Fábia e Ademir são descobertos",
+"p": "A novela ‘Quem Ama Cuida’ desta terça-feira (10/11) terá Pilar (Isabel Teixeira) dizendo a Pedro (Chay Suede) que Tom (Allan Souza Lima) está prestando serviços em sua casa e fingindo não saber que Tom estava sendo procurado. Adriana (Letícia Colin) decide não denunciar Ulisses (Alexandre Borges), por amor a Mau…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-quem-ama-cuida-desta-terca-feira-tom-e-elenice-se-separam-enquanto-fabia-e-ademir-sao-descobertos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "03:29",
+"t": "Fernandópolis notifica imóveis após georreferenciamento",
+"p": "Levantamento encontrou 1,7 mil lotes com obras e 9,5 mil ampliações não declaradas; prazo de recurso é de 30 dias no Poupatempo.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-fernandopolis-realiza-coletiva-para-esclarecer-atualizacao-do-cadastro-imobiliario-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "03:29",
+"t": "Segurança é ferido com barra de ferro em Araçatuba",
+"p": "Vítima de 58 anos tentou impedir furto de fios e ferragens; suspeito de 46 anos foi contido pela PM com taser e preso em flagrante.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/seguranca-de-supermercado-e-agredido-com-barra-de-ferro-durante-tentativa-de-furto/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "03:29",
+"t": "Mulher é detida em Fernandópolis após tumulto no trânsito",
+"p": "Condutora estacionou picape de forma irregular, recusou o teste do bafômetro e teve o veículo apreendido pela Polícia Militar",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-recusa-teste-do-bafometro-e-e-detida-pela-policia-militar-no-centro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "02:59",
 "t": "Rio Preto efetiva Ailto Catelan como secretário de Habitação",
 "p": "Gestor ocupava o posto interinamente desde agosto, após a saída de Jorge Menezes, e agora assume o comando definitivo da pasta",
