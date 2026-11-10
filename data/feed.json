@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T07:00:20-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-10T08:56:16-03:00",
+"novos_nesta_coleta": 25,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,8 +29,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -44,9 +43,353 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "The read operation timed out | The read operation timed out | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-10",
+"h": "08:56",
+"t": "Prefeitura de SP anuncia obra e abrirá visitação a sítio arqueológico da Liberdade após denúncia",
+"p": "Reprodução/Gabriele Pereira/Secretaria Municipal de Cultura e Economia Criativa Oito anos após a descoberta de ossadas possivelmente do antigo Cemitério dos Aflitos, a Prefeitura de São Paulo anunciou no domingo",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/prefeitura-de-sp-anuncia-obra-e-abrira-visitacao-a-sitio-arqueologico-da-liberdade-apos-denuncia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:50",
+"t": "Justiça suspende regra que ampliou aceitação de VR e VA em maquininhas",
+"p": "A Justiça Federal determinou na segunda-feira (9) a suspensão das novas regras editadas pelo governo federal para ampliar a aceitação de cartões de vale-refeição (VR) e vale-alimentação (VA) no comércio.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/justica-suspende-regra-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:50",
+"t": "Loja recém-inaugurada é invadida e furtada na Avenida dos Arnaldos em Fernandópolis",
+"p": "Uma loja de mercadorias variadas, inaugurada recentemente na Avenida dos Arnaldos, localizada no andar térreo do edifício Quarta Avenida, no centro de Fernandópolis, foi alvo de furto na madrugada desta terça-feira (10). A ação criminosa envolveu dois homens e foi registrada por câmeras de segurança do…",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/loja-recem-inaugurada-e-invadida-e-furtada-na-avenida-dos-arnaldos-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:48",
+"t": "Jundiaí começa terça-feira (10) com frio e previsão de chuva, mas temperaturas podem subir",
+"p": "Foto: Prefeitura de Jundiaí Terça-feira (10) terá temperaturas entre 12°C e 23°C, com sol entre nuvens; previsão indica retorno da chuva na quarta-feira (11).",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-frio-chuva-temperaturas-sobem/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:46",
+"t": "Ministério dos Transportes cancela homologação do pedágio free flow no Rodoanel, em SP",
+"p": "Reprodução/Wildes Barbosa O MT (Ministério dos Transportes) decidiu cancelar a homologação do pedágio free flow usado no trecho norte do Rodoanel de São Paulo.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/ministerio-dos-transportes-cancela-homologacao-do-pedagio-free-flow-no-rodoanel-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:46",
+"t": "Moradora de Jales divide prêmio de R$ 800 mil no sorteio do Saúde Cap",
+"p": "Uma moradora de Jales, identificada como Marli, é uma das três contempladas no quarto sorteio do Saúde Cap realizado no último domingo (8). A vencedora dividirá o prêmio principal de R$ 800 mil com outros dois ganhadores, moradores dos municípios de Catanduva e São José do Rio Preto, cabendo a cada um o valor…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Catanduva",
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/moradora-de-jales-divide-premio-de-r-800-mil-no-sorteio-do-saude-cap/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:43",
+"t": "Ecovias Noroeste Paulista programa obras e alterações no tráfego em rodovias da região nesta semana",
+"p": "A concessionária Ecovias Noroeste Paulista iniciou um cronograma de intervenções, obras de ampliação e serviços de conservação em diversas rodovias do interior paulista, com programação prevista entre esta segunda-feira (9) e o próximo domingo (15). Os trabalhos envolvem melhorias no pavimento, sinalização e…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ecovias-noroeste-paulista-programa-obras-e-alteracoes-no-trafego-em-rodovias-da-regiao-nesta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:40",
+"t": "Prefeitura de Guarani d’Oeste inicia oficinas gratuitas de artes circenses e dança para jovens",
+"p": "A Prefeitura Municipal de Guarani d’Oeste deu início às aulas de Artes Circenses e Dança voltadas para crianças e adolescentes com idades entre 7 e 14 anos. As atividades são desenvolvidas por meio do Serviço de Convivência e Fortalecimento de Vínculos (SCFV) do município e oferecidas de forma totalmente gratuita à…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Guarani d'Oeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-guarani-doeste-inicia-oficinas-gratuitas-de-artes-circenses-e-danca-para-jovens/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:37",
+"t": "Siga Fácil: prazo para anular multas termina na segunda em SP",
+"p": "Condutores que quitarem débitos de pedágio eletrônico podem reaver valores ou cancelar penalidades de R$ 195,23 e 5 pontos na CNH.",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/siga-facil-veja-perguntas-e-respostas-sobre-o-prazo-para-regularizar-o-pagamento-de-tarifas-e-pedir-restituicao-de-multas-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:37",
+"t": "TJSP autoriza repasse de créditos da Comgás a usuários em SP",
+"p": "Decisão unânime acolhe recurso da Arsesp e da PGE-SP sobre valores decorrentes da exclusão do ICMS da base do PIS e da Cofins.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-acolhe-recurso-da-arsesp-e-da-pge-sp-para-garantir-beneficios-tributarios-aos-consumidores-de-gas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:37",
+"t": "Cetesb abre concurso com vagas para Rio Preto e região",
+"p": "Seleção reúne 107 oportunidades no estado, com aplicação de provas em Araçatuba e Rio Preto; inscrições começam no dia 12 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Araçatuba",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-lanca-concurso-publico-para-a-cetesb-com-107-vagas-em-12-regioes-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:37",
+"t": "Ouroeste promove 8º Festival da Mandioca com entrada gratuita e atrações musicais",
+"p": "O município de Ouroeste realiza, nos dias 13 e 14 de novembro, a 8ª edição do Festival da Mandioca. O evento cultural e gastronômico reúne culinária típica, música e tradição local no Centro de Eventos José Nubiato Filho, com abertura dos portões programada para as 19h e entrada totalmente gratuita para o público.…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ouroeste-promove-8o-festival-da-mandioca-com-entrada-gratuita-e-atracoes-musicais/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:36",
+"t": "Poupatempo em SP libera confirmação de presença pelo celular",
+"p": "Cidadãos podem fazer check-in por QR Code e retirar senha no aparelho, diminuindo a espera nas recepções dos postos paulistas.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/poupatempo-permite-confirmar-chegada-e-receber-senha-pelo-celular/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:36",
+"t": "São João das Duas Pontes apresenta projetos pedagógicos na 3ª Mostra do Alfabetiza Juntos SP",
+"p": "A rede municipal de ensino de São João das Duas Pontes marcou presença na 3ª Mostra de Boas Práticas do Programa Alfabetiza Juntos SP, realizada no dia 5 de novembro, no município de Araçatuba. O encontro regional reuniu educadores e gestores para a troca de experiências voltadas ao fortalecimento da aprendizagem e…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São João das Duas Pontes",
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/sao-joao-das-duas-pontes-apresenta-projetos-pedagogicos-na-3a-mostra-do-alfabetiza-juntos-sp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:20",
+"t": "Lotofácil 3825 premia 40 apostas de SP, mas prêmio de R$ 1,6 milhão vai para sortudo do Paraná",
+"p": "O concurso 3.825 da Lotofácil premiou 40 apostas do estado de São Paulo na noite da última segunda-feira (9). Apesar da festa paulista, nenhuma delas levou o prêmio máximo, que ficou com um apostador de Francisco Beltrão (PR). Ele faturou R$ 1.622.768,40. Agora, a Lotofácil volta a dar as caras nesta terça-feira…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/lotofacil-3825-premia-40-apostas-de-sp-mas-premio-de-r-16-milhao-vai-para-sortudo-do-parana/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:16",
+"t": "MPSP denuncia Milton Leite e mais 14 pessoas por suposto elo com o PCC",
+"p": "MPSP pede também abertura de nova investigação para apurar crime de lavagem de dinheiro praticado pelo ex-vereador Milton Leite",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-denuncia-milton-leite-e-mais-14-pessoas-por-suposto-elo-com-o-pcc",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:12",
+"t": "Estudante é presa por suspeita de usar IA para fazer consulta pelo celular em prova do Enem",
+"p": "Uma estudante de 18 anos foi presa no domingo (8) em Araçatuba, no interior de São Paulo, por suspeita de fraudar o Exame Nacional do Ensino Médio (Enem) ao usar uma ferramenta de Inteligência Artificial (IA) para fazer uma consulta pelo celular. A suspeita começou quando os fiscais da sala em que a jovem estava […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/estudante-e-presa-por-suspeita-de-usar-ia-para-fazer-consulta-pelo-celular-em-prova-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:10",
+"t": "Neymar torna-se protagonista da eleição do Santos; entenda o motivo",
+"p": "Raul Baretta / Santos O jogador e seu estafe optaram por não interferir na disputa eleitoral, mas o novo cargo do seu pai gera rumores",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/neymar-torna-se-protagonista-da-eleicao-do-santos-entenda-o-motivo/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:08",
+"t": "Após discutir com o companheiro, mulher é arrastada por carro e perde quatro dentes",
+"p": "Uma mulher de 25 anos perdeu quatro dentes e sofreu escoriações pelo corpo após ser arrastada por um carro pela rua, durante discussão com o companheiro, em Rancharia (SP), na madrugada deste domingo (8). O homem, de 28 anos, foi preso suspeito de violência doméstica. De acordo com a Polícia Civil, a vítima relatou…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Rancharia"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/apos-discutir-com-o-companheiro-mulher-e-arrastada-por-carro-e-perde-quatro-dentes/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:00",
+"t": "Campinas terá manhã de frio e amplitude térmica nesta terça-feira; veja previsão",
+"p": "Depois de dias de frio com temperaturas mais baixas, termômetros voltam a subir e podem chegar aos 25 °C; probabilidade de chuva é de 63%",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tera-manha-de-frio-e-amplitude-termica-nesta-terca-feira-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "07:59",
+"t": "Apreensões de folhas de coca ultrapassam 3,5 toneladas no Oeste Paulista em 2026, 23 foram presos",
+"p": "As fiscalizações da Polícia Militar Rodoviária resultaram na apreensão de mais de 3,5 toneladas de folhas de coca in natura em rodovias do Oeste Paulista ao longo de 2026. O balanço oficial divulgado pela corporação aponta que as cargas foram interceptadas em 12 ocorrências distintas, culminando na prisão em…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Dracena"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/apreensoes-de-folhas-de-coca-ultrapassam-35-toneladas-no-oeste-paulista-em-2026-23-foram-presos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "07:53",
+"t": "Produtora de Dark Horse enviou mensagem a Nunes após 2º turno das eleições",
+"p": "Contrato de ONG de Karina Gama com Prefeitura de SP foi cancelado nessa segunda (9/11); carta pedia \"apoio humanitário\" após medidas do STF",
+"tema": "Eleições",
+"s": "obra",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/produtora-de-dark-horse-enviou-mensagem-apos-2o-turno-das-eleicoes",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "07:47",
+"t": "Resultados das loterias de segunda-feira (09/11): Lotofácil, Quina, Dupla Sena e mais",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Confira os concursos da Lotofácil, Quina, Lotomania, Dupla Sena, Dia de Sorte, Super Sete e Loteca apurados em 9 de novembro de 2026.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultados-loterias-9-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "07:33",
+"t": "No meio do Atlântico, cientistas brasileiros ganharam um abrigo de emergência feito com materiais especiais para resistir à maresia, aos ventos e aos tremores",
+"p": "A professora de arquitetura e urbanismo que coordena a obra da nova estação científica no Arquipélago de São Pedro e São Paulo, conjunto de rochedos brasileiros no meio do Oceano Atlântico a cerca de mil quilômetros do litoral do Rio Grande do Norte, concluiu o abrigo de emergência destinado a proteger pessoas,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Pedro"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/no-meio-do-atlantico-cientistas-brasileiros-ganharam-um-abrigo-de-emergencia-feito-com-materiais-especiais-para-resistir-a-maresia-aos-ventos-e-aos-tremores/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "07:02",
+"t": "Mega-Sena sorteia prêmio de R$ 3,5 milhões nesta terça-feira",
+"p": "A Mega-Sena sorteia nesta terça-feira (10) prêmio estimado em R$ 3,5 milhões. As seis dezenas do concurso 3.084 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) em casas lotéricas credenciadas pela Caixa em todo o…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-35-milhoes-nesta-terca-feira",
+"auto": true
+},
 {
 "d": "2026-11-10",
 "h": "06:39",
