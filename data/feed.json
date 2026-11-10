@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T11:20:31-03:00",
-"novos_nesta_coleta": 27,
+"atualizado": "2026-11-10T12:55:41-03:00",
+"novos_nesta_coleta": 37,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,501 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-10",
+"h": "12:50",
+"t": "Concurso público em SP abre 190 vagas com salário de até R$ 12 mil",
+"p": "Vagas abertas no concurso público exigem ensino superior e pagam até R$ 12.070, além de R$ 55/dia de refeição; provas acontecem em janeiro",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/concurso-publico-sp-abre-190-vagas-com-salario-de-ate-r-12-mil/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:50",
+"t": "Fundo Social de SP realiza terceira etapa de distribuição de cestas básicas para os 645 municípios paulistas",
+"p": "O Fundo Social de São Paulo deu início à terceira etapa de distribuição de cestas básicas de 2026, com a previsão de entregar 183.805 unidades de mantimentos às redes municipais de assistência social em todas as 645 cidades do estado. O volume de alimentos foi dimensionado para atender famílias de aproximadamente…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fundo-social-de-sp-realiza-terceira-etapa-de-distribuicao-de-cestas-basicas-para-os-645-municipios-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:49",
+"t": "Polícia Militar de SP abre concurso com 2 mil vagas para soldado com salário de R$ 5,5 mil",
+"p": "A Polícia Militar do Estado de São Paulo (PMSP) lançou um novo concurso público com a oferta de 2 mil vagas para o cargo de aluno-soldado do Quadro de Praças, voltado para candidatos do sexo masculino e feminino. A oportunidade exige nível médio completo de escolaridade e oferece remuneração básica inicial de R$…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-de-sp-abre-concurso-com-2-mil-vagas-para-soldado-com-salario-de-r-55-mil/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:47",
+"t": "Governo de SP amplia painel de dados da economia criativa para todos os municípios paulistas",
+"p": "O Governo do Estado de São Paulo, por meio da Secretaria da Cultura, Economia e Indústria Criativas e em parceria com a Fundação Seade, expandiu a cobertura do Panorama Territorial da Economia Criativa Paulista. A ferramenta interativa, que antes reunia apenas informações sobre a capital, agora apresenta dados…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Panorama"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-amplia-painel-de-dados-da-economia-criativa-para-todos-os-municipios-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:44",
+"t": "SP Águas abre concurso público com 190 vagas de nível superior e salários de até R$ 12 mil",
+"p": "A Agência de Águas do Estado de São Paulo (SP Águas), vinculada à Secretaria de Meio Ambiente, Infraestrutura e Logística (Semil), publicou nesta terça-feira (10) o edital do seu primeiro concurso público. A seleção oferece 190 vagas para cargos permanentes de nível superior, com salários iniciais variando entre R$…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/sp-aguas-abre-concurso-publico-com-190-vagas-de-nivel-superior-e-salarios-de-ate-r-12-mil/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:41",
+"t": "Justiça suspende regra que ampliou aceitação de VR e VA em maquininhas",
+"p": "Com a decisão, voltam a valer as normas antigas, que restringem o número de maquinas de cartão que aceitam o VR e o VA; a decisão é provisória e pode ser contestada pela União",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/justica-suspende-regra-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:37",
+"t": "Prefeitura de Fernandópolis intensifica instalação de ar-condicionado nas escolas municipais",
+"p": "Com a chegada das altas temperaturas na região, a Prefeitura de Fernandópolis intensificou o cronograma de climatização das unidades da rede municipal de ensino. A medida visa garantir um ambiente mais confortável para o aprendizado de alunos e profissionais da educação. Nesta nova etapa dos trabalhos, a…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-intensifica-instalacao-de-ar-condicionado-nas-escolas-municipais/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:34",
+"t": "Campanha em Mira Estrela arrecada leite para o Lar São Vicente de Paulo de Cardoso",
+"p": "A Sociedade de São Vicente de Paulo, em parceria com o Fundo Social de Solidariedade e a Secretaria Municipal de Assistência Social de Mira Estrela, lançou uma campanha de arrecadação de leite em prol dos idosos atendidos pelo Lar São Vicente de Paulo, localizado no município vizinho de Cardoso. As doações podem…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Mira Estrela",
+"São Vicente",
+"Cardoso"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/campanha-em-mira-estrela-arrecada-leite-para-o-lar-sao-vicente-de-paulo-de-cardoso/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:33",
+"t": "Guarani d’Oeste participa de seminário sobre leitura e escrita na educação infantil em São Carlos",
+"p": "Representantes do setor educacional do município de Guarani d’Oeste participaram, no último dia 7 de novembro, do Seminário Final do Programa Leitura e Escrita na Educação Infantil (ProLEEI/CNCA), realizado na cidade de São Carlos, no interior paulista. O evento foi promovido pela Universidade Federal de São Carlos…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guarani d'Oeste",
+"São Carlos"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/guarani-doeste-participa-de-seminario-sobre-leitura-e-escrita-na-educacao-infantil-em-sao-carlos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:17",
+"t": "Reforma do calçadão da 13 de Maio é paralisada em Campinas; entenda",
+"p": "Prefeitura concluiu primeira etapa da troca do piso na Rua 13 de Maio e prevê retomar a revitalização em janeiro de 2027; investimento total é de R$ 1 milhão",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/reforma-do-calcadao-da-13-de-maio-e-paralisada-em-campinas-entenda/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:17",
+"t": "Após falhas nos sistemas, Porto de Santos eleva nível de segurança",
+"p": "A Comissão Estadual de Segurança Pública nos Portos, Terminais e Vias Navegáveis (Cesportos) levou para II o nível de segurança dos gates públicos do Porto de Santos e de suas imediações",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/apos-falhas-nos-sistemas-porto-eleva-nivel-de-seguranca/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:15",
+"t": "Longe dos holofotes, ex-galã teen dos anos 1990 faz apelo por emprego e moradia",
+"p": "Conhecido por papéis em produções populares da televisão e do cinema nos anos 1990, o ator norte-americano Jeremy London chamou a atenção nas redes sociais após publicar um pedido de ajuda. Aos 54 anos, ele afirmou que poderia perder o emprego e a moradia por causa de um conflito com o chefe. A mensagem foi […]",
+"tema": "Habitação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/longe-dos-holofotes-ex-gala-teen-dos-anos-1990-faz-apelo-por-emprego-e-moradia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:14",
+"t": "Contratações temporárias caem 38,7% em Marília, aponta levantamento",
+"p": "Incertezas após as eleições e dúvidas sobre mudanças na jornada são apontadas como fatores para a retração.",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/contratacoes-temporarias-caem-387-em-marilia-aponta-levantamento/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:14",
+"t": "Mutirão de Emprego passa a ser realizado no Shopping Cidade Sorocaba",
+"p": "Alteração facilita o acesso e dá maior conforto aos participantes A partir da próxima edição, a ser realizada em 24 de novembro, o Mutirão de Emprego será realizado no Shopping Cidade Sorocaba, na Av. Itavuvu, 3373 – Jd. Santa Cecília, Zona Norte. A mudança de local tem por objetivo facilitar o acesso da população, […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/mutirao-de-emprego-passa-a-ser-realizado-no-shopping-cidade-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:08",
+"t": "Polícia Militar de SP abre 2 mil vagas para soldado; veja como se inscrever",
+"p": "Foto: Governo de SP Concurso Polícia Militar SP 2026 abre 2 mil vagas com salário de R$ 5.482,51. Veja requisitos, inscrições, provas e como participar.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/concursos/concurso-policia-militar-sp-2026/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:03",
+"t": "Ana Maria Braga: “Fazer o certo não te garante a reciprocidade, mas te garante o direito a dormir tranquilo.”",
+"p": "Uma das maiores armadilhas em que caímos ao longo da vida adulta é a expectativa infantil de que a bondade, a honestidade e a decência funcionam como uma moeda de troca automática. Acreditamos que, se tratarmos os outros com retidão, generosidade e justiça, eles invariavelmente retribuirão da mesma forma. Recebendo…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/ana-maria-braga-fazer-o-certo-nao-te-garante-a-reciprocidade-mas-te-garante-o-direito-a-dormir-tranquilo/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:03",
+"t": "Quintal Garatuja comemora 10 anos com programação cultural gratuita",
+"p": "Ponto de Cultura no Jardim Nova Europa abre as comemorações neste sábado (14), com apresentações artísticas e exposição cultural de fotografias; atividades seguem até dezembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Nova Europa"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/quintal-garatuja-comemora-10-anos-com-programacao-cultural-gratuita/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:02",
+"t": "Por que os gatos não gostam de água? Entenda os principais motivos",
+"p": "Enquanto muitos cães adoram brincar na água, nadar em piscinas e aproveitar um banho refrescante, a maioria dos gatos apresenta um comportamento bastante diferente. Os felinos costumam evitar situações que envolvam molhar o corpo e podem demonstrar desconforto, medo ou até tentar fugir quando entram em contato com…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/por-que-os-gatos-nao-gostam-de-agua-entenda-os-principais-motivos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "12:00",
+"t": "Concurso da Defensoria Pública: inscrição termina amanhã; salário é de R$ 29 mil",
+"p": "Inscrições para o X Concurso Público de ingresso na carreira de Defensora e Defensor Público terminam nesta quarta-feira (11); veja como se inscrever",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/prazo-final-para-se-inscrever-em-concurso-da-defensoria-publica-termina-nesta-quarta/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:58",
+"t": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol",
+"p": "Objetivo é evitar o impacto inflacionário decorrente da alta dos preços internacionais do petróleo provocada pelo conflito no Oriente Médio",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:58",
+"t": "Governo de SP lança concurso público para a Cetesb com 107 vagas em 12 regiões do estado",
+"p": "São 84 vagas para profissionais de nível superior e 23 para nível médio. Foto: Governo de SP Segundo concurso em três anos oferece oportunidades para profissionais de níveis médio e superior; inscrições começam em 12 de novembro e provas estão previstas para fevereiro de 2027",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/concurso-publico-cetesb-107-vagas-sao-paulo-2026/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:52",
+"t": "Homem é preso por ameaçar a companheira de morte em Marília",
+"p": "Caso foi registrado na DDM de Marília Acusado já havia sido preso em 2024 pelo mesmo crime contra a vítima e teve pedido de prisão preventiva representado à Justiça.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-e-preso-por-ameacar-a-companheira-de-morte-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:49",
+"t": "Puff com R$ 1,8 milhão: delegada suspeita é afastada da Polícia Civil",
+"p": "Maria Corsato é suspeita de esconder cerca de R$ 1,8 milhão dentro de um puff, na Grande São Paulo. Ela foi denunciada pela própria irmã",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/puff-com-r-18-milhao-delegada-suspeita-e-afastada-da-policia-civil",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:48",
+"t": "Vila Arens terá quase um mês de shows e gastronomia com o Natal em Movimento de Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Evento promovido pela Liga Jundiaiense das Escolas de Samba acontece de 25 de novembro a 23 de dezembro, com trailers de alimentação e apresentações musicais às sextas e aos sábados.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/entretenimento/vila-arens-shows-e-gastronomia-natal-em-movimento-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:48",
+"t": "Operação tapa-buraco atende bairros das regiões sul e oeste de Marília",
+"p": "Serviços da Prefeitura contemplam os jardins Santa Clara, Nacional, Higienópolis e Cavallari.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/operacao-tapa-buraco-atende-bairros-das-regioes-sul-e-oeste-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:44",
+"t": "Encontro na Chácara do Idoso destaca a importância do fortalecimento psicológico e emocional do cuidador familiar",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Cidadania (Secid), realizou, na tarde desta segunda-feira (9), na Chácara do Idoso, o encontro ‘Eu também mereço cuidado’, com roda de conversa e dinâmica, que destacou a importância do fortalecimento emocional do cuidador familiar. O objetivo foi de promover o…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/encontro-na-chacara-do-idoso-destaca-a-importancia-do-fortalecimento-psicologico-e-emocional-do-cuidador-familiar/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:44",
+"t": "Operação integrada da Prefeitura autua seis bares e adegas em Sorocaba",
+"p": "Foto: Seplan Uma operação integrada, para fiscalizar estabelecimentos que operam como adegas e bares, foi realizada na noite de sábado (7) em Sorocaba. Ao todo, seis estabelecimentos foram autuados devido a irregularidades. A ação, que teve início às 22h e avançou até a madrugada de domingo (8), esteve a cargo do…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/operacao-integrada-da-prefeitura-autua-seis-bares-e-adegas-em-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:41",
+"t": "Cetesb abre concurso público com 107 vagas em SP, salários atraem candidatos e Baixada Santista tem oportunidades",
+"p": "O Governo de São Paulo abriu um novo concurso público para a Companhia Ambiental do Estado de São Paulo (Cetesb). O edital foi publicado nesta terça-feira (10) e oferece 107 vagas para profissionais de níveis médio e superior. As oportunidades estão distribuídas entre sete cargos e 12 polos regionais. A Grande São…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/cetesb-abre-concurso-publico-com-107-vagas-em-sp-salarios-atraem-candidatos-e-baixada-santista-tem-oportunidades/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:39",
+"t": "Ação contra a dengue elimina 13 focos, mas encontra 381 imóveis fechados em Marília",
+"p": "Residências fechadas representaram 45,41% dos endereços visitados durante ação da Saúde.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/acao-contra-a-dengue-elimina-13-focos-mas-encontra-381-imoveis-fechados-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:38",
+"t": "Marília recebe equipe do Ministério da Saúde para avaliar ações contra hepatite B",
+"p": "Equipe nacional conheceu unidades de atendimento e analisou ações de prevenção da transmissão da doença de mãe para filho.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-recebe-equipe-do-ministerio-da-saude-para-avaliar-acoes-contra-hepatite-b/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:38",
+"t": "Feira de Barão Geraldo terá programação de Natal gratuita com histórias encantadas",
+"p": "Feira começa neste sábado (14) e segue até 12 de dezembro, com atividades recreativas para crianças, aventura natalina com dois duendes e arrecadação de brinquedos para a instituição Pro Menor",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/feira-de-barao-tera-programacao-de-natal-gratuita-com-historias-encantadas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:35",
+"t": "Evento de ciência oferece oficinas e atividades gratuitas até 14 de novembro",
+"p": "Evento reúne instituições de ensino, poder público e setor tecnológico em atividades abertas à comunidade.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/evento-de-ciencia-oferece-oficinas-e-atividades-gratuitas-ate-14-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:32",
+"t": "Justiça autoriza retomada do programa ‘Bolsa Mounjaro’ em Urupês",
+"p": "Decisão suspende os efeitos da liminar que havia interrompido o fornecimento de tirzepatida manipulada",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Urupês"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/justica-autoriza-retomada-do-programa-bolsa-mounjaro-em-urupes/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:30",
+"t": "Vereadora Áurea questiona comunicação sobre possível fechamento de serviços e cobra participação dos municípios no custeio da Santa Casa",
+"p": "Durante a reunião com a imprensa realizada nesta terça-feira (10), a vereadora Áurea Rosa pediu maior clareza nas informações divulgadas pela Santa Casa de Itapeva, especialmente para evitar que a população interprete os alertas financeiros como um possível fechamento da instituição. A parlamentar destacou a…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/santa-casa-custeio/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:22",
+"t": "Celular furtado de loja em Marília é entregue à polícia depois de dois anos",
+"p": "Aparelho levado durante invasão a loja de departamento foi entregue por moradora que afirmou tê-lo encontrado na rua.",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/celular-furtado-de-loja-em-marilia-e-entregue-a-policia-depois-de-dois-anos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:17",
+"t": "Jovem cria aquecedor solar com garrafas PET para aquecer água em casa de forma barata e é reconhecida por instituto de ciências nucleares",
+"p": "O protótipo premiado pela universidade mexicana usa o mesmo princípio de absorção solar que famílias brasileiras já aplicam em telhados com garrafas e tubos de PVC. Ilustração criada com Inteligência Artificial Estudante de Chiapas apresentou à presidente do México o aquecedor solar de garrafas PET que criou aos…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/jovem-cria-aquecedor-solar-com-garrafas-pet-para-aquecer-agua-em-casa-de-forma-barata-e-e-reconhecida-por-instituto-de-ciencias-nucleares/",
+"auto": true
+},
 {
 "d": "2026-11-10",
 "h": "11:16",
@@ -229,6 +724,18 @@
 ],
 "src": "Jornal Ita News",
 "u": "https://jornalitanews.com.br/deficit-financeiro-santa-casa/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:46",
+"t": "Ana Maria Braga: “O celular de alguns homens é igual uma construção antiga. Se mexer muito, a casa cai.”",
+"p": "A era digital transformou o telemóvel no cofre mais sigiloso, e potencialmente mais perigoso, da vida moderna. O que antes cabia em bilhetes dobrados ou conversas sussurradas agora repousa em galerias ocultas, aplicativos de mensagens instantâneas com apagamento automático e histórico de navegação protegido por…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/ana-maria-braga-o-celular-de-alguns-homens-e-igual-uma-construcao-antiga-se-mexer-muito-a-casa-cai/",
 "auto": true
 },
 {
