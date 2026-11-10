@@ -3,6 +3,368 @@
 "itens": [
 {
 "d": "2026-11-10",
+"h": "11:16",
+"t": "Mototaxista é preso com CNH digital falsa após fuga da polícia",
+"p": "Homem admitiu ter comprado o documento pela internet",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mototaxista-e-preso-com-cnh-digital-falsa-apos-fuga-da-policia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:15",
+"t": "Saev Ambiental anuncia ganhadores do primeiro sorteio do Moeda Verde Digital",
+"p": "Iniciativa transforma o descarte correto de materiais recicláveis em oportunidades de premiação; sorteios serão realizados mensalmente. A Saev Ambiental realizou na manhã desta terça-feira (10.nov) o primeiro sorteio do programa Moeda Verde Digital, iniciativa que incentiva a destinação correta de materiais…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/saev-ambiental-anuncia-ganhadores-do-primeiro-sorteio-do-moeda-verde-digital/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:15",
+"t": "Porto de Santos eleva nível de segurança após falha nos sistemas",
+"p": "Divulgação/APS O nível de segurança dos gates públicos do Porto de Santos e de suas imediações foi elevado para II após falha nos sistemas do complexo.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/porto-e-negocios/porto-de-santos-eleva-nivel-de-seguranca-apos-falha-nos-sistemas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:14",
+"t": "Adriano Dicart apresenta exposição inédita dos Orimunds em Santos",
+"p": "Mostra reúne cerca de 40 obras, incluindo mais de 25 inéditas, murais e cenário imersivo. Visitação gratuita segue até 5 de dezembro, em Santos.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/adriano-dicart-apresenta-exposicao-inedita-dos-orimunds-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:13",
+"t": "Asfalto cede após rompimento de rede de água e caminhão de bebidas cai em vala no Centro de Fernandópolis",
+"p": "O rompimento de uma tubulação de água mobilizou equipes da Secretaria de Trânsito, da Polícia Militar e da Defesa Civil na manhã desta terça-feira (10), no Centro de Fernandópolis. O incidente ocorreu na Rua Paulo Saravalli, onde um caminhão de bebidas acabou caindo em uma vala aberta pelo colapso do pavimento. De…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/asfalto-cede-apos-rompimento-de-rede-de-agua-e-caminhao-de-bebidas-cai-em-vala-no-centro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:08",
+"t": "Prefeitura aprova novo bairro para 4,5 mil moradores em Ribeirão Preto; veja detalhes",
+"p": "Decreto que aprova novo bairro em Ribeirão Preto foi publicado no Diário Oficial; aprovação inclui doação de área viária para a prefeitura",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/prefeitura-aprova-novo-bairro-para-45-mil-moradores-em-ribeirao-preto-veja-detalhes/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-10",
+"h": "11:08",
+"t": "Polícia localiza carro que mulher vendeu e não recebeu",
+"p": "Veículo estava na casa de um operador de 29 anos, que afirmou ter pago R$ 6 mil pelo Gol",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-localiza-carro-que-mulher-vendeu-e-nao-recebeu/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:00",
+"t": "São Vicente convoca 105 guardas e pode chegar a 290 agentes na GCM",
+"p": "Divulgação/Prefeitura de São Vicente São Vicente convocou 105 novos guardas civis municipais (GCMs), que poderão elevar o efetivo da corporação a 290 integrantes.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/sao-vicente-convoca-105-guardas-e-pode-chegar-a-290-agentes-na-gcm/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "11:00",
+"t": "Pesquisadores da USP analisam erosão e impactos climáticos em Mongaguá",
+"p": "Divulgação/Prefeitura de Mongaguá Trabalho de campo recolheu dados geológicos que servirão de base científica para o planejamento de futuras obras de infraestrutura urbana.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/pesquisadores-da-usp-analisam-erosao-e-impactos-climaticos-em-mongagua/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:59",
+"t": "Justiça libera Urupês a retomar doses de tirzepatida no SUS",
+"p": "Decisão provisória suspende bloqueio obtido pela farmacêutica Eli Lilly e beneficia 400 pacientes atendidos na rede pública de saúde.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Urupês"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-libera-retomada-do-bolsa-mounjaro-em-urupes-com-tirzepatida-manipulada/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:58",
+"t": "Taubaté e Itanhaém entram no radar de concurso estadual SP Águas com 190 vagas",
+"p": "Agência estadual oferece 190 vagas de nível superior, com salários de até R$12 mil; inscrições começam em 17 de novembro e provas estão previstas para janeiro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Itanhaém",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/brasil/taubate-e-itanhaem-entram-no-radar-de-concurso-estadual-sp-aguas-com-190-vagas.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:55",
+"t": "Caraguatatuba recebe peça teatral chilena gratuita na sexta-feira (20)",
+"p": "Obra teatral traz debate socioambiental e promove bate-papo com o público, após a sessão gratuita; peça ocorre no auditório Maristela de Oliveira",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/caraguatatuba-recebe-peca-teatral-chilena-gratuita-na-sexta-feira-20.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:50",
+"t": "Santa Casa de Itapeva apresenta déficit financeiro e expõe desafios para manter serviços hospitalares",
+"p": "A Santa Casa de Misericórdia de Itapeva está realizando, nesta terça-feira (10), uma reunião com representantes da imprensa para apresentar a atual realidade econômico-financeira da instituição e os desafios enfrentados para a manutenção dos serviços de saúde oferecidos à população de Itapeva e região. Durante o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/deficit-financeiro-santa-casa/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:40",
+"t": "Guarujá reúne 33 vagas de emprego em diferentes áreas nesta terça-feira (10)",
+"p": "Oportunidades contemplam 12 funções, com exigências de experiência e escolaridade diferentes; atendimento ocorre das 9h às 16h30, em Vicente de Carvalho",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/guaruja-reune-33-vagas-de-emprego-em-diferentes-areas-nesta-terca-feira-10.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:39",
+"t": "Criação de classe dedicada a crianças autistas muda a realidade das famílias e aumenta o debate na França",
+"p": "A unidade funciona com sete alunos e quatro profissionais em tempo integral e pode chegar a dez vagas. Ilustração criada com Inteligência Artificial Vichy, no centro da França, inaugurou no estabelecimento Georges-Méchin a primeira Unidade de Ensino Elementar Autismo da região, com sete alunos e quatro profissionais.",
+"tema": "Educação",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/criacao-de-classe-dedicada-a-criancas-autistas-muda-a-realidade-das-familias-e-aumenta-o-debate-na-franca/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:38",
+"t": "Karina Gama pediu para prefeitura manter contrato por \"razões humanitárias\"",
+"p": "Contrato de ONG de Karina Gama, produtora do filme Dark Horse, com a Prefeitura de SP foi rompido nessa segunda (9/11)",
+"tema": "Política",
+"s": "obra",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/karina-gama-pediu-para-prefeitura-manter-contrato-por-razoes-humanitarias",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:33",
+"t": "Governo Federal prorroga o Auxílio Gás do Povo até novembro de 2031",
+"p": "Foto: Ricardo Botelho/MME Medida provisória assinada pelo presidente Lula afasta boatos das redes sociais e garante a recarga gratuita do botijão de gás para 15 milhões de famílias",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/governo-prorroga-auxilio-gas-do-povo-ate-2031/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:31",
+"t": "CIC Ferraz promove mutirão de emprego com mais de 200 oportunidades nesta quinta-feira (12)",
+"p": "A ação reúne vagas efetivas, estágio e Jovem Aprendiz para candidatos com diferentes níveis de escolaridade e experiência profissional",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/cic-ferraz-promove-mutirao-de-emprego-com-mais-de-200-oportunidades-nesta-quinta-feira-12/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:31",
+"t": "Cetesb abre vagas para a região em concurso com salários de até R$ 12 mil",
+"p": "Oportunidades são para analista ambiental, técnico ambiental e técnico administrativo",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/cetesb-abre-vagas-para-a-regiao-em-concurso-com-salarios-de-ate-r-12-mil/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:30",
+"t": "De capivaras a onças, animais têm mais de 400 passagens para atravessar rodovias de São Paulo",
+"p": "Rodovias de São Paulo possuem 415 passagens exclusivas para animais",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/de-capivaras-a-oncas-animais-tem-mais-de-400-passagens-para-atravessar-rodovias-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:30",
+"t": "PM apreende adolescente após encontrar 100 pinos com cocaína em bar de Marília",
+"p": "Ocorrência foi registrada na Central de Polícia Judiciária (CPJ) e o menor de idade foi encaminhado para a Fundação Casa.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/pm-apreende-adolescente-apos-encontrar-100-pinos-com-cocaina-em-bar-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:28",
+"t": "Operação mira esquema de corrupção envolvendo policiais e guincheiros de SP",
+"p": "Operação deflagrada pelo Ministério Público mira esquema entre policiais militares e civis ligados à operação de guinchos",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/operacao-mira-esquema-de-corrupcao-envolvendo-policiais-e-guincheiros-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:27",
+"t": "Dupla é condenada por arrombar cofre e tentar furtar R$ 310 mil de empresa de embalagens em Rio Preto",
+"p": "A juíza Ana Maria Chalub De Aquino, da 4ª Vara Criminal de São José do Rio Preto, condenou Luiz Codogno Neto e Rafael Wellington de Souza pelo crime de furto triplamente qualificado (mediante escalada, arrombamento e concurso de pessoas), tipificado no artigo 155, § 4º, incisos I, II e IV, do Código Penal. Cada réu […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/dupla-e-condenada-por-arrombar-cofre-e-tentar-furtar-r-310-mil-de-empresa-de-embalagens-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:20",
+"t": "Idoso recebe aviso falso de audiência judicial e perde R$ 10 mil em golpe",
+"p": "Aposentado foi enganado por criminoso que se passou por advogado e simulou uma audiência virtual com um suposto juiz para cobrar uma taxa de liberação de dinheiro",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/idoso-recebe-aviso-falso-de-audiencia-judicial-e-perde-r-10-mil-em-golpe/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:14",
+"t": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol",
+"p": "Objetivo é evitar impacto inflacionário da alta de preços do petróleo",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:13",
+"t": "Jundiaí inicia construção do novo túnel na Avenida Prefeito Luis Latorre; veja o que muda",
+"p": "Foto: Prefeitura de Jundiaí Obra terá três faixas, calçada e ciclovia. Projeto também prevê mudanças no trânsito e conclusão no primeiro semestre de 2027.",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/novo-tunel-avenida-luis-latorre-copiar/",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "10:09",
 "t": "Hospital Municipal de Peruíbe amplia assistência e ultrapassa 2,4 mil exames de imagem e endoscopia",
 "p": "Inaugurada em junho, unidade gerenciada pela Fundação do ABC já contabiliza 327 internações, amplia atendimento pediátrico e fortalece acesso à saúde no Litoral Sul",
@@ -112,6 +474,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/aviso-de-tempestade-severidade-grau-perigo-potencial-136/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:54",
+"t": "Atraso no pagamento de terceirizados causa transtornos em mais de 20 escolas",
+"p": "Atraso nos salários de profissionais de apoio escolar causa reflexos em Ribeirão Preto; Prefeitura diz que pagamentos à empresa estão em dia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/atraso-no-pagamento-de-terceirizados-causa-transtornos-em-mais-de-20-escolas/",
 "auto": true
 },
 {
