@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T19:50:34-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-10T20:43:39-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,8 +29,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -44,9 +43,109 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-10",
+"h": "20:38",
+"t": "Idosa perde R$ 13 mil após acreditar que conversava com Elon Musk no celular",
+"p": "Durante quase dois anos, vítima acreditou conversar com Elon Musk pelo WhatsApp, enviou códigos de cartões-presente e deixou de cuidar da própria saúde para atender aos pedidos dos criminosos",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/idosa-perde-r-13-mil-apos-acreditar-que-conversava-com-elon-musk-pelo-whatsapp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "20:36",
+"t": "O que dizia a mensagem de produtora de Dark Horse ao prefeito Ricardo Nunes",
+"p": "A empresária Karina Gama, produtora do filme Dark Horse, pediu a manutenção do contrato para a instalação de 5 mil pontos de Wi-Fi em SP",
+"tema": "Política",
+"s": "obra",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/o-que-dizia-a-mensagem-de-produtora-de-dark-horse-ao-prefeito-ricardo-nunes",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "20:30",
+"t": "Reabertura do Aquário de Santos está prevista para dezembro; veja o que falta",
+"p": "Divulgação/Prefeitura de Santos Em junho, prefeito Rogério Santos já havia prometido a entrega do equipamento turístico para o período.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/aquario-de-santos-reabre-em-dezembro-na-temporada-de-verao/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "20:16",
+"t": "Médico que defendeu demissão de eleitores de Lula faz acordo; veja valor da multa",
+"p": "Dono de clínica em Mogi Guaçu firmou acordo com o Ministério Público do Trabalho após incentivar empresários a dispensar funcionários por posicionamento político; publicação deverá permanecer fixada nas redes sociais por 30 dias",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi Guaçu"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/medico-que-defendeu-demissao-de-eleitores-de-lula-faz-acordo-veja-valor-da-multa/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "20:13",
+"t": "Feiras de turismo da Prefeitura de SP miram R$ 262 milhões em investimentos",
+"p": "Discover SP soma 141 participações em 27 missões em 10 países, segundo administração municipal. Valor é expectativa declarada pelas empresas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/feiras-de-turismo-da-prefeitura-de-sp-miram-r-262-milhoes-em-investimentos",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "19:53",
+"t": "Mulher é presa por homicídio após incêndio que matou companheiro em Álvares Florence",
+"p": "Investigação da Polícia Civil concluiu que vítima de 66 anos ficou presa em um quarto em chamas e morreu meses depois em decorrência das queimaduras; caso era tratado inicialmente como acidente doméstico. A Polícia Civil de Álvares Florence prendeu na noite desta segunda-feira (9.nov) uma mulher de 61 anos suspeita…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Álvares Florence"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mulher-e-presa-por-homicidio-apos-incendio-que-matou-companheiro-em-alvares-florence/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "19:51",
+"t": "CAV anuncia Daniel Bonassa e amplia lista de reforços para 2027",
+"p": "Volante se junta aos nomes já confirmados pela diretoria para a disputa de uma das Série A2 mais competitivas dos últimos anos. O Clube Atlético Votuporanguense anunciou no final da tarde desta terça-feira (10.nov) a contratação do volante Daniel Bonassa para a disputa do Campeonato Paulista da Série A2 de 2027. A…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/cav-anuncia-daniel-bonassa-e-amplia-lista-de-reforcos-para-2027/",
+"auto": true
+},
 {
 "d": "2026-11-10",
 "h": "19:50",
