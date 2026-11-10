@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T20:47:26-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-09T22:09:56-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 71 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -49,6 +49,238 @@
 "itens": [
 {
 "d": "2026-11-09",
+"h": "21:55",
+"t": "Acidente destrói sinalização e tubulações na Avenida Litério Grecco em Fernandópolis",
+"p": "Um acidente de trânsito registrado na Avenida Litério Grecco, nas proximidades do shopping de Fernandópolis, causou estragos significativos na infraestrutura pública do trecho. A colisão provocou o rompimento de tubulações e a destruição de estruturas de sinalização viária instaladas no local. No ponto do impacto,…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/acidente-destroi-sinalizacao-e-tubulacoes-na-avenida-literio-grecco-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:53",
+"t": "Mulher recusa teste do bafômetro e é detida pela Polícia Militar no centro de Fernandópolis",
+"p": "Uma mulher foi detida pela Polícia Militar na tarde desta segunda-feira (9), na área central de Fernandópolis, após provocar tumulto no trânsito ao estacionar uma picape Fiat Toro em local irregular. A intervenção policial foi solicitada por populares que transitavam pela região e notaram o comportamento bastante…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mulher-recusa-teste-do-bafometro-e-e-detida-pela-policia-militar-no-centro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:41",
+"t": "Câmara promove audiência pública para discutir mudanças no Plano Diretor de Votuporanga",
+"p": "Encontro aberto à população será realizado nesta quarta-feira (11), às 17h, e debaterá proposta que altera os limites da área urbana, mapas oficiais e o zoneamento do município. A Câmara Municipal de Votuporanga/SP promoverá nesta quarta-feira (11.nov), às 17h, a 29ª Audiência Pública de 2026 para discutir o…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/camara-promove-audiencia-publica-para-discutir-mudancas-no-plano-diretor-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:40",
+"t": "CAV anuncia lateral Danilo Guimarães para a Série A2 de 2027",
+"p": "Lateral-direito de 29 anos chega após disputar o Gauchão e a Série D pelo São José-RS e reforça o projeto da Pantera Alvinegra na busca do acesso à elite do estadual. O Clube Atlético Votuporanguense anunciou nesta segunda-feira (9.nov) a contratação do lateral-direito Danilo Guimarães, de 29 anos, para a temporada…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/cav-anuncia-lateral-danilo-guimaraes-para-a-serie-a2-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:37",
+"t": "Polícia Ambiental usa drone e prende dupla furtando diesel de locomotivas em Simonsen",
+"p": "Suspeitos foram flagrados com cerca de 100 litros de combustível retirados de trens, além de galões e ferramentas utilizadas no crime. Dois homens foram presos em flagrante pela Polícia Militar Ambiental na madrugada de sábado (7.nov), acusados de furtar combustível de locomotivas no distrito de Simonsen, em…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/policia-ambiental-usa-drone-e-prende-dupla-furtando-diesel-de-locomotivas-em-simonsen/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:35",
+"t": "Arqueólogos investigavam uma tumba de 6 mil anos na Alemanha quando encontraram um túnel medieval escondido dentro dela; sua função ainda é um mistério",
+"p": "O corredor estreito de pouco mais de um metro de altura e entre 50 e 70 centímetros de largura forçou a equipe a abandonar a hipótese inicial de uma câmara funerária intacta de seis mil anos e a reconhecer um sistema de galerias medievais conhecido como Erdstall, escavado diretamente no interior de um monumento…",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/arqueologos-investigavam-uma-tumba-de-6-mil-anos-na-alemanha-quando-encontraram-um-tunel-medieval-escondido-dentro-dela-sua-funcao-ainda-e-um-misterio/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:31",
+"t": "Bruno Camargo explica no Fórum Nacional da Transparência como a publicidade legal contribui para a transparência e o controle dos contratos",
+"p": "O advogado, jornalista e professor de Direito Bruno Camargo, um dos mediadores do 1º Fórum Nacional da Transparência (FNT 2026), ressaltou a importância do evento e da publicidade legal para garantir o acesso à informação. Segundo ele, o encontro reforça a necessidade de transparência em todos os contratos,…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/bruno-camargo-explica-no-forum-nacional-da-transparencia-como-a-publicidade-legal-contribui-para-a-transparencia-e-o-controle-dos-contratos/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:28",
+"t": "Ciclovia do Porto de Santos terá nome de Telma de Souza em homenagem à ex-prefeita que inaugurou a primeira pista para bicicletas da Cidade",
+"p": "A ciclovia da Avenida Perimetral do Porto de Santos receberá o nome da ex-prefeita Telma de Souza (PT). A homenagem partiu da Associação Brasileira de Ciclistas (ABC) e recebeu o aval do presidente da Autoridade Portuária de Santos (APS), Anderson Pomini. A administração do Porto dará andamento aos procedimentos…",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/ciclovia-do-porto-de-santos-tera-nome-de-telma-de-souza-em-homenagem-a-ex-prefeita-que-inaugurou-a-primeira-pista-para-bicicletas-da-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:17",
+"t": "Lotofácil e Quina pagarão, juntas, R$ 4,9 milhões no sorteio desta segunda-feira; veja os números sorteados",
+"p": "A Caixa Econômica Federal sorteou na noite desta segunda-feira (9/11) as dezenas dos concurso 7.163 da Quina, acumulado em R$ 2,9 milhões, e 3825 da Lotofácil, que poderá pagar R$ 2 milhões. Confira os números: Quina:30-47-50-55-61. Lotofácil Como apostar na Lotofácil A Lotofácil é uma modalidade simples das…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/lotofacil-e-quina-pagarao-juntas-r-49-milhoes-no-sorteio-desta-segunda-feira-veja-os-numeros-sorteados/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:16",
+"t": "Dupla Sena 3030 sorteia prêmio de R$ 11,6 milhões; veja os números",
+"p": "Concurso desta rodada, em São Paulo, movimentou as apostas para o prêmio milionário de R$ 11.571.149,51 da Dupla Sena; veja números sorteados",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/loterias/dupla-sena-3030-sorteia-premio-de-r-116-milhoes-veja-os-numeros.html",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:13",
+"t": "Rodovia Euclides da Cunha é a melhor estrada pública do Brasil",
+"p": "A SP-320 conquistou o 3º lugar no ranking nacional da CNT e foi a única rodovia administrada pelo poder público entre as dez melhores do país. A Rodovia Raposo Tavares (SP-270) foi eleita a melhor do Brasil pela Pesquisa CNT de Rodovias 2026, divulgada nesta segunda-feira (9.nov) pela Confederação Nacional do…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Cunha"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/rodovia-euclides-da-cunha-e-a-melhor-estrada-publica-do-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:11",
+"t": "Circuito Sesc de Esportes: medalhista olímpica estará em Votuporanga",
+"p": "Programação gratuita será realizada dia 12 de novembro, no Ginásio Mário Covas, com vivência esportiva e bate-papo com a ex-jogadora de vôlei Carol Gattaz. Incentivar a prática esportiva, aproximar a população de grandes referências do esporte nacional e estimular hábitos mais saudáveis são algumas das propostas do…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/circuito-sesc-de-esportes-medalhista-olimpica-estara-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:11",
+"t": "PM apreende adolescente com crack escondido em frasco de vitamina C no centro de Fernandópolis",
+"p": "Um adolescente foi apreendido pela Polícia Militar no início da tarde do último domingo (8), no Centro de Fernandópolis, após ser flagrado com porções de crack escondidas no bolso e em um frasco de vitamina C. A detenção ocorreu após o jovem desembarcar de uma motocicleta que fugiu de uma abordagem policial. A…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pm-apreende-adolescente-com-crack-escondido-em-frasco-de-vitamina-c-no-centro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:02",
+"t": "Câmara aprova auxílio de R$ 810 para famílias que precisarem deixar imóveis em área de risco da barragem Santa Tereza",
+"p": "Projeto da Prefeitura de Ribeirão Preto foi aprovado pela Câmara na noite desta segunda-feira (9)",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/camara-aprova-auxilio-de-r-810-para-familias-que-precisarem-deixar-imoveis-em-area-de-risco-da-barragem-santa-tereza/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:00",
+"t": "Bike Santos tem novos valores a partir desta terça-feira",
+"p": "Raimundo Rosa/Divulgação Prefeitura de Santos O Bike Santos passa para: R$ 10,00 para o passe diário; R$ 30,00 para o mensal; R$ 150,00 para o semestral; e R$ 270,00 para o anual.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/bike-santos-tem-novos-valores-a-partir-desta-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:56",
+"t": "Votuporanguense é morta em duplo homicídio na Bahia",
+"p": "Swellen Cristina Ribeiro e Silva, de 41 anos, foi assassinada a tiros em Luís Eduardo Magalhães. Polícia Civil investiga autoria e motivação do crime. Uma mulher, de 41 anos, natural de Votuporanga/SP foi assassinada durante um duplo homicídio registrado na madrugada do último sábado (7.nov), em Luís Eduardo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/votuporanguense-e-morta-em-duplo-homicidio-na-bahia/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:51",
+"t": "Shopee abre novo centro de distribuição em Rio Preto",
+"p": "Com 8 mil m² construídos às margens da Washington Luís, obra da FEX Engenharia mobilizou aproximadamente 129 postos de trabalho.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/fex-engenharia-entrega-novo-centro-de-distribuicao-da-shopee-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "20:46",
 "t": "Câmara de Campinas aprova mudança em terreno para escola estadual no Satélite Íris",
 "p": "Projeto corrige em 400 m² a área que será doada ao governo de São Paulo e retira prazo de sete anos previsto na legislação anterior; unidade está em construção, segundo a Câmara",
@@ -59,6 +291,22 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/politica/camara-de-campinas-aprova-mudanca-em-terreno-para-escola-estadual-no-satelite-iris/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:43",
+"t": "Pesquisas mostram como moradores avaliam prefeitos e serviços públicos em três cidades do Litoral Sul",
+"p": "As pesquisas de opinião realizadas pela Badra Comunicação em outubro mostram como os moradores de Itanhaém, Mongaguá e Peruíbe avaliam as administrações municipais. Os levantamentos também identificam os serviços públicos que se destacam e os nomes lembrados para as eleições de 2028. Entre os três municípios,…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Itanhaém",
+"Mongaguá",
+"Peruíbe"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/politica/pesquisas-mostram-como-moradores-avaliam-prefeitos-e-servicos-publicos-em-tres-cidades-do-litoral-sul/",
 "auto": true
 },
 {
@@ -85,6 +333,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/estudante-e-presa-em-aracatuba-por-suspeita-de-usar-inteligencia-artificial-durante-o-enem/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "20:37",
+"t": "‘Imposto do pecado’ eleva cobrança sobre cigarros em 55,6% e indústria alerta para risco de contrabando e crime organizado",
+"p": "O preço dos cigarros pode sofrer pressão com a nova etapa da tributação prevista para 2027. A Medida Provisória (MP) 1.399/2026 elevou em 55,6% a parcela fixa do Imposto Seletivo cobrada por maço, de R$ 2,25 para R$ 3,50. A mudança provocou críticas da Associação Brasileira da Indústria do Fumo (Abifumo). A…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/imposto-do-pecado-eleva-cobranca-sobre-cigarros-em-556-e-industria-alerta-para-risco-de-contrabando-e-crime-organizado/",
 "auto": true
 },
 {
@@ -293,6 +553,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/entregador-morre-apos-bater-moto-contra-poste-durante-entrega-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "19:37",
+"t": "Incêndio atinge prédio com arquivo da Justiça do Trabalho em Ribeirão Preto",
+"p": "Incêndio atingiu prédio da Justiça do Trabalho na zona sul de Ribeirão Preto; bombeiros atuaram no local e causas são investigadas",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/incendio-atinge-predio-com-arquivo-da-justica-do-trabalho-em-ribeirao-preto/",
 "auto": true
 },
 {
