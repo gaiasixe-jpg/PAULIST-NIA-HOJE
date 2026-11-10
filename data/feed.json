@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T08:56:16-03:00",
-"novos_nesta_coleta": 25,
+"atualizado": "2026-11-10T10:10:24-03:00",
+"novos_nesta_coleta": 32,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,382 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "The read operation timed out | The read operation timed out | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-10",
+"h": "10:09",
+"t": "Hospital Municipal de Peruíbe amplia assistência e ultrapassa 2,4 mil exames de imagem e endoscopia",
+"p": "Inaugurada em junho, unidade gerenciada pela Fundação do ABC já contabiliza 327 internações, amplia atendimento pediátrico e fortalece acesso à saúde no Litoral Sul",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Peruíbe"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/hospital-municipal-de-peruibe-amplia-assistencia-e-ultrapassa-24-mil-exames-de-imagem-e-endoscopia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:04",
+"t": "Polícia Civil prende suspeito de matar adolescente de 16 anos a tiros em Mogi das Cruzes",
+"p": "Homem, de 44 anos, foi localizado no Centro de Suzano; segundo a investigação, crime teria sido motivado por vingança após uma agressão anterior",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes",
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/policia/policia-civil-prende-suspeito-de-matar-adolescente-a-tiros-em-mogi/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:00",
+"t": "PM interrompe assalto a farmácia e detém dupla na ZN de Santos; VÍDEO",
+"p": "Crédito: Canal5WebTV Dois indivíduos foram detidos pela Polícia Militar após uma tentativa de roubo a uma farmácia na Zona Noroeste de Santos.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/pm-interrompe-assalto-a-farmacia-e-detem-dupla-na-zn-de-santos-video/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:00",
+"t": "MP investiga propina de PMs para favorecer guinchos em PG e Mongaguá",
+"p": "Divulgação/PM A Operação Mão Dupla para investiga um esquema de pagamento de propina envolvendo policiais militares e operadores de guinchos particulares.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/mp-investiga-propina-de-pms-para-favorecer-guinchos-em-pg-e-mongagua/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "10:00",
+"t": "Danilo Morgado é indiciado por organização criminosa em investigação sobre PCC",
+"p": "Reprodução/Facebook A Polícia Civil de São Paulo indiciou Danilo Morgado, ex-candidato à Prefeitura de Praia Grande, pelo crime de organização criminosa.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Praia Grande",
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/danilo-morgado-e-indiciado-por-organizacao-criminosa-em-investigacao-sobre-pcc/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:59",
+"t": "Governo mantém desconto nos impostos da gasolina e do etanol por mais 30 dias",
+"p": "Foto: Marcelo Camargo/Agência Brasil Isenção de tributos federais vai valer até 9 de dezembro para aliviar o bolso dos motoristas contra a alta do petróleo",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/governo-mantem-desconto-impostos-gasolina-etanol-30-dias/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:55",
+"t": "Poupatempo lança check-in digital por QR Code para agilizar atendimento presencial",
+"p": "As unidades do Poupatempo em todo o Estado de São Paulo contam com uma nova funcionalidade para otimizar o fluxo de passageiros e evitar filas nas recepções. Agora, os cidadãos que possuem serviços previamente agendados podem confirmar a chegada diretamente pelo celular, dispensando a necessidade de passar pelo…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/poupatempo-lanca-check-in-digital-por-qr-code-para-agilizar-atendimento-presencial/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:54",
+"t": "Inmet alerta para tempestade em Rio Preto e Araçatuba",
+"p": "Aviso de perigo potencial inclui ventos de 40 a 60 km/h, queda de granizo e chuva de até 50 mm no dia 11 de novembro de 2026.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Araçatuba",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/aviso-de-tempestade-severidade-grau-perigo-potencial-136/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:52",
+"t": "Inmet alerta para tempestade em São José do Rio Preto",
+"p": "Aviso meteorológico prevê ventos de até 60 km/h, queda de granizo e chuva de até 50 mm por dia, com início programado para 12/11/2026.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/aviso-de-tempestade-severidade-grau-perigo-potencial-134/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:50",
+"t": "Governo de São Paulo atualiza regras para autorização de queima controlada na agricultura",
+"p": "O Governo do Estado de São Paulo, por meio da Secretaria de Agricultura e Abastecimento, definiu novos procedimentos e normas técnicas para a emissão de autorizações de queima controlada em atividades agrícolas. A medida esclarece a divisão de atribuições entre os órgãos estaduais de fiscalização e assistência,…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sao-paulo-atualiza-regras-para-autorizacao-de-queima-controlada-na-agricultura/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:46",
+"t": "Mulher de 56 anos volta à escola após 40 anos longe das aulas, conclui o ensino básico e entra na universidade para ser assistente social",
+"p": "Aos 56 anos, Dianieire Pereira de Souza, a Diani, que deixou a escola aos sete anos para trabalhar, concluiu o ensino básico pela EJA e foi aprovada em Serviço Social em universidade federal.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/mulher-de-56-anos-volta-a-escola-apos-40-anos-longe-das-aulas-conclui-o-ensino-basico-e-entra-na-universidade-para-ser-assistente-social/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:45",
+"t": "Marília enfrenta paralisação no transporte e ameaça de novas greves",
+"p": "Gratuidade será válida das 8h às 17h, segundo a Emdurb; antes e depois desse período, passageiros pagarão a tarifa normal Motoristas interromperam serviço por duas horas; merendeiras notificaram greve e coletores relatam atraso no pagamento.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mntv/marilia-enfrenta-paralisacao-no-transporte-e-ameaca-de-novas-greves/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:44",
+"t": "São Vicente convoca 105 novos guardas municipais e vai bater recorde histórico de efetivo",
+"p": "Com a chegada dos novos agentes, GCM poderá alcançar 290 integrantes, superando marca já estabelecida durante a gestão Kayo Amado",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/sao-vicente-convoca-105-novos-guardas-municipais-e-vai-bater-recorde-historico-de-efetivo/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:41",
+"t": "Concurso público tem vagas em Ribeirão Preto e salários de até R$ 12 mil; veja edital",
+"p": "Concurso público da Cetesb tem 107 vagas de níveis médio e superior em 12 regiões paulistas; inscrições abrem em 12 de novembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/concurso-publico-tem-vagas-em-ribeirao-preto-e-salarios-de-ate-r-12-mil-veja-edital/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:39",
+"t": "Secretaria de Saúde de PG se reúne para debater enfrentamento às emergências climáticas",
+"p": "Sala de Situação foi criada para preparar equipes para atuar diante dos possíveis impactos relacionados ao El Niño na saúde",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/secretaria-de-saude-de-pg-se-reune-para-debater-enfrentamento-as-emergencias-climaticas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:36",
+"t": "Confira as ofertas de emprego no PAT Marília nesta terça-feira (10/11)",
+"p": "Ao todo, são 18 funções disponíveis, com oportunidades para diferentes níveis de escolaridade e experiência.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-terca-feira-10-11/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:33",
+"t": "Confira a previsão do tempo para Marília nesta terça-feira (10/11)",
+"p": "Dia começa ameno com mínima de 14°C, tempo firme e sem previsão de chuvas na cidade.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-terca-feira-10-11/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:30",
+"t": "Fábio Jr. lamenta morte de fã que passou mal durante show no interior de SP",
+"p": "O cantor Fábio Jr. usou suas redes sociais para lamentar publicamente o falecimento de uma fã que passou mal durante sua apresentação no município de Jaguariúna, no interior de São Paulo, realizada no último sábado (7). A vítima foi identificada como Sheila Cruz Martins, de 51 anos, que chegou a receber assistência…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Jaguariúna"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fabio-jr-lamenta-morte-de-fa-que-passou-mal-durante-show-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:29",
+"t": "SP Águas publica edital de concurso público com 190 vagas e salários de até R$ 12 mil",
+"p": "Inscrições ficam abertas de 17 de novembro a 17 de dezembro, exclusivamente pelo site da Fundação Getulio Vargas (FGV)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/sp-aguas-publica-edital-de-concurso-publico-com-190-vagas-e-salarios-de-ate-r-12-mil/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:25",
+"t": "Criança de 4 anos pede socorro a porteiro após mãe ser morta a facadas",
+"p": "Câmeras de segurança de um condomínio residencial no bairro Parque São Vicente, em São Vicente, no litoral paulista, registraram momentos dramáticos em que um menino de quatro anos desceu sozinho até a portaria para pedir socorro após a mãe ser assassinada dentro de casa. O crime ocorreu na madrugada da última…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/crianca-de-4-anos-pede-socorro-a-porteiro-apos-mae-ser-morta-a-facadas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:24",
+"t": "Falta de água atinge bairro hoje; veja onde e horário",
+"p": "Interrupção está prevista das 8h às 17h devido a uma obra de interligação da rede de água; abastecimento será retomado gradualmente",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-agua-atinge-bairro-hoje-veja-onde-e-horario/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:22",
+"t": "Polícia investiga 15º corpo encontrado com sinais de violência extrema na capital",
+"p": "A Polícia Militar localizou, na noite do último domingo (8), o corpo decapitado de um homem no Parque América, região do Grajaú, na zona sul de São Paulo. Imagens de uma câmera de segurança registraram o momento em que um veículo parou na Rua Luiz Lutti e um dos ocupantes abandonou o cadáver próximo à […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-investiga-15o-corpo-encontrado-com-sinais-de-violencia-extrema-na-capital/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:14",
+"t": "Mega da Virada de R$ 1,09 bilhão entrou para a história com seis ganhadores, bolões premiados e sorteio adiado por falha inédita",
+"p": "A última edição da Mega da Virada movimentou o Brasil e entrou para a história das loterias. O concurso 2.955, referente a 2025, distribuiu R$ 1.091.357.286,52, o maior prêmio já registrado pelas Loterias da Caixa até então. Ao todo, seis apostas acertaram as seis dezenas e dividiram a bolada milionária. Os números…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/mega-da-virada-de-r-109-bilhao-entrou-para-a-historia-com-seis-ganhadores-boloes-premiados-e-sorteio-adiado-por-falha-inedita/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:11",
+"t": "Exposição gratuita em Santos apresenta pinturas de crianças com deficiência",
+"p": "Obras refletem experiências, sentimentos e diferentes olhares dos alunos sobre o mundo",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/exposicao-gratuita-em-santos-apresenta-pinturas-de-criancas-com-deficiencia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:07",
+"t": "Reservatório de água de Brás Cubas vai receber painel de grafite de 1,5 mil m² em Mogi das Cruzes",
+"p": "Intervenção foi a alternativa encontrada para valorizar o espaço público e conter pichações recorrentes na fachada",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/reservatorio-de-agua-de-braz-cubas-vai-receber-painel-de-grafite-de-15-mil-m%c2%b2-em-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "09:06",
+"t": "Confira o calendário de pagamento do IPVA de 2027 em São Paulo",
+"p": "O Governo do Estado de São Paulo divulgou na segunda-feira (9) o calendário de pagamento do IPVA de 2027. Os vencimentos da primeira cota começam em 11 de janeiro, para veículos com placa de final 1.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/confira-o-calendario-de-pagamento-do-ipva-de-2027-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:58",
+"t": "Veja como está o trânsito na rodovia dos Tamoios nesta manhã de terça (10)",
+"p": "Pistas seguem livres de acidentes rumo ao litoral norte de SP e ao interior; motorista deve ter atenção para obras no planalto e na serra antiga",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/veja-como-esta-o-transito-na-rodovia-dos-tamoios-nesta-manha-de-terca-10.html",
+"auto": true
+},
 {
 "d": "2026-11-10",
 "h": "08:56",
@@ -138,6 +508,18 @@
 },
 {
 "d": "2026-11-10",
+"h": "08:45",
+"t": "Melhor rodovia do Brasil já foi conhecida como estrada da morte e guarda histórias pouco conhecidas em SP",
+"p": "Melhor rodovia do Brasil já teve fama de perigosa",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/melhor-rodovia-do-brasil-ja-foi-conhecida-como-estrada-da-morte-e-guarda-historias-pouco-conhecidas-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "08:43",
 "t": "Ecovias Noroeste Paulista programa obras e alterações no tráfego em rodovias da região nesta semana",
 "p": "A concessionária Ecovias Noroeste Paulista iniciou um cronograma de intervenções, obras de ampliação e serviços de conservação em diversas rodovias do interior paulista, com programação prevista entre esta segunda-feira (9) e o próximo domingo (15). Os trabalhos envolvem melhorias no pavimento, sinalização e…",
@@ -146,6 +528,20 @@
 "c": [],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/ecovias-noroeste-paulista-programa-obras-e-alteracoes-no-trafego-em-rodovias-da-regiao-nesta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:42",
+"t": "Desoneração da gasolina e do etanol é prorrogada por mais 30 dias; Entenda",
+"p": "Desoneração de tributos federais sobre a gasolina e o etanol foi prorrogada por mais 30 dias pelo governo",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/desoneracao-da-gasolina-e-do-etanol-e-prorrogada-por-mais-30-dias-entenda/",
 "auto": true
 },
 {
@@ -256,6 +652,20 @@
 },
 {
 "d": "2026-11-10",
+"h": "08:19",
+"t": "São Bernardo amplia troca gratuita de geladeiras velhas por modelos novos",
+"p": "A ação é realizada pela Prefeitura, em parceria com a Enel Brasil, por meio do programa Enel Compartilha Eficiência.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367854/sao-bernardo-amplia-troca-gratuita-de-geladeiras-velhas-por-modelos-novos-",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "08:16",
 "t": "MPSP denuncia Milton Leite e mais 14 pessoas por suposto elo com o PCC",
 "p": "MPSP pede também abertura de nova investigação para apurar crime de lavagem de dinheiro praticado pelo ex-vereador Milton Leite",
@@ -264,6 +674,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/mpsp-denuncia-milton-leite-e-mais-14-pessoas-por-suposto-elo-com-o-pcc",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "08:15",
+"t": "São Paulo registra 549 km de trânsito lento nesta terça-feira e Bandeirantes tem mais de 5 km de congestionamento",
+"p": "São Paulo registra 549 quilômetros de trânsito lento nesta terça-feira",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/sao-paulo-registra-549-km-de-transito-lento-nesta-terca-feira-e-bandeirantes-tem-mais-de-5-km-de-congestionamento/",
 "auto": true
 },
 {
@@ -706,6 +1128,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/viver-bem/quando-a-gravida-deve-tomar-acido-folico-saiba-em-que-momento-iniciar-a-suplementacao/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "00:00",
+"t": "Postergada a constituição do Conselho Municipal de Usuários dos Serviços Públicos para 2027",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67726",
 "auto": true
 },
 {
