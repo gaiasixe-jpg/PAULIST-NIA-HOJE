@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-09T23:57:12-03:00",
-"novos_nesta_coleta": 3,
+"atualizado": "2026-11-10T00:57:12-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-10",
+"h": "00:02",
+"t": "Quando a grávida deve tomar ácido fólico? Saiba em que momento iniciar a suplementação",
+"p": "Planejar uma gravidez envolve uma série de cuidados que devem começar antes mesmo da concepção, com o objetivo de favorecer a saúde da mulher e o desenvolvimento saudável do bebê. Entre eles, destaca-se a suplementação de ácido fólico, também conhecido como vitamina B9, nutriente essencial para a formação de novas…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/quando-a-gravida-deve-tomar-acido-folico-saiba-em-que-momento-iniciar-a-suplementacao/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "23:49",
+"t": "São Vicente convoca 105 novos guardas municipais e vai alcançar recorde histórico de efetivo para reforçar patrulhamento",
+"p": "A Prefeitura de São Vicente convocou 105 novos guardas civis municipais para reforçar o quadro da corporação. A iniciativa amplia o contingente de segurança pública local. Além disso, a convocação supera a marca histórica anterior alcançada na gestão do prefeito Kayo Amado. Com essa etapa, a cidade passa a contar…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/sao-vicente/sao-vicente-convoca-105-novos-guardas-municipais/",
+"auto": true
+},
 {
 "d": "2026-11-09",
 "h": "23:48",
