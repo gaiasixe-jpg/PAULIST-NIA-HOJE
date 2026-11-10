@@ -3,6 +3,96 @@
 "itens": [
 {
 "d": "2026-11-09",
+"h": "22:39",
+"t": "Vereadores pedem convocação de chefe de gabinete da Prefeitura de Rio Preto",
+"p": "Grupo quer informações sobre atividades, resultados e custos dos cargos de assessores especiais da Prefeitura",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereadores-pedem-convocacao-de-chefe-de-gabinete-da-prefeitura-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "22:32",
+"t": "Ladrão furta dinheiro e celular de casa, tenta se esconder em hospital e é preso",
+"p": "Suspeito de 37 anos arrombou portas e janelas enquanto a família dormia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/ladrao-furta-dinheiro-e-celular-de-casa-tenta-se-esconder-em-hospital-e-e-preso/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "22:30",
+"t": "Novos cursos online da Fiocruz em parceria com o Ministério da Saúde geram 33 mil vagas sem nenhum tipo de mensalidade",
+"p": "Interessados em se qualificar na área da saúde já podem realizar a inscrição nos dois novos cursos livres a distância lançados pela Fundação Oswaldo Cruz (Fiocruz MS), em parceria com o Ministério da Saúde. Ao todo, a instituição disponibiliza 33 mil vagas sem nenhum tipo de mensalidade. As oportunidades são de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/novos-cursos-online-da-fiocruz-em-parceria-com-o-ministerio-da-saude-geram-33-mil-vagas-sem-nenhum-tipo-de-mensalidade/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "22:27",
+"t": "TCE-SP encontra mofo, estrutura precária e unidades fechadas em DDMs e IMLs",
+"p": "Fiscalização do TCE-SP apontou para a precariedade dos equipamentos públicos estaduais de enfrentamento à violência contra a mulher",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tce-sp-encontra-mofo-estrutura-precaria-e-unidades-fechadas-em-ddms-e-imls",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "22:27",
+"t": "Graduandos com bolsa de extensão organizam cursinho Pré-ENEM gratuito; ação eleva chances de alunos de baixa renda no ensino superior",
+"p": "Graduandos que recebem bolsa de extensão passam a organizar cursinho Pré-ENEM gratuito e, com isso, elevam de forma concreta as chances de alunos de baixa renda disputarem uma vaga no ensino superior. A iniciativa nasce do encontro entre a formação acadêmica e o compromisso de levar à comunidade o que a…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/graduandos-com-bolsa-de-extensao-organizam-cursinho-pre-enem-gratuito-acao-eleva-chances-de-alunos-de-baixa-renda-no-ensino-superior/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "22:27",
+"t": "Ailto Catelan é efetivado como secretário de Habitação de Rio Preto",
+"p": "Gestor estava à frente da pasta interinamente desde agosto, após a saída de Jorge Menezes",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/ailto-catelan-e-efetivado-como-secretario-de-habitacao-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "22:05",
+"t": "Imposto do pecado no agro: picanha fica fora, mas cerveja, vinho e picapes usadas nas fazendas podem entrar na conta em 2027; veja o que muda",
+"p": "O churrasco de domingo não terá a picanha diretamente atingida pelo chamado imposto do pecado. Entretanto, a cerveja e o vinho entram na lista de produtos sujeitos ao Imposto Seletivo, criado pela reforma tributária. O novo tributo também alcança determinadas categorias de veículos, o que coloca as picapes…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/imposto-do-pecado-no-agro-picanha-fica-fora-mas-cerveja-vinho-e-picapes-usadas-nas-fazendas-podem-entrar-na-conta-em-2027-veja-o-que-muda/",
+"auto": true
+},
+{
+"d": "2026-11-09",
 "h": "21:55",
 "t": "Acidente destrói sinalização e tubulações na Avenida Litério Grecco em Fernandópolis",
 "p": "Um acidente de trânsito registrado na Avenida Litério Grecco, nas proximidades do shopping de Fernandópolis, causou estragos significativos na infraestrutura pública do trecho. A colisão provocou o rompimento de tubulações e a destruição de estruturas de sinalização viária instaladas no local. No ponto do impacto,…",
@@ -27,6 +117,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/mulher-recusa-teste-do-bafometro-e-e-detida-pela-policia-militar-no-centro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-09",
+"h": "21:44",
+"t": "Ícone urbano do final do século XX, orelhão volta às ruas com água gelada e micro-ondas de graça para atender motoristas e entregadores de app",
+"p": "O clássico orelhão brasileiro ressurge em Belo Horizonte a partir desta terça-feira, 10 de novembro. Desta vez, a tradicional cúpula urbana assume uma nova função social. A estrutura passa a fornecer água gelada e forno micro-ondas sem qualquer custo aos trabalhadores. A iniciativa atende profissionais que passam o…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/icone-urbano-do-final-do-seculo-xx-orelhao-volta-as-ruas/",
 "auto": true
 },
 {
