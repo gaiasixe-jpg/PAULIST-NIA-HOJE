@@ -3,6 +3,76 @@
 "itens": [
 {
 "d": "2026-11-10",
+"h": "02:59",
+"t": "Rio Preto efetiva Ailto Catelan como secretário de Habitação",
+"p": "Gestor ocupava o posto interinamente desde agosto, após a saída de Jorge Menezes, e agora assume o comando definitivo da pasta",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ailto-catelan-e-efetivado-como-secretario-de-habitacao-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "02:59",
+"t": "Homem é preso em hospital de Rio Preto após furtar residência",
+"p": "Suspeito de 37 anos levou dinheiro e celular no Jardim Astúrias antes de ser contido por moradores e entregue à Guarda Civil Municipal.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ladrao-furta-dinheiro-e-celular-de-casa-tenta-se-esconder-em-hospital-e-e-preso/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "02:58",
+"t": "Câmara de Rio Preto vota convocação de chefe de gabinete",
+"p": "Requerimento pede dados sobre gastos e atuação de assessores da Prefeitura que trabalham em Brasília e São Paulo",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/vereadores-pedem-convocacao-de-chefe-de-gabinete-da-prefeitura-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "02:25",
+"t": "Rocambole chinês e água indiana: veja itens encontrados no litoral de SP",
+"p": "Itens fazem parte do lixo internacional encontrado pela ONG Ecomov durante uma coleta em 23 de outubro em Bertioga, litoral de SP",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/rocambole-chines-e-agua-indiana-veja-itens-encontrados-no-litoral-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "02:20",
+"t": "MPSP investiga origem de lixo internacional encontrado nas praias de SP",
+"p": "Inquérito do Ministério Público com dados da ONG Ecomov apura de onde vem o lixo internacional encontrado nas praias de São Paulo",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-investiga-origem-de-lixo-internacional-encontrado-nas-praias-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "00:02",
 "t": "Quando a grávida deve tomar ácido fólico? Saiba em que momento iniciar a suplementação",
 "p": "Planejar uma gravidez envolve uma série de cuidados que devem começar antes mesmo da concepção, com o objetivo de favorecer a saúde da mulher e o desenvolvimento saudável do bebê. Entre eles, destaca-se a suplementação de ácido fólico, também conhecido como vitamina B9, nutriente essencial para a formação de novas…",
