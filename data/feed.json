@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T17:53:41-03:00",
-"novos_nesta_coleta": 18,
+"atualizado": "2026-11-10T18:48:52-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,176 @@
 "itens": [
 {
 "d": "2026-11-10",
+"h": "18:45",
+"t": "Ralo do banheiro entupido: mistura de detergente, bicarbonato e vinagre ajuda a limpar os canos em casa",
+"p": "A água começa a acumular no box do banheiro, demora para desaparecer e transforma um banho rápido em uma situação bastante incômoda. O problema pode estar no acúmulo de cabelos, restos de produtos de higiene e sujeira dentro do ralo do chuveiro. Antes de pensar em chamar um encanador, existe uma alternativa caseira…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/ralo-do-banheiro-entupido-mistura-de-detergente-bicarbonato-e-vinagre-ajuda-a-limpar-os-canos-em-casa/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:33",
+"t": "Filha de brasileira entregue grávida à Alemanha nazista nasceu em prisão de Berlim, ficou 14 meses detida e está prestes a completar 90 anos",
+"p": "Em 27 de novembro de 1936, uma menina nasceu na prisão feminina da Barnimstrasse, em Berlim, na Alemanha nazista. Sua mãe havia sido retirada do Brasil durante a gravidez por determinação do governo de Getúlio Dornelles Vargas. A criança recebeu o nome de Anita Leocádia Benário Prestes e, em 27 de novembro de 2026,…",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/filha-de-brasileira-entregue-gravida-a-alemanha-nazista-nasceu-em-prisao-de-berlim-ficou-14-meses-detida-e-esta-prestes-a-completar-90-anos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:31",
+"t": "FHC: o que se sabe sobre o caso do vídeo gravado na casa do ex-presidente",
+"p": "Entenda desdobramentos e acusações envolvendo um jornalista que entrou no apartamento e expôs a intimidade do ex-presidente FHC",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/fhc-o-que-se-sabe-sobre-o-caso-do-video-gravado-na-casa-do-ex-presidente",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:30",
+"t": "Concurso da PM de SP abre as inscrições e oferece 2 mil vagas para soldados com salário de R$ 5.482",
+"p": "A Polícia Militar do Estado de São Paulo abriu concurso público com 2 mil vagas para aluno-soldado PM, destinadas a candidatos de ambos os sexos. A seleção exige ensino médio completo e oferece remuneração básica inicial de R$ 5.482,51. As inscrições começaram às 10h desta segunda-feira (9/11) e seguem até as 23h59…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/concurso-da-pm-de-sp-abre-as-inscricoes-e-oferece-2-mil-vagas-para-soldados-com-salario-de-r-5-482/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:25",
+"t": "Sorocaba conquista reconhecimento nacional por inovação e desenvolvimento de IA",
+"p": "Fotos: Divulgação/PTS O município recebeu o IA Honors – Governos Inteligentes 2026, homenagem concedida pelo Fórum Mundial de Inteligência Artificial A cidade de Sorocaba foi reconhecida nacionalmente pelo uso da tecnologia e da inteligência artificial, por meio de ações e projetos implementados pelo PTS (Parque…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-conquista-reconhecimento-nacional-por-inovacao-e-desenvolvimento-de-ia/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:22",
+"t": "Parque Capivari inaugura decoração natalina inspirada na obra de Mauricio de Sousa",
+"p": "Além dos enfeites, shows com a turma da mônica também fazem parte da programação",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/parque-capivari-inaugura-decoracao-natalina-inspirada-na-obra-de-mauricio-de-sousa.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:20",
+"t": "Mulher confessa que matou pai de atacante Rony pendência financeira",
+"p": "Reprodução / Instagram - @Rony7oficial Marigerson Barbosa Carneiro, de 72 anos, pai do atacante Rony, do Santos, foi morto por não ter pago o valor combinado por um programa sexual.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/mulher-confessa-que-matou-pai-de-atacante-rony-pendencia-financeira/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:18",
+"t": "Veja o momento em que 15° corpo em saco é desovado por homens na zona sul",
+"p": "Imagens de câmeras de segurança registraram o momento em que homens abandonam um corpo decapitado na calçada de uma casa",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/veja-o-momento-em-que-15-corpo-em-saco-e-desovado-por-homens-na-zona-sul",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:16",
+"t": "Batida em postes dobra em Campinas e soma seis mortes neste ano",
+"p": "Levantamento da Emdec aponta que número de ocorrências com mortes passou de três para seis nos nove primeiros meses do ano, apesar de total de acidentes permanecer estável; excesso de velocidade, álcool e distração estão entre os fatores de risco",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/batida-em-postes-dobra-em-campinas-e-soma-seis-mortes-neste-ano/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:10",
+"t": "Ilha com apenas 69 famílias e quase 100 anos de tradição caiçara abre as portas para festival gratuito com música, gastronomia e atrações em Santos",
+"p": "Uma pequena comunidade cercada por manguezais, acessível apenas por barco e com tradições preservadas há quase um século será palco de uma celebração cultural em Santos. No dia 28 de novembro, a Ilha Diana recebe a segunda edição do Festival da Cultura Caiçara, com entrada gratuita e uma programação que reúne…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/santos/ilha-com-apenas-69-familias-e-quase-100-anos-de-tradicao-caicara-abre-as-portas-para-festival-gratuito-com-musica-gastronomia-e-atracoes-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "18:00",
+"t": "Contrato de R$ 6 milhões prevê iPhones 18 Pro de R$ 13,5 mil para parlamentares e troca a cada dois anos",
+"p": "O Senado Federal prevê gastar R$ 6,04 milhões em quatro anos para fornecer celulares e serviços de telefonia móvel a parlamentares e servidores da Casa. A licitação prevê 95 iPhones 18 Pro e outros 330 aparelhos da Samsung e Motorola, além de modems, chips e pacotes de internet. Os dispositivos serão…",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/contrato-de-r-6-milhoes-preve-iphones-18-pro-de-r-135-mil-para-parlamentares-e-troca-a-cada-dois-anos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "17:59",
+"t": "Diadema recebe três veículos para visitas de equipes do Cras e Creas",
+"p": "Automóveis foram adquiridos com emenda parlamentar; cerimônia também teve anúncio de mais de R$ 2,5 milhões para unidades de assistência social",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367981/diadema-recebe-tres-veiculos-para-visitas-de-equipes-do-cras-e-creas",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "17:57",
+"t": "Escultura atingida por árvore no Centro de Convivência quebra; ainda não há prazo para reparo",
+"p": "Obra 'Tataum', criada pelo artista plástico Petrocino e instalada em 2009, foi atingida no dia 31 de outubro; prefeitura afirma que está em contato com o escultor para buscar uma solução para o restauro",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/escultura-atingida-por-arvore-no-centro-de-convivencia-quebra-ainda-nao-ha-prazo-para-reparo/",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "17:52",
 "t": "Kits de sobrevivência: o que está por trás do alerta da Defesa Civil?",
 "p": "Mensagem ganhou interpretações exageradas nas redes; MN TV foi atrás de esclarecimentos para separar as informações oficiais dos boatos.",
@@ -73,6 +243,18 @@
 ],
 "src": "Boqnews",
 "u": "https://www.boqnews.com/litoral/praia-grande-inicia-a-instalacao-de-novos-abrigos-de-onibus/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "17:47",
+"t": "Um tsunami de sete metros fez a Terra tremer por nove dias e cientistas levaram um ano para explicar o sinal de 92 segundos",
+"p": "Vista de uma imensa geleira na Groenlândia e falhas rochosas escarpadas junto à água com um pequeno barco em primeiro plano",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/um-tsunami-de-sete-metros-fez-a-terra-tremer-por-nove-dias-e-cientistas-levaram-um-ano-para-explicar-o-sinal-de-92-segundos/",
 "auto": true
 },
 {
