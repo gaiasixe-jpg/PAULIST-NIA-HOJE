@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T16:00:14-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-10T16:58:37-03:00",
+"novos_nesta_coleta": 25,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,295 @@
 "itens": [
 {
 "d": "2026-11-10",
+"h": "16:51",
+"t": "Ex-presidentes dos Estados Unidos recebem pensão desde 1958, mas no Brasil a lei funciona de outro jeito: garante servidores, motoristas e carros oficiais",
+"p": "Uma lei aprovada nos Estados Unidos em 1958 passou a garantir uma pensão anual de US$ 25 mil aos antigos ocupantes da Presidência. Entre os primeiros beneficiários estavam Harry S. Truman e Herbert Hoover, que aceitaram o pagamento previsto na nova legislação. No Brasil, uma lei de 1986 estabeleceu outro modelo: em…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/ex-presidentes-dos-estados-unidos-recebem-pensao-desde-1958-mas-no-brasil-a-lei-funciona-de-outro-jeito-garante-servidores-motoristas-e-carros-oficiais/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:49",
+"t": "Santos pede à FPF para jogar em São Paulo durante obras na Vila Belmiro",
+"p": "Diretoria santista busca alternativa para os jogos como mandante no Paulistão 2027; reforma do estádio inclui ampliação das arquibancadas e troca do gramado",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/esportes/santos-pede-a-fpf-para-jogar-em-sao-paulo-durante-obras-na-vila-belmiro/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:41",
+"t": "Instituto Federal de Jundiaí abre vagas para curso técnico gratuitas em Administração; veja como se inscrever",
+"p": "Foto: Divulgação/IFSP Podem participar estudantes que estejam cursando o Ensino Médio ou pessoas que já concluíram essa etapa",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/ifsp-jundiai-vagas-curso-tecnico-administracao-2027/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:38",
+"t": "Chuva forte pode atingir Jundiaí na quinta-feira; veja como fica o tempo até sábado",
+"p": "Foto: Prefeitura de Jundiaí Defesa Civil alerta para possibilidade de chuva forte em Jundiaí na quinta-feira (12). Confira previsão do tempo até sábado (14).",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/chuva-jundiai-alerta-defesa-civil-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:36",
+"t": "Prefeito pede remanejamento de R$ 550 mil do orçamento da Câmara",
+"p": "Projeto enviado por Fábio Candido prevê transferir recursos destinados aos pagamentos do Legislativo para a Secretaria de Serviços Gerais",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeito-pede-remanejamento-de-r-550-mil-do-orcamento-da-camara/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:34",
+"t": "Mercado é condenado a indenizar funcionária após servir refeição com inseto",
+"p": "Justiça acatou recurso da vítima e determinou que a rede de supermercados de Diadema pague uma indenização total de R$ 35 mil",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mercado-e-condenado-a-indenizar-funcionaria-apos-servir-refeicao-com-inseto",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:30",
+"t": "O que é o imposto do pecado e por que cigarros, bebidas e veículos serão taxados no Brasil",
+"p": "O Imposto Seletivo (IS), conhecido popularmente como “imposto do pecado”, é um tributo federal criado pela reforma tributária para desestimular o consumo de produtos e serviços considerados prejudiciais à saúde ou ao meio ambiente. A cobrança será adicional aos demais impostos e atingirá categorias como cigarros,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/o-que-e-o-imposto-do-pecado-e-por-que-cigarros-bebidas-e-veiculos-serao-taxados-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:29",
+"t": "Governo Federal pede derrubada de 348 perfis de influenciadores que divulgam bets ilegais",
+"p": "Entre os alvos está uma conta com 1,4 milhão de seguidores. Fiscalização do Ministério da Justiça já identificou mais de 60 mil sites, páginas e perfis utilizados para promover apostas irregulares",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/governo-federal-pede-derrubada-de-348-perfis-de-influenciadores-que-divulgam-bets-ilegais/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:23",
+"t": "Van do Emprego estará no Terminal Santo Antônio, de 16 a 18 de novembro",
+"p": "A unidade itinerante da Casa do Trabalhador, a “Van do Emprego e Qualificação”, atenderá no Terminal Santo Antônio, na Avenida Afonso Vergueiro, 773 – Centro, entre os dias 16 e 18 de novembro, das 8h30 às 12h e das 13h às 16h. Na Van, o morador que está em busca de vaga no mercado de […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/van-do-emprego-estara-no-terminal-santo-antonio-de-16-a-18-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:19",
+"t": "Carnaval de Jundiaí abre inscrições para escolha da Corte Real 2027; saiba como participar",
+"p": "Foto: Divulgação/LIJUNES Interessados têm até 19 de novembro para se inscrever; concursos para Rei Momo, Rainha e Passista de Ouro serão realizados em dezembro, no Espaço Expressa. Confira.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/inscricoes-corte-carnaval-jundiai-2027/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:18",
+"t": "Trailer supostamente abandonado gera perturbação e insegurança na Avenida Paulo Saravalli em Fernandópolis",
+"p": "Moradores da Avenida Paulo Saravalli, próximo ao cruzamento com a Rua Paraná, em Fernandópolis, cobram providências em relação a um trailer em péssimas condições de conservação que se encontra estacionado às margens de um terreno. De acordo com vizinhos do local, a estrutura deteriorada tem provocado transtornos…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/trailer-supostamente-abandonado-gera-perturbacao-e-inseguranca-na-avenida-paulo-saravalli-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:15",
+"t": "Escritor transforma brincadeira em família em projeto de leitura infantil e traz duende de bermuda e boneco de areia para crianças do Brasil",
+"p": "Uma brincadeira criada dentro de casa para aproximar a família acabou se transformando em um projeto literário que ultrapassou fronteiras. O escritor santista Wagner Rodrigo Silvestre, que vive na Alemanha há 27 anos, encontrou nos próprios filhos a inspiração para criar histórias infantis protagonizadas por um…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/escritor-transforma-brincadeira-em-familia-em-projeto-de-leitura-infantil-e-traz-duende-de-bermuda-e-boneco-de-areia-para-criancas-do-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:13",
+"t": "Concurso público em SP oferece 190 vagas com salários a partir de R$ 10 mil; veja como se inscrever",
+"p": "Vagas são para os cargos de Especialista em Regulação e Fiscalização de Recursos Hídricos e Analista de Suporte; inscrições vão até dia 12 de dezembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/concurso-publico-em-sp-oferece-190-vagas-com-salarios-a-partir-de-r-10-mil-veja-como-se-inscrever/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:09",
+"t": "Provão Paulista: estudantes têm até 27 de novembro para escolher cursos",
+"p": "Processo oferece 15,8 mil vagas no primeiro semestre em universidades e faculdades públicas do estado de São Paulo",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/educacao/provao-paulista-estudantes-tem-ate-27-de-novembro-para-escolher-cursos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:09",
+"t": "Guarujá oferece 1.415 atendimentos de saúde neste sábado (14); veja os serviços",
+"p": "Programação do Novembro Azul inclui ultrassonografias, vasectomias, exames cardíacos e mil consultas oftalmológicas para pacientes com diabetes",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/guaruja-oferece-1415-atendimentos-de-saude-neste-sabado-14-veja-os-servicos.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:06",
+"t": "Santos solicita jogos na capital no Paulistão 2027",
+"p": "Raul Baretta / Santos A solicitação ocorre porque a Vila Belmiro passará por um período de reformas, inviabilizando o uso do estádio",
+"tema": "Geral",
+"s": "obra",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/santos-solicita-jogos-na-capital-no-paulistao-2027/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:02",
+"t": "Matemática e Ciências da Natureza: saiba o que revisar para o Enem",
+"p": "O segundo dia do Exame Nacional do Ensino Médio (Enem), marcado para 15 de novembro, dedicado às provas de Matemática e Ciências da Natureza, exige dos candidatos atenção a diferentes habilidades, desde o domínio de conceitos fundamentais até a capacidade de resolver problemas e interpretar informações. Com a…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/matematica-e-ciencias-da-natureza-saiba-o-que-revisar-para-o-enem/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:00",
+"t": "Escavação dos poços do Metrô de Taboão da Serra ultrapassa 50% de conclusão",
+"p": "As obras de extensão da Linha 4-Amarela do Metrô até Taboão da Serra, na Grande São Paulo, avançam e entram em uma nova etapa de execução. Considerada uma das futuras estações mais modernas do País, a unidade de Taboão da Serra promete se tornar um marco para a mobilidade urbana no estado de São Paulo. […]",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Taboão da Serra"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/escavacao-dos-pocos-do-metro-de-taboao-da-serra-ultrapassa-50-de-conclusao/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:00",
+"t": "Santos passa a emitir certidão de sepulturas dos cemitérios municipais pela internet",
+"p": "Henrique Teixeira/Arquivo Prefeitura de Santos A certidão de sepulturas dos cemitérios municipais pode ser solicitada por e-mail, sem necessidade de deslocamento.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-passa-a-emitir-certidao-de-sepulturas-dos-cemiterios-municipais-pela-internet/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:00",
+"t": "Após revista, mulheres são impedidas de entrarem no Complexo Penal de SV",
+"p": "Divulgação /Polícia Penal SP Visitantes do Complexo Penal de São Vicente, no litoral de São Paulo, foram barrados e não puderam entrar nos presídios.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente",
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/sao-vicente/apos-revista-mulheres-sao-impedidas-de-entrarem-no-complexo-penal-de-sv/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "16:00",
+"t": "Após denúncia de morador, Caraguatatuba retira mais de 100kg de lixo de bueiro no Poiares",
+"p": "Equipes da Secretaria de Serviços Públicos levaram mais de cinco horas para desobstruir cinco metros de tubulação na avenida Floriano Peixoto",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/apos-denuncia-de-morador-caraguatatuba-retira-mais-de-100-kg-de-lixo-de-bueiro-no-poiares.html",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "15:55",
 "t": "Justiça manda internar menor que fez ameaças nazistas a crianças de creche",
 "p": "O adolescente de 16 anos também atacou o prefeito e cometeu injúria racial contra a mãe de um vereador de uma cidade no interior",
@@ -83,6 +372,20 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/senado-abre-licitacao-de-r-6-milhoes-para-renovar-celulares-com-modelos-de-luxo-como-o-iphone-18-pro-e-ampliacao-do-pacote-de-internet/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:48",
+"t": "Ribeirão Pires terá troca de PET por ração e vacinação gratuita",
+"p": "Projeto Tigela Cheia será realizado das 9h às 14h, no Paço Municipal, com limite de três quilos de ração por CPF e feira de adoção",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367946/ribeirao-pires-tera-troca-de-pet-por-racao-e-vacinacao-gratuita",
 "auto": true
 },
 {
@@ -192,6 +495,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-sao-vicente-jundiai-agendamento-exames/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "15:12",
+"t": "Mauá cria núcleo para orientar escolas no combate ao racismo",
+"p": "Núcleo oferecerá formação a educadores e suporte pedagógico; centro de referência reunirá materiais e orientações para as escolas municipais",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4367940/maua-cria-nucleo-para-orientar-escolas-no-combate-ao-racismo",
 "auto": true
 },
 {
@@ -2875,6 +3192,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67726",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "00:00",
+"t": "Coordenadoria promove palestra sobre nutrição e suplementação para idosos da Cohab",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67728",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "00:00",
+"t": "Natal Sem Fome 2026 encerra arrecadação com 4 toneladas de alimentos em Prudente",
+"p": "",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67727",
 "auto": true
 },
 {
