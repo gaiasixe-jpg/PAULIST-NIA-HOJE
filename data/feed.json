@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T04:23:16-03:00",
-"novos_nesta_coleta": 6,
+"atualizado": "2026-11-11T06:02:33-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,46 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "06:00",
+"t": "Estudantes do 3º ano do Ensino Médio devem escolher cursos do Provão Paulista até 27 de novembro",
+"p": "Após a realização das provas do Provão Paulista Seriado para os alunos da 3ª série do Ensino Médio, os formandos que buscam uma das 15,8 mil vagas oferecidas nas universidades e faculdades estaduais devem ficar atentos aos prazos das próximas etapas. A indicação das opções de curso, que segue aberta até o dia 27 de […]",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estudantes-do-3o-ano-do-ensino-medio-devem-escolher-cursos-do-provao-paulista-ate-27-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "05:00",
+"t": "Homem é preso por roubo a condomínio em Santos após se passar por entregador; VÍDEO",
+"p": "Divulgação/Polícia Civil Suspeito de 42 anos confessou participação no crime após identificação e segundo envolvido é procurado.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/homem-e-preso-por-roubo-a-condominio-em-santos-apos-se-passar-por-entregador-video/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "04:10",
+"t": "Justiça extingue ação da Transzero contra cassação de licença",
+"p": "Empresa do Grupo Sada recorreu da decisão de São Bernardo de suspender seu CLI devido ao Estudo de Impacto de Vizinhança",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368052/justica-extingue-acao-da-transzero-contra-cassacao-de-licenca",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "03:50",
