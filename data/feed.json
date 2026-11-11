@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T10:17:38-03:00",
-"novos_nesta_coleta": 39,
+"atualizado": "2026-11-11T11:58:39-03:00",
+"novos_nesta_coleta": 34,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,418 @@
 "itens": [
 {
 "d": "2026-11-11",
+"h": "11:58",
+"t": "Saúde de Jales reúne secretarias para alinhar plano de combate à dengue e controle de escorpiões",
+"p": "A Secretaria Municipal de Saúde de Jales, por meio da Vigilância Epidemiológica, promoveu na manhã de terça-feira (10) a Segunda Reunião Ordinária da Sala de Situação das Arboviroses. O encontro reuniu a secretária da pasta, Nilva Gomes Rodrigues de Souza, a diretora de Vigilância em Saúde, Patrícia Albarelo, além…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/saude-de-jales-reune-secretarias-para-alinhar-plano-de-combate-a-dengue-e-controle-de-escorpioes/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:56",
+"t": "Mostra Estudantil de Teatro de Fernandópolis apresenta releitura bem-humorada de Cinderela nesta quarta-feira",
+"p": "A 29ª Mostra Estudantil de Teatro de Fernandópolis continua movimentando a cena cultural da cidade com atrações voltadas para o público infantojuvenil. Após o Teatro Municipal registrar grande público na terça-feira com a adaptação do clássico “O Pequeno Príncipe”, encenada pelo Colégio Incentivo COC, a programação…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mostra-estudantil-de-teatro-de-fernandopolis-apresenta-releitura-bem-humorada-de-cinderela-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:52",
+"t": "Homem armado com faca invade supermercado e se tranca em câmara fria em Votuporanga",
+"p": "A invasão de um homem armado com uma faca mobilizou funcionários e equipes da Polícia Militar na manhã desta quarta-feira (11), em um supermercado localizado na Rua das Américas, em Votuporanga. O suspeito, que aparentava estar desorientado e visivelmente machucado, acabou contido após se trancar na câmara fria do…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-armado-com-faca-invade-supermercado-e-se-tranca-em-camara-fria-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:46",
+"t": "Vigilante espanca catador de recicláveis e vítima entra em coma",
+"p": "Um catador de recicláveis de 32 anos está internado em estado grave e em coma induzido após ser brutalmente agredido por um vigilante de 40 anos em uma rua movimentada de Birigui, no interior de São Paulo. O crime, ocorrido em plena luz do dia, passou a ser investigado pela Polícia Civil após o pai […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vigilante-espanca-catador-de-reciclaveis-e-vitima-entra-em-coma/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:45",
+"t": "Havan leva carreata de Natal a 36 cidades do Brasil com caminhões iluminados, Papai Noel e atrações especiais até 20 de dezembro nas ruas",
+"p": "A Havan inicia neste domingo, 15 de novembro, sua tradicional carreata de Natal, com passagem por 36 cidades de Santa Catarina e do Rio Grande do Sul. A programação terá três caminhões decorados com milhares de luzes, música natalina, neve artificial e a presença do Papai Noel. A ação seguirá até 20 de dezembro e […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/havan-leva-carreata-de-natal-a-36-cidades-do-brasil-com-caminhoes-iluminados-papai-noel-e-atracoes-especiais-ate-20-de-dezembro-nas-ruas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:45",
+"t": "Bebê sol de Teletubbies, agora adulto, revela cachê e conta como uma consulta de rotina a levou à série que marcou gerações na TV",
+"p": "Antes de se tornar o Bebê do Sol de Teletubbies, Jess Smith era uma bebê de nove meses sorridente, acompanhada pela mãe em uma consulta de rotina. Naquele dia, funcionários do hospital receberam um pedido da equipe de produção: indicar crianças para uma nova série infantil. A mãe de Jess concordou em encaminhar o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/bebe-sol-de-teletubbies-agora-adulto-revela-cache-e-conta-como-uma-consulta-de-rotina-a-levou-a-serie-que-marcou-geracoes-na-tv/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:45",
+"t": "Homem é preso após furtar cobre de ar-condicionado e tentar esfaquear guardas em UPA",
+"p": "Um homem foi preso em flagrante pela Guarda Civil Municipal (GCM) na tarde desta terça-feira (10), suspeito de furto qualificado na Unidade de Pronto Atendimento (UPA) Santo Antônio, em São José do Rio Preto. O indivíduo foi detido logo após arrancar e furtar componentes de cobre do sistema de ar-condicionado…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-apos-furtar-cobre-de-ar-condicionado-e-tentar-esfaquear-guardas-em-upa/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:43",
+"t": "Bairros da zona Sul de Ribeirão Preto podem ficar sem água até o fim da tarde; Veja quais",
+"p": "Bairros da zona Sul da cidade têm alerta para falta d'água nesta quarta (11), devido a um reparo na rede de abastecimento na rua Rubens Ubida",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/bairros-da-zona-sul-de-ribeirao-preto-podem-ficar-sem-agua-ate-o-fim-da-tarde-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:33",
+"t": "Pedranópolis define para fevereiro de 2027, almoço e leilão em prol da Santa Casa de Fernandópolis",
+"p": "A Prefeitura de Pedranópolis realizará, no dia 06 de fevereiro de 2027, um almoço e leilão beneficente com 100% da renda revertida para a Santa Casa de Fernandópolis. A confirmação da data foi oficializada pelo prefeito Fausto Rosa após reunião com o diretor de marketing da instituição, Cleber Rocha. Toda a…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis",
+"Pedranópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pedranopolis-define-para-fevereiro-de-2027-almoco-e-leilao-em-prol-da-santa-casa-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:32",
+"t": "Longevidade masculina: saúde é essencial para envelhecer bem",
+"p": "Especialista Maristela Ferreira destaca a importância da atividade física, dos cuidados com a saúde e da qualidade de vida para viver mais e melhor.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/conteudo-patrocinado/momento-da-familia/longevidade-masculina-saude-e-essencial-para-envelhecer-bem/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:29",
+"t": "TJ mantém prisão de ex-secretário de Assis e nega liminar a outro réu",
+"p": "Decisão unânime também mantém preso servidor municipal; pedido de liberdade de terceiro acusado ainda será julgado.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Assis"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tj-mantem-prisao-de-ex-secretario-de-assis-e-nega-liminar-a-outro-reu/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:21",
+"t": "Câmara de Jundiaí aprova criação do Selo ‘Pet Friendly’ para o comércio local",
+"p": "Sessão recebeu bom público nesta terça-feira - Foto: Reprodução/YouTube Câmara de Jundiaí Projeto do vereador João Victor garante certificação oficial para bares, restaurantes e lojas que autorizam a entrada e permanência de animais de estimação",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-jundiai-aprova-selo-pet-friendly-comercio/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:18",
+"t": "2ª edição da Sacada Cultural ocorre no Chalé Francês nesta sexta-feira (13)",
+"p": "A 2ª edição da Sacada Cultural chega ao Chalé Francês, no Centro, nesta sexta-feira (13), das 18h às 21h, reunindo música, arte e gastronomia, em um espaço público considerado patrimônio histórico de Sorocaba. Realizada pela Prefeitura de Sorocaba, por meio da Secretaria de Cultura (Secult), a iniciativa tem como…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/2a-edicao-da-sacada-cultural-ocorre-no-chale-frances-nesta-sexta-feira-13/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:10",
+"t": "Empreendedorismo feminino e a importância da independência financeira",
+"p": "No Dia Mundial do Empreendedorismo Feminino, especialista alerta que a falta de educação financeira pode comprometer o crescimento de empresas lideradas por mulheres e a proteção dos bens familiares.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/elas-delas/empreendedorismo-feminino-e-a-importancia-da-independencia-financeira/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:08",
+"t": "‘Homem não chora’: como isso afeta a autoestima masculina?",
+"p": "No Novembro Azul, Adriana Lima fala sobre os impactos da repressão emocional na saúde dos homens e a importância de reconhecer os próprios sentimentos.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/conteudo-patrocinado/momento-da-familia/homem-nao-chora-como-isso-afeta-a-autoestima-masculina/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:07",
+"t": "Dentista de Rio Preto volta a ouvir após implante coclear",
+"p": "Cynthia Lyra convivia com perda auditiva desde a adolescência e hoje comemora a percepção de sons cotidianos como a chuva.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/dentista-com-perda-auditiva-se-emociona-ao-ouvir-som-de-chuva-e-gas-do-refrigerante-apos-implante/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:06",
+"t": "Jovem morre após cair de capô de carro em Monte Aprazível",
+"p": "Iago Tavares Moreira Emídio estava internado na UTI do Hospital de Base; família autorizou a doação de múltiplos órgãos",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Monte Aprazível"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/morre-jovem-que-caiu-no-asfalto-apos-subir-em-capo-de-carro-em-movimento-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:06",
+"t": "Vigilante espanca catador em Birigui e vítima entra em coma",
+"p": "Agressão ocorreu em via pública no dia 4 de setembro; suspeito confessou a ação à Polícia Civil e alegou conter furto de fios.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/video-catador-de-reciclaveis-entra-em-coma-apos-ser-espancado-por-vigilante-em-plena-luz-do-dia-no-meio-da-rua/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:06",
+"t": "Exposição fotográfica ‘João de Camargo: uma liderança para libertação’ é atração gratuita no Museu Histórico Sorocabano",
+"p": "A exposição fotográfica ‘João de Camargo: uma liderança para libertação’ poderá ser conferida gratuitamente partir das 13h deste sábado (14), no Museu Histórico Sorocabano (MHS), quando acontece sua abertura oficial, seguida de uma roda de conversa. Promovida pela Prefeitura de Sorocaba, por meio da Secretaria de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/exposicao-fotografica-joao-de-camargo-uma-lideranca-para-libertacao-e-atracao-gratuita-no-museu-historico-sorocabano/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:01",
+"t": "Bloco Toca da Carlota antecipa folia em 2027 e celebra centenário de Schmitt",
+"p": "Tradicional bloco de carnaval de rua será realizado em 30 de janeiro, com concentração às 14h, programação gratuita e cortejo pelas ruas do distrito",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/bloco-toca-da-carlota-antecipa-folia-em-2027-e-celebra-centenario-de-schmitt/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "11:00",
+"t": "Após dar banho em esposa desacordada, homem é preso suspeito de feminicidio",
+"p": "Investigação da Polícia Civil passou a tratar homem como suspeito após perícia identificar sinais de violência no corpo da vítima",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/apos-dar-banho-em-esposa-desacordada-homem-e-preso-suspeito-de-feminicidio",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:56",
+"t": "TCE aponta falhas em unidades de atendimento à mulher em Marília e Paraguaçu Paulista",
+"p": "Relatório aponta sanitários precários e falta de acessibilidade em unidade de Marília; em Paraguaçu Paulista, fiscalização identificou infiltrações e cadeiras em desuso.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Paraguaçu Paulista",
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tce-aponta-falhas-em-unidades-de-atendimento-a-mulher-em-marilia-e-paraguacu-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:51",
+"t": "Ex-candidato a prefeito de Praia Grande é denunciado por esquema de exploração do transporte público",
+"p": "Denúncia do Ministério Público aponta ligação de grupo com facção para controlar linhas de ônibus; operação apreendeu 59 armas",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Praia Grande"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/ex-candidato-a-prefeito-de-praia-grande-e-investigado-por-esquema-de-exploracao-do-transporte-publico.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:45",
+"t": "Planeta que apresenta chuva de ferro intriga cientistas e registra temperaturas acima de 2.400°C em um sistema a centenas de anos-luz da Terra",
+"p": "Planeta-Wasp-76B",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/planeta-que-apresenta-chuva-de-ferro-intriga-cientistas-e-registra-temperaturas-acima-de-2-400c-em-um-sistema-a-centenas-de-anos-luz-da-terra/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:41",
+"t": "Oxxo terá de indenizar em R$ 30 mil menor negro acusado de furto sem provas",
+"p": "Adolescente estava em intervalo escolar quando foi a um Oxxo em Sorocaba e acabou acusado de furtar a loja, sem provas. Cabe recurso",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/oxxo-tera-de-indenizar-em-r-30-mil-menor-negro-acusado-de-furto-sem-provas",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:34",
+"t": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições",
+"p": "Corte entendeu que foram prestadas informações incompletas",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/tse-multa-meta-em-r-75-milhoes-por-descumprir-decisao-nas-eleicoes/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:29",
+"t": "Congresso prorroga por 60 dias a MP que proíbe as bets no Brasil",
+"p": "Foto: Tribuna de Jundiaí Decisão assinada por Davi Alcolumbre mantém a proibição das apostas on-line enquanto o governo busca acelerar a votação definitiva",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/congresso-prorroga-mp-proibe-bets-brasil-60-dias/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:29",
+"t": "Cine Araújo do Riopreto Shopping traz estreias para todos os gostos; confira",
+"p": "De comédias nostálgicas a dramas emocionantes, passando por animações e suspenses eletrizantes, programação oferece experiência única",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/cine-araujo-do-riopreto-shopping-traz-estreias-para-todos-os-gostos-confira/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:25",
+"t": "Governo de SP abre consulta pública para avaliar impacto do turismo no cotidiano das cidades",
+"p": "Os municípios paulistas com vocação turística já podem mobilizar seus moradores para participar da 7ª edição da Pesquisa de Percepção da População sobre o Turismo. Promovido pelo Centro de Inteligência da Economia do Turismo, órgão ligado à Secretaria de Turismo e Viagens do Estado de São Paulo (Setur-SP), o…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-abre-consulta-publica-para-avaliar-impacto-do-turismo-no-cotidiano-das-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:19",
+"t": "Rio Preto recebe oficina sobre masculinidade e violência contra a mulher",
+"p": "Formação reúne profissionais da assistência social nos dias 12 e 13 de novembro e apresenta metodologia de reflexão sobre gênero, paternidade e relações não violentas",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/rio-preto-recebe-oficina-sobre-masculinidade-e-violencia-contra-a-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "10:15",
 "t": "Festival Maria Florência começa nesta sexta com atrações gratuitas em Guararema",
 "p": "Evento segue até 22 de novembro, com programação que inclui sessões de cinema, rodas de conversa, apresentações musicais, capoeira e dança",
@@ -59,6 +471,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/cultura/festival-maria-florencia-comeca-nesta-sexta-com-atracoes-gratuitas-em-guararema/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:15",
+"t": "Câmara aprova projetos sobre pacientes com câncer e acessibilidade",
+"p": "Propostas entram em primeira discussão na sessão ordinária marcada para as 16h Sessão também teve aprovação de propostas para incluir campeonato de basquete master e feira de cultura afro-brasileira no calendário oficial.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/camara-aprova-projetos-sobre-pacientes-com-cancer-e-acessibilidade/",
 "auto": true
 },
 {
@@ -77,6 +503,18 @@
 },
 {
 "d": "2026-11-11",
+"h": "10:13",
+"t": "ENQUETE: Quem deverá permanecer em “A Fazenda 18” após enfrentar a 8ª Roça do reality rural?",
+"p": "A oitava Roça de “A Fazenda 18” reúne quatro participantes com trajetórias diferentes no reality rural: Murilo Dias, Franciele Almeida, Daniel Erthal e Tina Calamba. Com a berlinda formada, a disputa pela permanência no programa mobiliza as torcidas, que agora precisam escolher quem deve continuar na competição. A…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/enquete-quem-devera-permanecer-em-a-fazenda-18-apos-enfrentar-a-8a-roca-do-reality-rural/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "10:11",
 "t": "Influenciador que expôs casa do ex-presidente FHC é ouvido pela polícia",
 "p": "Influenciador e namorado prestam depoimento no 4º DP na manhã desta quarta-feira (11/11). Polícia investiga caso como difamação",
@@ -85,6 +523,20 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/influenciador-que-expos-casa-do-ex-presidente-fhc-e-ouvido-pela-policia",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:10",
+"t": "Cidade do litoral registra queda de 64,8% nos casos de Covid-19, enquanto o Brasil contabiliza alta nas últimas semanas",
+"p": "Embora o Brasil apresente um crescimento no número de casos de covid-19 nas últimas semanas, em Santos os registros tiveram uma queda de 64,8%. As informações foram divulgadas pela Secretaria Municipal de Saúde. Nos dez primeiros meses de 2026, Santos registrou 85 casos de covid-19, contra 242 no mesmo intervalo de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/cidade-do-litoral-registra-queda-de-648-nos-casos-de-covid-19-enquanto-o-brasil-contabiliza-alta-nas-ultimas-semanas/",
 "auto": true
 },
 {
@@ -209,6 +661,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/tiktok-bane-perfil-de-influenciador-apos-video-expor-intimidade-do-ex-presidente-fhc/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:57",
+"t": "Professora de São Bernardo vence Educador Nota 10 em Sustentabilidade",
+"p": "Educadora da Emeb Agostinho dos Santos superou concorrentes de todo o País com experiência desenvolvida na Educação Infantil; premiação ocorreu na terça-feira (10)",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368094/professora-de-sao-bernardo-vence-educador-nota-10-em-sustentabilidade",
 "auto": true
 },
 {
