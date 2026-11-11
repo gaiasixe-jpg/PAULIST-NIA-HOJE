@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T03:06:35-03:00",
-"novos_nesta_coleta": 1,
+"atualizado": "2026-11-11T04:23:16-03:00",
+"novos_nesta_coleta": 6,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,87 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "03:50",
+"t": "Operação da Polícia Civil prende 40 na região de Campinas",
+"p": "Ação contra o tráfico recolheu drogas, celulares e veículos; municípios vizinhos registraram outras 11 prisões.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-arandu-da-policia-civil-prende-40-pessoas-e-apreende-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "03:50",
+"t": "Noroeste paulista tem previsão de pancadas de chuva e raios",
+"p": "Instabilidade provocada por cavado afeta o estado; Defesa Civil pede atenção e região de Sertãozinho pode atingir máxima de 31 °C.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Sertãozinho"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/instabilidades-voltam-a-aumentar-e-trazem-previsao-de-pancadas-de-chuva-para-o-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "03:49",
+"t": "Defesa Civil emite alerta de temporais para o noroeste paulista",
+"p": "Mudança no tempo começa nesta quarta-feira (11) e ganha força na quinta-feira (12), com previsão de descargas elétricas e acumulados",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-emite-alerta-para-retorno-de-temporais-e-chuvas-fortes-em-todas-as-regioes-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "03:49",
+"t": "Polícia prende suspeito de matar a esposa em Sorocaba",
+"p": "Investigado foi localizado em uma clínica de Piedade após perícia apontar violência física no corpo da mulher de 41 anos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba",
+"Piedade"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-prende-marido-suspeito-de-feminicidio/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "03:19",
+"t": "Rio Preto: inscrições superam vagas em escola cívico-militar",
+"p": "Unidade Maria Dalva Silva Pagotto teve 304 cadastros em menos de 12 horas; prazo segue aberto até 27 de novembro na rede municipal.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/escola-civico-militar-na-redentora-recebe-304-inscricoes-em-menos-de-12h/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "03:18",
+"t": "Eleuses Paiva deixa comando da Secretaria da Saúde de SP",
+"p": "Médico comunicou decisão em carta a Tarcísio de Freitas, que avalia substitutos técnicos para a composição do segundo mandato",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/eleuses-paiva-deixa-secretaria-de-saude-de-sp-apos-quatro-anos-no-cargo/",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "02:20",
