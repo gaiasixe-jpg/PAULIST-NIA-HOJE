@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T17:06:32-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-11T18:43:08-03:00",
+"novos_nesta_coleta": 44,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -55,6 +55,503 @@
 "itens": [
 {
 "d": "2026-11-11",
+"h": "18:42",
+"t": "Tribunal de Contas faz alerta à Prefeitura de SP sobre gastos com educação",
+"p": "Segundo o TCM, alerta visa garantir o cumprimento do mínimo constitucional de investimento em educação até o final de 2026",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tribunal-de-contas-faz-alerta-a-prefeitura-de-sp-sobre-gastos-com-educacao",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:35",
+"t": "Fátima Bernardes revela se pretende voltar à TV, descarta programa diário e explica motivo após 35 anos de trabalho",
+"p": "A apresentadora e jornalista Fátima Bernardes afirmou que não tem interesse, neste momento, em voltar a comandar um programa diário na televisão. Apesar de considerar essa etapa da carreira uma página virada, ela não descarta aceitar novos projetos caso surja uma oportunidade que seja interessante para o público,…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/fatima-bernardes-revela-se-pretende-voltar-a-tv-descarta-programa-diario-e-explica-motivo-apos-35-anos-de-trabalho/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:32",
+"t": "Oficina gratuita de roteiro audiovisual para iniciantes será realizada no Parque da Cultura",
+"p": "Atividade do programa Pontos MIS será realizada em 24 de novembro, com 35 vagas e inscrições gratuitas no local. Quem deseja dar os primeiros passos na criação de histórias para o cinema e outras produções audiovisuais terá a oportunidade de aprender técnicas de escrita e construção narrativa em Votuporanga. No dia…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/oficina-gratuita-de-roteiro-audiovisual-para-iniciantes-sera-realizada-no-parque-da-cultura/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:30",
+"t": "Chuva forte volta para SP e Defesa Civil alerta para risco de alagamentos e deslizamentos",
+"p": "A Defesa Civil de São Paulo alerta para a possibilidade de chuvas fortes em diferentes regiões do estado entre esta quarta-feira (11/11) e quinta-feira (12/11). A previsão indica pancadas isoladas, raios e risco de tempestades, principalmente a partir da tarde de quinta. Nesta quarta-feira, são esperadas pancadas…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/chuva-forte-volta-para-sp-e-defesa-civil-alerta-para-risco-de-alagamentos-e-deslizamentos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:30",
+"t": "Campinas pode ter multa de até 20% para impostos atrasados; Câmara vota mudanças nas regras",
+"p": "Projetos da Prefeitura também propõem mudanças na cobrança da taxa de lixo de terrenos sem construção e do imposto pago na compra de imóveis; propostas serão analisadas nesta quarta-feira (11)",
+"tema": "Contas públicas",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/campinas-pode-ter-multa-de-ate-20-para-impostos-atrasados-camara-vota-mudancas-nas-regras/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:28",
+"t": "Trabalhador é atingido por viga de concreto durante demolição em obra",
+"p": "Acidente aconteceu na tarde desta terça-feira (10), no bairro Cidade Nova; vítima foi socorrida e encaminhada ao Hospital Augusto de Oliveira Camargo",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/trabalhador-e-atingido-por-viga-de-concreto-durante-demolicao-em-obra/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:16",
+"t": "PM aposentado é condenado a mais de cinco anos de prisão por morte em briga de trânsito com filho de ex-prefeito",
+"p": "O policial militar aposentado Eduardo Melo foi condenado a cinco anos, um mês e quinze dias de reclusão pelo crime de lesão corporal seguida de morte, decorrente de um disparo de arma de fogo que vitimou o advogado Jonas Pedrassa, de 29 anos, filho do ex-prefeito de Nipoã (SP). O julgamento pelo tribunal do júri […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Nipoã"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pm-aposentado-e-condenado-a-mais-de-cinco-anos-de-prisao-por-morte-em-briga-de-transito-com-filho-de-ex-prefeito/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:13",
+"t": "Câmara de SP aprova em 1º turno troca de nome da GCM para Polícia Municipal",
+"p": "Mudança da nomenclatura voltou a ser debatida na Casa após aprovação da PEC da Segurança Pública em Brasília, e foi aprovada por unanimidade",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/camara-de-sp-aprova-em-1o-turno-troca-de-nome-da-gcm-para-policia-municipal",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:12",
+"t": "Assédio em ônibus de Campinas poderá ser denunciado por aplicativo; veja como funciona",
+"p": "Ferramenta permite acionar a Guarda Municipal em tempo real para identificar e abordar o ônibus onde ocorreu o caso; serviço é gratuito e já está disponível para Android e iOS",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/assedio-em-onibus-de-campinas-podera-ser-denunciado-por-aplicativo-veja-como-funciona/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:12",
+"t": "Tarcísio de Freitas anuncia os primeiros secretários da nova gestão do Governo de SP",
+"p": "O governador Tarcísio de Freitas anunciou, nesta quarta-feira (11), os primeiros nomes que comporão o secretariado do Governo do Estado de São Paulo a partir de janeiro de 2027. O anúncio traz mudanças no comando de três pastas e confirma a manutenção de titulares em áreas estratégicas da administração pública…",
+"tema": "Política",
+"s": "anunciado",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tarcisio-de-freitas-anuncia-os-primeiros-secretarios-da-nova-gestao-do-governo-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:10",
+"t": "Polícia Militar Rodoviária apreende mais de meia tonelada de cocaína destinada ao exterior",
+"p": "A Polícia Militar Rodoviária apreendeu 540 quilos de cocaína e prendeu em flagrante um motorista de 28 anos na noite de terça-feira (10), na Rodovia Washington Luís, em Itirapina. A carga ilícita, composta por 500 tijolos da droga distribuídos em 17 fardos, estava oculta em um contêiner lacrado em meio a um…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itirapina"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-rodoviaria-apreende-mais-de-meia-tonelada-de-cocaina-destinada-ao-exterior/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:08",
+"t": "Senado quer dar 95 iPhones Pro para políticos em contrato de R$ 6 milhões e recebe críticas da direita à esquerda, de Nikolas Ferreira a Ana Elisa",
+"p": "Um contrato estimado em mais de R$ 6 milhões, 425 aparelhos celulares e a previsão de entregar 95 iPhones de última geração a senadores e dirigentes. A combinação provocou uma reação pouco comum em Brasília: políticos de direita e de esquerda passaram a criticar a mesma licitação. Segundo reportagem publicada pelo…",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/senado-quer-dar-95-iphones-pro-para-politicos-em-contrato-de-r-6-milhoes-e-recebe-criticas-da-direita-a-esquerda-de-nikolas-ferreira-a-ana-elisa/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:08",
+"t": "Governo de SP e Ministério Público intensificam combate financeiro ao crime organizado",
+"p": "A Secretaria da Segurança Pública do Estado de São Paulo (SSP) e o Ministério Público do Estado de São Paulo (MPSP) promovem, nesta quarta-feira (11) e quinta-feira (12), um encontro voltado ao fortalecimento de estratégias contra a lavagem de dinheiro e à recuperação de bens de origem ilícita. O evento…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-e-ministerio-publico-intensificam-combate-financeiro-ao-crime-organizado/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:06",
+"t": "Polícia Civil apreende quase 130 kg de maconha em depósito do tráfico",
+"p": "A Polícia Civil de São Paulo apreendeu 129,9 quilos de maconha em um imóvel utilizado como depósito de drogas no bairro Parque Industrial Tanquinho, em Ribeirão Preto. A operação foi deflagrada na terça-feira (10) por agentes da 2ª Delegacia de Investigações sobre Entorpecentes (Dise), vinculada ao Departamento…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-apreende-quase-130-kg-de-maconha-em-deposito-do-trafico/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:01",
+"t": "Polícia Civil indicia influenciador e marido por gravar vídeo na residência do ex-presidente FHC",
+"p": "A Polícia Civil do Estado de São Paulo indiciou, nesta quarta-feira (11), o influenciador Wesley Oliveira e seu marido, Lessandro Gonçalves, pelos crimes de difamação e discriminação de pessoa idosa. A medida ocorre após a repercussão de um vídeo gravado pela dupla no apartamento do ex-presidente Fernando Henrique…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-indicia-influenciador-e-marido-por-gravar-video-na-residencia-do-ex-presidente-fhc/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:00",
+"t": "Direita e esquerda se unem em críticas após licitação de R$ 6 milhões do Senado para compra de 95 iPhones 18 Pro",
+"p": "Uma licitação do Senado Federal no valor estimado de R$ 6,04 milhões provocou reações imediatas e repúdio de parlamentares da direita e da esquerda. O edital do Pregão 290/2026 prevê a contratação de serviços de telefonia móvel por 48 meses e a entrega de 425 celulares corporativos em regime de comodato. Entre os…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/direita-e-esquerda-se-unem-em-criticas-apos-licitacao-de-r-6-milhoes-do-senado-para-compra-de-95-iphones-18-pro/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:00",
+"t": "Transforma Diadema desperta interesse de prefeitos de outras cidades",
+"p": "Comitiva liderada por chefes de Executivo de Santo André e do Ceará estarão sábado ba cidade para conhecer o programa e avaliar a possibilidade de levar o modelo a outros municípios",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santo André",
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368216/transforma-diadema-desperta-interesse-de-prefeitos-de-outras-cidades",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:57",
+"t": "Mogi-Bertioga tem interdições parciais em quatro trechos nesta quarta-feira (11)",
+"p": "Obras afetam segmentos entre Mogi das Cruzes e Bertioga; tempo está limpo no sentido litoral e parcialmente nublado na subida da serra",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicoes-parciais-em-quatro-trechos-nesta-quarta-feira-11.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:53",
+"t": "Terminal Rodoviário de São Bernardo terá área ampliada em mais que o dobro",
+"p": "Projeto do equipamento, que integra as obras do BRT ABC, passa de 5 mil para 11 mil metros quadrados após mudanças no acesso dos ônibus",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368233/-terminal-rodoviario-de-sao-bernardo-tera-area-ampliada-em-mais-que-o-dobro",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:53",
+"t": "Tarcísio escolhe Ricardo Salles para assumir Secretaria da Justiça em SP",
+"p": "Ricardo Salles vai comandar a Secretaria da Justiça e Cidadania de São Paulo; anúncio de Tarcísio inclui mudanças em outras duas áreas",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/tarcisio-escolhe-ricardo-salles-para-assumir-secretaria-da-justica-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:50",
+"t": "Após quase 16 anos com obras paralisadas, maior estádio fantasma do mundo ganha nova vida com projeto de € 400 milhões e pode receber Copa de 2030",
+"p": "Depois de passar quase 16 anos com as obras paralisadas e ganhar fama de um dos maiores estádios fantasmas do mundo, o Nou Mestalla, na Espanha, está cada vez mais perto de finalmente receber torcedores. A futura casa do Valencia concluiu uma das etapas mais complexas de sua construção e agora pode até entrar na […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/esportes/apos-quase-16-anos-com-obras-paralisadas-maior-estadio-fantasma-do-mundo-ganha-nova-vida-com-projeto-de-e-400-milhoes-e-pode-receber-copa-de-2030/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:46",
+"t": "Fomenta 2026: abertura é marcada pela presença de autoridades e clima de integração",
+"p": "Primeiro dia do evento contou com a presença do vice-governador e de representante do governo federal; o encontro segue com agenda hoje e amanhã",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/conteudo-patrocinado/amppesp/fomenta-2026-abertura-e-marcada-pela-presenca-de-autoridades-e-clima-de-integracao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:37",
+"t": "Fugindo da ‘facada’ de janeiro: antecipar a compra do material escolar na Black Friday garante até R$ 200 de economia para pais",
+"p": "Enquanto a maioria dos consumidores direciona a atenção para a compra de TVs, smartphones e eletrodomésticos na Black Friday — marcada para 27 de novembro —, uma estratégia inteligente de planejamento financeiro vem ganhando espaço nos lares brasileiros: o adiantamento do material escolar para o ano letivo de 2027.…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/fugindo-da-facada-de-janeiro-antecipar-a-compra-do-material-escolar-na-black-friday-garante-ate-r-200-de-economia-para-pais/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:32",
+"t": "Casa do Cidadão Zeladoria Móvel estará no Cras Aparecidinha de 11 a 19 de novembro",
+"p": "De 11 a 19 de novembro, a Casa do Cidadão Zeladoria Móvel estará no Centro de Referência de Assistência Social (Cras) Aparecidinha, localizado na Rua José Braz Correia, nº 100, Aparecidinha. O atendimento gratuito ocorre de segunda a sexta-feira, das 9h às 16h, sem necessidade de agendamento prévio. Promovida pela…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/casa-do-cidadao-zeladoria-movel-estara-no-cras-aparecidinha-de-11-a-19-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:30",
+"t": "Influenciador que filmou ex-presidente FHC em apartamento é indiciado, tem celular apreendido e pede desculpas",
+"p": "A Polícia Civil de São Paulo apreendeu o celular do influenciador Wesley Oliveira e o indiciou por difamação e discriminação contra pessoa idosa após a divulgação de vídeos de Fernando Henrique Cardoso, de 95 anos, em seu apartamento. Em depoimento nesta quarta-feira (11/11), Oliveira afirmou que tinha autorização…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/influenciador-que-filmou-ex-presidente-fhc-em-apartamento-e-indiciado-tem-celular-apreendido-e-pede-desculpas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:22",
+"t": "Experiência piloto do Capacita em Sorocaba abre caminho para nova etapa do projeto em Botucatu",
+"p": "Fotos: Divulgação/PTS Iniciativa que reúne a Agência Inova, vinculada ao Parque Tecnológico de Sorocaba, e outros parceiros teve sua primeira aplicação com 21 estudantes da rede municipal sorocabana e deu continuidade às atividades nesta terça-feira (10/11) A frase “Inovação é driblar a necessidade com…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Botucatu",
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/experiencia-piloto-do-capacita-em-sorocaba-abre-caminho-para-nova-etapa-do-projeto-em-botucatu/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:19",
+"t": "Registro oferece vacinação antirrábica gratuita para cães e gatos às quintas-feiras",
+"p": "Prevenção",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/registro-oferece-vacinacao-antirrabica-gratuita-para-caes-e-gatos-as-quintas-feiras/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:16",
+"t": "GCM detém três suspeitos de roubo após homem ser esfaqueado na região central de Sorocaba",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba deteve três pessoas, sendo dois homens, de 45 e 53 anos de idade, e uma mulher, de 21 anos, na madrugada desta quarta-feira (11). Eles são suspeitos de envolvimento em roubo com agressão à faca, na região central da cidade. A ocorrência teve início após uma equipe […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-detem-tres-suspeitos-de-roubo-apos-homem-ser-esfaqueado-na-regiao-central-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:15",
+"t": "TCE-SP dá parecer favorável às contas de Guto Volpi de 2024",
+"p": "Avaliação é positiva pelo segundo ano consecutivo; julgamento definitivo das contas de Ribeirão Pires cabe à Câmara Municipal",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368221/tce-sp-da-parecer-favoravel-as-contas-de-guto-volpi-de-2024",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:13",
+"t": "Aluna de Diadema é campeã do maior Desafio de Redação da história",
+"p": "Marianna Eva Almeida da Fonseca concilia preparação para vestibulares com vitória em concurso literário",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368225/aluna-de-diadema-e-campea-do-maior-desafio-de-redacao-da-historia",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:09",
+"t": "Iniciativa usa arte para combater evasão e ampliar diversidade nas escolas",
+"p": "Realizado em regiões periféricas, o projeto busca causar identificação entre alunos e escolas, usando da arte para abordar temas sociais",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/iniciativa-usa-arte-para-combater-evasao-e-ampliar-diversidade-nas-escolas",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:08",
+"t": "Polícia Civil indicia influenciador e marido por vídeo na casa de FHC",
+"p": "Wesley Oliveira e o marido, Lessandro Gonçalves, foram indiciados nesta quarta-feira (11) pela Polícia Civil do Estado de São Paulo por difamação e discriminação de pessoa idosa, após a publicação na internet de imagens do ex-presidente Fernando Henrique Cardoso (FHC) . No mês de outubro, os dois entraram no…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-civil-indicia-influenciador-e-marido-por-video-na-casa-de-fhc",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:08",
+"t": "Só 284 dos 5.571 municípios do Brasil contam com plano de contingência contra o El Niño enquanto quase 20% já decretaram emergência",
+"p": "O Brasil enfrenta os impactos do fenômeno climático El Niño com lacunas na preparação preventiva das prefeituras. Uma nova plataforma digital reúne dados cruciais sobre a resposta do país às secas e inundações. O principal indicador aponta que apenas 284 das 5.571 cidades possuem planos de contingência públicos.…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/so-284-dos-5-571-municipios-do-brasil-contam-com-plano-de-contingencia-contra-o-el-nino-enquanto-quase-20-ja-decretaram-emergencia/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:08",
+"t": "Defensoria de Rio Preto questiona contratação de clínica em Guarulhos",
+"p": "Defensor aponta problemas de fiscalização, isolamento de pacientes e falta de justificativa para encaminhamentos a outra cidade",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Guarulhos",
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/defensoria-de-rio-preto-questiona-contratacao-de-clinica-em-guarulhos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:08",
+"t": "Cubatão prepara Defesa Civil para chuvas com treinamento estadual",
+"p": "Ação ocorre nesta quinta (12) e sexta-feira (13), em Peruíbe; objetivo é capacitar equipes para atuar na prevenção de ocorrências da estação",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Cubatão",
+"Peruíbe"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/cubatao-prepara-defesa-civil-para-chuvas-com-treinamento-estadual.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:04",
+"t": "Tarcísio anuncia os primeiros secretários da nova gestão do governo",
+"p": "Marcos Guerson, Ricardo Salles e Anderson Ribeiro Correia assumirão, respectivamente, as Pastas de Desenvolvimento Econômico, Justiça e Cidadania e Ciência, Tecnologia e Inovação",
+"tema": "Política",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368226/tarcisio-anuncia-os-primeiros-secretarios-da-nova-gestao-do-governo",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:03",
+"t": "Maior árvore de Natal de crochê do Brasil tem 14 metros de altura, 4,8 mil peças feitas à mão, ganha luzes coloridas e transforma Rodeio em atração de fim de ano",
+"p": "Com 14 metros de altura e cerca de 4,8 mil quadradinhos feitos à mão, a árvore de Natal de crochê de Rodeio ganhou iluminação no sábado (7). Ao lado da Igreja Matriz São Francisco de Assis, a estrutura reuniu moradores e visitantes para a abertura da programação natalina do município, no Vale do Itajaí. As […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Francisco",
+"Assis"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/maior-arvore-de-natal-de-croche-do-brasil-tem-14-metros-de-altura-48-mil-pecas-feitas-a-mao-ganha-luzes-coloridas-e-transforma-rodeio-em-atracao-de-fim-de-ano/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "17:02",
 "t": "Rabdomiólise: 5 sinais de alerta que não devem ser ignorados após esforços físicos extremos",
 "p": "A prática de atividades físicas traz benefícios importantes para a saúde, mas ultrapassar os limites do corpo pode trazer consequências que vão além do cansaço e das dores musculares. A morte da jovem Rachel Apa, de 24 anos, durante a Maratona de Nova York, trouxe atenção para a rabdomiólise, uma condição…",
@@ -65,6 +562,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/viver-bem/rabdomiolise-5-sinais-de-alerta-que-nao-devem-ser-ignorados-apos-esforcos-fisicos-extremos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "17:00",
+"t": "Pedágio free flow da Tamoios pode gerar multa de R$ 195 e 5 pontos na CNH após domingo; veja como quitar",
+"p": "Os motoristas que passaram pelo pedágio eletrônico free flow do Contorno Sul da Rodovia dos Tamoios, no litoral norte de São Paulo, têm até 16 de novembro de 2026 para quitar as tarifas pendentes sem receber multa ou pontos na Carteira Nacional de Habilitação (CNH). O prazo foi estabelecido pelo Conselho Nacional…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/pedagio-free-flow-da-tamoios-pode-gerar-multa-de-r-195-e-5-pontos-na-cnh-apos-domingo-veja-como-quitar/",
 "auto": true
 },
 {
@@ -3063,6 +3574,90 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67733",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "00:00",
+"t": "Prudente recebe quatro pluviômetros automáticos do Cemaden",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67739",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "00:00",
+"t": "Agda Santos conquista ouro e prata na Taça Brasil Master de Atletismo, em São Paulo",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67738",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "00:00",
+"t": "Prefeitura credencia óticas para fornecimento de óculos ao Programa Olhar que Transforma",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67737",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "00:00",
+"t": "Escola de Gestão Pública promove curso de formação para controladores orçamentários",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67736",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "00:00",
+"t": "Seduc promove ação para marcar Dia do Diretor Escolar",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67735",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "00:00",
+"t": "Rolê Cultural leva música e atrações para a comunidade neste fim de semana",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67734",
 "auto": true
 },
 {
