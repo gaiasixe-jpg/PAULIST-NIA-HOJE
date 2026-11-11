@@ -3,6 +3,268 @@
 "itens": [
 {
 "d": "2026-11-11",
+"h": "08:59",
+"t": "Deic de SP mira golpe em concessionárias de veículos de luxo",
+"p": "Ação cumpre mandados no Distrito Federal e em Minas Gerais; Justiça determinou o bloqueio de R$ 11,2 milhões dos investigados.",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-da-policia-civil-de-sp-prende-integrante-de-grupo-suspeito-de-aplicar-golpes-na-compra-de-veiculos-de-luxo/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:59",
+"t": "Estado de SP tem semana cultural com shows gratuitos e ópera",
+"p": "Programação no interior e na capital reúne festivais, apresentações musicais e atividades gratuitas de tecnologia e patrimônio histórico.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/revelando-sp-opera-sobre-conceicao-evaristo-veja-destaques-culturais-da-semana-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:58",
+"t": "Perseguição da Rota termina com batida e 2 suspeitos mortos na Imigrantes",
+"p": "Policiais identificaram veículo com registro de roubo em SP. Durante suposta troca de tiros, suspeitos foram baleados e morreram no hospital",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/perseguicao-da-rota-termina-com-batida-e-2-suspeitos-mortos-na-imigrantes",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:55",
+"t": "Moradores do Ipanema cobram providências contra abandono de barracão usado por usuários de drogas em Fernandópolis",
+"p": "A situação de um antigo barracão situado na Rua Abílio Silva Stefani, no bairro Ipanema, em Fernandópolis, tem gerado apreensão e reclamações constantes entre os moradores da região. O espaço abandonado virou ponto de concentração para usuários de entorpecentes e abrigo improvisado para indivíduos que circulam…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/moradores-do-ipanema-cobram-providencias-contra-abandono-de-barracao-usado-por-usuarios-de-drogas-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:53",
+"t": "Acompanhe a fila de espera da balsa São Sebastião-Ilhabela na manhã desta quarta (11)",
+"p": "Espera é de cerca de 30 minutos nos dois lados, com seis embarcações; carro paga R$19 em dias úteis, cobrado só em São Sebastião",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/balsas/ilhabela/acompanhe-a-fila-de-espera-da-balsa-sao-sebastiao-ilhabela-na-manha-desta-quarta-11.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:52",
+"t": "Vinicius Camarinha precisa reagir e retomar o rumo do governo",
+"p": "Prefeito enfrenta sua pior fase no mandato, mas ainda tem tempo para recuperar a gestão.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/opiniao/vinicius-camarinha-precisa-reagir-e-retomar-o-rumo-do-governo/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:50",
+"t": "Adaptação de clássico de Dostoiévski marca abertura da 29ª Mostra Estudantil de Teatro de Fernandópolis",
+"p": "A abertura da 29ª Mostra Estudantil de Teatro de Fernandópolis, realizada na última segunda-feira (9) no Teatro Municipal, foi marcada pela apresentação da peça “Noites Brancas”, adaptação da obra do escritor russo Fiódor Dostoiévski. O espetáculo, encenado pelo Grupo Interarte em sessões às 15h e 20h, foi…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/adaptacao-de-classico-de-dostoievski-marca-abertura-da-29a-mostra-estudantil-de-teatro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:48",
+"t": "Cavalgada Mirim reúne famílias e celebra tradições sertanejas em Arabá",
+"p": "O distrito de Arabá sediou a edição da Cavalgada Mirim, evento voltado à preservação e valorização das tradições culturais sertanejas entre as novas gerações da comunidade local. A festividade reuniu crianças, familiares e moradores da zona rural e urbana do município de Ouroeste em uma programação festiva focada…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/cavalgada-mirim-reune-familias-e-celebra-tradicoes-sertanejas-em-araba/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:47",
+"t": "Homem é preso em flagrante após danificar portão de Casa de Passagem em Itapeva",
+"p": "Um homem foi preso em flagrante na noite de segunda-feira (9), após danificar o portão da Casa de Passagem (Albergue), em Itapeva. A ocorrência foi atendida pela Guarda Civil Municipal (GCM), por volta das 20h56. Segundo informações da GCM, a equipe foi acionada por um funcionário do estabelecimento após um…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/danificar-portao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:42",
+"t": "Estudantes da rede municipal de Ouroeste realizam provas da 2ª fase da OBMEP Mirim",
+"p": "Os alunos das escolas municipais de Ouroeste participaram, nesta terça-feira (10), da aplicação das provas da segunda fase da Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP Mirim). A iniciativa é voltada aos estudantes do ensino fundamental e busca incentivar o aprendizado acadêmico, o raciocínio…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estudantes-da-rede-municipal-de-ouroeste-realizam-provas-da-2a-fase-da-obmep-mirim/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:40",
+"t": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol",
+"p": "Em nota, a Presidência da República informou que o objetivo é evitar o impacto inflacionário decorrente da alta dos preços internacionais do petróleo provocada pelo conflito no Oriente Médio.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:40",
+"t": "Santa Casa de Fernandópolis e Moto Clube realizam 2ª edição do evento Prevenção sobre Duas Rodas",
+"p": "A Santa Casa de Fernandópolis, em parceria com o Moto Clube Veritas Suprema Brasil, promove no próximo dia 22 de novembro a segunda edição da campanha “Prevenção sobre Duas Rodas”. A iniciativa é voltada à conscientização sobre a saúde masculina em alusão ao movimento Novembro Azul e reunirá profissionais de saúde…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-e-moto-clube-realizam-2a-edicao-do-evento-prevencao-sobre-duas-rodas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:38",
+"t": "Chuva volta a Jundiaí nesta quarta-feira (11) e pode afetar a rotina dos moradores",
+"p": "Foto: Prefeitura de Jundiaí Após uma quarta-feira com possibilidade de pancadas de chuva, Jundiaí terá alerta amarelo de tempestade na quinta (12).",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/chuva-jundiai-alerta-tempestade-11-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:35",
+"t": "Jovem morre após atropelamento e família autoriza doação de órgãos",
+"p": "O jovem Iago Tavares, de 23 anos, morador de Tanabi, faleceu nesta terça-feira (10) no Hospital de Base de São José do Rio Preto, onde permaneceu internado em estado gravíssimo por três dias após ser atropelado no distrito de Engenheiro Balduíno. Apesar de ter recebido socorro imediato e atendimento especializado…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Tanabi"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jovem-morre-apos-atropelamento-e-familia-autoriza-doacao-de-orgaos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:33",
+"t": "Polícia Civil prende mulher suspeita de trancar companheiro em casa e atear fogo",
+"p": "A Polícia Civil do município de Álvares Florence prendeu preventivamente, na tarde desta segunda-feira (9), uma mulher de 61 anos investigada por atear fogo na residência de seu companheiro e provocar sua morte. A vítima, o aposentado Jurandir Simão da Costa, de 66 anos, sofreu queimaduras graves e faleceu em…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Álvares Florence"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-mulher-suspeita-de-trancar-companheiro-em-casa-e-atear-fogo/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:31",
+"t": "GCM captura procurado por roubo com quatro celulares em Santo André",
+"p": "Homem tentou se desfazer de sacola com quatro aparelhos durante abordagem no Jardim Santo André; vítima de roubo em São Bernardo o reconheceu",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santo André",
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368075/gcm-captura-procurado-por-roubo-com-quatro-celulares-em-santo-andre",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:30",
+"t": "Mulher perde quase R$ 12 mil em golpe aplicado pelo WhatsApp em Rio Preto",
+"p": "O caso, que será investigado pela Polícia Civil, aconteceu na tarde de terça-feira, dia 10, e foi registrado como estelionato",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mulher-perde-quase-r-12-mil-em-golpe-aplicado-pelo-whatsapp-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:18",
+"t": "Operação contra o tráfico de drogas termina com 40 presos",
+"p": "Operação da Polícia Civil durou duas semanas e apreendeu substâncias ilícitas, armas, celulares e dinheiro em vários bairros de Campinas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/operacao-contra-o-trafico-de-drogas-termina-com-40-presos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:08",
+"t": "Justiça marca audiência e mantém medidas cautelares contra advogado acusado de ameaçar juiz",
+"p": "A Justiça marcou para 26 de janeiro de 2027, às 14h, a audiência de instrução, interrogatório, debates e julgamento do advogado Marcos Roberto Cebola e Silva, acusado de ameaçar de forma velada o juiz Deyvison Heberth dos Reis, de Presidente Venceslau (SP). Na mesma decisão, o juiz Gabriel Medeiros, da 1ª Vara da…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Venceslau"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/justica-marca-audiencia-e-mantem-medidas-cautelares-contra-advogado-acusado-de-ameacar-juiz/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "08:07",
 "t": "Polícia investiga homem por importunação sexual contra adolescente de 12 anos",
 "p": "A Polícia Civil investiga um homem de 57 anos por importunação sexual contra uma adolescente de 12 anos, em Teodoro Sampaio (SP). O caso foi registrado na Polícia Civil nesta terça-feira (10). Conforme a polícia, a família relatou que a menina e irmã dela, também menor de idade, teriam pegado uma carona com o…",
@@ -69,6 +331,34 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/interior-de-sp-tera-calor-de-ate-31c-e-possibilidade-de-chuva-nesta-quarta-feira-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "07:56",
+"t": "Vice-prefeito de São Paulo aponta irregularidades na Virada Esportiva e pede investigação",
+"p": "",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368068/vice-prefeito-de-sao-paulo-aponta-irregularidades-na-virada-esportiva-e-pede-investigacao",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "07:55",
+"t": "Santos instala mais de 1,1 mil luminárias de LED em três meses e atinge 88,5% de cobertura na iluminação pública da cidade",
+"p": "A Prefeitura de Santos avançou no programa de modernização do parque de iluminação pública do município ao instalar 1.176 novos pontos de LED ao longo dos últimos três meses. Com os trabalhos conduzidos pela Secretaria de Infraestrutura e Serviços Públicos (Seinfra), a cidade alcançou a marca de 88,51% de cobertura…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/santos-instala-mais-de-11-mil-luminarias-de-led-em-tres-meses-e-atinge-885-de-cobertura-na-iluminacao-publica-da-cidade/",
 "auto": true
 },
 {
@@ -153,6 +443,18 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/economia/sao-paulo-tera-selecao-com-mais-de-11-mil-vagas-de-emprego-exclusivas-para-pcds/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "07:29",
+"t": "Cidade de apenas 38 mil habitantes tem novo milionário após morador acertar sozinho as seis dezenas da Mega-Sena e faturar R$ 3,2 milhões",
+"p": "O concurso 3.084 da Mega-Sena premiou um morador de Iturama, pequena cidade de Minas Gerais com cerca de 38 mil habitantes. O sortudo acertou as seis dezenas na noite da última terça-feira (10). Com o feito, ele levou para casa o prêmio de R$ 3.287.949,90. Agora, a Mega-Sena volta a dar as caras na próxima […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/cidade-de-apenas-38-mil-habitantes-tem-novo-milionario-apos-morador-acertar-sozinho-as-seis-dezenas-da-mega-sena-e-faturar-r-32-milhoes/",
 "auto": true
 },
 {
