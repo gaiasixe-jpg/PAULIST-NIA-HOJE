@@ -3,6 +3,458 @@
 "itens": [
 {
 "d": "2026-11-11",
+"h": "10:15",
+"t": "Festival Maria Florência começa nesta sexta com atrações gratuitas em Guararema",
+"p": "Evento segue até 22 de novembro, com programação que inclui sessões de cinema, rodas de conversa, apresentações musicais, capoeira e dança",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guararema"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/cultura/festival-maria-florencia-comeca-nesta-sexta-com-atracoes-gratuitas-em-guararema/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:14",
+"t": "Vidro laminado: quando usar em casa, apartamento ou empresa",
+"p": "Segundo a Abravidro, a nova versão da NBR 7199 retirou o vidro aramado da categoria de vidros de segurança, e ele deixou de ser aceito em coberturas sobre áreas de circulação. A mudança, explicada no texto da entidade sobre a atualização da NBR 7199 para coberturas, marquises e claraboias, colocou o vidro laminado…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/post/vidro-laminado-quando-usar-em-casa-apartamento-ou-empresa/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:11",
+"t": "Influenciador que expôs casa do ex-presidente FHC é ouvido pela polícia",
+"p": "Influenciador e namorado prestam depoimento no 4º DP na manhã desta quarta-feira (11/11). Polícia investiga caso como difamação",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/influenciador-que-expos-casa-do-ex-presidente-fhc-e-ouvido-pela-policia",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:07",
+"t": "Inmet emite alerta de tempestade para a região de Rio Preto",
+"p": "Aviso prevê chuva de até 50 mm por dia, ventos de até 60 km/h e granizo para o dia 12 de novembro de 2026.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/aviso-de-tempestade-severidade-grau-perigo-potencial-140/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:06",
+"t": "Inmet emite alerta de tempestade para São José do Rio Preto",
+"p": "Aviso prevê ventos de até 60 km/h, queda de granizo e chuva de até 50 mm ao longo do dia 13 de novembro de 2026.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/aviso-de-tempestade-severidade-grau-perigo-potencial-138/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:04",
+"t": "Afonso Pessutto questiona prefeitura de Fernandópolis sobre reajuste para servidores esquecidos em última revisão",
+"p": "A valorização do funcionalismo público voltou à pauta da Câmara Municipal de Fernandópolis durante a sessão ordinária realizada nesta terça-feira (10). O vereador Afonso Pessutto apresentou um requerimento formal cobrando esclarecimentos do Poder Executivo a respeito dos estudos para a adequação salarial dos cargos…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/afonso-pessutto-questiona-prefeitura-de-fernandopolis-sobre-reajuste-para-servidores-esquecidos-em-ultima-revisao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:01",
+"t": "Polícia prende cinco e apreende duas toneladas de cabos em Mauá",
+"p": "Material avaliado em cerca de R$ 100 mil pertencia a operadora de telefonia e foi recuperado durante a operação Força Total Integrada",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-policial-apreende-duas-toneladas-de-cabos-furtados-e-prende-cinco-pessoas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:00",
+"t": "MEC aprova diretrizes para uso de IA em cada etapa da educação",
+"p": "O parecer estabelece que a IA pode ser usada como ferramenta auxiliar, mas o professor deve continuar responsável pela mediação pedagógica e pelas decisões educacionais",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:00",
+"t": "Obra da EMEI Paraíso Infantil chega à etapa final em Ouroeste",
+"p": "Com investimento superior a R$ 600 mil, serviços incluem pintura geral, melhorias nos sanitários e intervenções na rede elétrica",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-ouroeste-investe-mais-de-r-600-mil-na-reforma-da-emei-paraiso-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:00",
+"t": "Polícia de SP mira golpe de R$ 11,2 milhões em carros de luxo",
+"p": "Operação Estorno cumpriu mandados em Minas Gerais e no Distrito Federal, com ordens judiciais de bloqueio financeiro e prisões",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-da-policia-civil-mira-quadrilha-que-deu-golpe-de-r-11-milhoes-em-concessionarias-de-carros-de-luxo/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "10:00",
+"t": "Moradores do Macuco questionam indenizações por obra do túnel Santos-Guarujá",
+"p": "Santa Cecília TV Moradores do bairro Macuco, em Santos, participaram de uma nova reunião com representantes do Ministério Público nesta terça-feira (10).",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/moradores-do-macuco-questionam-indenizacoes-por-obra-do-tunel-santos-guaruja/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:59",
+"t": "TikTok bane influenciador após vídeo com FHC em São Paulo",
+"p": "Família de Fernando Henrique Cardoso acionou o Ministério Público e a Justiça Cível após imagens no apartamento do ex-presidente.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tiktok-bane-perfil-de-influenciador-apos-video-expor-intimidade-do-ex-presidente-fhc/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:53",
+"t": "GCM de Itaquaquecetuba desarticula casa-bomba e prejuízo ao tráfico chega a R$ 30 mil, segundo prefeitura",
+"p": "Operação apreendeu 2.526 drogas em local usado para armazenamento e distribuição; entorpecentes seriam usados para abastecer o tráfico durante a semana",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/gcm-de-itaquaquecetuba-desarticula-casa-bomba-e-prejuizo-ao-trafico-chega-a-r-30-mil-segundo-prefeitura/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:46",
+"t": "Queda de poste interdita cruzamento de ruas na área central de Rio Preto",
+"p": "GCM bloqueou trecho da rua Jordão Reis com a General Glicério por questões de segurança e a CPFL foi acionada para atender à ocorrência",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/queda-de-poste-interdita-cruzamento-de-ruas-na-area-central-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:45",
+"t": "Havan anuncia duas novas megalojas no Tocantins com R$ 190 milhões em investimentos e 400 empregos diretos em duas cidades até 2027",
+"p": "A Havan confirmou a construção de duas novas megalojas no Tocantins, com investimento conjunto de R$ 190 milhões. Os projetos contemplam as cidades de Araguaína e Palmas, onde a varejista também construirá uma segunda unidade. A previsão da empresa é entregar os empreendimentos ainda em 2027. Juntas, as duas lojas…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/havan-anuncia-duas-novas-megalojas-no-tocantins-com-r-190-milhoes-em-investimentos-e-400-empregos-diretos-em-duas-cidades-ate-2027/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:44",
+"t": "Jardim São Camilo reúne moradores e Prefeitura em discussões sobre melhorias para o bairro",
+"p": "Foto: Prefeitura de Jundiaí Moradores participam de grupo que acompanha projetos e futuras intervenções no bairro. Saiba como funciona a iniciativa em Jundiaí.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/moradores-jardim-sao-camilo-participam-projetos-bairro/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:42",
+"t": "HC Ribeirão adota protocolo para flagrar violência contra idosos",
+"p": "Caso de mulher de 72 anos que perdeu bens e sofreu agressões após a morte do marido expõe alta de denúncias no país e mobiliza equipes de saúde",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/hc-ribeirao-adota-protocolo-para-flagrar-violencia-contra-idosos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:41",
+"t": "Polícia investiga advogado acusado de dar golpe milionário em inventário",
+"p": "A família de Osmar Guedes acusa o advogado Willian Navas de aplicar um golpe de mais de R$ 1 milhão fingindo dar andamento em um inventário",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-investiga-advogado-acusado-de-dar-golpe-milionario-em-inventario",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:38",
+"t": "Massis diz que novo presidente do São Paulo tem que renovar com Dorival, Rafinha e Lucas",
+"p": "Divulgação / saopaulofc.net O atual presidente do São Paulo não é candidato à reeleição e deixa a decisão para os demais",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/massis-diz-que-novo-presidente-do-sao-paulo-tem-que-renovar-com-dorival-rafinha-e-lucas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:38",
+"t": "Obituário | Falecimentos registrados nesta quarta-feira (11/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta quarta-feira, dia 11 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-quarta-feira-11-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:37",
+"t": "Operação da Polícia Civil mira quadrilha que deu golpe de R$ 11 milhões em concessionárias de carros de luxo",
+"p": "O Departamento Estadual de Investigações Criminais (Deic) da Polícia Civil de São Paulo deflagrou, nesta quarta-feira (11), a Operação Estorno para desarticular um esquema criminoso especializado em golpes contra concessionárias de veículos de alto padrão. A ação cumpriu mandados de busca e apreensão e de prisão em…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-da-policia-civil-mira-quadrilha-que-deu-golpe-de-r-11-milhoes-em-concessionarias-de-carros-de-luxo/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:35",
+"t": "Prefeitura de Ouroeste investe mais de R$ 600 mil na reforma da EMEI Paraíso Infantil",
+"p": "A obra de reforma e revitalização da Escola Municipal de Educação Infantil (EMEI) Paraíso Infantil entrou em sua etapa final no município de Ouroeste. O projeto contou com um investimento superior a R$ 600 mil em recursos públicos direcionados à modernização do prédio e à melhoria da infraestrutura física da…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-investe-mais-de-r-600-mil-na-reforma-da-emei-paraiso-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:33",
+"t": "Após quase três meses, Campos Novos se despede de família morta em acidente",
+"p": "Vítimas morreram carbonizadas em acidente de trânsito Vídeo mostra a sequência de colisões que provocou um incêndio na rodovia em Bandeirantes (MS).",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/apos-quase-tres-meses-campos-novos-se-despede-de-familia-morta-em-acidente/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:33",
+"t": "Operação policial apreende duas toneladas de cabos furtados e prende cinco pessoas",
+"p": "Uma ação da Polícia Militar Ambiental resultou na prisão em flagrante de cinco pessoas suspeitas de receptação de fios e cabos metálicos na última terça-feira (10), em Mauá, na Grande São Paulo. A apreensão ocorreu em uma chácara localizada no bairro Chácara São Brás, onde as equipes localizaram cerca de duas…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mauá"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-policial-apreende-duas-toneladas-de-cabos-furtados-e-prende-cinco-pessoas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:31",
+"t": "Comércio de São Paulo e Porto Alegre fecha acordo para adoção da escala 5×2 a partir de dezembro",
+"p": "Divulgação/Governo de SP Os sindicatos dos comerciários de São Paulo e Porto Alegre fecharam acordos com o setor empresarial pelo fim da escala 6x1",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/comercio-de-sao-paulo-e-porto-alegre-fecha-acordo-para-adocao-da-escala-5x2-a-partir-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:28",
+"t": "Vereador quer ampliar sombra em espaços públicos",
+"p": "Proposta prevê diretrizes para arborização, instalação de abrigos e adequação de calçadas, pontos de ônibus e áreas de espera",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereador-quer-ampliar-sombra-em-espacos-publicos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:26",
+"t": "ENQUETE: Você já correu risco no trânsito de Santos? Vote agora se já enfrentou dores de cabeça e ficou irritado nas ruas da cidade",
+"p": "Não é de hoje que o trânsito de Santos tem sido motivo de queixa devido a imprudência de motoristas de carros e outros veículos. Mesmo com a sinalização indicando parada, alguns condutores seguem pelos cruzamentos e furam sinais vermelhos, desrespeitando a preferência e colocando pedestres em situações de risco. A…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/enquete-voce-ja-correu-risco-no-transito-de-santos-vote-agora-se-ja-enfrentou-dores-de-cabeca-e-ficou-irritado-nas-ruas-da-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:21",
+"t": "Defesa Civil de SP alerta para retorno da chuva a partir desta quarta-feira (11)",
+"p": "Previsão indica pancadas isoladas nesta quarta-feira (11) e intensificação na quinta-feira (12), com possibilidade de temporais e acumulados significativos na Baixada Santista",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/defesa-civil-de-sp-alerta-para-retorno-da-chuva-a-partir-desta-quarta-feira-11/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:15",
+"t": "Falta de vereadores adia votação de convocação de chefe de gabinete",
+"p": "Requerimento pretende cobrar explicações de Rodrigo Carmona sobre atuação de assessores especiais em Brasília e São Paulo",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/falta-de-vereadores-adia-votacao-de-convocacao-de-chefe-de-gabinete/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:07",
+"t": "Homem é preso após furtar peças de cobre do ar-condicionado da UPA Santo Antônio",
+"p": "Suspeito tentou atacar os agentes com uma faca durante a abordagem, mas foi contido pela equipe na tarde desta terça-feira (10)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-preso-pela-gcm-apos-furtar-pecas-de-cobre-do-ar-condicionado-da-upa-santo-antonio/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:06",
+"t": "MEC aprova diretrizes para uso de IA em cada etapa da educação",
+"p": "O Ministério da Educação (MEC) aprovou na terça-feira (10) o parecer do Conselho Nacional de Educação (CNE) que estabelece diretrizes para o uso da inteligência artificial (IA) na educação brasileira.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:05",
+"t": "Confira como está o trânsito na rodovia dos Tamoios na manhã desta quarta (11)",
+"p": "Rodovia dos Tamoios opera com fluxo livre rumo ao litoral norte de SP e ao interior; motorista deve ter atenção para obras no planalto e serra",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/confira-como-esta-o-transito-na-rodovia-dos-tamoios-na-manha-desta-quarta-11.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "09:00",
+"t": "Justiça autoriza ex-delegado que matou adolescente a viajar para casamento",
+"p": "Katrina foi morta por disparo feito por ex-delegado em Promissão Réu pela morte de adolescente de 16 anos na saída de rodeio, Vinícius Martinez poderá viajar para ser padrinho de casamento.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Promissão"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/justica-autoriza-ex-delegado-que-matou-adolescente-a-viajar-para-casamento/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "08:59",
 "t": "Deic de SP mira golpe em concessionárias de veículos de luxo",
 "p": "Ação cumpre mandados no Distrito Federal e em Minas Gerais; Justiça determinou o bloqueio de R$ 11,2 milhões dos investigados.",
@@ -49,6 +501,21 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/moradores-do-ipanema-cobram-providencias-contra-abandono-de-barracao-usado-por-usuarios-de-drogas-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:55",
+"t": "Santo André troca área para ampliar acesso à Avenida dos Estados",
+"p": "Projeto do Executivo aprovado na Câmara de Santo André possibilita alargamento no cruzamento com a Sorocaba, no bairro Tamanduateí 8",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santo André",
+"Sorocaba"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368091/santo-andre-troca-area-para-ampliar-acesso-a-avenida-dos-estados",
 "auto": true
 },
 {
@@ -223,6 +690,20 @@
 },
 {
 "d": "2026-11-11",
+"h": "08:31",
+"t": "Mar ‘evapora’ de forma assustadora em minutos e fenômeno natural intriga moradores do litoral de SP: “Tsunami?”",
+"p": "Na noite da última terça-feira (10), o mar de Santos se mostrou muito distante da faixa de areia. Em um vídeo publicado nas redes sociais, é possível notar o recuo da água em áreas onde normalmente o mar está presente. O fenômeno natural chamou a atenção de moradores e internautas. O principal medo da população […]",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/mar-evapora-de-forma-assustadora-em-minutos-e-fenomeno-natural-intriga-moradores-do-litoral-de-sp-tsunami/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "08:30",
 "t": "Mulher perde quase R$ 12 mil em golpe aplicado pelo WhatsApp em Rio Preto",
 "p": "O caso, que será investigado pela Polícia Civil, aconteceu na tarde de terça-feira, dia 10, e foi registrado como estelionato",
@@ -237,6 +718,30 @@
 },
 {
 "d": "2026-11-11",
+"h": "08:25",
+"t": "Trilha dos ODS da ABM: um caminho prático para fortalecer a gestão municipal",
+"p": "Prefeitos, prefeitas, secretários municipais, equipes técnicas, pesquisadores e representantes da sociedade civil têm diante de si um dos maiores desafios da gestão pública contemporânea: planejar o presente sem perder de vista o futuro. É justamente nesse contexto que a Trilha dos ODS, iniciativa da Associação…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/artigo/trilha-dos-ods-da-abm-um-caminho-pratico-para-fortalecer-a-gestao-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:20",
+"t": "Raposo Tavares tem 26 km de lentidão nesta quarta-feira e trânsito em SP chega a 425 km",
+"p": "A rodovia Raposo Tavares registra cerca de 26 quilômetros de lentidão nesta quarta-feira (11/11), em meio ao trânsito intenso na Grande São Paulo. Segundo os dados de monitoramento, o excesso de veículos provoca retenções entre os quilômetros 37 e 11. O Rodízio Municipal de Veículos já está valendo para carros com…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/raposo-tavares-tem-26-km-de-lentidao-nesta-quarta-feira-e-transito-em-sp-chega-a-425-km/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "08:18",
 "t": "Operação contra o tráfico de drogas termina com 40 presos",
 "p": "Operação da Polícia Civil durou duas semanas e apreendeu substâncias ilícitas, armas, celulares e dinheiro em vários bairros de Campinas",
@@ -247,6 +752,32 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/operacao-contra-o-trafico-de-drogas-termina-com-40-presos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:15",
+"t": "Melhor arroz não leva água no preparo e esse ingrediente de cozinha deixa os grãos mais soltinhos e saborosos com 550 ml na panela",
+"p": "A combinação de alho, cebola, manteiga e milho muda o preparo desse acompanhamento tão presente nas refeições",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/melhor-arroz-nao-leva-agua-no-preparo-e-esse-ingrediente-de-cozinha-deixa-os-graos-mais-soltinhos-e-saborosos-com-550-ml-na-panela/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "08:15",
+"t": "Prefeitura de Itanhaém entrega seis veículos para reforçar atendimento na rede municipal de Saúde",
+"p": "A Prefeitura de Itanhaém entregou nesta terça-feira (10) seis novos veículos para reforçar a estrutura da rede municipal de Saúde. A nova frota inclui ambulâncias, vans adaptadas para o transporte de pacientes e um veículo destinado às equipes de atendimento domiciliar. A iniciativa busca ampliar a capacidade dos…",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Itanhaém"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/prefeitura-de-itanhaem-entrega-seis-veiculos-para-reforcar-atendimento-na-rede-municipal-de-saude/",
 "auto": true
 },
 {
