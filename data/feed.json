@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T12:57:48-03:00",
-"novos_nesta_coleta": 19,
+"atualizado": "2026-11-11T14:02:29-03:00",
+"novos_nesta_coleta": 23,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,8 +29,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -44,9 +43,261 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | The read operation timed out | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "14:01",
+"t": "Dani Alonso e Capitão Augusto acompanham avanço do AME Marília",
+"p": "Deputados afirmam que a entrega da obra, que vai ajudar a reduzir filas, é uma das prioridades para o próximo mandato.",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/dani-alonso-e-capitao-augusto-acompanham-avanco-do-ame-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:54",
+"t": "Setor de serviços varia -0,1% em setembro, impactado pelos transportes",
+"p": "Em 12 meses, atividades crescem 1,9%, revela o IBGE",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/setor-de-servicos-varia-01-em-setembro-impactado-pelos-transportes/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:52",
+"t": "Empresa é multada em R$ 192 mil pela Cetesb após derramamento de óleo em rios de Campinas",
+"p": "Acidente aconteceu na rodovia Dom Pedro I, em outubro, e provocou vazamento de combustível no Ribeirão Anhumas e no rio Atibaia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas",
+"Anhumas",
+"Atibaia"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/empresa-e-multada-em-r-192-mil-pela-cetesb-apos-derramamento-de-oleo-em-rios-de-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:49",
+"t": "São Paulo x Noroeste corre risco de cancelamento?",
+"p": "Crédito: Bruno Freitas/Noroeste De acordo com a previsão do Climatempo, Bauru deve ter sol entre nuvens, com possibilidade de pancadas de chuva acompanhadas de trovoadas ao longo do dia",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Bauru"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-x-noroeste-corre-risco-de-cancelamento/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:42",
+"t": "Caminhão pega fogo e interdita rodovia Rio-Santos em São Sebastião",
+"p": "Veículo que transportava materiais de jardinagem foi destruído pelas chamas; trecho chegou a ser bloqueado nos dois sentidos da rodovia",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/caminhao-pega-fogo-e-interdita-rodovia-rio-santos-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:40",
+"t": "Portal da Prefeitura de Sorocaba disponibiliza plataforma destinada aos interessados no processo de adoção de crianças e adolescentes",
+"p": "A Prefeitura de Sorocaba disponibilizou, em seu portal oficial, a plataforma Adotar SP (https://adotar.tjsp.jus.br/Adocao), do Tribunal de Justiça de São Paulo (TJSP), com o intuito de ampliar a divulgação de ferramentas oficiais destinadas à adoção de crianças e adolescentes. A medida atende à Lei Municipal nº…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/portal-da-prefeitura-de-sorocaba-disponibiliza-plataforma-destinada-aos-interessados-no-processo-de-adocao-de-criancas-e-adolescentes/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:36",
+"t": "Renan Santos admite conversas para concorrer à prefeitura de São Paulo",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368167/renan-santos-admite-conversas-para-concorrer-a-prefeitura-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:35",
+"t": "Gestão Carlinhos Almeida registrou R$ 61,2 milhões em gastos com publicidade, aponta levantamento",
+"p": "Um levantamento dos gastos com publicidade da Prefeitura de São José dos Campos, considerando dados desde 2013, aponta que a gestão do ex-prefeito Carlinhos Almeida (PT), entre 2013 e 2016, registrou R$ 61,2 milhões em despesas com publicidade, em valores corrigidos pela inflação. O montante foi superior ao…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/gestao-carlinhos-almeida-registrou-r-612-milhoes-em-gastos-com-publicidade-aponta-levantamento/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:26",
+"t": "Finados reúne famílias em dia de homenagens em Ribeirão Preto",
+"p": "Cemitério Bom Pastor recebeu visitantes que levaram flores e fizeram orações. Prever Campos Elíseos ofereceu serviços de acolhimento às famílias.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/conteudo-patrocinado/momento-da-familia/finados-reune-familias-em-dia-de-homenagens-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:25",
+"t": "Santos inicia preparação para o verão e distribuirá 2 mil pulseiras gratuitas para identificar crianças nas praias e evitar desencontros",
+"p": "Com a chegada do verão e o aumento no movimento das praias, Santos já começou a se preparar para reforçar a segurança das crianças durante a temporada. A partir de 1º de dezembro, a Prefeitura distribuirá gratuitamente duas mil pulseiras de identificação ao longo da orla, facilitando o reencontro entre crianças e…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/santos/santos-inicia-preparacao-para-o-verao-e-distribuira-2-mil-pulseiras-gratuitas-para-identificar-criancas-nas-praias-e-evitar-desencontros/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:18",
+"t": "MP das Bets é prorrogada pelo Congresso",
+"p": "Rubens Chiri / saopaulofc.net Com a prorrogação e a suspensão da contagem durante o recesso parlamentar, o prazo para análise do texto vai até 5 de março de 2027",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/mp-das-bets-e-prorrogada-pelo-congresso/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:17",
+"t": "SindiMed alerta que não realiza pagamentos de benefícios do INSS",
+"p": "Beneficiários do INSS estão sendo encaminhados indevidamente à sede do SindiMed, em Santos, que alerta não realizar pagamentos de benefícios previdenciários e cobra providências do órgão.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/sindimed-alerta-que-nao-realiza-pagamentos-de-beneficios-do-inss/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:14",
+"t": "Reforma tributária: estudo de pesquisador de Jundiaí é aprovado em congresso internacional",
+"p": "Foto: Arquivo Pessoal Pesquisador de Jundiaí tem artigo sobre reforma tributária aprovado em congresso internacional. Estudo analisa impactos nos impostos.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/pesquisador-jundiai-reforma-tributaria-congresso-internacional/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:11",
+"t": "Festival reúne esporte, bem-estar e música em Ribeirão Preto; veja a programação",
+"p": "Festival será realizado em 14 de novembro, no Residencial Artesano, com aulas de yoga, pilates, spinning, atividades físicas, talks e atrações musicais.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/festival-reune-esporte-bem-estar-e-musica-em-ribeirao-preto-veja-a-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:10",
+"t": "Craque Neto tem programa encerrado pela Band após três anos por motivo inusitado e se despede ao vivo: “Obrigado a você que aguentou a gente”",
+"p": "Após pouco mais de três anos no ar, Craque Neto se despediu de um de seus programas na Band. O ex-jogador confirmou o encerramento do Apito Final durante a última edição da atração, exibida na noite de segunda-feira (9), e aproveitou o momento para agradecer aos telespectadores e profissionais que participaram do…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/craque-neto-tem-programa-encerrado-pela-band-apos-tres-anos-por-motivo-inusitado-e-se-despede-ao-vivo-obrigado-a-voce-que-aguentou-a-gente/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:10",
+"t": "Concurso público da Mata Santa Genebra encerra inscrições amanhã; salário de R$ 8,9 mil",
+"p": "Concurso da Mata Santa Genebra oferece quatro cargos, com salários de até R$ 8,9 mil; inscrições terminam às 17h",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/concurso-publico-da-mata-santa-genebra-encerra-inscricoes-amanha-salario-de-r-89-mil/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:02",
+"t": "Concurso da Transpetro terá novos locais de prova em quatro estados",
+"p": "A Transpetro, empresa subsidiária de logística da Petrobras, informou que aumentou de 33 para 52 o número de cidades que vão receber candidatos para fazer provas do concurso público de seleção de novos funcionários. A mudança ocorre nos estados da Bahia, do Espírito Santo, Rio de Janeiro e de São Paulo. A data da…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/concurso-da-transpetro-tera-novos-locais-de-prova-em-quatro-estados",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "13:00",
+"t": "IPVA 2027: veja carros usados que ficam livres do imposto",
+"p": "Em São Paulo, modelos com 20 anos ou mais de fabricação são isentos do tributo, mas diretriz varia conforme o Estado em que o automóvel está registrado",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368040/ipva-2027-veja-carros-usados-que-ficam-livres-do-imposto",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "12:56",
@@ -77,6 +328,44 @@
 },
 {
 "d": "2026-11-11",
+"h": "12:50",
+"t": "SP Águas abre primeiro concurso público com 190 vagas e salários de até R$ 12 mil; inscrições começam em novembro",
+"p": "A Agência de Águas do Estado de São Paulo (SP Águas) publicou o edital de seu primeiro concurso público, com 190 vagas para profissionais com ensino superior. Os salários iniciais variam de R$ 10.366 a R$ 12.070, além de benefícios. As inscrições começam na próxima terça-feira (17/11). Vinculada à Secretaria de…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/sp-aguas-abre-primeiro-concurso-publico-com-190-vagas-e-salarios-de-ate-r-12-mil-inscricoes-comecam-em-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "12:50",
+"t": "Prefeitura de Santos anuncia nova passarela no Canal 4 e novas obras de contenção na orla após estragos provocados por ressacas",
+"p": "A Prefeitura de Santos anunciou uma série de obras e reformas para recuperar os estragos provocados pelas ressacas e pela elevação do nível do mar na orla da cidade. As intervenções foram detalhadas pelo prefeito Rogério Santos em um vídeo publicado nesta quarta-feira (11) e incluem a reconstrução de passarelas, a…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/prefeitura-de-santos-anuncia-nova-passarela-no-canal-4-e-novas-obras-de-contencao-na-orla-apos-estragos-provocados-por-ressacas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "12:47",
+"t": "RD Saúde lança projeto-piloto de coleta de canetas injetáveis em 10 farmácias de SP",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368151/rd-saude-lanca-projeto-piloto-de-coleta-de-canetas-injetaveis-em-10-farmacias-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "12:46",
 "t": "Campinas abre concurso público com 100 vagas para a GM",
 "p": "Concurso público para a Guarda Municipal prevê salário R$ 3.796,61 e benefícios como auxílio-alimentação/refeição, vale-transporte e plano de medicamentos",
@@ -87,6 +376,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/campinas-abre-concurso-publico-com-100-vagas-para-a-gm/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "12:46",
+"t": "Campinas abre concurso público com 100 vagas para a GM",
+"p": "Concurso público para a Guarda Municipal prevê salário R$ 3.796,61 e benefícios como auxílio-alimentação/refeição, vale-transporte e plano de medicamentos",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/campinas-abre-concurso-publico-com-100-vagas-para-a-gm/",
 "auto": true
 },
 {
@@ -141,6 +444,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/com-fenomeno-meteorologico-estado-de-sp-recebe-alerta-para-chuva-ventos-e-granizo-veja-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "12:29",
+"t": "Site do Porto de Santos continua fora do ar cinco dias após ataque cibernético e Autoridade Portuária eleva segurança para grau dois",
+"p": "O site do Porto de Santos permanece fora do ar nesta quarta-feira (11), cinco dias após um ataque cibernético atingir os sistemas da Autoridade Portuária de Santos (APS). Ainda não há data definida para o restabelecimento completo dos serviços digitais. A Polícia Federal investiga o caso, e as equipes de tecnologia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/site-do-porto-de-santos-continua-fora-do-ar-cinco-dias-apos-ataque-cibernetico-e-autoridade-portuaria-eleva-seguranca-para-grau-dois/",
 "auto": true
 },
 {
