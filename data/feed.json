@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T16:04:34-03:00",
-"novos_nesta_coleta": 22,
+"atualizado": "2026-11-11T17:06:32-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -27,7 +27,6 @@
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
 "Prefeitura de Registro",
-"Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
@@ -47,9 +46,137 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Prefeitura de São José dos Campos",
+"erro": "The read operation timed out"
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "17:02",
+"t": "Rabdomiólise: 5 sinais de alerta que não devem ser ignorados após esforços físicos extremos",
+"p": "A prática de atividades físicas traz benefícios importantes para a saúde, mas ultrapassar os limites do corpo pode trazer consequências que vão além do cansaço e das dores musculares. A morte da jovem Rachel Apa, de 24 anos, durante a Maratona de Nova York, trouxe atenção para a rabdomiólise, uma condição…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/rabdomiolise-5-sinais-de-alerta-que-nao-devem-ser-ignorados-apos-esforcos-fisicos-extremos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:59",
+"t": "Vídeo: Homem acusado de atropelar a ex-companheira é preso em Mogi das Cruzes",
+"p": "Caso foi registrado pelas câmeras de segurança do sistema Smart Mogi",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/video-homem-acusado-de-atropelar-a-ex-companheira-e-preso-em-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:56",
+"t": "APAE de Jundiaí realiza mais de 1,1 mil avaliações no primeiro ano do Centro Diagnóstico",
+"p": "Foto: APAE Jundiaí Inaugurado em outubro de 2025, serviço identifica necessidades individuais e orienta encaminhamentos nas áreas de Saúde e Educação.",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/apae-de-jundiai-realiza-mais-de-11-mil-avaliacoes-no-primeiro-ano-do-centro-diagnostico/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:50",
+"t": "Ministério Público denuncia mãe e padrasto por homicídio e tortura após morte de criança de dois anos",
+"p": "O Ministério Público do Estado de São Paulo denunciou a mãe e o padrasto do menino Micael Davi Costa da Silva, de dois anos, pelos crimes de homicídio qualificado e tortura, em decorrência da morte da criança no município de Araçatuba. Gabriel Suntaque de Oliveira é acusado de agredir fisicamente o enteado,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ministerio-publico-denuncia-mae-e-padrasto-por-homicidio-e-tortura-apos-morte-de-crianca-de-dois-anos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:38",
+"t": "Tarcísio confirma Ricardo Salles como secretário de Justiça de SP",
+"p": "Foto: Bruno Spada / Câmara dos Deputados Confirmação ocorre após o parlamentar desistir da disputa ao Senado nas eleições de 2026, em meio a articulações políticas no estado.",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/tarcisio-confirma-ricardo-salles-como-secretario-de-justica-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:35",
+"t": "MP arquiva investigação sobre estacionamento pago na Cidade da Criança",
+"p": "Promotoria identificou falhas na autorização concedida à Associação Guasomafe, mas não encontrou provas suficientes de desvio de dinheiro público ou improbidade administrativa",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mp-arquiva-investigacao-sobre-estacionamento-pago-na-cidade-da-crianca/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:30",
+"t": "Tarcísio confirma Ricardo Salles como novo secretário de Justiça e Cidadania",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368205/tarcisio-confirma-ricardo-salles-como-novo-secretario-de-justica-e-cidadania",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:21",
+"t": "Tarcísio escolhe ex-reitor do ITA como novo secretário de Ciência e Tecnologia de São Paulo",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368202/tarcisio-escolhe-ex-reitor-do-ita-como-novo-secretario-de-ciencia-e-tecnologia-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:01",
+"t": "Marcelo Lima destaca educação e união das sete cidades no Desafio",
+"p": "Prefeito de São Bernardo recebeu a cerimônia pelo segundo ano consecutivo e ressaltou a importância da participação dos estudantes",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368194/marcelo-lima-destaca-educacao-e-uniao-das-sete-cidades-no-desafio",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "16:00",
@@ -112,6 +239,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/noticias/jundiai-seis-setores-prioritarios-mercado-internacional/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:57",
+"t": "Indústria, tecnologia e agroindústria estão entre as prioridades de Jundiaí para o mercado global",
+"p": "Foto: Prefeitura de Jundiaí Jundiaí identifica seis setores prioritários para a internacionalização e promove ações para preparar pequenas e médias empresas para o comércio exterior.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-seis-setores-prioritarios-mercado-internacional/",
 "auto": true
 },
 {
@@ -2908,6 +3049,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/viver-bem/o-que-significa-o-portal-11-11-veja-como-usar-a-energia-do-dia-para-manifestar-seus-desejos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "00:00",
+"t": "Prudente é novamente destaque estadual por ações de combate à transmissão vertical do HIV",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67733",
 "auto": true
 },
 {
