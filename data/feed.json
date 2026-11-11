@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T01:01:40-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-11T02:07:43-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,20 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "02:00",
+"t": "Servidor aposentado à força acusa cidade de ignorar ordem de reintegração",
+"p": "Justiça determinou que Prefeitura de Taubaté reintegre o servidor Nilton Silva, aposentado por invalidez de forma compulsória em 2024",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Taubaté"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/servidor-aposentado-a-forca-acusa-cidade-de-ignorar-ordem-de-reintegracao",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "00:02",
