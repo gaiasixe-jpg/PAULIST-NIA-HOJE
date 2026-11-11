@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T23:10:13-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-10T23:57:41-03:00",
+"novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,46 @@
 "itens": [
 {
 "d": "2026-11-10",
+"h": "23:40",
+"t": "Eleuses Paiva deixa Secretaria de Saúde de SP após quatro anos no cargo",
+"p": "Médico anunciou saída em publicação nas redes sociais e divulgou carta de despedida ao governador Tarcísio de Freitas",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/eleuses-paiva-deixa-secretaria-de-saude-de-sp-apos-quatro-anos-no-cargo/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "23:31",
+"t": "Vice-prefeito pede investigação de contrato de R$ 21 milhões da prefeitura",
+"p": "Segundo a denúncia do vice-prefeito, Mello Araújo, suposto caso de corrupção ocorreu na Secretaria Municipal de Esportes e Lazer",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/vice-prefeito-pede-investigacao-de-contrato-de-r-21-milhoes-da-prefeitura",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "23:12",
+"t": "Escola cívico-militar na Redentora recebe 304 inscrições em menos de 12h",
+"p": "Número já supera em 21,6% a capacidade inicial da unidade, que disponibilizará 250 vagas para o Ensino Fundamental",
+"tema": "Educação",
+"s": "entregue",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/escola-civico-militar-na-redentora-recebe-304-inscricoes-em-menos-de-12h/",
+"auto": true
+},
+{
+"d": "2026-11-10",
 "h": "23:04",
 "t": "Hipopótamo Felícia morre aos 28 anos no Zoobotânico de Rio Preto",
 "p": "Fêmea tratava um câncer maligno na boca e passou por eutanásia humanitária após agravamento do quadro de saúde nesta segunda-feira (9).",
@@ -86,6 +126,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/mpsp-recomenda-limite-de-publico-para-megablocos-de-rua-no-carnaval-de-2027",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "23:00",
+"t": "Tribunal julga improcedente denúncia de Flávio Bolsonaro contra deputada federal Ana Elisa",
+"p": "A interrupção da investigação da Polícia Federal contra a deputada federal eleita Ana Elisa (PT-MG) foi determinada pelo Tribunal Regional Eleitoral de Minas Gerais (TRE-MG) em ação movida por Flávio Bolsonaro. O julgamento da Corte Eleitoral fixou a tese de que a publicação efetuada na rede social X configura…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/tribunal-julga-improcedente-denuncia-de-flavio-bolsonaro-contra-deputada-ana-elisa/",
 "auto": true
 },
 {
@@ -181,6 +233,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/policia-civil-prende-dois-suspeitos-de-envolvimento-em-sequestro-relampago/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:30",
+"t": "Praia da Costa ganha estacionamento gratuito para bicicletas elétricas com 83 vagas",
+"p": "A Prefeitura de Vila Velha, no Espírito Santo, inaugurou na última quarta-feira (4/11) um estacionamento gratuito para bicicletas elétricas na orla da Praia da Costa. Instalado na avenida Antônio Gil Veloso, o espaço tem capacidade para 83 veículos e funcionará inicialmente como projeto-piloto durante 30 dias. A…",
+"tema": "Política",
+"s": "entregue",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/praia-da-costa-ganha-estacionamento-gratuito-para-bicicletas-eletricas-com-83-vagas/",
 "auto": true
 },
 {
