@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-10T22:12:27-03:00",
-"novos_nesta_coleta": 13,
+"atualizado": "2026-11-10T23:10:13-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,156 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-10",
+"h": "23:04",
+"t": "Hipopótamo Felícia morre aos 28 anos no Zoobotânico de Rio Preto",
+"p": "Fêmea tratava um câncer maligno na boca e passou por eutanásia humanitária após agravamento do quadro de saúde nesta segunda-feira (9).",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/hipopotamo-felicia-morre-aos-28-anos-no-zoobotanico-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "23:03",
+"t": "Defensoria contesta envio de idosos de Rio Preto para Guarulhos",
+"p": "Município contratou vagas na Grande SP por falta de leitos locais; ação judicial cobra reestruturação do atendimento regional.",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Guarulhos",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defensoria-publica-questiona-prefeitura-de-rio-preto-por-encaminhar-idosos-para-instituicao-de-longa-permanencia-em-guarulhos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "23:02",
+"t": "MPSP recomenda limite de público para megablocos de rua no Carnaval de 2027",
+"p": "Promotores pedem estudos de segurança para cada circuito e planejamento integrado. Recomendação ocorre após superlotação na Consolação",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-recomenda-limite-de-publico-para-megablocos-de-rua-no-carnaval-de-2027",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:50",
+"t": "Mega-Sena 3084 sorteia prêmio de R$ 3,5 milhões em São Paulo",
+"p": "Confira as dezenas apuradas nesta terça-feira e as informações sobre o concurso após premiação principal de R$ 59,5 milhões no domingo.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mega-sena-hoje-10-11-veja-resultado-e-numeros-sorteados/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:49",
+"t": "Lotofácil 3826: confira os números sorteados em São Paulo",
+"p": "Concurso realizado nesta terça-feira tem prêmio estimado em R$ 2 milhões; Caixa divulga o rateio oficial após a apuração",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/lotofacil-hoje-10-11-veja-numeros-sorteados-e-resultado-do-concurso-3826/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:40",
+"t": "Polícia Civil prende marido suspeito de feminicídio",
+"p": "A Polícia Civil do Estado de São Paulo prendeu, na tarde desta terça-feira (10), um homem de 37 anos apontado como o principal suspeito de matar a esposa, de 41 anos, no bairro Jardim Itanguá II, em Sorocaba. O mandado de prisão temporária foi cumprido por equipes policiais em uma clínica situada no município…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-marido-suspeito-de-feminicidio/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:37",
+"t": "Defesa Civil emite alerta para retorno de temporais e chuvas fortes em todas as regiões do Estado",
+"p": "A Defesa Civil do Estado de São Paulo emitiu um alerta oficial para a mudança nas condições meteorológicas a partir desta quarta-feira (11) e com intensificação na quinta-feira (12). O fenômeno, impulsionado por alterações na circulação dos ventos em níveis médios da atmosfera, marcará o retorno das instabilidades…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-emite-alerta-para-retorno-de-temporais-e-chuvas-fortes-em-todas-as-regioes-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:35",
+"t": "Instabilidades voltam a aumentar e trazem previsão de pancadas de chuva para o interior de SP",
+"p": "A quarta-feira (11) terá aumento da instabilidade atmosférica em todo o Estado de São Paulo devido à atuação de um cavado meteorológico nos médios níveis da atmosfera. O fenômeno favorece a formação de áreas de instabilidade, trazendo previsão de pancadas de chuva acompanhadas de descargas elétricas principalmente…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/instabilidades-voltam-a-aumentar-e-trazem-previsao-de-pancadas-de-chuva-para-o-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:34",
+"t": "Operação Arandu da Polícia Civil prende 40 pessoas e apreende drogas",
+"p": "A Polícia Civil do Estado de São Paulo prendeu 40 pessoas durante a Operação Arandu, deflagrada para combater o tráfico de drogas e desarticular organizações criminosas na região de Campinas. Realizada entre os dias 26 de outubro e 9 de novembro, a ofensiva resultou na autuação de 39 suspeitos em flagrante, no…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Campinas",
+"Arandu"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-arandu-da-policia-civil-prende-40-pessoas-e-apreende-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:32",
+"t": "Polícia Civil prende dois suspeitos de envolvimento em sequestro-relâmpago",
+"p": "Policiais do Departamento Estadual de Investigações Criminais (Deic) prenderam, nesta terça-feira (10), dois homens investigados pela participação em um sequestro-relâmpago ocorrido na zona sul da capital paulista. O cumprimento dos mandados de prisão temporária e de busca e apreensão ocorreu no município de Taboão…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-dois-suspeitos-de-envolvimento-em-sequestro-relampago/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "22:27",
+"t": "Justiça condena morador de Auriflama a regime semiaberto por morte acidental de amigo durante jogo",
+"p": "A Justiça condenou, nesta segunda-feira (9), o ex-vigilante bancário Pedro Bernardo da Silva Junior, de 51 anos, pelo homicídio culposo do amigo Marcos Frederico Eugênio, de 41 anos. O caso ocorreu na madrugada de 14 de junho deste ano, no bairro Jardim Boa Vista, em Auriflama, durante um churrasco entre amigos…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Auriflama"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-condena-morador-de-auriflama-a-regime-semiaberto-por-morte-acidental-de-amigo-durante-jogo/",
+"auto": true
+},
 {
 "d": "2026-11-10",
 "h": "22:00",
