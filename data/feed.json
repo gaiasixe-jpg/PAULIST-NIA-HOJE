@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-10T23:57:41-03:00",
+"atualizado": "2026-11-11T01:01:40-03:00",
 "novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
@@ -48,6 +48,62 @@
 ],
 "itens": [
 {
+"d": "2026-11-11",
+"h": "00:02",
+"t": "Boca seca e problemas na gengiva: entenda a relação com o diabetes",
+"p": "O diagnóstico de diabetes exige atenção a diferentes aspectos da saúde, incluindo a saúde bucal. A relação entre a doença e as condições que afetam as gengivas reforça a importância do acompanhamento integrado. Segundo estimativa da Federação Internacional de Diabetes (IDF), 16,6 milhões de brasileiros entre 20 e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/boca-seca-e-problemas-na-gengiva-entenda-a-relacao-com-o-diabetes/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "00:02",
+"t": "O que significa o portal 11/11? Veja como usar a energia do dia para manifestar seus desejos",
+"p": "Todos os anos, o dia 11 de novembro desperta a atenção de quem acompanha assuntos relacionados à espiritualidade, à numerologia e à Lei da Atração. Conhecido como portal 11/11, esse momento é associado ao despertar da consciência, à conexão espiritual e ao poder de manifestação. Na numerologia, o 11 é considerado…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/o-que-significa-o-portal-11-11-veja-como-usar-a-energia-do-dia-para-manifestar-seus-desejos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "23:56",
+"t": "Miramar Shopping abre temporada de Natal em Santos com espetáculo temático e chegada do Papai Noel neste sábado (14)",
+"p": "O Miramar Shopping inicia sua programação natalina no sábado (14) em Santos. O centro comercial fica no Gonzaga. As atrações começam às 18h com a chegada do Papai Noel e o espetáculo temático Sinfonia de Natal. A festa de abertura reúne atrações culturais gratuitas para toda a família e inaugura a nova ambientação.…",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/santos/miramar-shopping-abre-temporada-de-natal-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "23:41",
+"t": "Polícia investiga furto que paralisou dez semáforos em Santo André",
+"p": "Ataque, realizado na sexta-feira, provoca prejuízo de R$ 386,4 mil; empresa gestora suspeita de sabotagem e caso é registrado no 3º DP",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368049/policia-investiga-furto-que-paralisou-dez-semaforos-em-santo-andre",
+"auto": true
+},
+{
 "d": "2026-11-10",
 "h": "23:40",
 "t": "Eleuses Paiva deixa Secretaria de Saúde de SP após quatro anos no cargo",
@@ -71,6 +127,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/vice-prefeito-pede-investigacao-de-contrato-de-r-21-milhoes-da-prefeitura",
+"auto": true
+},
+{
+"d": "2026-11-10",
+"h": "23:29",
+"t": "Rodovia com 654 km que já foi chamada de ‘estrada da morte’ reduz óbitos em 80,6% e conquista título de melhor do Brasil pelo segundo ano seguido",
+"p": "Durante décadas, viajar por determinados trechos da Rodovia Raposo Tavares (SP-270), no interior de São Paulo, significava enfrentar pistas simples, ultrapassagens arriscadas e o perigo de colisões frontais. A frequência de acidentes graves ajudou a consolidar um apelido que acompanhou a estrada por muitos anos:…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/rodovia-com-654-km-que-ja-foi-chamada-de-estrada-da-morte-reduz-obitos-em-806-e-conquista-titulo-de-melhor-do-brasil-pelo-segundo-ano-seguido/",
 "auto": true
 },
 {
