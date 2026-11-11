@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T19:57:50-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-11T20:54:18-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -27,8 +27,8 @@
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
 "Prefeitura de Registro",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Prefeitura de São José dos Campos",
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,106 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Prefeitura de São José dos Campos",
-"erro": "The read operation timed out"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "20:11",
+"t": "Carnaval 2027 em São Paulo terá ensaios técnicos gratuitos em menos de 40 dias",
+"p": "Faltam menos de 40 dias para o início dos ensaios técnicos do Carnaval 2027 em São Paulo. A programação começa em 19 de dezembro, no Sambódromo do Anhembi, na zona norte da Capital, e segue até 24 de janeiro, reunindo as 32 escolas de samba filiadas à Liga Independente das Escolas de Samba de São […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo",
+"Anhembi"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/carnaval-2027-em-sao-paulo-tera-ensaios-tecnicos-gratuitos-em-menos-de-40-dias/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "20:04",
+"t": "Mutirão de empregos em Arujá reúne 225 vagas nesta quinta-feira (12)",
+"p": "Entrevistas serão realizadas no prédio do programa Arujá Emprega, localizado no Centro; oportunidades são para atuação em uma nova empresa de logística no município",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Arujá"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/processo-seletivo-reune-225-vagas-de-emprego-em-aruja-nesta-quinta-feira-12/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "20:00",
+"t": "Fundada em 1956, padaria do Jardim Brasil conquista primeiro lugar em ranking da zona norte de São Paulo no Padocaria",
+"p": "A Padaria Jardim Brasil, na zona norte de São Paulo, conquistou o primeiro lugar da região na edição de 2026 do Padocaria-SP, concurso que elege as melhores padarias da Capital. Fundado em 1956, o estabelecimento foi a primeira padaria do bairro Jardim Brasil e reúne opções de panificação, confeitaria, lanches,…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/fundada-em-1956-padaria-do-jardim-brasil-conquista-primeiro-lugar-em-ranking-da-zona-norte-de-sao-paulo-no-padocaria/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "19:56",
+"t": "Ilhabela oferece curso gratuito de eletricista de manutenção de embarcações",
+"p": "Formação presencial terá 40 horas de duração e é voltada a moradores da cidade com pelo menos 18 anos e ensino fundamental",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-oferece-curso-gratuito-de-eletricista-de-manutencao-de-embarcacoes.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "19:53",
+"t": "Vereadores de SP aprovam em 1ª votação mudança de nome da GCM para Polícia Municipal",
+"p": "",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368272/vereadores-de-sp-aprovam-em-1-votacao-mudanca-de-nome-da-gcm-para-policia-municipal",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "19:53",
+"t": "Vereadores de SP aprovam em 1ª votação mudança de nome da GCM para Polícia Municipal",
+"p": "",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368274/vereadores-de-sp-aprovam-em-1-votacao-mudanca-de-nome-da-gcm-para-policia-municipal",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "19:49",
+"t": "Morando fecha oito anos com parecer favorável do TCE",
+"p": "Ex-prefeito de São Bernardo alcança melhor marca histórica na cidade, com todos exercícios fiscais favoráveis na Corte de Contas desde 1993",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368270/morando-fecha-oito-anos-com-parecer-favoravel-do-tce",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "19:37",
@@ -79,6 +174,18 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/camara-de-sao-paulo-aprova-mudanca-e-guarda-civil-metropolitana-vira-policia-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "19:19",
+"t": "BYD desafia gigantes do luxo mundial com novo sedã capaz de rodar mil quilômetros que flutua na água e tem sala privativa com tela de cinema",
+"p": "A BYD oficializou a apresentação do Yangwang Altior, seu novo sedã de altíssimo luxo voltado ao mercado internacional. O veículo tem 5,6 metros de comprimento e aposta em quatro motores elétricos independentes. Dessa forma, o projeto busca provar que a indústria chinesa consegue rivalizar com os modelos mais caros…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/byd-desafia-gigantes-do-luxo-mundial-com-novo-seda-capaz-de-rodar-mil-km/",
 "auto": true
 },
 {
@@ -203,6 +310,20 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/lixeira-inteligente-criada-por-alunos-de-sao-paulo-usa-ia-para-identificar-e-separar-lixo/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "18:59",
+"t": "Professora de Santo André vence Desafio de Redação",
+"p": "Fernanda Chia trabalha na área de educação há 28 anos",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368260/professora-de-santo-andre-vence-desafio-de-redacao",
 "auto": true
 },
 {
@@ -948,6 +1069,18 @@
 },
 {
 "d": "2026-11-11",
+"h": "16:05",
+"t": "Operação contra fraude em combustíveis mira cidades de SP",
+"p": "Ação com apoio da Polícia Civil apura rombo de R$ 5,5 bilhões e mira grupo econômico ligado a refinaria de petróleo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-de-sp-apoia-operacao-do-mp-rj-contra-fraude-bilionaria-no-setor-de-combustiveis/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "16:01",
 "t": "Marcelo Lima destaca educação e união das sete cidades no Desafio",
 "p": "Prefeito de São Bernardo recebeu a cerimônia pelo segundo ano consecutivo e ressaltou a importância da participação dos estudantes",
@@ -1210,6 +1343,21 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/pts-conquista-terceiro-lugar-entre-os-ambientes-de-inovacao-com-mais-empresas-estabelecidas-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:09",
+"t": "TCESP realiza evento gratuito sobre Terceiro Setor na região de Ribeirão Preto; veja quando",
+"p": "Evento do TCESP acontece nesta quinta-feira (12), na Câmara Municipal de Sertãozinho, cidade na região de Ribeirão Preto",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Sertãozinho"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/nevio-archibald/tcesp-realiza-evento-gratuito-sobre-terceiro-setor-na-regiao-de-ribeirao-preto-veja-quando/",
 "auto": true
 },
 {
