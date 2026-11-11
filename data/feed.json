@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T14:59:32-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-11T16:04:34-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -18,7 +18,6 @@
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
-"Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
 "Jornal Ita News",
@@ -29,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -45,11 +45,302 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | The read operation timed out | curl: curl: (28) Operation timed out after 60001 milliseconds with 0 bytes received\n"
+"fonte": "Boqnews",
+"erro": "XML or text declaration not at start of entity: line 2, column 0"
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "16:00",
+"t": "Candidato de Sergio Moro em SP, comentarista Cristiano Beraldo é demitido da Jovem Pan após operação do MPRJ",
+"p": "O comentarista político Cristiano Beraldo foi demitido da Jovem Pan nesta quarta-feira (11/11). A decisão ocorreu após o profissional ser um dos alvos de uma operação do Ministério Público do Estado do Rio de Janeiro (MPRJ). Ex-integrante do Movimento Brasil Livre (MBL) e suplente de deputado federal, Beraldo, que…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/candidato-de-sergio-moro-em-sp-comentarista-cristiano-beraldo-e-demitido-da-jovem-pan-apos-operacao-do-mprj/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:00",
+"t": "Uber tem 48h para suspender venda do ‘Passe para Motoristas’ com multa diária de R$100 mil",
+"p": "A proibição da comercialização do Passe para Motoristas pela Uber em todo o território nacional foi concedida por liminar pela 9ª Vara do Trabalho de Salvador. O despacho fixou prazo de 48 horas para o bloqueio da oferta sob sanção de R$ 100 mil por dia de descumprimento e resguarda a vigência contratual dos…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/uber-tem-48h-para-suspender-venda-do-passe-para-motoristas-com-multa-diaria-de-r100-mil/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:00",
+"t": "Inscrições abertas para novos cursos gratuitos online de empreendedorismo na região",
+"p": "Gastão Guedes/Divulgação Governo de SP Os moradores da Baixada Santista podem se inscrever até o dia 20 de novembro, através do site do Qualifica SP Empreenda.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/inscricoes-abertas-para-novos-cursos-gratuitos-online-de-empreendedorismo-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "16:00",
+"t": "Cubatão abre cadastro reserva para estágio em 34 áreas; bolsa chega a R$ 900",
+"p": "Divulgação Oportunidades são destinadas a estudantes do ensino superior, com jornadas de 4 ou 6 horas diárias.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/cubatao-abre-cadastro-reserva-para-estagio-em-34-areas-bolsa-chega-a-r-900/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:57",
+"t": "Indústria, tecnologia e agroindústria estão entre as prioridades de Jundiaí para o mercado global",
+"p": "Foto: Prefeitura de Jundiaí Jundiaí identifica seis setores prioritários para a internacionalização e promove ações para preparar pequenas e médias empresas para o comércio exterior.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/jundiai-seis-setores-prioritarios-mercado-internacional/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:56",
+"t": "Orquestra Sinfônica de Sorocaba apresenta Concerto de Primavera em homenagem a Nilson Lombardi",
+"p": "A Orquestra Sinfônica de Sorocaba (OSS) apresentará, nesta sexta-feira (13), às 20h, e domingo (15), às 19h, na Sala Fundec, o Concerto de Primavera, sob orientação do maestro Eduardo Pereira, diretor artístico e regente titular da orquestra. Promovidas pela Fundec, que conta com a parceria da Prefeitura de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/orquestra-sinfonica-de-sorocaba-apresenta-concerto-de-primavera-em-homenagem-a-nilson-lombardi/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:54",
+"t": "Prefeitura de Ribeirão Preto demite a influenciadora Esquerdogata",
+"p": "Conhecida na internet como Esquerdogata, servidora Aline Bardy tem demissão publicada no Diário Oficial e tem dez dias para recorrer",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/prefeitura-de-ribeirao-preto-demite-a-influenciadora-esquerdogata/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:54",
+"t": "Atendimento presencial do Saae/Sorocaba no Pátio Cianê Shopping terá agendamento prévio a partir de 1º de dezembro",
+"p": "A partir de 1º de dezembro, quem precisar de atendimento presencial na Central do Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba, localizada no Pátio Cianê Shopping, deverá realizar agendamento prévio pelo site www.saaesorocaba.sp.gov.br. A mudança tem como objetivo organizar o fluxo de atendimento, reduzir o…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/atendimento-presencial-do-saae-sorocaba-no-patio-ciane-shopping-tera-agendamento-previo-a-partir-de-1o-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:53",
+"t": "Polícia Federal investiga suspeita de ataque hacker ao porto de Santos",
+"p": "Inquérito apura falhas nos sistemas da Autoridade Portuária desde sexta-feira (6); operações seguem mantidas, segundo a administração",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/policia-federal-investiga-suspeita-de-ataque-hacker-ao-porto-de-santos.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:46",
+"t": "Polícia investiga adolescentes de 16 anos por maus-tratos a cachorro em SP",
+"p": "Em vídeo divulgado nas redes sociais, casal é visto passeando com o animal quando um deles puxa o cão pela coleira e o atinge com chutes",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-investiga-adolescentes-de-16-anos-por-maus-tratos-a-cachorro-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:41",
+"t": "Confira os jogos da nona semana do Cruzeirinho 2026",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), divulga os jogos válidos pela nona semana do 46º Torneio Aberto de Futsal para Crianças e Adolescentes – Cruzeirinho 2026. Estão agendadas cinco partidas para este sábado (14), quatro para o domingo (15) e uma para a…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/confira-os-jogos-da-nona-semana-do-cruzeirinho-2026/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:38",
+"t": "Título de cidadã para Janja provoca bate-boca na Câmara de São Bernardo",
+"p": "Sessão termina com discussão acalorada e troca de insultos entre vereador petista com parlamentares do PL",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368184/titulo-de-cidada-para-janja-provoca-bate-boca-na-camara-de-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:29",
+"t": "Cultura de rua no litoral: Guarujá sedia evento gratuito de hip hop no sábado (14)",
+"p": "Programação cultural no litoral paulista conta com batalhas de rima, dança breaking, slam e poesia falada",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/cultura-de-rua-no-litoral-guaruja-sedia-evento-gratuito-de-hip-hop-no-sabado-14.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:25",
+"t": "Feira de artesanato em Bertioga tem edição especial de cinco anos no sábado (14)",
+"p": "Evento no Centro de Educação Ambiental tem início às 14h e conta com oficinas, apresentações musicais e venda de produtos locais",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/feira-de-artesanato-em-bertioga-tem-edicao-especial-de-cinco-anos-no-sabado-14.html",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:20",
+"t": "Polícia Civil de SP apoia operação do MP-RJ contra fraude bilionária no setor de combustíveis",
+"p": "A Polícia Civil do Estado de São Paulo, por meio do Departamento de Operações Policiais Estratégicas (Dope), prestou apoio, nesta quarta-feira (11), a uma grande operação deflagrada pelo Ministério Público do Rio de Janeiro. A ação tem como alvo um grupo empresarial suspeito de liderar um esquema de fraudes fiscais…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-de-sp-apoia-operacao-do-mp-rj-contra-fraude-bilionaria-no-setor-de-combustiveis/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:19",
+"t": "Câmara do Rio concede Medalha Chiquinha Gonzaga a Eduarda Campopiano, e oposição reage",
+"p": "Agência Brasil/Rafa Neddermeyer A Câmara Municipal do RJ aprovou a concessão da Medalha Chiquinha Gonzaga à deputada estadual eleita por São Paulo Eduarda Campopiano.",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/camara-do-rio-concede-medalha-chiquinha-gonzaga-a-eduarda-campopiano-e-oposicao-reage/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:10",
+"t": "Nunes pede \"cautela\" a vice após denúncia sobre desvios na Virada Esportiva",
+"p": "Coronel Mello Araújo (PL), vice-prefeito de SP, pediu investigação do MPSP sobre contrato de R$ 21 milhões da prefeitura",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/nunes-pede-cautela-a-vice-apos-denuncia-sobre-desvios-na-virada-esportiva",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:09",
+"t": "PTS conquista terceiro lugar entre os ambientes de inovação com mais empresas estabelecidas no estado",
+"p": "Reconhecimento reforça a posição de Sorocaba no cenário paulista de inovação; expansão da infraestrutura vai disponibilizar mais 20 espaços para instalação de empresas Com aproximadamente 1,8 milhão de metros quadrados de área total, o Parque Tecnológico de Sorocaba (PTS) ocupa a terceira posição entre os cinco…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/pts-conquista-terceiro-lugar-entre-os-ambientes-de-inovacao-com-mais-empresas-estabelecidas-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:08",
+"t": "Várzea Paulista abre inscrições para a Educação de Jovens e Adultos (EJA) para o primeiro semestre de 2027",
+"p": "Unsplash/Scott Graham Interessados podem realizar a matrícula entre 16 de novembro e 4 de dezembro; modalidade oferece oportunidades para quem deseja retomar os estudos",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/inscricoes-eja-varzea-paulista-2027/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:08",
+"t": "Bancária espera 25 anos para cobrar diferenças salariais, mas TST barra pedido mesmo com contrato de trabalho ainda ativo",
+"p": "Uma bancária contratada em 1984 permaneceu trabalhando por quase quatro décadas e decidiu recorrer à Justiça para cobrar diferenças salariais relacionadas a um plano de cargos e salários criado em 1998. Entretanto, quando apresentou a reclamação trabalhista, em 2023, encontrou um obstáculo que impediria a cobrança:…",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/emprego/bancaria-espera-25-anos-para-cobrar-diferencas-salariais-mas-tst-barra-pedido-mesmo-com-contrato-de-trabalho-ainda-ativo/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:04",
+"t": "Estado de SP inicia nova operação de 14 travessias hídricas",
+"p": "Parceria Público-Privada prevê investimento de R$ 2,5 bilhões ao longo de 20 anos, além de 45 novas embarcações e reforma de terminais.",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/nova-fase-das-travessias-hidricas-do-governo-de-sp-coloca-inovacao-sustentabilidade-e-conforto-no-centro-da-rotina-dos-usuarios/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "15:01",
+"t": "Rodovia Dutra tem lentidão nos dois sentidos nesta quarta-feira (11)",
+"p": "Motoristas enfrentam tráfego intenso em Resende e Santa Isabel; acidente em Arujá não provoca lentidão, segundo concessionária RioSP",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santa Isabel",
+"Arujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-dutra-tem-lentidao-nos-dois-sentidos-nesta-quarta-feira-11.html",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "14:59",
