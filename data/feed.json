@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-11T02:07:43-03:00",
+"atualizado": "2026-11-11T03:06:35-03:00",
 "novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
@@ -47,6 +47,20 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "02:20",
+"t": "Família de vereador suplente executado acusa advogado de golpe milionário",
+"p": "Família de Osmar Guedes, vereador suplente de Osasco morto a tiros em 2025, acusa advogado de aplicar um golpe de mais de R$ 1 milhão",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Osasco"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/familia-de-vereador-suplente-executado-acusa-advogado-de-golpe-milionario",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "02:00",
