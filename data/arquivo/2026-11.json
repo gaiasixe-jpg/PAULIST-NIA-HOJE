@@ -3,6 +3,188 @@
 "itens": [
 {
 "d": "2026-11-12",
+"h": "14:58",
+"t": "Alcolumbre reafirma que decisão sobre CPMI do Banco Master cabe a ele",
+"p": "Vice-líder do governo diz que pedirá CPI na próxima legislatura",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/alcolumbre-reafirma-que-decisao-sobre-cpmi-do-banco-master-cabe-a-ele/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:45",
+"t": "Homem é preso por abusar sexualmente da filha adolescente por seis anos",
+"p": "Segundo a polícia, os abusos aconteceram de maneira reiterada desde quando a vítima tinha 8 anos. O último abuso aconteceu na terça (10/11)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-e-preso-por-abusar-sexualmente-da-filha-adolescente-por-seis-anos",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:43",
+"t": "Estilista de Franca vence Concurso Moda Inclusiva 2026 com roupa esportiva adaptada",
+"p": "Estilista Samuel Riechel desenvolveu peça com zíperes destacáveis e mangas removíveis para corrida, academia e ciclismo; final ocorreu na Pinacoteca de São Paulo",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo",
+"Franca"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/esportes/estilista-franca-vence-concurso-moda-inclusiva-2026-com-roupa-esportiva-adaptada/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:42",
+"t": "Sest Senat abre inscrições para feirão com mais de 3 mil vagas de emprego em Guarujá",
+"p": "Mais de 40 empresas da região participam do mutirão voltado ao setor logístico e de transportes",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/sest-senat-abre-inscricoes-para-feirao-com-mais-de-3-mil-vagas-de-emprego-em-guaruja.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:37",
+"t": "Dupla é presa por suspeita de desvio de matéria-prima de mais de R$ 1 milhão em Itupeva",
+"p": "Foto: Divulgação) Investigação aponta que o esquema pode ter durado dois anos. Polícia localizou caminhão com carga suspeita em Nova Odessa.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Nova Odessa",
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/desvio-materia-prima-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:36",
+"t": "Endrick ganha novos interessados em sua contratação",
+"p": "Rafael Ribeiro / CBF O atacante avalia deixar o Real Madrid por empréstimo em janeiro de 2027",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/endrick-ganha-novos-interessados-em-sua-contratacao/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:35",
+"t": "Lula cobra retratação da imprensa após Justiça determinar devolução de valores de tríplex no Guarujá",
+"p": "Durante transmissão ao vivo realizada nesta quinta-feira (12) diretamente da Turquia, onde participa da COP31, o presidente Luiz Inácio Lula da Silva afirmou publicamente que espera um pedido de desculpas por parte da imprensa brasileira em decorrência do caso envolvendo o apartamento tríplex no Guarujá, litoral de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/lula-cobra-retratacao-da-imprensa-apos-justica-determinar-devolucao-de-valores-de-triplex-no-guaruja/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:31",
+"t": "Justiça Federal determina repasse de R$ 2,4 milhões de leilão de tríplex no Guarujá para o grupo OAS",
+"p": "A Justiça Federal determinou que o valor arrecadado com o leilão de um apartamento tríplex localizado no Guarujá, no litoral paulista, seja integralmente repassado à construtora OAS. A decisão foi assinada pelo juiz Marcelo Gentil Monteiro, da 12ª Vara Federal Criminal de Brasília, após o magistrado constatar a…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-federal-determina-repasse-de-r-24-milhoes-de-leilao-de-triplex-no-guaruja-para-o-grupo-oas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:27",
+"t": "Comunicado – Vigilância em Saúde orienta sobre a prevenção da raiva",
+"p": "Saúde",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/comunicado-vigilancia-em-saude-orienta-sobre-a-prevencao-da-raiva/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:24",
+"t": "Obra de 1,2km na ciclovia da praia Deserta, em São Sebastião, deve durar um mês",
+"p": "Com prazo de 30 dias para conclusão, obras buscam recuperar a estrutura danificada e melhorar a mobilidade de pedestres e ciclistas",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saosebastiao/ciclovia-da-praia-deserta-passa-por-obras-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:20",
+"t": "Ilhabela abre curso gratuito de elétrica de embarcações; cadastro vai até dia 27",
+"p": "Formação presencial terá 40 horas na IETEC, em dezembro; candidatos precisam morar na cidade e ter pelo menos 18 anos.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/ilhabela-curso-eletricista-embarcacoes-inscricoes-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:20",
+"t": "Obra no Turi muda acesso à Rua Mariana em Jacareí nesta quinta",
+"p": "Acesso pela Rua Minas Gerais tem bloqueio anunciado para 12 de novembro; trânsito local entra pela Rua Siqueira Campos.",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Jacareí"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/jacarei-turi-interdicao-rua-mariana-12-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "14:15",
+"t": "Nunes sobre interesses por trás de denúncias do vice: \"Todo mundo sabe\"",
+"p": "Vice-prefeito de São Paulo Coronel Mello Araújo denunciou ao MPSP possíveis irregularidades em contratos e parcerias da Virada Esportiva",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/nunes-sobre-interesses-por-tras-de-denuncias-do-vice-todo-mundo-sabe",
+"auto": true
+},
+{
+"d": "2026-11-12",
 "h": "13:56",
 "t": "São Bernardo terá festa gratuita para crianças com brinquedos infláveis e lanches",
 "p": "Programação será realizada neste sábado (14), das 12h às 16h, com recreação, distribuição de cachorro-quente e feira de artesanato",
@@ -13,6 +195,20 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4368417/sao-bernardo-tera-festa-gratuita-para-criancas-com-brinquedos-inflaveis-e-lanches",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "13:54",
+"t": "Escândalo trabalhista em SP: abrigo que servia comida em balde e forçava funcionária a ir a reuniões de partido terá que pagar indenização",
+"p": "Um grave escândalo trabalhista envolvendo maus-tratos e coação política resultou na condenação de uma instituição responsável pelo acolhimento de pessoas em situação de vulnerabilidade social em São Paulo. A Justiça do Trabalho determinou que a entidade pague indenização por danos morais a uma auxiliar de…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/escandalo-trabalhista-em-sp-abrigo-que-servia-comida-em-balde-e-forcava-funcionaria-a-ir-a-reunioes-de-partido-tera-que-pagar-indenizacao/",
 "auto": true
 },
 {
@@ -83,6 +279,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/jovem-de-18-anos-e-condenado-a-5-anos-em-regime-fechado-por-traficar-200-pedras-de-crack-na-cdhu-de-mirassol/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "13:45",
+"t": "Com El Niño no radar, 5 truques com cabides para secar roupas dentro de casa ajudam a liberar espaço no varal e evitar cheiro de mofo nos dias de chuva",
+"p": "Com os dias frios e chuvosos causados pela presença constante do El Niño no Brasil, secar roupas dentro de casa têm exigido bastante paciência na rotina doméstica. Com as máquinas de lavar funcionando em sequência, encontrar espaço livre no varal torna-se um desafio frequente para muitas famílias. Contudo, algumas…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/com-el-nino-no-radar-5-truques-com-cabides-para-secar-roupas-dentro-de-casa/",
 "auto": true
 },
 {
@@ -2017,6 +2225,76 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67740",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "00:00",
+"t": "780 alunos da rede municipal participaram da 2ª Fase da Obmep Mirim 2026",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67745",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "00:00",
+"t": "Seduc promove evento para celebrar revitalização da EM Dr. Carlo Ceriani",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67744",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "00:00",
+"t": "Projeto Colorindo Nosso Bairro reúne crianças do Aquarela na Praça do Belo Galindo",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67743",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "00:00",
+"t": "Prefeitura prepara programação da Virada Preta com atividades culturais de 19 a 28/11",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67742",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "00:00",
+"t": "Sesau promove ação alusiva ao Novembro Azul a servidores da pasta; plantões dias 24 e 26",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67741",
 "auto": true
 },
 {
