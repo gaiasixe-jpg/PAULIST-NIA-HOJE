@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-12T17:56:50-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-12T18:54:39-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -58,6 +52,162 @@
 "itens": [
 {
 "d": "2026-11-12",
+"h": "18:50",
+"t": "Previsão do tempo: sexta-feira (13) traz trégua nas instabilidades e calor em boa parte do Estado",
+"p": "O estado de São Paulo terá uma sexta-feira (13) marcada pela diminuição gradativa das áreas de instabilidade, abrindo espaço para um tempo mais firme em várias regiões. De acordo com informações da Agência SP, a ocorrência de chuvas passará a ser mais isolada e restrita às faixas leste, central e nordeste do…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/previsao-do-tempo-sexta-feira-13-traz-tregua-nas-instabilidades-e-calor-em-boa-parte-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:49",
+"t": "Espetáculo “Ucrânia e Brasil em Diálogo” é atração na Sala Fundec neste sábado (14)",
+"p": "O espetáculo “Ucrânia e Brasil em Diálogo” reunirá canções ancestrais, polifonia e percussão durante uma apresentação, neste sábado (14), às 19h, na Sala Fundec. A atração contará com a participação da cantora, compositora e intérprete de música tradicional ucraniana Valentyna (Valya) Levchenko e os músicos…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/espetaculo-ucrania-e-brasil-em-dialogo-e-atracao-na-sala-fundec-neste-sabado-14/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:46",
+"t": "Mogi das Cruzes registra 61mm de chuva em 3h e tem queda de árvores e muro de cemitério",
+"p": "Córrego rio Negro transbordou com o volume de água; prefeitura deslocou equipes de trânsito, da GCM e da Secretaria de Serviços Urbanos",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-registra-61mm-de-chuva-em-3h-e-tem-queda-de-arvores-e-muro-de-cemiterio/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:46",
+"t": "5º Festival de Dança com alunos da rede municipal de ensino foi destaque com apresentação no Teatro Municipal “Teotônio Vilela”",
+"p": "Fotos: Michelle Alves/Secom Já se tornou uma tradição, na rede municipal de ensino, finalizar o projeto “Eu Pratico Esporte Educacional Escolar”, que oferta atividades físicas e esportivas aos alunos no contraturno escolar, com a apresentação do Festival de Dança, que em 2026 chega à sua 5ª edição. O espetáculo,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/5o-festival-de-danca-com-alunos-da-rede-municipal-de-ensino-foi-destaque-com-apresentacao-no-teatro-municipal-teotonio-vilela/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:40",
+"t": "Rodovia dos Tamoios tem uma faixa bloqueada por acidente, na noite desta quinta (12)",
+"p": "Ocorrência bloqueia faixa da esquerda no km 24+800 do trecho de planalto, sentido São José dos Campos; serras antiga e nova registram neblina e obras",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São José dos Campos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/rodovia-dos-tamoios-tem-uma-faixa-bloqueada-por-acidente-na-noite-desta-quinta-12.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:30",
+"t": "Rádio demite funcionários por conta da proibição das bets no Brasil",
+"p": "A Rádio Itatiaia, emissora controlada pelo empresário Rubens Menin, demitiu profissionais na terça-feira (10/11), em meio aos impactos da proibição de publicidade de casas de apostas esportivas no Brasil. O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou em setembro novas medidas para proibir as bets…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/radio-demite-funcionarios-por-conta-da-proibicao-das-bets-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:30",
+"t": "Trégua no Leão: Receita Federal dá 30 dias a mais para empresas pagarem novo tributo da reforma e adia seis documentos fiscais para março",
+"p": "A Receita Federal anunciou nesta quarta (11) um pacote de medidas para aliviar a transição da reforma tributária. A medida também deve reduzir o impacto operacional sobre as empresas. O secretário especial do Fisco, Robinson Barreirinhas, confirmou que o governo enviará um projeto de Lei Complementar ao Congresso.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/tregua-no-leao-receita-federal-da-30-dias-a-mais-para-empresas-pagarem-novo-tributo-da-reforma-e-adia-seis-documentos-fiscais-para-marco/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:30",
+"t": "Filhote de cachorro é abandonado em calçada no Parque Itajaí",
+"p": "Câmera de segurança registrou duas pessoas deixando o animal em uma caixa com pano e potes de água e ração; cachorro já encontrou um novo lar",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/filhote-de-cachorro-e-abandonado-em-calcada-no-parque-itajai/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:26",
+"t": "TV Globo terá programa inédito do Latin GRAMMY 2026 e transmissão ao vivo com sinal liberado no Globoplay",
+"p": "A cobertura do Latin GRAMMY 2026 terá uma novidade na televisão brasileira. Pela primeira vez, a Globo exibirá um programa especial dedicado exclusivamente à premiação. A transmissão será multiplataforma, com exibição ao vivo na quinta-feira (12) pelo Multishow, Canal BIS e Globoplay, além de um resumo dos…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/tv-globo-tera-programa-inedito-do-latin-grammy-2026-e-transmissao-ao-vivo-com-sinal-liberado-no-globoplay/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:15",
+"t": "Vereadora de Minas Gerais é condenada a pagar R$ 200 mil por incentivar demissão de ‘esquerdistas’",
+"p": "A Justiça do Trabalho condenou a parlamentar Roberta Lopes Alves (PL), vereadora de Juiz de Fora (MG) e deputada estadual eleita, ao pagamento de R$ 200 mil por dano moral coletivo e assédio eleitoral. A sanção decorre de postagens em redes sociais nas quais a política incitava o empresariado a não contratar e a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/vereadora-de-minas-gerais-e-condenada-a-pagar-r-200-mil-por-incentivar-demissao-de-esquerdistas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:02",
+"t": "Coração, músculos e pressão arterial: entenda o papel do potássio no organismo",
+"p": "O potássio é um mineral essencial para o bom funcionamento do organismo, pois participa de processos importantes. Dessa maneira, seu consumo em quantidades adequadas, por meio de uma alimentação variada e equilibrada, é fundamental para a manutenção da saúde e do bem-estar. “O potássio participa de funções…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/coracao-musculos-e-pressao-arterial-entenda-o-papel-do-potassio-no-organismo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:56",
+"t": "Com orçamento apertado pela inflação, americanos deixam presentes caros e vão usar a Black Friday para estocar itens básicos de limpeza e higiene",
+"p": "Os consumidores americanos devem usar a Black Friday de 2026 para abastecer a casa, deixando presentes caros de lado. A mudança acontece porque a inflação persistente aperta o orçamento das famílias. Segundo o Correio de Hoje, a lista inclui higiene, limpeza, roupas básicas e itens para bebês e pets. O movimento…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/com-orcamento-apertado-pela-inflacao-americanos-vao-usar-a-black-friday-para-estocar-itens-basicos/",
+"auto": true
+},
+{
+"d": "2026-11-12",
 "h": "17:53",
 "t": "Alerta de dengue: Campinas tem 37 bairros com alto risco de transmissão; veja lista",
 "p": "Alerta da Secretaria de Saúde aponta áreas em seis regiões da cidade; Campinas soma 4.360 casos confirmados de dengue e não tem mortes pela doença em 2026",
@@ -68,6 +218,34 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/alerta-de-dengue-campinas-tem-37-bairros-com-alto-risco-de-transmissao-veja-lista/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:50",
+"t": "Eletra anuncia R$ 1,1 bilhão para eletrificar frota de ônibus em São José dos Campos",
+"p": "Operação com BNDES prevê a substituição dos 400 veículos municipais e pode servir de modelo para outras cidades",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"São José dos Campos"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368477/eletra-anuncia-rs-1-1-bilhao-para-eletrificar-frota-de-onibus-em-sao-jose-dos-campos",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:43",
+"t": "Rio Tamanduateí transborda e Avenida dos Estados alaga em Santo André",
+"p": "Chuva registrada na tarde desta quinta-feira (12) deixou diversos pontos de alagamento na região, com pessoa ilhada em carro, trânsito intenso e interrupção na circulação de trens",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368475/rio-tamanduatei-transborda-e-avenida-dos-estados-alaga-em-santo-andre",
 "auto": true
 },
 {
@@ -94,6 +272,20 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/apos-nova-pane-em-trem-tarcisio-diz-ter-pedido-reuniao-com-a-viamobilidade",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:30",
+"t": "Cadeiras transformadas em obras de arte vão a leilão beneficente em São Paulo com lances a partir de R$ 800",
+"p": "Um leilão beneficente em São Paulo vai reunir 14 cadeiras transformadas em obras de arte por artistas brasileiros para arrecadar recursos destinados aos projetos do LAR, instituição que completa 70 anos em 2026 e atua no acolhimento e desenvolvimento de crianças e jovens em situação de vulnerabilidade. O evento do…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/cadeiras-transformadas-em-obras-de-arte-vao-a-leilao-beneficente-em-sao-paulo-com-lances-a-partir-de-r-800/",
 "auto": true
 },
 {
@@ -126,6 +318,18 @@
 },
 {
 "d": "2026-11-12",
+"h": "17:24",
+"t": "El Niño ameaça fim de ano e férias no Brasil com calor extremo, chuvas fortes e ventos no Sudeste, risco de enchentes no Sul e seca no Norte e Nordeste",
+"p": "O Painel El Niño 2026-2027 prevê chuva acima da média no Sul, com risco de cheias, e abaixo no Norte e no Nordeste, onde a seca grave já atinge 28% da área. O litoral paulista terá chuva moderada em forma de temporal. Temperatura fica acima da média em quase todo o país.",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil/el-nino-ameaca-fim-de-ano-e-ferias-no-brasil-com-calor-extremo-chuvas-fortes-e-ventos-no-sudeste-risco-de-enchentes-no-sul-e-seca-no-norte-e-nordeste/",
+"auto": true
+},
+{
+"d": "2026-11-12",
 "h": "17:20",
 "t": "Outlook fica fora do ar e falha afeta usuários do Microsoft 365 no Brasil e no mundo",
 "p": "Outlook: instabilidade começou por volta das 14h30 e provocou mais de 30 mil reclamações no Downdetector; Microsoft confirmou problemas de conexão",
@@ -136,6 +340,18 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/outlook-fica-fora-do-ar-e-falha-afeta-usuarios-do-microsoft-365-no-brasil-e-no-mundo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:08",
+"t": "Quintais de cimento começam a dar lugar a pisos vazados com grama que suportam carros, deixam a água passar e ajudam a combater o calor",
+"p": "Durante anos, revestir integralmente quintais, calçadas e vagas de garagem com blocos de concreto maciço ou pedras assentadas sobre argamassa foi sinônimo de praticidade doméstica. Eliminava a necessidade de aparar o gramado e reduzia o barro nos dias chuvosos. No entanto, a intensificação das tempestades urbanas e…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/concreto-macico-pode-elevar-em-ate-50-o-escoamento-da-chuva-mas-piso-drenante-surge-como-alternativa-para-quintais-e-garagens/",
 "auto": true
 },
 {
@@ -197,6 +413,18 @@
 },
 {
 "d": "2026-11-12",
+"h": "16:57",
+"t": "Tarcísio ameaça romper com ViaMobilidade após passageiros ficarem presos sem ar-condicionado",
+"p": "",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368466/tarcisio-ameaca-romper-com-viamobilidade-apos-passageiros-ficarem-presos-sem-ar-condicionado",
+"auto": true
+},
+{
+"d": "2026-11-12",
 "h": "16:56",
 "t": "Alerta severo: zona leste de SP está em estado de atenção para alagamentos",
 "p": "A Defesa Civil alerta para chuva forte se espalhando, com raios, ventos e chance de granizo. Há potencial para alagamentos",
@@ -219,6 +447,32 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/defesa-civil-emite-alerta-severo-de-chuva-forte-raios-e-granizo-para-a-zona-leste-de-sao-paulo-nesta-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "16:56",
+"t": "Chuva faz água cair da cobertura e dificulta passagem na Estação Mauá",
+"p": "Água atinge área das plataformas 2 e 3, e passageiros precisam desviar para circular; CPTM ainda deve esclarecer situação da cobertura",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368467/chuva-faz-agua-cair-da-cobertura-e-dificulta-passagem-na-estacao-maua",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "16:44",
+"t": "Reforma tributária mexe no bolso de quem vive de aluguel: veja a partir de qual valor e quantidade de imóveis você paga o novo imposto",
+"p": "A partir de janeiro de 2027, a reforma tributária altera a cobrança de impostos sobre a locação de imóveis no Brasil. Pessoas físicas que recebem mais de R$ 240 mil por ano com o aluguel de mais de três imóveis passam a pagar novos tributos sobre o consumo, além do tradicional Imposto de Renda. A […]",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/reforma-tributaria-mexe-no-bolso-de-quem-vive-de-aluguel-veja-a-partir-de-qual-valor-e-quantidade-de-imoveis-voce-paga-o-novo-imposto/",
 "auto": true
 },
 {
