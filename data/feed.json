@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-12T01:00:37-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-12T02:08:11-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,18 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-12",
+"h": "02:00",
+"t": "Em busca de emendas, prefeitos fazem peregrinação por gabinetes da Alesp",
+"p": "Políticos de cidades pequenas levam presentes para deputados e tentam negociar emendas mencionando votação em suas cidades",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/em-busca-de-emendas-prefeitos-fazem-peregrinacao-por-gabinetes-da-alesp",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "23:33",
