@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-12T02:08:11-03:00",
+"atualizado": "2026-11-12T03:11:00-03:00",
 "novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
@@ -50,6 +50,20 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-12",
+"h": "02:30",
+"t": "OS quer demitir e cortar salários para honrar contrato com Prefeitura de SP",
+"p": "INTS planeja demitir funcionários e reduzir salários para cumprir proposta a chamamento da Prefeitura de São Paulo",
+"tema": "Política",
+"s": "obra",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/os-quer-demitir-e-cortar-salarios-para-honrar-contrato-com-prefeitura-de-sp",
+"auto": true
+},
 {
 "d": "2026-11-12",
 "h": "02:00",
