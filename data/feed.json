@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-12T03:11:00-03:00",
-"novos_nesta_coleta": 1,
+"atualizado": "2026-11-12T04:27:55-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-12",
+"h": "04:01",
+"t": "Zona Azul começa hoje na cidade de Guarujá: entenda funcionamento e valores",
+"p": "Guarujá começa a operar nesta quinta-feira (12) o novo sistema de estacionamento rotativo, conhecido como Zona Azul. Administrado pela empresa Rizzo Park, o serviço prevê a disponibilização de 2,1 mil vagas em diferentes regiões do município, incluindo áreas comerciais e turísticas. Os valores começam em R$ 4 por…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/zona-azul-comeca-hoje-na-cidade-de-guaruja-entenda-funcionamento-e-valores/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "03:24",
+"t": "Rede de proteção discute medidas para qualificar acolhimento de menores em Marília",
+"p": "Reunião reuniu órgãos da rede de proteção para discutir prevenção, encaminhamentos e integração dos serviços municipais.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/rede-de-protecao-discute-medidas-para-qualificar-acolhimento-de-menores-em-marilia/",
+"auto": true
+},
 {
 "d": "2026-11-12",
 "h": "02:30",
