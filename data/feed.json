@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-12T16:59:58-03:00",
-"novos_nesta_coleta": 23,
+"atualizado": "2026-11-12T17:56:50-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,117 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-12",
+"h": "17:53",
+"t": "Alerta de dengue: Campinas tem 37 bairros com alto risco de transmissão; veja lista",
+"p": "Alerta da Secretaria de Saúde aponta áreas em seis regiões da cidade; Campinas soma 4.360 casos confirmados de dengue e não tem mortes pela doença em 2026",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/alerta-de-dengue-campinas-tem-37-bairros-com-alto-risco-de-transmissao-veja-lista/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:42",
+"t": "Governo Vinicius sabia desde 2025 que empresa de ônibus poderia deixar Marília",
+"p": "Sem edital para nova concessão a 44 dias do vencimento previsto, governo pode recorrer a contrato emergencial.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/governo-vinicius-sabia-desde-2025-que-empresa-de-onibus-poderia-deixar-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:34",
+"t": "Após nova pane em trem, Tarcísio diz ter pedido reunião com a ViaMobilidade",
+"p": "Falha de tração em um trem da Linha 8-Diamante fez com que passageiros andassem sobre os trilhos na manhã desta quinta (12/11)",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/apos-nova-pane-em-trem-tarcisio-diz-ter-pedido-reuniao-com-a-viamobilidade",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:28",
+"t": "Estudante de medicina investigado por abuso é afastado de faculdade em Ribeirão Preto",
+"p": "Polícia investiga denúncia de abuso contra jovem em Ribeirão Preto; defesa de estudante acusado afirma que vai cumprir decisão pelo afastamento",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/estudante-de-medicina-investigado-por-abuso-e-afastado-de-faculdade-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:24",
+"t": "Polícia Militar prende dois homens por furto de gado em Buri",
+"p": "Dois homens foram presos na quarta-feira (11) suspeitos de furtar um bovino em uma propriedade rural de Buri. A prisão foi realizada por policiais militares após uma denúncia sobre o possível crime. Durante patrulhamento, as equipes localizaram um veículo com dois ocupantes na Rodovia Engenheiro Lauri Simões de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Buri"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/furto-gado-buri/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:20",
+"t": "Outlook fica fora do ar e falha afeta usuários do Microsoft 365 no Brasil e no mundo",
+"p": "Outlook: instabilidade começou por volta das 14h30 e provocou mais de 30 mil reclamações no Downdetector; Microsoft confirmou problemas de conexão",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/outlook-fica-fora-do-ar-e-falha-afeta-usuarios-do-microsoft-365-no-brasil-e-no-mundo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:06",
+"t": "Programa de Afiliados Temu Black Friday 2026: Guia para Aumentar Seus Ganhos",
+"p": "A Black Friday é o maior período de faturamento do ano. Se você gerencia uma comunidade, uma página de ofertas, um blog ou um canal focado em compras, este é o momento ideal para se juntar ao Programa de Afiliados Temu. Nesta Black Friday, os benefícios para afiliados da Temu estão ainda melhores: comissões por […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/post/programa-de-afiliados-temu-black-friday-2026-guia-para-aumentar-seus-ganhos/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "17:02",
+"t": "Encerramento dos Jogos Escolares traz homenagens, celebração do esporte, muita arte e inclusão",
+"p": "Foto: Prefeitura de Várzea Paulista Apagamento da pira olímpica, apresentação de dança da escola São Miguel Arcanjo, depoimento emocionante da aluna cadeirante Maria Nicolly dos Santos Chaves e as exibições musicais de professores da Rede Municipal foram destaques",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Miguel Arcanjo",
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/encerramento-jogos-escolares-varzea-paulista-2026/",
+"auto": true
+},
 {
 "d": "2026-11-12",
 "h": "17:00",
@@ -180,6 +297,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/politica/biografia-de-orestes-quercia-sera-lancada-em-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "16:30",
+"t": "Santo André contrata volante com experiência internacional",
+"p": "Revelado pelo Corinthians, Renan Areias tem passagem pelo futebol asiático e europeu",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional",
 "auto": true
 },
 {
