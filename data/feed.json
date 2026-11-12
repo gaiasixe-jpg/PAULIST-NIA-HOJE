@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-12T06:09:05-03:00",
+"atualizado": "2026-11-12T08:12:41-03:00",
 "novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
@@ -28,8 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -47,9 +46,295 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-12",
+"h": "08:08",
+"t": "Homem procurado pela Justiça da Bahia é preso com cédulas falsas e drogas em Ubatuba",
+"p": "Policiais cumpriram mandados no bairro Parque dos Ministérios e apreenderam drogas, dinheiro falso e materiais para embalar entorpecentes",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/homem-procurado-pela-justica-da-bahia-e-preso-com-cedulas-falsas-e-drogas-em-ubatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:08",
+"t": "Suspeito de esfaquear ex-mulher mais de 20 vez em Valparaíso se entrega à polícia",
+"p": "O homem suspeito de esfaquear a ex-mulher cerca de 20 vezes em Valparaíso (SP) se entregou à Polícia Civil na manhã desta quarta-feira (11), em Araçatuba (SP). Edersom Bravo dos Santos compareceu à delegacia acompanhado de um advogado. O ataque ocorreu no dia 25 de outubro, quando Edersom invadiu a casa de uma…",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Valparaíso",
+"Araçatuba"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/suspeito-de-esfaquear-ex-mulher-mais-de-20-vez-em-valparaiso-se-entrega-a-policia/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:06",
+"t": "Mãe e padrasto são denunciados por tortura e morte de bebê após série de agressões e versões incompatíveis com queda da cama",
+"p": "O Ministério Público de São Paulo (MP) denunciou a mãe e o padrasto por homicídio qualificado e tortura após a morte de Micael Davi Costa de Silva, de dois anos, em Araçatuba (SP). A denúncia descreve quatro episódios de violência física entre agosto e outubro de 2026, incluindo agressões que provocaram fratura na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"São Paulo"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/mae-e-padrasto-sao-denunciados-por-tortura-e-morte-de-bebe-apos-serie-de-agressoes-e-versoes-incompativeis-com-queda-da-cama/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:05",
+"t": "Operação GTA: polícia prende grupo suspeito de roubar carros de luxo em SP",
+"p": "Operação deflagrada nesta quinta (12/11) mira grupo suspeito de cometer dezenas de furtos e roubos de veículos de luxo na capital paulista",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/operacao-gta-policia-prende-grupo-suspeito-de-roubar-carros-de-luxo-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:04",
+"t": "Homem é preso com mais de 400 kg de maconha dentro de carro em rodovia",
+"p": "Um motorista de 20 anos foi preso em flagrante com mais de 400 kg de maconha dentro de um carro, na Rodovia Arlindo Béttio (SP-613), em Rosana (SP), na manhã desta quarta-feira (11). De acordo com a Polícia Militar Rodoviária, a abordagem ocorreu por volta das 6h30, na altura do km 75,5 da via. O […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Rosana"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/homem-e-preso-com-mais-de-400-kg-de-maconha-dentro-de-carro-em-rodovia/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:02",
+"t": "Polícia e Conselho Tutelar apuram caso de criança que foi à creche com hematomas em Osvaldo Cruz",
+"p": "A Santa Casa de Osvaldo Cruz acionou a polícia após uma criança dar entrada na unidade com hematomas pelo corpo. A situação foi denunciada por funcionários de uma creche municipal. O Conselho Municipal também foi acionado. O caso é investigado. Segundo a Secretaria de Educação de Osvaldo Cruz, uma criança foi…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Osvaldo Cruz"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/policia-e-conselho-tutelar-apuram-caso-de-crianca-que-foi-a-creche-com-hematomas-em-osvaldo-cruz/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:00",
+"t": "Tarcísio de Freitas visita Campinas nesta quinta-feira; veja agenda",
+"p": "Governador participa do lançamento da pedra fundamental do Hospital Estadual de Campinas; além da metrópole, participa de entrega de moradias em Mogi Guaçu e Fomenta 2026 em Águas de São Pedro",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Águas de São Pedro",
+"Mogi Guaçu",
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/tarcisio-de-freitas-visita-campinas-nesta-quinta-feira-veja-agenda/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:00",
+"t": "Campinas registra 17 casos de mpox em 2026 e Saúde alerta para aumento recente; veja sintomas",
+"p": "Todos os pacientes diagnosticados neste ano são homens com idades entre 20 e 49 anos; município não registra mortes pela doença, que provoca lesões na pele, febre e ínguas",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/saude/campinas-registra-17-casos-de-mpox-em-2026-e-saude-alerta-para-aumento-recente-veja-sintomas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:00",
+"t": "Campinas tem previsão de chuva nesta quinta-feira; veja horários",
+"p": "Instabilidades devem atingir a cidade principalmente entre o fim da manhã e a tarde; temperaturas podem chegar aos 26 °C",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-previsao-de-chuva-nesta-quinta-feira-veja-horarios/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:52",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta quinta (12)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-quinta-12.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:51",
+"t": "Tarcísio anuncia Ricardo Salles e mais cinco secretários para segundo mandato",
+"p": "Marcos Guerson e Anderson Ribeiro Correia assumirão outras duas pastas, enquanto três atuais titulares permanecem no governo",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/tarcisio-anuncia-ricardo-salles-e-mais-cinco-secretarios-para-segundo-mandato/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:48",
+"t": "Resultado da Lotomania 2998: prêmio acumula para R$ 5,7 milhões; veja os 20 números",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de quarta-feira (11/11) teve cinco apostas com 19 acertos, cada uma premiada com R$ 51.671,37.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotomania-concurso-2998/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:44",
+"t": "Motociclista morre após atingir pedra e cair no acostamento de rodovia",
+"p": "Motociclista morreu na noite desta quarta (11) após atingir uma pedra e cair em trecho de rodovia em Bebedouro, na região de Ribeirão Preto",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Ribeirão Preto",
+"Bebedouro"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motociclista-morre-apos-atingir-pedra-e-cair-no-acostamento-de-rodovia/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:41",
+"t": "Resultado da Lotofácil 3827: prêmio acumula para R$ 5 milhões; veja as 15 dezenas sorteadas",
+"p": "Foto: Depositphotos Concurso de quarta-feira (11/11) não teve ganhador na faixa máxima; 375 apostas receberam R$ 1.159,99 por 14 acertos.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotofacil-concurso-3827/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:32",
+"t": "Lotofácil 3827 acumula e deixa 101 apostas de SP com 14 acertos; prêmio milionário volta a ser disputado nesta quinta-feira",
+"p": "O concurso 3827 da Lotofácil passou em branco e não deixou nenhum apostador milionário na noite da última quarta-feira (11). No estado de São Paulo, por exemplo, 101 apostas acertaram 14 dezenas. Agora, a Lotofácil volta a movimentar os apostadores na noite desta quinta-feira (12). Lotofácil 3827 Como resgatar os…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/lotofacil-3827-acumula-e-deixa-101-apostas-de-sp-com-14-acertos-premio-milionario-volta-a-ser-disputado-nesta-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:30",
+"t": "Câmara aprova projeto que torna maus-tratos com morte de animais crime hediondo e inafiançável",
+"p": "A Câmara dos Deputados aprovou nesta quarta-feira (11/11) um projeto de lei que classifica como crime hediondo os maus-tratos contra animais que resultarem em morte. A proposta prevê que os responsáveis não poderão pagar fiança para obter liberdade e também ficarão sujeitos a regras mais rigorosas de cumprimento da…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/camara-aprova-projeto-que-torna-maus-tratos-com-morte-de-animais-crime-hediondo-e-inafiancavel/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:30",
+"t": "Prefeitura de Sorocaba abre inscrições para projeto de games “O Sonho Além do Jogo”",
+"p": "Estudantes da rede pública, de 12 a 18 anos, interessados no mundo dos games, poderão participar do projeto “O Sonho Além do Jogo” com workshop e oficina, nos dias 16,17 e 18 de novembro, das 8h às 11h e das 14h às 17h, no auditório do Centro de Referência em Educação (CRE), com a presença […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-abre-inscricoes-para-projeto-de-games-o-sonho-alem-do-jogo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:02",
+"t": "Mega-Sena sorteia prêmio de R$ 20 milhões nesta quinta-feira",
+"p": "A Mega-Sena sorteia nesta quinta-feira (12) prêmio estimado em R$ 20 milhões . As seis dezenas do concurso 3.085 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) de hoje em casas lotéricas credenciadas pela Caixa em…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-20-milhoes-nesta-quinta-feira",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "06:50",
+"t": "Trem iluminado de Natal da Rumo passará por Rio Preto e cidades da região em dezembro",
+"p": "Locomotiva decorada com luzes natalinas percorrerá municípios do interior paulista entre os dias 2 e 6 de dezembro. Em Rio Preto, programação terá apresentação da Orquestra de Viola Caipira.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/trem-iluminado-de-natal-da-rumo-passara-por-rio-preto-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "06:44",
+"t": "Chuva ganha força em SP a partir desta quinta-feira; veja como fica o tempo em Ribeirão Preto",
+"p": "Climatempo prevê retorno da chuva nesta quinta-feira (12) e aumento das pancadas na sexta (13) em Ribeirão Preto",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-ganha-forca-em-sp-a-partir-desta-quinta-feira-veja-como-fica-o-tempo-em-ribeirao-preto/",
+"auto": true
+},
 {
 "d": "2026-11-12",
 "h": "06:02",
