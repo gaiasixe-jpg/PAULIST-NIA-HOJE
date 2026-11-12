@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T22:21:11-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-11T23:57:45-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,111 @@
 "itens": [
 {
 "d": "2026-11-11",
+"h": "23:33",
+"t": "Pedras de 5 mil anos na Holanda são mais antigas que as pirâmides: como foram colocadas ainda intriga, aborde as hipóteses sobre o transporte",
+"p": "Uma laje de cerca de 20 toneladas ainda cobre a câmara do monumento D27, em Borger, e o peso exposto ao visitante resume a pergunta que a arqueologia não encerrou: como grupos neolíticos, sem metal de tração nem roda de carga pesada, deslocaram e ergueram pedras erráticas de milhares de quilos até formar tetos…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/pedras-de-5-mil-anos-na-holanda-sao-mais-antigas-que-as-piramides-como-foram-colocadas-ainda-intriga-aborde-as-hipoteses-sobre-o-transporte/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "23:31",
+"t": "Computador de mais de R$11 mil usava a televisão de casa como monitor, ganhou disquetes e ajudou a transformar a informática durante 16 anos",
+"p": "Em abril de 1977, uma máquina capaz de transformar a televisão doméstica em tela de computador apareceu diante do público em São Francisco, nos Estados Unidos. Era o Apple II, um equipamento que combinava teclado, gabinete próprio, gráficos coloridos e a possibilidade de executar programas sem depender dos grandes…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Francisco"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/computador-de-mais-de-r11-mil-usava-a-televisao-de-casa-como-monitor-ganhou-disquetes-e-ajudou-a-transformar-a-informatica-durante-16-anos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "23:26",
+"t": "São Vicente conquista prêmio estadual por ações de prevenção contra a transmissão vertical do HIV entre mães e bebês",
+"p": "O cuidado materno-infantil começa antes mesmo do nascimento e garantiu um importante reconhecimento estadual para São Vicente. Nesta terça-feira, 10 de novembro, o município conquistou o Prêmio Luiza Matida. O Programa Estadual de IST/Aids de São Paulo, vinculado à Secretaria de Estado da Saúde, entregou a…",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"São Vicente",
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/sao-vicente/sao-vicente-conquista-premio-estadual-por-acoes-de-prevencao-contra-a-transmissao/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "23:15",
+"t": "MP denuncia mãe e padrasto por morte de bebê em Araçatuba",
+"p": "Promotoria aponta quatro episódios de violência contra menino de dois anos e pede que acusados, já presos, sejam levados a júri popular.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mae-e-padrasto-sao-denunciados-por-tortura-e-morte-de-bebe-apos-serie-de-agressoes-e-versoes-incompativeis-com-queda-da-cama/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "23:13",
+"t": "MP arquiva apuração sobre estacionamento em Rio Preto",
+"p": "Promotoria concluiu que não houve prejuízo aos cofres públicos no uso da Cidade das Crianças durante apresentação do Guns N' Roses.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ministerio-publico-arquiva-inquerito-que-investigava-uso-de-cidade-das-criancas-como-estacionamento-em-show-do-guns-n-roses-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "23:00",
+"t": "A Estrada da Morte com 3 metros de largura e abismos de 610 metros que tirou 300 vidas por ano vira rota de turismo radical e refúgio de animais",
+"p": "A rodovia de Yungas Norte, na Bolívia, ganhou o apelido de “Estrada da Morte” por causa de suas curvas fechadas, precipícios e histórico de acidentes. Ao longo de 69 quilômetros, motoristas enfrentam condições que tornam o trajeto um verdadeiro desafio, enquanto ciclistas transformaram parte do caminho em uma das…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/a-estrada-da-morte-com-3-metros-de-largura-e-abismos-de-610-metros-que-tirou-300-vidas-por-ano-agora-virou-rota-radical-e-refugio-de-animais/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "22:45",
+"t": "Quer comprar bicicleta elétrica na Black Friday? Conheça 5 modelos a partir de R$ 6,1 mil e escolha a melhor opção",
+"p": "A temporada de promoções da Black Friday 2026 traz excelentes oportunidades para quem deseja comprar uma bicicleta elétrica. Antes de fechar o pedido, vale comparar os modelos disponíveis no mercado. Cada veículo atende a necessidades específicas, como deslocamentos diários, passeios ou transporte de passageiros. O…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/quer-comprar-bicicleta-eletrica-na-black-friday-conheca-5-modelos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "22:40",
+"t": "Mr. T cresceu com 11 irmãos em um apartamento de apenas 3 cômodos e trabalhou como segurança antes de se tornar astro de Rocky III e Esquadrão Classe A",
+"p": "Antes de se tornar um dos rostos mais reconhecíveis da televisão dos anos 1980, Mr. T trabalhava como segurança de uma boate e recolhia joias que clientes perdiam ou deixavam no estabelecimento. As correntes de ouro que mais tarde se tornariam sua marca registrada começaram a fazer parte de sua aparência muito…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/mr-t-cresceu-com-11-irmaos-em-um-apartamento-de-apenas-3-comodos-e-trabalhou-como-seguranca-antes-de-se-tornar-astro-de-rocky-iii-e-esquadrao-classe-a/",
+"auto": true
+},
+{
+"d": "2026-11-11",
 "h": "22:14",
 "t": "MP arquiva inquérito sobre estacionamento em Rio Preto",
 "p": "Promotoria concluiu que arrecadação no parque Cidade das Crianças durante apresentação do Guns N’ Roses foi devolvida ao município",
@@ -78,6 +183,19 @@
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/homem-suspeito-de-esfaquear-a-ex-mulher-23-vezes-se-entrega-a-policia/",
 "auto": true
+},
+{
+"d": "2026-11-11",
+"h": "22:00",
+"t": "Gasolina e etanol seguem sem imposto federal até 9 de dezembro com alívio de R$ 2,7 bilhões, informa Governo",
+"p": "Quem vai ao posto de combustível abastecer o carro continuará sem pagar tributos federais na gasolina e no etanol por mais 30 dias. O governo federal publicou uma edição do decreto nº 13.159 no Diário Oficial da União que estende a desoneração das alíquotas de PIS/Pasep, Cofins e Cide até o dia 9 de dezembro […]",
+"tema": "Decretos",
+"s": "decreto",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/desoneracao-gasolina-etanol-dezembro-2026/",
+"auto": true,
+"org": "Prefeitura"
 },
 {
 "d": "2026-11-11",
