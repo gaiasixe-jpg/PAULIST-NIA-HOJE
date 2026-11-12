@@ -3,6 +3,187 @@
 "itens": [
 {
 "d": "2026-11-12",
+"h": "19:48",
+"t": "Polícia Militar captura procurado pela Justiça em Votuporanga",
+"p": "Indivíduo foi localizado durante patrulhamento preventivo da Polícia na zona norte da cidade e encaminhado à Central de Flagrantes. Um homem procurado pela Justiça foi preso na noite desta quarta-feira (11.nov), no bairro Santa Amélia, em Votuporanga/SP. A prisão ocorreu durante uma ação de patrulhamento preventivo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/policia-militar-captura-procurado-pela-justica-em-votuporanga-27/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:47",
+"t": "Santa Casa de Votuporanga reúne região para fortalecer cuidado após a alta",
+"p": "Encontro Anual de Alta Responsável aproximou Santa Casa, DRS e municípios para discutir a continuidade da assistência aos pacientes depois da saída do Hospital. A Santa Casa de Votuporanga realizou, nesta quarta-feira (11.nov), o Encontro Anual de Alta Responsável, no Cinema Cultural do Parque da Cultura. Com o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/santa-casa-de-votuporanga-reune-regiao-para-fortalecer-cuidado-apos-a-alta/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:45",
+"t": "Falha global no Microsoft 365 e Outlook afeta milhares de usuários e causa instabilidade no Brasil e outros países das Américas",
+"p": "O ecossistema do Microsoft 365 e o serviço de e-mail Outlook enfrentaram uma pane generalizada nesta quinta-feira (12/11), afetando milhares de usuários em várias regiões, com forte impacto nas Américas. De acordo com alertas emitidos pela própria empresa e plataformas de monitoramento como o Downdetector, o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/falha-global-no-microsoft-365-e-outlook-afeta-milhares-de-usuarios-e-causa-instabilidade-no-brasil-e-outros-paises-das-americas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:44",
+"t": "Prefeitura e entidades participam de formação promovida pelo TCE-SP em Votuporanga",
+"p": "Encontro reuniu representantes do poder público e de organizações sociais para capacitação sobre gestão, aplicação e fiscalização de recursos públicos destinados ao terceiro setor. Representantes da Prefeitura de Votuporanga e de entidades sociais participaram, nesta quinta-feira (12.nov), da formação QualificAÇÃO,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeitura-e-entidades-participam-de-formacao-promovida-pelo-tce-sp-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:41",
+"t": "Operação apreende 1,4 mil airbags irregulares em loja de peças usadas em Araçatuba",
+"p": "Ação da Polícia Civil e do Detran-SP é considerada a maior apreensão do tipo já registrada no Estado; estabelecimento foi interditado e ninguém foi preso. A Polícia Civil e o Departamento Estadual de Trânsito de São Paulo (Detran-SP) apreenderam 1.400 airbags irregulares durante uma operação realizada nesta…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"São Paulo"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/operacao-apreende-14-mil-airbags-irregulares-em-loja-de-pecas-usadas-em-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:35",
+"t": "Saúde reforça prevenção e diagnóstico da leishmaniose em Votuporanga",
+"p": "Município confirmou 152 casos em cães e dois em humanos neste ano; população pode colaborar recebendo os agentes e autorizando a coleta gratuita de sangue dos animais. A Prefeitura de Votuporanga, por meio da Secretaria Municipal da Saúde, intensifica as orientações e ações de prevenção à leishmaniose, doença…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/saude-reforca-prevencao-e-diagnostico-da-leishmaniose-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:28",
+"t": "Prefeito de Jales será homenageado com a Medalha Mérito Legislativo da Câmara dos Deputados",
+"p": "A solenidade de entrega da honraria a Luis Henrique dos Santos Moreira será realizada no dia 2 de dezembro, às 10h, no Plenário Ulysses Guimarães, em Brasília/DF. O prefeito de Jales, Luis Henrique dos Santos Moreira, será um dos agraciados com a Medalha Mérito Legislativo, uma das mais importantes honrarias…",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Jales"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeito-de-jales-sera-homenageado-com-a-medalha-merito-legislativo-da-camara-dos-deputados/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:17",
+"t": "Muro de cemitério desaba após fortes chuvas em Mogi das Cruzes",
+"p": "Além do desabamento da estrutura, a cidade de Mogi das Cruzes também registrou alagamentos e quedas de árvores",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/muro-de-cemiterio-desaba-apos-fortes-chuvas-em-mogi-das-cruzes",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:14",
+"t": "Vaquejada é validada após quase 10 anos de disputa judicial, mas terá de cumprir exigências de proteção animal; STF havia derrubado lei em 2016",
+"p": "Prática de vaquejada: derrubada do boi na faixa, em 2025. Entre a decisão do STF em 2016 e o julgamento da ADI 5772 em 2026, a vaquejada passou por leis, emenda constitucional e novas condições de bem-estar animal.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/vaquejada-e-validada-apos-quase-10-anos-de-disputa-judicial-mas-tera-de-cumprir-exigencias-de-protecao-animal-stf-havia-derrubado-lei-em-2016/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:05",
+"t": "Operação “Distintivo Fantasma”: Polícia Civil de Fernandópolis desarticula esquema do “falso delegado” que causou prejuízo de R$ 200 mil a idosa",
+"p": "A Polícia Civil de Fernandópolis, por meio da Delegacia de Investigações Gerais (DIG), deflagrou nesta quinta-feira (12) a operação “Distintivo Fantasma” nas cidades de São Paulo e Vinhedo, cumprindo seis mandados de busca domiciliar contra investigados por estelionato. A investigação apurou que o grupo utilizou…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis",
+"São Paulo",
+"Vinhedo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-distintivo-fantasma-policia-civil-de-fernandopolis-desarticula-esquema-do-falso-delegado-que-causou-prejuizo-de-r-200-mil-a-idosa/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:04",
+"t": "Feira cultural celebra 5 anos em Bertioga com gastronomia, artesanato e atrações gratuitas",
+"p": "Edição especial da Feira Artes & Aromas da Mata Atlântica ocorre no sábado (14), a partir das 14h, no Centro de Educação Ambiental (CEA)",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/feira-cultural-celebra-5-anos-em-bertioga-com-gastronomia-artesanato-e-atracoes-gratuitas.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:00",
+"t": "Evento de corrida de rua promete agitar o fim de semana em SP com shows de grandes nomes do sertanejo e funk; confira programação",
+"p": "Quem gosta de correr e também não dispensa uma boa festa terá uma oportunidade de juntar as duas coisas neste domingo (15). Isso porque São Paulo recebe a primeira edição da Corrida do After, evento que promete movimentar o Campo de Marte com esporte, música e muita diversão. A programação começa às 7h e segue […]",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/evento-de-corrida-de-rua-promete-agitar-o-fim-de-semana-em-sp-com-shows-de-grandes-nomes-do-sertanejo-e-funk-confira-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:55",
+"t": "Polícia Civil apreende 1.400 airbags de recall e interdita loja de peças usadas",
+"p": "A Polícia Civil apreendeu 1.400 bolsas de airbag provenientes de campanhas de recall e interditou um estabelecimento comercial especializado em peças usadas de veículos nesta quinta-feira (12), em Araçatuba, no interior de São Paulo. A operação policial teve como objetivo combater a comercialização irregular de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-apreende-1-400-airbags-de-recall-e-interdita-loja-de-pecas-usadas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
 "h": "18:50",
 "t": "Previsão do tempo: sexta-feira (13) traz trégua nas instabilidades e calor em boa parte do Estado",
 "p": "O estado de São Paulo terá uma sexta-feira (13) marcada pela diminuição gradativa das áreas de instabilidade, abrindo espaço para um tempo mais firme em várias regiões. De acordo com informações da Agência SP, a ocorrência de chuvas passará a ser mais isolada e restrita às faixas leste, central e nordeste do…",
@@ -53,6 +234,34 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/5o-festival-de-danca-com-alunos-da-rede-municipal-de-ensino-foi-destaque-com-apresentacao-no-teatro-municipal-teotonio-vilela/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:46",
+"t": "Mogi das Cruzes registra 61mm de chuva em 3h e tem alagamentos, queda de árvores e desabamento de muro",
+"p": "Córrego rio Negro transbordou com o volume de água; prefeitura deslocou equipes de trânsito, da GCM e da Secretaria de Serviços Urbanos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-registra-61mm-de-chuva-em-3h-e-tem-alagamentos-queda-de-arvores-e-desabamento-de-muro/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:44",
+"t": "Santo André registra oito pontos de alagamento após chuva forte",
+"p": "Ocorrências foram identificadas em vias de grande circulação, incluindo a Avenida dos Estados; bairros tiveram acumulados superiores a 50 milímetros em seis horas",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368492/santo-andre-registra-oito-pontos-de-alagamento-apos-chuva-forte",
 "auto": true
 },
 {
@@ -121,6 +330,20 @@
 },
 {
 "d": "2026-11-12",
+"h": "18:24",
+"t": "Mauá registra 63,24 mm de chuva em 1h30, mais que o dobro do previsto",
+"p": "Temporal provocou pontos de alagamento e transtornos na estação da CPTM; sirenes foram acionadas preventivamente e não houve registro de vítimas",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368485/maua-registra-63-24-mm-de-chuva-em-1h30-mais-que-o-dobro-do-previsto",
+"auto": true
+},
+{
+"d": "2026-11-12",
 "h": "18:15",
 "t": "Vereadora de Minas Gerais é condenada a pagar R$ 200 mil por incentivar demissão de ‘esquerdistas’",
 "p": "A Justiça do Trabalho condenou a parlamentar Roberta Lopes Alves (PL), vereadora de Juiz de Fora (MG) e deputada estadual eleita, ao pagamento de R$ 200 mil por dano moral coletivo e assédio eleitoral. A sanção decorre de postagens em redes sociais nas quais a política incitava o empresariado a não contratar e a…",
@@ -143,6 +366,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/viver-bem/coracao-musculos-e-pressao-arterial-entenda-o-papel-do-potassio-no-organismo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "18:01",
+"t": "São Bernardo recebe consultório móvel para exames e atendimento nas ruas",
+"p": "Veículo doado pelo Ministério da Saúde permitirá coleta de Papanicolau, testes rápidos e curativos; serviço realiza cerca de 400 atendimentos mensais",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368481/sao-bernardo-recebe-consultorio-movel-para-exames-e-atendimento-nas-ruas",
 "auto": true
 },
 {
