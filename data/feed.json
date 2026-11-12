@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-12T19:54:26-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-12T20:52:05-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,8 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -47,9 +46,151 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | The read operation timed out | curl: curl: (28) Operation timed out after 60002 milliseconds with 0 bytes received\n"
 }
 ],
 "itens": [
+{
+"d": "2026-11-12",
+"h": "20:39",
+"t": "Prefeitura no interior de SP abre processo seletivo com salários de até R$ 5,2 mil",
+"p": "Inscrições para processo seletivo da Prefeitura de Dumont estão abertas até o dia 19 de novembro",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Dumont"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/prefeitura-no-interior-de-sp-abre-processo-seletivo-com-salarios-de-ate-r-52-mil/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:09",
+"t": "VÍDEO: Tubulação de esgoto rompe em passagem subterrânea da Avenida Fernando Rossi, em Poá",
+"p": "A Prefeitura informou que o trecho precisou ser interditado nos dois sentidos",
+"tema": "Saneamento",
+"s": "alerta",
+"c": [
+"Poá"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/video-tubulacao-de-esgoto-rompe-em-passagem-subterranea-da-avenida-fernando-rossi-em-poa/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:06",
+"t": "Truque criado por brasileiro transforma uma simples garrafa PET com água em lâmpada natural para iluminar cômodos escuros sem gastar energia; aprenda",
+"p": "Uma simples garrafa plástica cheia de água funciona como fonte de luz natural para ambientes internos com poucas janelas. A solução aproveita a claridade do dia para iluminar cômodos fechados sem consumir nada de energia elétrica. Conhecida como lâmpada de Moser, a técnica usa o fenômeno da refração para espalhar…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/brasileiro-transforma-uma-simples-garrafa-pet-com-agua-em-lampada-natural/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:00",
+"t": "Cocaína avaliada em R$ 27 milhões é encontrada em carga de carne no interior de SP",
+"p": "A Polícia Militar Rodoviária apreendeu 540 quilos de cocaína escondidos em uma carga de carne bovina na noite de terça-feira (10/11), em Itirapina, no interior de São Paulo. A droga estava em um caminhão que trafegava pela rodovia Washington Luís e tinha como destino o Porto de Paranaguá, no Paraná, de onde seria…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itirapina"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/policia/cocaina-avaliada-em-r-27-milhoes-e-encontrada-em-carga-de-carne-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:00",
+"t": "Região concentra 81,5% das autuações por pesca irregular nos primeiros dias da Piracema",
+"p": "A Polícia Ambiental registrou 159 autos de infração no noroeste paulista; fiscalização apreendeu 257 quilos de pescado e 52 equipamentos irregulares desde o início do período de restrição. A região de São José do Rio Preto concentrou 81,5% das autuações por pesca irregular registradas em todo o Estado de São Paulo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/regiao-concentra-815-das-autuacoes-por-pesca-irregular-nos-primeiros-dias-da-piracema/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:00",
+"t": "Motociclista morre após colisão frontal com caminhão na rodovia em Peruíbe",
+"p": "Fonte: Portal CCM – ARTESP (ccm.artesp.sp.gov.br) Acidente ocorreu na manhã desta quinta-feira (12), na altura do km 350.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Peruíbe"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/motociclista-morre-apos-colisao-frontal-com-caminhao-na-rodovia-em-peruibe/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:00",
+"t": "Justiça determina que valor do triplex em Guarujá deve ir para OAS",
+"p": "Reprodução O imóvel havia sido atribuído ao presidente Luiz Inácio Lula da Silva (PT) durante a Operação Lava Jato.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/justica-determina-que-valor-do-triplex-em-guaruja-deve-ir-para-oas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:00",
+"t": "Porto de Santos retoma site em meio a outros ataques envolvendo Petrobras e Caixa",
+"p": "Divulgação Outras duas empresas também comunicaram incidentes digitais nesta semana, sem indicação de relação entre os casos.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/porto-e-negocios/porto-de-santos-retoma-site-em-meio-a-outros-ataques-envolvendo-petrobras-e-caixa/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:00",
+"t": "Artistas reagem no Rio à medalha para deputada eleita por São Paulo",
+"p": "Divulgação A escolha da vereadora de Praia Grande Eduarda Campopiano (PL) para receber a Medalha Chiquinha Gonzaga provocou reações de artistas.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/artistas-reagem-no-rio-a-medalha-para-deputada-eleita-por-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:56",
+"t": "Daniel David é alvo de pedido de cassação após declarações sobre aborto",
+"p": "Representação foi protocolada pelo advogado e 1º suplente de vereador, Carlos Alberto Silvério, que aponta possível infração político-administrativa e quebra de decoro parlamentar; Daniel David (MDB) divulgou nota de esclarecimento e nega intenção de desrespeitar a instituição de ensino. Jorge Honorio…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/daniel-david-e-alvo-de-pedido-de-cassacao-apos-declaracoes-sobre-aborto/",
+"auto": true
+},
 {
 "d": "2026-11-12",
 "h": "19:48",
@@ -215,6 +356,32 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/evento-de-corrida-de-rua-promete-agitar-o-fim-de-semana-em-sp-com-shows-de-grandes-nomes-do-sertanejo-e-funk-confira-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:00",
+"t": "Eletra indica que COP31 pode gerar oportunidade de reposicionamento econômico da região",
+"p": "Presença de empresa de São Bernardo na conferência reforça chances de reindustrialização, qualificação profissional e novos modelos de financiamento do transporte coletivo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368500/eletra-indica-que-cop31-pode-gerar-oportunidade-de-reposicionamento-economico-da-regiao-",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "19:00",
+"t": "MP-SP pede investigação de contratos de R$21 mi da Virada Esportiva após denúncia",
+"p": "",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368502/mp-sp-pede-investigacao-de-contratos-de-rs21-mi-da-virada-esportiva-apos-denuncia",
 "auto": true
 },
 {
