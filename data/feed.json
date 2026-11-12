@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-11T20:54:18-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-11T22:21:11-03:00",
+"novos_nesta_coleta": 17,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,242 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | HTTP Error 520: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-11",
+"h": "22:14",
+"t": "MP arquiva inquérito sobre estacionamento em Rio Preto",
+"p": "Promotoria concluiu que arrecadação no parque Cidade das Crianças durante apresentação do Guns N’ Roses foi devolvida ao município",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mp-arquiva-investigacao-sobre-estacionamento-irregular-durante-show-do-guns-n-roses-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "22:13",
+"t": "Suspeito de esfaquear ex em Valparaíso se entrega à polícia",
+"p": "Edersom Bravo dos Santos compareceu à delegacia de Araçatuba acompanhado por advogado; vítima foi atingida por 23 golpes de faca",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Valparaíso",
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-suspeito-de-esfaquear-a-ex-mulher-23-vezes-se-entrega-a-policia/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:34",
+"t": "MP arquiva inquérito sobre estacionamento pago em Rio Preto",
+"p": "Órgão apontou falhas no processo, mas descartou dolo ou desvio após devolução de R$ 11,2 mil arrecadados em show do Guns N’Roses.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mp-arquiva-investigacao-sobre-estacionamento-pago-na-cidade-da-crianca/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:34",
+"t": "Defensoria questiona Rio Preto por acolhimento em Guarulhos",
+"p": "Órgão aponta falta de fiscalização e dificuldade de contato com pacientes transferidos; Justiça já determinou retornos ao município.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Guarulhos",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defensoria-de-rio-preto-questiona-contratacao-de-clinica-em-guarulhos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:16",
+"t": "Google Fotos muda regra de exclusão e corta pela metade prazo para recuperar arquivos; descubra como proteger suas lembranças",
+"p": "O Google Fotos vai encurtar o tempo de tolerância para recuperar arquivos apagados da nuvem. A partir do dia 5 de dezembro, o serviço manterá os conteúdos excluídos na lixeira por apenas 30 dias. Anteriormente, os usuários dispunham de até 60 dias para resgatar mídias enviadas para o descarte. Essa redução pela…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/tecnologia/google-fotos-muda-regra-de-exclusao-e-corta-pela-metade-prazo-para-recuperar-arquivos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:15",
+"t": "Corredor Bioceânico ligará Oceano Atlântico ao Pacífico, pode reduzir em 12 dias o envio de cargas à Ásia e criar nova rota de exportação pelo porto de Santos",
+"p": "Uma nova rota internacional promete mudar a logística das exportações brasileiras e aproximar o agronegócio nacional dos mercados asiáticos. O Corredor Bioceânico Rodoviário de Capricórnio poderá reduzir em até 12 dias o transporte de mercadorias para a Ásia, além de diminuir os custos de envio. O projeto prevê uma…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/corredor-bioceanico/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:11",
+"t": "Câmara aprova projeto que torna maus-tratos a animais crime hediondo",
+"p": "Proposta segue agora para apreciação no Senado. Caso seja novamente aprovada, vai à sanção do presidente Luiz Inácio Lula da Silva (PT)",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/camara-aprova-projeto-que-torna-maus-tratos-a-animais-crime-hediondo",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:11",
+"t": "Polícia apreende quase 130 kg de maconha em Ribeirão Preto",
+"p": "Entorpecente estava armazenado em imóvel no Parque Industrial Tanquinho; suspeito fugiu pelos telhados e é procurado",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-de-sp-apreende-quase-130-kg-de-maconha-em-imovel-usado-como-deposito-de-drogas-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:07",
+"t": "Loterias Caixa: Quina e Lotofácil podem pagar, juntas, mais de R$ 10,7 milhões nesta quarta-feira; veja todos os números sorteados",
+"p": "A Caixa Econômica Federal sorteou nesta quarta-feira (11/11) as dezenas do concurso 7165 da Quina, que poderá pagar R$ 8,7 milhões, e também o concurso 3827da Lotofácil, que tem um prêmio acumulado de R$ 2 milhões. Confira os números sorteados Quina: 47-57-58-74-77. Lotofácil: Como apostar na Lotofácil A Lotofácil…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/loterias-caixa-quina-e-lotofacil-podem-pagar-juntas-mais-de-r-107-milhoes-nesta-quarta-feira-veja-todos-os-numeros-sorteados/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:01",
+"t": "Caminhão da cavalaria da PM do Amazonas bate em carro e invade casa",
+"p": "Acidente aconteceu na noite desta quarta-feira (11), nas proximidades do Fórum da cidade; motorista foi levado ao Hospital Municipal com ferimentos leves",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/caminhao-da-cavalaria-da-pm-do-amazonas-bate-em-carro-e-invade-casa/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:00",
+"t": "Variante da Covid-19 avança em 18 estados do Brasil e tem rouquidão entre os principais sintomas",
+"p": "A circulação da variante XFG do coronavírus, também conhecida como Stratus, voltou a preocupar as autoridades de saúde. A versão representa cerca de 90% das amostras do vírus analisadas pela vigilância genômica no Brasil em 2026. Descendente da Ômicron, a linhagem predomina entre as identificadas no País e está…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/variante-da-covid-19-avanca-em-18-estados-do-brasil-e-tem-rouquidao-entre-os-principais-sintomas/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:00",
+"t": "Moto clonada é apreendida em SV após multas chegarem à dona em Ribeirão Preto",
+"p": "Divulgação/Polícia Militar Uma motocicleta Honda Biz 125 clonada, com registro de furto desde outubro, foi recuperada pela PM nesta segunda-feira (9), em São Vicente.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/moto-clonada-e-apreendida-em-sv-apos-multas-chegarem-a-dona-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:00",
+"t": "Sabesp substitui trecho de adutora para reforçar abastecimento de Itanhaém e Peruíbe",
+"p": "Arquivo/Prefeitura de Itanhaém A Sabesp realizará a substituição de um trecho antigo da adutora de água tratada que passa sobre o Rio do Poço, em Itanhaém.",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Itanhaém",
+"Peruíbe"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/sabesp-substitui-trecho-de-adutora-para-reforcar-abastecimento-de-itanhaem-e-peruibe/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:00",
+"t": "Homem suspeito de esfaquear a ex-mulher 23 vezes se entrega à polícia",
+"p": "Edersom Bravo dos Santos, suspeito de atacar a ex-companheira com 23 golpes de faca no fim de outubro, apresentou-se à polícia na delegacia de Araçatuba, no interior de São Paulo, acompanhado de um advogado. O crime aconteceu no dia 25 de outubro, na cidade vizinha de Valparaíso, e é investigado como tentativa de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Valparaíso",
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-suspeito-de-esfaquear-a-ex-mulher-23-vezes-se-entrega-a-policia/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "21:00",
+"t": "MP arquiva investigação sobre estacionamento irregular durante show do Guns N’ Roses em Rio Preto",
+"p": "O Ministério Público decidiu arquivar nesta quarta-feira (10) o inquérito civil que investigava o uso do parque Cidade das Crianças como estacionamento pago durante o show da banda Guns N’ Roses, realizado em 7 de abril, em São José do Rio Preto (SP). O promotor de Justiça Carlos Romani concluiu que a exploração do…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mp-arquiva-investigacao-sobre-estacionamento-irregular-durante-show-do-guns-n-roses-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "20:58",
+"t": "Você provavelmente usa pelo menos 3 destas 6 invenções medievais todos os dias, mas dificilmente imagina que elas existem há mais de 500 anos",
+"p": "O copista monástico lidava com letras miúdas durante horas seguidas, e a solução que surgiu por volta de 1300 na Itália ainda equilibra o rosto de quem lê no ônibus, no consultório ou na sala de aula. Nós lemos livros, olhamos o relógio e confiamos na navegação. A base de muitos desses utensílios cotidianos foi […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/cultura/voce-provavelmente-usa-pelo-menos-3-destas-6-invencoes-medievais-todos-os-dias-mas-dificilmente-imagina-que-elas-existem-ha-mais-de-500-anos/",
+"auto": true
+},
+{
+"d": "2026-11-11",
+"h": "20:19",
+"t": "Petrobras amplia capacidade de 11 plataformas sem novos investimentos",
+"p": "A presidente da Petrobras, Magda Chambriard, destacou a eficiência operacional da companhia ao ampliar a capacidade de produção de 11 plataformas em 282 mil barris de óleo por dia. Segundo ela, os dados reforçam o resultado positivo do terceiro trimestre de 2026, período em que a estatal lucrou quase R$ 40 bilhões.…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Magda"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-amplia-capacidade-de-11-plataformas-sem-novos-investimentos",
+"auto": true
+},
 {
 "d": "2026-11-11",
 "h": "20:11",
