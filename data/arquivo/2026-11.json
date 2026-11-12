@@ -3,6 +3,212 @@
 "itens": [
 {
 "d": "2026-11-12",
+"h": "09:05",
+"t": "Homem é esfaqueado durante discussão e é internado no Hospital de Base em Rio Preto",
+"p": "Vítima sofreu uma perfuração profunda na lateral do abdômen após fugir de uma residência onde teria sido ameaçada e agredida. O caso foi registrado na noite desta quarta-feira (11), no Jardim das Oliveiras",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-esfaqueado-durante-discussao-e-e-internado-no-hospital-de-base-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:02",
+"t": "Câmara dos Deputados aprova projeto que torna maus-tratos a animais crime hediondo",
+"p": "Proposta prevê pena de dois a cinco anos de prisão, multa e proibição da guarda de animais",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/camara-dos-deputados-aprova-projeto-que-torna-maus-tratos-a-animais-crime-hediondo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:00",
+"t": "Marília movimenta R$ 54 milhões com atividades turísticas em 2026",
+"p": "Leilão de oito terrenos em Marília prevê arrecadação mínima de R$ 7,09 milhões (Alexandre de Souza/Prefeitura de Marília) Município integra a categoria de Município Turístico em 2026, com destaque para negócios, eventos, patrimônio cultural e atrativos como o Museu de Paleontologia e a Rota das Capelas.",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-movimenta-r-54-milhoes-com-atividades-turisticas-em-2026/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:00",
+"t": "Barão Geraldo terá festa flashback no fim de semana",
+"p": "Programação será realizada no sábado (14) e domingo (15), na Praça Durval Páttaro, das 12h às 20h30",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/barao-geraldo-tera-festa-flashback-no-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:51",
+"t": "Ex-reitor do ITA será o novo secretário de Ciência, Tecnologia e Inovação de SP",
+"p": "Reprodução/Divulgação/Governo de SP O governador de São Paulo, Tarcísio de Freitas (Republicanos), anunciou nesta quarta-feira (11) o nome de Anderson Ribeiro Correia",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/ex-reitor-do-ita-sera-o-novo-secretario-de-ciencia-tecnologia-e-inovacao-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:49",
+"t": "Procurada por tráfico é presa em Ilhabela após publicar sobre viagem de lua de mel nas redes sociais",
+"p": "Registros publicados nas redes sociais revelaram que a jovem estava no arquipélago com o marido; prisão é desdobramento de operação da PF em Santos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ilhabela",
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/procurada-por-trafico-e-presa-em-ilhabela-apos-publicar-sobre-viagem-de-lua-de-mel-nas-redes-sociais.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:45",
+"t": "Como se candidatar para trabalhar na megafábrica de celulose de R$ 23 bilhões que deve gerar 6 mil empregos no interior do Brasil",
+"p": "A construção de uma das maiores fábricas de celulose do mundo começa a movimentar o mercado de trabalho em Mato Grosso do Sul. Com investimento de aproximadamente R$ 23 bilhões, o Projeto Sucuriú, da multinacional chilena Arauco, prevê cerca de 6 mil empregos permanentes quando a unidade entrar em operação.…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/como-se-candidatar-para-trabalhar-na-megafabrica-de-celulose-de-r-23-bilhoes-que-deve-gerar-6-mil-empregos-no-interior-do-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:39",
+"t": "Prepare o guarda-chuva! Quinta-feira (12) será de chuva forte e risco de tempestades em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Inmet alerta para risco de temporais, ventos fortes e granizo; fim de semana terá temperaturas de até 29°C.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-chuva-tempestades/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:38",
+"t": "Mogi das Cruzes prorroga obra de pavimentação do Ecoponto do Jardim Armênia após chuvas",
+"p": "Obras foram iniciadas no dia 4 e previsão inicial era de conclusão nesta quinta-feira (12); novo prazo prevê reabertura do ecoponto no dia 23",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/mogi-das-cruzes-prorroga-obra-de-pavimentacao-do-ecoponto-do-jardim-armenia-apos-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:35",
+"t": "Empresa perde R$ 620 mil em golpe aplicado por falsos representantes da Justiça",
+"p": "Este é o segundo caso registrado nesta semana. Golpistas entram em contato com as vítimas informando detalhes da ação",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/empresa-perde-r-620-mil-em-golpe-aplicado-por-falsos-representantes-da-justica-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:32",
+"t": "CPTM muda embarque em Mauá e Santo André por obras de oito meses",
+"p": "Obras começam nesta quinta-feira (12) e alteram embarque e desembarque de passageiros no sentido Palmeiras-Barra Funda",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Santo André",
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368312/cptm-muda-embarque-em-maua-e-santo-andre-por-obras-de-oito-meses",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:28",
+"t": "38º Festival da Viola começa nesta quinta em Campos do Jordão",
+"p": "Primeira eliminatória será às 19h no Espaço Cultural Dr. Além; programação segue até sábado, com final no Auditório Claudio Santoro e show de Bruna Viola.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/festival-viola-campos-jordao-comeca-12-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:28",
+"t": "Obra da Sanasa altera trânsito em avenida do Centro",
+"p": "Obra começa às 8h30 e deve seguir até as 17h, exigindo mudanças no trajeto dos motoristas que passam pelo Centro de Campinas",
+"tema": "Transporte",
+"s": "obra",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/obra-da-sanasa-altera-transito-em-avenida-do-centro/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:21",
+"t": "Cidade das flores nasceu de uma fazenda de 5 mil hectares comprada por holandeses para criar vacas, mas doenças no rebanho mudaram o rumo de Holambra",
+"p": "Foto: Prefeitura de Holambra Holambra nasceu em 1948 como colônia de imigrantes holandeses voltada à pecuária leiteira. As flores só chegaram em 1951, após dificuldades com o rebanho.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Holambra"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/cidade-das-flores-nasceu-de-uma-fazenda-de-5-mil-hectares-comprada-por-holandeses-para-criar-vacas-mas-doencas-no-rebanho-mudaram-o-rumo-de-holambra/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "08:15",
+"t": "Este vaso inteligente se expande conforme as raízes crescem e ainda possui um sistema que controla a água para simplificar os cuidados com as plantas em casa",
+"p": "Sistema desenvolvido pela empresa britânica POTR utiliza materiais reaproveitados e acessórios que permitem iniciar o cultivo desde a germinação das sementes",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/este-vaso-inteligente-se-expande-conforme-as-raizes-crescem-e-ainda-possui-um-sistema-que-controla-a-agua-para-simplificar-os-cuidados-com-as-plantas-em-casa/",
+"auto": true
+},
+{
+"d": "2026-11-12",
 "h": "08:08",
 "t": "Homem procurado pela Justiça da Bahia é preso com cédulas falsas e drogas em Ubatuba",
 "p": "Policiais cumpriram mandados no bairro Parque dos Ministérios e apreenderam drogas, dinheiro falso e materiais para embalar entorpecentes",
@@ -129,6 +335,18 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-previsao-de-chuva-nesta-quinta-feira-veja-horarios/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "07:56",
+"t": "Estrada vira queijo suíço, causa revolta e protesto de motoristas e ganha novo apelido após cartaz em placa de sinalização",
+"p": "O famoso ditado “a voz do povo é a voz de Deus” nunca foi tão real. Um protesto popular deu um novo apelido à SC-114, no trecho entre Pouso Redondo e Taió, no Alto Vale de Santa Catarina: Rodovia dos Buracos. A ideia surgiu depois que um cartaz foi instalado em uma placa de sinalização […]",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/estrada-vira-queijo-suico-causa-revolta-e-protesto-de-motoristas-e-ganha-novo-apelido-apos-cartaz-em-placa-de-sinalizacao/",
 "auto": true
 },
 {
