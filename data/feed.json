@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-12T09:06:18-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-12T10:21:51-03:00",
+"novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -53,6 +53,380 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-12",
+"h": "10:21",
+"t": "Cras Móvel estará na Vila Helena na próxima quarta-feira (18)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Cidadania (Secid), levará, na próxima quarta-feira (18), das 9h às 12h, os atendimentos do Cras Móvel à Vila Helena, na Zona Norte da cidade. A unidade itinerante estará estacionada em frente ao Supermercado Ypê, na Avenida Manoel de Camargo Sampaio, 770. O…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/cras-movel-estara-na-vila-helena-na-proxima-quarta-feira-18/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:16",
+"t": "Câmara de Fernandópolis elege nesta quinta-feira (12) nova Mesa Diretora para o biênio 2027/2028",
+"p": "A Câmara Municipal de Fernandópolis realiza, nesta quinta-feira (12), às 16h, uma sessão extraordinária para definir a composição da nova Mesa Diretora que comandará os trabalhos do Legislativo durante o biênio 2027/2028. A votação será aberta e nominal, conduzida pelo atual presidente da Casa, vereador Daniel…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/camara-de-fernandopolis-elege-nesta-quinta-feira-12-nova-mesa-diretora-para-o-bienio-2027-2028/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:05",
+"t": "Câmara aprova proposta que torna crime hediondo maus-tratos a cães e gatos que resultarem em morte",
+"p": "Foto: Bruno Spada/Câmara dos Deputados Câmara aprova projeto que torna hediondo o crime de maus-tratos a cães e gatos com resultado de morte. Proposta segue para análise do Senado.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/maus-tratos-caes-gatos-crime-hediondo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:03",
+"t": "Mulher engasga com pedaço de salsicha e é salva por policiais",
+"p": "Mulher ficou inconsciente e precisou passar por manobras de reanimação realizadas por policiais após engasgar com um pedaço de salsicha; ela já recebeu alta e está em casa",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/mulher-engasga-com-pedaco-de-salsicha-e-e-salva-por-policiais/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:03",
+"t": "Treinamento aprimora atendimento de crises epilépticas no pronto-socorro pediátrico da Santa Casa de Fernandópolis",
+"p": "Profissionais de saúde participaram, na última terça-feira (10), de uma capacitação voltada para o atendimento de crises epilépticas no pronto-socorro pediátrico. O treinamento teve como foco principal atualizar os protocolos médicos e aprimorar a qualidade da assistência prestada às crianças em situações de…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/treinamento-aprimora-atendimento-de-crises-epilepticas-no-pronto-socorro-pediatrico-da-santa-casa-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:00",
+"t": "Tarcísio de Freitas anuncia primeiros secretários da nova gestão de SP; veja quem são",
+"p": "Tarcísio de Freitas tem larga vantagem em disputa pela eleição de SP - Foto: Reprodução/@tarcisiogdf Anúncio oficial confirma novos titulares para Justiça, Desenvolvimento Econômico e Ciência e Tecnologia, além da manutenção de alguns nomes",
+"tema": "Eleições",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/tarcisio-anuncia-novos-secretarios-governo-sp-veja-quem-sao/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:00",
+"t": "Como descartar corretamente o lixo eletrônico? Conheça o trabalho da Green Circle",
+"p": "Foto: Divulgação/Green Circle O descarte inadequado pode contaminar o solo e a água, aumentar o risco de vazamento de dados, além de gerar multas. A Green Circle oferece destinação adequada de eletrônicos e descarte seguro de HDs, com emissão de certificados.",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/como-descartar-corretamente-o-lixo-eletronico-green-circle/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:00",
+"t": "Vítima leva soco na boca durante assalto na Ponte Pênsil; trio foi preso",
+"p": "Divulgação/Prefeitura de São Vicente Uma pessoa foi agredida com um soco na boca durante um assalto nas proximidades da Ponte Pênsil, em São Vicente.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/vitima-leva-soco-na-boca-durante-assalto-na-ponte-pensil-trio-foi-preso/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:00",
+"t": "Santos e Prefeitura de SP avançam em tratativas pra construção de CT da base",
+"p": "Divulgação/Santos FC O Santos avançou em conversas com a Prefeitura de SP para viabilizar a construção de um CT para as categorias de base na capital paulista.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/esporte/santosfc/santos-e-prefeitura-de-sp-avancam-em-tratativas-pra-construcao-de-ct-da-base/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:00",
+"t": "Vereador Daniel da Saúde cobra solução para fila de espera e distância das vagas em creches de Fernandópolis",
+"p": "Parlamentar relata caso de mãe que precisa percorrer diferentes bairros diariamente para deixar o bebê na creche e seguir ao trabalho; requerimento assinado por vereadores pede posicionamento do Executivo.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vereador-daniel-da-saude-cobra-solucao-para-fila-de-espera-e-distancia-das-vagas-em-creches-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:00",
+"t": "UTI Adulto do SUS na Santa Casa de Votuporanga opera acima da capacidade e atinge 121% de ocupação",
+"p": "A Unidade de Terapia Intensiva (UTI) Adulto destinada aos pacientes do Sistema Único de Saúde (SUS) na Santa Casa de Votuporanga atingiu uma taxa de ocupação de 121% na manhã desta terça-feira (10). Com 17 pessoas internadas para uma estrutura oficial de apenas 14 vagas públicas, o hospital precisou utilizar leitos…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/uti-adulto-do-sus-na-santa-casa-de-votuporanga-opera-acima-da-capacidade-e-atinge-121-de-ocupacao/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "10:00",
+"t": "Prefeitura de Votuporanga realiza leilão com carros a partir de R$ 400, motos e motorhome",
+"p": "A Prefeitura de Votuporanga vai promover um novo leilão eletrônico de bens públicos inservíveis, reunindo 48 lotes que incluem veículos, equipamentos de informática, eletrodomésticos e sucatas diversas. Este é o segundo pregão do tipo realizado pela administração municipal neste ano — o primeiro ocorreu em março —…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-votuporanga-realiza-leilao-com-carros-a-partir-de-r-400-motos-e-motorhome/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:57",
+"t": "MP-SP abre investigação sobre atraso salarial que afetou mais de 20 escolas em Ribeirão Preto",
+"p": "MP-SP abre inquérito após funcionários de empresa terceirizada protestaram contra atraso de pagamentos; prefeitura afirma que repasses estão em dia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/mp-sp-abre-investigacao-sobre-atraso-salarial-que-afetou-mais-de-20-escolas-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:57",
+"t": "Prefeito veta projeto que previa animais adotados em prédios públicos",
+"p": "Proposta obrigava repartições municipais a manter pelo menos um animal resgatado",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeito-veta-projeto-que-previa-animais-adotados-em-predios-publicos/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:46",
+"t": "Tarcísio de Freitas anuncia os primeiros secretários da nova gestão do Governo de São Paulo",
+"p": "Governador anunciou Marcos Guerson, Ricardo Salles e Anderson Ribeiro para o novo governo; Nerylson Lima, Geraldo Melo e Marília Marton devem continuar em suas pastas",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/tarcisio-de-freitas-anuncia-os-primeiros-secretarios-da-nova-gestao-do-governo-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:38",
+"t": "Vinicius autoriza reforma de escola com R$ 1,2 milhão em recursos",
+"p": "Escola municipal de Marília terá reforma de R$ 1,2 milhão e salas climatizadas (Alexandre de Souza/Prefeitura) Emef Cecília Alves Guelpa, no bairro Jânio Quadros, terá cobertura, banheiros e instalações elétricas reformados.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vinicius-autoriza-reforma-de-escola-na-zona-norte-com-investimento-de-r-12-milhao/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:38",
+"t": "Tarcísio anuncia seis secretários para o segundo mandato em SP",
+"p": "Ricardo Salles assume a Secretaria da Justiça a partir de 2027; nomes para Desenvolvimento Econômico e Ciência também foram definidos.",
+"tema": "Política",
+"s": "anunciado",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tarcisio-anuncia-ricardo-salles-e-mais-cinco-secretarios-para-segundo-mandato/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:37",
+"t": "Homem é esfaqueado durante discussão em Rio Preto",
+"p": "Vítima foi agredida por dois homens no Jardim das Oliveiras e precisou ser transferida ao Hospital de Base após o ataque",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-esfaqueado-durante-discussao-e-e-internado-no-hospital-de-base/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:31",
+"t": "Polícia Militar prende homem por tráfico de drogas em Capão Bonito",
+"p": "Um homem foi preso por tráfico de drogas na quarta-feira (11), durante uma ação da Força Tática da Polícia Militar no bairro Vila Aparecida, em Capão Bonito. A ocorrência foi registrada durante a Operação Impacto – Força Total. Segundo a Polícia Militar, a equipe realizava patrulhamento nas proximidades de uma área…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Capão Bonito"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/trafico-capao-bonito-6/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:30",
+"t": "Bactéria das fezes é encontrada 9 vezes em água de cidade do interior de SP e Prefeitura pede investigação",
+"p": "Nove amostras de água de São José dos Campos, no interior de São Paulo, apresentaram uma bactéria associada à contaminação por fezes humanas e animais. Os registros ocorreram entre janeiro e junho de 2026. Além disso, dois pontos de coleta ficam em escolas da cidade. Os dados são do Sistema de Informação de…",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"São José dos Campos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/bacteria-das-fezes-e-encontrada-9-vezes-em-agua-de-cidade-do-interior-de-sp-e-prefeitura-pede-investigacao/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:21",
+"t": "Operação apreende produtos falsificados em lojas de Boituva",
+"p": "Ação conjunta da Polícia Civil e da GCM recolheu roupas, tênis e acessórios com marcas reproduzidas ilegalmente nesta quarta-feira (11)",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Boituva"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-replica-da-policia-de-sp-apreende-produtos-falsificados-em-lojas-de-boituva-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:20",
+"t": "Confira a previsão do tempo para Marília nesta quinta-feira (11/11)",
+"p": "Temperaturas chegam a 30°C durante a tarde, com possibilidade de chuva ao longo do dia e maior probabilidade no período da tarde.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-quinta-feira-11-11/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:20",
+"t": "Operação da Polícia Civil mira furto de veículos em São Paulo",
+"p": "Operação GTA cumpre 32 mandados de busca e oito de prisão temporária expedidos pela Justiça; cinco suspeitos já foram presos na capital.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/quadrilha-envolvida-em-furto-de-veiculos-e-alvo-de-operacao-da-policia-civil-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:19",
+"t": "SP repassa R$ 2,3 milhões para assistência no interior paulista",
+"p": "Verba do Fundo Estadual contempla nove municípios com repasses para acolhimento de idosos, pessoas com deficiência e mulheres",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sp-destina-r-23-milhoes-para-reorganizar-servicos-de-acolhimento-em-nove-municipios-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:19",
+"t": "Polícia Civil combate roubo a condomínios em São Paulo",
+"p": "Ação mobiliza 56 equipes na capital e Grande SP para cumprir ordens de prisão contra lideranças e mandados de busca e apreensão.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-de-sp-faz-operacao-contra-quadrilha-especializada-em-invadir-casas-e-condominios/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:17",
+"t": "Jundiaí terá vacinação para todas as idades na Ponte São João neste sábado (14); saiba mais",
+"p": "Foto: Prefeitura de Jundiaí Vacinação em Jundiaí terá atendimento neste sábado (14), das 9h às 15h, na Clínica da Família Ponte São João. Veja quem pode participar.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/vacinacao-jundiai-sabado-14/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "09:15",
+"t": "Chuva de granizo assusta moradores do Videira",
+"p": "Chuva de granizo atingiu Indaiatuba entre as 6h e 7h desta quinta-feira (12); região está em alerta amarelo para tempestade",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Indaiatuba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/chuva-de-granizo-assusta-moradores-do-videira/",
+"auto": true
+},
 {
 "d": "2026-11-12",
 "h": "09:05",
