@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-12T23:54:56-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-13T00:59:30-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,46 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "00:43",
+"t": "Prefeitura diz ter plano contra enchentes, mas documento é de 2019",
+"p": "Levantamento da MARÉ não identificou plano de contingência do município entre os documentos públicos consultados",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeitura-diz-ter-plano-contra-enchentes-mas-documento-e-de-2019/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "00:35",
+"t": "Justiça derruba liminar e libera contratação para transporte escolar",
+"p": "Decisão permite que Prefeitura dê andamento à licitação para contratação de motoristas e monitores",
+"tema": "Educação",
+"s": "obra",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/justica-derruba-liminar-e-libera-contratacao-para-transporte-escolar/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "00:00",
+"t": "A Fazenda 18: Murilo Dias é o oitavo eliminado do programa e retorno de peoa choca todo o elenco",
+"p": "O participante Murilo Dias foi o eliminado de “A Fazenda 18” na oitava Roça do reality da Record, nesta quinta-feira (12/11). O peão saiu com 32,63% dos votos. Também estavam na berlinda Daniel Erthal, com 33,61% dos votos, e Tina Calamba, que teve 33,76%, e sobreviveram à disputa, seguindo no programa. Segundo a…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/a-fazenda-18-murilo-dias-e-o-oitavo-eliminado-do-programa-e-retorno-de-peoa-choca-todo-o-elenco/",
+"auto": true
+},
 {
 "d": "2026-11-12",
 "h": "23:33",
