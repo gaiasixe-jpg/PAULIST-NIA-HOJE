@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T08:07:59-03:00",
-"novos_nesta_coleta": 36,
+"atualizado": "2026-11-13T09:01:53-03:00",
+"novos_nesta_coleta": 17,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 77 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -50,6 +50,207 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "08:53",
+"t": "Prefeitura de Praia Grande prorroga até dezembro prazo para ambulantes renovarem autorizações definitivas",
+"p": "Os comerciantes ambulantes de Praia Grande terão até o dia 30 de dezembro para solicitar as autorizações definitivas de trabalho nas ruas da cidade. A decisão, tomada pelo prefeito Alberto Mourão (MDB), também dispensa a cobrança da taxa referente ao carrinho de apoio. A Lei Complementar nº 1.074, de 10 de novembro…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/prefeitura-de-praia-grande-prorroga-ate-dezembro-prazo-para-ambulantes-renovarem-autorizacoes-definitivas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:53",
+"t": "Brasil ultrapassa mil casos confirmados de mpox em 2026; SP e RJ concentram a maioria dos registros",
+"p": "O número de casos confirmados de mpox no Brasil em 2026 superou a barreira de mil notificações, conforme dados atualizados pelo painel de monitoramento do Ministério da Saúde até esta quinta-feira (12). Ao todo, o país contabiliza 1.023 diagnósticos confirmados, além de 46 casos prováveis, 581 suspeitos e uma morte…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/brasil-ultrapassa-mil-casos-confirmados-de-mpox-em-2026-sp-e-rj-concentram-a-maioria-dos-registros/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:47",
+"t": "INMET emite alerta amarelo para tempestade em Jundiaí nesta sexta-feira (13)",
+"p": "Foto: Prefeitura de Jundiaí Aviso prevê chuva, ventos de até 60 km/h e possibilidade de granizo; confira também as temperaturas e a previsão para o fim de semana.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-13-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:37",
+"t": "Estamos de Olho, edição 1418 | 13/11/2026",
+"p": "Uma maré de notícias preocupantes Se a intenção era ter uma semana tranquila em Itapeva, não foi desta vez. Água, saúde, infraestrutura e até o funcionamento de serviços essenciais entraram na pauta. A população acompanha uma sequência de acontecimentos e, entre anúncios e explicações, espera que as soluções também…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/estamos-de-olho-1418/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:37",
+"t": "Santa Casa de Fernandópolis promove capacitação sobre cuidado humanizado e autonomia do paciente",
+"p": "A Santa Casa de Fernandópolis realizou uma capacitação voltada aos profissionais de saúde com foco no fortalecimento do diálogo, da escuta ativa e do respeito à autonomia dos pacientes durante o atendimento hospitalar. A iniciativa busca aprimorar a assistência médica por meio de práticas que garantam dignidade e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-promove-capacitacao-sobre-cuidado-humanizado-e-autonomia-do-paciente/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:35",
+"t": "Foragida por morte de empresário com paulada e facadas no MA é presa em SP",
+"p": "Mulher foi condenada a 24 anos e 4 meses de prisão pelo crime contra empresário, ocorrido em 2018. Ela era procurada pela Justiça do Maranhã",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/foragida-por-morte-de-empresario-com-paulada-e-facadas-no-ma-e-presa-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:31",
+"t": "Aposentado não consegue fazer pix, mas paga boleto para falsa filha",
+"p": "Vítima só percebeu a fraude após receber uma segunda solicitação",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/aposentado-nao-consegue-fazer-pix-mas-paga-boleto-para-falsa-filha/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:27",
+"t": "Mega da Virada de R$ 1 bilhão faz bolões virarem febre, permite apostar com pouco dinheiro e aumenta combinações",
+"p": "A Mega da Virada é um dos concursos mais aguardados pelos brasileiros. Com um prêmio estimado em mais de R$ 1 bilhão em 2026, muitos apostadores começam a organizar estratégias para tentar acertar as seis dezenas. Entre as alternativas, os bolões aparecem como uma opção interessante para quem deseja aumentar a…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/mega-da-virada-de-r-1-bilhao-faz-boloes-virarem-febre-permite-apostar-com-pouco-dinheiro-e-aumenta-combinacoes/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:21",
+"t": "Campinas terá 1ª Semana do Empreendedorismo Feminino com palestras e oficinas; veja programação",
+"p": "Evento gratuito será realizado de 16 a 19 de novembro e terá atividades sobre inovação, inteligência artificial, geração de renda e valorização de mulheres empreendedoras em Campinas",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/campinas-tera-1a-semana-do-empreendedorismo-feminino-com-palestras-e-oficinas-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:17",
+"t": "5 bairros da zona Sul de Ribeirão Preto podem ficar sem água nesta sexta-feira; Veja quais",
+"p": "5 bairros da zona Sul têm alerta para falta d'água nesta sexta (13), devido a um reparo na rede de abastecimento",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/5-bairros-da-zona-sul-de-ribeirao-preto-podem-ficar-sem-agua-nesta-sexta-feira-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:16",
+"t": "Acidente na Anchieta causa lentidão no sentido Litoral nesta sexta-feira (13)",
+"p": "Retenção atinge trecho da rodovia e a Interligação Planalto; Anchieta e Imigrantes também têm lentidão rumo a São Paulo",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368552/acidente-na-anchieta-causa-lentidao-no-sentido-litoral-nesta-sexta-feira-13-",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:15",
+"t": "Prefeitura mantém demissão de GCM condenado por vender armas na Cracolândia",
+"p": "Agente havia sido demitido em julho deste ano; a condenação é resultado da operação que revelou que esquema criminoso no centro de SP",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-mantem-demissao-de-gcm-condenado-por-vender-armas-na-cracolandia",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:13",
+"t": "Carreta tomba na Rodovia Anchieta e provoca 5 km de congestionamento sentido litoral; vítima sai ilesa",
+"p": "Uma carreta Scania T 113 tombou na Rodovia Anchieta (SP-150), na altura do km 43, em Cubatão, na Baixada Santista, na manhã desta sexta-feira (13). O acidente provocou congestionamento de 5 quilômetros no sentido Sul, entre os quilômetros 38 e 43, segundo informações da Agência de Transporte do Estado de São Paulo…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Cubatão"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/carreta-tomba-na-rodovia-anchieta-e-provoca-5-km-de-congestionamento-sentido-litoral-vitima-sai-ilesa/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:11",
+"t": "Ciclovia será construída no fundo do mar com 870 metros de extensão em obra de R$ 6,8 bilhões que terá acesso à BR-101",
+"p": "Uma ciclovia construída debaixo do mar promete mudar a rotina de quem precisa atravessar o canal entre Santos e Guarujá, no litoral de São Paulo. A estrutura terá aproximadamente 870 metros de extensão submersa e permitirá que pedestres e ciclistas façam o trajeto entre as duas cidades sem depender de balsas ou…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"São Paulo",
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/ciclovia-sera-construida-no-fundo-do-mar-com-870-metros-de-extensao-em-obra-de-r-68-bilhoes-que-tera-acesso-a-br-101/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:10",
+"t": "Empresa que presta serviços à Sabesp abre vagas de emprego em Bertioga",
+"p": "Cargos contemplam funções operacionais e área de saúde ocupacional, com candidaturas por e-mail, WhatsApp ou entrega presencial",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/empresa-que-presta-servicos-a-sabesp-abre-vagas-de-emprego-em-bertioga.html",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "08:00",
@@ -77,6 +278,21 @@
 ],
 "src": "Portal Regional (Dracena)",
 "u": "https://portalregional.net.br/2026/11/motociclista-morre-apos-derrapar-na-rua-e-bater-na-traseira-de-caminhao-em-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:55",
+"t": "Prefeitura de Praia Grande abre concurso para 23 professores com salários de até R$ 6 mil e quinhentos para jornada de 30 horas semanais",
+"p": "A Prefeitura de Praia Grande, no litoral de São Paulo, abriu concurso público com 23 vagas para professores. Os salários chegam a R$ 6.573,49, para uma jornada de 30 horas semanais. As inscrições custam R$ 96 e devem ser feitas até 10 de dezembro, pelo site do Instituto Brasileiro de Administração Municipal (Ibam).…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Praia Grande",
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/prefeitura-de-praia-grande-abre-concurso-para-23-professores-com-salarios-de-ate-r-6-mil-e-quinhentos-para-jornada-de-30-horas-semanais/",
 "auto": true
 },
 {
@@ -1623,6 +1839,20 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4368467/chuva-faz-agua-cair-da-cobertura-e-dificulta-passagem-na-estacao-maua",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "16:48",
+"t": "Ilhabela celebra Dia Mundial do Hip-Hop com batalhas de rima e shows",
+"p": "Programação ocorre no Mercado do Peixe, neste domingo (15), e reúne atrações de grafite, dança, música e rodas de conversa",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-celebra-dia-mundial-do-hip-hop-com-batalhas-de-rima-e-shows.html",
 "auto": true
 },
 {
