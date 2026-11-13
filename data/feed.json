@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T06:05:51-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-13T07:07:31-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "06:46",
+"t": "Obituário | Falecimentos registrados nesta sexta-feira (13/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta sexta-feira, dia 13 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-sexta-feira-13-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "06:03",
+"t": "Fernandópolis representa o interior paulista em Mostra Nacional de Saúde Bucal no Rio de Janeiro",
+"p": "O município de Fernandópolis integra o seleto grupo de sete cidades do estado de São Paulo escolhidas para apresentar suas práticas de sucesso na Mostra Nacional de Saúde Bucal: Brasil Sorridente. O evento, promovido pelo Ministério da Saúde em parceria com a Organização Pan-Americana da Saúde (OPAS), foi realizado…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fernandopolis-representa-o-interior-paulista-em-mostra-nacional-de-saude-bucal-no-rio-de-janeiro/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "06:02",
