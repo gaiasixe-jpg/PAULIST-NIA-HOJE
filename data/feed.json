@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T07:07:31-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-13T08:07:59-03:00",
+"novos_nesta_coleta": 36,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 77 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -50,6 +50,147 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "08:00",
+"t": "Interior de SP terá sexta-feira de calor e previsão de chuva à tarde; veja horários",
+"p": "Temperaturas podem chegar aos 28 °C, com pancadas de chuva previstas principalmente entre 15h e 16h. Inmet emitiu alerta amarelo de tempestade.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/interior-tera-sexta-feira-de-calor-e-previsao-de-chuva-a-tarde-veja-horarios/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:55",
+"t": "Motociclista morre após derrapar na rua e bater na traseira de caminhão em Araçatuba",
+"p": "Um motociclista de 21 anos morreu no início da tarde desta quinta-feira (12) após derrapar e bater na traseira de um caminhão, na Rua Porangaba, em Araçatuba (SP). De acordo com apurações da TV TEM, o Corpo de Bombeiros informou que o motociclista perdeu o controle. O Serviço de Atendimento Móvel de Urgência (Samu)…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"Porangaba"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/motociclista-morre-apos-derrapar-na-rua-e-bater-na-traseira-de-caminhao-em-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:53",
+"t": "Polícia apreende 1.400 airbags provenientes de campanhas de recall em loja de peças usadas de veículos",
+"p": "A Polícia Civil apreendeu 1.400 airbags provenientes de campanhas de recall em uma loja de peças usadas de veículos em Araçatuba (SP) nesta quinta-feira (12). A ação foi realizada com a finalidade de coibir a venda irregular de itens de segurança automotiva. Segundo a polícia, a suspeita é de que produtos…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/policia-apreende-1-400-airbags-provenientes-de-campanhas-de-recall-em-loja-de-pecas-usadas-de-veiculos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:50",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta sexta (13)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-sexta-13.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:50",
+"t": "Equipamentos que ajudam na emissão de alertas de desastres naturais são instalados em Presidente Prudente",
+"p": "Como forma de prevenção após constantes mudanças climáticas, quatro pluviômetros automáticos foram instalados em Presidente Prudente (SP). Os equipamentos ajudam na emissão de alertas de desastres naturais. Segundo a prefeitura, os equipamentos são do Centro Nacional de Monitoramento e Alertas de Desastres Naturais…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/equipamentos-que-ajudam-na-emissao-de-alertas-de-desastres-naturais-sao-instalados-em-presidente-prudente/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:49",
+"t": "Homem é resgatado após se afogar no Rio Paraná, bombeiros buscam segundo pescador",
+"p": "Um homem de 57 anos foi resgatado após se afogar no Rio Paraná, próximo à Ponte Hélio Serejo, na divisa entre Presidente Epitácio (SP) e Bataguassu, no Mato Grosso do Sul. O Corpo de Bombeiros realiza buscas por outro homem, de 35 anos, que desapareceu na água. De acordo com a Polícia Militar, a equipe […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Presidente Epitácio"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/homem-e-resgatado-apos-se-afogar-no-rio-parana-bombeiros-buscam-segundo-pescador/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:42",
+"t": "Mega-Sena passa em branco mais uma vez e prêmio chega a R$ 27 milhões no domingo",
+"p": "A Mega-Sena 3085 não teve ganhadores na faixa principal e acumulou. Com isso, o prêmio estimado subiu para R$ 27 milhões, com o próximo sorteio marcado para domingo (15). Além disso, 2.732 apostas acertaram quatro dezenas e ficaram perto de conquistar uma bolada no concurso realizado na última quinta-feira (12).…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/mega-sena-passa-em-branco-mais-uma-vez-e-premio-chega-a-r-27-milhoes-no-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:39",
+"t": "Sargento da Marinha reage e mata suspeito de roubo em rodovia no litoral",
+"p": "Militar parou sob passarela para colocar capa de chuva quando 2 ladrões o abordaram na Rodovia Padre Manoel da Nóbrega, em São Vicente",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sargento-da-marinha-reage-e-mata-suspeito-de-roubo-em-rodovia-no-litoral",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:31",
+"t": "Ribeirão Preto pode ter pancadas de chuva nesta sexta-feira (13); veja a previsão",
+"p": "Ribeirão Preto tem previsão de pancadas de chuva, que podem ser fortes; Temperatura pode superar os 30°C",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/ribeirao-preto-pode-ter-pancadas-de-chuva-nesta-sexta-feira-13-veja-a-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "07:22",
+"t": "Farid Madi confirma reta final de projeto para renovar a orla da Praia de Pitangueiras",
+"p": "Farid Madi, prefeito de Guarujá, confirmou em suas redes sociais que a requalificação da orla da Praia de Pitangueiras está na fase final de conclusão do projeto para contratar a empresa que executará a obra. A ideia é promover uma complexa revitalização no espaço urbano que realce as belezas naturais. A princípio,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Pitangueiras",
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/farid-madi-confirma-reta-final-de-projeto-para-renovar-a-orla-da-praia-de-pitangueiras/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "06:46",
@@ -8507,6 +8648,114 @@
 },
 {
 "d": "2026-11-11",
+"h": "06:00",
+"t": "Penápolis: Institui a Comissão Municipal de Revisão Historiográfica de Penápolis e sugere a realização de investigação científica documental, historiográfica sobre a formação e fundação do Município",
+"p": "Decreto nº 8756, publicado no Diário Oficial do município em 11/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-11/1836ef53d7b2bf90ef49becb74de88bb5567a75e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8756",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-11",
+"h": "06:00",
+"t": "Penápolis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 11/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-11/1836ef53d7b2bf90ef49becb74de88bb5567a75e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 11/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-11",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 10.000,00 e dá outras providências",
+"p": "Decreto nº 413, publicado no Diário Oficial do município em 11/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-11/b5a3bbf921079786138e23ee064fb3c6c76c7783.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 413",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-11",
+"h": "06:00",
+"t": "Salto: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 11/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-11/b5a3bbf921079786138e23ee064fb3c6c76c7783.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 11/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-11",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 7.100,00 e dá outras providências",
+"p": "Decreto nº 415, publicado no Diário Oficial do município em 11/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-11/e7a49aea2c2c8277199a1839ac2f1c573f32cd0d.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 415",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-11",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 620,04 e dá outras providências",
+"p": "Decreto nº 416, publicado no Diário Oficial do município em 11/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-11/e7a49aea2c2c8277199a1839ac2f1c573f32cd0d.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 416",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-11",
 "h": "05:23",
 "t": "Bets já afetam o ambiente de trabalho: 40% dos pequenos empresários relatam impactos nas equipes",
 "p": "As apostas online deixaram de ser apenas uma preocupação com o orçamento doméstico e passaram a fazer parte de outro ambiente: o trabalho. Uma pesquisa do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae) identificou que 40% dos pequenos empresários que possuem funcionários perceberam impactos das…",
@@ -12776,6 +13025,222 @@
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/secretaria-de-educacao-de-jales-promove-seminario-de-boas-praticas-da-educacao-infantil/",
 "auto": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Avaré: Dispõe sobre a organização das Férias regulamentares para o ano",
+"p": "Decreto nº 8.929, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Avaré"
+],
+"src": "Diário Oficial de Avaré",
+"u": "https://data.queridodiario.ok.org.br/3504503/2026-11-10/c089fc40f95aa0b9eeabcd1ddb394d08df6734bf.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.929",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Avanhandava: Dispõe sobre suplementação de dotações do orçamento vigente da Prefeitura Municipal de Avanhandava e dá outras providências",
+"p": "Decreto nº 4.850, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Avanhandava"
+],
+"src": "Diário Oficial de Avanhandava",
+"u": "https://data.queridodiario.ok.org.br/3504404/2026-11-10/118346232766d10f731e5ffe664526fe3f3ea1a0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4.850",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Andradina: Regulamenta a Lei Municipal nº 4.410/2026, que dispõe sobre a Regularização Fundiária Urbana – REURB Simplificada (Inominada) das áreas implantadas dentro de núcleo urbano ocorrido antes de 19 de…",
+"p": "Decreto nº 8.071, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Andradina"
+],
+"src": "Diário Oficial de Andradina",
+"u": "https://data.queridodiario.ok.org.br/3502101/2026-11-10/148ed5e2cadfb1452bf71343bb12c66e2c92d3b6.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.071",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Birigui: Institui a Câmara Intersecretarial de Segurança Alimentar e Nutricional – CAISAN / Birigui e dá providências correlatas”, alterados pelo Decreto nº 6.681, de 1º de julho de 2020, D E C R E T A:1",
+"p": "Decreto nº 8.120, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Birigui"
+],
+"src": "Diário Oficial de Birigui",
+"u": "https://data.queridodiario.ok.org.br/3506508/2026-11-10/fbe86ab7db4881730214e7f2f36939d322451f2c.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.120",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "João Ramalho: Dispõe sobre a anulação de empenhos, não processados, de exercícios anteriores a 2026, inscritos em restos a pagar e dá outras providências",
+"p": "Decreto nº 2.212, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"João Ramalho"
+],
+"src": "Diário Oficial de João Ramalho",
+"u": "https://data.queridodiario.ok.org.br/3525607/2026-11-10/ee28b7183a3fa2cd8d62aeba06c8ad3c47857965.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 2.212",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "João Ramalho: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 10/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"João Ramalho"
+],
+"src": "Diário Oficial de João Ramalho",
+"u": "https://data.queridodiario.ok.org.br/3525607/2026-11-10/ee28b7183a3fa2cd8d62aeba06c8ad3c47857965.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 10/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Monte Mor: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 10/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-11-10/b79320ea02e5e3e0f924010d7336428e4afd4cb0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 10/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Monte Alto: Declara inservíveis para a Administração Pública Municipal de Monte Alto, os bens móveis que especifica, e dá outras providência",
+"p": "Decreto nº 5.283, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Monte Alto"
+],
+"src": "Diário Oficial de Monte Alto",
+"u": "https://data.queridodiario.ok.org.br/3531308/2026-11-10/c6dc31cdd18956c0524cd425f73867dd03473578.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.283",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Nova Luzitânia: Dispõe sobre a nomeação do agente de contratação, do pregoeiro, equipe de apoio e comissão de contratação da Prefeitura Municipal de Nova Luzitânia, nomeação de agente de contratações públicas da…",
+"p": "Decreto nº 4.703, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Nova Luzitânia"
+],
+"src": "Diário Oficial de Nova Luzitânia",
+"u": "https://data.queridodiario.ok.org.br/3533304/2026-11-10/0140505787940af316e362ca8432b8b2eab79309.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4.703",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Ourinhos: Estabelece normas relativas ao encerramento da execução orçamentária e financeira referente ao exercício de 2026, em conformidade com",
+"p": "Decreto nº 8.192, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ourinhos"
+],
+"src": "Diário Oficial de Ourinhos",
+"u": "https://data.queridodiario.ok.org.br/3534708/2026-11-10/e9f15d62f2dd8e707cf1c0974768a20be98dd891.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.192",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Poloni: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 10/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Poloni"
+],
+"src": "Diário Oficial de Poloni",
+"u": "https://data.queridodiario.ok.org.br/3539905/2026-11-10/1f29ef6569927aa81f4bcc8896b0150dde680767.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 10/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-10",
+"h": "06:00",
+"t": "Taubaté: Altera dispositivos do Decreto nº 16.400, de 9 de junho de 2026, que dispõe sobre a estrutura administrativa da Prefeitura Municipal de Taubaté",
+"p": "Decreto nº 16.516, publicado no Diário Oficial do município em 10/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Taubaté"
+],
+"src": "Diário Oficial de Taubaté",
+"u": "https://data.queridodiario.ok.org.br/3554102/2026-11-10/ebf42ad9ceb383a7312be30111b616d5060df381.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 16.516",
+"qd": true,
+"mun": true
 },
 {
 "d": "2026-11-10",
@@ -17199,6 +17664,150 @@
 "auto": true,
 "org": "Prefeitura",
 "num": "Créditos 09/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Alto Alegre: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 09/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-11-09/09d3bf7532a7924175c081f221099bb35cba4f9a.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 09/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Botucatu: Regulamenta o processo de Atribuição de Classes para professores de Educação Infantil e Ensino Fundamental Anos Iniciais (1º ao 5º ano) da Rede Municipal de Ensino",
+"p": "Decreto nº 14.030, publicado no Diário Oficial do município em 09/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-09/5d394bff5028a14d8fb4b213354601e83036487f.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.030",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Itápolis: Dispõe sobre a denominação da Unidade Básica de Saúde localizada no Residencial Garieri Renesto, em homenagem à memória de Regina Célia Fanti Garcia Próspero",
+"p": "Decreto nº 6.767, publicado no Diário Oficial do município em 09/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-09/dc963db592c6fa1c43af2c306268e6c240364359.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.767",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Itápolis: Declara Luto Oficial por três dias em razão do falecimento do Sr",
+"p": "Decreto nº 6.768, publicado no Diário Oficial do município em 09/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-09/dc963db592c6fa1c43af2c306268e6c240364359.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.768",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Itobi: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 09/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Itobi"
+],
+"src": "Diário Oficial de Itobi",
+"u": "https://data.queridodiario.ok.org.br/3523800/2026-11-09/83d9942fffee8da21db013fe335b8b1e6daa80ee.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 09/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Penápolis: Dispõe sobre a nomeação dos membros do Conselho Municipal de Turismo – COMTUR, para o biênio 2026/2028, e dá outras providências",
+"p": "Decreto nº 8753, publicado no Diário Oficial do município em 09/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-09/aac1279e271ed6258ee5cb0448c0c518d874122d.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8753",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Rio Claro: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 09/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Rio Claro"
+],
+"src": "Diário Oficial de Rio Claro",
+"u": "https://data.queridodiario.ok.org.br/3543907/2026-11-09/cf54737195ad4f78b35a10f928b46def4e712795.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 09/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-09",
+"h": "06:00",
+"t": "Taubaté: Dispõe sobre a instituição da Banca de Seleção do Programa de Incubação de Startups do HITT – Hub de Inovação Tecnológica de Taubaté, e dá providências correlatas",
+"p": "Decreto nº 16.519, publicado no Diário Oficial do município em 09/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Taubaté"
+],
+"src": "Diário Oficial de Taubaté",
+"u": "https://data.queridodiario.ok.org.br/3554102/2026-11-09/9d37a88d51dce4259e7e8fa525bada5e7c4e5559.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 16.519",
 "qd": true,
 "mun": true
 },
