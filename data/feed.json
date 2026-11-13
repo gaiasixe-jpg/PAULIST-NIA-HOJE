@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T18:53:53-03:00",
-"novos_nesta_coleta": 22,
+"atualizado": "2026-11-13T19:51:35-03:00",
+"novos_nesta_coleta": 19,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,243 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "19:50",
+"t": "EUA suspendem decolagens em todo o país após falhas na comunicação do controle aéreo",
+"p": "Medida emergencial, classificada como \"circunstâncias extraordinárias\" pela Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) foi adotada por questões de segurança",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/eua-suspendem-decolagens-em-todo-o-pais-apos-falhas-na-comunicacao-do-controle-aereo/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:48",
+"t": "Jovem morre após motocicleta atingir cavalo em estrada rural de Penápolis",
+"p": "Gabriel Rodrigues de Almeida, de 22 anos, foi socorrido em estado grave após a colisão, mas não resistiu aos ferimentos; caso foi registrado pela polícia como homicídio culposo na direção de veículo automotor. Um jovem de 22 anos morreu após a motocicleta que conduzia colidir contra um cavalo na noite desta…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Penápolis"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/jovem-morre-apos-motocicleta-atingir-cavalo-em-estrada-rural-de-penapolis/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:43",
+"t": "Saúde promove orientação sobre cuidados com o pé diabético no Consultório Municipal do bairro Vila Paes",
+"p": "Atividade em comemoração ao Dia Mundial do Diabetes reforçou a importância do autocuidado e da prevenção de complicações. A Secretaria Municipal da Saúde realizou uma ação de conscientização no Consultório Municipal “Dr. Jamilo Elias Zeitune”, no bairro Vila Paes, em comemoração ao Dia Mundial do Diabetes,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/saude-promove-orientacao-sobre-cuidados-com-o-pe-diabetico-no-consultorio-municipal-do-bairro-vila-paes/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:38",
+"t": "Prefeitura promove nova Feira de Adoção de Animais neste sábado",
+"p": "Promovida pela Secretaria de Bem-Estar Animal, ação acontece das 9h às 13h e busca encontrar novos lares para cães e gatos. A Prefeitura de Votuporanga, por meio da Secretaria Municipal de Bem-Estar Animal, realiza neste sábado (14.nov) mais uma edição da Feira de Adoção de Animais. A ação acontece das 9h às 13h,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeitura-promove-nova-feira-de-adocao-de-animais-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:36",
+"t": "DIG de Fernandópolis desmonta esquema do falso Delegado Geral após golpe de R$ 200 mil",
+"p": "Polícia Civil cumpriu mandados em São Paulo e Vinhedo, apreendeu celulares e computadores e identificou suspeitos ligados à fraude contra uma idosa de 75 anos. A Polícia Civil de Fernandópolis/SP deflagrou nesta quinta-feira (12.nov) a operação “Distintivo Fantasma”, destinada a combater um esquema de estelionato…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis",
+"São Paulo",
+"Vinhedo"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/dig-de-fernandopolis-desmonta-esquema-do-falso-delegado-geral-apos-golpe-de-r-200-mil/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:32",
+"t": "Adicional de 25% na aposentadoria do INSS garante aumento fixo para quem precisa de cuidador: saiba quem tem direito ao pedido",
+"p": "Segurados do Instituto Nacional do Seguro Social (INSS) que recebem aposentadoria por incapacidade permanente, antiga aposentadoria por invalidez, e dependem da assistência contínua de outra pessoa para realizar atividades básicas diárias têm direito a um incremento financeiro crucial: o acréscimo de 25% no valor…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/adicional-de-25-na-aposentadoria-do-inss-garante-aumento-fixo-para-quem-precisa-de-cuidador-saiba-quem-tem-direito-ao-pedido/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:32",
+"t": "Excesso de veículos provoca lentidão na Imigrantes no sentido São Paulo nesta sexta-feira (13)",
+"p": "Descida para o litoral e tráfego na rodovia Anchieta seguem com boa fluidez nesta noite; motoristas também podem conferir as câmeras ao vivo do sistema",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sistema-anchieta-imigrantes/excesso-de-veiculos-provoca-lentidao-na-imigrantes-no-sentido-sao-paulo-nesta-sexta-feira-13.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:31",
+"t": "Professores da rede estadual vão receber bônus de até R$ 25 mil em dezembro",
+"p": "Governo de São Paulo pagará R$ 357,6 milhões a 123 mil profissionais da Educação por resultados alcançados no Saeb 2025; valor médio será de R$ 2,8 mil. O Governo de São Paulo anunciou o pagamento de R$ 357,6 milhões em bonificações para 123 mil profissionais da rede estadual de ensino. O benefício será depositado…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/professores-da-rede-estadual-vao-receber-bonus-de-ate-r-25-mil-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:24",
+"t": "Administração Federal de Aviação dos EUA suspende todos os voos do país por motivos de segurança",
+"p": "Fechamento do espaço aéreo estadunidense acontece devido a \"circunstâncias extraordinárias\"",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/administracao-federal-de-aviacao-dos-eua-suspende-todos-os-voos-do-pais-por-motivos-de-seguranca/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:22",
+"t": "Canal de umidade atravessa o Brasil e muda o tempo em 16 estados com chuva de 300 mm até domingo; Sudeste sofre a partir de segunda (16)",
+"p": "Um canal de umidade provoca chuvas em 16 estados neste fim de semana, com pancadas de até 50 mm por dia, rajadas de 60 km/h e granizo. A partir de segunda-feira (16), o sistema se consolida e pode acumular de 200 mm a 300 mm no ES, MG, GO e MT.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/canal-de-umidade-atravessa-o-brasil-e-muda-o-tempo-em-16-estados-com-chuva-de-300-mm-ate-domingo-sudeste-sofre-a-partir-de-segunda-16/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:06",
+"t": "IDP Debates: especialistas veem cenário promissor no Brasil pós-eleições",
+"p": "Gilmar Mendes, João Paulo Cunha, André Esteves e Nelson Barbosa debateram temas como ajuste fiscal e reforma no Poder Judiciário",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/idp-debates-especialistas-veem-cenario-promissor-no-brasil-pos-eleicoes",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:05",
+"t": "Prefeito promete enviar projeto de isenção de IPTU na próxima semana",
+"p": "Proposta do prefeito prevê isenção integral do imposto para imóveis em ruas sem pavimentação a partir de 2028; projeto apresentado por Jorge Menezes previa desconto de 50% já em 2027",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeito-promete-enviar-projeto-de-isencao-de-iptu-na-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:01",
+"t": "Prefeito de São Vicente vai a Brasília, pede R$ 40 milhões para a saúde da cidade e propõe mudança nas regras de divisão de verbas federais no país",
+"p": "O prefeito de São Vicente, Kayo Amado, esteve em Brasília nesta quarta-feira (11) e quinta-feira (12) para buscar recursos e discutir medidas que possam ampliar o financiamento dos municípios brasileiros. Durante a agenda de dois dias, o chefe do Executivo solicitou R$ 40 milhões para a saúde municipal e apresentou…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/prefeito-de-sao-vicente-vai-a-brasilia-pede-r-40-milhoes-para-a-saude-da-cidade-e-propoe-mudanca-nas-regras-de-divisao-de-verbas-federais-no-pais/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:00",
+"t": "Festa italiana gratuita ocupa Edifício Itália com pratos típicos e música neste fim de semana",
+"p": "A Festa Italiana Viva La Nostra Gente! chega a São Paulo neste domingo (15/11) com uma edição gratuita no Edifício Itália, no Centro da capital. O evento será realizado das 11h às 21h, no Circolo Italiano di San Paolo, e terá gastronomia, música, dança e um Mercato com produtos italianos. A programação também marca…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/festa-italiana-gratuita-ocupa-edificio-italia-com-pratos-tipicos-e-musica-neste-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:59",
+"t": "Semana da Consciência Negra celebra diversidade e valoriza cultura afro-brasileira no Parque da Cultura de Votuporanga",
+"p": "Programação de 17 a 22 de novembro contará com exposição literária, oficinas, capoeira, dança, música, feira de artesanato e cinema. A diversidade e a riqueza da cultura afro-brasileira são celebradas em Votuporanga com a Semana da Consciência Negra, realizada de 17 a 22 de novembro, no Parque da Cultura. Promovida…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/semana-da-consciencia-negra-celebra-diversidade-e-valoriza-cultura-afro-brasileira-no-parque-da-cultura-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:58",
+"t": "Força Tática captura procurado por furto durante patrulhamento em Votuporanga",
+"p": "Homem com mandado de prisão preventiva em aberto foi reconhecido por policiais militares na região da Praça São Bento e acabou encaminhado à Central de Flagrantes. Um homem procurado pela Justiça foi capturado pela Força Tática da Polícia Militar no início da tarde desta quinta-feira (12.nov), na região central de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/forca-tatica-captura-procurado-por-furto-durante-patrulhamento-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:54",
+"t": "Homem é preso por descumprimento de medida protetiva em Itaquaquecetuba",
+"p": "Vítima relatou à polícia que o ex-companheiro a estava perseguindo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/homem-e-preso-por-descumprimento-de-medida-protetiva-em-itaquaquecetuba/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "18:51",
@@ -114,6 +347,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/buracos-nas-ruas-de-campinas-veja-se-seu-bairro-esta-entre-os-38-que-terao-tapa-buracos-na-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:39",
+"t": "São Caetano projeta alta de 33,24% no orçamento da Segurança",
+"p": "Pasta teve previsão de R$ 20,06 milhões para 2026; proposta para o próximo ano chega a R$ 26,74 milhões",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368734/sao-caetano-projeta-alta-de-33-24-no-orcamento-da-seguranca",
 "auto": true
 },
 {
@@ -190,6 +437,20 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/camarao-louva-a-deus-desfere-golpe-de-ate-80-km-h-e-possui-olhos-capazes-de-detectar-luz-invisivel-aos-humanos-intrigando-cientistas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:14",
+"t": "Mauá limpa galerias antes de recapeamento no Parque São Vicente",
+"p": "Serviços de drenagem são realizados nas proximidades do Estádio Pedro Benedetti; Prefeitura prevê recuperação do asfalto após conclusão dos trabalhos",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368726/maua-limpa-galerias-antes-de-recapeamento-no-parque-sao-vicente",
 "auto": true
 },
 {
