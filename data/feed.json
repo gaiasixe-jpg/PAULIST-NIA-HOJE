@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-13T16:59:42-03:00",
-"novos_nesta_coleta": 39,
+"atualizado": "2026-11-13T17:58:24-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,170 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "17:56",
+"t": "Semáforos apagados afetam o trânsito em avenida de Ribeirão Preto",
+"p": "Falha afeta o trecho da avenida Francisco Junqueira entre a avenida Maria de Jesus Condeixa e a rua Angélica",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/semaforos-apagados-afetam-o-transito-em-avenida-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:49",
+"t": "Novo ciclone coloca SP em alerta para temporais severos; veja quando",
+"p": "Final de semana deve ser marcado por tempo firme, mas a trégua na chuva deve ser breve",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/novo-ciclone-coloca-sp-em-alerta-para-temporais-severos-veja-quando/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:48",
+"t": "Alerta severo: celulares recebem aviso de chuva forte e raios na região de Campinas",
+"p": "Moradores de diversos bairros de Campinas receberam um alerta severo da Defesa Civil diretamente nos celulares por volta das 17h desta sexta-feira (13)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/alerta-severo-celulares-recebem-aviso-de-chuva-forte-e-raios-na-regiao-de-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:48",
+"t": "Exposição ‘Caminhanças’ apresenta a trajetória do poeta e xilogravurista João Gomes de Sá",
+"p": "A partir deste sábado (14), os sorocabanos poderão conferir a exposição ‘Caminhanças’, no Chalé Francês, espaço administrado pela Secretaria de Cultura (Secult). Realizado pelo Centro Cultural de Tradições Nordestinas (CCTN), a mostra é dedicada à trajetória do poeta cordelista, artesão, xilogravurista e produtor…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/exposicao-caminhancas-apresenta-a-trajetoria-do-poeta-e-xilogravurista-joao-gomes-de-sa/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:47",
+"t": "Controlador de SP promete \"resposta rápida\" sobre denúncias de Mello Araújo",
+"p": "O vice-prefeito de SP denunciou nessa terça-feira (10/11) um suposto caso de corrupção na Secretaria de Esportes e Lazer da cidade",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/controlador-de-sp-promete-resposta-rapida-sobre-denuncias-de-mello-araujo",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:32",
+"t": "Confira a agenda do ‘Médico na Praça’ da próxima semana",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), segue com o “Médico na Praça”. O atendimento iniciará a semana, na segunda-feira (16), das 9h às 13h, próximo a área de transferência de ônibus, no Jardim Santa Cecília. Na terça-feira (17), das 14h às 18h, o veículo volta ao Jardim Santa Cecília, na […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/confira-a-agenda-do-medico-na-praca-da-proxima-semana-4/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:20",
+"t": "Presidente do Podemos diz que é contra \"ser oposição a qualquer preço\"",
+"p": "Presidente nacional do Podemos, Renata Abreu diz estar dialogando com parlamentares da sigla antes de pleitear um ministério no governo Lula",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/presidente-do-podemos-diz-que-e-contra-ser-oposicao-a-qualquer-preco",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:18",
+"t": "Sesc Jundiaí oferece oficina de cerâmica fria e vivência sobre maternidade neste fim de semana",
+"p": "Foto: Sesc Jundiaí Programação gratuita inclui jogos com brinquedos cantados e contação de histórias",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/sesc-jundiai-programacao-gratuita-fim-de-semana-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:07",
+"t": "Vai chover no domingo? Defesa Civil alerta para temporais e granizo em todo o Estado",
+"p": "Previsão do tempo indica pancadas de chuva com raios e possibilidade de queda de granizo em pontos isolados do Estado; confira alerta da Defesa Civil",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/vai-chover-no-domingo-defesa-civil-alerta-para-temporais-e-granizo-em-todo-o-estado/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:07",
+"t": "Teatro tinterativo leva educação sobre o trânsito para crianças",
+"p": "Iniciativa leva noções de cidadania, segurança viária e respeito à mobilidade urbana para estudantes da rede pública através da arte e da brincadeira",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/conteudo-patrocinado/grupo-komedi/teatro-interativo-leva-educacao-sobre-o-transito-para-criancas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "16:56",
+"t": "Milton Leite se torna réu por suspeita de ligação com o PCC",
+"p": "A Justiça de São Paulo acatou denúncia do Ministério Público e tornou Milton Leite e mais 13 pessoas réus por suspeita de ligação com a facção criminosa Primeiro Comando da Capital (PCC). Leite é ex-vereador e ex-presidente da Câmara Municipal de São Paulo e está preso. O político filiado ao partido União Brasil…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/milton-leite-se-torna-reu-por-suspeita-de-ligacao-com-o-pcc",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "16:56",
+"t": "Legaliza Diadema soma 4,3 mil acordos; prazo termina em dezembro",
+"p": "Programa de regularização fiscal contabiliza R$ 22,2 milhões em débitos negociados; contribuintes têm até 10 de dezembro para aderir",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368701/legaliza-diadema-soma-4-3-mil-acordos-prazo-termina-em-dezembro",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "16:55",
@@ -3184,6 +3354,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67752",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "00:00",
+"t": "Secult divulga relação de inscritos em chamamento público para fomento de ações culturais",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67755",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "00:00",
+"t": "Fundo Social repassa 5 toneladas de alimentos da Campanha Natal Sem Fome a 25 entidades",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67754",
 "auto": true
 },
 {
