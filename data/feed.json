@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T09:01:53-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-13T10:16:25-03:00",
+"novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,358 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "10:04",
+"t": "Falsos advogados aplicam fraudes que somam mais de R$ 48 mil em Marília",
+"p": "Caso está sendo investigado pela Polícia Civil de Marília Criminosos utilizaram engenharia social e informações reais de ações judiciais para enganar vítimas em Marília.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/falsos-advogados-aplicam-fraudes-que-somam-mais-de-r-48-mil-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:04",
+"t": "Prefeitura de Ribeirão Preto abre licitação de R$ 57,2 milhões para corte de mato e limpeza de áreas verdes",
+"p": "Contrato prevê roçada, retirada de restos de plantas, rega e manutenção de jardins em espaços públicos de Ribeirão Preto",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/prefeitura-de-ribeirao-preto-abre-licitacao-de-572-milhoes-para-corte-de-mato-e-limpeza-de-areas-verdes/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:00",
+"t": "Maior ponte de SP chega a 98% das obras e estrutura antiga será exclusiva para pedestres e ciclistas",
+"p": "A duplicação da Ponte Engenheiro Gilberto Paim Pamplona, considerada a maior ponte do estado de São Paulo, chegou a 98% de conclusão. A estrutura, localizada sobre o Rio Tietê, terá uma nova pista para veículos. Já a ponte atual atenderá exclusivamente pedestres e ciclistas após a revitalização. A travessia tem 2,4…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/maior-ponte-de-sp-chega-a-98-das-obras-e-estrutura-antiga-sera-exclusiva-para-pedestres-e-ciclistas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:00",
+"t": "Homem é preso com quase 10 kg de maconha em residência em Santos",
+"p": "Divulgação/Polícia Militar Polícia encontrou 9,9 quilos da droga, dinheiro, balança de precisão e equipamentos usados para embalar entorpecentes no imóvel.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/homem-e-preso-com-quase-10-kg-de-maconha-em-residencia-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:00",
+"t": "Sargento da Marinha reage a assalto e mata suspeito em São Vicente",
+"p": "Divulgação/Portal CCM - Artesp Um suspeito morreu e outro conseguiu fugir após uma tentativa de assalto a um sargento da Marinha na Rodovia Padre Manoel da Nóbrega.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/sargento-da-marinha-reage-a-assalto-e-mata-suspeito-em-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:54",
+"t": "Encontro de carros reúne modelos clássicos e drift neste sábado",
+"p": "13ª edição do Sunset Meeting terá exposição de até 400 carros, manobras com pilotos profissionais e música, das 16h às 22h",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/encontro-de-carros-reune-modelos-classicos-e-drift-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:49",
+"t": "Médico é preso após paciente gravar suspeita de abuso em Diadema",
+"p": "Paciente de 56 anos registrou parte do atendimento; profissional de 64 anos foi afastado da rede municipal de saúde após prisão em flagrante",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368586/medico-e-preso-apos-paciente-gravar-suspeita-de-abuso-em-diadema",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:46",
+"t": "Confira as ofertas de emprego no PAT Marília nesta sexta-feira (13/11)",
+"p": "Oportunidades contemplam indústria, comércio, construção civil e serviços, com destaque para telemarketing.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-sexta-feira-13-11/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:46",
+"t": "Parque Ribeirão e mais 2 bairros da zona Oeste podem ficar sem água até a madrugada de sábado; confira",
+"p": "Bairros da zona Oeste da cidade têm alerta para falta d'água entre esta sexta (13) e sábado (14), devido à troca emergencial de bomba em poço",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/parque-ribeirao-e-mais-2-bairros-da-zona-oeste-podem-ficar-sem-agua-ate-a-madrugada-de-sabado-confira/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:39",
+"t": "Quartas de final da Taça Cidade de Sorocaba 2026 começam neste domingo (15)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), promove, na manhã deste domingo (15), os jogos de ida válidos pelas quartas de final da Taça Cidade de Sorocaba 2026, a primeira divisão do Campeonato Municipal de Futebol Varzeano. As partidas de volta estão previstas para o…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/quartas-de-final-da-taca-cidade-de-sorocaba-2026-comecam-neste-domingo-15/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:36",
+"t": "Após fortes chuvas em todo o estado, SP tem 26 desalojados e um ferido",
+"p": "Chuvas foram registradas entre quinta (12/11) e o início desta sexta-feira (13/11) em SP. Capital tem 4 imóveis interditados",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/apos-fortes-chuvas-em-todo-o-estado-sp-tem-26-desalojados-e-um-ferido",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:34",
+"t": "Ponte de R$ 80 milhões demorou cinco anos para ser tocada após ficar pronta, virou símbolo de atraso e hoje ilumina a noite com cores únicas",
+"p": "Uma obra de aproximadamente R$ 80 milhões passou anos sem cumprir a função para a qual foi construída. Em Hortolândia, no interior de São Paulo, a Ponte da Esperança, conhecida também como Ponte Estaiada, foi concluída em 2014, mas só começou a receber veículos em maio de 2019. Durante esse período, a estrutura…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Hortolândia"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/ponte-de-r-80-milhoes-demorou-cinco-anos-para-ser-tocada-apos-ficar-pronta-virou-simbolo-de-atraso-e-hoje-ilumina-a-noite-com-cores-unicas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:33",
+"t": "PM recupera seis veículos roubados de locadora na zona sul de São Paulo; quatro são presos",
+"p": "Seis dos cerca de oito veículos roubados de uma locadora no Campo Belo, na zona sul de São Paulo, foram recuperados pela Polícia Militar poucas horas após o crime, na madrugada desta sexta-feira (13). Quatro pessoas foram presas durante as buscas, que mobilizaram equipes em diferentes pontos da capital e da região…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-recupera-seis-veiculos-roubados-de-locadora-na-zona-sul-de-sao-paulo-quatro-sao-presos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:33",
+"t": "PM de SP realiza operação contra o tráfico de drogas com apoio de cães farejadores do Canil em Paraisópolis",
+"p": "A Polícia Militar realizou nesta quinta-feira (12) uma operação de combate ao tráfico de drogas em Paraisópolis, na Zona Sul da capital paulista. Durante a ação, foram apreendidos entorpecentes e materiais ligados à estrutura do tráfico, além de um homem preso. Equipes do 16º Batalhão de Polícia Militar…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-de-sp-realiza-operacao-contra-o-trafico-de-drogas-com-apoio-de-caes-farejadores-do-canil-em-paraisopolis/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:33",
+"t": "Revisão de benefícios fiscais ajuda SP a ampliar investimentos para recorde de R$ 44,7 bilhões em 2027",
+"p": "A proposta orçamentária do Governo de São Paulo para 2027 prevê um volume recorde deR$ 44,7 bilhões em investimentos, o maior montante da história do Estado. O valorrepresenta o dobro do registrado no primeiro ano da atual gestão, em 2023, e mais dequatro vezes o realizado em 2019, o primeiro ano da gestão…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/revisao-de-beneficios-fiscais-ajuda-sp-a-ampliar-investimentos-para-recorde-de-r-447-bilhoes-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:33",
+"t": "Bom Prato Bauru completa 13 anos nesta sexta (13) com mais de 6,7 milhões de refeições servidas",
+"p": "O Bom Prato Bauru completa 13 anos de funcionamento nesta sexta-feira (13). Desde a inauguração, em novembro de 2013, a unidade serviu mais de 6,7 milhões de refeições, entre cafés da manhã, almoços e jantares, ao preço simbólico de R$ 1, valor que o programa Bom Prato mantém desde o início, há 25 anos. Para […]",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Bauru"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/bom-prato-bauru-completa-13-anos-nesta-sexta-13-com-mais-de-67-milhoes-de-refeicoes-servidas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:33",
+"t": "Polícia Civil de São Paulo faz operação contra suspeitos de aliciar crianças e adolescentes pela internet",
+"p": "Uma investigação iniciada após a identificação de conteúdos que incentivavam a automutilação e o suicídio de uma adolescente de 12 anos levou a Polícia Civil de São Paulo a deflagrar, nesta sexta-feira (13), a Operação Safir. A ação cumpriu mandados de busca e apreensão e de internação de dois adolescentes nas…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-de-sao-paulo-faz-operacao-contra-suspeitos-de-aliciar-criancas-e-adolescentes-pela-internet/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:16",
+"t": "Promotora de vendas morre após uma semana internada devido a acidente de trânsito em Votuporanga",
+"p": "Cristiane Vieira, de 47 anos, faleceu na madrugada desta sexta-feira (13) em decorrência dos graves ferimentos provocados por um acidente de trânsito ocorrido no último dia 6 de novembro, em Votuporanga. A colisão foi registrada no cruzamento das avenidas Jerônimo Figueira da Costa e Mário Pozzobon, na zona norte…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/promotora-de-vendas-morre-apos-uma-semana-internada-devido-a-acidente-de-transito-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:15",
+"t": "Nem cloro, nem água sanitária! Veja qual produto ajuda a deixar as roupas mais brancas sem amarelar ou desgastar os tecidos",
+"p": "O produto libera oxigênio ativo durante a lavagem e ajuda a eliminar resíduos que ficam presos nas fibras dos tecidos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/nem-cloro-nem-agua-sanitaria-veja-qual-produto-ajuda-a-deixar-as-roupas-mais-brancas-sem-amarelar-ou-desgastar-os-tecidos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:15",
+"t": "Advogada de 29 anos morre após agravamento de quadro cardíaco em Rio Preto",
+"p": "A advogada Diadra Shirlem Souza Brito, de 29 anos, faleceu por volta das 13h da última quarta-feira (11), em uma unidade hospitalar de São José do Rio Preto (SP). De acordo com informações repassadas por familiares ao portal Sertão em Dia, a jovem sofreu um agravamento de um problema cardíaco que resultou no óbito.…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/advogada-de-29-anos-morre-apos-agravamento-de-quadro-cardiaco-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:10",
+"t": "Morre aos 62 anos Arnaldo José Back, condenado pelos atos de 8 de janeiro",
+"p": "Faleceu nesta quinta-feira (12) Arnaldo José Back, de 62 anos, morador de Foz do Iguaçu, no Paraná, que havia sido condenado pela Justiça em razão dos atos de 8 de janeiro de 2023. A informação sobre o óbito foi confirmada pelo deputado federal eleito Gil Diniz (PL-SP) por meio de uma nota de pesar divulgada […]",
+"tema": "Contas públicas",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/morre-aos-62-anos-arnaldo-jose-back-condenado-pelos-atos-de-8-de-janeiro/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:09",
+"t": "Governo de São Paulo lança concurso público para a Cetesb com 107 vagas; veja como se inscrever",
+"p": "Vagas estão distribuídas entre 12 polos regionais do estado, com 84 vagas para nível superior e 23 para nível médio",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/governo-de-sao-paulo-lanca-concurso-publico-para-a-cetesb-com-107-vagas-veja-como-se-inscrever/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:04",
+"t": "Polícia Militar recupera carros roubados de locadora e prende quatro suspeitos",
+"p": "Seis dos cerca de oito automóveis levados de uma locadora de veículos localizada no bairro do Campo Belo, na Zona Sul de São Paulo, foram recuperados pela Polícia Militar na madrugada desta sexta-feira (13). A ação criminosa, que mobilizou aproximadamente dez suspeitos, ocorreu no estabelecimento comercial e deixou…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-recupera-carros-roubados-de-locadora-e-prende-quatro-suspeitos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:03",
+"t": "Festival de dança tem apresentação nesta sexta no Teatro Ariano Suassuna, em Jacareí",
+"p": "Programação começa às 19h30; evento reúne 312 bailarinas de diferentes idades, segundo a Prefeitura.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jacareí"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/jacarei-festival-danca-ariano-suassuna-13-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:03",
+"t": "Polícia Militar escolta carro e salva paciente com traqueostomia deslocada",
+"p": "Um paciente que teve a traqueostomia deslocada e corria sério risco de asfixia foi salvo graças a uma escolta rápida realizada por policiais da Polícia Militar de Trânsito, na tarde da última quarta-feira (11), na Zona Sul de São Paulo. O socorro em caráter de urgência começou quando a familiar que dirigia o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-escolta-carro-e-salva-paciente-com-traqueostomia-deslocada/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "09:00",
+"t": "Duran Duran perde integrante original após 48 anos; baterista deixa grupo para proteger a audição aos 66 anos",
+"p": "O baterista Roger Taylor anunciou sua saída do Duran Duran após o agravamento gradual de um zumbido no ouvido. Aos 66 anos, o músico decidiu priorizar a saúde e atender às recomendações médicas para proteger sua audição. A banda comunicou a decisão na quinta-feira (12/11). Taylor integrou a formação original do…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/duran-duran-perde-integrante-original-apos-48-anos-baterista-deixa-grupo-para-proteger-a-audicao-aos-66-anos/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "08:53",
@@ -142,6 +494,20 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/aposentado-nao-consegue-fazer-pix-mas-paga-boleto-para-falsa-filha/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "08:31",
+"t": "Paulistas dominam finalistas do Prêmio TV Brasil Petrobras Para Elas",
+"p": "O estado de São Paulo é protagonista na primeira edição do Prêmio TV Brasil Petrobras Para Elas. O evento que reconhece os destaques do futebol feminino brasileiro no ano ocorre no domingo (15), a partir de 19h (horário de Brasília), no Museu do Futebol, na capital paulista. A TV Brasil transmite a cerimônia em…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/paulistas-dominam-finalistas-do-premio-tv-brasil-petrobras-para-elas",
 "auto": true
 },
 {
