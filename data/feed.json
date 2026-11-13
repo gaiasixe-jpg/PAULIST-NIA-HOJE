@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-13T14:56:51-03:00",
-"novos_nesta_coleta": 13,
+"atualizado": "2026-11-13T15:59:59-03:00",
+"novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -25,13 +27,11 @@
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
 "Prefeitura de Registro",
-"Diário Oficial (via Alesp)"
+"Prefeitura de São José dos Campos",
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
-{
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -41,27 +41,356 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Diário do Litoral",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Prefeitura de São José dos Campos",
-"erro": "The read operation timed out"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "The read operation timed out | The read operation timed out | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "16:00",
+"t": "Polícia Civil prende dupla suspeita de invadir condomínio de luxo e roubar R$ 52 mil em joias",
+"p": "Dois homens, de 23 e 31 anos, foram presos pela Polícia Civil nesta sexta-feira (13) sob suspeita de envolvimento em uma invasão seguida de roubo a um condomínio residencial em Higienópolis, bairro nobre da região central de São Paulo. A identificação da dupla foi possível após a análise das imagens gravadas pelo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-dupla-suspeita-de-invadir-condominio-de-luxo-e-roubar-r-52-mil-em-joias/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:59",
+"t": "GCM prende homem por tráfico de drogas no Jardim Nova Manchester",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba prendeu um homem, de 41 anos de idade, por tráfico de drogas, na noite desta quinta-feira (12), durante patrulhamento preventivo no Jardim Nova Manchester, Zona Oeste da cidade. A equipe foi procurada por um munícipe, que relatou movimentação suspeita na Rua Januário…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-prende-homem-por-trafico-de-drogas-no-jardim-nova-manchester/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:53",
+"t": "Incêndio em Salto: fábrica diz que prioridade é segurança dos colaboradores",
+"p": "Empresa de tintas e solventes afirmou que acompanha o caso junto às autoridades e que prioridade é o bem-estar de todos os envolvidos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Salto"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/incendio-em-salto-fabrica-diz-que-prioridade-e-seguranca-dos-colaboradores",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:45",
+"t": "Ilhabela estabelece regras para ambulantes nas praias e prazo para licenças termina em novembro",
+"p": "Decreto define limites para equipamentos, locação de cadeiras e guarda-sóis, venda de alimentos e prestação de serviços; confira",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-estabelece-regras-para-ambulantes-nas-praias-e-prazo-para-licencas-termina-em-novembro.html",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-13",
+"h": "15:44",
+"t": "Tarcísio lamenta incêndio em Salto e diz acompanhar situação \"de perto\"",
+"p": "Incêndio atinge indústria química no interior de São Paulo nesta sexta-feira (13/11). Tarcísio de Freitas se manifestou pelas redes sociais",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Salto"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tarcisio-lamenta-incendio-em-salto-e-diz-acompanhar-situacao-de-perto",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:43",
+"t": "Espaço Multiuso Parque dos Ipês é reinaugurado em Jundiaí com novas áreas de lazer e varejão noturno",
+"p": "Foto: Prefeitura de Jundiaí Parque dos Ipês, em Jundiaí, é reinaugurado com playground, mirante, câmeras de segurança e varejão noturno às quartas-feiras.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/parque-dos-ipes-reinaugurado-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:38",
+"t": "GCM aborda ciclistas e captura homem procurado pela Justiça em São Vicente",
+"p": "Agentes da Romu prendem homem procurado pela Justiça após abordagem a dois ciclistas, no bairro Vila Valença, em São Vicente",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/gcm-aborda-ciclistas-e-captura-homem-procurado-pela-justica-em-sao-vicente.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:38",
+"t": "Fundec abre inscrições para processo seletivo do Instituto Municipal de Música de Sorocaba neste sábado (14)",
+"p": "A Fundação de Desenvolvimento Cultural de Sorocaba (Fundec) receberá, a partir deste sábado (14) até o dia 30 de novembro, as inscrições para o processo seletivo de cursos gratuitos nas áreas de música, teatro e canto, que serão oferecidos pelo Instituto Municipal de Música de Sorocaba (IMMS) em 2027. Os…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/fundec-abre-inscricoes-para-processo-seletivo-do-instituto-municipal-de-musica-de-sorocaba-neste-sabado-14/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:36",
+"t": "Palácio dos Bandeirantes recebe exposição de Francisco Rebolo e Gregório Gruber",
+"p": "O Palácio dos Bandeirantes recebe desde esta quinta-feira (12) a exposição “A Cidade em Dois Tempos”, com obras de Francisco Rebolo e Gregório Gruber. Apresentada pelo Acervo Artístico-Cultural dos Palácios do Governo do Estado de São Paulo, a mostra reúne, no Salão dos Pratos, pinturas que registram diferentes…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/palacio-dos-bandeirantes-recebe-exposicao-de-francisco-rebolo-e-gregorio-gruber/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:36",
+"t": "Governo de SP mobiliza 60 bombeiros e 22 viaturas no combate a incêndio em fábrica de produtos químicos em Salto",
+"p": "O Corpo de Bombeiros do Estado de São Paulo atua no combate a um incêndio em uma fábrica de produtos químicos localizada na Rodovia SP-73 (Estrada Velha Indaiatuba-Campinas), em Salto, no interior paulista. Até o momento, 22 viaturas e 60 bombeiros foram mobilizados para a ocorrência. O helicóptero Águia da Polícia…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Salto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-mobiliza-60-bombeiros-e-22-viaturas-no-combate-a-incendio-em-fabrica-de-produtos-quimicos-em-salto/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:36",
+"t": "Polícia de SP prende dois suspeitos de roubo a condomínio em Higienópolis, na capital",
+"p": "A Polícia Civil prendeu dois homens, de 23 e 31 anos, nesta sexta-feira (13), suspeitos de participação em um roubo a um condomínio residencial em Higienópolis, na região central de São Paulo. A identificação ocorreu por meio de imagens das câmeras de segurança do edifício. A investigação é conduzida por agentes da…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-de-sp-prende-dois-suspeitos-de-roubo-a-condominio-em-higienopolis-na-capital/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:36",
+"t": "Qualifica SP oferece mais de 2,5 mil vagas em cursos gratuitos com inscrições até terça (17)",
+"p": "A Secretaria de Desenvolvimento Econômico (SDE) está com inscrições abertas para 2.595 vagas em cursos gratuitos de qualificação profissional do programa Qualifica SP. Os interessados têm até esta terça-feira (17) para se candidatar às oportunidades, as inscrições devem ser realizadas pelo portal Trampolim, no…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/qualifica-sp-oferece-mais-de-25-mil-vagas-em-cursos-gratuitos-com-inscricoes-ate-terca-17/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:36",
+"t": "Prefeitura de Sorocaba, em lado do Sebrae e de vários parceiros da iniciativa privada, realiza o 1º Fórum Impulsiona Mulher",
+"p": "Fotos: Rose Campos/Secom O evento, voltado ao empreendedorismo feminino, foi realizado no campus da UniFacens, nesta quarta-feira (11) O ecossistema de empreendedorismo feminino da Região Metropolitana de Sorocaba (RMS) recebeu, nesta quarta-feira (11) o 1º Fórum Impulsiona Mulher. Realizado pelo Sebrae Sorocaba em…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-em-lado-do-sebrae-e-de-varios-parceiros-da-iniciativa-privada-realiza-o-1o-forum-impulsiona-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:32",
+"t": "Quase metade das Delegacias da Mulher em SP não funciona 24h, então como pedir ajuda?",
+"p": "Quase metade das Delegacias de Defesa da Mulher (DDMs) do estado de São Paulo não oferece atendimento 24 horas, apesar de a modalidade ser obrigatória por lei federal. A irregularidade foi identificada em uma fiscalização surpresa realizada pelo Tribunal de Contas do Estado de São Paulo (TCE-SP), na última…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/quase-metade-das-delegacias-da-mulher-em-sp-nao-funciona-24h-entao-como-pedir-ajuda/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:30",
+"t": "Beach Park inaugura novo resort de luxo com 226 quartos, spa e academia com investimento de R$ 150 milhões",
+"p": "O Ohana Beach Park Resort foi inaugurado oficialmente nesta quarta-feira (11/11), no Ceará, com investimento de R$ 150 milhões, o maior já realizado pelo grupo. O novo empreendimento amplia a estrutura turística do Beach Park e aposta em uma experiência de hospedagem que combina conforto, lazer, gastronomia, arte e…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/beach-park-inaugura-novo-resort-de-luxo-com-226-quartos-spa-e-academia-com-investimento-de-r-150-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:30",
+"t": "Inmet emite alerta amarelo para tempestades com ventos de até 60 km/h e granizo nesta sexta-feira e coloca 15 estados em atenção; veja se o seu está na lista",
+"p": "O avanço de áreas de instabilidade deve mudar o tempo em boa parte do Brasil nesta sexta-feira (13). Diante desse cenário, o Instituto Nacional de Meteorologia (Inmet) emitiu um alerta amarelo para tempestades e colocou 15 estados em atenção para a ocorrência de chuvas intensas, ventos fortes e queda de granizo.…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/inmet-emite-alerta-amarelo-para-tempestades-com-ventos-de-ate-60-km-h-e-granizo-nesta-sexta-feira-e-coloca-15-estados-em-atencao-veja-se-o-seu-esta-na-lista/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:28",
+"t": "‘Gato de energia’: consumo baixo chama atenção e CPFL descobre ligação irregular em academia de Jundiaí",
+"p": "Foto: CPFL Irregularidade foi constatada nesta sexta-feira (13), no Anhangabaú; Polícia Civil e Perícia Criminal foram acionadas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/ligacao-irregular-energia-academia-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:22",
+"t": "Terminal de etanol em Ribeirão Preto passa para o controle total da Petrobras em negócio de R$ 620 milhões",
+"p": "Operação integra a malha de dutos da empresa à estrutura da estatal; negócio ainda depende do aval do Cade e será pago em três parcelas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/terminal-de-etanol-em-ribeirao-preto-passa-para-o-controle-total-da-petrobras-em-negocio-de-r-620-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:16",
+"t": "Codemar faz falta? Prefeito explica situação dos buracos em Marília",
+"p": "Vinicius atribui problemas no asfalto às chuvas, afirma que terceirização reduziu custos e anuncia reforço nos reparos.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mntv/codemar-faz-falta-prefeito-explica-situacao-dos-buracos-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:15",
+"t": "Santos abre inscrições para concurso que vai eleger Corte Carnavalesca",
+"p": "Francisco Arrais/Arquivo Prefeitura de Santos A Secretaria de Cultura de Santos abre, na próxima segunda-feira (16), as inscrições gratuitas para os concursos que vão eleger o Rei Momo, a Rainha e a Princesa do Carnaval 2027.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/especiais-santa-portal/santos-abre-inscricoes-para-concurso-que-vai-eleger-corte-carnavalesca/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:01",
+"t": "\"Eu teria pedido desculpas\", diz Nunes sobre denúncias de vice-prefeito",
+"p": "Fala aconteceu durante evento que marcou autorização para obras do VLE, na sede da Prefeitura de São Paulo, no centro da capital paulista",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/eu-teria-pedido-desculpas-diz-nunes-sobre-denuncias-de-vice-prefeito",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:00",
+"t": "Cinema gratuito no Centro exibe três filmes neste fim de semana; veja quais",
+"p": "Programação gratuita do Cineteatro Bento Quirino reúne dois longas-metragens e uma mostra com cinco documentários sobre Carlos Gomes",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/cinema-gratuito-no-centro-exibe-tres-filmes-neste-fim-de-semana-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "15:00",
+"t": "Corridas de rua em Santos terão novas regras para percursos, horários e número de participantes",
+"p": "Divulgação/Prefeitura de Santos O limite de 15 provas anuais na orla poderá ser ampliado excepcionalmente, mediante avaliação da Semes.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-baixada/corridas-de-rua-em-santos-terao-novas-regras-para-percursos-horarios-e-numero-de-participantes/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:59",
+"t": "Recém-nascido abandonado em Atibaia é encontrado em caixa de papelão; mãe é identificada",
+"p": "Foto: Reprodução Recém-nascido abandonado em Atibaia é encontrado em caixa de papelão na UPA. Polícia identifica a mãe e investiga o caso.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Atibaia"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/recem-nascido-abandonado-atibaia/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:59",
+"t": "GCM prende homem por agressão com taco de bilhar à ex-companheira e filha em Brigadeiro Tobias",
+"p": "A Guarda Civil Municipal (GCM) prendeu, na tarde de quinta-feira (12), um homem de 29 anos por suspeita de agressão à sua ex-companheira, de 35 anos, e à filha dela, no bairro Brigadeiro Tobias, na Zona Leste de Sorocaba. A mulher alega que o indivíduo teria invadido a casa dela e atacado as duas com […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-prende-homem-por-agressao-com-taco-de-bilhar-a-ex-companheira-e-filha-em-brigadeiro-tobias/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "14:50",
@@ -74,6 +403,18 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/incendio-em-salto-prefeito-pede-a-populacao-que-so-va-ao-ps-se-for-urgente",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:48",
+"t": "Veterinário alimenta tartaruga de quase 200 anos à mão e ajuda animal a recuperar a saúde",
+"p": "Quando o veterinário Joe Hollins encontrou Jonathan, em 2009, a tartaruga-gigante estava extremamente magra e mal conseguia se alimentar. Problemas de visão e olfato dificultavam a busca por comida, enquanto o bico enfraquecido impedia o animal de cortar os alimentos. Diante do quadro, Hollins passou a alimentar…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/veterinario-alimenta-tartaruga-de-quase-200-anos-a-mao-e-ajuda-animal-a-recuperar-a-saude/",
 "auto": true
 },
 {
@@ -117,6 +458,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/apoio-aereo-ajuda-policia-civil-a-prender-dois-suspeitos-de-envolvimento-em-roubos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:45",
+"t": "Havan escolhe três cidades para construir megalojas em 2027 com investimento de R$ 300 milhões",
+"p": "Três cidades brasileiras receberão novas megalojas da Havan em 2027. Araguaína e Palmas, no Tocantins, e Tijucas, na Grande Florianópolis, em Santa Catarina, estão na lista da rede varejista. Os projetos anunciados por Luciano Hang somam R$ 300 milhões em investimentos e devem criar 600 empregos diretos. A maior…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/havan-escolhe-tres-cidades-para-construir-megalojas-em-2027-com-investimento-de-r-300-milhoes/",
 "auto": true
 },
 {
