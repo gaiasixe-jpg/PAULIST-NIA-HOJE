@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T12:56:06-03:00",
-"novos_nesta_coleta": 30,
+"atualizado": "2026-11-13T14:00:16-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,8 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -47,9 +46,148 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "13:56",
+"t": "Inmet emite alerta de tempestade para região durante o fim de semana",
+"p": "Aviso amarelo prevê chuva intensa, ventos de até 60 km/h e possibilidade de granizo, principalmente no domingo (15)",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/inmet-emite-alerta-de-tempestade-para-regiao-durante-o-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:55",
+"t": "Seminário do Café discutirá produção e mercado no Vale do Ribeira",
+"p": "Cafeicultura",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/seminario-do-cafe-discutira-producao-e-mercado-no-vale-do-ribeira/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:50",
+"t": "Taubaté oferece 12 vagas de emprego; salários chegam a R$3,9 mil",
+"p": "Lista atualizada pelo PAT reúne oportunidades em 12 funções, com exigências que variam entre ensino fundamental e médio e experiência de até seis meses",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/vale-do-paraiba/taubate-oferece-12-vagas-de-emprego-salarios-chegam-a-r39-mil.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:47",
+"t": "Mogi-Bertioga tem interdição parcial entre os quilômetros 75 e 92 nesta sexta-feira (13)",
+"p": "Trecho em Bertioga recebe obras na pista; demais segmentos monitorados apresentam tráfego normal e tempo encoberto nos dois sentidos",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicao-parcial-entre-os-quilometros-75-e-92-nesta-sexta-feira-13.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:39",
+"t": "Rodovia Oswaldo Cruz mantém tráfego normal nesta sexta-feira (13)",
+"p": "Motoristas encontram boas condições de circulação entre Taubaté e Ubatuba; trecho de serra permanece sujeito à formação de neblina",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Taubaté",
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-mantem-trafego-normal-nesta-sexta-feira-13.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:33",
+"t": "Justiça manda SP pagar traslado e funeral de jovem morto rendido por PMs",
+"p": "Corpo de Jeferson de Sousa Santos está há mais de um ano no IML esperando traslado para Alagoas. PMs irão a Tribunal do Júri",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-manda-sp-pagar-traslado-e-funeral-de-jovem-morto-rendido-por-pms",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:31",
+"t": "GCM detém rapaz de 19 anos com 170 porções de drogas no Jd. Alegria",
+"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba deteve, na manhã de quinta-feira (12), um rapaz de 19 anos, por tráfico de drogas no Jd. Alegria, região do Éden, Zona Leste da cidade. Com ele, foram encontradas 170 porções de entorpecentes. A equipe realizava patrulhamento nos arredores do Centro de Educação…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-detem-rapaz-de-19-anos-com-170-porcoes-de-drogas-no-jd-alegria/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:00",
+"t": "Após ajuste fiscal, Kassab diz confiar em equipe econômica do governo Lula",
+"p": "Presidente nacional do PSD afirmou que proposta de ajuste fiscal está alinhada “com as aspirações das pessoas que geram riqueza” no país",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/apos-ajuste-fiscal-kassab-diz-confiar-em-equipe-economica-do-governo-lula",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:00",
+"t": "Defesa Civil emite alerta severo para chuva com raios, vento e granizo em SP",
+"p": "A Defesa Civil emitiu um alerta severo para chuva nas zonas oeste e central de São Paulo nesta sexta-feira (13/11), com possibilidade de raios, ventos fortes e granizo. A instabilidade também pode atingir municípios vizinhos. O órgão orienta a população a buscar abrigo durante a passagem da chuva e evitar…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/defesa-civil-emite-alerta-severo-para-chuva-com-raios-vento-e-granizo-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "13:00",
+"t": "Geraldo Alckmin manda recado para Drauzio Varella após eleição do médico para a Academia Brasileira de Letras",
+"p": "O vice-presidente Geraldo Alckmin homenageou o médico e escritor Drauzio Varella nesta quinta-feira (12), após sua eleição para a Academia Brasileira de Letras (ABL). Também formado em medicina, Alckmin destacou a capacidade do novo imortal de aproximar temas relacionados à saúde do cotidiano dos brasileiros. Em…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/politica/geraldo-alckmin-manda-recado-para-drauzio-varella-apos-eleicao-do-medico-para-a-academia-brasileira-de-letras/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "12:53",
@@ -77,6 +215,18 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/sp-tem-transporte-gratuito-para-70-mil-estudantes-no-2o-dia-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "12:45",
+"t": "Defesa Civil de SP emite alerta severo de chuva para capital e região metropolitana",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368635/defesa-civil-de-sp-emite-alerta-severo-de-chuva-para-capital-e-regiao-metropolitana",
 "auto": true
 },
 {
@@ -147,6 +297,18 @@
 },
 {
 "d": "2026-11-13",
+"h": "12:31",
+"t": "Égua foge de pasto, se assusta com veículos e cai de 1,60 metro sobre laje de casa em construção; bombeiros levam 3 horas para resgatá-la em Minas Gerais",
+"p": "Uma égua que havia escapado de um pasto protagonizou uma ocorrência incomum na manhã de quinta-feira, 12 de novembro de 2026, em Governador Valadares, no interior de Minas Gerais. Depois de entrar em uma garagem em construção e aparentemente se assustar com a movimentação de veículos, o animal correu e caiu sobre a…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/egua-foge-de-pasto-se-assusta-com-veiculos-e-cai-de-160-metro-sobre-laje-de-casa-em-construcao-bombeiros-levam-3-horas-para-resgata-la-em-minas-gerais/",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "12:24",
 "t": "Tomate dispara e quilo chega a R$ 21; preço pesa no bolso do consumidor",
 "p": "Alta no preço do tomate está relacionada ao frio e às chuvas nas regiões produtoras; para o consumidor final, o quilo pode chegar a R$ 21",
@@ -172,6 +334,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/alto-tiete/prefeitura-de-mogi-das-cruzes-realiza-mutirao-de-limpeza-e-atende-24-familias-atingidas-pela-chuva/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "12:20",
+"t": "Tomate sobe quase 90% no Brasil e chega a R$ 14 em Santo André",
+"p": "No País, alimento acumula aumento de 89,76% em 2026, segundo o IBGE; excesso de chuvas prejudicou a produção e reduziu a oferta",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368628/tomate-sobe-quase-90-no-brasil-e-chega-a-rs-14-em-santo-andre",
 "auto": true
 },
 {
