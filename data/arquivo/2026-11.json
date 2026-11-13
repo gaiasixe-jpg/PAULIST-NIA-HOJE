@@ -3,6 +3,58 @@
 "itens": [
 {
 "d": "2026-11-13",
+"h": "03:51",
+"t": "Justiça derruba liminar e libera contratação para transporte escolar",
+"p": "O presidente do Tribunal de Justiça de São Paulo (TJ-SP), desembargador Francisco Eduardo Loureiro, suspendeu os efeitos da liminar que havia impedido a Prefeitura de Rio Preto de concluir a contratação de uma empresa para prestar serviços de transporte escolar. A decisão permite que o município dê continuidade ao…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-derruba-liminar-e-libera-contratacao-para-transporte-escolar/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "03:51",
+"t": "Prefeitura diz ter plano contra enchentes, mas documento é de 2019",
+"p": "A existência de um plano de contingência para situações de desastres naturais em Rio Preto é motivo de divergência entre a Prefeitura e a plataforma MARÉ (Monitor de Antecipação e Resposta ao El Niño). Lançada nesta quarta-feira (11), a ferramenta não localizou um documento público do município entre os planos…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-diz-ter-plano-contra-enchentes-mas-documento-e-de-2019/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "03:30",
+"t": "‘Roque Santeiro’: Roque ameaça contar verdade a prefeito e coronel, e Ninon ouve uivo do lobisomem nesta sexta (13)",
+"p": "No capítulo desta sexta-feira (13), em ‘Roque Santeiro’, o misticismo e o medo coletivo voltam a dominar as ruas de Asa Branca com acontecimentos impressionantes. Comovendo os moradores e reforçando o mito do salvador da cidade, Roque assiste ao final da romaria de um homem que fez promessa a Roque Santeiro e…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-roque-ameaca-contar-verdade-a-prefeito-e-coronel-e-ninon-ouve-uivo-do-lobisomem-nesta-sexta-13/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "03:00",
+"t": "Resumo de ‘Por Você’ desta sexta: Bela enfrenta Peixe e Pérola anuncia volta à presidência do hospital",
+"p": "No capítulo de Por Você desta sexta-feira (13/11), Bela tenta esconder o abalo causado por Vanessa, enquanto novos conflitos envolvendo Gabriel, Peixe e a guarda de Glorinha, Ítalo e Samuca movimentam a trama. Gabriel conta a Pérola sobre as falcatruas de Junqueira no hospital. Diante das revelações, Pérola anuncia…",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-sexta-bela-enfrenta-peixe-e-perola-anuncia-volta-a-presidencia-do-hospital/",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "02:30",
 "t": "Carros invadem ciclovias e transformam em terror a vida de ciclistas em SP",
 "p": "São Paulo teve 7.500 multas por estacionar ou transitar por ciclovias de janeiro a julho, mas sensação de insegurança é cada dia maior",
