@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-12T20:52:05-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-12T22:17:15-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,176 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | The read operation timed out | curl: curl: (28) Operation timed out after 60002 milliseconds with 0 bytes received\n"
 }
 ],
 "itens": [
+{
+"d": "2026-11-12",
+"h": "22:04",
+"t": "Prefeito de São Bernardo se torna réu por improbidade administrativa",
+"p": "Marcelo Lima, prefeito de São Bernardo do Campo, e outros 9 servidores recebiam propina de empresas em contratos pagos com dinheiro público",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeito-de-sao-bernardo-se-torna-reu-por-improbidade-administrativa",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "22:00",
+"t": "STJ determina inclusão do vale-transporte pago em dinheiro na base de cálculo do FGTS",
+"p": "A incidência do Fundo de Garantia do Tempo de Serviço (FGTS) sobre o vale-transporte pago em dinheiro foi pacificada pelo Superior Tribunal de Justiça (STJ). Firmado por unanimidade sob o rito dos recursos repetitivos, o entendimento da Primeira Seção da Corte vincula imediatamente as decisões de todas as…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/stj-determina-inclusao-do-vale-transporte-pago-em-dinheiro-na-base-de-calculo-do-fgts/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:30",
+"t": "Aneel propõe Tarifa Hora Certa com variação de preços conforme horário de consumo",
+"p": "A instituição de tarifas elétricas variáveis conforme a faixa de horário de consumo fundamenta a criação do modelo Tarifa Hora Certa pela Agência Nacional de Energia Elétrica (Aneel). A nova proposta regulatória prevê a inserção automática de 5,7 milhões de consumidores de baixa tensão no sistema e substitui o…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/aneel-propoe-tarifa-hora-certa-com-variacao-de-precos-conforme-horario-de-consumo/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:28",
+"t": "Governo de SP entrega condomínio Vida Longa em Mogi Guaçu para idosos em situação de vulnerabilidade",
+"p": "O Governo de São Paulo entregou nesta quinta-feira (12) um condomínio do Programa Vida Longa em Mogi Guaçu, na região de Campinas. Construído pela Companhia de Desenvolvimento Habitacional e Urbano (CDHU), em parceria com a Secretaria de Desenvolvimento Social do Estado de São Paulo (SEDS), o empreendimento é…",
+"tema": "Habitação",
+"s": "entregue",
+"c": [
+"Mogi Guaçu",
+"Campinas"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-entrega-condominio-vida-longa-em-mogi-guacu-para-idosos-em-situacao-de-vulnerabilidade/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:28",
+"t": "Governo de SP conclui recuperação da Estrada Miguel Martini e reforça infraestrutura viária em Mogi Guaçu",
+"p": "O Governo de São Paulo concluiu, por meio do Departamento de Estradas de Rodagem (DER-SP), órgão vinculado à Secretaria de Meio Ambiente, Infraestrutura e Logística (Semil), as obras de recuperação funcional da Estrada Vicinal Deputado Estadual Miguel Martini (MGG-020), em Mogi Guaçu. Com investimento de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi Guaçu"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-conclui-recuperacao-da-estrada-miguel-martini-e-reforca-infraestrutura-viaria-em-mogi-guacu/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:28",
+"t": "Governo de São Paulo oferece transporte metropolitano gratuito para estudantes no domingo (15) de Enem",
+"p": "O Governo de São Paulo, por meio da Secretaria dos Transportes Metropolitanos e da Secretaria de Parcerias em Investimentos, garantirá gratuidade no transporte público para todos os estudantes que irão realizar as provas do Exame Nacional do Ensino Médio (Enem). A medida, publicada no Diário Oficial do Estado, por…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sao-paulo-oferece-transporte-metropolitano-gratuito-para-estudantes-no-domingo-15-de-enem/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:28",
+"t": "Defesa Civil de SP envia alertas severos de Cell Broadcast e monitora ocorrências de chuvas intensas em SP",
+"p": "A Defesa Civil do Estado de São Paulo intensificou o monitoramento e o envio de avisos meteorológicos nesta quinta-feira (12), em decorrência da atuação de áreas de instabilidade que provocam chuvas fortes em diferentes regiões paulistas. Ao longo desta tarde, foram emitidos 33 alertas via SMS e 8 por meio da…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-de-sp-envia-alertas-severos-de-cell-broadcast-e-monitora-ocorrencias-de-chuvas-intensas-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:17",
+"t": "Saiu o resultado! Confira os números da Mega Sena, Quina, Lotofácil, Timemania, +Milionária e Dia de Sorte desta quinta-feira (12)",
+"p": "As Loterias da Caixa sortearam na noite quinta-feira (12) os prêmios de concursos da Quina, Lotofácil, Timemania, +Milionária e Dia de Sorte",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-quina-lotofacil-timemania-milionaria-e-dia-de-sorte-desta-quinta-feira-12/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:13",
+"t": "MP apura desvio de R$ 21 milhões em eventos esportivos na cidade de SP",
+"p": "O Ministério Público de São Paulo investiga denúncia de desvios da ordem de R$ 21 milhões em eventos esportivos na capital paulista. O órgão pediu a abertura de inquérito policial e oficiou a prefeitura, buscando informações para apurar se houve irregularidades. A denúncia partiu do vice-prefeito Ricardo Augusto de…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mp-apura-desvio-de-r-21-milhoes-em-eventos-esportivos-na-cidade-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:06",
+"t": "Vereadores aprovam reforma da Previdência dos servidores de Ribeirão Pires",
+"p": "Gestão Guto Volpi envia pacote ao Legislativo, incluindo restruturação administrativa do Imprerp",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368526/vereadores-aprovam-reforma-da-previdencia-dos-servidores-de-ribeirao-pires",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:03",
+"t": "Saiu o resultado: confira os números sorteados na Mega-Sena nesta quinta-feira, que pode pagar R$ 21 milhões",
+"p": "A Caixa Econômica Federal realizou na noite desta terça-feira (10/11) o sorteio do concurso 3085 da Mega-Sena, com um prêmio estimado em R$ 21 milhões para o apostador que acertar as seis dezenas principais. As dezenas sorteadas no concurso foram: 10-27-29-37-39-59. Além da faixa principal para quem crava as seis…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/saiu-o-resultado-confira-os-numeros-sorteados-na-mega-sena-nesta-quinta-feira-que-pode-pagar-r-21-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:01",
+"t": "Defesa Civil dispara alertas severos no celular após chuvas fortes provocarem alagamentos e desabamentos no Estado",
+"p": "A Defesa Civil do Estado de São Paulo intensificou o monitoramento climático nesta quinta-feira (12) e disparou dezenas de avisos meteorológicos à população devido à atuação de fortes áreas de instabilidade. Ao longo da tarde, o órgão estadual enviou 33 notificações por SMS e acionou oito vezes a tecnologia Cell…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-dispara-alertas-severos-no-celular-apos-chuvas-fortes-provocarem-alagamentos-e-desabamentos-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "21:00",
+"t": "Mulheres com endometriose poderão ter tratamento integral pelo SUS; projeto avança no Senado",
+"p": "A Comissão de Assuntos Sociais (CAS) do Senado aprovou, nesta quarta-feira (11/11), um projeto de lei que prevê atendimento integral e multidisciplinar para mulheres com endometriose pelo Sistema Único de Saúde (SUS). A proposta estabelece assistência desde o diagnóstico até o tratamento da doença e agora segue…",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/mulheres-com-endometriose-poderao-ter-tratamento-integral-pelo-sus-projeto-avanca-no-senado/",
+"auto": true
+},
 {
 "d": "2026-11-12",
 "h": "20:39",
@@ -65,6 +229,18 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/economia/prefeitura-no-interior-de-sp-abre-processo-seletivo-com-salarios-de-ate-r-52-mil/",
+"auto": true
+},
+{
+"d": "2026-11-12",
+"h": "20:19",
+"t": "Cidade constrói bateria térmica subterrânea com 380 milhões de litros de água para aquecer casas no inverno",
+"p": "Uma antiga pedreira na cidade de Hyvinkää, na Finlândia, está ganhando uma nova função. O local receberá 380 milhões de litros de água para armazenar energia térmica e ajudar a aquecer casas durante o inverno. A estrutura funciona como uma espécie de bateria gigante, mas, em vez de guardar eletricidade, conserva…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/cidade-constroi-bateria-termica-subterranea-com-380-milhoes-de-litros-de-agua-para-aquecer-casas-no-inverno/",
 "auto": true
 },
 {
