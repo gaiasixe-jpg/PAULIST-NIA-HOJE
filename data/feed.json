@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T10:16:25-03:00",
-"novos_nesta_coleta": 27,
+"atualizado": "2026-11-13T11:25:58-03:00",
+"novos_nesta_coleta": 34,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,418 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "11:26",
+"t": "Prefeitura de São João das Duas Pontes promove ação especial de saúde para homens na próxima terça-feira",
+"p": "A Prefeitura de São João das Duas Pontes, por meio da Secretaria Municipal de Saúde, realiza na próxima terça-feira, dia 17 de novembro, uma programação voltada aos cuidados com a saúde masculina. O atendimento especial acontecerá na Unidade Básica de Saúde (UBS) III, em horário estendido, das 17h às 20h, com o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-sao-joao-das-duas-pontes-promove-acao-especial-de-saude-para-homens-na-proxima-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:16",
+"t": "Motociclista e garupa morrem em batida frontal na Rodovia Assis Chateaubriand",
+"p": "Dois homens, de 46 e 36 anos, morreram na noite desta quinta-feira (12) após a motocicleta em que estavam colidir de frente com um automóvel no quilômetro 130 da Rodovia Assis Chateaubriand (SP-425), no trecho pertencente ao município de Olímpia (SP). De acordo com informações levantadas pela Polícia Militar…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Olímpia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motociclista-e-garupa-morrem-em-batida-frontal-na-rodovia-assis-chateaubriand/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:15",
+"t": "Brasil entra em alerta com a chegada do El Niño mais forte desde 1997 e pode enfrentar chuvas extremas, seca severa e ondas de calor",
+"p": "O El Niño de 2026 já alcançou uma intensidade considerada muito forte e se tornou o episódio mais intenso para esta época do ano desde 1997. A informação é da Administração Oceânica e Atmosférica dos Estados Unidos (NOAA, na sigla em inglês), agência responsável por monitorar as condições do Oceano Pacífico e…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/brasil-entra-em-alerta-com-a-chegada-do-el-nino-mais-forte-desde-1997-e-pode-enfrentar-chuvas-extremas-seca-severa-e-ondas-de-calor/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:13",
+"t": "Concurso Prefeitura de Corumbataí-SP 2026 é aberto com 13 vagas imediatas",
+"p": "A Prefeitura de Corumbataí, município do estado de São Paulo, anunciou o seu mais novo concurso público para provimento de 13 vagas e cadastro de reserva de profissionais de níveis fundamental, médio, técnico e superior sob o regime da Consolidação das Leis Trabalhistas (CLT). Abertura inscrições 12/11/2026 Encerra…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Corumbataí"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/concurso-prefeitura-de-corumbatai-sp-2026-e-aberto-com-13-vagas-imediatas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:13",
+"t": "Concurso Prefeitura de Bofete-SP 2026: Edital tem 8 vagas imediatas",
+"p": "Na próxima segunda-feira, dia 16 de novembro, entra em vigor o prazo de inscrição para participar do novo concurso público da Prefeitura Municipal de Bofete, estado de São Paulo. O município vai preencher 8 vagas e formar cadastro de reserva cargos de níveis fundamental, médio, técnico e superior em onze áreas da…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Bofete"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/concurso-prefeitura-de-bofete-sp-2026-edital-tem-8-vagas-imediatas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:13",
+"t": "Estoquista é preso em flagrante após invadir e furtar restaurante japonês",
+"p": "Um estoquista de 25 anos foi preso em flagrante na madrugada desta sexta-feira (13) sob suspeita de invadir e furtar um restaurante de comida japonesa localizado na região central de São José do Rio Preto. A ação criminosa foi descoberta pela central de monitoramento do estabelecimento, cujas câmeras de segurança…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estoquista-e-preso-em-flagrante-apos-invadir-e-furtar-restaurante-japones/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:12",
+"t": "Jundiaí terá mutirão para tapar cerca de 400 buracos nas ruas neste sábado (14)",
+"p": "Foto: Prefeitura de Jundiaí Mutirão ocorre após setembro e outubro registrarem volumes elevados de chuva, que contribuíram para o desgaste do pavimento.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-tera-mutirao-para-tapar-cerca-de-400-buracos-nas-ruas-neste-sabado-14/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:03",
+"t": "Conheça alternativas gratuitas ao Microsoft 365 para manter o trabalho durante a instabilidade do Outlook e do Teams",
+"p": "Os serviços da Microsoft seguem instáveis nas últimas 12 horas, o que pode afetar a rotina de quem necessita dessas ferramentas. Entre as plataformas que registram erros estão o Outlook e o Teams, além de outros recursos que englobam o Microsoft 365. Porém, existem alternativas que oferecem funções semelhantes às…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/tecnologia/conheca-alternativas-gratuitas-ao-microsoft-365-para-manter-o-trabalho-durante-a-instabilidade-do-outlook-e-do-teams/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:03",
+"t": "DPBEA faz evento com feira de adoção e vacinação gratuita neste sábado",
+"p": "Evento DPBEA de Portas Abertas terá 16 animais disponíveis para adoção, além de vacinação e microchipagem gratuita para pets da comunidade",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/dpbea-faz-evento-com-feira-de-adocao-e-vacinacao-gratuita-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:00",
+"t": "Feira de emprego oferece mais de 3 mil vagas em Guarujá neste sábado",
+"p": "Divulgação A Feira Emprega Transporte será realizada neste sábado (14), das 10h às 15h, em Guarujá, com mais de 3 mil vagas.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/feira-de-emprego-oferece-mais-de-3-mil-vagas-em-guaruja-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:00",
+"t": "Futuro da Ilha do Tatu será debatido em reunião pública em Cubatão",
+"p": "Divulgação/Prefeitura de Cubatão O futuro da Ilha do Tatu, em Cubatão, será discutido em uma reunião pública no dia 24 de novembro, das 17h às 20h, no Bloco Cultural.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/futuro-da-ilha-do-tatu-sera-debatido-em-reuniao-publica-em-cubatao/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "11:00",
+"t": "Praia Grande terá evento de adoção de cães neste sábado",
+"p": "Divulgação/Prefeitura de Praia Grande AAAPG promove, neste sábado (14), um evento de adoção de cães. A atividade será realizada das 11h às 15h, no Conviver Ocian.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/praia-grande-tera-evento-de-adocao-de-caes-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:54",
+"t": "Vice-prefeito Said Raful assume comando da Prefeitura de Suzano por 11 dias durante licença de Pedro Ishi",
+"p": "Substituição entrou em vigor à 0h desta sexta-feira (13) e seguem até o dia 23 de novembro",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/suzano/vice-prefeito-said-raful-assume-comando-da-prefeitura-de-suzano-por-11-dias-durante-licenca-de-pedro-ishi/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:54",
+"t": "Microsoft informa que Outlook, Teams e Copilot estão sendo gradualmente restaurados",
+"p": "Foto: Canva Serviços apresentam melhorias na Europa, América do Norte e Ásia, mas empresa alerta para instabilidades temporárias durante o processo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/microsoft-outlook-teams-copilot-gradualmente-restaurados/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:50",
+"t": "Poupatempo do Empreendedor de Sorocaba amplia atendimento para orientação sobre perdão de dívidas aos MEIs",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte (Semepp), com o apoio da Associação Comercial de Sorocaba (Acso), realizará, entre os dias 16 de novembro e 9 de dezembro, um plantão especial no Poupatempo do Empreendedor para orientar os…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/poupatempo-do-empreendedor-de-sorocaba-amplia-atendimento-para-orientacao-sobre-perdao-de-dividas-aos-meis/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:49",
+"t": "Precisa de atendimento? Jundiaí reúne mais de 40 serviços em um só lugar neste sábado (14)",
+"p": "Foto: Prefeitura de Jundiaí Prefeitura na Área chega ao Jardim Santa Gertrudes neste sábado (14), com mais de 40 serviços gratuitos de saúde, emprego e cidadania.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santa Gertrudes",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/prefeitura-na-area-jundiai-servicos-gratuitos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:47",
+"t": "Ana Maria Braga: “Não fique emprestando guarda-chuva pra quem só lembra de você quando chove.”",
+"p": "A generosidade é uma das virtudes mais nobres do espírito humano, mas, quando desprovida de discernimento, transforma-se rapidamente numa passarela para o abuso e a exploração. Todos nós já cruzamos com aquele tipo de conhecido ou “amigo” que desaparece durante as estações ensolaradas da nossa vida, ignorando…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/ana-maria-braga-nao-fique-emprestando-guarda-chuva-pra-quem-so-lembra-de-voce-quando-chove/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:45",
+"t": "Guarujá recebe shows de humor e peça infantil neste fim de semana; veja a programação",
+"p": "Teatro Procópio Ferreira terá apresentações de Welson Nunes, Afonso Padilha e montagem inspirada em Alice no País das Maravilhas",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/guaruja-recebe-shows-de-humor-e-peca-infantil-neste-fim-de-semana-veja-a-programacao.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:36",
+"t": "Carga se desloca e faz carreta tombar em curva da rodovia Anchieta, em Cubatão",
+"p": "Acidente ocorreu no km 43, na manhã desta sexta-feira (13), e provocou a interdição de uma das faixas por mais de duas horas, segundo a Ecovias",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sistema-anchieta-imigrantes/carga-se-desloca-e-faz-carreta-tombar-em-curva-da-rodovia-anchieta-em-cubatao.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:35",
+"t": "Advogado de Marília é reconhecido por um dos rankings jurídicos mais respeitados do mundo",
+"p": "Especialista em reestruturação empresarial integra a 17ª edição do The Best Lawyers in Brazil e inicia nova fase com um escritório que integra direito, gestão e finanças para dar mais segurança aos negócios.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/advogado-de-marilia-e-reconhecido-por-um-dos-rankings-juridicos-mais-respeitados-do-mundo/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:33",
+"t": "Fuga de cinema: 2 suspeitos de roubar turistas no Tietê acabam presos",
+"p": "Carro usado pela dupla era monitorado pela polícia por envolvimento em assaltos nas imediações do Terminal Rodoviário do Tietê",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Tietê"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/fuga-de-cinema-2-suspeitos-de-roubar-turistas-no-tiete-acabam-presos",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:31",
+"t": "Polícia Civil prende três pessoas da mesma família durante operação contra o tráfico em Itararé",
+"p": "A Polícia Civil prendeu três pessoas da mesma família durante uma operação de combate ao tráfico de drogas realizada na manhã desta sexta-feira (13), no município de Itararé (SP). A ação foi conduzida pela Delegacia de Investigações Sobre Entorpecentes (DISE) de Itapeva. A operação é resultado de investigações que…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itapeva",
+"Itararé"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/trafico-drogas-itarare/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:29",
+"t": "TCE rejeita recurso e mantém parecer desfavorável às contas de 2024 de Daniel Alonso",
+"p": "Ex-prefeito atribui problemas na Educação a liminar judicial, afirma que déficit previdenciário é histórico e diz que ainda há recursos pendentes.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tce-rejeita-recurso-e-mantem-parecer-desfavoravel-as-contas-de-2024-de-daniel-alonso/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:28",
+"t": "Presidente do HCFamema é alvo de inquérito por suspeita de sobreposição de jornadas",
+"p": "Investigação apura supostas irregularidades em registros de frequência no hospital, na Famar e em clínica particular; Conselho Superior manteve apuração.",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/presidente-do-hcfamema-e-alvo-de-inquerito-por-suspeita-de-sobreposicao-de-jornadas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:26",
+"t": "Consultório Veterinário Móvel estará no Jardim Betânia na próxima semana",
+"p": "O Consultório Veterinário Móvel atenderá, na próxima semana, nos dias 16, 17 e 19 de novembro, das 8h30 às 14h, cães e gatos de tutores de Sorocaba no CEI-112 “Professora Izabel dos Santos Pereira”, localizado na Avenida Betsaida, 75, no Jardim Betânia. As vagas são limitadas e as inscrições devem ser feitas pelo…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/consultorio-veterinario-movel-estara-no-jardim-betania-na-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:25",
+"t": "Mogi das Cruzes anuncia ampliação de serviços funerários com abertura de quatro velórios municipais",
+"p": "Velórios serão instalados em Jundiapeba, Taiaçupeba, César de Souza e Sabaúna",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/mogi-das-cruzes-anuncia-ampliacao-de-servicos-funerarios-com-abertura-de-quatro-velorios-municipais/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:23",
+"t": "Silvio Santos fez previsão durante programa do SBT sobre o futuro da Havan e chocou Luciano Hang 8 anos depois",
+"p": "Prestes a inaugurar a 200ª loja da Havan neste sábado (14), o empresário Luciano Hang recordou que o próprio Silvio Santos previu esse marco há 8 anos. Falecido em 2024, o famoso ‘Dono do Baú’ chegou a entrevistar Hang algumas vezes, mas essa vez em específico ele disse algo visto como “profético”. Na época, a […]",
+"tema": "Geral",
+"s": "entregue",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/silvio-santos-fez-previsao-durante-programa-do-sbt-sobre-o-futuro-da-havan-e-chocou-luciano-hang-8-anos-depois/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:19",
+"t": "Comissão do Senado aprova vacina contra herpes-zóster no SUS; projeto vai à Câmara",
+"p": "Divulgação/Prefeitura de Itanhaém A Comissão de Assuntos Sociais do Senado confirmou na quarta-feira (11) a adoção, em caráter definitivo do substituto",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/comissao-do-senado-aprova-vacina-contra-herpes-zoster-no-sus-projeto-vai-a-camara/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:17",
+"t": "Funcionários da Kalunga são baleados ao saírem do trabalho em Santos",
+"p": "Vítimas foram encaminhadas para a UPA Central e a Santa Casa da cidade; uma delas, atingida no tórax, passou por cirurgia",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/funcionarios-da-kalunga-sao-baleados-ao-sairem-do-trabalho-em-santos.html",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "10:09",
+"t": "Tesouro Nacional vira alvo de ataque hacker que expõe 4 mil chaves Pix e dados de cerca de 30 mil cadastros",
+"p": "Um ataque hacker ao Tesouro Nacional expôs cerca de 4 mil chaves Pix de beneficiários de pagamentos do governo federal e informações pessoais de aproximadamente 30 mil cadastros. A Secretaria do Tesouro Nacional detectou o acesso indevido em 4 de novembro e divulgou o caso na noite de quinta-feira (12). O ataque…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/tesouro-nacional-vira-alvo-de-ataque-hacker-que-expoe-4-mil-chaves-pix-e-dados-de-cerca-de-30-mil-cadastros/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "10:04",
@@ -789,6 +1201,20 @@
 },
 {
 "d": "2026-11-13",
+"h": "06:35",
+"t": "Outlook, Teams e Copilot fora do ar: o que se sabe sobre a falha global da Microsoft",
+"p": "Instabilidade ultrapassa 12 horas nesta sexta-feira (13) e afeta usuários do Outlook e outros serviços no mundo todo; Microsoft descarta ataque hacker e aponta carga elevada nos servidores",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/outlook-teams-copilot-fora-do-ar-o-que-se-sabe-sobre-a-falha-global-da-microsoft/",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "06:03",
 "t": "Fernandópolis representa o interior paulista em Mostra Nacional de Saúde Bucal no Rio de Janeiro",
 "p": "O município de Fernandópolis integra o seleto grupo de sete cidades do estado de São Paulo escolhidas para apresentar suas práticas de sucesso na Mostra Nacional de Saúde Bucal: Brasil Sorridente. O evento, promovido pelo Ministério da Saúde em parceria com a Organização Pan-Americana da Saúde (OPAS), foi realizado…",
@@ -1054,6 +1480,48 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/a-fazenda-18-murilo-dias-e-o-oitavo-eliminado-do-programa-e-retorno-de-peoa-choca-todo-o-elenco/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "00:00",
+"t": "Prudente é reconhecida pelo trabalho no esporte nos Prêmios Conexões Cref4/SP e Absmel",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67750",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "00:00",
+"t": "Semepp terá fim de semana movimentado com atletas em competições e jogos decisivos",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67749",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "00:00",
+"t": "UVZ faz plantão para leishmaniose e vacinação antirrábica neste sábado, no Jardim Leonor",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67748",
 "auto": true
 },
 {
