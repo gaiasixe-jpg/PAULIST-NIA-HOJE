@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T19:51:35-03:00",
-"novos_nesta_coleta": 19,
+"atualizado": "2026-11-13T20:47:24-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,109 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "The read operation timed out | HTTP Error 503: Service Unavailable | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "20:38",
+"t": "Temporal em Santa Isabel causa alagamentos, abertura de cratera e danos em escolas",
+"p": "Município registrou 63mm de chuva em cerca de 20 minutos nesta quinta-feira (12)",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Santa Isabel"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/temporal-em-santa-isabel-causa-alagamentos-abertura-de-cratera-e-danos-em-escolas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "20:07",
+"t": "Parque da Represa: Votuporanga se prepara para ganhar um novo cartão-postal",
+"p": "Projeto da Prefeitura prevê a transformação do entorno da Represa Municipal em um amplo espaço de lazer, convivência, esporte e contato com a natureza. Votuporanga está se preparando para ganhar um novo espaço de lazer, convivência e contemplação da natureza. A Prefeitura trabalha no projeto de implantação do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/parque-da-represa-votuporanga-se-prepara-para-ganhar-um-novo-cartao-postal/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "20:06",
+"t": "Câmara vota financiamento de R$ 28 milhões, mudanças no Plano Diretor e pedido de cassação de Daniel David",
+"p": "A 41ª Sessão Ordinária ocorre na segunda-feira (16), às 18h, no Plenário “Dr. Octávio Viscardi” e terá na pauta projetos de impacto para o município, homenagem ao governador Tarcísio de Freitas (Republicanos) e a leitura de representação que pede a cassação do presidente da Câmara. Jorge Honorio…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/camara-vota-financiamento-de-r-28-milhoes-mudancas-no-plano-diretor-e-pedido-de-cassacao-de-daniel-david/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "20:00",
+"t": "Número de vítimas em incêndio de fábrica no interior de SP sobe para 12",
+"p": "Prefeitura de Salto atualizou as informações do incêndio em fábrica de tintas e confirmou que não há registro de óbitos até o momento",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Salto"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/numero-de-vitimas-em-incendio-de-fabrica-no-interior-de-sp-sobe",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "20:00",
+"t": "Mulher é presa por série de furtos em centro comercial de Santos",
+"p": "Divulgação/Polícia Civil A mulher presa teria cometido diversos furtos em um estabelecimento comercial localizado no bairro Gonzaga.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-baixada/mulher-e-presa-por-serie-de-furtos-em-centro-comercial-de-santos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "20:00",
+"t": "Veja o que funciona em cada posto da orla de Santos e como participar",
+"p": "Reprodução/Prefeitura de Santos Quem nunca passeou pela orla de Santos e pensou o que estava acontecendo em cima dos postos vermelhos que têm em todos os canais.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-baixada/veja-o-que-funciona-em-cada-posto-da-orla-de-santos-e-como-participar/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "19:55",
+"t": "Mutirão contra a dengue mobiliza equipes no bairro São João neste sábado",
+"p": "Agentes de saúde visitarão imóveis das 7h às 13h para eliminar criadouros do mosquito e orientar moradores. O município já registra 556 casos confirmados de dengue em 2026. A Prefeitura de Votuporanga, por meio da Secretaria Municipal da Saúde, realiza neste sábado (14.nov), das 7h às 13h, um mutirão de combate à…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mutirao-contra-a-dengue-mobiliza-equipes-no-bairro-sao-joao-neste-sabado/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "19:50",
