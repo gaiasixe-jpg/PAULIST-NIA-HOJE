@@ -3,6 +3,46 @@
 "itens": [
 {
 "d": "2026-11-13",
+"h": "02:30",
+"t": "Carros invadem ciclovias e transformam em terror a vida de ciclistas em SP",
+"p": "São Paulo teve 7.500 multas por estacionar ou transitar por ciclovias de janeiro a julho, mas sensação de insegurança é cada dia maior",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/carros-invadem-ciclovias-e-transformam-em-terror-a-vida-de-ciclistas-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "02:15",
+"t": "Baratas, brigas e sujeira: moradias da Vila Reencontro são alvo de críticas",
+"p": "Parte da rede socioassistencial de São Paulo, Vila Reencontro oferece moradia transitória para a população em situação de rua",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/baratas-brigas-e-sujeira-moradias-da-vila-reencontro-sao-alvo-de-criticas",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "02:05",
+"t": "Gustavo Mioto, Dia do Quadrinho e Festa do Imigrante: o fim de semana em SP",
+"p": "Programação de São Paulo tem show de Gustavo Mioto, Revelando SP, Festival de Culturas Negras, Festa do Imigrante, Quadrinhos e mais",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/gustavo-mioto-festa-imigrante-sp",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "00:43",
 "t": "Prefeitura diz ter plano contra enchentes, mas documento é de 2019",
 "p": "Levantamento da MARÉ não identificou plano de contingência do município entre os documentos públicos consultados",
