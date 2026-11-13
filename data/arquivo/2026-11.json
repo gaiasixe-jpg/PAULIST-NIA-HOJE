@@ -3,6 +3,129 @@
 "itens": [
 {
 "d": "2026-11-13",
+"h": "06:02",
+"t": "Escolas municipais de Fernandópolis promovem palestras sobre combate ao bullying e segurança digital",
+"p": "A Prefeitura de Fernandópolis, por meio de uma parceria entre as secretarias municipais de Saúde e de Educação, intensificou nesta semana as ações educativas voltadas à conscientização dos alunos da rede pública. Na terça-feira (10), estudantes de diferentes faixas etárias participaram de palestras sobre respeito…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/escolas-municipais-de-fernandopolis-promovem-palestras-sobre-combate-ao-bullying-e-seguranca-digital/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "06:01",
+"t": "Região concentra 81,5% das autuações ambientais nos primeiros 12 dias da Piracema",
+"p": "A região de São José do Rio Preto concentrou 81,5% de todas as multas aplicadas pela Polícia Militar Ambiental no estado de São Paulo durante os primeiros doze dias do período de Piracema, iniciado em 1º de novembro. De acordo com o balanço divulgado pela corporação, dos 195 autos de infração lavrados em território…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/regiao-concentra-815-das-autuacoes-ambientais-nos-primeiros-12-dias-da-piracema/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Governo de SP pagará R$ 357 milhões em bônus inédito a 123 mil profissionais da educação em dezembro",
+"p": "A Secretaria da Educação do Estado de São Paulo (Seduc-SP) realizará no dia 15 de dezembro o pagamento de R$ 357,6 milhões em bonificações para cerca de 123 mil profissionais da rede estadual de ensino, com base nos resultados obtidos no Sistema de Avaliação da Educação Básica (Saeb) de 2025. O valor médio estimado…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-pagara-r-357-milhoes-em-bonus-inedito-a-123-mil-profissionais-da-educacao-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Saúde de SP alerta para alta de casos de Covid-19 e reforça importância da vacinação",
+"p": "Diante de um crescimento gradual nos registros de covid-19 e nas internações em unidades de terapia intensiva (UTIs) observado nas últimas semanas, a Secretaria de Estado da Saúde de São Paulo (SES-SP) faz um alerta à população para a importância de manter a caderneta de vacinação em dia. Só em 2026, o estado…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/saude-de-sp-alerta-para-alta-de-casos-de-covid-19-e-reforca-importancia-da-vacinacao/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "05:03",
+"t": "‘Por Você’: Pérola encurrala Vanessa por golpes no hospital e Lucas recebe ameaça na escola no capítulo de sábado (14)",
+"p": "Neste sábado (14), em Por Você, o talento e a superação tomam conta dos palcos da comunidade. Superando o preconceito e as dúvidas, Ítalo sobe ao tablado e faz sua apresentação na audição da academia Dança em Movimento, arrancando aplausos entusiasmados. Orgulhosos da coragem do menino, Bela, Lucas, Margô e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-perola-encurrala-vanessa-por-golpes-no-hospital-e-lucas-recebe-ameaca-na-escola-no-capitulo-de-sabado-14/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "05:00",
+"t": "Confira a previsão do tempo para Marília nesta sexta-feira (13/11)",
+"p": "Dia começa com possibilidade de chuva, mas terá predomínio de sol entre nuvens durante a tarde.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-sexta-feira-13-11/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "05:00",
+"t": "MP abre inquérito para apurar abandono do Espaço Cultural em Marília",
+"p": "MP-SP busca esclarecer a deterioração do imóvel, a indefinição sobre a propriedade e a falta de prazo para as obras; Prefeitura terá 30 dias para prestar informações.",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/mp-abre-inquerito-para-apurar-abandono-do-espaco-cultural-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "05:00",
+"t": "PM prende procurado pela Justiça por três crimes em Alvinlândia",
+"p": "Procurado foi capturado pela PM em Alvinlândia Ação da PM durante a Operação Impacto resultou na captura de um indivíduo após mandado de prisão expedido pela Justiça de Garça.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Alvinlândia",
+"Garça"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/pm-prende-procurado-pela-justica-por-tres-crimes-em-alvinlandia/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "05:00",
+"t": "Bicicletas roubadas são recuperadas e Kombi irregular é apreendida em Santos",
+"p": "Carlos Nogueira/Divulgação Prefeitura de Santos Duas bicicletas e um utilitário foram apreendidos nesta quarta-feira (11) durante uma operação da Rotam, em Santos.",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-baixada/bicicletas-roubadas-sao-recuperadas-e-kombi-irregular-e-apreendida-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "03:51",
 "t": "Justiça derruba liminar e libera contratação para transporte escolar",
 "p": "O presidente do Tribunal de Justiça de São Paulo (TJ-SP), desembargador Francisco Eduardo Loureiro, suspendeu os efeitos da liminar que havia impedido a Prefeitura de Rio Preto de concluir a contratação de uma empresa para prestar serviços de transporte escolar. A decisão permite que o município dê continuidade ao…",
