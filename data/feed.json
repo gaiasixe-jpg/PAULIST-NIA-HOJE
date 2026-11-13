@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-13T17:58:24-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-13T18:53:53-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +50,216 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "18:51",
+"t": "Votuporanga recebe dois reconhecimentos estaduais na área de HIV e saúde materno-infantil",
+"p": "Município foi contemplado com o Prêmio Luiza Matida e recebeu reconhecimento Prata no Programa de Qualificação de Boas Práticas em HIV/Aids 2026. A Secretaria da Saúde da Prefeitura de Votuporanga recebeu dois importantes reconhecimentos estaduais neste ano que destacam o trabalho desenvolvido pelo município na…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/votuporanga-recebe-dois-reconhecimentos-estaduais-na-area-de-hiv-e-saude-materno-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:51",
+"t": "Prefeitura de Sorocaba realiza operação tapa-buracos neste fim de semana (14 e 15 de novembro)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Serviços Públicos e Obras (Serpo) realizará, neste sábado (14) e domingo (15), uma operação de tapa–buracos por diversos pontos da cidade, mais especificamente nas regiões Zorte, Oeste e Centro. A previsão é de início de trabalho às 7h. A operação mobilizará 11…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-realiza-operacao-tapa-buracos-neste-fim-de-semana-14-e-15-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:43",
+"t": "Médicos de 47 unidades de saúde da zona sul aprovam estado de greve",
+"p": "Médicos de Santo Amaro e de Cidade Ademar aprovam estado de greve contra ameaça de demissões em massa, redução salarial a pejotização",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/medicos-de-47-unidades-de-saude-da-zona-sul-aprovam-estado-de-greve",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:40",
+"t": "Família Kennedy vai à Justiça contra ‘Arco do Triunfo’ de 76 metros planejado por Trump por receio de que obra prejudique vista do túmulo de John F. Kennedy",
+"p": "Família Kennedy entra na Justiça contra arco de Trump de 76 metros, que pode prejudicar a visibilidade de túmulos históricos em Arlington.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/familia-kennedy-vai-a-justica-contra-arco-do-triunfo-de-76-metros-planejado-por-trump-por-receio-de-que-obra-prejudique-vista-do-tumulo-de-john-f-kennedy/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:39",
+"t": "Buracos nas ruas de Campinas: veja se seu bairro está entre os 38 que terão tapa-buracos na próxima semana",
+"p": "Buracos nas ruas provocam prejuízos aos motoristas; Avenida Ruy Rodrigues também está na programação de manutenção a partir de segunda-feira (16)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/buracos-nas-ruas-de-campinas-veja-se-seu-bairro-esta-entre-os-38-que-terao-tapa-buracos-na-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:36",
+"t": "Estado de São Paulo está em alerta para temporais neste domingo (15/11)",
+"p": "Rajadas de vento podem chegar a 70 km/h na faixa oeste do estado de São Paulo, e existe possibilidade de chuva de granizo em algumas regiões",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/estado-de-sao-paulo-esta-em-alerta-para-temporais-neste-domingo-15-11",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:30",
+"t": "Villa de Natal chega ao Jockey Club com Casa do Papai Noel e espetáculos em SP",
+"p": "A Villa de Natal São Paulo chega à terceira edição em 2026 com uma novidade: pela primeira vez, o evento será realizado no Jockey Club de São Paulo. A programação acontece de 27 de novembro a 23 de dezembro e reúne atrações como Casa do Papai Noel, espetáculos teatrais, apresentações culturais, gastronomia e…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/villa-de-natal-chega-ao-jockey-club-com-casa-do-papai-noel-e-espetaculos-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:29",
+"t": "Megaobra de R$ 13,8 bilhões cava o túnel subaquático mais longo e profundo do mundo com 27 km de extensão e rotatória gigante a 260 metros sob o oceano",
+"p": "A Noruega está construindo o túnel rodoviário subaquático mais longo e profundo do planeta. Batizada de Rogfast, a megaestrutura terá 27 quilômetros de extensão e chegará a 392 metros abaixo do nível do mar. A obra corta o leito marinho na costa oeste do país e deve ser inaugurada em 2033. Orçado em 25 bilhões […]",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/megaobra-de-r-138-bilhoes-cava-o-tunel-subaquatico-mais-longo-e-profundo-do-mundo/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:19",
+"t": "Marília ganha Smart Urba Canaã, bairro planejado com investimento de R$ 40 milhões",
+"p": "{\"tiktok_developers_3p_anchor_params\":\"{\"deeplink_extra\":\"{\\\"enter_from\\\":\\\"new_image\\\",\\\"scene\\\":\\\"image_edit\\\"}\",\"appVersion\":\"20.0.0\",\"os\":\"ios\",\"editType\":\"image_edit\",\"source_platform\":\"mobile_1\",\"enterFrom\":\"new_image\",\"capability_name\":\"capcut_photo_editor\",\"source_type\":\"vicut\",\"product\":\"vicut\",\"pictureId\":…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/conteudopatrocinado/marilia-ganha-smart-urba-canaa-bairro-planejado-com-investimento-de-r-40-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:18",
+"t": "Covid-19 sobe em 18 estados, mas risco segue baixo; veja qual variante predomina no Brasil e quem pode se vacinar gratuitamente no SUS",
+"p": "A covid-19 voltou a apresentar aumento de casos leves em diferentes regiões do Brasil. Nas últimas seis semanas monitoradas, 18 unidades da Federação registraram crescimento das infecções, segundo o Ministério da Saúde. Apesar da alta, o cenário nacional permanece classificado como de baixo risco. Os casos graves e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/covid-19-sobe-em-18-estados-mas-risco-segue-baixo-veja-qual-variante-predomina-no-brasil-e-quem-pode-se-vacinar-gratuitamente-no-sus/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:15",
+"t": "Camarão-louva-a-deus desfere golpe de até 80 km/h e possui olhos capazes de detectar luz invisível aos humanos, intrigando cientistas",
+"p": "Um pequeno animal marinho reúne habilidades que parecem desafiar os limites da natureza. Conhecido como camarão-louva-a-deus, o crustáceo consegue desferir golpes com velocidades próximas de 80 km/h e possui um dos sistemas visuais mais complexos do reino animal. Apesar do tamanho relativamente pequeno, algumas…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/camarao-louva-a-deus-desfere-golpe-de-ate-80-km-h-e-possui-olhos-capazes-de-detectar-luz-invisivel-aos-humanos-intrigando-cientistas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:13",
+"t": "Suspeito de mandar matar corretora por seguro de vida é preso",
+"p": "Jean Paulo Ruotolo de Alcantara apresentou-se à Polícia Civil nesta sexta-feira (13); ele era considerado foragido e é apontado como mandante do crime",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/suspeito-de-mandar-matar-corretora-por-seguro-de-vida-e-preso/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:09",
+"t": "GCM apreende adolescente por tráfico de drogas no Jardim Nova Esperança",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba apreendeu um adolescente de 16 anos de idade, na noite de quinta-feira (12), por ato infracional de tráfico de drogas, no Jardim Nova Esperança, Zona Oeste da cidade. Na ocorrência, foram apreendidas 75 porções de entorpecentes e R$ 42 em dinheiro. Durante patrulhamento…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-adolescente-por-trafico-de-drogas-no-jardim-nova-esperanca/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:01",
+"t": "Mogi das Cruzes: Cemforpe é totalmente interditado após chuvas danificarem o telhado do auditório",
+"p": "A Prefeitura informou que o forro do auditório acabou cedendo e o telhado ainda apresenta grande concentração de água",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-cemforpe-e-totalmente-interditado-apos-chuvas-danificarem-o-telhado-do-auditorio/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "18:00",
+"t": "Encontro em Diadema promove acolhimento e apoio a famílias de pessoas autistas",
+"p": "Iniciativa da Associação Mães de Autistas Diadema e da Unifesp terá palestra sobre saúde mental, atividades de autocuidado e espaço infantil",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368700/encontro-em-diadema-promove-acolhimento-e-apoio-a-familias-de-pessoas-autistas",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:58",
+"t": "\"Eu faria a mesma coisa\", diz Mello Araújo sobre fuga de Flávio aos EUA",
+"p": "Vice-prefeito de SP defendeu que Flávio Bolsonaro deve ser investigado, mas que não seja julgado pelo ministro Alexandre de Moraes do STF",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/eu-faria-a-mesma-coisa-diz-mello-araujo-sobre-fuga-de-flavio-aos-eua",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "17:56",
@@ -126,6 +330,18 @@
 },
 {
 "d": "2026-11-13",
+"h": "17:45",
+"t": "Tornados, granizo e downburst: INMET explica por que a primavera vira fábrica de tempestade e como o El Niño já está atuando nas catástrofes recentes no Brasil",
+"p": "O INMET explica que o El Niño aumenta a chuva no Sul e cria ambiente favorável a tempestades severas, mas não provoca tornados de forma direta. Calor, umidade, mecanismo de levantamento e cisalhamento do vento formam a receita do temporal. Os avisos têm três níveis de severidade.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/tornados-granizo-e-downburst-inmet-explica-por-que-a-primavera-vira-fabrica-de-tempestade-e-como-o-el-nino-ja-esta-atuando-nas-catastrofes-recentes-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "17:32",
 "t": "Confira a agenda do ‘Médico na Praça’ da próxima semana",
 "p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), segue com o “Médico na Praça”. O atendimento iniciará a semana, na segunda-feira (16), das 9h às 13h, próximo a área de transferência de ônibus, no Jardim Santa Cecília. Na terça-feira (17), das 14h às 18h, o veículo volta ao Jardim Santa Cecília, na […]",
@@ -136,6 +352,21 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/confira-a-agenda-do-medico-na-praca-da-proxima-semana-4/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:30",
+"t": "Leilão tem Mercedes-Benz, máquinas e até 8 mil sucatas com lances on-line",
+"p": "A Prefeitura de Praia Grande, no litoral de São Paulo, realizará um leilão público on-line com 14 lotes de veículos, máquinas, equipamentos e outros bens considerados inservíveis para a Administração Municipal. O certame está marcado para sexta-feira (27/11), às 10h, e será realizado pela internet. Entre os itens…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande",
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/leilao-tem-mercedes-benz-maquinas-e-ate-8-mil-sucatas-com-lances-on-line/",
 "auto": true
 },
 {
@@ -166,6 +397,20 @@
 },
 {
 "d": "2026-11-13",
+"h": "17:15",
+"t": "Após um ano e meio fechado para reforma de R$ 9 milhões, Aquário Municipal de Santos tem reabertura prevista para dezembro e ganha nova cenografia imersiva",
+"p": "O Aquário Municipal de Santos vai reabrir as portas após um ano e meio fechado para reformas. Em vídeo nas redes sociais, o prefeito Rogério Santos mostrou os corredores renovados e confirmou a volta em dezembro. A revitalização já alcançou 89% de execução total. Inicialmente, a administração municipal planejava…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/santos/aquario-municipal-de-santos-tem-reabertura-prevista-para-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "17:07",
 "t": "Vai chover no domingo? Defesa Civil alerta para temporais e granizo em todo o Estado",
 "p": "Previsão do tempo indica pancadas de chuva com raios e possibilidade de queda de granizo em pontos isolados do Estado; confira alerta da Defesa Civil",
@@ -190,6 +435,32 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/conteudo-patrocinado/grupo-komedi/teatro-interativo-leva-educacao-sobre-o-transito-para-criancas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "17:00",
+"t": "Chuvas deixam 26 desalojados em SP e provocam estragos em dez cidades",
+"p": "As fortes chuvas que atingiram o estado de São Paulo entre quinta-feira (12/11) e sexta-feira (13/11) deixaram 26 pessoas desalojadas, uma desabrigada e uma ferida, segundo balanço da Defesa Civil estadual. Foram registradas dez ocorrências em dez municípios, sem mortes ou desaparecidos. No Vale do Ribeira, o órgão…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Ribeira"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/chuvas-deixam-26-desalojados-em-sp-e-provocam-estragos-em-dez-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "16:58",
+"t": "Faxina malfeita dentro de casa inspirou empresária a criar rede apostando em treinamento e perfume exclusivo que já fatura R$ 42 milhões; conheça a história",
+"p": "Uma faxina que não saiu como esperado levou a empresária paraibana Jéssica Ramalho a abrir mais um negócio. Ao contratar o serviço para casa, ela ficou insatisfeita e descobriu que a profissional nunca teve treinamento. Como já comandava a rede de cuidadores Acuidar, Jéssica decidiu levar sua experiência de gestão…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/faxina-malfeita-dentro-de-casa-inspirou-empresaria-a-criar-rede-apostando-em-treinamento-e-perfume/",
 "auto": true
 },
 {
@@ -342,6 +613,18 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/motociclista-e-garupa-morrem-apos-batida-de-frente-em-rodovia-de-olimpia/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "16:45",
+"t": "Funcionária que recebia comida em balde e era pressionada a ir a atos políticos será indenizada por danos morais",
+"p": "Justiça reconheceu práticas abusivas contra auxiliar de enfermagem pressionada a ir a reuniões políticas e submetida a condições precárias",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/funcionaria-que-recebia-comida-em-balde-e-era-pressionada-a-ir-a-atos-politicos-sera-indenizada-por-danos-morais/",
 "auto": true
 },
 {
