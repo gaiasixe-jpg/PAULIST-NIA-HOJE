@@ -3,6 +3,187 @@
 "itens": [
 {
 "d": "2026-11-13",
+"h": "14:50",
+"t": "Incêndio em Salto: prefeito pede à população que só vá ao PS se for urgente",
+"p": "Incêndio em indústria química deixa ao menos nove feridos. Fogo começou na manhã nesta sexta-feira (13/11)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Salto"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/incendio-em-salto-prefeito-pede-a-populacao-que-so-va-ao-ps-se-for-urgente",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:46",
+"t": "Bloco Afro Kekerê pode se tornar Patrimônio Cultural Imaterial de Jundiaí",
+"p": "Bloco Afro Kekerê foi realizado na Avenida União dos Ferroviários Com 10 anos de história, ritmo e celebração da ancestralidade, o \"Bloco da Paz\" aguarda votação histórica na Câmara Municipal",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/bloco-afro-kekere-patrimonio-cultural-imaterial-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:45",
+"t": "São Paulo é cobrado na Justiça por dívida de contratação “gratuita”",
+"p": "Crédito: Rubens Chiri/São Paulo FC A empresa solicitou o bonoquieio dos valores recebidos pelo São Paulo junto à Ticketmaster",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-e-cobrado-na-justica-por-divida-de-contratacao-gratuita/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:45",
+"t": "Apoio aéreo ajuda Polícia Civil a prender dois suspeitos de envolvimento em roubos",
+"p": "Dois homens suspeitos de cometer assaltos nas imediações dos terminais rodoviários do Tietê, na zona norte, e da Barra Funda, na zona oeste de São Paulo, foram detidos nesta sexta-feira (13) durante uma operação integrada da Polícia Civil. A ação contou com o suporte estratégico do helicóptero Pelicano, responsável…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo",
+"Tietê"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/apoio-aereo-ajuda-policia-civil-a-prender-dois-suspeitos-de-envolvimento-em-roubos/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:33",
+"t": "Chuva ganha força e estado de São Paulo recebe alerta para tempestade; veja previsão",
+"p": "Há previsão de intensificação das chuvas no domimgo (15), segundo a Climatempo",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-ganha-forca-e-estado-de-sao-paulo-recebe-alerta-para-tempestade-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:25",
+"t": "Unifef abre processo seletivo para cadastro reserva de professores de Fonoaudiologia",
+"p": "O Centro Universitário de Fernandópolis (Unifef) abriu um processo seletivo para a formação de cadastro reserva de docentes destinados ao Centro de Ciências da Saúde e Qualidade de Vida da instituição. Regulamentada pelo Edital nº 23/2026, a oportunidade é voltada especificamente para profissionais interessados em…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/unifef-abre-processo-seletivo-para-cadastro-reserva-de-professores-de-fonoaudiologia/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:23",
+"t": "Píton de 2 metros aparece em banheiro de funcionários do Taj Mahal durante temporada de turistas e mobiliza equipe especializada para resgate",
+"p": ". Créditos: Times Of India Uma píton-indiana de cerca de 2,1 metros foi encontrada em um banheiro de seguranças do Taj Mahal, na Índia, e resgatada por especialistas sem deixar feridos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/piton-de-2-metros-aparece-em-banheiro-de-funcionarios-do-taj-mahal-durante-temporada-de-turistas-e-mobiliza-equipe-especializada-para-resgate/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:23",
+"t": "TJ determina reabertura de acesso à comunidade Campo Alegre em Valentim Gentil",
+"p": "O Tribunal de Justiça do Estado de São Paulo (TJSP) concedeu uma decisão liminar em segunda instância que obriga o Departamento de Estradas de Rodagem (DER/SP) a reabrir o acesso à comunidade rural Campo Alegre, em Valentim Gentil (SP). A determinação exige a retirada imediata das defensas metálicas instaladas na…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Valentim Gentil"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tj-determina-reabertura-de-acesso-a-comunidade-campo-alegre-em-valentim-gentil/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:19",
+"t": "Atividades físicas nas UBSs de Sorocaba beneficiam saúde física e mental de pessoas idosas",
+"p": "Programa favorece a prevenção de doenças crônicas e a autonomia dos participantes A Prefeitura de Sorocaba oferece atividades físicas voltadas a pessoas idosas em suas Unidades Básicas de Saúde (UBSs), que movimentam participantes em diferentes bairros da cidade. Mais do que os benefícios ao corpo, como a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/atividades-fisicas-nas-ubss-de-sorocaba-beneficiam-saude-fisica-e-mental-de-pessoas-idosas/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:10",
+"t": "\"Se houver recurso irá ao plenário\", diz Gilmar Mendes sobre 2º turno no RJ",
+"p": "Ministro do STF, Gilmar Mendes participou nesta sexta-feira (13/11) no IDP Debates em SP e comentou sobre as eleições no Rio de Janeiro",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/se-houver-recurso-ira-ao-plenario-diz-gilmar-mendes-sobre-2o-turno-no-rj",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:08",
+"t": "Em meio à crise na PF, Gilmar diz confiar no \"discernimento\" de Andrei",
+"p": "Gilmar Mendes, ministro do STF, afirmou durante evento em São Paulo nesta sexta-feira (13/11) que confia na Polícia Federal (PF)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/em-meio-a-crise-na-pf-gilmar-diz-confiar-no-discernimento-de-andrei",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:02",
+"t": "Justiça suspende eleição on-line de Conselhos Participativos de São Paulo",
+"p": "Juíza determinou nessa quinta-feira (12/11), a suspensão da votação on-line para os Conselhos Participativos da capital paulista",
+"tema": "Eleições",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-suspende-eleicao-on-line-de-conselhos-participativos-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "14:01",
+"t": "Soluções para as cidades são foco do segundo dia do Fomenta 2026",
+"p": "Segurança, sustentabilidade e crédito foram temas discutidos no encontro; evento recebeu ontem o governador do Estado",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/conteudo-patrocinado/amppesp/solucoes-para-as-cidades-sao-foco-do-segundo-dia-do-fomenta-2026/",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "13:56",
 "t": "Inmet emite alerta de tempestade para região durante o fim de semana",
 "p": "Aviso amarelo prevê chuva intensa, ventos de até 60 km/h e possibilidade de granizo, principalmente no domingo (15)",
