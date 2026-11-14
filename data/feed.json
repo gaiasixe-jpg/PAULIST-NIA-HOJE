@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-13T20:47:24-03:00",
-"novos_nesta_coleta": 7,
+"atualizado": "2026-11-13T22:09:09-03:00",
+"novos_nesta_coleta": 8,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,112 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "The read operation timed out | HTTP Error 503: Service Unavailable | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "21:43",
+"t": "Casa em Dia: CDHU inicia plantões de atendimento na Região de Sorocaba",
+"p": "A Companhia de Desenvolvimento Habitacional e Urbano (CDHU) inicia plantões de atendimento da campanha Casa em Dia em Avaré, Cerqueira César e São Miguel Arcanjo, na Região Administrativa de Sorocaba. Nos locais de atendimento, os mutuários poderão esclarecer dúvidas sobre seus contratos habitacionais e conhecer as…",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"São Miguel Arcanjo",
+"Cerqueira César",
+"Sorocaba",
+"Avaré"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/casa-em-dia-cdhu-inicia-plantoes-de-atendimento-na-regiao-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "21:43",
+"t": "Previsão do tempo para sábado (14), em SP: instabilidades diminuem",
+"p": "Neste sábado, dia 14, as instabilidades diminuem e as chuvas passam a ocorrer de forma mais ocasional na maior parte do Estado. No entanto, o dia ainda será marcado por bastante presença de nebulosidade especialmente nas metades leste e sul paulista. No centro-oeste e noroeste do Estado, o calor predomina e voltam…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/previsao-do-tempo-para-sabado-14-em-sp-instabilidades-diminuem/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "21:43",
+"t": "Previsão do tempo para domingo (15), em SP: instabilidades aumentam",
+"p": "Neste domingo, dia 15, as instabilidades aumentam em todo o Estado devido à influência de um cavado meteorológico e do corredor de umidade da Amazônia. A chuva passa a ocorrer de forma mais generalizada, na forma de pancadas de chuva típicas de verão, mas que podem ter moderada a forte intensidade, além de raios,…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/previsao-do-tempo-para-domingo-15-em-sp-instabilidades-aumentam/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "21:12",
+"t": "Com investimento de R$ 100 milhões, fábrica gaúcha de doces amplia estrutura e mira produção de 300 toneladas diárias",
+"p": "Uma fábrica de doces do Rio Grande do Sul está ampliando sua estrutura para aumentar a produção. A Docile, instalada em Lajeado, recebeu um novo pavilhão de 5 mil metros quadrados, que será destinado à armazenagem de produtos e deve liberar espaço dentro da unidade industrial para a instalação de novos…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/com-investimento-de-r-100-milhoes-fabrica-gaucha-de-doces-amplia-estrutura-e-mira-producao-de-300-toneladas-diarias/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "21:09",
+"t": "Lotofácil e Quina pagarão, juntas, R$ 12,9 milhões nos sorteios desta sexta-feira das Loterias Caixa; veja os números",
+"p": "A Caixa Econômica Federal sorteou na noite desta sexta-feira (13/11) as dezenas dos concurso 7.167 da Quina, acumulado em R$ 10,9 milhões, e 3829 da Lotofácil, que poderá pagar R$ 2 milhões. Confira os números: Quina:05-09-25-39-69. Lotofácil Como apostar na Lotofácil A Lotofácil é uma modalidade simples das…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/lotofacil-e-quina-pagarao-juntas-r-129-milhoes-nos-sorteios-desta-sexta-feira-das-loterias-caixa-veja-os-numeros/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "21:01",
+"t": "Cola no Provão Paulista: USP, Unesp e Unicamp pedem reunião com o governo",
+"p": "USP, Unesp e Unicamp se preocupam com o registro de cola e uso de IA durante a aplicação do Provão Paulista de 2026",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cola-no-provao-paulista-usp-unesp-e-unicamp-pedem-reuniao-com-o-governo",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "20:53",
+"t": "Motoristas são avisados pelo WhatsApp sobre pedágio atrasado e podem evitar multa de R$ 195 e cinco pontos na CNH até segunda (16)",
+"p": "Motoristas com tarifas de pedágio eletrônico em atraso começaram a receber alertas do governo federal pelo WhatsApp. As mensagens informam sobre a possibilidade de regularizar os débitos e evitar uma multa de R$ 195,23, além de cinco pontos na Carteira Nacional de Habilitação (CNH). O Ministério dos Transportes…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/motoristas-sao-avisados-pelo-whatsapp-sobre-pedagio-atrasado-e-podem-evitar-multa-de-r-195-e-cinco-pontos-na-cnh-ate-segunda-16/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "20:50",
+"t": "Aeroporto de Guarulhos recebe alerta de segurança do Centro de Comando de Aviação dos EUA",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarulhos"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368767/aeroporto-de-guarulhos-recebe-alerta-de-seguranca-do-centro-de-comando-de-aviacao-dos-eua",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "20:38",
