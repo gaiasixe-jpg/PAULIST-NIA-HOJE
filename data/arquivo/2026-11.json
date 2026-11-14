@@ -2,6 +2,54 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-14",
+"h": "02:30",
+"t": "O que dizem os artefatos arqueológicos achados em obra da Linha 6-Laranja",
+"p": "Construção da estação 14-Bis/Saracura foi paralisada após descobertas revelarem detalhes sobre quilombo e terreiro na região do Bixiga",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/o-que-dizem-os-artefatos-arqueologicos-achados-em-obra-da-linha-6-laranja",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "02:20",
+"t": "\"Like é voto\": como famosos perderam espaço para os influencers políticos",
+"p": "Substituição do \"político-celebridade\" por parlamentares mais consolidados nas mídias digitais atesta impacto das redes sociais nas eleições",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/like-e-voto-como-famosos-perderam-espaco-para-os-influencers-politicos",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "02:15",
+"t": "Coren vê indícios de negligência em hospital investigado por morte de bebês",
+"p": "Coren realizou nova inspeção no Hospital Salvalus, investigado após mortes suspeitas de bebês, e identificou necessidades de adequações",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/coren-ve-indicios-de-negligencia-em-hospital-investigado-por-morte-de-bebes",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "02:00",
+"t": "Resumo de ‘Por Você’ deste sábado: Ítalo enfrenta audição e Lucas recebe alerta sobre ameaça na escola",
+"p": "O capítulo de Por Você deste sábado (14/11) terá momentos decisivos para Ítalo, Lucas e Vanessa. Ítalo se apresenta na audição da academia Dança em Movimento, enquanto Lucas encontra um bilhete anônimo com um alerta sobre uma grave ameaça na escola. Na academia, Ítalo participa da audição e, depois, recebe os…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-deste-sabado-italo-enfrenta-audicao-e-lucas-recebe-alerta-sobre-ameaca-na-escola/",
+"auto": true
+},
+{
 "d": "2026-11-13",
 "h": "23:44",
 "t": "Morador ajudou ladrões em assalto com refém em condomínio de Higienópolis",
