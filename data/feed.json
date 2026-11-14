@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-14T10:57:09-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-14T11:50:31-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,90 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "11:38",
+"t": "Adolescente de 15 anos morre em acidente com quadriciclo em Ribeirão Preto",
+"p": "Outro adolescente, da mesma idade, ficou ferido e foi levado para um hospital em Bonfim Paulista; Polícia Civil investiga como o veículo foi entregue aos menores",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/adolescente-15-anos-morre-em-acidente-com-quadriciclo-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "11:33",
+"t": "Jovem morre após caminhonete capotar em rodovia no interior de SP",
+"p": "Jovem morreu após caminhonete capotar na SP-310 em Mirassol (SP) Arquivo pessoal Um homem de 20 anos morreu após a caminhonete em que ele estava capotar na Rodovia Washington Luís (SP-310) em Mirassol (SP) na madrugada deste sábado (14). Segundo a Polícia Rodoviária Estadual, o acidente ocorreu no quilômetro…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mirassol"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/jovem-morre-apos-caminhonete-capotar-em-rodovia-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "11:28",
+"t": "Smart Sampa: polícia abre investigação contra GCM suspeito de vazar dados",
+"p": "Logins e senhas de acesso a um dos maiores programas de monitoramento de São Paulo foram vazados na internet; guarda foi afastado",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/smart-sampa-policia-abre-investigacao-contra-gcm-suspeito-de-vazar-dados",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "11:19",
+"t": "Concurso Câmara de Paraíso do Tocantins-TO lança edital com 14 vagas imediatas",
+"p": "A Câmara Municipal de Paraíso do Tocantins, no Estado do Tocantins, publicou o edital nº 01/2026 de seu novo concurso público. A seleção oferece 14 vagas imediatas para candidatos com ensino fundamental, médio, técnico e superior, além de formação de cadastro reserva. Os salários variam de R$ 1.923,73 a R$…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Paraíso"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/concurso-camara-de-paraiso-do-tocantins-to-lanca-edital-com-14-vagas-imediatas/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "11:10",
+"t": "Jovem denuncia ameaças e pede medida protetiva contra colega em Marília",
+"p": "Caso está sendo investigado pela Polícia Civil de Marília Jovem relatou à Polícia Civil o recebimento de mensagens com xingamentos e intimidações, com o caso registrado como ameaça e injúria.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/jovem-denuncia-ameacas-e-pede-medida-protetiva-contra-colega-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "11:02",
+"t": "Diabetes pode afetar dentes e gengivas: saiba como prevenir problemas",
+"p": "O diabetes é uma doença crônica que exige atenção a diferentes aspectos da saúde, incluindo aqueles que nem sempre são associados à condição, como a saúde bucal. Pessoas com a condição podem apresentar maior risco de desenvolver problemas na gengiva, cáries, boca seca e infecções, especialmente quando os níveis de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/diabetes-pode-afetar-dentes-e-gengivas-saiba-como-prevenir-problemas/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "10:31",
@@ -76,6 +166,35 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/prefeitura-de-sao-jose-dos-campos-tira-do-papel-a-segunda-fase-da-linha-verde-com-edital-de-r-272-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:30",
+"t": "Taka inspira Gilvan, e Santo André vai instituir programa de voluntários",
+"p": "Transforma Diadema vai ganhar uma versão em Santo André ainda no primeiro semestre",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo André",
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368809/taka-inspira-gilvan-e-santo-andre-vai-instituir-programa-de-voluntarios",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:21",
+"t": "Aposta de São Bernardo ganha R$ 2,8 milhões na Lotomania",
+"p": "Bilhete acertou as 20 números do concurso 2.999; outras apostas do Grande ABC também foram premiadas",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368808/aposta-de-sao-bernardo-ganha-rs-2-8-milhoes-na-lotomania",
 "auto": true
 },
 {
@@ -547,6 +666,20 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4368793/morador-de-sao-bernardo-constroi-carreira-com-maquiagens-realistas-de-personagens-e-figuras-famosas",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "06:55",
+"t": "Suspeito de atirar em gerente da Kalunga por ciúmes em Santos é preso",
+"p": "Divulgação/Polícia Civil Investigação aponta que crime foi motivado por ciúmes e que gerente era o alvo dos quatro disparos.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/suspeito-de-atirar-em-gerente-da-kalunga-por-ciumes-e-preso-em-santos/",
 "auto": true
 },
 {
