@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-14T08:47:08-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-14T09:58:19-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,159 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "09:49",
+"t": "Bombeiros de SP trabalham em rescaldo de incêndio em fábrica de produtos químicos em Salto",
+"p": "O Corpo de Bombeiros do Estado de São Paulo mantém, neste sábado (14), o trabalho de combate e rescaldo a incêndio em uma fábrica de produtos químicos localizada na Rodovia SP-73 (Estrada Velha Indaiatuba-Campinas), em Salto, no interior paulista. A operação já soma mais de 20 horas de atendimento à ocorrência, com…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Salto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/bombeiros-de-sp-trabalham-em-rescaldo-de-incendio-em-fabrica-de-produtos-quimicos-em-salto/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:42",
+"t": "Homem é preso após desviar R$ 45 mil dos pais com mais de 80 anos",
+"p": "Este não é o primeiro crime praticado pelo suspeito, que estava impedido pela Justiça de se aproximar dos pais devido a conflitos anteriores",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-e-preso-apos-desviar-r-45-mil-dos-pais-com-mais-de-80-anos",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:39",
+"t": "Festa de Nossa Senhora da Escada começa neste domingo (15) em Guararema",
+"p": "Programação inclui missas, quermesse, atrações musicais e procissão fluvial pelo Rio Paraíba do Sul",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guararema"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/festa-de-nossa-senhora-da-escada-comeca-neste-domingo-15-em-guararema/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:35",
+"t": "Sesc inaugura unidade neste sábado e eleva o patamar cultural de Marília",
+"p": "Vista da piscina do Sesc voltada para Marília O Sesc Marília será inaugurado oficialmente neste fim de semana, nos dias 14 e 15 de novembro, com uma programação que reúne mais de 80 atrações gratuitas para públicos de diferentes idades. A nova unidade, instalada na rua Antônio Galina, 75, no Jardim Portal do Sol, é…",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/sesc-inaugura-unidade-neste-sabado-e-eleva-o-patamar-cultural-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:33",
+"t": "Negritude Júnior e duplas sertanejas se apresentam em festival gratuito; veja programação",
+"p": "Festival com show do Negritude Júnior acontece no dia 5 de dezembro, no Parque Industrial, com atrações musicais, food trucks, espaço kids e arrecadação de alimentos",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/negritude-junior-e-duplas-sertanejas-se-apresentam-em-festival-gratuito-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:14",
+"t": "Após concluir rede de água, DAE Jundiaí avança com obras de esgoto no Fumachi",
+"p": "Foto: DAE Jundiaí Intervenção prevê a instalação de 900 metros de tubulação e investimento de R$ 227 mil para atender cerca de 80 famílias",
+"tema": "Saneamento",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/dae-obras-rede-esgoto-fumachi-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:11",
+"t": "Resultado do Dia de Sorte 1347: prêmio acumula e Mês da Sorte é abril",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA O concurso não teve ganhador com sete acertos; 31 apostas fizeram seis pontos e ganharam R$ 2.263,54.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-dia-de-sorte-concurso-1347/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:00",
+"t": "Calor aumenta no interior de SP neste sábado, com máxima de 30 °C; veja previsão do tempo",
+"p": "Dia deve ter sol entre nuvens e baixa probabilidade de chuva; instabilidades voltam a ganhar força no domingo (15), com previsão de pancadas durante a tarde",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/calor-aumenta-em-campinas-neste-sabado-com-maxima-de-30-c-veja-previsao-do-tempo/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:00",
+"t": "Campinas terá oito novos ônibus no BRT Campo Grande a partir de dezembro",
+"p": "Veja os bairros de Campinas que terão tapa-buracos a partir de segunda-feira A programação divulgada pela Secretaria de Serviços Públicos contempla os seguintes bairros: Castelo Branco; Conjunto Habitacional Padre Anchieta; Jardim Carlos Lourenço; Jardim das Bandeiras II; Jardim Flamboyant; Jardim Itatiaia; Jardim…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tera-oito-novos-onibus-no-brt-campo-grande-a-partir-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:00",
+"t": "Deputada de Campinas, Eduarda Campopiano recebe homenagem na Câmara do Rio e é alvo de críticas",
+"p": "Homenagem à deputada campineira, Eduarda Campopiano, foi aprovada pela Câmara do Rio de Janeiro e provocou críticas de vereadores e mobilização de abaixo-assinado pela revogação da honraria",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/deputada-de-campinas-eduarda-campopiano-recebe-homenagem-na-camara-do-rio-e-e-alvo-de-criticas/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "08:45",
+"t": "Frase do dia da Filosofia: “Existem ambientes de trabalho em que não importa o quanto você se dedique, sempre haverá alguém cobrando mais.”",
+"p": "A cultura corporativa contemporânea, muitas vezes envenenada pela obsessão desmedida por produtividade tóxica, criou uma dinâmica de exploração disfarçada de “vestir a camisa”. Nesses ambientes, o esforço extraordinário deixa de ser um reconhecimento pontual para se transformar na nova linha de base obrigatória.…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/frase-do-dia-da-filosofia-existem-ambientes-de-trabalho-em-que-nao-importa-o-quanto-voce-se-dedique-sempre-havera-alguem-cobrando-mais/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "08:40",
@@ -65,6 +212,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/vinicius-discute-implantacao-de-centro-tea-paulista-com-secretario-estadual/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "08:40",
+"t": "Festival Literário de São Vicente reúne escritores e estudantes em segundo dia de programação",
+"p": "Evento na Vila Histórica teve encontros com autores, lançamentos de livros e atividades de incentivo à leitura; programação gratuita termina neste sábado (14)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/festival-literario-de-sao-vicente-reune-escritores-e-estudantes-em-segundo-dia-de-programacao.html",
 "auto": true
 },
 {
