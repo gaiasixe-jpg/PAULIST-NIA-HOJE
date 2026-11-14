@@ -3,6 +3,72 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "18:42",
+"t": "Jovem de 19 anos morre após capotamento de caminhonete na Rodovia Washington Luís em Mirassol",
+"p": "Um jovem de 19 anos, identificado como Logan Eduardo de Brito, morreu na madrugada deste sábado (14) após o capotamento de uma caminhonete na Rodovia Washington Luís (SP-310), no trecho de Mirassol (SP). Ele estava no banco dianteiro do passageiro no momento do acidente e não resistiu à gravidade dos ferimentos. De…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Mirassol"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jovem-de-19-anos-morre-apos-capotamento-de-caminhonete-na-rodovia-washington-luis-em-mirassol/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "18:20",
+"t": "Anvisa manda recolher queijo fatiado após detectar bactéria que pode causar infecção grave; veja como identificar o lote contaminado",
+"p": "Quem comprou queijo muçarela fatiado da marca Italy precisa conferir a embalagem antes de consumir o produto. A Agência Nacional de Vigilância Sanitária (Anvisa) suspendeu a venda e o consumo de um lote após identificar uma bactéria que pode provocar infecção alimentar. A determinação foi publicada nesta…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/anvisa-manda-recolher-queijo-fatiado-apos-detectar-bacteria-que-pode-causar-infeccao-grave-veja-como-identificar-o-lote-contaminado/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "18:00",
+"t": "Financiamento da casa própria pode ficar mais caro com reajuste estudado pela Caixa",
+"p": "A Caixa Econômica Federal estuda aumentar as taxas de juros do financiamento imobiliário, após Bradesco, Itaú e Santander anunciarem reajustes no fim de outubro. A possibilidade foi confirmada pela vice-presidente de Habitação do banco, Inês Magalhães, durante a apresentação dos resultados do terceiro trimestre de…",
+"tema": "Habitação",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/financiamento-da-casa-propria-pode-ficar-mais-caro-com-reajuste-estudado-pela-caixa/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "18:00",
+"t": "Contratações para empregos formais chegam a quase 55,4 mil em setembro na região de Campinas",
+"p": "Setor de Serviços e Comércio lidera com o maior número de admissões; saldo final ficou positivo em 3.889 vagas, segundo o Novo Caged",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/contratacoes-para-empregos-formais-chegam-a-quase-554-mil-em-setembro-na-regiao-de-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "18:00",
+"t": "Festival Rango de Rua reúne gastronomia e atrações culturais em Santos",
+"p": "Carlos Nogueira Quinta edição do evento começou neste sábado (14) e continua neste domingo (15), com programação para crianças, aulas de dança e DJs.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/gastronomia/festival-rango-de-rua-reune-gastronomia-e-atracoes-culturais-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "17:43",
 "t": "Feriado de 15 de novembro terá atrações culturais e espaços com funcionamento diferenciado em Jundiaí",
 "p": "Foto: Prefeitura de Jundiaí Feriado da Proclamação da República terá programação cultural na Fábrica de Infâncias Japy e no Teatro Polytheama, além de horários especiais em equipamentos municipais",
