@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-14T09:58:19-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-14T10:57:09-03:00",
+"novos_nesta_coleta": 8,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,103 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "10:31",
+"t": "Prefeitura de Piracicaba abre vagas para estágio em mais de 50 cursos; veja como participar",
+"p": "Inscrições para o estágio são gratuitas e seguem até 23 de novembro; seleção contempla estudantes do ensino médio, técnico e superior, com bolsas de até R$ 1,6 mil",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Piracicaba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/prefeitura-de-piracicaba-abre-processo-seletivo-para-estagio-em-mais-de-50-cursos-veja-como-participar/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:30",
+"t": "Prefeitura de São José dos Campos tira do papel a segunda fase da Linha Verde com edital de R$ 272 milhões",
+"p": "Projeção da Linha Verde em São José dos Campos",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/prefeitura-de-sao-jose-dos-campos-tira-do-papel-a-segunda-fase-da-linha-verde-com-edital-de-r-272-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:07",
+"t": "Santos recebe festival gratuito com feira de mais de 60 marcas e atrações culturais",
+"p": "Santos recebe, até 15 de novembro, a terceira edição do Festival Transformar, evento gratuito que reúne cultura, educação, gastronomia, arte e sustentabilidade. A programação ocupa diferentes espaços da cidade e inclui oficinas, apresentações culturais e uma feira com mais de 60 marcas de economia criativa e…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/santos/santos-recebe-festival-gratuito-com-feira-de-mais-de-60-marcas-e-atracoes-culturais/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:04",
+"t": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo",
+"p": "A Mega-Sena sorteia neste domingo (15) prêmio estimado em R$ 27 milhões. As seis dezenas do concurso 3.086 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até as 22h (horário de Brasília) de sábado (14), em qualquer lotérica do país ou pela…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-27-milhoes-neste-domingo",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:04",
+"t": "PM captura condenado por estupro e encontra arma irregular em Marília",
+"p": "Homem de 61 anos tinha mandado de prisão expedido pela Justiça; apreensão de revólver resultou em segundo procedimento criminal.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/pm-captura-condenado-por-estupro-e-encontra-arma-irregular-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:00",
+"t": "Faça um tour: conheça a fazenda do Pelé, avaliada em R$ 35 milhões",
+"p": "Uma fazenda que pertenceu a Edson Arantes do Nascimento, o Pelé, por 38 anos está à venda por R$ 35 milhões em Juquiá, no Vale do Ribeira, interior de São Paulo. Conhecida como Sítio Sossego, a propriedade foi um dos investimentos imobiliários do Rei do Futebol e serviu como refúgio pessoal durante décadas.…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeira",
+"Juquiá"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/faca-um-tour-conheca-a-fazenda-do-pele-avaliada-em-r-35-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:00",
+"t": "Caminhão carregado com entulho tomba e provoca congestionamento na Dutra, em São José dos Campos",
+"p": "Tombamento no km 144 provocou seis quilômetros de congestionamento; motorista relatou dores no peito, mas recusou atendimento hospitalar",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/caminhao-carregado-com-entulho-tomba-e-provoca-congestionamento-na-dutra-em-sao-jose-dos-campos.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "09:49",
 "t": "Bombeiros de SP trabalham em rescaldo de incêndio em fábrica de produtos químicos em Salto",
 "p": "O Corpo de Bombeiros do Estado de São Paulo mantém, neste sábado (14), o trabalho de combate e rescaldo a incêndio em uma fábrica de produtos químicos localizada na Rodovia SP-73 (Estrada Velha Indaiatuba-Campinas), em Salto, no interior paulista. A operação já soma mais de 20 horas de atendimento à ocorrência, com…",
@@ -62,6 +159,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/bombeiros-de-sp-trabalham-em-rescaldo-de-incendio-em-fabrica-de-produtos-quimicos-em-salto/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "09:45",
+"t": "Chuva forte ganha força no sul e avança pelo centro-sul com risco de temporais e granizo",
+"p": "A instabilidade atmosférica ganha força expressiva na Região Sul e avança com intensidade sobre o Centro-Sul do Brasil. A atuação de um cavado meteorológico intensifica a formação de nuvens carregadas. Alerta para temporais isolados O avanço da umidade vinda do norte da Argentina e do Paraguai estimula temporais…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/chuva-forte-ganha-forca-no-sul-e-avanca-pelo-centro-sul-com-risco-de-temporais-e-granizo/",
 "auto": true
 },
 {
