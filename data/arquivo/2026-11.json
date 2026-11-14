@@ -3,6 +3,18 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "19:41",
+"t": "De modelo econômico perto de R$ 2 mil a versão com ozônio que higieniza sem água, veja 5 lava e seca que valem a pena acompanhar na Black Friday",
+"p": "A Black Friday surge como uma excelente oportunidade para trocar a máquina tradicional por uma lava e seca moderna. Esse eletrodoméstico economiza espaço na lavanderia e dispensa a necessidade de estender roupas no varal. Dependendo da versão escolhida, o aparelho oferece recursos inteligentes e ciclos especiais…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/tecnologia/5-lava-e-seca-que-valem-a-pena-acompanhar-na-black-friday/",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "19:21",
 "t": "Com espetáculo gratuito e grande árvore no piso térreo, shopping de Santos abre temporada de Natal e divulga horários do Papai Noel; veja fotos",
 "p": "O Miramar Shopping abriu oficialmente sua temporada natalina neste sábado (14) em Santos. Localizado no bairro Gonzaga, o centro comercial recebeu o público a partir das 18h para celebrar a data. A programação gratuita marcou a chegada do Papai Noel e apresentou o espetáculo temático Sinfonia de Natal. Como mostram…",
@@ -40,6 +52,22 @@
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/famosa-parada-de-natal-fecha-avenidas-da-orla-de-santos-neste-domingo-e-muda-trajetos-de-onibus-veja-horarios-e-desvios/",
 "auto": true
+},
+{
+"d": "2026-11-14",
+"h": "19:00",
+"t": "Cadeiras e guarda-sóis de aluguel em Ilhabela terão novas regras; entenda o que muda nas praias",
+"p": "A Prefeitura de Ilhabela, no litoral norte de São Paulo, proibiu comerciantes e ambulantes de reservar espaços nas praias com cadeiras, guarda-sóis e mini mesas antes da chegada dos banhistas. A montagem dos equipamentos só poderá ocorrer após a solicitação dos usuários, conforme decreto assinado pelo prefeito…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Paulo",
+"Ilhabela"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/cadeiras-e-guarda-sois-de-aluguel-em-ilhabela-terao-novas-regras-entenda-o-que-muda-nas-praias/",
+"auto": true,
+"org": "Prefeitura"
 },
 {
 "d": "2026-11-14",
