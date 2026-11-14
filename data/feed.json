@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-14T16:48:46-03:00",
-"novos_nesta_coleta": 6,
+"atualizado": "2026-11-14T17:46:17-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,86 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "17:43",
+"t": "Feriado de 15 de novembro terá atrações culturais e espaços com funcionamento diferenciado em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Feriado da Proclamação da República terá programação cultural na Fábrica de Infâncias Japy e no Teatro Polytheama, além de horários especiais em equipamentos municipais",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/feriado-15-de-novembro-jundiai-atracoes-culturais/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "17:20",
+"t": "Governo abre consulta pública sobre calor extremo; saiba como participar",
+"p": "Foto: PraewBlackWhile/Canva População pode enviar propostas até 23 de novembro na plataforma Brasil Participativo para ajudar a estruturar o plano nacional de resfriamento urbano",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/governo-consulta-publica-calor-extremo-brasil-participativo/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "17:20",
+"t": "Colisão trava rodovia em Itanhaém e deixa motociclista morto; motorista fugiu",
+"p": "Acidente no km 318 envolveu um veículo esportivo na manhã deste sábado (14); polícia busca imagens de câmeras para identificar o motorista",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/colisao-trava-rodovia-em-itanhaem-e-deixa-motociclista-morto-motorista-fugiu.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "17:06",
+"t": "Polícia Civil de SP localiza e prende na Bahia foragido de mega esquema de fraudes eletrônicas e lavagem de dinheiro",
+"p": "A Polícia Civil do Estado de São Paulo efetuou a prisão, na última quinta-feira (12), de um dos investigados considerados foragidos no âmbito da Operação Cineris, que desarticulou uma rede criminosa especializada em fraudes eletrônicas e lavagem de dinheiro. A captura do suspeito ocorreu em uma residência…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-de-sp-localiza-e-prende-na-bahia-foragido-de-mega-esquema-de-fraudes-eletronicas-e-lavagem-de-dinheiro/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "17:00",
+"t": "Morre aos 54 anos o sargento aposentado da PM Alessandro Graciano, em Votuporanga",
+"p": "Policial militar foi encontrado sem vida em seu apartamento na Avenida Antônio Augusto Paes; causa da morte ainda não foi divulgada Faleceu entre a noite de sexta-feira (13) e a madrugada deste sábado (14), em Votuporanga, o 3º Sargento aposentado da Polícia Militar Alessandro Renato Graciano, de 54 anos. Segundo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/morre-aos-54-anos-o-sargento-aposentado-da-pm-alessandro-graciano-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "16:32",
+"t": "Pais podem pagar multa se permitirem que filhos menores de 15 anos usem bicicletas elétricas; veja o que prevê o projeto",
+"p": "Crianças e adolescentes que utilizam bicicletas elétricas para ir à escola, passear ou se deslocar pelas cidades poderão enfrentar novas restrições. Um projeto de lei em análise no Congresso Nacional pretende estabelecer idade mínima de 15 anos para conduzir esses veículos em vias públicas. A proposta também prevê…",
+"tema": "Educação",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/pais-podem-pagar-multa-se-permitirem-que-filhos-menores-de-15-anos-usem-bicicletas-eletricas-veja-o-que-preve-o-projeto/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "16:21",
@@ -114,6 +194,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/operacao-tapa-buracos-atende-mais-de-30-ruas-neste-sabado-14/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "16:03",
+"t": "São Bernardo garante apoio financeiro a 100 formados pelo Tiro de Guerra",
+"p": "Programa municipal assegurou bolsa mensal de R$ 150 aos jovens durante o período de formação, totalizando R$ 135 mil em investimentos em 2026",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368851/sao-bernardo-garante-apoio-financeiro-a-100-formados-pelo-tiro-de-guerra",
 "auto": true
 },
 {
