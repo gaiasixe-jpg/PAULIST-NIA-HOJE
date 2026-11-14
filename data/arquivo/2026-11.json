@@ -3,6 +3,119 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "08:40",
+"t": "Vinicius discute implantação de Centro TEA Paulista com secretário estadual",
+"p": "Secretário executivo dos Direitos da Pessoa com Deficiência visitou o Paço Municipal e a Amei.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vinicius-discute-implantacao-de-centro-tea-paulista-com-secretario-estadual/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "08:27",
+"t": "Homem morre baleado após esfaquear policial em distrito de Lupércio",
+"p": "Policiais militares prenderam suspeito em flagrante por violência doméstica Caso ocorreu no distrito de Santa Terezinha e policial militar ferido foi encaminhado ao Hospital das Clínicas de Marília.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Lupércio",
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-morre-baleado-apos-esfaquear-policial-em-distrito-de-lupercio/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "08:23",
+"t": "Veja o tempo de espera pela balsa de Ilhabela na manhã deste sábado (14)",
+"p": "Serviço registra tempo padrão de espera em ambos os lados e tempo parcialmente nublado; sete embarcações estão em operação",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/balsas/ilhabela/veja-o-tempo-de-espera-pela-balsa-de-ilhabela-na-manha-deste-sabado-14.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "08:15",
+"t": "Prefeitura de Marília intensifica limpeza e manutenção de espaços públicos",
+"p": "Equipes atuam nas quatro regiões da cidade com retirada de entulhos, podas de árvores e pintura de guias.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-de-marilia-intensifica-limpeza-e-manutencao-de-espacos-publicos/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "08:11",
+"t": "Jovem de 20 anos passa 184 dias em suporte pulmonar, deixa o hospital sem ventilador e segue para reabilitação após homenagem de quem cuidou dela",
+"p": "Créditos: Reprodução/Instagram Jovem de 20 anos deixou o Baptist Hospital, na Flórida, após 184 dias em ECMO, a permanência mais longa com o equipamento na história da unidade.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/jovem-de-20-anos-passa-184-dias-em-suporte-pulmonar-deixa-o-hospital-sem-ventilador-e-segue-para-reabilitacao-apos-homenagem-de-quem-cuidou-dela/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "08:05",
+"t": "Obituário | Falecimentos registrados neste sábado (14/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região neste sábado, dia 14 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-sabado-14-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "07:58",
+"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste sábado (14)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-sabado-14.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "07:49",
+"t": "Saúde realiza ação contra dengue neste sábado na zona norte de Marília",
+"p": "Trabalho será realizado neste sábado (14), na área da USF Vila Nova, após confirmação de caso na região.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/saude-realiza-acao-contra-dengue-neste-sabado-na-zona-norte-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "07:47",
 "t": "Prefeitura abre vagas gratuitas em 22 modalidades esportivas em Marília",
 "p": "Projeto Social Esportivo oferece atividades para crianças, jovens, adultos e idosos em diferentes regiões da cidade.",
@@ -13,6 +126,21 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/esportes/prefeitura-abre-vagas-gratuitas-em-22-modalidades-esportivas-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "07:40",
+"t": "Mulher espera mais de 3 anos por atendimento para prótese de quadril pelo SUS, tem pedido negado na Justiça e consegue reverter decisão em São Paulo",
+"p": "Em acórdão divulgado em 13 de novembro de 2026, às 17h51 pelo Consultor Jurídico, a 6ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, por unanimidade, reformou sentença da 3ª Vara Cível de Atibaia (SP) e determinou que o município providencie a avaliação da autora por especialista em…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo",
+"Atibaia"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/mulher-espera-mais-de-3-anos-por-atendimento-para-protese-de-quadril-pelo-sus-tem-pedido-negado-na-justica-e-consegue-reverter-decisao-em-sao-paulo/",
 "auto": true
 },
 {
