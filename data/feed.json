@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-14T04:09:11-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-14T05:10:00-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,48 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "05:00",
+"t": "Evento une caminhada e música eletrônica na avenida das Esmeraldas",
+"p": "Participantes poderão caminhar ou correr ao som de DJ ao vivo; programação continua na Praça da Emdurb até as 17h30.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/evento-une-caminhada-e-musica-eletronica-na-avenida-das-esmeraldas/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "04:58",
+"t": "Procurado pela Justiça é baleado enquanto trabalhava em oficina mecânica",
+"p": "Um homem de 29 anos, contra quem havia um mandado de prisão em aberto, foi vítima de uma tentativa de homicídio na tarde desta sexta-feira (13) em São José do Rio Preto, no interior de São Paulo. O crime ocorreu enquanto ele exercia suas atividades em uma oficina mecânica localizada no bairro Jardim Jéssica, onde […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/procurado-pela-justica-e-baleado-enquanto-trabalhava-em-oficina-mecanica-2/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "04:14",
+"t": "Acirp diz que não foi consultada sobre instalação de barreiras no Calçadão",
+"p": "A Associação Comercial e Empresarial de Rio Preto (Acirp) afirmou, nesta sexta-feira (13), que não foi consultada pela Prefeitura antes da instalação de barreiras de concreto para impedir a circulação de veículos no Calçadão da região central. Em nota assinada pelo presidente da entidade, Jean Daher, a associação…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/acirp-diz-que-nao-foi-consultada-sobre-instalacao-de-barreiras-no-calcadao/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "02:30",
