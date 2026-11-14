@@ -3,6 +3,86 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "16:21",
+"t": "Jovem morre em acidente na Washington Luís, próximo a Mirassol",
+"p": "Um jovem de 20 anos morreu na madrugada deste sábado (14) após a caminhonete em que estava capotar na rodovia Washington Luís (SP-310), próximo a Mirassol. Outro ocupante do veículo não ficou ferido. As causas do acidente serão investigadas. De acordo com a Polícia Rodoviária Estadual (PRE), a caminhonete trafegava…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/jovem-morre-em-acidente-na-washington-luis-proximo-a-mirassol/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "16:21",
+"t": "Mulher morre em acidente na BR-153, próximo a Nova Granada",
+"p": "Uma mulher morreu e uma criança ficou gravemente ferida em um acidente registrado na manhã deste sábado (14), na rodovia BR-153, próximo a Nova Granada. A colisão envolveu um carro e um caminhão. As circunstâncias do acidente serão investigadas. De acordo com a Polícia Rodoviária Federal (PRF), a motorista do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Nova Granada"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-morre-em-acidente-na-br-153-proximo-a-nova-granada/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "16:21",
+"t": "Adolescente é apreendido em Rio Preto com arma de fogo em Rio Preto",
+"p": "O revólver calibre 38 foi encontrado próximo a uma árvore no bairro Nova Esperança. Jovem afirmou que guardava o armamento para um desconhecido. Um adolescente, de 15 anos, foi apreendido pela Polícia Militar após dispensar uma arma de fogo ao perceber a aproximação de uma viatura, na madrugada deste sábado(14), no…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/adolescente-e-apreendido-em-rio-preto-com-arma-de-fogo-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "16:14",
+"t": "Rodovia Padre Manoel da Nóbrega registra tráfego normal na tarde deste sábado (14)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-registra-trafego-normal-na-tarde-deste-sabado-14.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "16:06",
+"t": "Operação tapa-buracos atende mais de 30 ruas neste sábado (14)",
+"p": "Fotos: Michelle Alves – Secom A Prefeitura de Sorocaba atendeu, neste sábado (14), dezenas de ruas em vários bairros da cidade, durante a mega operação tapa-buraco da Secretaria de Serviços Públicos e Obras (Serpo). A ação teve início às 7h e segue até este domingo (15). Para execução dos serviços, a secretaria…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/operacao-tapa-buracos-atende-mais-de-30-ruas-neste-sabado-14/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "16:00",
+"t": "Obras na rodovia Padre Manoel da Nóbrega terão novos desvios em Itanhaém",
+"p": "Tráfego será direcionado para as marginais a partir de segunda-feira (16), no km 333,5; intervenções na rodovia afetam outras três cidades do litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/obras-na-rodovia-padre-manoel-da-nobrega-terao-novos-desvios-em-itanhaem.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "15:51",
 "t": "Estudo do Instituto Butantan revela detalhes inéditos do poliomavírus Malawi detectado em crianças no Brasil",
 "p": "Uma pesquisa do Instituto Butantan publicada na revista Nature Communications apresenta pela primeira vez uma caracterização abrangente do poliomavírus Malawi em amostras respiratórias de crianças no Estado de São Paulo, em um estudo inédito no Brasil e na América Latina. Um estudo anterior realizado durante o pico…",
