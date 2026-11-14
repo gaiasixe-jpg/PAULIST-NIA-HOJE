@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-14T12:47:28-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-14T13:48:14-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,195 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "13:46",
+"t": "Vereador Carlos Cabral presta homenagem aos 88 anos de fundação do bairro Brasilândia",
+"p": "O vereador Carlos Cabral divulgou em suas redes sociais uma mensagem comemorativa em celebração aos 88 anos do bairro Brasilândia, um dos núcleos históricos mais tradicionais de Fernandópolis. Por meio de um vídeo publicado na internet, o parlamentar resgatou a memória da fundação do antigo patrimônio, ocorrida em…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vereador-carlos-cabral-presta-homenagem-aos-88-anos-de-fundacao-do-bairro-brasilandia/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:41",
+"t": "Bondinho do Taquaral está parado há quase quatro anos; entenda por que passeio não voltou",
+"p": "Tradicional passeio de bondinho está suspenso após queda de eucaliptos danificar a rede elétrica; Prefeitura prevê investimento de R$ 1,7 milhão para recuperar o veículo e a estrutura",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Taquaral"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/bondinho-do-taquaral-esta-parado-ha-quase-quatro-anos-entenda-por-que-passeio-nao-voltou/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:36",
+"t": "Rodovia Oswaldo Cruz registra tráfego intenso no sentido Ubatuba neste sábado (14)",
+"p": "Fluxo é intenso no sentido Ubatuba e normal em direção a Taubaté; tempo está bom, mas serra permanece sujeita à formação de neblina",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Taubaté",
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-registra-trafego-intenso-no-sentido-ubatuba-neste-sabado-14.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:32",
+"t": "Foragido da Justiça de Mato Grosso do Sul é capturado pela Polícia Militar em Votuporanga",
+"p": "Um homem que era procurado pela Justiça do Estado de Mato Grosso do Sul foi capturado pela Polícia Militar na manhã deste sábado (14), em Votuporanga, no noroeste paulista. Contra o indivíduo havia um mandado de prisão em aberto para o cumprimento de pena em regime fechado. A prisão ocorreu por volta das 6h40,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/foragido-da-justica-de-mato-grosso-do-sul-e-capturado-pela-policia-militar-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:32",
+"t": "Jovem tenta fugir a pé da PM, é detido com maconha e tem quatro celulares apreendidos em Estrela d’Oeste",
+"p": "Um rapaz de 20 anos, identificado pelas iniciais T. F. S., foi detido pela Polícia Militar na manhã desta sexta-feira (13) após tentar fugir de uma abordagem na região central de Estrela d’Oeste, no noroeste paulista. Durante a ocorrência, os agentes apreenderam porções de maconha e quatro aparelhos celulares de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Estrela d'Oeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jovem-tenta-fugir-a-pe-da-pm-e-detido-com-maconha-e-tem-quatro-celulares-apreendidos-em-estrela-doeste/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:31",
+"t": "Urba lança novo bairro planejado na região oeste de Marília com investimento de R$ 40 milhões",
+"p": "Smart Urba Canaã reúne lotes a partir de 200 m², monitoramento integrado e espaços de lazer; vendas são abertas neste sábado.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/conteudopatrocinado/urba-lanca-novo-bairro-planejado-na-regiao-oeste-de-marilia-com-investimento-de-r-40-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:30",
+"t": "VW Tempest chega ao Brasil com 174 cv e mira na liderança das vans após investimento robusto de mais R$ 300 milhões",
+"p": "A Volkswagen retorna ao mercado de utilitários comerciais leves no Brasil. A marca lança a nova van VW Tempest no início de 2027. O modelo chega com investimento robusto de R$ 300 milhões. A estratégia visa concorrer diretamente com Fiat Ducato, Mercedes-Benz Sprinter e Renault Master. Parceria estratégica e…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/automotor/vw-tempest-chega-ao-brasil-com-174-cv-e-mira-na-lideranca-das-vans-apos-investimento-robusto-de-mais-r-300-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:30",
+"t": "MP instaura Notícia de Fato contra presidente da Câmara de Votuporanga após fala sobre clínica de aborto",
+"p": "O Ministério Público do Estado de São Paulo (MP-SP), por meio da Promotoria de Justiça de Votuporanga, instaurou um procedimento preliminar denominado Notícia de Fato para apurar declarações feitas pelo vereador e presidente da Câmara Municipal, Daniel David (MDB). A medida decorre de uma denúncia anônima motivada…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mp-instaura-noticia-de-fato-contra-presidente-da-camara-de-votuporanga-apos-fala-sobre-clinica-de-aborto/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:29",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal neste sábado (14)",
+"p": "Motoristas encontram boas condições de circulação entre Taubaté e Campos do Jordão; trecho de serra permanece sujeito à formação de neblina",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-neste-sabado-14.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:25",
+"t": "Motocicleta utilizada para o trabalho é furtada em estacionamento",
+"p": "Uma motocicleta utilizada como principal meio de transporte para o trabalho foi furtada no estacionamento do Serv Lar, localizado no bairro Higienópolis, em São José do Rio Preto, no interior de São Paulo. O veículo possui placa DVW 0E20 e foi levado sem deixar pistas sobre a autoria do crime. De acordo com o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motocicleta-utilizada-para-o-trabalho-e-furtada-em-estacionamento/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:21",
+"t": "Cuiabá cobra R$ 18,6 milhões do Santos por Joaquim e ameaça levar caso à ANRESF",
+"p": "Raul Baretta / Santos A cobrança envolve a transferência do zagueiro Joaquim ao Peixe",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/cuiaba-cobra-r-186-milhoes-do-santos-por-joaquim-e-ameaca-levar-caso-a-anresf/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:15",
+"t": "Menina de 11 anos retira traqueostomia e surpreende médicos após grave acidente na região",
+"p": "Após enfrentar 13 dias em coma e mais de cem dias de internação hospitalar, Sarah Evilly Santos Ferreira, de 11 anos, conquistou mais um marco importante em seu processo de reabilitação. Moradora de Tabapuã, no interior de São Paulo, a garota teve a traqueostomia retirada no último dia 6 de novembro, encerrando um…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Tabapuã"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/menina-de-11-anos-retira-traqueostomia-e-surpreende-medicos-apos-grave-acidente-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:06",
+"t": "Fundo Social de Solidariedade abre inscrições para Workshop de Panetone",
+"p": "Foto: Prefeitura de Jundiaí Capacitação gratuita terá 18 vagas e aulas nos dias 1º e 2 de dezembro; inscrições começam à meia-noite de 16 de novembro",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/workshop-panetone-gratuito-fundo-social-jundiai/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "12:45",
