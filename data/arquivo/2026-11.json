@@ -3,6 +3,87 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "14:36",
+"t": "Rodovia Floriano Rodrigues Pinheiro registra tráfego normal neste sábado (12)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-registra-trafego-normal-neste-sabado-12.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "14:13",
+"t": "Polícia Civil de SP localiza e prende na Bahia foragido de mega esquema de fraudes eletrônicas e lavagem de dinheiro",
+"p": "A Polícia Civil do Estado de São Paulo efetuou a prisão, na última quinta-feira (12), de um dos investigados considerados foragidos no âmbito da Operação Cineris, que desarticulou uma rede criminosa especializada em fraudes eletrônicas e lavagem de dinheiro. A captura do suspeito ocorreu em uma residência…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-de-sp-localiza-e-prende-na-bahia-foragido-de-mega-esquema-de-fraudes-eletronicas-e-lavagem-de-dinheiro/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "14:09",
+"t": "Rodovia Presidente Dutra registra tráfego normal neste sábado (14)",
+"p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 14 horas",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-sabado-14.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "14:00",
+"t": "Cacau Park: tudo o que se sabe sobre a ‘Disney brasileira’ com montanha-russa e mais de 70 atrações",
+"p": "O Cacau Park, novo parque temático da Cacau Show em Itu, no interior de São Paulo, começa a ganhar forma e promete transformar o universo do chocolate em uma experiência de entretenimento de grande escala. Com investimento estimado em R$ 2 bilhões, o complexo terá mais de 70 atrações, dois hotéis, área de compras e […]",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Itu"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/cacau-park-tudo-o-que-se-sabe-sobre-a-disney-brasileira-com-montanha-russa-e-mais-de-70-atracoes/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:56",
+"t": "Prefeitura de Nhandeara afasta funcionários e investiga suspeita de agressão a criança em creche municipal",
+"p": "A Prefeitura de Nhandeara determinou o afastamento imediato dos servidores envolvidos e instaurou uma sindicância administrativa para apurar uma denúncia de agressão a uma criança matriculada na rede municipal de ensino. O caso ocorreu na última quinta-feira (12), nas dependências do Centro Integrado de Educação…",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Nhandeara"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-nhandeara-afasta-funcionarios-e-investiga-suspeita-de-agressao-a-crianca-em-creche-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:53",
+"t": "Carro pega fogo e chama atenção na Rodovia Anhanguera; veja vídeo",
+"p": "Fogo atingiu automóvel no km 95, em Campinas; faixa e acostamento foram interditados durante o atendimento",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/carro-pega-fogo-e-chama-atencao-na-rodovia-anhanguera-veja-video/",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "13:46",
 "t": "Vereador Carlos Cabral presta homenagem aos 88 anos de fundação do bairro Brasilândia",
 "p": "O vereador Carlos Cabral divulgou em suas redes sociais uma mensagem comemorativa em celebração aos 88 anos do bairro Brasilândia, um dos núcleos históricos mais tradicionais de Fernandópolis. Por meio de um vídeo publicado na internet, o parlamentar resgatou a memória da fundação do antigo patrimônio, ocorrida em…",
