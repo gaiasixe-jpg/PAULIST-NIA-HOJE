@@ -3,6 +3,82 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "15:51",
+"t": "Estudo do Instituto Butantan revela detalhes inéditos do poliomavírus Malawi detectado em crianças no Brasil",
+"p": "Uma pesquisa do Instituto Butantan publicada na revista Nature Communications apresenta pela primeira vez uma caracterização abrangente do poliomavírus Malawi em amostras respiratórias de crianças no Estado de São Paulo, em um estudo inédito no Brasil e na América Latina. Um estudo anterior realizado durante o pico…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/estudo-do-instituto-butantan-revela-detalhes-ineditos-do-poliomavirus-malawi-detectado-em-criancas-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "15:51",
+"t": "Polícia Civil de SP localiza investigado por integrar organização criminosa ligada a esquema de R$ 480 milhões",
+"p": "A Polícia Civil do Estado de São Paulo localizou, no interior da Bahia, um dos investigados foragidos da Operação Cineris, que apurou a atuação de uma organização criminosa especializada em fraudes eletrônicas e lavagem de dinheiro. Segundo às investigações, os valores obtidos com os golpes eram transferidos para…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-de-sp-localiza-investigado-por-integrar-organizacao-criminosa-ligada-a-esquema-de-r-480-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "15:22",
+"t": "Rodovia Presidente Dutra será interditada três vezes para detonação de rochas; veja dias e horários",
+"p": "Detonações de rochas vão bloquear a pista sentido São Paulo entre terça e sábado; motoristas devem ficar atentos aos horários",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-sera-interditada-tres-vezes-para-detonacao-de-rochas-veja-dias-e-horarios.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "15:16",
+"t": "Ônibus terão tarifa zero para toda a população de Ribeirão Preto neste domingo (15)",
+"p": "Gratuidade na tarifa do ônibus vale para todas as linhas durante todo o dia, por conta do segundo dia de provas do Enem 2026; benefício não se restringe aos estudantes",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/onibus-terao-tarifa-zero-para-toda-a-populacao-de-ribeirao-preto-neste-domingo-15/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "15:04",
+"t": "Enem em classe hospitalar: saiba como internados fazem a prova em salas especiais",
+"p": "Foto: FotoFabrika/depositphotos Garantido pelo MEC e Inep, o direito atende candidatos em tratamentos prolongados e que necessitam de isolamento médico",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/enem-classe-hospitalar-atendimento-especializado-salas-especiais/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "15:00",
+"t": "Casa projetada por Oscar Niemeyer há 53 anos para presidente da Câmara é restaurada em Brasília e colocada à venda por R$ 18 milhões em terreno de 2.900 m²",
+"p": "Uma residência projetada por Oscar Niemeyer em 1973 para Flávio Marcílio, então presidente da Câmara dos Deputados, está à venda no SHIS QI 15, Lago Sul, em Brasília, por R$ 18 milhões, segundo o Diário do Rio de 13 de novembro de 2026. A mesma reportagem descreve terreno de 2.900 m² e área construída de […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/casa-projetada-por-oscar-niemeyer-ha-53-anos-para-presidente-da-camara-e-restaurada-em-brasilia-e-colocada-a-venda-por-r-18-milhoes-em-terreno-de-2-900-m%c2%b2/",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "14:36",
 "t": "Rodovia Floriano Rodrigues Pinheiro registra tráfego normal neste sábado (12)",
 "p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
@@ -52,6 +128,18 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/cacau-park-tudo-o-que-se-sabe-sobre-a-disney-brasileira-com-montanha-russa-e-mais-de-70-atracoes/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "13:59",
+"t": "Fortes chuvas atingem São Paulo nos próximos dias; veja quando",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368838/fortes-chuvas-atingem-sao-paulo-nos-proximos-dias-veja-quando",
 "auto": true
 },
 {
