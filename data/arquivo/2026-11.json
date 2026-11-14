@@ -3,6 +3,60 @@
 "itens": [
 {
 "d": "2026-11-13",
+"h": "23:44",
+"t": "Morador ajudou ladrões em assalto com refém em condomínio de Higienópolis",
+"p": "Segundo a Polícia Civil, morador facilitou a entrada do resto da quadrilha por meio da biometria facial do prédio na Avenida Higienópolis",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/morador-ajudou-ladroes-em-assalto-com-refem-em-condominio-de-higienopolis",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "23:33",
+"t": "Programação de Natal tem parada iluminada, shows e chegada do Papai Noel em Rio Preto; veja cronograma e interdições no trânsito",
+"p": "Abertura do Natal em Rio Preto terá parada iluminada, shows e chegada do Papai Noel Daniel Martins/Prefeitura de Rio Preto A abertura oficial da programação de Natal acontece neste sábado (14) em São José do Rio Preto (SP), a partir das 18h, na Plaza de España, na Avenida José Munia. 💫🎅🏻 Com entrada gratuita, o […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/programacao-de-natal-tem-parada-iluminada-shows-e-chegada-do-papai-noel-em-rio-preto-veja-cronograma-e-interdicoes-no-transito/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "23:33",
+"t": "Barreiras de concreto são instaladas no Calçadão de Rio Preto e morador teme dificuldade para acessar apartamento: ‘Como vou entrar?’",
+"p": "Instalação de barreiras no Calçadão de Rio Preto gera preocupação entre moradores Barreiras de concreto foram instaladas no Calçadão de São José do Rio Preto (SP) nesta quinta-feira (12). A medida foi adotada pela Secretaria Municipal de Trânsito com a finalidade de tornar o local mais seguro para pedestres e…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/barreiras-de-concreto-sao-instaladas-no-calcadao-de-rio-preto-e-morador-teme-dificuldade-para-acessar-apartamento-como-vou-entrar/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "23:33",
+"t": "Procurado pela Justiça é baleado enquanto trabalhava em oficina mecânica",
+"p": "Procurado pela Justiça é baleado enquanto trabalhava em Rio Preto Um homem de 29 anos, que era procurado pela Justiça, foi baleado na tarde desta sexta-feira (13) enquanto trabalhava em uma oficina mecânica em São José do Rio Preto, no interior de São Paulo. Segundo a equipe da Guarda Civil Municipal (GCM), o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/procurado-pela-justica-e-baleado-enquanto-trabalhava-em-oficina-mecanica/",
+"auto": true
+},
+{
+"d": "2026-11-13",
 "h": "23:00",
 "t": "Procurado pela Justiça é baleado enquanto trabalhava em oficina mecânica",
 "p": "Um homem de 29 anos, contra quem havia um mandado de prisão em aberto, foi vítima de uma tentativa de homicídio na tarde desta sexta-feira (13) em São José do Rio Preto, no interior de São Paulo. O crime ocorreu enquanto ele exercia suas atividades em uma oficina mecânica localizada no bairro Jardim Jéssica, onde […]",
@@ -13,6 +67,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/procurado-pela-justica-e-baleado-enquanto-trabalhava-em-oficina-mecanica/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "23:00",
+"t": "Aposentados do INSS, BPC e Bolsa Família têm R$ 149,4 bilhões aprovados pelo Congresso para fechar 2026",
+"p": "O Congresso Nacional aprovou nessa quinta-feira (12/11) o Projeto de Lei do Congresso Nacional (PLN) 23/2026, que libera um crédito suplementar de R$ 149,4 bilhões para custear a Previdência Social, o Benefício de Prestação Continuada (BPC) e o Bolsa Família. O texto recebeu 402 votos a 12 na Câmara e 55 a 0 no…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/aposentados-do-inss-bpc-e-bolsa-familia-tem-r-1494-bilhoes-aprovados-pelo-congresso-para-fechar-2026/",
 "auto": true
 },
 {
@@ -39,6 +105,30 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/acirp-diz-que-nao-foi-consultada-sobre-instalacao-de-barreiras-no-calcadao/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "22:00",
+"t": "INSS promove mutirão com 7,9 mil vagas para perícias neste final de semana",
+"p": "A disponibilização de 7.959 vagas para exames periciais e avaliações sociais estrutura a força-tarefa de atendimentos do Instituto Nacional do Seguro Social (INSS) programada para este fim de semana, dias 14 e 15 de novembro, em oito estados brasileiros. O acesso à prestação de serviço da autarquia federal é…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/inss-promove-mutirao-com-79-mil-vagas-para-pericias-neste-final-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "21:55",
+"t": "Mulher passa 32 anos procurando a mãe, encontra idosa de 86 anos vivendo nas ruas e prepara encontro emocionante com seus 3 netos pela primeira vez",
+"p": "Durante 32 anos, Mary Klein procurou pela própria mãe sem conseguir encontrá-la. A longa espera terminou em setembro de 2026, quando uma mobilização em Las Vegas, nos Estados Unidos, permitiu localizar Song Kim Bartley, de 86 anos. A idosa vivia em situação de rua e foi encontrada em segurança em um terminal de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/apos-32-anos-de-buscas-filha-encontra-mae-de-86-anos-vivendo-nas-ruas-e-prepara-reencontro-emocionante/",
 "auto": true
 },
 {
