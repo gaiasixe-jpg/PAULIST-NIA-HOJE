@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-13T22:09:09-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-13T23:10:20-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,46 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-13",
+"h": "23:00",
+"t": "Procurado pela Justiça é baleado enquanto trabalhava em oficina mecânica",
+"p": "Um homem de 29 anos, contra quem havia um mandado de prisão em aberto, foi vítima de uma tentativa de homicídio na tarde desta sexta-feira (13) em São José do Rio Preto, no interior de São Paulo. O crime ocorreu enquanto ele exercia suas atividades em uma oficina mecânica localizada no bairro Jardim Jéssica, onde […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/procurado-pela-justica-e-baleado-enquanto-trabalhava-em-oficina-mecanica/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "22:54",
+"t": "Defesa Civil emite alerta de temporais, ventos de até 70 km/h e granizo em todo o estado de São Paulo",
+"p": "A Defesa Civil do Estado de São Paulo emitiu um alerta para o risco de temporais generalizados em todas as regiões paulistas ao longo deste domingo (15). Segundo o monitoramento meteorológico, a combinação entre o forte calor diurno, a atuação de um cavado atmosférico e o fluxo de umidade vindo da Amazônia…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-emite-alerta-de-temporais-ventos-de-ate-70-km-h-e-granizo-em-todo-o-estado-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-13",
+"h": "22:46",
+"t": "Acirp diz que não foi consultada sobre instalação de barreiras no Calçadão",
+"p": "Entidade afirma que foi surpreendida pela decisão da Prefeitura e defende análise técnica sobre os impactos da medida",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/acirp-diz-que-nao-foi-consultada-sobre-instalacao-de-barreiras-no-calcadao/",
+"auto": true
+},
 {
 "d": "2026-11-13",
 "h": "21:43",
