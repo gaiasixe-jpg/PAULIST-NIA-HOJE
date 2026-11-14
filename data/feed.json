@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-14T05:57:15-03:00",
-"novos_nesta_coleta": 1,
+"atualizado": "2026-11-14T06:53:11-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -25,13 +23,16 @@
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
-"Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -41,15 +42,119 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Diário do Litoral",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Prefeitura de Santos",
+"erro": "<urlopen error [Errno 111] Connection refused>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "06:03",
+"t": "Fernandópolis sedia 13ª Conferência Municipal dos Direitos da Criança e do Adolescente",
+"p": "A Prefeitura de Fernandópolis realizará, no próximo dia 25 de novembro, a 13ª Conferência Municipal dos Direitos da Criança e do Adolescente, um importante espaço de debate voltado à construção e ao aprimoramento de políticas públicas para a proteção infantojuvenil. Com o tema “Fortalecendo o Sistema de Garantia de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fernandopolis-sedia-13a-conferencia-municipal-dos-direitos-da-crianca-e-do-adolescente/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "06:02",
+"t": "EMEF Gaspar Ruas promove palestra sobre saúde emocional e valorização dos profissionais da Educação",
+"p": "A Escola Municipal de Ensino Fundamental (EMEF) José Gaspar Ruas, em Fernandópolis, realizou uma ação voltada ao acolhimento e à qualidade de vida de sua equipe escolar por meio da palestra “Quem Cuida de Quem Educa?”. O encontro reuniu docentes e demais colaboradores da unidade sob a coordenação da vice-diretora…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/emef-gaspar-ruas-promove-palestra-sobre-saude-emocional-e-valorizacao-dos-profissionais-da-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "06:02",
+"t": "CEMEI Benedicto Cunha arrecada mais de 47 quilos de lacres em campanha solidária para a AVCC",
+"p": "O Centro Municipal de Educação Infantil (CEMEI) Benedicto Cunha, em Fernandópolis, encerrou nesta quinta-feira (12) uma mobilização solidária que arrecadou 47,1 quilos de lacres de alumínio em prol da Associação de Voluntários no Combate ao Câncer (AVCC). A iniciativa envolveu diretamente alunos, familiares e…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/cemei-benedicto-cunha-arrecada-mais-de-47-quilos-de-lacres-em-campanha-solidaria-para-a-avcc/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "06:01",
+"t": "Projeto escolar em Guarani d´Oeste une reciclagem e solidariedade em prol do Hospital de Amor",
+"p": "Uma iniciativa pedagógica desenvolvida pela Escola Municipal de Ensino Fundamental (EMEF) Professora Alzira do Carmo Dias Moreira, em Guarani d´Oeste (SP), demonstrou como atitudes cotidianas podem gerar benefícios sociais e ambientais significativos. Intitulado “Pequenos Itens, Grande Impacto”, o projeto mobilizou…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/projeto-escolar-em-guarani-doeste-une-reciclagem-e-solidariedade-em-prol-do-hospital-de-amor/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "06:01",
+"t": "Macedônia disputa semifinal da Copa União neste sábado em Pontalinda; prefeitura disponibiliza transporte para torcedores",
+"p": "A equipe de futebol de Macedônia (SP) entra em campo neste sábado, 14 de novembro, para um confronto decisivo válido pela semifinal da Copa União – Série Bronze. O duelo colocará os atletas macedonienses frente a frente com a seleção de Álvares Florence, em partida que será disputada no município de Pontalinda,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Álvares Florence",
+"Pontalinda",
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/macedonia-disputa-semifinal-da-copa-uniao-neste-sabado-em-pontalinda-prefeitura-disponibiliza-transporte-para-torcedores/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "06:00",
+"t": "Como Telma de Souza transformou as políticas públicas de Santos",
+"p": "Reprodução/Arquivo Instituto Telma de Souza Quando Telma de Souza foi eleita vereadora pela primeira vez, em 1982, a Câmara Municipal de Santos sequer possuía um banheiro às mulheres",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/telma-de-souza-e-a-coragem-que-transformou-santos/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "06:00",
+"t": "Governo de SP abre 2.595 vagas em cursos gratuitos de qualificação profissional pelo programa Qualifica SP",
+"p": "A Secretaria de Desenvolvimento Econômico (SDE) do Estado de São Paulo está com inscrições abertas para 2.595 vagas em cursos gratuitos de qualificação profissional por meio do programa Qualifica SP. Os interessados têm até a próxima terça-feira (17) para garantir a candidatura exclusivamente pela internet, através…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-abre-2-595-vagas-em-cursos-gratuitos-de-qualificacao-profissional-pelo-programa-qualifica-sp/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "05:01",
