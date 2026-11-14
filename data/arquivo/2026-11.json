@@ -3,6 +3,141 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "12:45",
+"t": "Enem em classe hospitalar garante prova para internados e ampara alunos em tratamento",
+"p": "O Ministério da Educação (MEC) assegura um direito fundamental no Exame Nacional do Ensino Médio: a prova em classes hospitalares. A medida beneficia candidatos internados ou sob tratamento de saúde contínuo. Com isso, jovens em tratamento prolongado não perdem a oportunidade de ingressar na faculdade. O Instituto…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/enem-em-classe-hospitalar-garante-prova-para-internados-e-ampara-alunos-em-tratamento/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:43",
+"t": "Avenida de Santos será interditada a partir de segunda (16)",
+"p": "Trecho da alameda Armênio Mendes, na Aparecida, passará por bloqueio de 30 dias para quarta etapa de reurbanização; trânsito terá desvios",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/avenida-de-santos-sera-interditada-a-partir-de-segunda-16.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:36",
+"t": "Provão Paulista é cancelado em escola após alunos usarem IA durante prova",
+"p": "Secretaria da Educação afastou diretor e vice-diretor da unidade após identificar irregularidades na aplicação do Provão Paulista; estudantes que não participaram das fraudes poderão refazer a avaliação",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/provao-paulista-e-cancelado-em-escola-apos-alunos-usarem-ia-durante-prova/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:22",
+"t": "Defesa Civil alerta para temporais em todo o estado de SP neste domingo (15)",
+"p": "Previsão indica chuva forte, raios, possibilidade de granizo e rajadas de vento de até 70 km/h; regiões leste, noroeste, oeste e norte exigem atenção",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/clima/defesa-civil-alerta-para-temporais-em-todo-o-estado-de-sp-neste-domingo-15.html",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:19",
+"t": "São Paulo marca eleição que vai determinar novo presidente",
+"p": "Rubens Chiri / saopaulofc.net Eleição do Tricolor é indireta, ou seja, os sócios elegem o Conselho que elege o presidente",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-marca-eleicao-que-vai-determinar-novo-presidente/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:16",
+"t": "Corte da Uva 2027 é escolhida em noite de celebração no Teatro Polytheama",
+"p": "Naira Fernanda Castro Alexandre, eleita Rainha; Andressa Fernanda de Araújo, 1ª Princesa; e Andressa Berto Gonçalves Ferreira, 2ª Princesa - Foto: Prefeitura de Jundiaí Naira Fernanda Castro Alexandre foi eleita Rainha, ao lado das princesas Andressa Fernanda de Araújo e Andressa Berto Gonçalves Ferreira; as três…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/corte-da-uva-2027-jundiai-rainha-princesas/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:15",
+"t": "Prefeitura de Sorocaba realiza o 1º Seminário de Boas Práticas da Educação Infantil",
+"p": "Fotos: Rose Campos/Secom A Prefeitura de Sorocaba, por meio da Secretaria da Educação (Sedu), realizou o 1º Seminário de Boas Práticas da Educação Infantil, no auditório do Sesc Sorocaba, nesta quinta-feira (12). O evento, promovido de forma inédita no município, teve o intuito de reunir e divulgar algumas das…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-realiza-o-1o-seminario-de-boas-praticas-da-educacao-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:02",
+"t": "Com pelagem negra e olhar imponente, onça rara de 90 kg atravessa 2,1 mil km em busca de um novo lar e de um futuro para sua espécie",
+"p": "Uma viagem de aproximadamente 2,1 mil quilômetros marcará uma nova etapa na vida de Jataí, uma onça-pintada melanística nascida no Brasil. A fêmea deixará o Refúgio Biológico Bela Vista, administrado pela Itaipu Binacional, em Foz do Iguaçu, no Paraná, para integrar um programa de reprodução e conservação da…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/com-pelagem-negra-e-olhar-imponente-onca-rara-de-90-kg-atravessa-21-mil-km-em-busca-de-um-novo-lar-e-de-um-futuro-para-sua-especie/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:02",
+"t": "Mulher morre em acidente na BR-153, próximo a Nova Granada",
+"p": "Criança que estava no carro ficou gravemente ferida e foi encaminhada ao Hospital da Criança e Maternidade (HCM), em Rio Preto",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Nova Granada",
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mulher-morre-em-acidente-na-br-153-proximo-a-nova-granada/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "12:00",
+"t": "Pescadores são resgatados após barco afundar a 19 km da costa de Bertioga; VÍDEO",
+"p": "Divulgação/Polícia Militar Helicóptero Águia 02 retirou dois homens do mar, enquanto o terceiro foi resgatado com ajuda de outra embarcação.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/pescadores-sao-resgatados-apos-barco-afundar-a-19-km-da-costa-de-bertioga-video/",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "11:38",
 "t": "Adolescente de 15 anos morre em acidente com quadriciclo em Ribeirão Preto",
 "p": "Outro adolescente, da mesma idade, ficou ferido e foi levado para um hospital em Bonfim Paulista; Polícia Civil investiga como o veículo foi entregue aos menores",
@@ -83,6 +218,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/viver-bem/diabetes-pode-afetar-dentes-e-gengivas-saiba-como-prevenir-problemas/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "10:58",
+"t": "Mulher é atropelada e socorrida ao Hospital de Urgência de São Bernardo",
+"p": "Vítima teve escoriações nas pernas e dores na região lombar; ocorrência foi atendida pelo Corpo de Bombeiros na manhã deste sábado (14)",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368811/mulher-e-atropelada-e-socorrida-ao-hospital-de-urgencia-de-sao-bernardo",
 "auto": true
 },
 {
