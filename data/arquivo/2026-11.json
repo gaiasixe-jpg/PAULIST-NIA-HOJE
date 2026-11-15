@@ -3,6 +3,91 @@
 "itens": [
 {
 "d": "2026-11-15",
+"h": "15:44",
+"t": "Senadores querem retomar debate sobre o fim da reeleição à Presidência",
+"p": "Foto: Lula Marques/Agência Brasil Medida ganha apoio de parlamentares de diferentes correntes políticas e é discutida no âmbito da reforma eleitoral; expectativa é levar o tema ao plenário",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/senadores-querem-retomar-debate-fim-da-reeleicao-presidencial/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "15:34",
+"t": "Domingo pode terminar com temporal em Ribeirão Preto; veja o que prevê o Inmet",
+"p": "Alerta amarelo segue até as 23h59 deste domingo (15) e prevê chuva de até 50 mm por dia, rajadas de vento de até 60 km/h e possibilidade de granizo",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/domingo-pode-terminar-com-temporal-em-ribeirao-preto-veja-o-que-preve-o-inmet/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "15:27",
+"t": "Brasil pode registrar 860 mil casos de dengue em 2027; especialista alerta para prevenção",
+"p": "Previsão considera os efeitos do El Niño, que pode favorecer a proliferação do mosquito transmissor da doença; infectologista recomenda intensificar os cuidados ainda em novembro",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/saude/brasil-pode-registrar-860-mil-casos-de-dengue-em-2027-especialista-alerta-para-prevencao/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "15:25",
+"t": "Acidente na Rodovia Armindo Pilialarme deixa dois mortos em Santa Albertina",
+"p": "Um grave acidente de trânsito foi registrado na tarde deste domingo, 15 de novembro, na Rodovia Armindo Pilialarme, via que liga o município de Santa Albertina à Prainha. Um Toyota Corolla prata, com placas de Jales, colidiu violentamente contra uma árvore à margem da rodovia. No interior do veículo viajavam quatro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santa Albertina",
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/acidente-na-rodovia-armindo-pilialarme-deixa-dois-mortos-em-santa-albertina/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "15:19",
+"t": "Milei confirma que vai disputar a reeleição na Argentina em 2027",
+"p": "Foto: Depositphotos Em discurso no Museu da Casa Rosada, presidente argentino projeta metas econômicas até 2031, incluindo expansão do comércio global para 90% do planeta e devolução de impostos",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/milei-confirma-reeleicao-argentina-2027/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "15:00",
+"t": "Praia Grande, Cubatão e São Vicente entram no ranking estadual de geração de empregos; confira o saldo",
+"p": "Praia Grande somou 1.554 vagas e Cubatão registrou 955 contratações líquidas no período de um ano",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/praia-grande-cubatao-e-sao-vicente-entram-no-ranking-estadual-de-geracao-de-empregos-confira-o-saldo.html",
+"auto": true
+},
+{
+"d": "2026-11-15",
 "h": "14:25",
 "t": "Rodovia Presidente Dutra registra tráfego normal neste domingo (15)",
 "p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 14 horas",
