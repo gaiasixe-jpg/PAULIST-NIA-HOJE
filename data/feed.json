@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-15T19:46:41-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-15T20:52:21-03:00",
+"novos_nesta_coleta": 4,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,37 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "19:55",
+"t": "Presidente da FIFA se encontra com Lula e parabeniza por eleição",
+"p": "Reprodução O líder da principal entidade do futebol compartilhou o encontro nas redes sociais",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/presidente-da-fifa-se-encontra-com-lula-e-parabeniza-por-eleicao/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "19:14",
+"t": "Clubes, Ministério e FPF repudiam agressões em final Sub-20 feminina",
+"p": "Horas após o término da decisão do Campeonato Paulista F Sub-20 Petrobras, que teve vitória da Ferroviária sobre o Corinthians, por 2 a 0 , os dois clubes e a Federação Paulista de Futebol (FPF) se manifestaram sobre a briga generalizada que aconteceu aos 31 minutos do segundo tempo . As agressões resultaram nas…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/clubes-ministerio-e-fpf-repudiam-agressoes-em-final-sub-20-feminina",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "19:00",
@@ -55220,36 +55246,6 @@
 "c": [],
 "src": "Diário Oficial (via Alesp)",
 "u": "https://www.al.sp.gov.br/norma/212958",
-"auto": true
-},
-{
-"d": "2026-09-10",
-"h": "00:00",
-"t": "Institui a Medalha do \"Cinquentenário do Décimo Primeiro Batalhão de Polícia Militar do Interior \" e dá providências correlatas.",
-"p": "Decreto estadual nº 70.856, de 10/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Segurança",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.856",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212959",
-"auto": true
-},
-{
-"d": "2026-09-10",
-"h": "00:00",
-"t": "Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Campinas, o imóvel que especifica.",
-"p": "Decreto estadual nº 70.857, de 10/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.857",
-"c": [
-"Campinas"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212960",
 "auto": true
 }
 ]
