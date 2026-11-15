@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-14T22:13:59-03:00",
-"novos_nesta_coleta": 4,
+"atualizado": "2026-11-14T23:14:57-03:00",
+"novos_nesta_coleta": 2,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "23:13",
+"t": "Polícia Civil interdita escritório clandestino de falsos sorteios que usava o nome de hospital da região",
+"p": "A Polícia Civil identificou e interditou, nesta sexta-feira (13), um escritório clandestino suspeito de aplicar golpes por meio de sorteios e apostas ilegais no Centro de Araçatuba, no interior de São Paulo. Para atrair compradores e conferir credibilidade à fraude, a organização criminosa utilizava indevidamente o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-interdita-escritorio-clandestino-de-falsos-sorteios-que-usava-o-nome-de-hospital-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "23:13",
+"t": "DJ denuncia pet center após morte de cachorro durante banho e tosa",
+"p": "Um DJ de São José do Rio Preto, no interior de São Paulo, registrou um boletim de ocorrência contra um estabelecimento de cuidados animais após a morte de seu cachorro de estimação durante um serviço de banho e tosa higiênica. Wanderlei Gomes Neto, de 29 anos, conhecido artisticamente como DJ Coiote, utilizou suas…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/dj-denuncia-pet-center-apos-morte-de-cachorro-durante-banho-e-tosa/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "21:50",
