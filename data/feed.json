@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-15T17:47:40-03:00",
-"novos_nesta_coleta": 6,
+"atualizado": "2026-11-15T18:46:41-03:00",
+"novos_nesta_coleta": 4,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "18:00",
+"t": "Semana da Diversidade de Praia Grande terá 9ª Parada LGBT+ na orla",
+"p": "Jairo Marques/Prefeitura de Praia Grande Quinta edição do evento será realizada entre 29 de novembro e 6 de dezembro, com atividades para jovens e idosos.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/semana-da-diversidade-de-praia-grande-tera-9a-parada-lgbt-na-orla/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "18:00",
+"t": "Itanhaém muda itinerários de duas linhas de ônibus a partir desta segunda",
+"p": "Divulgação/Prefeitura de Itanhaém Alterações atingem as linhas L003 e L019 e ocorrem após novo planejamento viário da Rodovia.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/itanhaem-muda-itinerarios-de-duas-linhas-de-onibus-a-partir-desta-segunda/",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "17:21",
@@ -55225,38 +55253,6 @@
 ],
 "src": "Diário Oficial (via Alesp)",
 "u": "https://www.al.sp.gov.br/norma/212951",
-"auto": true
-},
-{
-"d": "2026-09-09",
-"h": "00:00",
-"t": "Transfere, da Secretaria da Educação para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Lins.",
-"p": "Decreto estadual nº 70.850, de 09/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Educação",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.850",
-"c": [
-"Lins"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212953",
-"auto": true
-},
-{
-"d": "2026-09-09",
-"h": "00:00",
-"t": "Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Mogi Guaçu, parte do imóvel que especifica.",
-"p": "Decreto estadual nº 70.849, de 09/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.849",
-"c": [
-"Mogi Guaçu"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212952",
 "auto": true
 }
 ]
