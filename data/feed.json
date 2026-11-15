@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-14T20:42:45-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-14T22:13:59-03:00",
+"novos_nesta_coleta": 4,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 59 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -50,6 +50,60 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "21:50",
+"t": "DJ denuncia pet center após morte de cachorro durante banho e tosa",
+"p": "Um DJ de São José do Rio Preto, no interior de São Paulo, registrou um boletim de ocorrência contra um estabelecimento de cuidados animais após a morte de seu cachorro de estimação durante um serviço de banho e tosa higiênica. Wanderlei Gomes Neto, de 29 anos, conhecido artisticamente como DJ Coiote, utilizou suas…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/dj-denuncia-pet-center-apos-morte-de-cachorro-durante-banho-e-tosa/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "21:47",
+"t": "Polícia Civil interdita escritório clandestino de falsos sorteios que usava o nome de hospital da região",
+"p": "A Polícia Civil identificou e interditou, nesta sexta-feira (13), um escritório clandestino suspeito de aplicar golpes por meio de sorteios e apostas ilegais no Centro de Araçatuba, no interior de São Paulo. Para atrair compradores e conferir credibilidade à fraude, a organização criminosa utilizava indevidamente o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-interdita-escritorio-clandestino-de-falsos-sorteios-que-usava-o-nome-de-hospital-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "21:01",
+"t": "Vira-lata é encontrado faminto e com 5 problemas de saúde, supera doenças e fica tão bonito que desconhecidos começam a perguntar qual é sua raça",
+"p": "Pelagem branca, manchas pretas e um olhar que conquista desconhecidos. Sempre que sai para passear, Francisco chama a atenção pela aparência e desperta a curiosidade de quem cruza seu caminho. Entre tantos elogios, uma pergunta costuma aparecer: afinal, qual é a raça daquele cachorro tão bonito? E a resposta é…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/vira-lata-e-encontrado-faminto-e-com-5-problemas-de-saude-supera-doencas-e-fica-tao-bonito-que-desconhecidos-comecam-a-perguntar-qual-e-sua-raca/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "20:00",
+"t": "Aquário Municipal de Santos tem previsão de reabrir em dezembro de 2026; veja novidades",
+"p": "O Aquário Municipal de Santos, localizado na Ponta da Praia, tem previsão de reabrir em dezembro de 2026, ainda sem data exata divulgada. Fechado desde junho de 2025, o equipamento público está com 89% das obras de revitalização concluídas, mas ainda não tem uma data exata de reabertura confirmada pela Prefeitura.…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/aquario-municipal-de-santos-tem-previsao-de-reabrir-em-dezembro-de-2026-veja-novidades/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "19:41",
