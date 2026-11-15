@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-15T12:48:27-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-15T13:49:57-03:00",
+"novos_nesta_coleta": 3,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,55 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "13:11",
+"t": "Casamento Comunitário 2026 oficializa a união de casais com cerimônia no Ipanema Clube",
+"p": "Fotos: Michelle Alves, Jéssica Palma e Bruno Lamedica – Secom A Prefeitura de Sorocaba, por meio do Fundo Social de Solidariedade (FSS), realizou, na noite de sábado (14), um dos eventos mais emocionantes do ano, o Casamento Comunitário 2026, com a participação de 60 casais, que foram recebidos pelos padrinhos, o…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/casamento-comunitario-2026-oficializa-a-uniao-de-casais-com-cerimonia-no-ipanema-clube/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "13:10",
+"t": "Câmera filma homem atirando contra vizinho após discussão no interior de SP",
+"p": "Confusão que terminou em tiros foi no dia 9/11, em Votorantim, interior paulista; Polícia Civil trata o caso como tentativa de homicídio",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votorantim"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/camera-filma-homem-atirando-contra-vizinho-apos-discussao-no-interior-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "12:54",
+"t": "Motociclista morre após cair da moto e ser atropelado na Rodovia Anhanguera",
+"p": "Acidente aconteceu na madrugada deste domingo (15), no km 113, sentido São Paulo; motorista do carro não ficou ferido",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motociclista-morre-apos-cair-da-moto-e-ser-atropelado-na-rodovia-anhanguera-em-sumare/",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "12:14",
