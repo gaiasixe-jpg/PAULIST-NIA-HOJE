@@ -3,6 +3,88 @@
 "itens": [
 {
 "d": "2026-11-15",
+"h": "12:14",
+"t": "Motorista fica ferido após perder controle do carro e bater em mureta na Rodovia Francisco Von Zuben",
+"p": "Homem de 29 anos teria dormido ao volante e perdido o controle do veículo; segundo a Polícia Rodoviária, motorista se recusou a fazer o teste do bafômetro",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motorista-fica-ferido-apos-perder-controle-do-carro-e-bater-em-mureta-na-rodovia-francisco-von-zuben/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "12:00",
+"t": "Prevenção da dengue deve começar agora, diz especialista",
+"p": "País pode ter 860 mil casos da doença em 2027 por causa do El Niño",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prevencao-da-dengue-deve-comecar-agora-diz-especialista/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "12:00",
+"t": "Parada de Natal altera trânsito na orla de Santos neste domingo; veja desvios",
+"p": "Divulgação Interdições começam às 18h45 e afetam avenidas Presidente Wilson, Vicente de Carvalho e Ana Costa.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/parada-de-natal-altera-transito-na-orla-de-santos-neste-domingo-veja-desvios/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "12:00",
+"t": "Entregador de aplicativo é baleado enquanto andava de bicicleta em Guarujá",
+"p": "Reprodução/Instagram @papocomclebinho2.0 Vítima, de 21 anos, foi atingida nos membros inferiores na Enseada e encaminhada ao hospital.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/entregador-de-aplicativo-e-baleado-enquanto-andava-de-bicicleta-em-guaruja/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "11:56",
+"t": "Jundiaí avança em força-tarefa para enfrentar eventos climáticos extremos como o El Niño",
+"p": "Representantes de todas as secretarias e de órgãos públicos participaram de reunião no Paço Municipal - Foto: Prefeitura de Jundiaí Ação integrada reúne secretarias municipais e órgãos públicos em medidas preventivas, monitoramento e preparação para reduzir riscos de temporais, enchentes e outros impactos climáticos",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-forca-tarefa-eventos-climaticos-extremos-el-nino/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "11:55",
+"t": "SP: mulher é presa por invadir casa de colega e furtar cachorro no interior",
+"p": "Equipes da Polícia Militar conseguiram localizar e resgatar o cachorro furtado da tutora na casa da suspeita do crime",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sp-mulher-e-presa-por-invadir-casa-de-colega-e-furtar-cachorro-no-interior",
+"auto": true
+},
+{
+"d": "2026-11-15",
 "h": "11:43",
 "t": "Super El Niño prejudica produção e atrasa plantio na região de Itapetininga",
 "p": "Na região de Itapetininga, as pancadas de chuva ocorreram a cada três dias, quando a previsão normal era de um intervalo de dez dias Reprodução / TV TEM Na região de Itapetininga (SP), produtores rurais precisam conciliar a recuperação dos prejuízos causados pelo excesso de água, provocado pelas chuvas durante o El…",
@@ -41,6 +123,20 @@
 },
 {
 "d": "2026-11-15",
+"h": "11:30",
+"t": "Leilão da Emdec terá mais de 800 veículos para lances a partir de segunda-feira",
+"p": "Leilão contará com veículos foram recolhidos por infrações de trânsito; etapa de pré-lances começa na próxima semana",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/leilao-da-emdec-tera-mais-de-800-veiculos-para-lances-a-partir-de-segunda-feira/",
+"auto": true
+},
+{
+"d": "2026-11-15",
 "h": "11:25",
 "t": "Policial militar aposentado é preso em flagrante após atirar contra carro em Álvares Florence",
 "p": "Um policial militar aposentado foi detido em flagrante por tentativa de homicídio após efetuar disparos de arma de fogo contra um automóvel no distrito de Boa Vista dos Andradas, pertencente ao município de Álvares Florence. A Polícia Militar foi acionada para atender a uma ocorrência de disparos nas imediações de…",
@@ -65,6 +161,30 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/alunos-e-professor-do-unifef-sao-premiados-na-21a-edicao-do-concurso-literario-filhos-da-terra/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "11:11",
+"t": "Igreja histórica pode mudar de dono por menos de R$ 1, enquanto prefeitura calcula quanto custaria colocar o prédio abaixo",
+"p": "Uma igreja antiga na Dinamarca está chamando a atenção por um motivo incomum: o imóvel pode ser comprado por apenas uma coroa dinamarquesa, valor inferior a R$ 1. A construção fica na cidade de Struer, no oeste do país, e pertence à prefeitura desde janeiro de 2025. A administração municipal recebeu o prédio como…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/igreja-historica-pode-mudar-de-dono-por-menos-de-r-1-enquanto-prefeitura-calcula-quanto-custaria-colocar-o-predio-abaixo/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "11:10",
+"t": "Saiu o resultado: confira os números sorteados na Mega-Sena neste domingo, que pode pagar R$ 26 milhões",
+"p": "A Caixa Econômica Federal realizou na manhã deste domingo (15/11) o sorteio do concurso 3086 da Mega-Sena, com um prêmio estimado em R$ 26 milhões para o apostador que acertar as seis dezenas principais. As dezenas sorteadas no concurso foram: 03-20-35-38-43-46. Além da faixa principal para quem crava as seis…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/saiu-o-resultado-confira-os-numeros-sorteados-na-mega-sena-neste-domingo-que-pode-pagar-r-26-milhoes/",
 "auto": true
 },
 {
