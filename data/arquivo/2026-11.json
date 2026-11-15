@@ -3,6 +3,62 @@
 "itens": [
 {
 "d": "2026-11-15",
+"h": "17:21",
+"t": "Polícia Militar mobiliza 7 mil agentes e 1,4 mil viaturas para garantir segurança do Enem",
+"p": "A Polícia Militar do Estado de São Paulo colocou nas ruas um esquema especial de segurança com aproximadamente 7 mil agentes e 1,4 mil viaturas para acompanhar a aplicação do segundo dia de provas do Exame Nacional do Ensino Médio (Enem), realizado neste domingo (15). Ao todo, mais de 3 mil policiais atuam…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-militar-mobiliza-7-mil-agentes-e-14-mil-viaturas-para-garantir-seguranca-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "17:20",
+"t": "Acidente na Rodovia Armindo Pilialarme deixa dois mortos em Santa Albertina",
+"p": "Um grave acidente de trânsito foi registrado na tarde deste domingo, 15 de novembro, na Rodovia Armindo Pilialarme, via que liga o município de Santa Albertina à Prainha. Um Toyota Corolla prata, com placas de Jales, colidiu violentamente contra uma árvore à margem da rodovia. No interior do veículo viajavam quatro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santa Albertina",
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/acidente-na-rodovia-armindo-pilialarme-deixa-dois-mortos-em-santa-albertina/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "17:11",
+"t": "Rodovia Floriano Rodrigues Pinheiro registra tráfego normal neste domingo (15)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-registra-trafego-normal-neste-domingo-15.html",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "16:58",
+"t": "Amador de Campinas: veja os resultados dos jogos que completaram a sexta rodada",
+"p": "Seis partidas adiadas por conta das chuvas foram disputadas neste domingo (15); Parque Brasília, Granada e Pureza estão entre os vencedores",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/esportes/amador-de-campinas-veja-os-resultados-dos-jogos-que-completaram-a-sexta-rodada/",
+"auto": true
+},
+{
+"d": "2026-11-15",
 "h": "16:33",
 "t": "Rio Preto recebe congresso internacional sobre superdotação a partir hoje (15)",
 "p": "São José do Rio Preto recebe, a partir deste domingo (15), uma programação nacional e internacional dedicada às pessoas com altas habilidades ou superdotação. O encontro será realizado até terça-feira (17), no Complexo Swift de Educação e Cultura, com conferências, debates, grupos de discussão e apresentações. Com…",
