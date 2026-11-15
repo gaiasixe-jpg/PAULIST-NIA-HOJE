@@ -3,6 +3,102 @@
 "itens": [
 {
 "d": "2026-11-15",
+"h": "09:42",
+"t": "Radar de fiscalização é furtado e danificado em avenida de Rio Preto",
+"p": "Equipamento, instalado na avenida Danilo Galeazzi, foi encontrado no chão, com componentes eletrônicos e parte da estrutura interna retirados; caso será investigado pela Polícia Civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/radar-de-fiscalizacao-e-furtado-e-danificado-em-avenida-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "09:30",
+"t": "Incêndio destrói caminhão boiadeiro na avenida Luiz Brambati em Fernandópolis",
+"p": "Um caminhão boiadeiro, utilizado para o transporte de gado em diversas cidades da região, foi totalmente destruído por um incêndio na noite deste sábado, 14 de novembro, na Avenida Luiz Brambati, no bairro Boa Vista, em Fernandópolis. Segundo relatos, o motorista havia acabado de chegar de viagem após realizar um…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/incendio-destroi-caminhao-boiadeiro-na-avenida-luiz-brambati-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "09:25",
+"t": "Prefeitura de Itupeva avança em quatro programas habitacionais e amplia perspectivas de acesso à moradia",
+"p": "Foto: Prefeitura de Itupeva Com projetos em diferentes etapas de desenvolvimento, administração municipal fortalece parceria com o Governo do Estado e a Caixa Econômica Federal para viabilizar novas moradias e atender famílias que sonham com a casa própria.",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/prefeitura-itupeva-programas-habitacionais/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "09:16",
+"t": "Danilo da Saúde destaca o trabalho pedagógico do TCE-SP para a população",
+"p": "Presidente da Câmara de Marília destacou resultados das recomendações do Tribunal Presidente da Câmara de Marília destacou resultados das recomendações do Tribunal, incluindo o aprimoramento da Ouvidoria.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/danilo-da-saude-destaca-o-trabalho-pedagogico-do-tce-sp-para-a-populacao/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "09:00",
+"t": "Saneamento: propósito e atitudes que estão transformando Marília",
+"p": "Integração entre equipes e decisões responsáveis são fundamentais para a prestação dos serviços de água e esgoto.",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/colunistas/saneamento-proposito-e-atitudes-que-estao-transformando-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:58",
+"t": "Domingo terá risco de tempestades em Jundiaí, com raios, ventos fortes e máxima de 27°C",
+"p": "Foto: Prefeitura de Jundiaí Inmet mantém alerta amarelo até 23h59, com previsão de ventos de até 60 km/h; pancadas de chuva devem ganhar força à tarde e podem provocar temporais à noite. Temperaturas em Jundiaí variam entre 17°C e 27°C.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-domingo-15-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:45",
+"t": "Ciclone em formação avança pelo país e deve intensificar chuvas fortes em quatro regiões do Brasil",
+"p": "O Brasil se prepara para enfrentar novas tempestades nos próximos dias. Um sistema meteorológico ganha força e muda o tempo em grande parte do país. Um ciclone em formação deve intensificar as chuvas. A previsão aponta volumes expressivos em quatro regiões brasileiras a partir desta segunda-feira. Regiões mais…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/ciclone-em-formacao-avanca-pelo-pais-e-deve-intensificar-chuvas-fortes-em-quatro-regioes-do-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-15",
 "h": "08:40",
 "t": "Dia de Sorte 1348 tem prêmio estimado em R$ 650 mil neste domingo; veja horário e como jogar",
 "p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso está anunciado para as 11h deste domingo (15), com sete dezenas e um Mês da Sorte; aposta simples custa R$ 2,50.",
