@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-15T00:58:28-03:00",
-"novos_nesta_coleta": 1,
+"atualizado": "2026-11-15T02:00:56-03:00",
+"novos_nesta_coleta": 0,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
