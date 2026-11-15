@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-15T13:49:57-03:00",
-"novos_nesta_coleta": 3,
+"atualizado": "2026-11-15T14:44:49-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,104 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "14:25",
+"t": "Rodovia Presidente Dutra registra tráfego normal neste domingo (15)",
+"p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 14 horas",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-domingo-15.html",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "14:23",
+"t": "Jundiaí é premiada por boas práticas na gestão do esporte e valorização profissional",
+"p": "Foto: Prefeitura de Jundiaí Município recebeu dois reconhecimentos estaduais por iniciativas de planejamento esportivo, incentivo à prática de atividades físicas e fortalecimento dos profissionais de Educação Física",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-premiada-gestao-esporte-valorizacao-profissional/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "14:23",
+"t": "Rodovia Padre Manoel da Nóbrega registra tráfego normal na tarde deste domingo (15)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-registra-trafego-normal-na-tarde-deste-domingo-15.html",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "14:21",
+"t": "Mega-Sena: oito apostas do interior de SP ganham bolada; veja cidades",
+"p": "Apostas de Paulínia, Limeira e Socorro estão entre as premiadas no concurso deste domingo (15); prêmio principal acumulou em R$ 34 milhões.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Paulínia",
+"Limeira"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/mega-sena-oito-apostas-do-interior-de-sp-ganham-bolada-veja-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "14:18",
+"t": "Painel discute empreendedorismo feminino e protagonismo negro em Ribeirão Preto",
+"p": "Painel gratuito será realizado no dia 18 de novembro, no Dabi Business Park, e terá participação de mulheres que atuam em diferentes áreas; programação inclui oficina de turbantes afro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/painel-discute-empreendedorismo-feminino-e-protagonismo-negro-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "14:17",
+"t": "Defesa Civil dispara alerta severo nos celulares da Baixada Santista e prevê ventos fortes, raios e granizo neste domingo (15); veja os cuidados",
+"p": "A Defesa Civil emitiu um alerta severo às 14h deste domingo (15) para a região de Praia Grande, mas com foco em toda a Baixada Santista. O comunicado oficial adverte sobre a ocorrência de chuvas fortes acompanhadas de raios e rajadas de vento na costa paulista. O aviso sonoro de emergência apareceu diretamente nas…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Praia Grande"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/defesa-civil-dispara-alerta-severo-nos-celulares-da-baixada-santista/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "13:38",
+"t": "El Niño pode afetar pesca no litoral de SP e preocupa especialistas",
+"p": "Fenômeno climático pode alterar a temperatura do mar, os ventos e as chuvas, com impactos na segurança e na produtividade da pesca artesanal",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/clima/el-nino-pode-afetar-pesca-no-litoral-de-sp-e-preocupa-especialistas.html",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "13:11",
