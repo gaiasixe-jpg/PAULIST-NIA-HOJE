@@ -1,21 +1,26 @@
 {
-"atualizado": "2026-11-15T06:54:10-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-15T07:51:58-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -23,28 +28,15 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
-{
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -52,19 +44,30 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "07:09",
+"t": "Vai chover no feriado? Veja a previsão do tempo para Ribeirão Preto neste domingo (15)",
+"p": "Previsão do tempo aponta pancadas de chuva à tarde e à noite neste domingo (15); Defesa Civil de São Paulo emite aviso para raios, rajadas de vento e risco de granizo no estado",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"São Paulo"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/vai-chover-no-feriado-veja-a-previsao-do-tempo-para-ribeirao-preto-neste-domingo-15/",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "06:04",
