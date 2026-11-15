@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-14T23:59:27-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-15T00:58:28-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,18 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-14",
+"h": "23:42",
+"t": "SBT prepara maratona de fim de ano com 12 especiais natalinos e shows de Luan Santana, Raça Negra e Luiza Possi",
+"p": "O SBT preparou uma programação especial para os últimos dias de 2026, com 12 dias consecutivos de atrações de fim de ano. Segundo um plano comercial enviado a agências de publicidade, a grade reunirá shows musicais, programas de culinária, produções natalinas e retrospectivas de jornalismo e esporte. Entre os nomes…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/sbt-prepara-maratona-de-fim-de-ano-com-12-especiais-natalinos-e-shows-de-luan-santana-raca-negra-e-luiza-possi/",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "23:36",
@@ -54092,20 +54104,6 @@
 ],
 "src": "Portal Sorocaba.com",
 "u": "https://sorocaba.com.br/destaques/ferias-sem-telas-56-dos-brasileiros-acreditam-que-o-excesso-do-uso-de-telas-prejudica-a-saude-das-criancas/",
-"auto": true
-},
-{
-"d": "2026-07-17",
-"h": "21:23",
-"t": "João Gomes, Fresno, Livinho e Nany People são atrações da segunda semana da 45ª Festa Julina Beneficente de Sorocaba.",
-"p": "Com 40 mil m², edição 2026 do evento já é considerada a maior da história Considerada a maior edição da história, a 45ª Festa Julina Beneficente de Sorocaba continua nesta semana no Paço Municipal, após o sucesso absoluto da primeira semana. A programação começa nesta quarta-feira, 15, com apresentação de stand up…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Portal Sorocaba.com",
-"u": "https://sorocaba.com.br/cultura-entretenimento/joao-gomes-fresno-livinho-e-nany-people-sao-atracoes-da-segunda-semana-da-45a-festa-julina-beneficente-de-sorocaba/",
 "auto": true
 }
 ]
