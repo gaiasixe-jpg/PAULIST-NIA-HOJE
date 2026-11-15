@@ -1,26 +1,19 @@
 {
-"atualizado": "2026-11-15T10:58:40-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-15T11:51:23-03:00",
+"novos_nesta_coleta": 7,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
-"ACidade ON Ribeirão Preto",
-"ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -33,11 +26,23 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -45,11 +50,93 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "ACidade ON Ribeirão Preto",
+"erro": "HTTP Error 502: Bad Gateway"
+},
+{
+"fonte": "ACidade ON Campinas",
+"erro": "HTTP Error 502: Bad Gateway"
+},
+{
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "11:43",
+"t": "Super El Niño prejudica produção e atrasa plantio na região de Itapetininga",
+"p": "Na região de Itapetininga, as pancadas de chuva ocorreram a cada três dias, quando a previsão normal era de um intervalo de dez dias Reprodução / TV TEM Na região de Itapetininga (SP), produtores rurais precisam conciliar a recuperação dos prejuízos causados pelo excesso de água, provocado pelas chuvas durante o El…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Itapetininga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/super-el-nino-prejudica-producao-e-atrasa-plantio-na-regiao-de-itapetininga/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "11:41",
+"t": "Polícia Militar mobiliza 7 mil agentes e 1,4 mil viaturas para garantir segurança do Enem",
+"p": "A Polícia Militar do Estado de São Paulo colocou nas ruas um esquema especial de segurança com aproximadamente 7 mil agentes e 1,4 mil viaturas para acompanhar a aplicação do segundo dia de provas do Exame Nacional do Ensino Médio (Enem), realizado neste domingo (15). Ao todo, mais de 3 mil policiais atuam…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-mobiliza-7-mil-agentes-e-14-mil-viaturas-para-garantir-seguranca-do-enem/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "11:35",
+"t": "Defesa Civil alerta para risco de temporais, raios e rajadas de vento neste domingo",
+"p": "O estado de São Paulo enfrenta a previsão de pancadas de chuva típicas de verão ao longo deste domingo (15), com risco de precipitações de forte intensidade e acumulados elevados em diversas regiões. O alerta foi emitido pela Defesa Civil estadual, que destaca uma atenção redobrada para as faixas leste, nordeste e…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-alerta-para-risco-de-temporais-raios-e-rajadas-de-vento-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "11:25",
+"t": "Policial militar aposentado é preso em flagrante após atirar contra carro em Álvares Florence",
+"p": "Um policial militar aposentado foi detido em flagrante por tentativa de homicídio após efetuar disparos de arma de fogo contra um automóvel no distrito de Boa Vista dos Andradas, pertencente ao município de Álvares Florence. A Polícia Militar foi acionada para atender a uma ocorrência de disparos nas imediações de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Álvares Florence"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policial-militar-aposentado-e-preso-em-flagrante-apos-atirar-contra-carro-em-alvares-florence/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "11:19",
+"t": "Alunos e professor do UNIFEF são premiados na 21ª edição do Concurso Literário Filhos da Terra",
+"p": "O Centro Universitário de Fernandópolis (UNIFEF) obteve expressivo destaque na 21ª edição do Concurso Literário Filhos da Terra, tradicional iniciativa cultural que incentiva a leitura e valoriza a produção escrita no município. Neste ano, o certame reuniu mais de 300 inscrições entre poemas e textos em prosa,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/alunos-e-professor-do-unifef-sao-premiados-na-21a-edicao-do-concurso-literario-filhos-da-terra/",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "10:36",
@@ -63,6 +150,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/prefeitura-na-area-santa-gertrudes-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "10:34",
+"t": "Fortes chuvas devem atingir estado de São Paulo neste domingo",
+"p": "Pancadas de chuva típicas de verão, que podem ser de forte intensidade, são esperadas para este domingo (15) no estado de São Paulo. O alerta é da Defesa Civil do estado de São Paulo, que informou esperar acumulados elevados de chuva em todo território paulista. A expectativa de pancadas de chuva é decorrência da…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/fortes-chuvas-devem-atingir-estado-de-sao-paulo-neste-domingo",
 "auto": true
 },
 {
@@ -157,6 +256,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/automotor/honda-yamaha-e-yadea-movimentam-mercado-de-motocicletas-com-novos-modelos-investimentos-e-descontos/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "09:59",
+"t": "Motoristas encontram boas condições de tráfego no Sistema Anchieta-Imigrantes",
+"p": "Rodovias não apresentam pontos de lentidão; Imigrantes tem restrição para veículos pesados no sentido São Paulo",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368903/motoristas-encontram-boas-condicoes-de-trafego-no-sistema-anchieta-imigrantes",
 "auto": true
 },
 {
