@@ -1,26 +1,21 @@
 {
-"atualizado": "2026-11-15T05:59:47-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-15T06:54:10-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -33,11 +28,23 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -45,11 +52,213 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "06:04",
+"t": "Prefeitura de Fernandópolis abre licitação de R$ 3,9 milhões para contratação de banco responsável pela folha de pagamento",
+"p": "A Prefeitura de Fernandópolis publicou edital de licitação para selecionar a instituição financeira que passará a administrar o processamento e o pagamento dos salários dos servidores públicos municipais e dos beneficiários do Instituto de Previdência Municipal (IPREM). O processo estabelece um lance mínimo de R$…",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-abre-licitacao-de-r-39-milhoes-para-contratacao-de-banco-responsavel-pela-folha-de-pagamento/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:03",
+"t": "Artista de Fernandópolis assina termo da Lei Aldir Blanc para espetáculo teatral gratuito nos bairros",
+"p": "A artista e professora Lorena Maria de Jesus Flumignan formalizou, nesta sexta-feira (13), a assinatura do Termo de Execução Cultural viabilizado pela Política Nacional Aldir Blanc de Fomento à Cultura (PNAB) em Fernandópolis. Com investimento de R$ 5 mil, o recurso garantirá a realização do projeto “Você Sabe…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/artista-de-fernandopolis-assina-termo-da-lei-aldir-blanc-para-espetaculo-teatral-gratuito-nos-bairros/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:02",
+"t": "Alunos e professor do UNIFEF são premiados na 21ª edição do Concurso Literário Filhos da Terra",
+"p": "O Centro Universitário de Fernandópolis (UNIFEF) obteve expressivo destaque na 21ª edição do Concurso Literário Filhos da Terra, tradicional iniciativa cultural que incentiva a leitura e valoriza a produção escrita no município. Neste ano, o certame reuniu mais de 300 inscrições entre poemas e textos em prosa,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/alunos-e-professor-do-unifef-sao-premiados-na-21a-edicao-do-concurso-literario-filhos-da-terra/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:02",
+"t": "Estudante de Fonoaudiologia do UNIFEF atua como aluna embaixadora de sociedade nacional da área",
+"p": "A acadêmica Adriele Poliana dos Santos Rosa, matriculada no sexto semestre do curso de Fonoaudiologia do Centro Universitário de Fernandópolis (UNIFEF), integra o quadro de alunos embaixadores da Sociedade Brasileira de Fonoaudiologia (SBFa), representando a instituição de ensino em âmbito nacional. A seleção para…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estudante-de-fonoaudiologia-do-unifef-atua-como-aluna-embaixadora-de-sociedade-nacional-da-area/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:02",
+"t": "Complexo Beira Rio recebe neste domingo o festival de rock “Primeira Primavera Podreira” em Fernandópolis",
+"p": "O complexo Beira Rio, em Fernandópolis, será palco neste domingo (15), a partir das 16h, da primeira edição do festival “Primeira Primavera Podreira”, um evento cultural voltado integralmente para a valorização da música e da cena rock independente. A programação reunirá diversas bandas e artistas locais e…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/complexo-beira-rio-recebe-neste-domingo-o-festival-de-rock-primeira-primavera-podreira-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:01",
+"t": "Campanha Novembro Azul leva palestras e exames preventivos ao Assentamento União em Guarani d’Oeste",
+"p": "A Prefeitura de Guarani d’Oeste, por meio da Unidade Básica de Saúde (UBS), promoveu nesta semana uma mobilização especial da campanha Novembro Azul diretamente no Assentamento União, garantindo atendimento preventivo e orientações médicas aos moradores da zona rural. A programação foi dividida em dois dias para…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarani d'Oeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/campanha-novembro-azul-leva-palestras-e-exames-preventivos-ao-assentamento-uniao-em-guarani-doeste/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:00",
+"t": "Projeto prevê 42 salas de educação especial e acolhimento nas escolas",
+"p": "Trabalho da rede municipal mostra a implantação de salas multissensoriais e de acolhimento para estudantes da Educação Especial.",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/projeto-preve-42-salas-de-educacao-especial-e-acolhimento-nas-escolas/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:00",
+"t": "Trabalhos de Marília são selecionados para Mostra Nacional de Saúde Bucal",
+"p": "Projetos desenvolvidos pelo Centro de Especialidades Odontológicas abordam gestão e humanização do atendimento.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/trabalhos-de-marilia-sao-selecionados-para-mostra-nacional-de-saude-bucal/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:00",
+"t": "Polícia Civil procura casal condenado por crimes sexuais em Garça",
+"p": "Polícia Federal foi comunicada sobre possível fuga do país; denúncias podem ser feitas anonimamente",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Garça"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/policia-civil-procura-casal-condenado-por-crimes-sexuais-em-garca/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:00",
+"t": "Cata-Treco atenderá 11 bairros da zona oeste de Marília nesta segunda",
+"p": "Prefeitura recolherá móveis velhos, colchões e eletrodomésticos sem uso; materiais devem ser colocados na véspera.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/cata-treco-atendera-11-bairros-da-zona-oeste-de-marilia-nesta-segunda/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:00",
+"t": "Tapa-buraco atende antiga reivindicação de moradores do Nova Marília 3",
+"p": "Trabalhos são realizados em diversas ruas e integram ações de manutenção da malha viária (Alexandre de Souza/Prefeitura de Marília) Serviços contemplam pontos com buracos e desgaste no pavimento e buscam melhorar o tráfego.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tapa-buraco-atende-antiga-reivindicacao-de-moradores-do-nova-marilia-3/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:00",
+"t": "Prefeitura conclui recapeamento em vias da região do Ceasa",
+"p": "Obra de R$ 327,7 mil recupera trechos de quatro avenidas na região do Ceasa Serviços contemplaram trechos de quatro avenidas no Jardim Santa Antonieta, na zona norte de Marília.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-conclui-recapeamento-em-vias-da-regiao-do-ceasa/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:00",
+"t": "Marília tem seis escolas reconhecidas pelo desempenho na alfabetização",
+"p": "Reconhecimento considera notas em Língua Portuguesa e Matemática e indicadores de fluxo escolar Unidades receberam o Prêmio Excelência Educacional 2025, do Governo de São Paulo, com base em indicadores de aprendizagem.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-tem-seis-escolas-reconhecidas-pelo-desempenho-na-alfabetizacao/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "06:00",
+"t": "Motoristas têm até segunda-feira para regularizar tarifas do Siga Fácil e garantir cancelamento ou restituição de multas",
+"p": "Os condutores que passaram por pórticos eletrônicos do sistema de pedágio sem cancelamento automático de tarifa no Estado de São Paulo têm prazo improrrogável até esta segunda-feira (16) para quitar os valores pendentes. Estabelecida pelo Conselho Nacional de Trânsito (Contran), a medida excepcional garante o…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motoristas-tem-ate-segunda-feira-para-regularizar-tarifas-do-siga-facil-e-garantir-cancelamento-ou-restituicao-de-multas/",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "04:28",
