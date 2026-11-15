@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-15T07:51:58-03:00",
-"novos_nesta_coleta": 1,
+"atualizado": "2026-11-15T08:49:17-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,208 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "The read operation timed out | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | The read operation timed out | HTTP Error 503: Servic"
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "08:40",
+"t": "Dia de Sorte 1348 tem prêmio estimado em R$ 650 mil neste domingo; veja horário e como jogar",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso está anunciado para as 11h deste domingo (15), com sete dezenas e um Mês da Sorte; aposta simples custa R$ 2,50.",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-dia-de-sorte-concurso-1348/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:38",
+"t": "Lotofácil 3830 tem prêmio estimado em R$ 6 milhões neste domingo; veja como funciona",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso está anunciado para as 11h deste domingo (15); modalidade custa a partir de R$ 3,50 e oferece prêmios para apostas com 11 a 15 acertos.",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-lotofacil-concurso-3830/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:36",
+"t": "Quina 7168 tem prêmio estimado em R$ 12,2 milhões neste domingo; veja horário e regras",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso está anunciado para as 11h de 15 de novembro, com quatro faixas de premiação; apostas simples custam a partir de R$ 3.",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-quina-concurso-7168/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:35",
+"t": "Sesc Marília é inaugurado em área doada na gestão Vinicius Camarinha em 2014",
+"p": "Terreno onde está instalado o Sesc foi doado na primeira gestão do prefeito Vinicius Camarinha Área de 62,2 mil metros quadrados foi doada pela Prefeitura ao Sesc em fevereiro de 2014, durante a primeira gestão de Vinicius Camarinha.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/inauguracao-do-sesc-marilia-traz-mais-de-80-atracoes-gratuitas-a-populacao/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:34",
+"t": "Mega-Sena 3086 tem prêmio estimado em R$ 27 milhões neste domingo; confira horário e premiação",
+"p": "Foto: Depositphotos Concurso está anunciado para as 11h deste domingo (15); aposta simples custa R$ 6 e premia quem acerta quatro, cinco ou seis dezenas.",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-mega-sena-concurso-3086/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:32",
+"t": "Timemania 2468 tem prêmio estimado em R$ 27,5 milhões neste domingo; veja como funciona o sorteio",
+"p": "Foto: Depositphotos Concurso está anunciado para as 11h deste domingo (15), com premiações para quem acerta de três a sete dezenas ou o Time do Coração; apostas simples foram encerradas no sábado.",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-timemania-concurso-2468/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:30",
+"t": "Ubatuba cobra prazo para conclusão de reforma do estádio municipal Ciccillo Matarazzo",
+"p": "Prefeitura estabeleceu prazo de cinco dias úteis para construtora apresentar cronograma atualizado e reforçar os trabalhos",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ubatuba/ubatuba-cobra-prazo-para-conclusao-de-reforma-do-estadio-municipal-ciccillo-matarazzo.html",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:15",
+"t": "Carro é destruído por incêndio após pane mecânica na rodovia dos Tamoios, em Paraibuna",
+"p": "Fogo teve início durante a madrugada deste domingo (15); os quatro ocupantes conseguiram sair sem ferimentos, segundo a Concessionária Tamoios",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Paraibuna"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/carro-e-destruido-por-incendio-apos-pane-mecanica-na-rodovia-dos-tamoios-em-paraibuna.html",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:01",
+"t": "Como empresa da região de Ribeirão Preto com mais de 100 anos busca expandir atuação internacional",
+"p": "UCBVET, com sede em Jaboticabal, celebra mais de um século de tradição e inovação em saúde animal",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto",
+"Jaboticabal"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/como-empresa-da-regiao-de-ribeirao-preto-com-mais-de-100-anos-busca-expandir-atuacao-internacional/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:00",
+"t": "Mogi das Cruzes realiza Mutirão de Empregos com mais de 370 vagas nesta segunda-feira (16)",
+"p": "Iniciativa será realizada das 8h às 13h, no Prédio II da Prefeitura",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-realiza-mutirao-de-empregos-com-mais-de-370-vagas-nesta-segunda-feira-16/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:00",
+"t": "Manutenção interrompe abastecimento de água no Jardim Boa Vista e em Biritiba Ussu nesta terça-feira (17)",
+"p": "Limpeza e manutenção preventiva serão realizadas das 8h às 14h; abastecimento deve ser normalizado gradualmente à noite",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/manutencao-interrompe-abastecimento-de-agua-no-jardim-boa-vista-e-em-biritiba-ussu-nesta-terca-feira-17/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "08:00",
+"t": "Alerta de chuva forte e temporais ameaçam o feriado no Interior de SP",
+"p": "Defesa Civil alerta para chuva forte, raios e rajadas de vento neste domingo (15), feriado da Proclamação da República; ventos podem chegar a 70 km/h em algumas áreas do Estado de São Paulo",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/alerta-de-chuva-forte-e-temporais-ameacam-o-feriado-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "07:50",
+"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste domingo (15)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-domingo-15.html",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "07:30",
+"t": "Homem baleado em operação do Gaeco em Marília morre após 17 dias internado",
+"p": "Policiais militares durante operação policial do Gaeco de Londrina em Marília Investigado estava internado sob escolta desde o dia 28 de outubro, quando foi atingido por disparo de fuzil em Marília.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-baleado-em-operacao-do-gaeco-em-marilia-morre-apos-17-dias-internado/",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "07:09",
