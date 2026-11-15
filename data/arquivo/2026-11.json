@@ -3,6 +3,102 @@
 "itens": [
 {
 "d": "2026-11-15",
+"h": "16:33",
+"t": "Rio Preto recebe congresso internacional sobre superdotação a partir hoje (15)",
+"p": "São José do Rio Preto recebe, a partir deste domingo (15), uma programação nacional e internacional dedicada às pessoas com altas habilidades ou superdotação. O encontro será realizado até terça-feira (17), no Complexo Swift de Educação e Cultura, com conferências, debates, grupos de discussão e apresentações. Com…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/rio-preto-recebe-congresso-internacional-sobre-superdotacao-a-partir-hoje-15/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "16:26",
+"t": "Defesa Civil esclarece boatos sobre tornado e apagão em SP e explica o que deve entrar no kit de emergência da família para 72 horas",
+"p": "Mensagens sobre a possibilidade de tornados, apagão e até um período prolongado sem energia elétrica estão circulando nas redes sociais e provocando preocupação entre moradores de São Paulo. Diante da repercussão, a Defesa Civil estadual publicou um esclarecimento para separar informações verdadeiras de boatos.…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/defesa-civil-esclarece-boatos-sobre-tornado-e-apagao-em-sp-e-explica-o-que-deve-entrar-no-kit-de-emergencia-da-familia-para-72-horas/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "16:19",
+"t": "Prefeitura de Sorocaba atende 18 bairros com operação tapa-buracos",
+"p": "Durante o fim de semana (14 e 15 de novembro), a Prefeitura de Sorocaba atendeu a região de 18 bairros com a operação tapa-buracos da Secretaria de Serviços Públicos e Obras (Serpo). O trabalho envolveu 24 caminhões e 250 toneladas de massa asfáltica na execução de reparos nas vias, com o objetivo de melhorar as […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-atende-18-bairros-com-operacao-tapa-buracos/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "16:13",
+"t": "Dupla do Time São Paulo conquista ouro no Mundial de tênis de mesa paralímpico na Tailândia",
+"p": "A dupla mista do Time São Paulo Paralímpico formada por Joyce Oliveira e Lucas Carvalhal Arabian conquistou a medalha de ouro na classe 10 do Campeonato Mundial de tênis de mesa em Pattaya, na Tailândia. Além do título de Joyce e Lucas, os atletas do programa realizado pelo Governo do Estado de São Paulo em […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/dupla-do-time-sao-paulo-conquista-ouro-no-mundial-de-tenis-de-mesa-paralimpico-na-tailandia/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "16:13",
+"t": "PM Rodoviária apreende quase uma tonelada de maconha no interior de SP",
+"p": "Um homem de 25 anos foi preso em flagrante ao transportar quase uma tonelada de maconha em um caminhão pela rodovia Raposo Tavares (SP-270), em Itapetininga, no interior de São Paulo. A abordagem ocorreu no km 167, na tarde de sábado (14), durante uma fiscalização da Polícia Militar Rodoviária. Equipes do 5º…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itapetininga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-rodoviaria-apreende-quase-uma-tonelada-de-maconha-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "16:13",
+"t": "Procurado com dois mandados de prisão é preso por tráfico em São José dos Campos",
+"p": "Polícia Militar encontrou maconha, cocaína e crack em residência no Jardim da Granja; suspeito também era procurado por outros crimes",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José dos Campos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/procurado-com-dois-mandados-de-prisao-e-preso-por-trafico-em-sao-jose-dos-campos.html",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "15:55",
+"t": "Câmera de segurança registra acidente entre carro e moto elétrica; duas pessoas ficam feridas",
+"p": "Acidente aconteceu no cruzamento da Avenida Meira Júnior com a Rua Henrique Dumont, na tarde deste domingo (15)",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/camera-de-seguranca-registra-acidente-entre-carro-e-moto-eletrica-duas-pessoas-ficam-feridas/",
+"auto": true
+},
+{
+"d": "2026-11-15",
 "h": "15:44",
 "t": "Senadores querem retomar debate sobre o fim da reeleição à Presidência",
 "p": "Foto: Lula Marques/Agência Brasil Medida ganha apoio de parlamentares de diferentes correntes políticas e é discutida no âmbito da reforma eleitoral; expectativa é levar o tema ao plenário",
@@ -17,6 +113,18 @@
 },
 {
 "d": "2026-11-15",
+"h": "15:40",
+"t": "Relato de Rafael Ilha sobre pegadinha de Sérgio Mallandro divide versões após redator da atração dizer que cena de drogas foi combinada na TV",
+"p": "Uma pegadinha do programa “Festa do Mallandro“, apresentado por Sérgio Mallandro, voltou ao debate após o produtor responsável pelo roteiro afirmar que a situação envolvendo Rafael Ilha foi combinada com o cantor. O relato contradiz a versão apresentada pelo ex-integrante do grupo Polegar, que disse ter sido…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/relato-de-rafael-ilha-sobre-pegadinha-de-sergio-mallandro-divide-versoes-apos-redator-da-atracao-dizer-que-cena-de-drogas-foi-combinada-na-tv/",
+"auto": true
+},
+{
+"d": "2026-11-15",
 "h": "15:34",
 "t": "Domingo pode terminar com temporal em Ribeirão Preto; veja o que prevê o Inmet",
 "p": "Alerta amarelo segue até as 23h59 deste domingo (15) e prevê chuva de até 50 mm por dia, rajadas de vento de até 60 km/h e possibilidade de granizo",
@@ -27,6 +135,18 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/domingo-pode-terminar-com-temporal-em-ribeirao-preto-veja-o-que-preve-o-inmet/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "15:34",
+"t": "“Extremistas” no Exército do Lula e ajuste fiscal: entenda discussão que circula nas redes",
+"p": "Recentemente, o Senado aprovou o texto-base do Projeto de Lei Complementar (PLP) 299/2026, que reúne um novo pacote de ajuste fiscal do governo Luiz Inácio Lula da Silva (PT), que teria potencial de gerar uma economia de até R$ 60 bilhões em 2027, segundo documento. A proposta ainda precisa passar pela análise da…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/extremistas-no-exercito-do-lula-e-ajuste-fiscal-entenda-discussao-que-circula-nas-redes/",
 "auto": true
 },
 {
