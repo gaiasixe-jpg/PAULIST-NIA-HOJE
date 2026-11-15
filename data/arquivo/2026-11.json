@@ -3,6 +3,46 @@
 "itens": [
 {
 "d": "2026-11-14",
+"h": "23:36",
+"t": "Polícia descobre escritório clandestino suspeito de aplicar golpe com sorteios e apostas usando nome de hospital",
+"p": "Polícia interdita escritório de falsos sorteios em Araçatuba, SP A Polícia Civil identificou um escritório clandestino suspeito de realizar sorteios e apostas ilegais, no Centro de Araçatuba (SP), na sexta-feira (13). O esquema utilizava o nome e a imagem da Santa Casa da cidade para conferir credibilidade ao…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-descobre-escritorio-clandestino-suspeito-de-aplicar-golpe-com-sorteios-e-apostas-usando-nome-de-hospital/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "23:36",
+"t": "Tem Solução: construção civil investe em materiais e técnicas sustentáveis em busca do conforto térmico",
+"p": "Projetos no interior paulista unem preservação ambiental e geração de oportunidades Com as ondas de calor cada vez mais frequentes e intensas, manter a casa em uma temperatura agradável deixou de ser apenas uma questão de conforto. O isolamento térmico dos imóveis também está relacionado à saúde, à qualidade de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tem-solucao-construcao-civil-investe-em-materiais-e-tecnicas-sustentaveis-em-busca-do-conforto-termico/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "23:36",
+"t": "VÍDEO: DJ denuncia pet center por morte de cão durante banho e tosa higiênica no interior de SP",
+"p": "DJ denuncia pet center por morte de cão durante banho e tosa em Rio Preto Um DJ de São José do Rio Preto, no interior de São Paulo, denuncia um pet center pela morte de seu cachorro de estimação durante o serviço de banho e tosa higiênica. Com quase 100 mil seguidores nas redes sociais, […]",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/video-dj-denuncia-pet-center-por-morte-de-cao-durante-banho-e-tosa-higienica-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-14",
 "h": "23:13",
 "t": "Polícia Civil interdita escritório clandestino de falsos sorteios que usava o nome de hospital da região",
 "p": "A Polícia Civil identificou e interditou, nesta sexta-feira (13), um escritório clandestino suspeito de aplicar golpes por meio de sorteios e apostas ilegais no Centro de Araçatuba, no interior de São Paulo. Para atrair compradores e conferir credibilidade à fraude, a organização criminosa utilizava indevidamente o…",
@@ -27,6 +67,30 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/dj-denuncia-pet-center-apos-morte-de-cachorro-durante-banho-e-tosa/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "23:11",
+"t": "Mais de mil vacas invadem cidade, destroem plantações e fazem prefeito pedir estado de crise por 30 dias",
+"p": "Mais de mil vacas invadem Kriva Palanka, destroem plantações e levam prefeito a pedir estado de crise por 30 dias.",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/mais-de-mil-vacas-invadem-cidade-destroem-plantacoes-e-fazem-prefeito-pedir-estado-de-crise-por-30-dias/",
+"auto": true
+},
+{
+"d": "2026-11-14",
+"h": "22:01",
+"t": "A menos de 5 dias da estreia de GTA VI, Sony anuncia mudança inesperada no PlayStation Plus e decide encerrar serviço por motivo inusitado",
+"p": "Faltando apenas poucos dias para a chegada de GTA VI, um dos lançamentos mais aguardados dos últimos anos, a Sony surpreendeu os jogadores com uma mudança no PlayStation Plus. A empresa anunciou que vai encerrar um de seus serviços em dezembro, mas o motivo por trás da decisão chama ainda mais atenção. Imagens…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/a-menos-de-5-dias-da-estreia-de-gta-vi-sony-anuncia-mudanca-inesperada-no-playstation-plus-e-decide-encerrar-servico-por-motivo-inusitado/",
 "auto": true
 },
 {
