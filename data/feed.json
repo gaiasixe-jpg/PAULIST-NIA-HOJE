@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-15T02:00:56-03:00",
-"novos_nesta_coleta": 0,
+"atualizado": "2026-11-15T02:58:03-03:00",
+"novos_nesta_coleta": 1,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +50,18 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "02:31",
+"t": "Após 3 anos de tratamento, criança com nanismo perde acesso a medicação",
+"p": "Bernardo Toni, de 5 anos, perdeu acesso a um tratamento para acondroplasia após Ministério da Saúde não incorporar medicação ao SUS",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/apos-3-anos-de-tratamento-crianca-com-nanismo-perde-acesso-a-medicacao",
+"auto": true
+},
 {
 "d": "2026-11-14",
 "h": "23:42",
