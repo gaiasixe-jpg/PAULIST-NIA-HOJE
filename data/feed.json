@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-16T03:27:07-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-16T06:47:04-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,129 @@
 "itens": [
 {
 "d": "2026-11-16",
+"h": "06:41",
+"t": "Obituário | Falecimentos registrados nesta segunda-feira (16/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta segunda-feira, dia 16 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/obituario-falecimentos-registrados-nesta-segunda-feira-16-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "06:30",
+"t": "Gabarito do Enem sai na quarta-feira, e resultado em 18 de janeiro",
+"p": "Prova terminou “sem intercorrências graves”, diz ministro da Educação",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "06:03",
+"t": "Fernandópolis conquista o 9º lugar entre as prefeituras mais transparentes do Estado",
+"p": "A Prefeitura de Fernandópolis alcançou a 9ª colocação entre os municípios mais transparentes do estado de São Paulo, cumprindo 94,78% dos critérios avaliados pelo Radar da Transparência Pública, levantamento divulgado pela Associação dos Membros dos Tribunais de Contas do Brasil (Atricon). O estudo analisou os…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/fernandopolis-conquista-o-9o-lugar-entre-as-prefeituras-mais-transparentes-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "06:00",
+"t": "Previsão do tempo em SP: semana deve ter chuva e temperaturas de até 30°C",
+"p": "A cidade de São Paulo deve ter uma semana marcada por sol entre nuvens, pancadas de chuva e temperaturas que podem chegar aos 30°C. Segundo a previsão da Defesa Civil do Estado de São Paulo, a instabilidade deve permanecer ao longo dos próximos dias, com possibilidade de temporais na sexta-feira (20). A previsão já…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/previsao-do-tempo-em-sp-semana-deve-ter-chuva-e-temperaturas-de-ate-30c/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "06:00",
+"t": "Prazo especial para quitar tarifas atrasadas do pedágio Siga Fácil termina nesta segunda-feira (16)",
+"p": "Termina nesta segunda-feira, dia 16 de novembro, o prazo extraordinário concedido pelo Conselho Nacional de Trânsito (Contran) para que os motoristas regularizem tarifas em aberto no sistema de pedágio eletrônico Siga Fácil nas rodovias do estado de São Paulo. A regra de transição garante benefícios importantes aos…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prazo-especial-para-quitar-tarifas-atrasadas-do-pedagio-siga-facil-termina-nesta-segunda-feira-16/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "05:40",
+"t": "‘Por Você’: Juarez deixa a cadeia e parte para cima de Zé, e Manoel vira novo investidor do hospital no capítulo desta terça-feira (17)",
+"p": "Nesta terça (17), em Por Você, o sufoco na delegacia mobiliza uma verdadeira força-tarefa entre os amigos. Após Juarez ser levado detido, Iara se desespera e recorre à obstetra em busca de socorro imediato. Agindo rápido para provar a inocência do comerciante, Iara, Bela e Gabriel reúnem notas fiscais e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-juarez-deixa-a-cadeia-e-parte-para-cima-de-ze-e-manoel-vira-novo-investidor-do-hospital-no-capitulo-desta-terca-feira-17/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "05:00",
+"t": "Câmara vota mudanças no transporte e regras para atendimento veterinário",
+"p": "Câmara de Marília vota mudanças no transporte e regras para atendimento veterinário Sessão desta segunda-feira (16) terá três projetos em votação, incluindo a criação do Mova Marília e da Feira da Empregabilidade.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/camara-vota-mudancas-no-transporte-e-regras-para-atendimento-veterinario/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "05:00",
+"t": "Semana terá chuva na Baixada Santista após temporal; veja previsão até sexta-feira",
+"p": "Raimundo Rosa/Divulgação Prefeitura de Santos Defesa Civil emitiu alerta severo neste domingo (15), após temporal avançar de Praia Grande em direção a Santos.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Praia Grande",
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/semana-tera-chuva-na-baixada-santista-apos-temporal-veja-previsao-ate-sexta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "03:51",
+"t": "No Moinho Santista... ...os primeiros arremessos. Seguidos na escola. No Exército. Na Lusa. No Tietê. Agora, a torcida pelo neto...",
+"p": "A história familiar de um corintiano que veio para São Bernardo e preserva com carinho os segredos do bom basquetebol",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4368744/no-moinho-santista-os-primeiros-arremessos-seguidos-na-escola-no-exercito-na-lusa-no-tiete-agora-a-torcida-pelo-neto-",
+"auto": true
+},
+{
+"d": "2026-11-16",
 "h": "03:00",
 "t": "Ex-candidata ao governo de SP acumula posts transfóbicos nas redes sociais",
 "p": "Izadora Dias coleciona mais de vinte publicações com ataques a mulheres trans em seus perfis. Parte dos posts, feitos durante sua campanha",
@@ -60,6 +183,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/ex-candidata-ao-governo-de-sp-acumula-posts-transfobicos-nas-redes-sociais",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "03:00",
+"t": "Eventos no Hopi Hari: o que a Hora do Horror me ensinou sobre dias de parque cheio",
+"p": "Visitar o Hopi Hari durante o Hora de Horror e outros eventos do tipo é uma experiência que exige disposição, planejamento e, principalmente, paciência. Estive no parque em 2 de novembro, feriado de finados, acompanhada do meu irmão Felipe, do meu namorado Matheus e de Ana, irmã dele, para conhecer as atrações…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/eventos-no-hopi-hari-o-que-a-hora-do-horror-me-ensinou-sobre-dias-de-parque-cheio/",
 "auto": true
 },
 {
@@ -55067,162 +55202,6 @@
 ],
 "src": "Portal Sorocaba.com",
 "u": "https://sorocaba.com.br/cultura/thiago-e-graciano-e-tributo-aos-beatles-sao-atracoes-gratuitas-neste-fim-de-semana-em-sorocaba/",
-"auto": true
-},
-{
-"d": "2026-09-18",
-"h": "00:00",
-"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica.",
-"p": "Decreto estadual nº 70.880, de 18/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.880",
-"c": [
-"Ribeirão Preto"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212994",
-"auto": true
-},
-{
-"d": "2026-09-18",
-"h": "00:00",
-"t": "Institui a Medalha do Mérito Professor Dr. Manoel Pedro Pimentel da Fundação \"Professor Dr. Manoel Pedro Pimentel\" - FUNAP e dá providências correlatas.",
-"p": "Decreto estadual nº 70.881, de 18/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Educação",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.881",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212995",
-"auto": true
-},
-{
-"d": "2026-09-18",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Juquitiba, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.878, de 18/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.878",
-"c": [
-"Juquitiba"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212981",
-"auto": true
-},
-{
-"d": "2026-09-18",
-"h": "00:00",
-"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Ribeirão Preto, o imóvel que especifica.",
-"p": "Decreto estadual nº 70.879, de 18/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.879",
-"c": [
-"Ribeirão Preto"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212993",
-"auto": true
-},
-{
-"d": "2026-09-18",
-"h": "00:00",
-"t": "18 decretos de crédito suplementar no Orçamento do Estado (18/09)",
-"p": "Reforço de verbas (crédito suplementar) para: Secretaria de Gestão e Governo Digital; Secretaria da Cultura; Fundação Professor Dr Manoel Pedro Pimentel - FUNAP; Administração Pública; Secretaria de Agricultura e Abastecimento; Secretaria de Comunicação; Secretaria de Desenvolvimento Econômico; Fundação Oncocentro de São Paulo…. Decretos nº 70.882, 70.883, 70.884, 70.885, 70.886, 70.887, 70.888, 70.889, 70.890, 70.891, 70.892, 70.893….",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Nº 70.882 a 70.899",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212996",
-"auto": true
-},
-{
-"d": "2026-09-16",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Sete Barras, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.876, de 16/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.876",
-"c": [
-"Sete Barras"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212979",
-"auto": true
-},
-{
-"d": "2026-09-16",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Itaquaquecetuba, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.877, de 16/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.877",
-"c": [
-"Itaquaquecetuba"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212980",
-"auto": true
-},
-{
-"d": "2026-09-16",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Iguape, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.875, de 16/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.875",
-"c": [
-"Iguape"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212978",
-"auto": true
-},
-{
-"d": "2026-09-14",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Barra do Turvo, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.870, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.870",
-"c": [
-"Barra do Turvo"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212973",
-"auto": true
-},
-{
-"d": "2026-09-14",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Ribeira, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.871, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.871",
-"c": [
-"Ribeira"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212974",
 "auto": true
 }
 ]
