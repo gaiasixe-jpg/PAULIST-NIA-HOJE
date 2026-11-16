@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-15T22:32:12-03:00",
-"novos_nesta_coleta": 5,
+"atualizado": "2026-11-16T00:03:34-03:00",
+"novos_nesta_coleta": 4,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "23:48",
+"t": "Cadela vira ‘auxiliar’ para acalmar candidatos no segundo dia de prova do Enem 2026: ‘Traz conforto’, diz estudante",
+"p": "Cadela vira ‘auxiliar’ para acalmar candidatos no segundo dia de prova do Enem 2026 O segundo dia de aplicação do Exame Nacional do Ensino Médio (Enem) 2026 neste domingo (15), em São José do Rio Preto (SP), foi marcado pelo clima de ansiedade na porta dos locais de prova, incentivo de familiares e até a […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/cadela-vira-auxiliar-para-acalmar-candidatos-no-segundo-dia-de-prova-do-enem-2026-traz-conforto-diz-estudante/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "23:00",
+"t": "Capital enfrentou chuva de granizo: veja o que causa essa precipitação",
+"p": "A cidade de São Paulo registrou episódios de chuva de granizo da semana passada até este domingo (15), que foi um dia marcado por calor e instabilidade atmosférica. O fenômeno ocorre principalmente em tempestades intensas, quando há condições específicas para o congelamento de gotículas de água dentro das nuvens.…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/capital-enfrentou-chuva-de-granizo-veja-o-que-causa-essa-precipitacao/",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "22:15",
@@ -55205,36 +55233,6 @@
 ],
 "src": "Diário Oficial (via Alesp)",
 "u": "https://www.al.sp.gov.br/norma/212976",
-"auto": true
-},
-{
-"d": "2026-09-14",
-"h": "00:00",
-"t": "Dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Agência de Águas do Estado de São Paulo - SP ÁGUAS, visando ao atendimento de Despesas de Capital.",
-"p": "Decreto estadual nº 70.874, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.874",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212977",
-"auto": true
-},
-{
-"d": "2026-09-13",
-"h": "00:00",
-"t": "Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Santa Isabel, o imóvel que especifica.",
-"p": "Decreto estadual nº 70.859, de 13/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.859",
-"c": [
-"Santa Isabel"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212962",
 "auto": true
 }
 ]
