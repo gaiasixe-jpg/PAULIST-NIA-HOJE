@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-16T15:08:23-03:00",
-"novos_nesta_coleta": 49,
+"atualizado": "2026-11-16T16:02:30-03:00",
+"novos_nesta_coleta": 29,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,243 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "16:00",
+"t": "De volta à Globo após 27 anos, Alexandre Frota tem salário bloqueado pela Justiça por dívida de R$ 1 milhão com banco",
+"p": "O retorno de Alexandre Frota às produções da TV Globo, após um hiato de 27 anos, ganhou um capítulo judicial. A Justiça de São Paulo determinou o bloqueio dos pagamentos destinados ao ator por sua atuação na série “Arcanjo Renegado”, do Globoplay, em razão de uma dívida milionária. A medida atende a um pedido do […]",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/de-volta-a-globo-apos-27-anos-alexandre-frota-tem-salario-bloqueado-pela-justica-por-divida-de-r-1-milhao-com-banco/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:00",
+"t": "Bom Prato Móvel da Nova Cintra muda de endereço a partir desta terça",
+"p": "Raimundo Rosa/Divulgação Prefeitura de Santos O atendimento do Bom Prato Móvel será transferido da Rua José Oséas Barbosa, próximo à Policlínica Nova Cintra.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/bom-prato-movel-da-nova-cintra-muda-de-endereco-a-partir-desta-terca/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:00",
+"t": "Hospital em Santos arrecada brinquedos e livros infantis para Campanha de Natal",
+"p": "Divulgação O Hospital SerPiero, em parceria com o Fundo Social de Solidariedade de Santos, realiza uma campanha de Natal para arrecadar brinquedos.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/hospital-em-santos-arrecada-brinquedos-e-livros-infantis-para-campanha-de-natal/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:57",
+"t": "Após um ano de atividades, programa Família+ reúne educadores de Várzea Paulista e Itaquaquecetuba",
+"p": "Foto: Prefeitura de Várzea Paulista Encontro realizado em Várzea Paulista reuniu profissionais da Educação para trocar experiências sobre as ações desenvolvidas ao longo do ano.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Itaquaquecetuba",
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/programa-familia-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:52",
+"t": "Prefeitura de Sorocaba realiza encontro sobre Aprendizagem Profissional e Emprego Inclusivo para Empresas",
+"p": "A Secretaria de Relações do Trabalho e Qualificação Profissional (Sert), da Prefeitura de Sorocaba, convida os representantes de empresas para participarem do Encontro sobre Aprendizagem Profissional e Emprego Inclusivo para Empresas, a ser realizado pela Casa do Trabalhador/Sine, em parceria com o Senac e o Polo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-realiza-encontro-sobre-aprendizagem-profissional-e-emprego-inclusivo-para-empresas/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:48",
+"t": "Suspeito de agredir companheira com socos no rosto é preso em Suzano",
+"p": "Segundo a Polícia Militar, a mulher sofreu lesões na região dos olhos e recebeu atendimento médico antes de prestar depoimento",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/policia/suspeito-de-agredir-companheira-com-socos-no-rosto-e-preso-em-suzano/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:48",
+"t": "Ministério da Saúde abre processo seletivo com 300 vagas e salários de até R$ 11,5 mil",
+"p": "Foto: Nishchal Kanaskar/Canva Oportunidades são para profissionais com nível superior, em sete capitais brasileiras; Inscrições vão até 14 de dezembro, com vagas imediatas e cadastro de reserva",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/concursos/processo-seletivo-ministerio-da-saude-2026-vagas-salarios/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:47",
+"t": "Nunes admite puxar deputado federal eleito ao Paço e beneficiar Morando",
+"p": "Prefeito de São Paulo deve solicitar Sidney Cruz de volta para Habitação, assegurando assim ao emedebista de São Bernardo o assento em Brasília",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"São Paulo",
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369114/nunes-admite-puxar-deputado-federal-eleito-ao-paco-e-beneficiar-morando-",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:36",
+"t": "Secretaria da Mulher abre inscrições para as interessadas em participar do Ensaio Fotográfico de Gestantes em dezembro",
+"p": "Foto: Divulgação/Secom A ação para registrar esse momento tão especial é gratuita e acontece no Jardim Botânico de Sorocaba A Prefeitura de Sorocaba, por meio da Secretaria da Mulher, com apoio da Secretaria de Comunicação e parceria com a iniciativa privada, vai realizar, no próximo dia 3 de dezembro, um ensaio…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-abre-inscricoes-para-as-interessadas-em-participar-do-ensaio-fotografico-de-gestantes-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:32",
+"t": "Pix MEI: quem poderá receber o benefício de até R$ 5 mil?",
+"p": "Batizada de Pix MEI, a iniciativa prevê a transferência de recursos sem cobrança de juros e sem necessidade de devolução do dinheiro",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/pix-mei-quem-podera-receber-o-beneficio-de-ate-r-5-mil/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:16",
+"t": "Torneio de Basquete 3×3 no CEU das Artes do Laranjeiras segue com inscrições abertas",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav) e da Secretaria da Cultura (Secult), mantém disponíveis as inscrições para um Torneio de Basquete 3×3, no Centro de Artes e Esportes Unificados “Professor Flávio Vespasiano Di Giorgi” (CEU das Artes), no Parque das Laranjeiras.…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/torneio-de-basquete-3x3-no-ceu-das-artes-do-laranjeiras-segue-com-inscricoes-abertas/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:15",
+"t": "De combate à dengue à saúde do trabalhador: profissionais de Francisco Morato visitam Jundiaí para conhecer iniciativas",
+"p": "Foto: Prefeitura de Jundiaí Sete profissionais conheceram projetos, estratégias de prevenção e ações que fortalecem os serviços de saúde pública no município.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Francisco Morato",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/vigilancia-saude-jundiai-francisco-morato/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:15",
+"t": "Mais de 448 mil alunos passam por avaliação de fluência leitora a partir desta segunda-feira",
+"p": "A Secretaria da Educação do Estado de São Paulo (Seduc-SP), em regime de colaboração com todos os 645 municípios paulistas, dá início nesta segunda-feira (16) à aplicação da Avaliação da Fluência Leitora referente ao segundo semestre. Até o dia 4 de dezembro, 448,1 mil estudantes matriculados no 2º ano do Ensino…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mais-de-448-mil-alunos-passam-por-avaliacao-de-fluencia-leitora-a-partir-desta-segunda-feira/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:14",
+"t": "Quase 200 jovens da Fundação CASA realizam o Provão Paulista em busca de vaga na universidade pública",
+"p": "Um total de 194 adolescentes que cumprem medida socioeducativa nos centros da Fundação CASA em todo o estado de São Paulo e cursam a 3ª série do Ensino Médio participam, nesta segunda-feira (16) e terça-feira (17), das provas do Provão Paulista Seriado 2026. A aplicação segue um cronograma específico estabelecido…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/quase-200-jovens-da-fundacao-casa-realizam-o-provao-paulista-em-busca-de-vaga-na-universidade-publica/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:12",
+"t": "Dez vítimas de explosão em fábrica química seguem internadas com quadro clínico estável",
+"p": "Dez pessoas permanecem hospitalizadas em unidades de saúde da capital e do interior paulista em decorrência da explosão seguida de incêndio registrada na última sexta-feira (13) em uma fábrica de produtos químicos de Salto (SP). Segundo boletim atualizado divulgado nesta segunda-feira (16) pela Secretaria de Estado…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Salto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/dez-vitimas-de-explosao-em-fabrica-quimica-seguem-internadas-com-quadro-clinico-estavel/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:11",
+"t": "Meu SUS Digital simplifica solicitação de consultas em programas de saúde mental",
+"p": "Serviços oferecem acompanhamento psicológico gratuito por videochamada",
+"tema": "Saúde",
+"s": "obra",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/meu-sus-digital-simplifica-solicitacao-de-consultas-em-programas-de-saude-mental/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:09",
+"t": "Lula e Sánchez defendem união contra o avanço da extrema-direita",
+"p": "O presidente Luiz Inácio Lula da Silva se encontrou, na manhã desta segunda-feira (16), com o presidente do governo da Espanha, Pedro Sánchez, em Madri. Lula parou no país ibérico durante a viagem de volta das Filipinas. Segundo o Palácio do Planalto, Lula e Sánchez trataram de temas como o combate ao discurso de…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Planalto"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-sanchez-defendem-uniao-contra-avanco-da-extrema-direita",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "15:03",
@@ -152,6 +389,20 @@
 },
 {
 "d": "2026-11-16",
+"h": "14:55",
+"t": "Semana com tardes quentes e fortes pancadas de chuva; veja a previsão nos próximos dias",
+"p": "Semana tem previsão de calor e pancadas de chuva pelo país, inclusive no Sudeste",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/semana-com-tardes-quentes-e-fortes-pancadas-de-chuva-veja-a-previsao-nos-proximos-dias/",
+"auto": true
+},
+{
+"d": "2026-11-16",
 "h": "14:54",
 "t": "SP terá mutirão contra dengue; Zamarco cita atrasos do Ministério da Saúde",
 "p": "São Paulo fará mutirão de combate à dengue em dezembro. Secretário da Saúde citou atrasos do Ministério da Saúde no envio de insumos",
@@ -242,6 +493,18 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/economia/concurso-da-mata-de-santa-genebra-prorroga-inscricoes-salarios-chegam-a-r-89-mil/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:43",
+"t": "Trabalhador comprova 25 anos de exposição a mais de 250 volts e consegue aposentadoria especial, mas INSS leva caso ao STJ e suspende casos semelhantes",
+"p": "Entre abril de 1994 e junho de 2019, o trabalhador Cristiano Pereira da Costa exerceu atividades que o expunham a tensões elétricas superiores a 250 volts. A informação constava de um documento apresentado à Justiça e foi decisiva para que ele conseguisse a aposentadoria especial. O Instituto Nacional do Seguro…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/trabalhador-comprova-25-anos-de-exposicao-a-mais-de-250-volts-e-consegue-aposentadoria-especial-mas-inss-leva-caso-ao-stj-e-suspende-casos-semelhantes/",
 "auto": true
 },
 {
@@ -1869,6 +2132,20 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/fazer-a-caixinha-32-musicos-temem-fim-de-ano-apos-extincao-de-orquestra",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "00:00",
+"t": "Prudente sedia encontro sobre desenvolvimento do turismo regional; evento segue até terça",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67756",
 "auto": true
 },
 {
@@ -54742,299 +55019,6 @@
 "src": "Portal Regional (Dracena)",
 "u": "https://portalregional.net.br/2026/10/policia-federal-investiga-desvio-de-quase-r-3-milhoes-das-contas-da-prefeitura-de-caiabu/",
 "auto": true
-},
-{
-"d": "2026-10-30",
-"h": "08:00",
-"t": "Editorial — Os desafios do Brasil e a preocupação com a água em Itapeva",
-"p": "A semana foi marcada por assuntos que convidam à reflexão sobre o presente e o futuro: as eleições e os rumos do Brasil, além da preocupação com a qualidade da água distribuída em Itapeva. No cenário nacional, o resultado das urnas reforça a importância do diálogo em um país que reúne diferentes opiniões e…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/editorial-1416/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "07:41",
-"t": "Sorocaba atinge metas do Plano Nacional de Saneamento Básico para 2033",
-"p": "Com sete anos de antecedência, Sorocaba já atingiu, e em alguns casos superou, as principais metas estipuladas pelo Plano Nacional de Saneamento Básico (Plansab) e definidas no Marco Legal do Saneamento. Elas abrangem abastecimento de água potável, esgotamento sanitário, limpeza urbana e manejo de resíduos sólidos…",
-"tema": "Saneamento",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-atinge-metas-do-plano-nacional-de-saneamento-basico-para-2033/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "06:00",
-"t": "Salto: Estabelece a aplicação da atualização monetária para os tributos, as multas e demais obrigações pecuniárias estabelecidas em quantia fixa, institui o Calendário Fiscal dos Tributos lançados de…",
-"p": "Decreto nº 401, publicado no Diário Oficial do município em 30/10/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Salto"
-],
-"src": "Diário Oficial de Salto",
-"u": "https://data.queridodiario.ok.org.br/3545209/2026-10-30/4fc24d0b11cc0ac15d82b7b8401748f6972847eb.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 401",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-10-30",
-"h": "06:00",
-"t": "Salto: Declara de utilidade pública, para fins de desapropriação, parte de bens imóveis localizados no Bairro Lajeado e dá outras providências",
-"p": "Decreto nº 402, publicado no Diário Oficial do município em 30/10/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Salto"
-],
-"src": "Diário Oficial de Salto",
-"u": "https://data.queridodiario.ok.org.br/3545209/2026-10-30/4fc24d0b11cc0ac15d82b7b8401748f6972847eb.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 402",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-10-29",
-"h": "20:46",
-"t": "Etecs prorrogam inscrições até 10 de novembro; veja opções no Vale do Paraíba",
-"p": "Vestibulinho para o primeiro semestre de 2027 tem taxa de R$ 50 e prova em 6 de dezembro; prazo também foi reaberto para pedidos de atendimento diferenciado.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/10/etecs-prorrogacao-inscricoes-10-novembro-2027-vale-paraiba.html",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "20:46",
-"t": "Terra dos Dinos abre em 12 de novembro em Campos do Jordão; veja preços e regras",
-"p": "Inteira antecipada custa R$ 89; tarifa de R$ 59 para jordanenses exige comprovação. Tirolesa, trilha suspensa e estacionamento são cobrados à parte.",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/10/terra-dos-dinos-campos-jordao-abertura-ingressos-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "18:52",
-"t": "Secretaria da Mulher realiza ensaio fotográfico para mulheres grávidas no Jardim Botânico de Sorocaba",
-"p": "Fotos: Eduarda Lopes/estágio Secom A Secretaria da Mulher (Semul), em parceria com a Secretaria de Comunicação (Secom), realizou uma nova sessão de ensaios fotográficos para gestantes, no Jardim Botânico “Irmãos Villas-Bôas”, na manhã desta quinta-feira (29). A iniciativa contou também com a participação da empresa…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-realiza-ensaio-fotografico-para-mulheres-gravidas-no-jardim-botanico-de-sorocaba-3/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "17:33",
-"t": "GCM prende homem por descumprimento de medida protetiva no Parque São Bento",
-"p": "Foto: Reprodução/GCM A Guarda Civil Municipal (GCM) prendeu, na tarde de terça-feira (27), um homem de 43 anos por descumprimento de medida protetiva de urgência, no Parque São Bento. Ele foi localizado em frente à residência da mãe, que acionou a Corporação por meio do Centro de Controle Operacional Integrado…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-prende-homem-por-descumprimento-de-medida-protetiva-no-parque-sao-bento/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "17:09",
-"t": "Alunos de todas as escolas da rede municipal de ensino recebem pão com creme de avelã nas refeições nesta quinta-feira (29)",
-"p": "Fotos: Luis Gustavo Adabro Os alunos do Ensino Fundamental de toda a rede municipal de ensino receberam, mais uma vez, nesta quinta-feira (29), o aguardado pão com creme de avelã, em todas as unidades do Fundamental I e Fundamental II. O alimento é incluído no cardápio uma vez ao mês. Geralmente, na última…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/alunos-de-todas-as-escolas-da-rede-municipal-de-ensino-recebem-pao-com-creme-de-avela-nas-refeicoes-nesta-quinta-feira-29/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "16:46",
-"t": "Oficina de boneca Abayomi é atração gratuita nas Bibliotecas Municipais de Sorocaba",
-"p": "Crianças a partir de 3 anos, jovens e adultos podem participar da oficina de boneca Abayomi nas Bibliotecas Municipais de Sorocaba. Na próxima quarta-feira (4), às 14h30, a atração será levada à Biblioteca Infantil Municipal “Renato Sêneca de Sá Fleury”. Já na sexta-feira (6), às 14h30, a programação acontecerá na…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/oficina-de-boneca-abayomi-e-atracao-gratuita-nas-bibliotecas-municipais-de-sorocaba/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "16:29",
-"t": "Feirão Rumo ao Emprego terá mais de 50 vagas de trabalho no CRAS Vila Nova",
-"p": "Emprego",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/feirao-rumo-ao-emprego-tera-mais-de-50-vagas-de-trabalho-no-cras-vila-nova/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "15:20",
-"t": "São José suspende sistema tributário e prevê retomada em 3 de novembro",
-"p": "Interrupção começou às 18h de quarta-feira, 28, para atualização do SIRF; emissão de guias, certidões e consultas está entre os serviços afetados.",
-"tema": "Contas públicas",
-"s": "anunciado",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/10/sao-jose-suspensao-sistema-tributario-sirf-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "15:20",
-"t": "Senac terá caminhada histórica e encontros gratuitos de gastronomia em Campos do Jordão",
-"p": "Atividades acontecem de 11 a 13 de novembro, com inscrição prévia; programação inclui técnicas de preparo de massas e tradições dos chás brasileiros.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/10/senac-campos-jordao-jornada-alimentacao-turismo-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "15:19",
-"t": "Carreata com Papai Noel inaugura a decoração do Natal dos Sonhos nesta sexta-feira",
-"p": "Mais de 2,2 milhões de lâmpadas serão acesas desde o portal até Vila Capivari; programação cultural começa no sábado, dia 31/10",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/10/carreata-com-papai-noel-inaugura-a-decoracao-do-natal-dos-sonhos-nesta-sexta-feira.html",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "15:12",
-"t": "Cão farejador da GCM localiza mais de 200 porções de drogas no Parque São Bento",
-"p": "A Guarda Civil Municipal (GCM) de Sorocaba apreendeu 238 porções de drogas, na manhã desta quarta-feira (28), durante patrulhamento preventivo no Parque São Bento, na Zona Norte. A localização dos entorpecentes se deu com o auxílio do cão farejador Koda, do Canil da corporação. Em razão de ocorrências relacionadas…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/cao-farejador-da-gcm-localiza-mais-de-200-porcoes-de-drogas-no-parque-sao-bento/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "11:03",
-"t": "Registro adquire motoniveladora e amplia capacidade de manutenção das estradas rurais",
-"p": "Infraestrutura",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/registro-adquire-motoniveladora-e-amplia-capacidade-de-manutencao-das-estradas-rurais/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "08:07",
-"t": "Polícia investiga suspeitos após idoso perder mais de R$ 870 mil no golpe do falso investimento",
-"p": "Um idoso, de 73 anos, teve prejuízo superior a R$ 870 mil em um suposto golpe de investimentos falso, segundo informou a Polícia Civil. Nesta quarta-feira (28), os policiais de Pindorama (SP) cumpriram seis mandados de busca e apreensão em Catanduva (SP) para investigar os suspeitos de envolvimento no caso. De…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Catanduva",
-"Pindorama"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/10/policia-investiga-suspeitos-apos-idoso-perder-mais-de-r-870-mil-no-golpe-do-falso-investimento/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "08:05",
-"t": "Caminhão tomba sobre van em rodovia na região",
-"p": "Um caminhão tombou sobre uma van na Rodovia Assis Chateaubriand (SP-425) em Olímpia (SP), na noite desta quarta-feira (28). Segundo apurado pela TV TEM, três pessoas estavam presas às ferragens e tinham sido identificadas até a última atualização desta reportagem. O estado de saúde delas não foi divulgado. A equipe…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Olímpia"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/10/caminhao-tomba-sobre-van-em-rodovia-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "08:01",
-"t": "Ministério Público do Trabalho registra 80 denúncias de assédio eleitoral na região",
-"p": "O Ministério Público do Trabalho (MPT) recebeu 80 denúncias de assédio eleitoral em todo o interior de São Paulo no período após o segundo turno das eleições. Segundo levantamento divulgado pelo MPT da 15ª Região, os registros foram feitos entre domingo (25) e as 9h30 desta quarta-feira (28). As regiões de Bauru,…",
-"tema": "Eleições",
-"s": "alerta",
-"c": [
-"Bauru"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/10/ministerio-publico-do-trabalho-registra-80-denuncias-de-assedio-eleitoral-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-10-29",
-"h": "06:00",
-"t": "Álvares Florence: Dispõe sobre a regulamentação e organização da Política Municipal de Educação Especial Inclusiva do Município de Álvares Florence, Estado de São",
-"p": "Decreto nº 2.928, publicado no Diário Oficial do município em 29/10/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Álvares Florence"
-],
-"src": "Diário Oficial de Álvares Florence",
-"u": "https://data.queridodiario.ok.org.br/3501202/2026-10-29/c40adec09953520b5fa7d4e2130a82fe2879c8ab.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 2.928",
-"qd": true,
-"mun": true
 }
 ]
 }
