@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-16T01:21:58-03:00",
-"novos_nesta_coleta": 2,
+"atualizado": "2026-11-16T03:27:07-03:00",
+"novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,44 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "03:00",
+"t": "Ex-candidata ao governo de SP acumula posts transfóbicos nas redes sociais",
+"p": "Izadora Dias coleciona mais de vinte publicações com ataques a mulheres trans em seus perfis. Parte dos posts, feitos durante sua campanha",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ex-candidata-ao-governo-de-sp-acumula-posts-transfobicos-nas-redes-sociais",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "02:30",
+"t": "Tarcísio planeja gastar R$ 25 milhões com escolas cívico-militares em 2027",
+"p": "Valor destinado às escolas apareceu pela primeira vez na Proposta de Lei Orçamentária Anual (PLOA) enviada à Alesp para votação",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tarcisio-planeja-gastar-r-25-milhoes-com-escolas-civico-militares-em-2027",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "02:15",
+"t": "“Fazer a caixinha”: 32 músicos temem fim de ano após extinção de orquestra",
+"p": "A Orquestra Jazz Sinfônica de Valinhos foi dissolvida por necessidade de recursos, segundo a prefeitura. Músicos alegam \"motivo político\"",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Valinhos"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/fazer-a-caixinha-32-musicos-temem-fim-de-ano-apos-extincao-de-orquestra",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "23:48",
@@ -55185,54 +55223,6 @@
 ],
 "src": "Diário Oficial (via Alesp)",
 "u": "https://www.al.sp.gov.br/norma/212974",
-"auto": true
-},
-{
-"d": "2026-09-14",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Iporanga, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.872, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.872",
-"c": [
-"Iporanga"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212975",
-"auto": true
-},
-{
-"d": "2026-09-14",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Piracaia, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.869, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.869",
-"c": [
-"Piracaia"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212972",
-"auto": true
-},
-{
-"d": "2026-09-14",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Registro, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.873, de 14/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Política",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.873",
-"c": [
-"Registro"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212976",
 "auto": true
 }
 ]

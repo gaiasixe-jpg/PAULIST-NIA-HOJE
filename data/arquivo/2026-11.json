@@ -2,6 +2,44 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-16",
+"h": "03:00",
+"t": "Ex-candidata ao governo de SP acumula posts transfóbicos nas redes sociais",
+"p": "Izadora Dias coleciona mais de vinte publicações com ataques a mulheres trans em seus perfis. Parte dos posts, feitos durante sua campanha",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ex-candidata-ao-governo-de-sp-acumula-posts-transfobicos-nas-redes-sociais",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "02:30",
+"t": "Tarcísio planeja gastar R$ 25 milhões com escolas cívico-militares em 2027",
+"p": "Valor destinado às escolas apareceu pela primeira vez na Proposta de Lei Orçamentária Anual (PLOA) enviada à Alesp para votação",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tarcisio-planeja-gastar-r-25-milhoes-com-escolas-civico-militares-em-2027",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "02:15",
+"t": "“Fazer a caixinha”: 32 músicos temem fim de ano após extinção de orquestra",
+"p": "A Orquestra Jazz Sinfônica de Valinhos foi dissolvida por necessidade de recursos, segundo a prefeitura. Músicos alegam \"motivo político\"",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Valinhos"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/fazer-a-caixinha-32-musicos-temem-fim-de-ano-apos-extincao-de-orquestra",
+"auto": true
+},
+{
 "d": "2026-11-15",
 "h": "23:48",
 "t": "Cadela vira ‘auxiliar’ para acalmar candidatos no segundo dia de prova do Enem 2026: ‘Traz conforto’, diz estudante",
