@@ -1,26 +1,21 @@
 {
-"atualizado": "2026-11-16T06:47:04-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-16T08:30:38-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -28,16 +23,27 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -45,11 +51,109 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "08:30",
+"t": "Justiça condena homem a mais de três anos de prisão por furto de cabos em usina solar de Riolândia",
+"p": "O juiz Luan Casagrande, da Vara Única da Comarca de Paulo de Faria, condenou Romário Soares da Silva a três anos, quatro meses e 25 dias de reclusão em regime inicial fechado pelo furto qualificado de equipamentos da Usina Fotovoltaica Vale do Sol, em Riolândia. A sentença, publicada na última sexta-feira (13),…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Paulo de Faria",
+"Riolândia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-condena-homem-a-mais-de-tres-anos-de-prisao-por-furto-de-cabos-em-usina-solar-de-riolandia/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "08:00",
+"t": "Campinas tem alerta de tempestade e previsão de chuva nesta segunda-feira; veja horários",
+"p": "Inmet prevê chuva intensa, rajadas de vento e possibilidade de granizo; temperaturas devem variar entre 18 °C e 28 °C",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-alerta-de-tempestade-e-previsao-de-chuva-nesta-segunda-feira-veja-horarios/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "08:00",
+"t": "Álcool na direção é a principal causa de mortes no trânsito de Campinas em 2026",
+"p": "Segundo a Emdec, consumo de álcool, excesso de velocidade e falta de habilitação são fatores ligados a maior parte das mortes nas vias do município",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/alcool-na-direcao-e-a-principal-causa-de-mortes-no-transito-de-campinas-em-2026/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "07:50",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta segunda (16)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-segunda-16.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "07:07",
+"t": "Shopping Center Fernandópolis inaugura primeira expansão e celebra 30 anos de história",
+"p": "O Shopping Center Fernandópolis inaugurou oficialmente neste sábado (14) a sua primeira expansão, em uma solenidade que também celebrou os 30 anos do empreendimento, completados em setembro deste ano. A obra recebeu um investimento aproximado de R$ 20 milhões e acrescentou cerca de 5 mil metros quadrados à…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/shopping-center-fernandopolis-inaugura-primeira-expansao-e-celebra-30-anos-de-historia/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "07:02",
+"t": "Prêmio TV Brasil Petrobras Para Elas: Yanne é eleita a craque do ano",
+"p": "A primeira edição do Prêmio TV Brasil Petrobras Para Elas consagrou Yanne, do Bahia. A goleira, de 23 anos, venceu a categoria de melhor jogadora da temporada feminina nacional, em cerimônia realizada na noite desse domingo (15), no Museu do Futebol, em São Paulo. A TV Brasil exibiu a premiação ao vivo. Envolvida…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/premio-tv-brasil-petrobras-para-elas-yanne-e-eleita-craque-do-ano",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "06:41",
@@ -62,6 +166,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/policia/obituario-falecimentos-registrados-nesta-segunda-feira-16-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "06:41",
+"t": "Obituário | Falecimentos registrados nesta segunda-feira (16/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta segunda-feira, dia 16 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-segunda-feira-16-11-em-marilia-e-regiao/",
 "auto": true
 },
 {
@@ -55104,104 +55222,6 @@
 ],
 "src": "Diário Oficial (via Alesp)",
 "u": "https://www.al.sp.gov.br/norma/213006",
-"auto": true
-},
-{
-"d": "2026-09-25",
-"h": "00:00",
-"t": "Institui a Medalha \"Cinquentenário do Comando de Policiamento de Área Metropolitana - 1\" e dá providências correlatas.",
-"p": "Decreto estadual nº 70.900, de 25/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.900",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213003",
-"auto": true
-},
-{
-"d": "2026-09-25",
-"h": "00:00",
-"t": "Autoriza a Fazenda do Estado a receber, mediante cessão de uso onerosa, por prazo determinado, o imóvel que especifica, de propriedade da União.",
-"p": "Decreto estadual nº 70.901, de 25/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.901",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213004",
-"auto": true
-},
-{
-"d": "2026-09-25",
-"h": "00:00",
-"t": "4 decretos de crédito suplementar no Orçamento do Estado (25/09)",
-"p": "Reforço de verbas (crédito suplementar) para: Secretaria da Fazenda e Planejamento; Secretaria da Segurança Pública; Secretaria dos Transportes Metropolitanos para repasse à Companhia do Metropolitano de São Paulo-METRÔ; Secretaria de Parcerias em Investimentos. Decretos nº 70.905, 70.906, 70.907, 70.908.",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Nº 70.905 a 70.908",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213008",
-"auto": true
-},
-{
-"d": "2026-09-23",
-"h": "16:00",
-"t": "Sorocaba recebe grande bazar de roupas, shows gratuitos e atrações para toda a família",
-"p": "WBazar será realizado de 24 a 27 de setembro, no Monteiro Lobato, com mais de 80 marcas e grandes liquidações Sorocaba recebe, de 24 a 27 de setembro, o WBazar, evento que reúne compras, entretenimento e gastronomia em uma programação pensada para toda a família. Realizado no Monteiro Lobato, o evento vai muito…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Portal Sorocaba.com",
-"u": "https://sorocaba.com.br/cultura-entretenimento/sorocaba-recebe-grande-bazar-de-roupas-shows-gratuitos-e-atracoes-para-toda-a-familia/",
-"auto": true
-},
-{
-"d": "2026-09-23",
-"h": "15:56",
-"t": "UniFacens abre inscrições para vestibular com concurso de bolsas",
-"p": "Ao todo, são mais de 3,4 mil vagas para o primeiro semestre de 2027;Taxa de empregabilidade dos alunos ao término das graduações é de 90%. A UniFacens, referência em metodologias inovadoras de ensino nas áreas de engenharia, tecnologia, arquitetura e saúde, está com inscrições abertas para o vestibular 2027. O…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Portal Sorocaba.com",
-"u": "https://sorocaba.com.br/educacao/unifacens-abre-inscricoes-para-vestibular-com-concurso-de-bolsas/",
-"auto": true
-},
-{
-"d": "2026-09-22",
-"h": "16:19",
-"t": "Segurança de carros elétricos pede cuidados específicos, diz especialista",
-"p": "Danos à bateria podem ser perigosos e gerar incêndios; Motoristas devem redobrar cuidados com pedestres e ciclistas. O aumento constante do número de veículos elétricos nas ruas vem trazendo mudanças gradativas para o trânsito das cidades e das rodovias. Algumas características próprias desse tipo de automóvel,…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Portal Sorocaba.com",
-"u": "https://sorocaba.com.br/tecnologia/seguranca-de-carros-eletricos-pede-cuidados-especificos-diz-especialista/",
-"auto": true
-},
-{
-"d": "2026-09-22",
-"h": "16:01",
-"t": "Thiago e Graciano e tributo aos Beatles são atrações gratuitas neste fim de semana em Sorocaba",
-"p": "Apresentações fazem parte do WBazar, que ainda reúne gastronomia, artesanato, espaço kids e mais de 80 marcas no Monteiro Lobato Sorocaba recebe, de quinta-feira (24) a domingo (27), mais uma edição do WBazar, no Monteiro Lobato. Com entrada e estacionamento gratuitos, o evento terá uma programação que vai além das…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Portal Sorocaba.com",
-"u": "https://sorocaba.com.br/cultura/thiago-e-graciano-e-tributo-aos-beatles-sao-atracoes-gratuitas-neste-fim-de-semana-em-sorocaba/",
 "auto": true
 }
 ]
