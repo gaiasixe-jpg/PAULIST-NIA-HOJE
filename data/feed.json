@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-16T18:55:53-03:00",
-"novos_nesta_coleta": 31,
+"atualizado": "2026-11-16T19:55:21-03:00",
+"novos_nesta_coleta": 29,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,263 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "19:53",
+"t": "Mogi das Cruzes inicia megaoperação de zeladoria nos bairros da divisa",
+"p": "Ação realiza serviços de manutenção, conservação e melhorias no Jardim Margarida, Residencial Novo Horizonte e Jardim Piatã I e II",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Novo Horizonte"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-inicia-megaoperacao-de-zeladoria-nos-bairros-da-divisa/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:53",
+"t": "Homem usa detector de metais por 15 minutos, encontra anel de ouro de séculos atrás com a frase “Vivo na esperança” e a joia vai a leilão em dezembro",
+"p": "Anel posy de ouro com a inscrição Let reason rule affection, catalogado no Portable Antiquities Scheme (FindID 276615). Imagem ilustrativa de outro achado; não é o anel I live in hope encontrado por Kevin Short. Kevin Short encontrou, em 15 minutos de busca com detector de metais em Warwickshire, um anel de ouro…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/homem-usa-detector-de-metais-por-15-minutos-encontra-anel-de-ouro-de-seculos-atras-com-a-frase-vivo-na-esperanca-e-a-joia-vai-a-leilao-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:47",
+"t": "Menino de 3 anos é encontrado sozinho em ponto de ônibus",
+"p": "Menino foi levada para um abrigo municipal após ser encontrada no Parque do Horto; o pai foi preso em flagrante",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/menino-de-3-anos-e-encontrado-sozinho-em-ponto-de-onibus/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:43",
+"t": "Tamoios terá bloqueios de 12 horas por dia em Caraguatatuba; veja dias, horários e desvios",
+"p": "Durante as obras, os motoristas deverão utilizar retornos alternativos da Tamoios para acessar os bairros ou voltar em direção à cidade",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/tamoios-tera-bloqueios-de-12-horas-por-dia-em-caraguatatuba-veja-dias-horarios-e-desvios.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:30",
+"t": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias nos primeiros sete meses de 2026, aponta Comsefaz",
+"p": "O avanço das plataformas de apostas online segue consumindo uma parcela expressiva da renda no país. Nos primeiros sete meses de 2026, a saída líquida de recursos do orçamento das famílias associada às bets atingiu R$ 40,4 bilhões. Os números integram o 4º Boletim Fiscal dos Estados Brasileiros, elaborado pelo…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/bets-tiraram-r-404-bilhoes-do-orcamento-das-familias-nos-primeiros-sete-meses-de-2026-aponta-comsefaz/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:29",
+"t": "Taboão da Serra inaugura base da GCM no Parque Pinheiros e confirma novas unidades para outros três bairros",
+"p": "A Guarda Civil Municipal (GCM) de Taboão da Serra, na região sudoeste da Grande São Paulo, inaugurou nesta segunda-feira (16/11) uma nova base operacional no Parque Pinheiros, região que concentra uma das maiores incidências de ocorrências criminais do município, segundo a Secretaria de Segurança. A unidade será…",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Taboão da Serra"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/taboao-da-serra-inaugura-base-da-gcm-no-parque-pinheiros-e-confirma-novas-unidades-para-outros-tres-bairros/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:28",
+"t": "Motociclista morre três dias antes de completar 29 anos após acidente na Rodovia Euclides da Cunha",
+"p": "Operador de máquinas de 28 anos perdeu o controle da motocicleta e morreu no local; veículo foi encontrado a cerca de 100 metros do corpo às margens da rodovia, em Tanabi/SP. Um motociclista de 28 anos morreu na noite deste domingo (15.nov) após sofrer um acidente na Rodovia Euclides da Cunha (SP-320), em…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Tanabi",
+"Cunha"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/motociclista-morre-tres-dias-antes-de-completar-29-anos-apos-acidente-na-rodovia-euclides-da-cunha/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:26",
+"t": "Dia da Prematuridade: histórias de cuidado marcam trajetória da UTI Neonatal da Santa Casa de Votuporanga",
+"p": "Há 19 anos, unidade acompanha bebês e famílias com assistência especializada, tecnologia e um cuidado que respeita o tempo e as necessidades de cada recém-nascido. Dentro de uma UTI Neonatal, o tempo parece seguir outro ritmo. Alguns gramas a mais, menos ajuda para respirar, a primeira mamada ou o momento em que os…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/dia-da-prematuridade-historias-de-cuidado-marcam-trajetoria-da-uti-neonatal-da-santa-casa-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:22",
+"t": "“Preceptoria no internato na saúde” é tema de capacitação na Unifev",
+"p": "Promovida pelo curso de Medicina, em parceria com a Santa Casa de Votuporanga, iniciativa abordou os desafios, oportunidades e a aproximação do ensino no ambiente de trabalho na supervisão e orientação de estudantes e residentes, além de discutir técnicas ativas e participativas na formação médica. Com o propósito…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/preceptoria-no-internato-na-saude-e-tema-de-capacitacao-na-unifev/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:18",
+"t": "Jovem morre após caminhonete capotar na Rodovia Washington Luís em Mirassol",
+"p": "Passageiro ficou preso às ferragens e não resistiu aos ferimentos após o acidente registrado durante a madrugada de sábado (14); motorista, esposa da vítima, saiu ilesa. Um jovem de 20 anos morreu após a caminhonete em que viajava capotar na madrugada do último sábado (14.nov), na Rodovia Washington Luís (SP-310),…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mirassol"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/jovem-morre-apos-caminhonete-capotar-na-rodovia-washington-luis-em-mirassol/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:15",
+"t": "Amazon lança drone com câmera em 360º que voa pelos cômodos da casa sozinho em ‘rondas’ e robô terrestre com gravação em 4K; veja como funcionam",
+"p": "A Ring, subsidiária da Amazon, anunciou em 10 de novembro um drone com câmera que percorre diferentes cômodos da casa. O Ring Drone Cam pode sair da base quando um alarme dispara ou seguir uma rota programada pelo morador. Depois de completar a ronda, o aparelho pode voltar à estação para recarregar a bateria. O […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/amazon-lanca-drone-com-camera-em-360o-que-voa-pelos-comodos-da-casa-sozinho/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:13",
+"t": "Procurado pela Justiça de MS é capturado pela Polícia Militar em Votuporanga",
+"p": "Homem foi localizado durante patrulhamento na Avenida José Marão Filho e tinha mandado de prisão para cumprimento de pena em regime fechado. Um homem procurado pela Justiça foi capturado pela Polícia Militar na manhã do último sábado (14.nov), em Votuporanga/SP. A ocorrência foi registrada por volta das 6h40,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/procurado-pela-justica-de-ms-e-capturado-pela-policia-militar-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:11",
+"t": "Pai e filho morrem após veículo atingir árvore em rodovia de Santa Albertina",
+"p": "Violenta colisão deixou dois mortos e duas mulheres gravemente feridas na Rodovia Armindo Pilhalarmi (SP-561); vítimas ficaram presas às ferragens e foram retiradas pelos bombeiros. Um grave acidente registrado na tarde deste domingo (15.nov) na Rodovia Armindo Pilhalarmi (SP-561), entre Santa Albertina/SP e a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santa Albertina"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/pai-e-filho-morrem-apos-veiculo-atingir-arvore-em-rodovia-de-santa-albertina/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:11",
+"t": "Aposta de Fernandópolis fatura mais de R$ 32 mil ao acertar a quina da Mega-Sena",
+"p": "Moradores de Fernandópolis têm motivos para comemorar após o mais recente sorteio da Mega-Sena, realizado no último domingo (15). Uma aposta simples registrada na cidade por meio dos canais eletrônicos oficiais da Caixa Econômica Federal acertou cinco das seis dezenas do concurso 3.086, garantindo um prêmio…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/aposta-de-fernandopolis-fatura-mais-de-r-32-mil-ao-acertar-a-quina-da-mega-sena/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:10",
+"t": "Unifev realiza o curso “Stewardship de Antimicrobianos”",
+"p": "Graduação de Farmácia promoveu a iniciativa para capacitar estudantes da área da saúde para o uso seguro e racional de medicamentos antimicrobianos, abordando aspectos clínicos, operacionais e de gestão relacionados ao combate de microrganismos. O gerenciamento do uso de antimicrobianos reúne estratégias…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/unifev-realiza-o-curso-stewardship-de-antimicrobianos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:06",
+"t": "Cerca de 20 cães e gatos mutilados são encontrados em sacos plásticos em Rio Preto",
+"p": "Animais foram localizados sem pele e sem cabeça em um canteiro central; Polícia Civil investiga crime ambiental e apura possível relação com rituais após perícia encontrar objetos próximos aos corpos. Um caso de extrema crueldade contra animais está sendo investigado pela Polícia Civil de São José do Rio Preto/SP…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/cerca-de-20-caes-e-gatos-mutilados-sao-encontrados-em-sacos-plasticos-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:05",
+"t": "Homem é preso em SP suspeito de matar o próprio irmão após briga por bens",
+"p": "Segundo a Polícia Civil, Matheus Victor Cardoso da Silva foi atingido por vários disparos no rosto e na cabeça em Suzano",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Suzano"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-e-preso-em-sp-suspeito-de-matar-o-proprio-irmao-apos-briga-por-bens",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:00",
+"t": "Envolvido em nova polêmica, Alexandre Frota já admitiu uso de drogas e trocou acusações com famosos",
+"p": "A Justiça de São Paulo determinou que a Rede Globo deposite em uma conta judicial os pagamentos destinados a Alexandre Frota para quitar uma dívida do ator com o Banco Besa, antigo Banco Econômico. O débito, inicialmente de R$ 88,4 mil, foi atualizado para R$ 1,3 milhão, considerando juros e correção monetária. A…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/envolvido-em-nova-polemica-alexandre-frota-ja-admitiu-uso-de-drogas-e-trocou-acusacoes-com-famosos/",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "18:53",
@@ -191,6 +444,20 @@
 },
 {
 "d": "2026-11-16",
+"h": "18:30",
+"t": "Santo André avança no planejamento climático com foco na arborização",
+"p": "Plano de Adaptação Climática tem previsão de conclusão até agosto de 2027; Frente Parlamentar de Arborização Urbana promoveu reunião com Semasa,vereadores e munícipes nesta segunda",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369145/santo-andre-avanca-no-planejamento-climatico-com-foco-na-arborizacao",
+"auto": true
+},
+{
+"d": "2026-11-16",
 "h": "18:20",
 "t": "Mais de 1,5 mil estudantes do 2º ano do Ensino Fundamental de Suzano farão prova de alfabetização",
 "p": "Aplicação acontece entre esta segunda-feira (16) e o dia 4 de dezembro",
@@ -241,6 +508,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/cantarella-prefeitura-e-unifef-divulgam-notas-de-repudio-e-solidariedade-apos-agressao-a-servidora-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "18:03",
+"t": "Câmara do Rio mantém homenagem a Eduarda Campopiano, deputada de SP que assume em 2027",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369149/camara-do-rio-mantem-homenagem-a-eduarda-campopiano-deputada-de-sp-que-assume-em-2027",
 "auto": true
 },
 {
@@ -54756,274 +55035,6 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/danilo-da-saude-destaca-que-parceria-com-a-pm-amplia-protecao-da-populacao/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "02:00",
-"t": "\"Sempre negligenciaram meu filho\", diz mãe de bebê morto em hospital de SP",
-"p": "O bebê tinha pouco mais de um ano quando morreu no Hospital Salvalus. Certidão indica sepse e “distúrbios subsequentes a cirurgia cardíaca”",
-"tema": "Saúde",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/sempre-negligenciaram-meu-filho-diz-mae-de-bebe-morto-em-hospital-de-sp",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "01:28",
-"t": "Vícios construtivos: como proteger seu patrimônio e resguardar os direitos do condomínio",
-"p": "A aquisição de um imóvel costuma representar a realização de um projeto de vida ou um investimento de grande porte; veja como proteger seu patrimônio e resguardar os direitos do condomínio",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/colunistas-ribeirao-preto/vicios-construtivos-como-proteger-seu-patrimonio-e-resguardar-os-direitos-do-condominio/",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "21:21",
-"t": "\"Rei das criptomoedas\" de Manaus é preso pela Polícia Militar em Perdizes",
-"p": "Josué Viana Medeiros, conhecido como \"Rei das criptomoedas\", foi identificado por câmeras do \"Muralha Paulista\" e detido na Rua Itajobi",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itajobi"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/rei-das-criptomoedas-de-manaus-e-preso-pela-policia-militar-em-perdizes",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "18:00",
-"t": "Motorista fica gravemente ferido após perder controle de carro e bater em proteção de rodovia",
-"p": "Acidente aconteceu na tarde deste sábado (31), na Rodovia do Açúcar, em Piracicaba; equipes de resgate precisaram cortar as portas do veículo para retirar a vítima, de 26 anos",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Piracicaba"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/piracicaba/rascunho-automatimotorista-fica-gravemente-ferido-em-acidente-apos-perder-controle-de-carro-e-bater-em-protecao-de-rodovia/",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "17:28",
-"t": "Adolescente de 17 anos morre atropelado por ônibus na zona sul de São Paulo",
-"p": "De acordo com o Corpo de Bombeiros, o adolescente sofreu traumatismo craniano e não resistiu. Morte foi constatada no local",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/adolescente-de-17-anos-morre-atropelado-por-onibus-na-zona-sul-de-sao-paulo",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "17:28",
-"t": "Homem é esfaqueado por \"amigo\" por dívida de R$ 100 de jogo de baralho",
-"p": "Ataque foi neste sábado (31/10) na Praça Shigueri Takaki, em Piracicaba; suspeito fugiu após o crime e vítima foi socorrida e levada à UPA",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Piracicaba"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/homem-e-esfaqueado-por-amigo-por-divida-de-r-100-de-jogo-de-baralho",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "17:10",
-"t": "Mulher é internada em estado grave após ser atingida por fio de alta tensão",
-"p": "Letícia dos Santos foi eletrocutada por um cabo de alta tensão em Pinheiros e está internada em estado grave no Hospital das Clinicas",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/mulher-e-internada-em-estado-grave-apos-ser-atingida-por-fio-de-alta-tensao",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "16:44",
-"t": "Limpador de janelas morre após cadeirinha despencar do 42º andar de prédio",
-"p": "Douglas Batista da Silva, de 33 anos, foi arremessado para fora do equipamento de segurança e caiu na área de lazer do 19º andar do edifício",
-"tema": "Geral",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/limpador-de-janelas-morre-apos-cadeirinha-despencar-do-42o-andar-de-predio",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "16:23",
-"t": "Deputado cobra Tarcísio e SSP sobre casos de violência após as eleições",
-"p": "Emidio de Souza (PT) enviou requerimento ao governador Tarcisio de Freitas e secretário Nico Gonçalves sobre casos de violência policial",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/deputado-cobra-tarcisio-e-ssp-sobre-casos-de-violencia-apos-as-eleicoes",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "16:22",
-"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal neste sábado (31)",
-"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-neste-sabado-31.html",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "16:12",
-"t": "Acidente causa congestionamento na rodovia Presidente Dutra neste sábado (31)",
-"p": "Rodovia Presidente Dutra apresenta congestionamento em Guararema e tráfego intenso em Taubaté e Piraí, no sentido São Paulo, neste sábado (31)",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Guararema",
-"Taubaté"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/br-116-dutra/acidente-causa-congestionamento-na-rodovia-presidente-dutra-neste-sabado-31.html",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "16:05",
-"t": "Mutirões e reciclagem: Santos e cidades vizinhas preparam semana voltada à redução de resíduos",
-"p": "Projeto nascido em 2017 chega à marca de 80 atividades de educação ambiental na costa paulista; confira como cadastrar iniciativas gratuitas",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/baixadasantista/mutiroes-e-reciclagem-santos-e-cidades-vizinhas-preparam-semana-voltada-a-reducao-de-residuos.html",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "15:50",
-"t": "Adolescente que bateu carro em postes na Norte-Sul pegou veículo escondido para sair com amigos, diz pai",
-"p": "Em depoimento à Polícia Civil, pai contou que filho de 16 anos havia pedido para dormir na casa de um amigo; jovem dirigia sem habilitação e transportava cinco passageiros no momento do acidente.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/adolescente-que-bateu-carro-em-postes-na-norte-sul-pegou-veiculo-escondido-para-sair-com-amigos-diz-pai/",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "15:47",
-"t": "Rodovia Padre Manoel da Nóbrega terá interdições e desvios a partir de terça (3)",
-"p": "Obras de mais de R$ 500 milhões alteram acessos e circulação na rodovia entre Praia Grande e Peruíbe; principais mudanças ocorrem em Itanhaém",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Itanhaém",
-"Peruíbe"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tera-interdicoes-e-desvios-a-partir-de-terca-3.html",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "15:40",
-"t": "Sistema pode trazer chuvas persistentes em novembro; Veja previsão para o estado de SP",
-"p": "Sistema conhecido como ZCAS pode trazer chuvas persistentes no mês de novembro, segundo a meteorologia",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/sistema-pode-trazer-chuvas-persistentes-em-novembro-veja-previsao-para-o-estado-de-sp/",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "15:31",
-"t": "Ponte de madeira na zona norte de São José dos Campos fecha para reforma e altera trânsito no local",
-"p": "Bloqueio total na estrada Juca de Carvalho segue até sexta-feira, para troca de estruturas, e exige rota alternativa pelos bairros",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ponte-de-madeira-na-zona-norte-de-sao-jose-dos-campos-fecha-para-reforma-e-altera-transito-no-local.html",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "15:23",
-"t": "Quem é o \"Concierge do PCC\", beneficiado por decisão que barrou leilão",
-"p": "Justiça pediu que o imóvel ligado ao chamado \"Concierge do PCC\", suspeito de comandar rede de influência do crime, organizado fosse suspenso",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/quem-e-o-concierge-do-pcc-beneficiado-por-decisao-que-barrou-leilao",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "14:57",
-"t": "Vídeo flagra acidente com morte na avenida Pedro de Toledo, em Marília",
-"p": "Carro bateu violentamente contra árvore em Marília Imagens de câmeras de segurança mostram o exato momento em que motorista perde o controle e atinge árvore em Marília.",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/noticias/video-flagra-acidente-com-morte-na-avenida-pedro-de-toledo-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "14:54",
-"t": "GCM apreende cocaína e maconha em área de mata na Zona Leste de Sorocaba",
-"p": "Durante patrulhamento preventivo nas proximidades da CEI-94, no Jardim Jatobá, Zona Leste da cidade, a Guarda Civil Municipal (GCM) de Sorocaba apreendeu 97 porções de entorpecentes em área de mata, às 9h20 de quinta-feira (29).. Inicialmente, os guardas avistaram um grupo de pessoas que, ao perceber a aproximação…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-cocaina-e-maconha-em-area-de-mata-na-zona-leste-de-sorocaba/",
-"auto": true
-},
-{
-"d": "2026-10-31",
-"h": "14:42",
-"t": "Veja até quando vai o prazo para pedir restituição de multas do sistema Siga Fácil em SP",
-"p": "Motoristas multados por não pagar tarifas do sistema de cobrança automática em rodovias paulistas podem solicitar a restituição do valor",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/veja-ate-quando-vai-o-prazo-para-pedir-restituicao-de-multas-do-sistema-siga-facil-em-sp/",
 "auto": true
 }
 ]

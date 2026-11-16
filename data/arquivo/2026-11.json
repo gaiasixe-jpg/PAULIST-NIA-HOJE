@@ -3,6 +3,256 @@
 "itens": [
 {
 "d": "2026-11-16",
+"h": "19:53",
+"t": "Mogi das Cruzes inicia megaoperação de zeladoria nos bairros da divisa",
+"p": "Ação realiza serviços de manutenção, conservação e melhorias no Jardim Margarida, Residencial Novo Horizonte e Jardim Piatã I e II",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Novo Horizonte"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-inicia-megaoperacao-de-zeladoria-nos-bairros-da-divisa/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:53",
+"t": "Homem usa detector de metais por 15 minutos, encontra anel de ouro de séculos atrás com a frase “Vivo na esperança” e a joia vai a leilão em dezembro",
+"p": "Anel posy de ouro com a inscrição Let reason rule affection, catalogado no Portable Antiquities Scheme (FindID 276615). Imagem ilustrativa de outro achado; não é o anel I live in hope encontrado por Kevin Short. Kevin Short encontrou, em 15 minutos de busca com detector de metais em Warwickshire, um anel de ouro…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/homem-usa-detector-de-metais-por-15-minutos-encontra-anel-de-ouro-de-seculos-atras-com-a-frase-vivo-na-esperanca-e-a-joia-vai-a-leilao-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:47",
+"t": "Menino de 3 anos é encontrado sozinho em ponto de ônibus",
+"p": "Menino foi levada para um abrigo municipal após ser encontrada no Parque do Horto; o pai foi preso em flagrante",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/menino-de-3-anos-e-encontrado-sozinho-em-ponto-de-onibus/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:43",
+"t": "Tamoios terá bloqueios de 12 horas por dia em Caraguatatuba; veja dias, horários e desvios",
+"p": "Durante as obras, os motoristas deverão utilizar retornos alternativos da Tamoios para acessar os bairros ou voltar em direção à cidade",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/tamoios-tera-bloqueios-de-12-horas-por-dia-em-caraguatatuba-veja-dias-horarios-e-desvios.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:30",
+"t": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias nos primeiros sete meses de 2026, aponta Comsefaz",
+"p": "O avanço das plataformas de apostas online segue consumindo uma parcela expressiva da renda no país. Nos primeiros sete meses de 2026, a saída líquida de recursos do orçamento das famílias associada às bets atingiu R$ 40,4 bilhões. Os números integram o 4º Boletim Fiscal dos Estados Brasileiros, elaborado pelo…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/bets-tiraram-r-404-bilhoes-do-orcamento-das-familias-nos-primeiros-sete-meses-de-2026-aponta-comsefaz/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:29",
+"t": "Taboão da Serra inaugura base da GCM no Parque Pinheiros e confirma novas unidades para outros três bairros",
+"p": "A Guarda Civil Municipal (GCM) de Taboão da Serra, na região sudoeste da Grande São Paulo, inaugurou nesta segunda-feira (16/11) uma nova base operacional no Parque Pinheiros, região que concentra uma das maiores incidências de ocorrências criminais do município, segundo a Secretaria de Segurança. A unidade será…",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Taboão da Serra"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/taboao-da-serra-inaugura-base-da-gcm-no-parque-pinheiros-e-confirma-novas-unidades-para-outros-tres-bairros/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:28",
+"t": "Motociclista morre três dias antes de completar 29 anos após acidente na Rodovia Euclides da Cunha",
+"p": "Operador de máquinas de 28 anos perdeu o controle da motocicleta e morreu no local; veículo foi encontrado a cerca de 100 metros do corpo às margens da rodovia, em Tanabi/SP. Um motociclista de 28 anos morreu na noite deste domingo (15.nov) após sofrer um acidente na Rodovia Euclides da Cunha (SP-320), em…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Tanabi",
+"Cunha"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/motociclista-morre-tres-dias-antes-de-completar-29-anos-apos-acidente-na-rodovia-euclides-da-cunha/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:26",
+"t": "Dia da Prematuridade: histórias de cuidado marcam trajetória da UTI Neonatal da Santa Casa de Votuporanga",
+"p": "Há 19 anos, unidade acompanha bebês e famílias com assistência especializada, tecnologia e um cuidado que respeita o tempo e as necessidades de cada recém-nascido. Dentro de uma UTI Neonatal, o tempo parece seguir outro ritmo. Alguns gramas a mais, menos ajuda para respirar, a primeira mamada ou o momento em que os…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/dia-da-prematuridade-historias-de-cuidado-marcam-trajetoria-da-uti-neonatal-da-santa-casa-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:22",
+"t": "“Preceptoria no internato na saúde” é tema de capacitação na Unifev",
+"p": "Promovida pelo curso de Medicina, em parceria com a Santa Casa de Votuporanga, iniciativa abordou os desafios, oportunidades e a aproximação do ensino no ambiente de trabalho na supervisão e orientação de estudantes e residentes, além de discutir técnicas ativas e participativas na formação médica. Com o propósito…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/preceptoria-no-internato-na-saude-e-tema-de-capacitacao-na-unifev/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:18",
+"t": "Jovem morre após caminhonete capotar na Rodovia Washington Luís em Mirassol",
+"p": "Passageiro ficou preso às ferragens e não resistiu aos ferimentos após o acidente registrado durante a madrugada de sábado (14); motorista, esposa da vítima, saiu ilesa. Um jovem de 20 anos morreu após a caminhonete em que viajava capotar na madrugada do último sábado (14.nov), na Rodovia Washington Luís (SP-310),…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mirassol"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/jovem-morre-apos-caminhonete-capotar-na-rodovia-washington-luis-em-mirassol/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:15",
+"t": "Amazon lança drone com câmera em 360º que voa pelos cômodos da casa sozinho em ‘rondas’ e robô terrestre com gravação em 4K; veja como funcionam",
+"p": "A Ring, subsidiária da Amazon, anunciou em 10 de novembro um drone com câmera que percorre diferentes cômodos da casa. O Ring Drone Cam pode sair da base quando um alarme dispara ou seguir uma rota programada pelo morador. Depois de completar a ronda, o aparelho pode voltar à estação para recarregar a bateria. O […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/amazon-lanca-drone-com-camera-em-360o-que-voa-pelos-comodos-da-casa-sozinho/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:13",
+"t": "Procurado pela Justiça de MS é capturado pela Polícia Militar em Votuporanga",
+"p": "Homem foi localizado durante patrulhamento na Avenida José Marão Filho e tinha mandado de prisão para cumprimento de pena em regime fechado. Um homem procurado pela Justiça foi capturado pela Polícia Militar na manhã do último sábado (14.nov), em Votuporanga/SP. A ocorrência foi registrada por volta das 6h40,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/procurado-pela-justica-de-ms-e-capturado-pela-policia-militar-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:11",
+"t": "Pai e filho morrem após veículo atingir árvore em rodovia de Santa Albertina",
+"p": "Violenta colisão deixou dois mortos e duas mulheres gravemente feridas na Rodovia Armindo Pilhalarmi (SP-561); vítimas ficaram presas às ferragens e foram retiradas pelos bombeiros. Um grave acidente registrado na tarde deste domingo (15.nov) na Rodovia Armindo Pilhalarmi (SP-561), entre Santa Albertina/SP e a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santa Albertina"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/pai-e-filho-morrem-apos-veiculo-atingir-arvore-em-rodovia-de-santa-albertina/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:11",
+"t": "Aposta de Fernandópolis fatura mais de R$ 32 mil ao acertar a quina da Mega-Sena",
+"p": "Moradores de Fernandópolis têm motivos para comemorar após o mais recente sorteio da Mega-Sena, realizado no último domingo (15). Uma aposta simples registrada na cidade por meio dos canais eletrônicos oficiais da Caixa Econômica Federal acertou cinco das seis dezenas do concurso 3.086, garantindo um prêmio…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/aposta-de-fernandopolis-fatura-mais-de-r-32-mil-ao-acertar-a-quina-da-mega-sena/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:10",
+"t": "Unifev realiza o curso “Stewardship de Antimicrobianos”",
+"p": "Graduação de Farmácia promoveu a iniciativa para capacitar estudantes da área da saúde para o uso seguro e racional de medicamentos antimicrobianos, abordando aspectos clínicos, operacionais e de gestão relacionados ao combate de microrganismos. O gerenciamento do uso de antimicrobianos reúne estratégias…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/unifev-realiza-o-curso-stewardship-de-antimicrobianos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:06",
+"t": "Cerca de 20 cães e gatos mutilados são encontrados em sacos plásticos em Rio Preto",
+"p": "Animais foram localizados sem pele e sem cabeça em um canteiro central; Polícia Civil investiga crime ambiental e apura possível relação com rituais após perícia encontrar objetos próximos aos corpos. Um caso de extrema crueldade contra animais está sendo investigado pela Polícia Civil de São José do Rio Preto/SP…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/cerca-de-20-caes-e-gatos-mutilados-sao-encontrados-em-sacos-plasticos-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:05",
+"t": "Homem é preso em SP suspeito de matar o próprio irmão após briga por bens",
+"p": "Segundo a Polícia Civil, Matheus Victor Cardoso da Silva foi atingido por vários disparos no rosto e na cabeça em Suzano",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Suzano"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-e-preso-em-sp-suspeito-de-matar-o-proprio-irmao-apos-briga-por-bens",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:00",
+"t": "Envolvido em nova polêmica, Alexandre Frota já admitiu uso de drogas e trocou acusações com famosos",
+"p": "A Justiça de São Paulo determinou que a Rede Globo deposite em uma conta judicial os pagamentos destinados a Alexandre Frota para quitar uma dívida do ator com o Banco Besa, antigo Banco Econômico. O débito, inicialmente de R$ 88,4 mil, foi atualizado para R$ 1,3 milhão, considerando juros e correção monetária. A…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/envolvido-em-nova-polemica-alexandre-frota-ja-admitiu-uso-de-drogas-e-trocou-acusacoes-com-famosos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
 "h": "18:53",
 "t": "Semana da Consciência Negra terá atividades culturais no Parque da Cultura",
 "p": "Programação de 17 a 22 de novembro inclui exposição literária, capoeira, oficinas, dança, música, artesanato e cinema. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com A Semana da Consciência Negra será realizada de 17 a 22 de novembro no Parque da Cultura, em…",
@@ -142,6 +392,20 @@
 },
 {
 "d": "2026-11-16",
+"h": "18:30",
+"t": "Santo André avança no planejamento climático com foco na arborização",
+"p": "Plano de Adaptação Climática tem previsão de conclusão até agosto de 2027; Frente Parlamentar de Arborização Urbana promoveu reunião com Semasa,vereadores e munícipes nesta segunda",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369145/santo-andre-avanca-no-planejamento-climatico-com-foco-na-arborizacao",
+"auto": true
+},
+{
+"d": "2026-11-16",
 "h": "18:20",
 "t": "Mais de 1,5 mil estudantes do 2º ano do Ensino Fundamental de Suzano farão prova de alfabetização",
 "p": "Aplicação acontece entre esta segunda-feira (16) e o dia 4 de dezembro",
@@ -192,6 +456,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/cantarella-prefeitura-e-unifef-divulgam-notas-de-repudio-e-solidariedade-apos-agressao-a-servidora-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "18:03",
+"t": "Câmara do Rio mantém homenagem a Eduarda Campopiano, deputada de SP que assume em 2027",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369149/camara-do-rio-mantem-homenagem-a-eduarda-campopiano-deputada-de-sp-que-assume-em-2027",
 "auto": true
 },
 {
