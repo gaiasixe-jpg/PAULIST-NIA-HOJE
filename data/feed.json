@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-16T19:55:21-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-16T20:50:42-03:00",
+"novos_nesta_coleta": 23,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,210 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "20:40",
+"t": "Empresário é preso suspeito de enviar bomba escondida em videogame para loja concorrente",
+"p": "A Polícia Civil prendeu nesta segunda-feira (16), em Santo André, na Grande São Paulo, o empresário Everton Yoshizumi Lima, de 39 anos, suspeito de arquitetar um atentado contra um concorrente comercial utilizando um explosivo oculto no interior de um console de videogame. De acordo com a investigação conduzida…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santo André"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/empresario-e-preso-suspeito-de-enviar-bomba-escondida-em-videogame-para-loja-concorrente/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:34",
+"t": "Ouvidoria da Ares-PCJ realiza primeiro atendimento presencial em Votuporanga",
+"p": "Ação ocorreu nesta segunda-feira (16), na sede da Saev Ambiental, e será realizada a cada dois meses para aproximar a Agência Reguladora dos usuários dos serviços de saneamento. A Ouvidoria da Agência Reguladora dos Serviços de Saneamento das Bacias dos Rios Piracicaba, Capivari e Jundiaí (Ares-PCJ) realizou, nesta…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Votuporanga",
+"Piracicaba",
+"Jundiaí"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/ouvidoria-da-ares-pcj-realiza-primeiro-atendimento-presencial-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:31",
+"t": "Crocodilos se deitam em jet skis e caiaques para sobreviver em ambiente em mutação, revelando adaptação que vai muito além da termorregulação",
+"p": "Réptil de grande porte repousa alongado sobre o casco de um jet ski branco em água rasa de canal, evidência visual do uso de embarcação como substituto de margem natural na Flórida. Ilustração criada com Inteligência Artificial Crocodilo de cerca de dois metros foi flagrado deitado sobre um jet ski no condado de…",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/crocodilos-se-deitam-em-jet-skis-e-caiaques-para-sobreviver-em-ambiente-em-mutacao-revelando-adaptacao-que-vai-muito-alem-da-termorregulacao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:30",
+"t": "PF apreende 153 kg de cocaína em navio no Porto de Santos",
+"p": "Divulgação/Polícia Federal Comandante relatou ter visto quatro suspeitos na embarcação.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/porto-e-negocios/pf-apreende-153-kg-de-cocaina-em-navio-no-porto-de-santos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:27",
+"t": "Em uma ilha da Bolívia, famílias indígenas colocam uma rã gigante em um pote de barro para pedir chuva durante a seca e soltam o animal ao amanhecer",
+"p": "A espécie endêmica é considerada sagrada pelas mulheres aymaras da Ilha da Lua e ganha proteção reforçada com a seca do El Niño no altiplano boliviano. Ilustração criada com Inteligência Artificial Mulheres aymaras da Ilha da Lua, no lago Titicaca, mantêm o costume ancestral de proteger a rã gigante, anfíbio…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/em-uma-ilha-da-bolivia-familias-indigenas-colocam-uma-ra-gigante-em-um-pote-de-barro-para-pedir-chuva-durante-a-seca-e-soltam-o-animal-ao-amanhecer/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:26",
+"t": "Homem é morto com tiro no rosto após ser chamado pelo nome na porta de casa em Jales",
+"p": "André Pereira Muniz, de 33 anos, foi assassinado em frente à própria residência após atender ao chamado de ocupantes de uma motocicleta. Polícia Civil apura possível ligação do crime com o tráfico de drogas. Um homem de 33 anos foi morto a tiros na manhã desta segunda-feira (16.nov), no bairro Nova Jales, em…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/homem-e-morto-com-tiro-no-rosto-apos-ser-chamado-pelo-nome-na-porta-de-casa-em-jales/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:17",
+"t": "Mulher finge gravidez para tentar sequestrar recém-nascida de maternidade e acaba presa",
+"p": "Foto: Imagem ilustrativa/Tribuna de Jundiaí Suspeita de 27 anos colocou a bebê em uma sacola e pretendia criá-la como filha. Uma funcionária percebeu a situação e acionou o protocolo de segurança do hospital.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/mulher-tenta-sequestrar-recem-nascida-maternidade/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:08",
+"t": "Sesc Marília recebe 8,5 mil pessoas no primeiro dia e terá quase 80 atividades até o fim do mês",
+"p": "Após inauguração movimentada no fim de semana, unidade inicia programação regular nesta terça-feira (17), com shows de Rashid, Maglore e Tuyo, teatro com Caio Blat, cinema, dança e atividades esportivas.",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/noticias/sesc-marilia-recebe-85-mil-pessoas-no-primeiro-dia-e-tera-quase-80-atividades-ate-o-fim-do-mes/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:08",
+"t": "Acidente da Voepass: quatro investigados confessam crime e fazem acordo para evitar processo criminal",
+"p": "Pilotos e despachantes operacionais terão de cumprir medidas como pagamento em dinheiro ou prestação de serviços comunitários; queda de avião em Vinhedo deixou 62 mortos em agosto de 2024",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Vinhedo"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/acidente-da-voepass-quatro-investigados-confessam-crime-e-fazem-acordo-para-evitar-processo-criminal/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:06",
+"t": "Três feridos no incêndio em fábrica de solventes em Salto seguem na UTI",
+"p": "Fogo foi extinto após 54h de trabalhos. Incêndio deixou ao menos 12 feridos, segundo Prefeitura de Salto (SP)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Salto"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tres-feridos-no-incendio-em-fabrica-de-solventes-em-salto-seguem-na-uti",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:04",
+"t": "Caixa com dezenove animais se contorcendo como cobras abriga lagartos cegos que buscavam abrigo do frio para sobreviver ao inverno",
+"p": "Crédito: Leśne Pogotowie/Facebook Equipes na Polônia abriram uma caixa subterrânea de inspeção e encontraram dezenove lagartos sem patas, as cobras-de-vidro, que buscavam abrigo do frio e ficaram presos.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/caixa-com-dezenove-animais-se-contorcendo-como-cobras-abriga-lagartos-cegos-que-buscavam-abrigo-do-frio-para-sobreviver-ao-inverno/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:01",
+"t": "Mercado Municipal de Campos do Jordão: mais de um século de história em imagens",
+"p": "Linha do tempo reúne os registros antigos, os prefeitos ligados às transformações do mercado e a inauguração do mural “Abernéssia Viva”, de Felipe Rezende.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/historia-mercado-municipal-campos-do-jordao.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:00",
+"t": "Passeio de trem ao interior de São Paulo terá vagão-restaurante com comida e bebida à vontade",
+"p": "Um passeio de trem com open bar, open food e parada em uma vila histórica está programado para 30 de janeiro de 2027, em Guararema, no interior de São Paulo. A experiência será realizada a bordo de um carro-restaurante Pullman, modelo de 1950, e terá saída a partir do Terminal Barra Funda, na capital paulista. […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guararema",
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/passeio-de-trem-ao-interior-de-sao-paulo-tera-vagao-restaurante-com-comida-e-bebida-a-vontade/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "19:57",
+"t": "Feriado da Consciência Negra: veja os horários de maior movimento na Anhanguera e Bandeirantes",
+"p": "Foto: Tribuna de Jundiaí Motiva AutoBAn prevê 2,1 milhões de veículos nas rodovias Anhanguera e Bandeirantes no feriado da Consciência Negra, com picos na quinta e no domingo.",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/feriado-da-consciencia-negra-veja-os-horarios-de-maior-movimento-na-anhanguera-e-bandeirantes/",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "19:53",
@@ -54842,199 +55041,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/economia/alunos-que-entraram-depois-no-pe-de-meia-tem-direito-ao-retroativo-entenda-a-decisao-do-mec/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:16",
-"t": "Polícia Civil vai investigar policial que pode ter favorecido Cariani",
-"p": "Segundo Ministério Público de São Paulo, investigador da Polícia Civil André Dziuba mantinha relação de amizade com o influenciador",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/policia-civil-vai-investigar-policial-que-pode-ter-favorecido-cariani",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:12",
-"t": "Ônibus de Santos serão gratuitos nos dois dias do Enem 2026",
-"p": "Passe livre vigora das 8h às 21h nos dias 8 e 15 de novembro para facilitar o deslocamento de estudantes até os locais de prova",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/santos/onibus-de-santos-serao-gratuitos-nos-dois-dias-do-enem-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:00",
-"t": "Campo Grande tem renda 57% menor que a média de Campinas e baixa escolaridade, aponta estudo",
-"p": "Levantamento da Casa Hacker analisou 256 setores censitários do distrito do Campo Grande e identificou que apenas 8,4% dos moradores com 25 anos ou mais concluíram o ensino superior",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/campo-grande-tem-renda-57-menor-que-a-media-de-campinas-e-baixa-escolaridade-aponta-estudo/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "08:53",
-"t": "Menino de 13 anos cria solução simples para problema de 72 anos nas placas de energia solar com investimento de apenas 25 dólares",
-"p": "Um menino de 13 anos chamado Jason Chang criou uma solução para uma das principais desvantagens da energia solar, que permaneciam uma incógnita desde a criação as placas fotovoltaicas em abril de 1954. A maioria dos painéis fotovoltaicos permanece em posição fixa, perdendo uma parte significativa da radiação solar…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/menino-de-13-anos-cria-solucao-simples-para-problema-de-72-anos-nas-placas-de-energia-solar-com-investimento-de-apenas-25-dolares/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "08:52",
-"t": "Fuvest 2027: primeira fase é aplicada neste domingo (1º/11) em novo formato",
-"p": "Vestibular terá 80 questões na primeira fase, aplicação inédita em Fortaleza e mudanças no trânsito",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/fuvest-2027-primeira-fase-e-aplicada-neste-domingo-1o-11-em-novo-formato",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "08:35",
-"t": "Homem invade casa, força relação sexual e é preso por estupro em Garça",
-"p": "Ocorrência foi registrada na DDM de Marília Homem entrou na residência sem autorização, atacou a mulher e foi preso em flagrante pela Polícia Militar.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília",
-"Garça"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/homem-invade-casa-forca-relacao-sexual-e-e-preso-por-estupro-em-garca/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "08:17",
-"t": "Briga após saída de adega termina com duas pessoas feridas em Marília",
-"p": "Caso será investigado pela Polícia Civil de Marília Grupo de quatro mulheres teria iniciado as agressões após provocações na madrugada deste domingo (1º), no Jardim Adolpho Bim.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/briga-apos-saida-de-adega-termina-com-duas-pessoas-feridas-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "08:15",
-"t": "Fisiculturista santista projeta retorno forte em 2027",
-"p": "Fábio Maradei Depois de oito anos competindo, sempre com foco na busca pelo próximo pódio, a santista Tatiana Soares Bernegozzi (Fupes) decidiu que era hora de uma pausa estratégica, planejada. Não para se afastar do fisiculturismo, mas para preparar o próximo passo. Aos 34 anos, a atleta fez de 2026 um período de…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Prefeitura de Santos",
-"u": "https://www.santos.sp.gov.br/?q=noticia/fisiculturista-santista-projeta-retorno-forte-em-2027",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "08:00",
-"t": "Interior de SP tem alerta de tempestade e previsão de chuva neste domingo; veja horários",
-"p": "Inmet emitiu aviso amarelo para a região de Campinas, com possibilidade de ventos de até 60 km/h e granizo; temperaturas devem variar entre 19 °C e 28 °C, com maior risco de chuva à tarde e à noite",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/interior-de-sp-tem-alerta-de-tempestade-e-previsao-de-chuva-neste-domingo-veja-horarios/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "07:52",
-"t": "Reforma Tributária coloca setor de serviços de Marília em alerta",
-"p": "Mudanças podem afetar custos, preços e competitividade das empresas do setor que concentra mais da metade dos empregos formais da cidade.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/reforma-tributaria-coloca-setor-de-servicos-de-marilia-em-alerta/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "07:30",
-"t": "Renata Louzada expõe nova escultura em areia no Fórum de Itanhaém",
-"p": "A artista e escultora Renata Louzada está com uma nova exposição de escultura em areia sobre o tema o desenho “Masha e o Urso”, no hall de entrada do Fórum de Itanhaém, no centro. A obra pode ser visitada até 28 de novembro, no Fórum. Essa é a primeira vez que a artista expõe o […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Itanhaém"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/itanhaem/renata-louzada-expoe-nova-escultura-em-areia-no-forum-de-itanhaem/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "07:05",
-"t": "Ribeirão Preto pode ter pancadas de chuva neste domingo; Veja previsão",
-"p": "Ribeirão Preto tem previsão de pancadas de chuva, que podem ser fortes neste 1º de novembro; Há risco de temporais isolados pela região",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/ribeirao-preto-pode-ter-pancadas-de-chuva-neste-domingo-veja-previsao/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "06:58",
-"t": "Secretaria de Saúde de Mira Estrela promove encontro para fortalecimento de famílias atípicas",
-"p": "A Secretaria Municipal de Saúde de Mira Estrela realizou, na última quinta-feira (29), uma reunião especial voltada às famílias integrantes do Grupo de Acolhimento e Cuidado para Famílias Atípicas. O evento reuniu participantes e profissionais da rede pública para criar um espaço de escuta, troca de experiências e…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mira Estrela"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/secretaria-de-saude-de-mira-estrela-promove-encontro-para-fortalecimento-de-familias-atipicas/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "05:00",
-"t": "Danilo da Saúde destaca que parceria com a PM amplia proteção da população",
-"p": "Parceria estratégica será votada na próxima sessão ordinária do Legislativo, que ocorre no dia 3 de novembro, em razão de Finados.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/danilo-da-saude-destaca-que-parceria-com-a-pm-amplia-protecao-da-populacao/",
 "auto": true
 }
 ]
