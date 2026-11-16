@@ -3,6 +3,473 @@
 "itens": [
 {
 "d": "2026-11-16",
+"h": "15:03",
+"t": "Crianças de Atibaia conhecem o mar pela primeira vez em passeio à praia de São Vicente",
+"p": "Estudantes do 5º ano ganharam viagem como presente de pré-formatura; programação na praia do Itararé também contou com recursos de acessibilidade para uma aluna com paralisia cerebral",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Vicente",
+"Atibaia",
+"Itararé"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/criancas-de-atibaia-conhecem-o-mar-pela-primeira-vez-em-passeio-a-praia-de-sao-vicente.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:02",
+"t": "Do feijão ao peixe: veja como a alimentação contribui para a saúde cerebral",
+"p": "Esquecer onde deixou as chaves ou ter dificuldade para lembrar um nome são situações comuns. Com o envelhecimento, porém, a preocupação com a memória e o risco de doenças neurodegenerativas, como o Alzheimer, leva muitas pessoas a procurar formas de preservar a saúde do cérebro. Entre as dúvidas mais frequentes…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/do-feijao-ao-peixe-veja-como-a-alimentacao-contribui-para-a-saude-cerebral/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:00",
+"t": "Árvore de Natal gigante e interativa é atração gratuita em São Paulo",
+"p": "A Árvore de Natal Fantástica, de 10 metros de altura, já está aberta para visitação gratuita no Farol Santander, no centro de São Paulo. A instalação interativa faz parte da programação natalina do espaço e pode ser visitada desde a última sexta-feira (13/11). A estrutura reúne 750 ornamentos, entre bolas, enfeites…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/arvore-de-natal-gigante-e-interativa-e-atracao-gratuita-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:00",
+"t": "‘Empreteceu a Consciência’: Jundiaí recebe espetáculo sobre racismo e identidade nesta terça-feira (17)",
+"p": "Foto: Divulgação Com dramaturgia de Guga Menga e Tom Aguiar, peça aborda ancestralidade, memória e os desafios da construção da identidade negra",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/espetaculo-empreteceu-a-consciencia-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "15:00",
+"t": "Parada de Natal reúne multidão em Santos",
+"p": "Carlos Nogueira/Divulgação Prefeitura de Santos A época mais esperada do ano, principalmente pelas crianças, começou com a 14ª Parada de Natal do Shopping Parque Balneário.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/parada-de-natal-reune-multidao-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:59",
+"t": "Pupo apresenta pedido de CPI sobre ação de usucapião em área da Coopec",
+"p": "Vereador aponta possível conflito de interesses e questiona procedimentos administrativos",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/pupo-apresenta-pedido-de-cpi-sobre-acao-de-usucapiao-em-area-da-coopec/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:56",
+"t": "Defesa Civil interdita trecho no Parque das Nações por risco de queda de poste em Fernandópolis",
+"p": "A Defesa Civil de Fernandópolis realizou a interdição preventiva de uma área na Travessa Chile, localizada no bairro Parque das Nações, nesta segunda-feira (16), devido ao risco iminente de queda de um poste de madeira que sustenta a rede de energia elétrica. A medida foi adotada após a constatação de que a…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-interdita-trecho-no-parque-das-nacoes-por-risco-de-queda-de-poste-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:54",
+"t": "SP terá mutirão contra dengue; Zamarco cita atrasos do Ministério da Saúde",
+"p": "São Paulo fará mutirão de combate à dengue em dezembro. Secretário da Saúde citou atrasos do Ministério da Saúde no envio de insumos",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sp-tera-mutirao-contra-dengue-zamarco-cita-atrasos-do-ministerio-da-saude",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:53",
+"t": "Prefeitura de Fernandópolis articula aproximação com empresas de Taiwan para atrair investimentos",
+"p": "O prefeito de Fernandópolis, João Paulo Cantarella, acompanhado pelo secretário municipal de Desenvolvimento, Eberti Sabion, participou de uma reunião estratégica com lideranças do setor empresarial para apresentar os diferenciais econômicos do município e abrir diálogo sobre possíveis investimentos de companhias…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-articula-aproximacao-com-empresas-de-taiwan-para-atrair-investimentos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:52",
+"t": "Portal da Transparência de Fernandópolis passa por manutenção e fica temporariamente indisponível",
+"p": "A Prefeitura de Fernandópolis comunicou que o Portal da Transparência do município passará por uma interrupção temporária em seu funcionamento a partir das 17h desta segunda-feira (16). A suspensão do serviço é necessária para a realização de procedimentos técnicos de manutenção na plataforma digital. De acordo com…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/portal-da-transparencia-de-fernandopolis-passa-por-manutencao-e-fica-temporariamente-indisponivel/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:51",
+"t": "Mostra Estudantil de Teatro de Fernandópolis entra na segunda semana com sucesso de público",
+"p": "A 29ª Mostra Estudantil de Teatro de Fernandópolis inicia sua segunda semana de programação celebrando a alta qualidade artística e a forte presença do público local. Ao longo dos primeiros dias de evento, seis espetáculos subiram ao palco com grande destaque para produções voltadas ao público infantojuvenil,…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mostra-estudantil-de-teatro-de-fernandopolis-entra-na-segunda-semana-com-sucesso-de-publico/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:50",
+"t": "V Conect UNIFEF começa hoje com palestra gratuita sobre inteligência artificial e o futuro das carreiras",
+"p": "O Centro Universitário de Fernandópolis (UNIFEF) dá início nesta segunda-feira (16) à programação oficial da quinta edição do Conect UNIFEF. O evento acadêmico abre suas atividades às 19h30 com a palestra intitulada “O Futuro das Profissões e as Profissões do Futuro: Como a IA está Transformando Carreiras”, que…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/v-conect-unifef-comeca-hoje-com-palestra-gratuita-sobre-inteligencia-artificial-e-o-futuro-das-carreiras/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:47",
+"t": "Bebê de 1 ano morre após ser atacada por rottweiler no quintal da avó",
+"p": "Segundo a Secretaria da Segurança Pública, a bebê já chegou no hospital sem vida, após ser vítima do ataque de um rottweiler",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bebe-de-1-ano-morre-apos-ser-atacada-por-rottweiler-no-quintal-da-avo",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:45",
+"t": "Concurso da Mata de Santa Genebra prorroga inscrições; salários chegam a R$ 8,9 mil",
+"p": "Inscrições para concurso público da Mata Santa Genebra em Campinas foram prorrogadas até 19 de novembro; provas estão previstas para dezembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/concurso-da-mata-de-santa-genebra-prorroga-inscricoes-salarios-chegam-a-r-89-mil/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:41",
+"t": "GCM detém homem de 64 anos após ocorrência no bairro Aparecidinha",
+"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba deteve, na manhã de sábado (14), um homem de 64 anos, após uma ocorrência envolvendo uma menina de 12 anos que estava em um ponto de ônibus, no bairro Aparecidinha, na Zona Leste da cidade. A ocorrência teve início quando três adolescentes procuraram a equipe da […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-detem-homem-de-64-anos-apos-ocorrencia-no-bairro-aparecidinha/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:39",
+"t": "Futuro da água e esgoto em Ribeirão Preto será discutido em audiência pública nesta terça (17)",
+"p": "Debate sobre estudos técnicos de água e esgoto acontece na Sala de Comissões, da Câmara de Ribeirão Preto",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/futuro-da-agua-e-esgoto-em-ribeirao-preto-sera-discutido-em-audiencia-publica-nesta-terca-17/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:37",
+"t": "\"Espero que seja alguém do meu governo\", diz Nunes sobre sucessão em 2028",
+"p": "Quatro nomes ligados à gestão de Ricardo Nunes (MDB) são cotados para a disputa pela Prefeitura de São Paulo nas próximas eleições",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/espero-que-seja-alguem-do-meu-governo-diz-nunes-sobre-sucessao-em-2028",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:30",
+"t": "Natal em Cajamar terá show de drones, parque de diversões gratuito e Papai Noel",
+"p": "Foto: Prefeitura de Cajamar Programação terá cenários iluminados, árvore gigante, presépio e atrações para crianças, com visitação de terça-feira a domingo após a inauguração. Confira.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Cajamar"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/natal-cajamar-feliz-2026/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:23",
+"t": "GCM apreende 282 porções de drogas na Vila Leopoldina",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba apreendeu, na tarde de domingo (15), 282 porções de drogas durante patrulhamento preventivo pela Rua Adão de Brito, localizada na Vila Leopoldina, Zona Norte da cidade. A equipe avistou um indivíduo em uma área de mata que, ao perceber a aproximação da viatura, fugiu…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-282-porcoes-de-drogas-na-vila-leopoldina/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:22",
+"t": "Alerta de tempestade abre semana de calor e instabilidade na região",
+"p": "Inmet prevê chuva de até 50 milímetros, ventos de até 60 km/h e possibilidade de granizo nesta segunda-feira (16)",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/alerta-de-tempestade-abre-semana-de-calor-e-instabilidade-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:21",
+"t": "GCM apreende 370 porções de entorpecentes durante patrulhamento preventivo no Jd. Santa Cecília",
+"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba apreendeu, manhã deste sábado (14), 370 porções de entorpecentes no Jardim Santa Cecília, Zona Norte da cidade. O caso ocorreu durante patrulhamento preventivo pelo bairro. A equipe avistou um indivíduo que, ao perceber a aproximação da viatura, fugiu…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-370-porcoes-de-entorpecentes-durante-patrulhamento-preventivo-no-jd-santa-cecilia/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:15",
+"t": "Fraude em identidades: trio foi filmado em posto de emissão de documentos",
+"p": "Investigação aponta que líderes do esquema cobravam 100 mil dólares para obter identidades brasileiras falsificadas para estrangeiros",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/fraude-em-identidades-trio-foi-filmado-em-posto-de-emissao-de-documentos",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:15",
+"t": "O que a WEG vai fabricar na nova fábrica do México que terá investimento de R$ 1,4 bilhão",
+"p": "A WEG, multinacional fundada em Santa Catarina, vai investir US$ 250 milhões, aproximadamente R$ 1,4 bilhão, na construção de uma nova fábrica no México. A unidade será instalada no estado de Hidalgo e terá capacidade para gerar até 6 mil empregos, entre diretos e indiretos. O anúncio foi feito na última…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/o-que-a-weg-vai-fabricar-na-nova-fabrica-do-mexico-que-tera-investimento-de-r-14-bilhao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:15",
+"t": "Polícia Municipal e suspensão de salários de assessores estão na pauta da Câmara",
+"p": "Propostas tratam também de descarte irregular de lixo, transporte coletivo e requalificação urbana",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-municipal-e-suspensao-de-salarios-de-assessores-estao-na-pauta-da-camara/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:09",
+"t": "Santos anuncia plantio de mais de 5 mil árvores em áreas críticas como uma das medidas de novo plano contra ondas de calor extremo",
+"p": "A Prefeitura de Santos anunciou diversas medidas para o Plano Municipal de Contingência para Eventos de Calor Extremo e Ondas de Calor na manhã desta segunda-feira (16). Entre elas, foi anunciado o plantio de mais de 5 mil árvores nos pontos onde mais se concentram regiões de calor no município. Essa ação faz parte…",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/santos-anuncia-plantio-de-mais-de-5-mil-arvores-em-areas-criticas-como-uma-das-medidas-de-novo-plano-contra-ondas-de-calor-extremo/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:07",
+"t": "Quer fechar parcerias em Ribeirão Preto? Acirp abre inscrições para rodada de negócios",
+"p": "Dinâmica reúne empreendedores de Ribeirão Preto no dia 9 de dezembro para divulgação de serviços, troca de contatos e fechamento de parcerias comerciais",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/quer-fechar-parcerias-em-ribeirao-preto-acirp-abre-inscricoes-para-rodada-de-negocios/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:06",
+"t": "Oferta de R$ 5 mil às famílias da CDHU pesa em análise do TJ sobre responsabilidade do Estado",
+"p": "Governo alegou que proposta não significava reconhecimento de responsabilidade, mas desembargadores consideraram medida um indicativo de sua participação na assistência às famílias.",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/oferta-de-r-5-mil-as-familias-da-cdhu-pesa-em-analise-do-tj-sobre-responsabilidade-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:04",
+"t": "Enem 2026: começa prazo para pedir reaplicação de provas em dezembro",
+"p": "Problemas logísticos e doenças contagiosas estão entre motivos validos para a solicitação",
+"tema": "Geral",
+"s": "obra",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/enem-2026-comeca-prazo-para-pedir-reaplicacao-de-provas-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "14:00",
+"t": "Show da Mariah Carey terá ruas interditadas e faixa reversível na zona oeste de SP; veja bloqueios e alternativas",
+"p": "A Companhia de Engenharia de Tráfego (CET) vai monitorar o trânsito na região do Nubank Parque, na Pompeia, zona oeste de São Paulo, durante o show de Mariah Carey. A cantora chegou ao Brasil no domingo (8/11), e foi recebida pelos fãs que a aguardavam na porta do hotel na capital paulista. Veja fotos. A […]",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/show-de-mariah-carey-tera-ruas-interditadas-e-faixa-reversivel-na-zona-oeste-de-sp-veja-bloqueios-e-alternativas/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:57",
+"t": "João Paulo assume Prefeitura de Várzea Paulista durante férias do prefeito Rodolfo Braga",
+"p": "Foto: Prefeitura de Várzea Paulista Vice-prefeito ficará à frente do Executivo Municipal pelos próximos 15 dias, garantindo a continuidade dos trabalhos e das ações da administração",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/joao-paulo-assume-prefeitura-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:56",
+"t": "Prazo de inscrição para o Vestibular das Fatecs de SP termina às 20h",
+"p": "São mais de 13 mil vagas em graduações gratuitas; inscrição permite indicar duas opções de curso",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prazo-de-inscricao-para-o-vestibular-das-fatecs-de-sp-termina-as-20h/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:55",
+"t": "Nunes deseja \"sorte\" para Tarcísio após anúncio de Salles como secretário",
+"p": "Nunes e Salles têm histórico de atritos nos últimos anos. Apesar de ser aliado do prefeito, Tarcísio anunciou o ex-ministro como secretário",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/nunes-deseja-sorte-para-tarcisio-apos-anuncio-de-salles-como-secretario",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:55",
+"t": "Aposta de Mongaguá fica a uma dezena de ganhar R$ 26 milhões na Mega-Sena e garante prêmio",
+"p": "O concurso 3.086 da Mega-Sena premiou uma aposta registrada em Mongaguá, no litoral de São Paulo. O sorteio aconteceu na manhã do último domingo (16). O jogo acertou cinco das seis dezenas e, por apenas um número, não levou o prêmio máximo de R$ 26.855.904,50. Agora, a Mega-Sena volta a sortear nesta terça-feira,…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo",
+"Mongaguá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/aposta-de-mongagua-fica-a-uma-dezena-de-ganhar-r-26-milhoes-na-mega-sena-e-garante-premio/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:54",
+"t": "Travessias hídricas de SP passam a aceitar Pix e cartões; veja o que muda",
+"p": "Novas formas de pagamento serão implantadas gradualmente nas 14 travessias concedidas; dinheiro e tags continuam disponíveis, sem reajuste nas tarifas",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/balsas/travessias-hidricas-de-sp-passam-a-aceitar-pix-e-cartoes-veja-o-que-muda.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
 "h": "13:43",
 "t": "Mogi-Bertioga tem interdições parciais em dois trechos nesta segunda-feira (16)",
 "p": "Obras afetam segmentos em Bertioga e Mogi das Cruzes; tempo está encoberto nos dois sentidos, com temperaturas de 26°C e 27°C",
@@ -14,6 +481,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicoes-parciais-em-dois-trechos-nesta-segunda-feira-16.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:40",
+"t": "Novo portal do Governo Federal vai usar inteligência artificial para reunir atos de empresas e facilitar consulta pública gratuita pela internet; entenda",
+"p": "O debate sobre transparência, publicidade legal e segurança jurídica reuniu representantes do Governo Federal, dos Tribunais de Contas e profissionais da comunicação durante o 1º Fórum Nacional da Transparência. Realizado em 9 de novembro, no Blue Note, em São Paulo, o encontro contou com a participação do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/politica/novo-portal-do-governo-federal-vai-usar-inteligencia-artificial-para-reunir-atos-de-empresas-e-facilitar-consulta-publica-gratuita-pela-internet-entenda/",
 "auto": true
 },
 {
@@ -117,6 +598,33 @@
 },
 {
 "d": "2026-11-16",
+"h": "13:15",
+"t": "Feriado da Consciência Negra deve levar 584 mil veículos às rodovias do interior paulista; veja os horários de pico",
+"p": "Cerca de 584 mil veículos devem trafegar no sentido interior pelo Corredor Ayrton Senna/Carvalho Pinto durante o feriado da Consciência Negra. A estimativa é da Ecovias Leste Paulista e considera o período entre quinta-feira (19/11) e domingo (22/11). O movimento mais intenso na saída para o interior deve ocorrer…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/feriado-da-consciencia-negra-deve-levar-584-mil-veiculos-as-rodovias-do-interior-paulista-veja-os-horarios-de-pico/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:11",
+"t": "Empresário é preso suspeito de mandar videogame com bomba para explodir loja de concorrente em São Paulo",
+"p": "Artefato explodiu no dia da inauguração do estabelecimento em Santo André; duas pessoas ficaram feridas e a polícia investiga possível disputa comercial",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santo André",
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/empresario-e-preso-suspeito-de-mandar-videogame-com-bomba-para-explodir-loja-de-concorrente-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-16",
 "h": "13:07",
 "t": "Operação policial no Centro de Campinas prende 6; entenda a ação",
 "p": "Fiscalização ocorreu em bancas do camelódromo; quatro mulheres e seis homens vão responder por contrabando e descaminho na Polícia Federal",
@@ -127,6 +635,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/operacao-policial-no-centro-de-campinas-prende-6-entenda-a-acao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:00",
+"t": "Moradores de Taboão da Serra ganham novo endereço para reclamar de empresas e buscar seus direitos",
+"p": "Moradores de Taboão da Serra, na região sudoeste da Grande São Paulo, passam a contar com um segundo posto do Procon Municipal para registrar reclamações contra empresas e buscar orientação sobre direitos do consumidor. A nova unidade funciona na sede da Prefeitura, no Parque Assunção, e amplia o atendimento que já…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Taboão da Serra"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/moradores-de-taboao-da-serra-ganham-novo-endereco-para-reclamar-de-empresas-e-buscar-seus-direitos/",
 "auto": true
 },
 {
@@ -197,6 +719,32 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/justica-manda-conter-erosao-que-ameaca-16-familias-na-zona-sul-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "12:33",
+"t": "Ciro Gomes pode ficar inelegível por até oito anos após maioria do TRE-CE votar para rejeitar recurso em ação sobre campanha de 2024",
+"p": "O ex-ministro Ciro Gomes (PSDB) pode ficar inelegível por até oito anos após o Tribunal Regional Eleitoral do Ceará (TRE-CE) formar maioria, nesta segunda-feira (16), para manter sua condenação por violência política de gênero contra a prefeita de Crateús, Janaína Farias (PT). Até o momento, quatro integrantes da…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/ciro-gomes-pode-ficar-inelegivel-por-ate-oito-anos-apos-maioria-do-tre-ce-votar-para-rejeitar-recurso-em-acao-sobre-campanha-de-2024/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "12:27",
+"t": "Prazo de inscrição para o Vestibular das Fatecs termina hoje (16)",
+"p": "Ao todo, são cerca de 13 mil vagas em cursos de graduação; candidatos podem indicar até dois cursos durante a inscrição",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/prazo-de-inscricao-para-o-vestibular-das-fatecs-termina-hoje-16/",
 "auto": true
 },
 {
