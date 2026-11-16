@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-15T20:52:21-03:00",
-"novos_nesta_coleta": 4,
+"atualizado": "2026-11-15T22:32:12-03:00",
+"novos_nesta_coleta": 5,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,45 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | HTTP Error 522: <none> | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-15",
+"h": "22:15",
+"t": "Chuva forte provoca vazamento no teto de estação do Metrô de SP",
+"p": "Defesa Civil emitiu alerta severo para a capital e região metropolitana, com risco de raios, ventos fortes e granizo",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-forte-provoca-alerta-para-alagamentos-e-transtornos-no-metro-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "22:13",
+"t": "Chuvas em SP: Defesa Civil emite 99 alertas para diferentes regiões",
+"p": "A chegada de uma massa de ar quente, combinada à mudança nos ventos e à umidade vinda da Amazônia, formou nuvens carregadas e provocou chuva de moderada a forte intensidade em municípios paulistas neste domingo (15). Até as 19h, a Defesa Civil emitiu 99 alertas à população, sendo 86 por SMS e 13 por Cell […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/chuvas-em-sp-defesa-civil-emite-99-alertas-para-diferentes-regioes/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "21:33",
+"t": "Igreja de 1.600 anos construída a quase 3 mil metros de altitude é restaurada após 2 anos de obras e ganha nova vida com projeto de estação de esqui",
+"p": "Uma igreja com cerca de 1.600 anos de história, construída no topo de uma montanha a quase 3 mil metros de altitude, acaba de ganhar nova vida na Turquia. Após dois anos de restauração, o templo está pronto para receber visitantes de diferentes partes do mundo. Localizada no Monte Mereto, a Igreja da Virgem Maria […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/turismo/igreja-de-1-600-anos-construida-a-quase-3-mil-metros-de-altitude-e-restaurada-apos-2-anos-de-obras-e-ganha-nova-vida-com-projeto-de-estacao-de-esqui/",
+"auto": true
+},
 {
 "d": "2026-11-15",
 "h": "19:55",
@@ -55202,50 +55235,6 @@
 ],
 "src": "Diário Oficial (via Alesp)",
 "u": "https://www.al.sp.gov.br/norma/212962",
-"auto": true
-},
-{
-"d": "2026-09-13",
-"h": "00:00",
-"t": "Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Eldorado, que declarou Situação de Emergência em áreas do Município.",
-"p": "Decreto estadual nº 70.858, de 13/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.858",
-"c": [
-"Eldorado"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212961",
-"auto": true
-},
-{
-"d": "2026-09-13",
-"h": "00:00",
-"t": "9 decretos de crédito suplementar no Orçamento do Estado (13/09)",
-"p": "Reforço de verbas (crédito suplementar) para: Secretaria da Educação; Fundação para o Desenvolvimento da Educação - FDE; Secretaria da Fazenda e Planejamento; Secretaria da Segurança Pública; Secretaria de Desenvolvimento Urbano e Habitação; Departamento Estadual de Trânsito - DETRAN; Secretaria de Meio Ambiente; Secretaria da Saúde…. Decretos nº 70.860, 70.861, 70.862, 70.863, 70.864, 70.865, 70.866, 70.867, 70.868.",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Nº 70.860 a 70.868",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212963",
-"auto": true
-},
-{
-"d": "2026-09-10",
-"h": "00:00",
-"t": "Institui Grupo de Trabalho com o objetivo de elaborar estudos e apresentar propostas de ações destinadas ao fortalecimento da competitividade da cadeia produtiva do setor sucroenergético paulista.",
-"p": "Decreto estadual nº 70.855, de 10/09/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.855",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/212958",
 "auto": true
 }
 ]

@@ -3,6 +3,42 @@
 "itens": [
 {
 "d": "2026-11-15",
+"h": "22:15",
+"t": "Chuva forte provoca vazamento no teto de estação do Metrô de SP",
+"p": "Defesa Civil emitiu alerta severo para a capital e região metropolitana, com risco de raios, ventos fortes e granizo",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-forte-provoca-alerta-para-alagamentos-e-transtornos-no-metro-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "22:13",
+"t": "Chuvas em SP: Defesa Civil emite 99 alertas para diferentes regiões",
+"p": "A chegada de uma massa de ar quente, combinada à mudança nos ventos e à umidade vinda da Amazônia, formou nuvens carregadas e provocou chuva de moderada a forte intensidade em municípios paulistas neste domingo (15). Até as 19h, a Defesa Civil emitiu 99 alertas à população, sendo 86 por SMS e 13 por Cell […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/chuvas-em-sp-defesa-civil-emite-99-alertas-para-diferentes-regioes/",
+"auto": true
+},
+{
+"d": "2026-11-15",
+"h": "21:33",
+"t": "Igreja de 1.600 anos construída a quase 3 mil metros de altitude é restaurada após 2 anos de obras e ganha nova vida com projeto de estação de esqui",
+"p": "Uma igreja com cerca de 1.600 anos de história, construída no topo de uma montanha a quase 3 mil metros de altitude, acaba de ganhar nova vida na Turquia. Após dois anos de restauração, o templo está pronto para receber visitantes de diferentes partes do mundo. Localizada no Monte Mereto, a Igreja da Virgem Maria […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/turismo/igreja-de-1-600-anos-construida-a-quase-3-mil-metros-de-altitude-e-restaurada-apos-2-anos-de-obras-e-ganha-nova-vida-com-projeto-de-estacao-de-esqui/",
+"auto": true
+},
+{
+"d": "2026-11-15",
 "h": "19:55",
 "t": "Presidente da FIFA se encontra com Lula e parabeniza por eleição",
 "p": "Reprodução O líder da principal entidade do futebol compartilhou o encontro nas redes sociais",
