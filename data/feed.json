@@ -1,15 +1,12 @@
 {
-"atualizado": "2026-11-16T12:13:10-03:00",
-"novos_nesta_coleta": 64,
+"atualizado": "2026-11-16T13:47:05-03:00",
+"novos_nesta_coleta": 24,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -28,16 +25,27 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "IncompleteRead(64487 bytes read)"
+},
+{
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -47,9 +55,225 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "13:43",
+"t": "Mogi-Bertioga tem interdições parciais em dois trechos nesta segunda-feira (16)",
+"p": "Obras afetam segmentos em Bertioga e Mogi das Cruzes; tempo está encoberto nos dois sentidos, com temperaturas de 26°C e 27°C",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicoes-parciais-em-dois-trechos-nesta-segunda-feira-16.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:39",
+"t": "Reforma tributária exige atenção dos pequenos negócios e será tema de encontro gratuito em Buri",
+"p": "As mudanças trazidas pela Reforma Tributária prometem impactar diretamente a rotina dos pequenos negócios brasileiros. Para ajudar microempreendedores individuais (MEIs), micro e pequenas empresas a entenderem o novo cenário e se prepararem para as transformações, o Sebrae-SP, em parceria com a Prefeitura Municipal…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Buri"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/reforma-tributaria-buri/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:35",
+"t": "Casal é preso pela Polícia Militar suspeito de envolvimento em furto residencial em Fernandópolis",
+"p": "A Polícia Militar prendeu um homem e uma mulher na manhã desta segunda-feira (16), suspeitos de envolvimento no furto a uma residência localizada na Rua Espírito Santo, em Fernandópolis. O crime havia ocorrido no último sábado (14), quando o autor invadiu o imóvel após escalar o portão e subtraiu uma bicicleta,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/casal-e-preso-pela-policia-militar-suspeito-de-envolvimento-em-furto-residencial-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:34",
+"t": "Justiça de Mirassol condena reincidente a quase seis anos de prisão por tráfico de crack e cocaína",
+"p": "A 3ª Vara de Mirassol condenou Juan Camargo Oliveira a cinco anos e 10 meses de reclusão, em regime inicial fechado, além do pagamento de 583 dias-multa, pelo crime de tráfico de drogas. A sentença foi proferida pelo juiz Marcos Takaoka em audiência virtual realizada na sexta-feira (13), negando ao réu o direito de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mirassol"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-mirassol-condena-reincidente-a-quase-seis-anos-de-prisao-por-trafico-de-crack-e-cocaina/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:31",
+"t": "Justiça condena gerente de marketing por comprar haxixe pela internet e receber pelos Correios em Rio Preto",
+"p": "A 3ª Vara Criminal da Comarca de São José do Rio Preto condenou Adirson Xavier Júnior a um ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, além do pagamento de 194 dias-multa, por tráfico interestadual privilegiado de drogas. A decisão, assinada pela juíza Carolina Marchiori Bueno Cocenzo na…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-condena-gerente-de-marketing-por-comprar-haxixe-pela-internet-e-receber-pelos-correios-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:28",
+"t": "Após protestos, reforma da Previdência será debatida em duas audiências à noite; veja a data",
+"p": "A reforma da Previdência dos servidores públicos municipais de Campinas será discutida em duas audiências públicas na Câmara Municipal",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/apos-protestos-reforma-da-previdencia-de-campinas-sera-debatida-em-duas-audiencias-a-noite-veja-a-data/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:24",
+"t": "Homem é condenado por furto em sítio de Ipiguá e corrupção de menor",
+"p": "A 2ª Vara Criminal da Comarca de São José do Rio Preto condenou Matheus Nogueira Andrade a três anos de reclusão, em regime inicial aberto, além do pagamento de 11 dias-multa, pelos crimes de furto qualificado pelo concurso de agentes e corrupção de menores. A decisão, proferida pelo juiz Vinicius Nunes Abbud na…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Ipiguá"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-condenado-por-furto-em-sitio-de-ipigua-e-corrupcao-de-menor/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:19",
+"t": "Por que há cruzes brancas no Balão Londres? Entenda o significado",
+"p": "Instalação com cruzes brancas na Avenida John Boyd Dunlop chama a atenção de motoristas e pedestres; ação marca o Dia Mundial em Memória das Vítimas de Trânsito",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/por-que-ha-cruzes-brancas-no-balao-londres-entenda-o-significado/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "13:07",
+"t": "Operação policial no Centro de Campinas prende 6; entenda a ação",
+"p": "Fiscalização ocorreu em bancas do camelódromo; quatro mulheres e seis homens vão responder por contrabando e descaminho na Polícia Federal",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/operacao-policial-no-centro-de-campinas-prende-6-entenda-a-acao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "12:55",
+"t": "Concurso para professores em Praia Grande oferece salários de até R$6,5 mil",
+"p": "Concurso público tem oportunidades em dez áreas; inscrições seguem até 10 de dezembro e prova está prevista para janeiro de 2027",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/praiagrande/concurso-para-professores-em-praia-grande-oferece-salarios-de-ate-r65-mil.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "12:55",
+"t": "De pedreiro a terapeuta ocupacional: Itanhaém tem 90 vagas de emprego",
+"p": "Oportunidades contemplam diferentes áreas profissionais e exigem níveis variados de escolaridade e experiência; atendimento ocorre de segunda a sexta-feira",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/itanhaem/de-pedreiro-a-terapeuta-ocupacional-itanhaem-tem-90-vagas-de-emprego.html",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "12:43",
+"t": "Santo André inicia restauro de 34 imóveis em Paranapiacaba",
+"p": "Intervenções terão investimento de R$ 11,4 milhões, com recursos federais, e começam por edificações desocupadas e com estruturas mais comprometidas",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369076/santo-andre-inicia-restauro-de-34-imoveis-em-paranapiacaba",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "12:39",
+"t": "Discussão de trânsito termina em agressão física, danos a veículo e vítima encaminhada a Santa Casa em Fernandópolis",
+"p": "Uma discussão de trânsito terminou em agressões físicas, danos materiais e momentos de extrema tensão na manhã desta segunda-feira (16), em Fernandópolis. A vítima precisou de atendimento médico e foi encaminhada à Santa Casa da cidade. O caso foi registrado na Rua São Paulo, no trecho compreendido entre a Avenida…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/discussao-de-transito-termina-em-agressao-fisica-danos-a-veiculo-e-vitima-encaminhada-a-santa-casa-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "12:34",
+"t": "Justiça manda conter erosão que ameaça 16 famílias na zona sul de Marília",
+"p": "Liminar determina isolamento de área de risco e início de obras no Residencial São Bento III; descumprimento pode resultar em multa de R$ 10 mil por dia.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/justica-manda-conter-erosao-que-ameaca-16-familias-na-zona-sul-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "12:20",
+"t": "Morre Giovana Soldi Rosa, filha do ex-vereador Adilson Rosa",
+"p": "Foto: Freepik Velório e sepultamento serão realizados nesta segunda-feira (16), em Jundiaí",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/morre-giovana-soldi-rosa-filha-do-ex-vereador-adilson-rosa/",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "12:05",
@@ -54956,220 +55180,6 @@
 "num": "Créditos 28/10",
 "qd": true,
 "mun": true
-},
-{
-"d": "2026-10-28",
-"h": "06:00",
-"t": "Valinhos: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 28/10/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Valinhos"
-],
-"src": "Diário Oficial de Valinhos",
-"u": "https://data.queridodiario.ok.org.br/3556206/2026-10-28/ccda9e3b8a7a71812cfe1dd9d466f1083f5377f7.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 28/10",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Outubro Rosa: CRI promove bate-papo sobre prevenção ao câncer de mama",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67683",
-"auto": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Projeto Aquarela/Semepp representa PP no Campeonato Brasileiro de Karatê, em Caruaru (PE)",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67682",
-"auto": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Prefeito recebe atletas da Apop, que conquistaram 59 medalhas no Paulista de Paranatação",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67681",
-"auto": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Banco do Povo Itinerante encerra atendimento nos distritos com plantão em Montalvão",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67680",
-"auto": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Inscrições para concurso da Prudenco encerram em 2/11; vagas para coletor e motorista",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67679",
-"auto": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Prefeitura conclui etapa de reparos na ponte da Avenida Salim Farah Maluf",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67678",
-"auto": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Prefeito anuncia reforma da Praça CEU e do Ceab, na zona leste",
-"p": "",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67677",
-"auto": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Autoriza o Poder Executivo a aderir ao Programa de Acompanhamento e Transparência Fiscal de que trata a Lei Complementar federal nº 178, de 13 de janeiro de 2021.",
-"p": "Lei estadual nº 18.499, de 28/10/2026, publicada no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Lei nº 18.499",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213068",
-"auto": true
-},
-{
-"d": "2026-10-28",
-"h": "00:00",
-"t": "Dispõe sobre a abertura de crédito suplementar ao Orçamento Fiscal na Procuradoria Geral do Estado, visando ao atendimento de Despesas Correntes.",
-"p": "Decreto estadual nº 70.950, de 28/10/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.950",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213069",
-"auto": true
-},
-{
-"d": "2026-10-27",
-"h": "11:33",
-"t": "Saúde e Defesa Civil participam de oficina sobre riscos associados ao El Niño",
-"p": "gestão de riscos",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/saude-e-defesa-civil-participam-de-oficina-sobre-riscos-associados-ao-el-nino/",
-"auto": true
-},
-{
-"d": "2026-10-27",
-"h": "11:16",
-"t": "Aluno morde orelha de outro durante agressão em escola técnica de Itapeva",
-"p": "Uma notícia envolvendo uma ocorrência de agressão física no interior de uma escola técnica chocou a população de Itapeva na tarde de segunda-feira (26). O caso foi atendido pela Guarda Civil Municipal (GCM) e terminou com a prisão do autor. De acordo com as informações divulgadas pela GCM, durante a averiguação,…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/agressao-escola/",
-"auto": true
-},
-{
-"d": "2026-10-27",
-"h": "00:00",
-"t": "Novembro azul: prefeitura anuncia dois plantões de saúde com oferta gratuita de exames",
-"p": "",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67676",
-"auto": true
-},
-{
-"d": "2026-10-27",
-"h": "00:00",
-"t": "Presidente Prudente inaugura Espaço Prevenir nesta quinta-feira (29)",
-"p": "",
-"tema": "Geral",
-"s": "entregue",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67675",
-"auto": true
-},
-{
-"d": "2026-10-27",
-"h": "00:00",
-"t": "Prefeitura intensifica zeladoria nos cemitérios municipais; prazo para reforma finalizado",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67674",
-"auto": true
 }
 ]
 }
