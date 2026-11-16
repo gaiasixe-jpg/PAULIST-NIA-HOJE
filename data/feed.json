@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-16T16:02:30-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-16T17:02:18-03:00",
+"novos_nesta_coleta": 37,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,375 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "17:00",
+"t": "Dois cavalos viralizam na internet após entrarem em ônibus com seus donos; prefeitura alerta para riscos",
+"p": "Dois cavalos entram em ônibus de Detroit, nos EUA. A cena viralizou e levou autoridades a questionarem a segurança do episódio",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/dois-cavalos-viralizam-na-internet-apos-entrarem-em-onibus-com-seus-donos-prefeitura-alerta-para-riscos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:59",
+"t": "Operação integrada da Prefeitura fiscaliza sete bares e adegas em Sorocaba",
+"p": "Foto: Seplan Uma operação integrada, para fiscalizar estabelecimentos que operam como adegas e bares, foi realizada na noite de sexta-feira (13), em Sorocaba. Ao todo, sete locais foram autuados dos 13 vistoriados, em pontos específicos da cidade. A ação, que teve início às 22h e avançou até a madrugada de sábado…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/operacao-integrada-da-prefeitura-fiscaliza-sete-bares-e-adegas-em-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:57",
+"t": "Sinalizando Talentos 2026 leva música, arte e cultura surda ao palco do Parque Tecnológico de Sorocaba",
+"p": "Fotos: Divulgação Com apresentações musicais em Libras, participação de pessoas surdas e entrada gratuita, terceira edição do evento acontece no dia 28 de novembro e convida toda a população a vivenciar uma experiência artística e inclusiva A música não precisa ser ouvida para emocionar. Ela também pode ser vista,…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sinalizando-talentos-2026-leva-musica-arte-e-cultura-surda-ao-palco-do-parque-tecnologico-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:57",
+"t": "Exposição ‘João de Camargo, um Líder para Libertação’ é atração gratuita no Pátio Cianê Shopping a partir desta terça-feira (17)",
+"p": "A exposição fotográfica “João de Camargo, um Líder para Libertação”, da Comissão de Trabalho Mista (CTM) Viva Nhô João de Camargo, poderá ser conferida, a partir desta terça-feira (17), no Pátio Cianê Shopping. A mostra, que estará disponível no Bloco B, Piso 1, também contará com uma maquete sobre o tema do…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/exposicao-joao-de-camargo-um-lider-para-libertacao-e-atracao-gratuita-no-patio-ciane-shopping-a-partir-desta-terca-feira-17/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:54",
+"t": "Secretaria da Mulher promove palestra nutricional durante encontro do Movimento Mulher Plena 40+",
+"p": "Fotos: Eduarda Lopes (Programa de Estágio) Supervisão: Évelyn Azevedo O grupo de mulheres atendido pelo Movimento Mulher Plena 40+ participou de uma mais uma palestra sobre nutrição, na terça-feira (10), no Espaço Mulher 40+, localizado no Centro da cidade. O encontro foi conduzido, mais uma vez, pela nutricionista…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-promove-palestra-nutricional-durante-encontro-do-movimento-mulher-plena-40/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:53",
+"t": "Câmara do Rio nega pedido para suspender medalha concedida a Eduarda Campopiano",
+"p": "Presidência considerou que requerimento não apresentou provas o suficiente",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/camara-do-rio-nega-pedido-para-suspender-medalha-concedida-a-eduarda-campopiano/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:50",
+"t": "Câmara de Jundiaí vota projeto para criar pontos de recarga de carros elétricos nesta terça (17)",
+"p": "Foto: Reprodução/YouTube Câmara de Jundiaí Proposta quer liberar a instalação de eletropostos pela iniciativa privada sem custo para a Prefeitura; vereadores também analisam contas públicas, vetos e ações de saúde e segurança",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-jundiai-vota-projeto-eletropostos-e-pauta-da-sessao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:45",
+"t": "TRE-CE forma maioria para condenar Ciro Gomes por violência política de gênero contra prefeita; ex-governador pode ficar inelegível",
+"p": "O Tribunal Regional Eleitoral do Ceará (TRE-CE) formou maioria nesta segunda-feira (16/11) para manter a condenação do ex-governador Ciro Gomes por violência política de gênero cometida contra a prefeita de Crateús, Janaína Farias (PT). O processo analisa um recurso apresentado pela defesa contra uma decisão de…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/tre-ce-forma-maioria-para-condenar-ciro-gomes-por-violencia-politica-de-genero-contra-prefeita-ex-governador-pode-ficar-inelegivel/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:44",
+"t": "Arraial do Estoril terá quatro dias de festa com música e danças folclóricas",
+"p": "O Centro Social Estoril divulgou a programação oficial do 27º Arraial do Estoril, que será realizado de quinta-feira (19) a domingo (22), em Rio Preto. Com o tema “Nóis é Jeca, mas Nóis é Jóia!”, o evento terá quatro dias de apresentações folclóricas, música e atrações para toda a família, com foco no resgate das […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/arraial-do-estoril-tera-quatro-dias-de-festa-com-musica-e-dancas-folcloricas/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:44",
+"t": "Pupo apresenta pedido de CPI sobre ação de usucapião em área da Coopec",
+"p": "O vereador Renato Pupo (Avante) apresentou requerimento para abertura de uma Comissão Parlamentar de Inquérito (CPI) na Câmara de Rio Preto para investigar os atos administrativos que levaram a Prefeitura a ajuizar uma ação de usucapião envolvendo uma área de 3.121,96 metros quadrados utilizada pela Cooperativa…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pupo-apresenta-pedido-de-cpi-sobre-acao-de-usucapiao-em-area-da-coopec/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:44",
+"t": "Morre criança de 11 anos que ficou gravemente ferida em acidente na BR-153",
+"p": "O menino de 11 anos que ficou gravemente ferido em um acidente entre um carro e um caminhão na manhã de sábado (14), na rodovia BR-153, próximo a Nova Granada, morreu nesta segunda-feira (16) no Hospital da Criança e Maternidade (HCM), em Rio Preto Miguel Nobre Muniz estava no automóvel conduzido pela mãe, Juliana…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Nova Granada",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/morre-crianca-de-11-anos-que-ficou-gravemente-ferida-em-acidente-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:36",
+"t": "Contação de histórias do livro ‘Quintal’ é atração gratuita na Biblioteca Municipal de Sorocaba",
+"p": "Pais e filhos poderão conferir, nesta quinta-feira (19), às 14h30, contação de histórias do livro ‘Quintal’, de Monisa Maciel, na Biblioteca Municipal “Jorge Guilherme Senger”, localizada no Alto da Boa Vista. A atividade gratuita é voltada ao público geral. Realizada pela Secretaria de Cultura (Secult), a…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/contacao-de-historias-do-livro-quintal-e-atracao-gratuita-na-biblioteca-municipal-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:33",
+"t": "Orquestra Municipal de Jundiaí recebe Cláudio Cruz em concerto gratuito no Polytheama",
+"p": "Foto: Prefeitura de Jundiaí Orquestra Municipal de Jundiaí recebe o violinista Cláudio Cruz em concerto gratuito no Polytheama, dia 21. Saiba como retirar ingressos.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/orquestra-municipal-jundiai-claudio-cruz/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:24",
+"t": "Lote de queijo muçarela é suspenso após bactéria ser detectada pela Anvisa",
+"p": "Lote do produto fatiado foi alvo de recolhimento voluntário após laudo identificar a bactéria Listeria monocytogenes",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/lote-de-queijo-mucarela-e-suspenso-apos-bacteria-ser-detectada-pela-anvisa/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:22",
+"t": "Justiça aceita denúncia e assessor de Prefeitura vira réu após morte de idosa atropelada",
+"p": "Decisão que tornou assessor da Prefeitura de Cajuru, na região de Ribeirão Preto, réu foi assinada em 11 de novembro; defesa ainda pode contestar a acusação",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Ribeirão Preto",
+"Cajuru"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/justica-aceita-denuncia-e-assessor-de-prefeitura-vira-reu-apos-morte-de-idosa-atropelada/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:21",
+"t": "Poupatempo Móvel inicia atendimentos em Vargem nesta segunda-feira (16)",
+"p": "A carreta do Poupatempo Móvel começou a atender nesta segunda-feira (16) em Vargem, na região administrativa de Campinas. A unidade está instalada no Parque de Eventos, na Avenida Luiz Scorbaioli, próximo ao Poliesportivo, onde permanece até sábado (21). O funcionamento será das 10h às 16h, de segunda a…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas",
+"Vargem"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/poupatempo-movel-inicia-atendimentos-em-vargem-nesta-segunda-feira-16/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:21",
+"t": "Cerca de 200 jovens da Fundação CASA participam do Provão Paulista Seriado 2026",
+"p": "Quase 200 adolescentes que cumprem medida socioeducativa nos centros da Fundação CASA em todo o estado de São Paulo e que estão cursando a 3ª série do Ensino Médio participam, nesta segunda (16) e terça-feira (17), do Provão Paulista Seriado 2026. A avaliação representa uma oportunidade para esses adolescentes, que…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/cerca-de-200-jovens-da-fundacao-casa-participam-do-provao-paulista-seriado-2026/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:21",
+"t": "Educação de SP avalia leitura de estudantes do 2º ano do Ensino Fundamental a partir desta segunda-feira (16)",
+"p": "A Secretaria da Educação do Estado de São Paulo e os 645 municípios paulistas aplicam, entre esta segunda-feira (16) e o dia 4 de dezembro, a Avaliação da Fluência Leitora do segundo semestre para 448,1 mil estudantes. O objetivo da avaliação é identificar o percentual de estudantes que já podem ser considerados…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/educacao-de-sp-avalia-leitura-de-estudantes-do-2o-ano-do-ensino-fundamental-a-partir-desta-segunda-feira-16/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:21",
+"t": "Governo de SP realiza consulta pública sobre novas regras da destinação de resíduos após grandes eventos",
+"p": "O lixo produzido durante grandes eventos pode ganhar uma regulamentação com a participação da sociedade. O governo de São Paulo prepara uma regulamentação que amplia as responsabilidades de organizadores, estabelecimentos e fornecedores sobre os resíduos gerados para tentar reduzir o impacto ambiental de shows,…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-realiza-consulta-publica-sobre-novas-regras-da-destinacao-de-residuos-apos-grandes-eventos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:21",
+"t": "Bom Prato Móvel de Santos III muda de endereço a partir desta terça-feira (17)",
+"p": "A unidade móvel do Bom Prato Santos III Morros passa a atender em novo endereço a partir desta terça-feira (17). A realocação leva as refeições do programa a moradores em situação de vulnerabilidade que vivem distantes de uma unidade fixa ou têm dificuldades de locomoção. A nova unidade móvel atenderá a população…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/bom-prato-movel-de-santos-iii-muda-de-endereco-a-partir-desta-terca-feira-17/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:19",
+"t": "Acidente entre três carros deixa motorista presa às ferragens na zona Sul de Ribeirão Preto",
+"p": "Câmeras de segurança registraram o acidente no bairro Santa Cruz; motorista ficou ferida e precisou ser retirada das ferragens pelo Corpo de Bombeiros",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/acidente-entre-tres-carros-deixa-motorista-presa-as-ferragens-na-zona-sul-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:18",
+"t": "Banco do Brasil abre mais de 600 vagas em processo seletivo",
+"p": "Oportunidades no Banco do Brasil são para alunos do 1º e 2º ano do Ensino Médio em 11 estados; jornada é de 20 horas semanais, com bolsa de R$ 600, auxílio-transporte e vale-alimentação de R$ 1.227,16",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/banco-brasil-abre-mais-de-600-vagas-em-processo-seletivo/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:13",
+"t": "Família e PM mobilizam buscas em Votuporanga para localizar mulher desaparecida",
+"p": "Familiares e equipes da Polícia Militar realizam buscas intensivas na tarde desta segunda-feira (16) para tentar localizar Andréia Cristina dos Santos, que está desaparecida em Votuporanga. O caso foi comunicado às autoridades policiais após a mulher sair de casa e não dar mais notícias, gerando grande angústia…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/familia-e-pm-mobilizam-buscas-em-votuporanga-para-localizar-mulher-desaparecida/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:12",
+"t": "Motorista foge após manobra irregular que resultou em queda de motociclista em Votuporanga",
+"p": "Um motociclista de 55 anos ficou ferido na tarde desta segunda-feira (16) após ser derrubado de sua moto na rua das Américas, nas proximidades do cruzamento com a rua Santa Catarina, em Votuporanga. O acidente aconteceu por volta das 14h45 e mobilizou equipes de resgate e segurança pública, mas o motorista do carro…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motorista-foge-apos-manobra-irregular-que-resultou-em-queda-de-motociclista-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:10",
+"t": "Caso Peretto: Justiça anula depoimento de ré e descarta advogado de Júri",
+"p": "Advogado que acompanhou 1º interrogatório de Marcelly Peretto, acusada de matar o irmão, se tornou assistente de acusação, impactando júri",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/caso-peretto-justica-anula-depoimento-de-re-e-descarta-advogado-de-juri",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:09",
+"t": "Secretário de Itaquaquecetuba é exonerado após funcionária denunciar importunação sexual",
+"p": "Luciano Dávila era chefe da pasta de Desenvolvimento Econômico e Trabalho desde 1º de janeiro de 2021; O Diário tenta contato com Dávila",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/secretario-de-itaquaquecetuba-e-exonerado-apos-funcionaria-denunciar-importunacao-sexual/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:07",
+"t": "Menino de 11 anos não resiste aos ferimentos e morre após grave acidente na BR-153",
+"p": "Faleceu nesta segunda-feira (16), no Hospital da Criança e Maternidade (HCM) de São José do Rio Preto, o menino Miguel Nobre Muniz, de 11 anos, que havia ficado gravemente ferido em uma colisão envolvendo um carro e um caminhão na rodovia BR-153. O acidente ocorreu na manhã do último sábado (14), nas proximidades…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/menino-de-11-anos-nao-resiste-aos-ferimentos-e-morre-apos-grave-acidente-na-br-153/",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "16:00",
@@ -2146,6 +2515,20 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67756",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "00:00",
+"t": "Mostra cultural reúne 300 alunos do Projeto Aquarela – Polo Cidade da Criança",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67757",
 "auto": true
 },
 {
@@ -54635,389 +55018,6 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/justica-barra-leilao-de-imovel-milionario-de-concierge-do-pcc-em-sp",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "23:25",
-"t": "Secretário de Ribeirão Pires sugere demitir empregada doméstica petista",
-"p": "Câmara dos vereadores de Ribeirão Pires, na Grande SP, votou contra apuração de conduta do secretário de comunicação Bruno Botacin",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/secretario-de-ribeirao-pires-sugere-demitir-empregada-domestica-petista",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "22:36",
-"t": "Mulher desaparecida é encontrada com vida próximo a represa em Jales",
-"p": "Idosa de 70 anos estava desaparecida desde quinta-feira (29); polícia apura suspeita de choque em cerca eletrificada. Uma mulher de 70 anos, que estava desaparecida desde a manhã de quinta-feira (29), foi localizada na manhã desta sexta-feira (30.out) nas proximidades de uma represa, em Jales/SP. De acordo com a…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jales"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/mulher-desaparecida-e-encontrada-com-vida-proximo-a-represa-em-jales/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "22:30",
-"t": "Delegação alemã é recebida com hino nazista durante evento da prefeitura",
-"p": "Vereador diz que situação causou constrangimento entre autoridades alemãs, que visitavam Ubatuba para formalizar parceria sobre intercâmbio",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ubatuba"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/delegacao-alema-e-recebida-com-hino-nazista-durante-evento-da-prefeitura",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "22:30",
-"t": "Força Tática captura procurado por tráfico e apreende cocaína em Votuporanga",
-"p": "Homem tentou se livrar dos entorpecentes pela descarga, mas foi impedido pela Polícia Militar; droga, celulares e balança de precisão foram apreendidos. Um homem procurado pela Justiça por envolvimento com o tráfico de drogas foi capturado pela Força Tática da Polícia Militar na tarde desta quarta-feira (28.out),…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/forca-tatica-captura-procurado-por-trafico-e-apreende-cocaina-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "21:48",
-"t": "Câmara vota mudanças no título “Educador Nota 1000” na sessão de terça-feira",
-"p": "Projeto da Mesa Diretora é o único item da Ordem do Dia e propõe adequações nos critérios de indicação e na realização da homenagem concedida aos profissionais da educação. A Câmara Municipal de Votuporanga/SP realiza na próxima terça-feira (3.nov), às 18h, a 39ª sessão ordinária de 2026. Na pauta da Ordem do Dia…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/camara-vota-mudancas-no-titulo-educador-nota-1000-na-sessao-de-terca-feira/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "21:45",
-"t": "Conta de luz seguirá sem cobrança extra em novembro; Aneel mantém bandeira verde",
-"p": "Após cinco meses de taxa adicional nas contas de energia, consumidores terão mais um mês de alívio. A melhora dos reservatórios das hidrelétricas evitou o acionamento de usinas mais caras. Os consumidores brasileiros continuarão sem pagar taxa extra na conta de energia elétrica em novembro. A Agência Nacional de…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/conta-de-luz-seguira-sem-cobranca-extra-em-novembro-aneel-mantem-bandeira-verde/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "21:39",
-"t": "Briga por vaga de estacionamento termina com empresário esfaqueado em Rio Preto",
-"p": "Homem de 60 anos foi atingido por golpes de facão após uma discussão de trânsito na Avenida Potirendaba; suspeito de 42 anos foi preso em flagrante. Um empresário de 60 anos ficou ferido após ser atacado com um facão durante uma briga de trânsito na tarde desta sexta-feira (30.out), em São José do Rio Preto/SP. […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto",
-"Potirendaba"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/briga-por-vaga-de-estacionamento-termina-com-empresario-esfaqueado-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "21:34",
-"t": "Mais de 5 mil amputações por câncer de pênis em 10 anos: especialista alerta para erro comum na higiene masculina",
-"p": "Limpeza inadequada da região íntima está entre os principais fatores de risco para o câncer de pênis. Urologista explica os cuidados essenciais para prevenir a doença e outras complicações de saúde. Entre 2015 e 2025, o Brasil registrou cerca de 5,8 mil amputações de pênis causadas pelo câncer no órgão, segundo…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/mais-de-5-mil-amputacoes-por-cancer-de-penis-em-10-anos-especialista-alerta-para-erro-comum-na-higiene-masculina/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "21:23",
-"t": "Cariani se defende após pedido de condenação pelo MPSP: \"Vítima de fraude\"",
-"p": "Influenciador e empresário afirmou que só é réu no processo porque era sócio, mas reforça ser inocente e diz confiar na Justiça",
-"tema": "Geral",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/cariani-se-defende-apos-pedido-de-condenacao-pelo-mpsp-vitima-de-fraude",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "21:00",
-"t": "Moradores reclamam de falta de iluminação em pista de caminhada do Parque Curupira",
-"p": "Frequentadores registraram trechos sem iluminação no parque nesta sexta-feira (30); Prefeitura informou que a Conecta Ribeirão fará uma vistoria no local",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/moradores-reclamam-de-falta-de-iluminacao-em-pista-de-caminhada-do-parque-curupira/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "20:59",
-"t": "Nível do Cantareira ultrapassa 50% pela primeira vez em 16 meses",
-"p": "Volume útil do sistema que abastece 9 milhões de habitantes na Grande SP atingiu 50,1% nessa quinta-feira (29/10), revela Sabesp",
-"tema": "Saneamento",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/nivel-do-cantareira-ultrapassa-50-pela-primeira-vez-em-16-meses",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "20:57",
-"t": "Campos do Jordão abre oficialmente o Natal 2026 com público no Portal e carreata até o Capivari",
-"p": "Prefeito, representantes da FLMA e Papai Noel participaram da contagem regressiva; temporada terá espetáculos gratuitos, oficinas e decoração até janeiro.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/10/natal-2026-campos-do-jordao-inicio-programacao.html",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "20:23",
-"t": "Novo vídeo mostra entregadora sendo baleada em ação da polícia na zona oeste",
-"p": "Imagens obtidas pelo Metrópoles mostram o momento em que o veículo da entregadora é atingido por disparos",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/veja-novo-video-de-entregadora-baleada-em-acao-da-policia-na-zona-oeste",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "20:08",
-"t": "Família acredita que pecuarista planejou morte de jovem no interior de SP",
-"p": "Irmão relata discussão sobre celular com pecuarista antes do disparo; amiga também contou à polícia sobre supostas agressões contra Priscila na semana anterior ao crime",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/familia-acredita-que-pecuarista-planejou-morte-de-jovem-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "19:46",
-"t": "Chegada de novo pet exige cuidados com a saúde e adaptação, destaca veterinária",
-"p": "Avaliação de saúde, respeito ao tempo dos animais e supervisão são alguns aspectos que devem ser levados em conta",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/diario-pet/chegada-de-novo-pet-exige-cuidados-com-saude-e-adaptacao-destaca-veterinaria/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "19:45",
-"t": "Corregedoria da Polícia Civil apura origem de tiro que atingiu entregadora",
-"p": "Além de ter o rim e o pulmão perfurado pelo disparo, a entregadora teve que retirar o baço e segue em observação na UTI",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/corregedoria-da-policia-civil-apura-origem-de-tiro-que-atingiu-entregadora",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "19:32",
-"t": "Polícia investiga se caseiro \"envenenou\" patroa para obter bens da vítima",
-"p": "Investigação aponta \"fortes indícios\" de que o caseiro teria \"matado a vítima aos poucos\" com o objetivo de ficar com a herança da vítima",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/policia-investiga-se-caseiro-envenenou-patroa-para-obter-bens-da-vitima",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "19:16",
-"t": "Três produtores do DJ Arana são presos em Congonhas por documentos falsos",
-"p": "DJ Arana e outros cinco produtores são ouvidos pela Polícia por fraude de documento ao embarcar em voo para Brasília",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/tres-produtores-do-dj-arana-sao-presos-em-congonhas-por-documentos-falsos",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "18:22",
-"t": "Senac abre 2,8 mil vagas em cursos técnicos EAD gratuitos para pessoas com renda de até dois salários mínimos",
-"p": "Programa Senac de Gratuidade oferece formações a distância com diploma de nível técnico reconhecido pelo MEC",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/educacao/senac-abre-28-mil-vagas-em-cursos-tecnicos-ead-gratuitos-para-pessoas-com-renda-de-ate-dois-salarios-minimos/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "17:43",
-"t": "Canal do porto de Santos volta à normalidade após queda de quatro cabos de energia",
-"p": "Com o término do serviço, a navegação em todo o canal de do Porto de Santos voltou à normalidade, menos de 24 horas depois do incidente.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/queda-cabos-de-energia-porto-de-santos/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "16:26",
-"t": "Programação – Cinema",
-"p": "Confira a programação dos cinemas da Baixada Santista entre os dias 31 de outubro e 3 de novembro",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/agende-se/programacao-cinema-307/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "15:06",
-"t": "Investimento de R$ 1,5 bilhão pode gerar 4 mil postos de trabalho em Sorocaba e região",
-"p": "Proposta de empresários chineses prevê mil vagas diretas e outras 3 mil indiretas; reunião no Parque Tecnológico de Sorocaba avaliou infraestrutura e condições para a instalação do empreendimento Sorocaba está no radar de investidores chineses interessados em instalar uma nova operação no Brasil. Em reunião…",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/investimento-de-r-15-bilhao-pode-gerar-4-mil-postos-de-trabalho-em-sorocaba-e-regiao/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "13:51",
-"t": "Transporte coletivo terá reforço estratégico para os dias de aplicação do Enem 2026",
-"p": "A Prefeitura de Sorocaba, por meio da Urbes, informa que o transporte público coletivo contará com operação especial e monitoramento direcionado nos domingos, dia 8 e 15 de novembro, em razão da aplicação das provas do Exame Nacional do Ensino Médio (Enem) 2026.Haverá reforço nas Linhas Interbairros (303 e 307),…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/transporte-coletivo-tera-reforco-estrategico-para-os-dias-de-aplicacao-do-enem-2026/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "10:20",
-"t": "Conselho fiscalizador do FUNDEB tem inscrições prorrogadas em Campos do Jordão",
-"p": "Colegiado atua na fiscalização dos recursos destinados ao desenvolvimento da educação básica; vagas são voltadas para representantes da sociedade civil",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/10/conselho-fiscalizador-do-fundeb-tem-inscricoes-prorrogadas-em-campos-do-jordao.html",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "08:57",
-"t": "Briga por divergência política termina com funcionário esfaqueado em padaria de Araçatuba",
-"p": "Uma briga por divergência política terminou com o funcionário de uma padaria em Araçatuba (SP) esfaqueado por outro trabalhador do local na tarde desta quinta-feira (29). Conforme informações divulgadas pela Polícia Civil, após a agressão, o suspeito fugiu e ainda não havia sido localizado. A confusão ocorreu em…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Araçatuba"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/10/briga-por-divergencia-politica-termina-com-funcionario-esfaqueado-em-padaria-de-aracatuba/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "08:55",
-"t": "Adolescente tem alta da UTI em hospital 17 dias após acidente que matou cinco pessoas em rodovia",
-"p": "A adolescente de 12 anos, vítima de um acidente entre um carro e uma caminhonete que resultou na morte de cinco pessoas na Rodovia Vicinal Domingos Antunes Guimarães, em Piacatu (SP), teve alta da Unidade de Terapia Intensiva (UTI) do hospital 17 dias após a batida. Nesta quinta-feira (29), ela foi encaminhada para…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Piacatu"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/10/adolescente-tem-alta-da-uti-em-hospital-17-dias-apos-acidente-que-matou-cinco-pessoas-em-rodovia/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "08:54",
-"t": "Micro-ônibus escolar pega fogo na SP-294, ninguém se feriu",
-"p": "Um micro-ônibus escolar pegou fogo na Rodovia Comandante João Ribeiro de Barros (SP-294), entre Inúbia Paulista (SP) e Osvaldo Cruz (SP), na manhã desta quinta-feira (29). Segundo a Prefeitura de Salmourão (SP), o veículo faz parte da frota municipal. Conforme a concessionária que administra a rodovia, o veículo…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Inúbia Paulista",
-"Osvaldo Cruz",
-"Salmourão"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/10/micro-onibus-escolar-pega-fogo-na-sp-294-ninguem-se-feriu/",
-"auto": true
-},
-{
-"d": "2026-10-30",
-"h": "08:52",
-"t": "Polícia Federal investiga desvio de quase R$ 3 milhões das contas da Prefeitura de Caiabu",
-"p": "A Polícia Federal investiga um desvio de quase R$ 3 milhões de cinco contas bancárias da Prefeitura de Caiabu (SP). As irregularidades foram identificadas em 16 de outubro deste ano e haviam sido denunciadas à Polícia Civil. A Polícia Federal informou ao g1 e à TV TEM, nesta quinta-feira (29), que ainda não há…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Caiabu"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/10/policia-federal-investiga-desvio-de-quase-r-3-milhoes-das-contas-da-prefeitura-de-caiabu/",
 "auto": true
 }
 ]
