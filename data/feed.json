@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T10:18:14-03:00",
-"novos_nesta_coleta": 26,
+"atualizado": "2026-11-17T11:59:43-03:00",
+"novos_nesta_coleta": 41,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,440 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "11:55",
+"t": "Polícia Civil prende suspeito de matar cadeirante de 60 anos",
+"p": "Equipes do Departamento de Homicídios e Proteção à Pessoa (DHPP) da Polícia Civil prenderam, nesta segunda-feira (16), um homem de 33 anos apontado como o responsável pelo assassinato de um idoso de 60 anos na região central da capital paulista. O crime ocorreu no último dia 5 de novembro, na Rua Senador Feijó, nas…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-suspeito-de-matar-cadeirante-de-60-anos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:53",
+"t": "Justiça determina exames periciais e levantamento sobre armas de Féfin",
+"p": "Junior Féfin prestou depoimento para a Polícia Civil em Marília Despacho no Diário Oficial define perícia indireta no IML e checagem de armamentos do vereador, que é agente da Polícia Federal.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/justica-determina-exames-periciais-e-levantamento-sobre-armas-de-fefin/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:50",
+"t": "Aos 96 anos, idosa deixa frase emocionante sobre cãozinho Chewy no livro que escrevia, e neta decide concluir a obra da avó",
+"p": "A avó fala com a neta como quem acabou de ter uma ideia e quer saber a opinião dela. Em poucas palavras, resume a relação com o cão: Chewy se tornou 'amigo para toda a vida'",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/estilo-de-vida/aos-96-anos-idosa-deixa-frase-emocionante-sobre-caozinho-chewy-no-livro-que-escrevia-e-neta-decide-concluir-a-obra-da-avo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:48",
+"t": "Aposentado perde R$ 2,5 mil após cair no golpe do falso filho pelo WhatsApp",
+"p": "Um aposentado residente em São José do Rio Preto foi vítima de um golpe cibernético e acabou perdendo R$ 2,5 mil nesta semana. O crime foi registrado na Central de Flagrantes da cidade como fraude eletrônica e já está sob investigação da Polícia Civil, que busca identificar os autores da extorsão digital. De acordo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/aposentado-perde-r-25-mil-apos-cair-no-golpe-do-falso-filho-pelo-whatsapp/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:48",
+"t": "Mulher é presa em flagrante após atear fogo em pensão e ferir morador",
+"p": "Uma mulher foi presa em flagrante pela Polícia Militar na última segunda-feira (16), no bairro Boa Vista, em São José do Rio Preto, suspeita de provocar um incêndio criminoso dentro de uma pensão. A ação deixou um morador gravemente ferido enquanto dormia, além de envolver uma denúncia de injúria racial contra…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-e-presa-em-flagrante-apos-atear-fogo-em-pensao-e-ferir-morador/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:48",
+"t": "Trio é preso em flagrante pela GCM após furtar fiação de semáforo",
+"p": "Três homens foram presos em flagrante pela Guarda Civil Municipal (GCM) na madrugada desta terça-feira (17), acusados de furtar cabos elétricos da rede semafórica no bairro Cidade Jardim, em São José do Rio Preto. O crime comprometeu a sinalização de trânsito da região e mobilizou equipes de patrulhamento…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/trio-e-preso-em-flagrante-pela-gcm-apos-furtar-fiacao-de-semaforo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:41",
+"t": "‘Não é só colocar o tênis e ir’: médico do esporte, Dr. Mourão explica como começar no Hyrox e treinar com segurança",
+"p": "Uma corrida de oito quilômetros intercalada com oito estações de exercícios de força. Essa é a estrutura do Hyrox, modalidade que ganhou espaço nas academias e nas redes sociais ao combinar resistência cardiovascular e treinamento muscular em uma mesma prova. A proposta atrai corredores, praticantes de musculação e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/nao-e-so-colocar-o-tenis-e-ir-medico-do-esporte-dr-mourao-explica-como-comecar-no-hyrox-e-treinar-com-seguranca/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:36",
+"t": "Prefeitura de Sorocaba abre inscrições para o City Tour deste sábado (21)",
+"p": "O City Tour 2026, realizado gratuitamente pela Secretaria do Turismo (Setur) de Sorocaba, ocorrerá neste sábado (21), às 9h. As inscrições on-line já podem ser feitas pelo link: https://agenda-eventos.sorocaba.sp.gov.br/city-tour-2026/. O ponto de partida e de chegada é a Casa do Turista, localizada no Jardim Santa…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-abre-inscricoes-para-o-city-tour-deste-sabado-21/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:30",
+"t": "Radar com IA multa mais de 6,6 mil motoristas no 1º mês de funcionamento em rodovia do interior de SP",
+"p": "Os novos radares com inteligência artificial instalados na rodovia Washington Luís (SP-310), em São José do Rio Preto, no interior de São Paulo, registraram 6.686 infrações em pouco mais de um mês. O balanço da Ecovias Noroeste Paulista considera o período entre 1º de outubro e 1º de novembro. Na prática, os…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/radar-com-ia-multa-mais-de-66-mil-motoristas-no-1o-mes-de-funcionamento-em-rodovia-do-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:30",
+"t": "'Dia D de Saúde' atende a moradores e ultrapassa mil procedimentos em Cubatão",
+"p": "Iniciativa focada nas campanhas Outubro Rosa e Novembro Azul disponibilizou testes rápidos, vacinas e consultas médicas para a população",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/saude/dia-d-de-saude-atende-moradores-e-ultrapassa-mil-procedimentos-em-cubatao.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:17",
+"t": "TJ-SP assume acordos de precatórios de Marília e abre prazo para receber propostas",
+"p": "Propostas devem ser apresentadas ao Tribunal de Justiça e preveem desconto de 20% para antecipação do recebimento.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tj-sp-assume-acordos-de-precatorios-de-marilia-e-abre-prazo-para-receber-propostas/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:16",
+"t": "Prefeito de Nova Campina anuncia mudanças nas secretarias de Governo e Desenvolvimento Social",
+"p": "O prefeito de Nova Campina anunciou mudanças no comando de duas secretarias municipais. O anúncio foi feito por meio de uma publicação nas redes sociais. De acordo com o comunicado, Karol, que estava à frente da Secretaria de Desenvolvimento Social, assumirá definitivamente a Secretaria de Governo. Na nova função,…",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Nova Campina"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/mudancas-secretarias-nova-campina/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:14",
+"t": "Trio é preso em flagrante pela GCM após furtar fiação de semáforo",
+"p": "Três homens foram presos em flagrante pela Guarda Civil Municipal (GCM) na madrugada desta terça-feira (17), acusados de furtar cabos elétricos da rede semafórica no bairro Cidade Jardim, em São José do Rio Preto. O crime comprometeu a sinalização de trânsito da região e mobilizou equipes de patrulhamento…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/trio-e-preso-em-flagrante-pela-gcm-apos-furtar-fiacao-de-semaforo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:12",
+"t": "Corpo de homem é encontrado dentro de geladeira em praça de São Paulo",
+"p": "Identidade da vítima ainda é levantada pela Polícia Civil; corpo estava coberto por cobertores e pedaço de papelão dentro da geladeira",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/corpo-de-homem-e-encontrado-dentro-de-geladeira-em-praca-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:12",
+"t": "Tomate chega a R$ 35 o quilo, dispara em todas as capitais após impactos do El Niño e fica mais de 180% caro em cidade brasileira",
+"p": "O preço do tomate disparou em todas as capitais brasileiras em 2026 e chegou a R$ 35 o quilo no varejo. O aumento está relacionado ao excesso de chuvas registrado entre setembro e outubro, período em que normalmente o clima é mais seco. As condições prejudicaram as plantações, reduziram a oferta e comprometeram a…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/tomate-chega-a-r-35-o-quilo-dispara-em-todas-as-capitais-apos-impactos-do-el-nino-e-fica-mais-de-180-caro-em-cidade-brasileira/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:12",
+"t": "Mulher é presa em flagrante após atear fogo em pensão e ferir morador",
+"p": "Uma mulher foi presa em flagrante pela Polícia Militar na última segunda-feira (16), no bairro Boa Vista, em São José do Rio Preto, suspeita de provocar um incêndio criminoso dentro de uma pensão. A ação deixou um morador gravemente ferido enquanto dormia, além de envolver uma denúncia de injúria racial contra…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mulher-e-presa-em-flagrante-apos-atear-fogo-em-pensao-e-ferir-morador/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:09",
+"t": "Prefeitura de SP oferece até 95% de desconto em dívidas e débitos municipais; veja como renegociar e prazo",
+"p": "Moradores e empresas com dívidas junto à Prefeitura de São Paulo podem conseguir descontos de até 95% em juros e multas por meio do programa Fique em Dia. A administração municipal reabriu as inscrições nesta segunda-feira (16), com prazo para adesão até 26 de fevereiro de 2027. A iniciativa permite regularizar…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/prefeitura-de-sp-oferece-ate-95-de-desconto-em-dividas-veja-como-renegociar-e-prazo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:02",
+"t": "Falta de água atinge quatro bairros hoje; veja regiões e horários",
+"p": "Reparos emergenciais e substituição de registros afetam o abastecimento de água nesta terça-feira (17); fornecimento será retomado gradualmente após a conclusão dos serviços",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-agua-atinge-quatro-bairros-hoje-veja-regioes-e-horarios/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:00",
+"t": "Arte no Dique homenageia Rita Lee no Teatro Municipal de Santos",
+"p": "Divulgação Rita Lee terá sua vida e obra celebradas no espetáculo “Ritas”,, apresentado pelo Instituto Arte no Dique no próximo domingo (22).",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/arte-no-dique-homenageia-rita-lee-no-teatro-municipal-de-santos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:58",
+"t": "CAC é preso após ameaçar mulheres com escopeta em mercados na Grande SP",
+"p": "Vítimas relataram que o homem estava \"exaltado\" e voltou aos locais armado após discussões. Polícia cita risco para a população",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cac-e-preso-apos-ameacar-mulheres-com-escopeta-em-mercados-na-grande-sp",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:50",
+"t": "Natal sobre trilhos: viagem a Paranapiacaba tem programação especial e encontro com o Papai Noel",
+"p": "Foto: *Imagem ilustrativa criada pelo Tribuna de Jundiaí com auxílio de inteligência artificial e direção criativa da equipe. Reprodução total ou parcial proibida sem autorização Passeio natalino combina viagem de trem, programação para crianças e uma experiência especial com cartinhas ao Bom Velhinho. Confira.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/expresso-de-natal-2026-paranapiacaba/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:49",
+"t": "Prefeitura de Sorocaba abre inscrições para castração gratuita de cães e gatos no mês de dezembro",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema), abriu as inscrições para castração gratuita de cães e gatos de tutores da cidade no mês de dezembro. As vagas são limitadas e os moradores já podem fazer o agendamento pelo link: https://go.petsapp.com.br/9iA6ii.…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-abre-inscricoes-para-castracao-gratuita-de-caes-e-gatos-no-mes-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:48",
+"t": "Como se preparar para uma viagem de esqui para o exterior: segurança, saúde e conexão",
+"p": "Com as temperaturas acima dos 20º C em Campos do Jordão, é hora de os amantes de esqui e de snowboard rumarem a outros destinos, no continente americano ou na Europa. Antes de reservar aulas e comprar o passe de esqui, organize três pontos: segurança, assistência médica e acesso à internet. Segurança: conheça as…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/como-se-preparar-para-uma-viagem-de-esqui-para-o-exterior-seguranca-saude-e-conexao.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:46",
+"t": "Polícia de SP faz operação contra suspeitos de roubar 2 estrangeiras",
+"p": "Polícia cumpre mandados em São Paulo, Taboão da Serra e Cotia. Beneficiários do roubo, destinatários dos valores, também estão entre alvos",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Taboão da Serra",
+"São Paulo",
+"Cotia"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-de-sp-faz-operacao-contra-suspeitos-de-roubar-2-estrangeiras",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:45",
+"t": "Pico do El Niño já começou e deve seguir até janeiro; Brasil entra em alerta para eventos climáticos extremos",
+"p": "O verão entre este fim de ano e janeiro de 2027 possivelmente será marcado por contrastes climáticos no Brasil. Enquanto algumas regiões devem enfrentar volumes de chuva acima da média, outras terão condições favoráveis à estiagem, com temperaturas elevadas. O cenário está associado ao avanço do El Niño, fenômeno…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/pico-do-el-nino-ja-comecou-e-deve-seguir-ate-janeiro-brasil-entra-em-alerta-para-eventos-climaticos-extremos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:45",
+"t": "Polícia Federal apreende 153kg de cocaína no porto de Santos",
+"p": "Droga estava dividida em oito pacotes com destino ao Marrocos; quatro suspeitos foram vistos na proa de navio no domingo (15)",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/policia-federal-apreende-153kg-de-cocaina-no-porto-de-santos.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:42",
+"t": "Ônibus de São Paulo transportaram 81 mil passageiros a menos no 2º turno",
+"p": "Diminuição de passageiros aconteceu apesar do aumento do comparecimento de eleitores às urnas no 2º turno das eleições",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/onibus-de-sao-paulo-transportaram-81-mil-passageiros-a-menos-no-2o-turno",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:27",
+"t": "Polícia investiga furto de remédios de alto custo no Aeroporto de Guarulhos",
+"p": "Quadrilha é alvo de mandados de busca e apreensão, cumpridos em três cidades, sob suspeita de furtar medicamentos no Aeroporto de Guarulhos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guarulhos"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-investiga-furto-de-remedios-de-alto-custo-no-aeroporto-de-guarulhos",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:27",
+"t": "Advogados suspeitos de aplicar golpe em filho de Lula são alvo da Polícia em SP",
+"p": "",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369241/advogados-suspeitos-de-aplicar-golpe-em-filho-de-lula-sao-alvo-da-policia-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:25",
+"t": "Motocicleta e celular são furtados na zona norte de Marília",
+"p": "Vítima procurou a Polícia Civil, que investiga caso de furto em Marília Câmeras de monitoramento, instaladas nas imediações do local, poderão contribuir para a identificação do autor e a recuperação dos bens.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/noticias/motocicleta-e-celular-sao-furtados-na-zona-norte-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:22",
+"t": "Governos orientam população a montar kit de sobrevivência para garantir autossustento durante falhas em serviços essenciais",
+"p": "Ao contrário da recente polêmica envolvendo a postagem da Defesa Civil sobre a necessidade de os brasileiros montarem um kit de sobrevivência, os governos europeus solicitaram que a população realmente tomasse essa atitude, com o propósito de garantir que ela consiga se sustentar sozinha por um período caso…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/governos-orientam-populacao-a-montar-kit-de-sobrevivencia-para-garantir-autossustento-durante-falhas-em-servicos-essenciais/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:20",
+"t": "Agência volta a incluir na pauta votação sobre romper contrato da Enel SP após série de apagões",
+"p": "",
+"tema": "Geral",
+"s": "obra",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369239/agencia-volta-a-incluir-na-pauta-votacao-sobre-romper-contrato-da-enel-sp-apos-serie-de-apagoes",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "10:10",
@@ -54667,451 +55101,6 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/mulher-e-assaltada-com-faca-durante-caminhada-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:35",
-"t": "Com 88 alertas, chuva causa estragos e deixa ao menos uma morte em SP",
-"p": "Vítima de 80 anos foi atingida por desabamento de muro na capital paulista. Chuva também causou alagamentos e queda de árvores no interior",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/com-88-alertas-chuva-causa-estragos-e-deixa-ao-menos-uma-morte-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:34",
-"t": "Chuvas provocam deslizamentos, queda de muro e pontos de alagamento em Santa Isabel",
-"p": "Previsão meteorológica indica possibilidade de novas pancadas de chuva no município nesta segunda-feira (2)",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Santa Isabel"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/chuvas-provocam-deslizamentos-queda-de-muro-e-pontos-de-alagamento-em-santa-isabel/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:30",
-"t": "Suspeitos abandonam moto adulterada e rolos de cobre ao fugir da Polícia Militar em Fernandópolis",
-"p": "Uma ação de patrulhamento da Polícia Militar resultou na apreensão de uma motocicleta irregular e de três rolos de fios de cobre na madrugada deste domingo (1º), em Fernandópolis. A intervenção ocorreu na altura da Avenida Litério Grecco, nas proximidades do acesso à Rodovia Euclides da Cunha (SP-320). Os policiais…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis",
-"Cunha"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/suspeitos-abandonam-moto-adulterada-e-rolos-de-cobre-ao-fugir-da-policia-militar-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:21",
-"t": "Motorista embriagado abandona esposa ferida após acidente em Rio Preto",
-"p": "Vítima foi socorrida e encaminhada ao Hospital de Base de Rio Preto",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/motorista-embriagado-abandona-esposa-ferida-apos-acidente-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:18",
-"t": "Troca de bomba pode deixar 6 bairros sem água nesta segunda-feira",
-"p": "Troca de bomba afeta a pressão da rede na zona leste de Ribeirão Preto ao longo do dia; veja os locais atingidos",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/troca-de-bomba-pode-deixar-6-bairros-sem-agua-nesta-segunda-feira/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:01",
-"t": "Dança das cadeiras no governo Lula: saiba quais nomes são fortes para assumir a Fazenda, a Casa Civil e a Comunicação no quarto mandato",
-"p": "Após a consolidação da vitória nas urnas e com a posse do quarto mandato agendada para janeiro, o presidente Luiz Inácio Lula da Silva prepara uma ampla reorganização na Esplanada dos Ministérios. Diante da impossibilidade constitucional de buscar uma nova reeleição ao fim deste ciclo, a montagem da nova equipe…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/politica/danca-das-cadeiras-no-governo-lula-saiba-quais-nomes-forte-vao-assumir-a-fazenda-a-casa-civil-e-a-comunicacao-no-quarto-mandato/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:53",
-"t": "Mega-Sena acumula e prêmio milionário salta para R$ 46 milhões; veja os números",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Mega-Sena acumula após ninguém acertar as seis dezenas do concurso 3080. Próximo sorteio será quarta-feira (4), com prêmio de R$ 46 milhões.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/mega-sena-acumula-46-milhoes/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:47",
-"t": "Dia de Finados terá chuva forte em São Paulo e alerta para alagamentos, trovoadas e rajadas de vento; veja quais regiões exigem mais atenção nesta segunda-feira (02/11)",
-"p": "Instabilidade deve persistir ao longo do dia, com possibilidade de granizo e elevação do nível de rios e córregos",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/dia-de-finados-tera-chuva-forte-em-sao-paulo-e-alerta-para-alagamentos-trovoadas-e-rajadas-de-vento-veja-quais-regioes-exigem-mais-atencao-nesta-segunda-feira-02-11/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:30",
-"t": "Bertioga alerta para falsas inscrições no Minha Casa, Minha Vida",
-"p": "Prefeitura afirma que não autorizou entidades a divulgar cadastros, e reforça que não há cobrança de taxas para inscrição em iniciativas municipais",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/bertioga-alerta-para-falsas-inscricoes-no-minha-casa-minha-vida.html",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:29",
-"t": "Chuva afasta visitantes de cemitérios no Dia de Finados em Marília",
-"p": "Tempo chuvoso nesta segunda-feira (2) está contribuindo para a baixa circulação de visitantes nos cemitérios.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/chuva-afasta-visitantes-de-cemiterios-no-dia-de-finados-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:27",
-"t": "Acidente em rodovia deixa quatro moradores de Aparecida do Taboado feridos em Santa Fé do Sul",
-"p": "Um capotamento registrado no quilômetro 619 de uma rodovia em Santa Fé do Sul deixou quatro pessoas feridas. As vítimas, todas moradoras da cidade vizinha de Aparecida do Taboado (MS), viajavam no mesmo automóvel quando o condutor perdeu o controle da direção. De acordo com o depoimento do motorista, de 40 anos, o…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Santa Fé do Sul",
-"Aparecida"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/acidente-em-rodovia-deixa-quatro-moradores-de-aparecida-do-taboado-feridos-em-santa-fe-do-sul/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:22",
-"t": "Prefeitura de Ouroeste disponibiliza aplicativo gratuito para consulta e localização de jazigos",
-"p": "O Governo Municipal de Ouroeste lançou uma ferramenta digital para orientar e facilitar a visitação nos cemitérios da cidade durante o feriado de Finados. Por meio do aplicativo gratuito CemiCloud, os moradores e visitantes podem consultar informações e identificar a localização exata dos túmulos de familiares e…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ouroeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-disponibiliza-aplicativo-gratuito-para-consulta-e-localizacao-de-jazigos/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:21",
-"t": "Pecuarista acusado de matar jovem é encontrado morto",
-"p": "Corpo do pecuarista João Roberto Bolelli foi achado por familiar na fazenda onde caminhonete dele já havia sido localizada; polícia preserva a área para perícia",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/pecuarista-acusado-matar-jovem-e-encontrado-morto/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:17",
-"t": "Pesca ilegal de dourado rende multa de mais de R$ 1 mil a morador em Pontes Gestal",
-"p": "Uma fiscalização realizada pela Polícia Militar Ambiental resultou na aplicação de uma multa no valor de R$ 1.085,00 a um pescador amador no município de Pontes Gestal. A autuação ocorreu após os agentes encontrarem seis exemplares da espécie dourado (Salminus brasiliensis) armazenados na propriedade do morador,…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Pontes Gestal"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/pesca-ilegal-de-dourado-rende-multa-de-mais-de-r-1-mil-a-morador-em-pontes-gestal/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:16",
-"t": "Perseguição policial por 80 km mobiliza equipes de segurança e termina com motorista preso em Auriflama",
-"p": "Uma intensa perseguição policial mobilizou equipes do Policiamento Ambiental e de patrulhamento territorial ao longo de cerca de 80 quilômetros nas rodovias do Noroeste Paulista, na manhã da última quinta-feira (29). A ação começou em Votuporanga e só foi concluída no município de Auriflama, onde o condutor de uma…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga",
-"Auriflama"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/perseguicao-policial-por-80-km-mobiliza-equipes-de-seguranca-e-termina-com-motorista-preso-em-auriflama/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:12",
-"t": "Enfermeira de Magda vítima de acidente com caminhão é sepultada em General Salgado",
-"p": "Um grave acidente na Rodovia Feliciano Sales Cunha (SP-310) resultou na morte da enfermeira Naísa de Cássia Mateus, de 44 anos, na madrugada deste sábado (31), no trecho próximo ao acesso do município de Magda. O veículo de passeio que a profissional conduzia colidiu frontalmente contra um caminhão-trator por volta…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"General Salgado",
-"Magda"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/enfermeira-de-magda-vitima-de-acidente-com-caminhao-e-sepultada-em-general-salgado/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:11",
-"t": "Campos do Jordão recebe encontro de turismo de luxo e feira de fornecedores para hotelaria",
-"p": "Turismo no Luxo e Hospitality Expo Campos serão realizados em 29 e 30 de novembro, no Quebra-Noz, com palestras, exposição e atividades.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/turismo-no-luxo-2026-campos-do-jordao-hospitality-expo.html",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "10:11",
-"t": "Homem é esfaqueado ao tentar cobrar dívida e fica internado em estado grave",
-"p": "Um homem de 56 anos sofreu ferimentos graves após ser atacado com diversos golpes de faca na madrugada deste domingo (1º), em São José do Rio Preto. A vítima deu entrada inicial na Unidade de Pronto Atendimento (UPA) Tangará e, diante da gravidade do quadro clínico, precisou ser transferida às pressas para o…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-e-esfaqueado-ao-tentar-cobrar-divida-e-fica-internado-em-estado-grave/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "09:55",
-"t": "Mês da Consciência Negra em Jundiaí terá marcha, feiras e ações culturais; confira a programação",
-"p": "Foto: Prefeitura de Jundiaí Programação de novembro inclui roteiro histórico, eleição da Corte Afro e lançamento de serviço para promover a igualdade racial.",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/mes-consciencia-negra-jundiai-2026-copiar/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "09:54",
-"t": "Homem passa quase 10 anos guardando moedas em galão de água sem nunca contar o dinheiro e fica sem acreditar no resultado quando decide abrir o recipiente",
-"p": "Durante quase dez anos, um galão de água permaneceu atrás da porta de uma cozinha. Quem passava por ali dificilmente imaginava que aquele recipiente, aparentemente sem importância, escondia uma pequena fortuna para a família. Não havia água dentro dele. O galão estava cheio de moedas. Eram trocos de compras no…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/homem-passa-quase-10-anos-guardando-moedas-em-galao-de-agua-sem-nunca-contar-o-dinheiro-e-fica-sem-acreditar-no-resultado-quando-decide-abrir-o-recipiente/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "09:52",
-"t": "Governo de SP adia entrega de duas estações da linha 6-Laranja do Metrô",
-"p": "Inicialmente previstas para outubro, estações Brasilândia e Itaberaba-Hospital Vila Penteado devem ser entregues até o final de 2026",
-"tema": "Saúde",
-"s": "entregue",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/governo-de-sp-adia-entrega-de-duas-estacoes-da-linha-6-laranja-do-metro",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "09:18",
-"t": "Carreta bitrem tomba na Washington Luís e motorista fica preso às ferragens em Mirassol",
-"p": "Acidente ocorreu na manhã de domingo, no quilômetro 453 da rodovia; caminhoneiro foi resgatado com ferimentos moderados e encaminhado ao hospital Uma carreta bitrem graneleira, de nove eixos, tombou na manhã deste domingo (1º), na Rodovia Washington Luís (SP-310), em Mirassol, na região de São José do Rio Preto. O…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto",
-"Mirassol"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/carreta-bitrem-tomba-na-washington-luis-e-motorista-fica-preso-as-ferragens-em-mirassol/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "09:13",
-"t": "Caminhão tomba e bate contra defensa metálica em rodovia de Ribeirão Preto",
-"p": "Acidente envolvendo caminhão aconteceu na madrugada desta segunda-feira (2), na rodovia Antônio Machado Sant'Anna, em Ribeirão Preto",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/caminhao-tomba-bate-contra-defensa-metalica-em-rodovia-de-ribeirao-preto/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "09:10",
-"t": "Caminhão tomba na Euclides da Cunha e carga de algodão pega fogo na região de Estrela d’Oeste",
-"p": "Acidente provocou interdição parcial da rodovia e mobilizou equipes do Corpo de Bombeiros, Polícia Rodoviária e DER; não houve registro de vítimas Um caminhão carregado com plumas de algodão tombou na manhã de sábado (31), na Rodovia Euclides da Cunha (SP-320), no trecho entre Estrela d’Oeste e Fernandópolis. Parte…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Estrela d'Oeste",
-"Fernandópolis",
-"Cunha"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/caminhao-tomba-na-euclides-da-cunha-e-carga-de-algodao-pega-fogo-na-regiao-de-estrela-doeste/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "09:03",
-"t": "Após anos de espera, famílias se emocionam ao conhecer futuras casas do Residencial Cravos, em Jundiaí",
-"p": "Foto: Prefeitura de Jundiaí Famílias de Jundiaí se emocionam ao visitar futuras casas no Residencial Cravos. Obras chegam a 50% e vão beneficiar 132 famílias.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/residencial-cravos-familias-casas-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "09:02",
-"t": "Motorista foge da polícia por 80 quilômetros e acaba preso após perseguição iniciada em Votuporanga",
-"p": "Condutor de uma caminhonete desobedeceu à ordem de parada, trafegou pela contramão e colocou outros motoristas em risco; operação mobilizou policiais de diferentes municípios da região Uma perseguição policial que começou em Votuporanga e percorreu aproximadamente 80 quilômetros por rodovias do Noroeste Paulista…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/motorista-foge-da-policia-por-80-quilometros-e-acaba-preso-apos-perseguicao-iniciada-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "08:54",
-"t": "Piracema começa e restringe pesca nos rios da região de Votuporanga até fevereiro de 2027",
-"p": "Polícia Ambiental intensifica fiscalização nos rios Grande, Paraná e São José dos Dourados; captura de espécies nativas está proibida e infratores podem sofrer multas e apreensões Entrou em vigor neste domingo (1º) o período da Piracema 2026/2027, que estabelece restrições à pesca nos rios e represas do Noroeste…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/piracema-comeca-e-restringe-pesca-nos-rios-da-regiao-de-votuporanga-ate-fevereiro-de-2027/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "08:30",
-"t": "Chuva, calor de 29°C e risco de temporal: veja como fica a semana em Jundiaí",
-"p": "Foto: Prefeitura de Jundiaí Feriado de Finados terá temperaturas de até 27°C e possibilidade de pancadas à tarde e à noite; aviso amarelo indica ventos de até 60 km/h.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "08:17",
-"t": "Fernando Sastre admite pela primeira vez que bebeu antes de dirigir Porsche, tem confissão exibida em vídeo e consegue reduzir condenação em um ano e meio",
-"p": "Declaração apresentada durante o Tribunal do Júri também provocou reação do Ministério Público, que pretende aumentar a punição",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/fernando-sastre-admite-pela-primeira-vez-que-bebeu-antes-de-dirigir-porsche-tem-confissao-exibida-em-video-e-consegue-reduzir-condenacao-em-um-ano-e-meio/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "08:06",
-"t": "Jovem vê discussão, tenta proteger mulher de agressão e é morto a tiros",
-"p": "Polícia Civil procura por atirador que fugiu com mulher que jovem tentou proteger de eventual violência doméstica, na zona leste da capital",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/jovem-ve-discussao-tenta-proteger-mulher-de-agressao-e-e-morto-a-tiros",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "08:00",
-"t": "FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027",
-"p": "Conselho Curador mantém os recursos destinados à moradia no mesmo patamar de 2026 e prevê R$ 13 bilhões em subsídios para famílias de baixa renda. Regra de transição do saque-aniversário também ganha novo prazo",
-"tema": "Habitação",
-"s": "anunciado",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "08:00",
-"t": "Mulheres negras morrem 3,8 vezes mais que mulheres brancas por câncer de mama, aponta Inca",
-"p": "Estudo revela desigualdades no diagnóstico e no tratamento da doença no Brasil. Além disso, publicação destaca a influência de fatores socioeconômicos, biológicos e do acesso aos serviços de saúde",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/vida/mulheres-negras-morrem-38-vezes-mais-que-mulheres-brancas-por-cancer-de-mama-aponta-inca/",
 "auto": true
 }
 ]
