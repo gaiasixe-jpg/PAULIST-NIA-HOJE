@@ -3,6 +3,46 @@
 "itens": [
 {
 "d": "2026-11-17",
+"h": "07:06",
+"t": "De centavos a milhares de dólares: os onze anos do Ethereum em cinco momentos",
+"p": "Foto: Pexels Em 2014, um ether custava cerca de 31 centavos de dólar. Era o preço pago por quem decidiu financiar um projeto ainda no papel, criado por um programador russo-canadense de 19 anos chamado Vitalik Buterin. Doze anos depois, a mesma moeda vale milhares de dólares e sustenta uma das maiores redes…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/post/de-centavos-a-milhares-de-dolares-os-onze-anos-do-ethereum-em-cinco-momentos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "07:00",
+"t": "Calor vai aumentar ou vem chuva? Veja como fica o tempo na região",
+"p": "Calor aumenta em Ribeirão Preto e sensação térmica pode atingir 34°C nesta terça-feira",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/calor-vai-aumentar-ou-vem-chuva-veja-como-fica-o-tempo-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "06:23",
+"t": "Polícia mira grupo investigado por laboratórios de \"supermaconha\" em SP",
+"p": "Operação contra laboratórios clandestinos usados para fabricação de drogas de alta potência é realizada na manhã desta terça (17/11)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-mira-grupo-investigado-por-laboratorios-de-supermaconha-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-17",
 "h": "06:02",
 "t": "Curso de preparo de panetones capacita moradores de Fernandópolis para gerar renda extra no Natal",
 "p": "Com a aproximação das festas de fim de ano e o consequente aumento na procura por itens típicos natalinos, a produção artesanal de panetones surge como uma excelente alternativa para quem busca complementar o orçamento doméstico. Em Fernandópolis, uma nova turma de moradores participa de um curso gratuito de…",
@@ -93,6 +133,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/empresario-e-preso-suspeito-de-enviar-bomba-escondida-em-videogame-para-loja-concorrente/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "05:30",
+"t": "Data centers de IA: Brasil oferece isenção fiscal para liderar corrida na América Latina",
+"p": "A concessão de incentivos fiscais pelos governos federal e estaduais mira atrair aportes bilionários para a instalação de data centers de Inteligência Artificial no Brasil, apoiada na oferta de energia renovável. A estratégia posiciona o país na disputa direta com o Chile e a Argentina pela liderança tecnológica na…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/data-centers-de-ia-brasil-oferece-isencao-fiscal-para-liderar-corrida-na-america-latina/",
 "auto": true
 },
 {
