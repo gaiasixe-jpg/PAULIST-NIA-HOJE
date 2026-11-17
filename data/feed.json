@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T11:59:43-03:00",
-"novos_nesta_coleta": 41,
+"atualizado": "2026-11-17T13:02:26-03:00",
+"novos_nesta_coleta": 32,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,326 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "13:01",
+"t": "Smart Sanca ajuda a capturar 260 procurados em São Caetano",
+"p": "Balanço da Prefeitura aponta que sistema de videomonitoramento contribuiu para prisões desde julho de 2025; quatro pessoas foram detidas em um único dia",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369285/smart-sanca-ajuda-a-capturar-260-procurados-em-sao-caetano",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "13:00",
+"t": "Procon de Jales passa a atender no prédio do Poupatempo a partir desta quarta-feira",
+"p": "Os moradores de Jales que precisam de orientação ou assistência relacionada aos direitos do consumidor devem ficar atentos à mudança de endereço do Procon municipal. A partir desta quarta-feira, dia 18 de novembro, o órgão passa a funcionar dentro das dependências do posto do Poupatempo, situado na Avenida da…",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/procon-de-jales-passa-a-atender-no-predio-do-poupatempo-a-partir-desta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "13:00",
+"t": "Postos de Atendimento ao Trabalhador oferecem quase 17 mil vagas de emprego nesta semana",
+"p": "Os Postos de Atendimento ao Trabalhador (PATs), ligados à Secretaria de Desenvolvimento Econômico do Governo de São Paulo, disponibilizam 16.912 oportunidades de emprego em todo o estado ao longo desta semana. Com mais de 200 unidades espalhadas pelos municípios paulistas, a rede pública auxilia os cidadãos na…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/postos-de-atendimento-ao-trabalhador-oferecem-quase-17-mil-vagas-de-emprego-nesta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "13:00",
+"t": "Estado de SP supera meta de vacinação com BCG e reforça alertas no Dia Nacional de Combate à Tuberculose",
+"p": "No Dia Nacional de Combate à Tuberculose, celebrado nesta terça-feira (17), a Secretaria de Estado da Saúde de São Paulo (SES-SP) divulgou um balanço positivo sobre a imunização infantil contra a doença. Em 2025, a cobertura vacinal da BCG atingiu 92,11% no território paulista, ultrapassando a meta preconizada de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estado-de-sp-supera-meta-de-vacinacao-com-bcg-e-reforca-alertas-no-dia-nacional-de-combate-a-tuberculose/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:58",
+"t": "Vazamento de esgoto faz asfalto ceder e interdita rua na Ponte Preta",
+"p": "Trecho da Rua Irmã Ana Justina foi totalmente bloqueado nos dois sentidos; equipes já religaram a tubulação e trabalham na recuperação do asfalto, com previsão de conclusão para as 17h desta terça-feira (17)",
+"tema": "Saneamento",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/vazamento-de-esgoto-faz-asfalto-ceder-e-interdita-rua-na-ponte-preta/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:47",
+"t": "GCM apreende drogas e conduz adolescente à Delegacia por ato infracional em Aparecidinha",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba apreendeu entorpecentes durante uma ação de patrulhamento preventivo pelos próprios municipais do bairro Aparecidinha, na noite desta segunda-feira (16). Durante o patrulhamento, a equipe avistou dois indivíduos em atitude suspeita. Ao perceber a aproximação da viatura, um…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-drogas-e-conduz-adolescente-a-delegacia-por-ato-infracional-em-aparecidinha/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:46",
+"t": "Duas propostas parecidas de seguro para o Chevrolet Spark 2027 exigem atenção e podem esconder gastos bem diferentes na bateria e no guincho",
+"p": "Quem planeja comprar o Chevrolet Spark EUV 2027 como primeiro carro elétrico precisa prever dois valores no orçamento. O primeiro é o prêmio, ou seja, o preço do seguro, que depende da cotação individual. A franquia, por sua vez, é um gasto eventual que só entra na conta nos sinistros em que o contrato prevê […]",
+"tema": "Contas públicas",
+"s": "obra",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/automotor/duas-propostas-parecidas-de-seguro-para-o-chevrolet-spark-2027-exigem-atencao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:40",
+"t": "GCM localiza motocicleta furtada no Centro de Sorocaba",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba recuperou, nesta terça-feira (17), uma motocicleta que havia sido furtada na noite de segunda-feira (16), nas proximidades do Pátio Cianê Shopping, localizado no Centro. A equipe realizava patrulhamento preventivo pela Avenida Afonso Vergueiro, quando avistou uma…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-localiza-motocicleta-furtada-no-centro-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:32",
+"t": "Secador de cabelo na água pode matar? O que acontece quando um aparelho ligado cai na banheira e por que o risco de choque elétrico é tão perigoso",
+"p": "Entenda como a corrente elétrica se espalha em ambientes molhados e quais mecanismos ajudam a reduzir o risco de acidentes domésticos",
+"tema": "Água",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/secador-de-cabelo-na-agua-pode-matar-o-que-acontece-quando-um-aparelho-ligado-cai-na-banheira-e-por-que-o-risco-de-choque-eletrico-e-tao-perigoso/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:29",
+"t": "Homem é preso por receptação de veículo na zona norte de Marília",
+"p": "Suspeito foi preso pela PM em Marília Homem preso pela Polícia Militar também era procurado pela Justiça devido a um mandado de prisão preventiva.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-e-preso-por-receptacao-de-veiculo-na-zona-norte-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:23",
+"t": "Ministério da Saúde abre seleção com salários de até R$ 10,3 mil e mais de 750 oportunidades",
+"p": "Inscrições para processo seletivo do Ministério da Saúde devem ser realizadas até o dia 14 de dezembro",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/ministerio-da-saude-abre-selecao-com-salarios-de-ate-r-103-mil-e-mais-de-750-oportunidades/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:21",
+"t": "PF faz operação contra tráfico internacional de drogas pelo Porto de Santos",
+"p": "Desdobramento da Papyrus, a Operação Conexão Oculta mira uma quadrilha especializada no envio de cocaína ao exterior",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pf-faz-operacao-contra-trafico-internacional-de-drogas-pelo-porto-de-santos",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:16",
+"t": "Aos 91 anos, mulher é a única moradora de cidade e trabalha como prefeita, bibliotecária, secretária e dona de bar",
+"p": "A cidade de Monowi, no estado de Nebraska, nos Estados Unidos, tem uma característica incomum: apenas uma pessoa mora oficialmente no local. Aos 92 anos, Elsie Eiler acumula funções de prefeita, secretária, tesoureira, bibliotecária e dona de um bar que se tornou ponto de encontro para moradores de cidades vizinhas…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/aos-91-anos-mulher-e-a-unica-moradora-de-cidade-e-trabalha-como-prefeita-bibliotecaria-secretaria-e-dona-de-bar/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:12",
+"t": "Homem pede ajuda para comprar alimento, furta bicicleta elétrica e é preso pela PM em Itaquá",
+"p": "Vítima contou à polícia que ajudou o homem a comprar um alimento em uma padaria, mas o suspeito aproveitou a situação para fugir com o veículo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/policia/homem-pede-ajuda-para-comprar-alimento-furta-bicicleta-eletrica-e-e-preso-pela-pm-em-itaqua/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:12",
+"t": "Combate ao comércio irregular, barulho e descarte de lixo: Campo Limpo Paulista amplia papel da Guarda Municipal",
+"p": "Foto: Prefeitura de Campo Limpo Paulista Mudança prevê fiscalização em conjunto com setores municipais, possibilidade de uso de drones e gratificação de R$ 350 para agentes designados",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campo Limpo Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/campo-limpo-paulista/guarda-municipal-campo-limpo-paulista-amplia-fiscalizacao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:11",
+"t": "Educação municipal de São João das Duas Pontes participa de seminário final do ProLEEI na UFSCar",
+"p": "A Prefeitura de São João das Duas Pontes, por intermédio da Secretaria Municipal de Educação, marcou presença no dia 7 de novembro em São Carlos (SP) para acompanhar o Seminário Final do Programa Leitura e Escrita na Educação Infantil (ProLEEI/CNCA – UFSCar). O encontro reuniu educadores e especialistas com o…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São João das Duas Pontes",
+"São Carlos"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/educacao-municipal-de-sao-joao-das-duas-pontes-participa-de-seminario-final-do-proleei-na-ufscar/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:09",
+"t": "Santa Casa de Fernandópolis abre processo seletivo com vagas para diversas funções na área da saúde e serviços",
+"p": "A Santa Casa de Fernandópolis publicou o edital 052/2026 para a contratação de profissionais em diferentes áreas de atuação, oferecendo oportunidades para candidatos com níveis fundamental, médio, técnico e superior. As inscrições estão abertas e seguem até o próximo dia 23 de novembro. O processo seletivo…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-abre-processo-seletivo-com-vagas-para-diversas-funcoes-na-area-da-saude-e-servicos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:05",
+"t": "Potência Preta em Jundiaí: de menina curiosa na cozinha da mãe, Sandra é hoje confeiteira dona do próprio negócio",
+"p": "Foto: Arquivo Pessoal Empreendedora de Jundiaí aprendeu a gostar de confeitaria observando a mãe, deixou o emprego em uma escola e hoje divide a produção com a filha.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empreenda/potencia-preta-em-jundiai-sandra/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:04",
+"t": "Prefeitura de Sorocaba abre inscrições para projetos de educação voltados ao turismo",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Turismo (Setur), está com inscrições abertas para escolas das redes municipal, estadual e particular interessadas em participar, no primeiro semestre de 2027, dos projetos educacionais Turismo vai à Escola, Rolê e Descubra. As iniciativas utilizam o turismo como…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-abre-inscricoes-para-projetos-de-educacao-voltados-ao-turismo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "12:00",
+"t": "Termina hoje o prazo de inscrição para mais de 2,5 mil vagas em cursos gratuitos do Qualifica SP",
+"p": "Encerra-se nesta terça-feira, dia 17 de novembro, o prazo para os moradores do estado de São Paulo se inscreverem nas 2.595 vagas gratuitas de qualificação profissional oferecidas pelo programa Qualifica SP. Coordenada pela Secretaria de Desenvolvimento Econômico (SDE) e executada pela Fundação de Apoio à…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/termina-hoje-o-prazo-de-inscricao-para-mais-de-25-mil-vagas-em-cursos-gratuitos-do-qualifica-sp/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:59",
+"t": "São Bernardo oferece 110 bolsas gratuitas na saúde; veja os cursos",
+"p": "Inscrições para o Educa Mais Saúde seguem até 30 de novembro; programa oferece cursos técnicos, superiores e de pós-graduação gratuitos",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369274/sao-bernardo-oferece-110-bolsas-gratuitas-na-saude-veja-os-cursos",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:59",
+"t": "Amputações penianas crescem 450% em quatro anos na região de Marília",
+"p": "Higiene íntima, tratamento da fimose e vacinação contra o HPV estão entre as medidas para reduzir o risco de câncer de pênis.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/amputacoes-penianas-crescem-450-em-quatro-anos-na-regiao-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "11:56",
+"t": "Polícia Civil realiza segunda fase de operação contra quadrilha de furto e venda ilegal de veículos",
+"p": "A Polícia Civil deflagrou, na manhã desta terça-feira (17), a segunda etapa da Operação GTA, que tem como alvo uma organização criminosa especializada no furto e na comercialização clandestina de automóveis na capital paulista. Coordenada pelas equipes do 30º Distrito Policial (DP), no bairro do Tatuapé, na zona…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-realiza-segunda-fase-de-operacao-contra-quadrilha-de-furto-e-venda-ilegal-de-veiculos/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "11:55",
@@ -54785,322 +55101,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/cotidiano/lei-de-direitos-dos-pacientes-e-diretivas-antecipadas-de-vontade-transformam-o-dia-de-finados-em-reflexao-sobre-desejos-antes-da-morte/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "13:42",
-"t": "Homem abandona Camaro após atingir e matar motociclista em rodovia de SP",
-"p": "Acidente aconteceu na Rodovia Anhanguera, em Sumaré, no interior paulista. Esposa disse que o motorista do Camaro passou mal após a batida",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Sumaré"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/homem-abandona-camaro-apos-atingir-e-matar-motociclista-em-rodovia-de-sp",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "13:26",
-"t": "Mogi das Cruzes registra 48 mm de chuva e tem pontos de alagamento",
-"p": "Segundo a Prefeitura, as regiões mais afetadas foram César de Souza, Sabaúna e Botujuru",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-registra-48-mm-de-chuva-e-tem-pontos-de-alagamento/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "13:23",
-"t": "Chuva não dá trégua: Inmet mantém alerta amarelo de temporal para SP",
-"p": "Aviso do Inmet prevê rajadas de vento de até 60 km/h, granizo e risco de chuva forte em SP até quarta-feira",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-nao-da-tregua-inmet-mantem-alerta-amarelo-de-temporal-para-sp/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "13:21",
-"t": "Suspeitos abandonam moto adulterada e rolos de cobre ao fugir da Polícia Militar em Fernandópolis",
-"p": "Uma ação de patrulhamento da Polícia Militar resultou na apreensão de uma motocicleta irregular e de três rolos de fios de cobre na madrugada deste domingo (1º), em Fernandópolis. A intervenção ocorreu na altura da Avenida Litério Grecco, nas proximidades do acesso à Rodovia Euclides da Cunha (SP-320). Os policiais…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis",
-"Cunha"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/suspeitos-abandonam-moto-adulterada-e-rolos-de-cobre-ao-fugir-da-policia-militar-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "13:18",
-"t": "Com voz mansa e paciência, PM salva cachorrinha presa dentro de bueiro em Jundiaí",
-"p": "Foto: Polícia Militar/Divulgação Animal estava assustado e correu para uma tubulação durante o salvamento; agora, uma tutora temporária procura seu dono ou adotante.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/cachorra-resgatada-bueiro-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "13:10",
-"t": "Concurso Melhor Estudante de Votuporanga realiza prova final no domingo, dia 8",
-"p": "EDUCAÇÃO | VOTUPORANGA 24ª edição da iniciativa promovida pelo Rotary Club de Votuporanga 8 de Agosto terá etapa decisiva no Instituto Federal; candidatos devem ficar atentos aos horários e às orientações da organização. A 24ª edição do Concurso Melhor Estudante de Votuporanga 2026 chega à sua etapa decisiva neste…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/concurso-melhor-estudante-de-votuporanga-realiza-prova-final-no-domingo-dia-8/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "13:03",
-"t": "Suspeitos de matar policial militar em Fronteira são presos em Rio Preto",
-"p": "O homem apontado como responsável pela morte de um policial militar em Fronteira, no Triângulo Mineiro, e um casal suspeito de ajudá-lo na fuga foram presos em Rio Preto nesta segunda-feira (2/11). A operação contou com a participação de equipes do 9º Batalhão de Ações Especiais de Polícia (Baep). O crime aconteceu…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/suspeitos-de-matar-policial-militar-em-fronteira-sao-presos-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "13:00",
-"t": "Fim de uma era: metrô de SP encerra uso do bilhete magnético após 50 anos e migra para 100% digital com QR Code e cartões",
-"p": "Após cinco décadas de história, o metrô de São Paulo encerrou definitivamente o uso dos bilhetes magnéticos em papel nas estações da rede. A transição faz parte do plano de modernização do sistema de transporte, substituindo o antigo bilhete impresso por tecnologias 100% digitais, como cartões recarregáveis, QR…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/fim-de-uma-era-metro-de-sp-encerra-uso-do-bilhete-magnetico-apos-50-anos-e-migra-para-100-digital-com-qr-code-e-cartoes/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:49",
-"t": "Após restos de filho desaparecer do IML, mãe vai em busca por respostas",
-"p": "Sumiço de restos mortais de jovem de 22 anos encontrado carbonizado é alvo de investigação aberta pela Polícia Civil de Suzano",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Suzano"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/apos-restos-de-filho-desaparecer-do-iml-mae-vai-em-busca-por-respostas",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:48",
-"t": "Governo de SP anuncia terceira edição do SP Global Tech e abre novo edital para capacitar startups ao mercado internacional",
-"p": "O Governo do Estado de São Paulo, por meio da Secretaria de Ciência, Tecnologia e Inovação (SCTI), e em parceria com a InvestSP, anuncia o lançamento do terceiro edital do Programa SP Global Tech. O novo chamamento, que vai selecionar um grupo de 100 startups paulistas de base tecnológica para receber capacitação…",
-"tema": "Geral",
-"s": "anunciado",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/governo-de-sp-anuncia-terceira-edicao-do-sp-global-tech-e-abre-novo-edital-para-capacitar-startups-ao-mercado-internacional/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:48",
-"t": "Grande São Paulo registra queda de 27% nos feminicídios entre janeiro e setembro",
-"p": "O Governo de São Paulo registrou queda de 27% nos casos de feminicídio entre janeiro e setembro deste ano, na comparação com o mesmo período de 2025, na Grande São Paulo, que reúne 38 municípios ao redor da capital. Foram 27 ocorrências, ante 37 no ano passado. Em setembro, foram contabilizados dois casos, o mesmo […]",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/grande-sao-paulo-registra-queda-de-27-nos-feminicidios-entre-janeiro-e-setembro/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:48",
-"t": "Governo de SP mobiliza atendimentos após 88 alertas de chuvas em todo o estado",
-"p": "O Governo de São Paulo acompanha, por meio da Defesa Civil e do Corpo de Bombeiros, as ocorrências provocadas pelas chuvas intensas e rajadas de vento registradas entre domingo (1º) e a madrugada desta segunda-feira (2) em diferentes municípios paulistas. Ao todo, a Defesa Civil enviou 88 alertas à população, sendo…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/governo-de-sp-mobiliza-atendimentos-apos-88-alertas-de-chuvas-em-todo-o-estado/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:48",
-"t": "Queda nos roubos e ausência de latrocínios marcam indicadores da região de São José dos Campos",
-"p": "A região de São José dos Campos, no interior de São Paulo, não registrou nenhum latrocínio em setembro deste ano. No mesmo mês de 2025, foram contabilizadas duas ocorrências. Os dados abrangem os 39 municípios atendidos pelo Departamento de Polícia Judiciária de São Paulo Interior (Deinter 1). No acumulado de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José dos Campos",
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/queda-nos-roubos-e-ausencia-de-latrocinios-marcam-indicadores-da-regiao-de-sao-jose-dos-campos/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:44",
-"t": "Motociclista morre após ser atingido por Camaro na Anhanguera; motorista foge",
-"p": "Acidente aconteceu na noite de domingo (1º), em Sumaré; segundo a polícia, condutor do carro abandonou o veículo na rodovia e não havia se apresentado às autoridades até o registro da ocorrência",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Sumaré"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/motociclista-morre-apos-ser-atingido-por-camaro-na-anhanguera-motorista-foge/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:30",
-"t": "Guarujá prorroga prazo para moradores sugerirem mudanças no Plano Diretor; veja até quando",
-"p": "População tem até 9 de novembro para apresentar propostas sobre habitação, mobilidade, infraestrutura e meio ambiente",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/guaruja/guaruja-prorroga-prazo-para-moradores-sugerirem-mudancas-no-plano-diretor-veja-ate-quando.html",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:24",
-"t": "Descuido e ignorância humana podem transformar famoso lago em três grandes poças de água em poucos anos",
-"p": "O Lago Balaton, um dos principais destinos turísticos da Hungria, pode perder grande parte de sua extensão atual nas próximas décadas. Um cenário climático aponta que, sem medidas de reposição de água, o reservatório poderá ficar reduzido a três grandes poças isoladas até o fim do século. A projeção foi apresentada…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/descuido-e-ignorancia-humana-podem-transformar-famoso-lago-em-tres-grandes-pocas-de-agua-em-poucos-anos/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:19",
-"t": "Vídeo mostra batida entre carros na avenida Dom Pedro I",
-"p": "Câmera de segurança gravou acidente no cruzamento da avenida Dom Pedro I com a rua Japurá; resgate mobilizou bombeiros durante a madrugada",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/video-mostra-batida-entre-carros-na-avenida-dom-pedro-i/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:19",
-"t": "Lula garante que programas sociais serão mantidos",
-"p": "Presidente criticou ainda a divulgação de fake news",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/lula-garante-que-programas-sociais-serao-mantidos/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:00",
-"t": "Feriado de Finados tem 10 registros de acidentes durante a manhã na região metropolitana de São Paulo; 4 pessoas ficaram feridas",
-"p": "A manhã desta segunda-feira (2/11), data que marca o feriado de Finados, ficou marcada pelo número de acidentes na região metropolitana de São Paulo. De acordo com o site do Detran, o trânsito não foi afetado pelo número de acidentes. Foram registrados dez acidentes com, pelo menos, quatro pessoas feridas. Locais…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/feriado-de-finados-tem-10-registros-de-acidentes-durante-a-manha-na-regiao-metropolitana-de-sao-paulo-4-pessoas-ficaram-feridas/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "12:00",
-"t": "Santos lança dois programas de regularização de dívidas",
-"p": "Francisco Arrais/Arquivo Prefeitura de Santos Moradores e empresas de Santos terão duas opções para regularizar dívidas com a Prefeitura, com descontos de até 100% em juros e multas.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/santos-lanca-dois-programas-de-regularizacao-de-dividas/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:58",
-"t": "PM flagra obra sendo invadida, luta e mata suspeito no litoral paulista",
-"p": "Militar instalou câmeras em obra que está erguendo no bairro Guassu, em São Vicente, e viu momento em que suspeito entrou na construção",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/pm-flagra-obra-sendo-invadida-luta-e-mata-suspeito-no-litoral-paulista",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:46",
-"t": "Santos lança dois programas de regularização de dívidas com descontos de até 100% em juros e multas para contribuintes",
-"p": "Moradores e empresas com pendências financeiras junto ao município de Santos passam a contar com duas novas oportunidades para regularizar débitos fiscais com condições facilitadas. O prefeito Rogério Santos sancionou as leis que criam os dois programas de anistia e parcelamento do Programa de Recuperação Fiscal…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/santos-lanca-dois-programas-de-regularizacao-de-dividas-com-descontos-de-ate-100-em-juros-e-multas-para-contribuintes/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "11:37",
-"t": "Mulher é assaltada com faca durante caminhada em Rio Preto",
-"p": "Vítima relatou à polícia que suspeito já teria invadido sua residência anteriormente",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/mulher-e-assaltada-com-faca-durante-caminhada-em-rio-preto/",
 "auto": true
 }
 ]
