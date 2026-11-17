@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T18:00:11-03:00",
-"novos_nesta_coleta": 22,
+"atualizado": "2026-11-17T18:59:26-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,100 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "18:41",
+"t": "Faltas em exames de DNA-HPV chegam a 40,4% em unidades de saúde de Ribeirão Preto",
+"p": "Faltas em exames de DNA-HPV superam 52% na última semana, segundo a Prefeitura de Ribeirão Preto; UBS João Rossi lidera ausências acumuladas, com 48%",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/faltas-em-exames-de-dna-hpv-chegam-a-404-em-unidades-de-saude-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "18:38",
+"t": "Mogi das Cruzes abre inscrições para passeio guiado gratuito pelo Casarão do Chá",
+"p": "Iniciativa faz parte do programa Roteiros do Patrimônio; interessados podem se inscrever a partir desta quarta-feira (18)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-abre-inscricoes-para-passeio-guiado-gratuito-no-casarao-do-cha/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "18:37",
+"t": "Free flow começa em 1º de dezembro no Sistema Anchieta-Imigrantes e terá pedágio de R$ 20,30 por sentido para motoristas",
+"p": "Os motoristas que utilizam o Sistema Anchieta-Imigrantes (SAI) para acessar o litoral de São Paulo devem ficar atentos às mudanças na cobrança de pedágio. O sistema eletrônico, conhecido como free flow, começará a funcionar em 1º de dezembro nas rodovias. O anúncio foi feito nesta terça-feira (17/11), durante o…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/free-flow-comeca-em-1o-de-dezembro-no-sistema-anchieta-imigrantes-e-tera-pedagio-de-r-2030-por-sentido-para-motoristas/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "18:30",
+"t": "Surto de sarna humana assusta famílias, suspende aulas em escolas de várias cidades e deixa mais de 500 pessoas infectadas no Sul de Minas Gerais",
+"p": "Uma coceira intensa que piora durante a noite, pequenas feridas na pele e um parasita invisível a olho nu. Esses são alguns dos sinais de uma doença que tem preocupado famílias e autoridades de saúde em Minas Gerais. Conhecida popularmente como sarna humana, a escabiose motivou a suspensão de aulas em diferentes…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/surto-de-sarna-humana-assusta-familias-suspende-aulas-em-escolas-de-varias-cidades-e-deixa-mais-de-500-pessoas-infectadas-no-sul-de-minas-gerais/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "18:17",
+"t": "Suspeito de tráfico cai de prédio ao tentar fugir da PM por telhado",
+"p": "Polícia Militar apreendeu mais de 270 porções de drogas durante operação com apoio de drones na região central de São Paulo",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/suspeito-de-trafico-cai-de-predio-ao-tentar-fugir-da-pm-por-telhado",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "18:15",
+"t": "Conheça a história secreta do Castelo de Neuschwanstein na Alemanha, a impressionante obra que inspirou os contos de fadas da Disney",
+"p": "O Castelo de Neuschwanstein atrai milhões de turistas no sul da Alemanha. A construção inspirou o famoso Castelo da Cinderela. Pouca gente sabe que o palácio não é medieval. Ele surgiu na segunda metade do século 19. Capricho de um rei sonhador O rei Ludwig II da Baviera encomendou o projeto em 1869. Ele queria […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/conheca-a-historia-secreta-do-castelo-de-neuschwanstein-na-alemanha-a-impressionante-obra-que-inspirou-os-contos-de-fadas-da-disney/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "18:02",
+"t": "Treine sem sobrecarregar os joelhos: veja dicas para preservar a saúde das articulações",
+"p": "A decisão de adotar uma rotina mais ativa pode vir acompanhada de dúvidas, principalmente para quem nunca teve o hábito de se exercitar. Essa preocupação também está presente entre aqueles que desejam voltar aos treinos após um período parado ou uma lesão, especialmente pelo receio de sentir dores ou sobrecarregar…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/treine-sem-sobrecarregar-os-joelhos-veja-dicas-para-preservar-a-saude-das-articulacoes/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "17:49",
@@ -54951,100 +55045,6 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/fernandopolis-mobiliza-comunidade-com-bazar-beneficente-e-noite-festiva-na-primeira-semana-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "07:36",
-"t": "Renato Colombano deverá disputar a presidência da ACIF e defende renovação com foco no desenvolvimento econômico",
-"p": "O empresário Renato Colombano deverá disputar a presidência da Associação Comercial e Industrial de Fernandópolis (ACIF). Segundo ele, a possibilidade surgiu após ser procurado por empresários que incentivaram sua participação na eleição deste ano. Colombano defende a renovação na condução da entidade e afirma que…",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/renato-colombano-devera-disputar-a-presidencia-da-acif-e-defende-renovacao-com-foco-no-desenvolvimento-economico/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "07:32",
-"t": "Batida faz carro rodar no asfalto molhado e atingir poste em Ribeirão Preto; Vídeo",
-"p": "Carro rodou no asfalto molhado pela chuva após ser atingido por outro veículo e colidiu contra poste na tarde desta segunda (2)",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/batida-faz-carro-rodar-no-asfalto-molhado-e-atingir-poste-em-ribeirao-preto-video/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "07:31",
-"t": "Mega da Virada muda data do sorteio pela 1ª vez em 17 anos e abre apostas com o maior prêmio de sua história",
-"p": "As apostas para a Mega da Virada 2026 começam nesta terça-feira (3), com prêmio estimado em R$ 1 bilhão. O valor coloca o concurso especial entre as maiores premiações já oferecidas pelas loterias brasileiras. Neste ano, o sorteio terá uma mudança excepcional no calendário. Em vez de ocorrer na noite de 31 de…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/mega-da-virada-muda-data-do-sorteio-pela-1a-vez-em-17-anos-e-abre-apostas-com-o-maior-premio-de-sua-historia/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "07:25",
-"t": "Polícia investiga acidente com asa-delta que deixou dois mortos no Rio",
-"p": "Equipamento de voo que chocou-se contra o solo passará por perícia",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/policia-investiga-acidente-com-asa-delta-que-deixou-dois-mortos-no-rio/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "07:16",
-"t": "Luciano Hang ajuda filha de funcionário da Havan com doença rara e morava há 21 anos no hospital a arrecadar R$ 300 mil e finalmente voltar para casa",
-"p": "Luciano Hang, dono da Havan, visitou a jovem na última segunda-feira (21), Thalia, diagnosticada com Atrofia Muscular Espinhal (AME) ainda bebê, que passou 21 anos vivendo no Hospital de Jaraguá. Filha de um colaborador da Havan, o empresário havia doado para a família R$ 50 mil em fevereiro de 2025 e ajudou a…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/luciano-hang-ajuda-filha-de-funcionario-da-havan-com-doenca-rara-e-morava-ha-21-anos-no-hospital-a-arrecadar-r-300-mil-e-e-finalmente-voltar-para-casa/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "07:10",
-"t": "Renato Colombano deverá disputar a presidência da ACIF e defende renovação com foco no desenvolvimento econômico",
-"p": "O empresário Renato Colombano deverá disputar a presidência da Associação Comercial e Industrial de Fernandópolis (ACIF). Segundo ele, a possibilidade surgiu após ser procurado por empresários que incentivaram sua participação na eleição deste ano. Colombano defende a renovação na condução da entidade e afirma que…",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/renato-colombano-devera-disputar-a-presidencia-da-acif-e-defende-renovacao-com-foco-no-desenvolvimento-economico/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "07:03",
-"t": "Roubos caem 32,7% no litoral sul paulista em setembro",
-"p": "O litoral sul de São Paulo registrou queda de 32,7% nos roubos em setembro, na comparação com o mesmo mês de 2025. Os furtos em geral diminuíram 57,2%, alcançando o segundo menor índice da série histórica para o mês, atrás apenas de 2008. Os dados são do Governo de São Paulo. Os roubos de veículos […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/roubos-caem-327-no-litoral-sul-paulista-em-setembro/",
 "auto": true
 }
 ]
