@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T16:10:03-03:00",
-"novos_nesta_coleta": 28,
+"atualizado": "2026-11-17T17:13:06-03:00",
+"novos_nesta_coleta": 41,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -46,10 +46,337 @@
 },
 {
 "fonte": "Boqnews",
-"erro": "XML or text declaration not at start of entity: line 2, column 0"
+"erro": "The read operation timed out"
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "17:06",
+"t": "Caso Voepass: 4 admitem atentado aéreo e terão pena em dinheiro ou serviço",
+"p": "Os investigados pela queda do avião da Voepass fizeram acordo de não persecução penal, reconhecendo a culpa para evitarem processo criminal",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/caso-voepass-4-admitem-atentado-aereo-e-terao-pena-em-dinheiro-ou-servico",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:03",
+"t": "Famerp e Fatec rebatem declaração de deputado sobre universidades",
+"p": "A Faculdade de Medicina de Rio Preto (Famerp) e a Faculdade de Tecnologia (Fatec) de Rio Preto divulgaram manifestações em defesa do ensino superior após declarações do deputado federal Paulo Bilynskyj (PL), que afirmou que as universidades brasileiras formam “um monte de inúteis”. A fala ocorreu na segunda-feira…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/famerp-e-fatec-rebatem-declaracao-de-deputado-sobre-universidades/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:03",
+"t": "MP arquiva denúncia contra empresário por falta de provas de discriminação",
+"p": "O Ministério Público do Estado de São Paulo (MP-SP) arquivou a representação apresentada pelo Partido Socialismo e Liberdade (PSOL) de Rio Preto contra um empresário, apontado como um dos organizadores de um bloco de carnaval conhecido na cidade. A denúncia questionava declarações atribuídas ao empresário,…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mp-arquiva-denuncia-contra-empresario-por-falta-de-provas-de-discriminacao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:03",
+"t": "Santa Casa de Casa Branca sofre nova intervenção após investigação de contrato",
+"p": "A Prefeitura de Casa Branca decretou uma nova intervenção administrativa na Santa Casa de Misericórdia do município, hospital envolvido em uma investigação sobre um convênio de R$ 11,9 milhões firmado com a Prefeitura de Rio Preto. A medida foi oficializada por meio de Decreto Municipal, publicado no Diário Oficial…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Casa Branca",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/santa-casa-de-casa-branca-sofre-nova-intervencao-apos-investigacao-de-contrato/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-17",
+"h": "17:02",
+"t": "Nove alunos de escola rural conquistam 3 ouros em competição de foguetes e alcançam 401 metros, maior distância da edição",
+"p": "Estudantes de escola rural exibem premiações. Reprodução/Divulgação. Três equipes de uma escola municipal da zona rural de Ribas do Rio Pardo (MS) conquistaram ouro na 97ª Jornada Nacional de Foguetes, com lançamento recorde de 401 metros.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/nove-alunos-de-escola-rural-conquistam-3-ouros-em-competicao-de-foguetes-e-alcancam-401-metros-maior-distancia-da-edicao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:58",
+"t": "Ela passou quase 34 anos cuidando de crianças em um hospital, continuou trabalhando quando a enfermaria passou a receber pacientes com covid-19 e morreu aos 60 anos; cinco anos depois, a filha que estudava Enfermagem con",
+"p": "Foto do prédio do Humap/UFMS, em Campo Grande, hospital em que Alderita Pereira de Souza trabalhou por quase 34 anos. Imagem de dezembro de 2022. Fronteira, 7/12/2022, CC BY-SA 4.0, Wikimedia Commons Justiça Federal em Mato Grosso do Sul condenou a União a pagar R$ 80 mil à filha de auxiliar de enfermagem do Humap…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/saude/ela-passou-quase-34-anos-cuidando-de-criancas-em-um-hospital-continuou-trabalhando-quando-a-enfermaria-passou-a-receber-pacientes-com-covid-19-e-morreu-aos-60-anos-cinco-anos-depois-a-filha-que-est/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:55",
+"t": "Aos 80 anos, idosa finge acreditar em golpe, arma cilada para criminosos e ajuda a polícia a prender dois suspeitos na cidade",
+"p": "Mulher enganou falsos policiais que exigiam dinheiro e joias para evitar a prisão de seu filho; estratégia terminou com dois suspeitos detidos na Itália",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/aos-80-anos-idosa-finge-acreditar-em-golpe-arma-cilada-para-criminosos-e-ajuda-a-policia-a-prender-dois-suspeitos-na-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:53",
+"t": "Polícia Federal faz operação contra tráfico internacional de cocaína em Guarujá",
+"p": "Ação investiga organização suspeita de esconder drogas em contêineres destinados ao exterior; mandados também são cumpridos em outras cinco cidades",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/policia-federal-faz-operacao-contra-trafico-internacional-de-cocaina-em-guaruja.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:50",
+"t": "Justiça concede liberdade provisória a mulher envolvida em agressão contra idosa no centro de Fernandópolis",
+"p": "A mulher gravada em vídeo agredindo uma idosa na Rua São Paulo, na região central de Fernandópolis, na manhã desta segunda-feira (16), foi colocada em liberdade após passar por audiência de custódia na tarde desta terça-feira (17). Em contrapartida, o homem apontado como seu companheiro — flagrado danificando o…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-concede-liberdade-provisoria-a-mulher-envolvida-em-agressao-contra-idosa-no-centro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:47",
+"t": "Menina de 2 anos canta para a cadela na UTI após intoxicação por ivermectina, e Nala volta a abrir os olhos e tenta se levantar durante a internação",
+"p": "Nala, pastora-australiana de 5 anos da família O'Loughlin, em foto da campanha de arrecadação no GoFundMe. Nala, pastora-australiana de 5 anos, foi internada em Massachusetts após ingerir ivermectina e precisou de ventilação mecânica. A família acompanha a recuperação no hospital veterinário.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo-pet/menina-de-2-anos-canta-para-a-cadela-na-uti-apos-intoxicacao-por-ivermectina-e-nala-volta-a-abrir-os-olhos-e-tenta-se-levantar-durante-a-internacao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:43",
+"t": "Gato passa a trabalhar de brincadeira em prefeitura na Itália, viraliza e reencontra antigos donos após mais de 3 anos desaparecido",
+"p": "Créditos: Il Gazzettino Gato que visitava a prefeitura de Ponzano Veneto, na Itália, ganhou poltrona no registro civil e foi reconhecido por antigos donos, que decidiram deixá-lo com o atual tutor.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo-pet/gato-passa-a-trabalhar-de-brincadeira-em-prefeitura-na-italia-viraliza-e-reencontra-antigos-donos-apos-mais-de-3-anos-desaparecido/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:40",
+"t": "Enfermeira só não foi agredida fisicamente porque tinha GCM na porta, afirma Coren",
+"p": "Caso desta segunda-feira (16) na UPA Vila Luzita, em Santo André, acendeu alerta sobre a presença de segurança",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369340/enfermeira-so-nao-foi-agredida-fisicamente-porque-tinha-gcm-na-porta-afirma-coren",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:40",
+"t": "São Bernardo propõe enviar até 2 de dezembro texto da Lei de Uso do Solo",
+"p": "Legislação carece de atualização desde 2012 e complementa Plano Diretor, atualizado em julho",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369341/sao-bernardo-propoe-enviar-ate-2-de-dezembro-texto-da-lei-de-uso-do-solo",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:40",
+"t": "Associação firma parceria com Prefeitura para cuidar de áreas verdes em Ribeirão Preto",
+"p": "Parceria entre a Prefeitura de Ribeirão e a Associação dos Amigos da Vila do Golfe tem validade inicial de um ano, com renovação automática de no máximo três anos",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/associacao-firma-parceria-com-prefeitura-para-cuidar-de-areas-verdes-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:39",
+"t": "Plantas que não precisam de água se tornam um enorme sucesso de vendas, mas o trabalho para mantê-las é maior do que as pessoas imaginam",
+"p": "A imagem mostra o efeito final de folhagem permanente na vitrine, mas não revela o tempo de montagem haste por haste e a revisão diária contra poeira que sustentam o realismo antes da venda na Holanda. Ilustração criada com Inteligência Artificial Loja em Dordrecht, nos Países Baixos, vende plantas que dispensam…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/plantas-que-nao-precisam-de-agua-se-tornam-um-enorme-sucesso-de-vendas-mas-o-trabalho-para-mante-las-e-maior-do-que-as-pessoas-imaginam/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:37",
+"t": "Defesa Civil de SP capacita representantes de 53 municípios da região de Presidente Prudente e investe mais de R$ 2,1 milhões",
+"p": "A Defesa Civil do Estado capacitou representantes dos 53 municípios da região de Presidente Prudente, nesta terça-feira (17), durante a oitava oficina regional da SP Sempre Alerta – Operação El Niño 2026/2027, realizada em Junqueirópolis. A programação também incluiu a entrega de dois caminhões-pipa, a assinatura…",
+"tema": "Meio ambiente",
+"s": "entregue",
+"c": [
+"Presidente Prudente",
+"Junqueirópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-de-sp-capacita-representantes-de-53-municipios-da-regiao-de-presidente-prudente-e-investe-mais-de-r-21-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:37",
+"t": "Poço inaugurado com crédito da Desenvolve SP vai abastecer Penápolis pelos próximos 30 anos",
+"p": "Por meio da parceria com a Desenvolve SP, a cidade de Penápolis, que fica a 480 km da capital, ganhou um poço profundo capaz de gerar 500 mil litros de água por hora e abastecer cerca de 35 mil pessoas por mais de 30 anos, reduzindo o risco de racionamentos. Foram mais de R$ 6 […]",
+"tema": "Água",
+"s": "entregue",
+"c": [
+"Penápolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/poco-inaugurado-com-credito-da-desenvolve-sp-vai-abastecer-penapolis-pelos-proximos-30-anos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:36",
+"t": "Estado de SP tem 1,2 mil vagas de emprego no setor de alimentação nesta semana; confira",
+"p": "Os Postos de Atendimento ao Trabalhador (PATs) do Governo de São Paulo oferecem, nesta segunda-feira (16), 1,2 mil vagas de emprego no setor de alimentação em todo o estado. A Secretaria de Desenvolvimento Econômico conta com mais de 200 unidades de atendimento espalhadas por todo o estado para auxiliar quem está…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/estado-de-sp-tem-12-mil-vagas-de-emprego-no-setor-de-alimentacao-nesta-semana-confira/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:36",
+"t": "Polícia de SP realiza operação contra furto de cargas de medicamentos em SP e no RJ",
+"p": "A Polícia Civil, por meio do Departamento Estadual de Investigações Criminais (Deic), deflagrou nesta terça-feira (17) uma operação contra uma associação criminosa especializada no furto de cargas de medicamentos. Durante a ação, foram apreendidas canetas emagrecedoras e produtos usados em procedimentos estéticos.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-de-sp-realiza-operacao-contra-furto-de-cargas-de-medicamentos-em-sp-e-no-rj/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:30",
+"t": "Oito pessoas morrem em ataques a tiros e RS aciona protocolo contra homicídios",
+"p": "A Polícia Civil do Rio Grande do Sul acionou o Protocolo das Sete Medidas contra os Homicídios após uma sequência de ataques a tiros deixar oito pessoas mortas em Porto Alegre e Alvorada, na região Metropolitana de Porto Alegre. Os crimes aconteceram entre a noite de domingo (15/11) e a madrugada de segunda-feira…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/oito-pessoas-morrem-em-ataques-a-tiros-e-rs-aciona-protocolo-contra-homicidios/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:25",
+"t": "Justiça Eleitoral inicia descarte e reciclagem de urnas eletrônicas antigas após eleições de 2026",
+"p": "Com o encerramento das eleições gerais de 2026, realizadas nos dias 4 e 25 de outubro, a Justiça Eleitoral deu início ao processo de descarte ecológico e seguro de urnas eletrônicas que atingiram o fim de sua vida útil. Os trabalhos estão concentrados no município de Guarulhos, na Grande São Paulo, e abrangem a…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Guarulhos"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-eleitoral-inicia-descarte-e-reciclagem-de-urnas-eletronicas-antigas-apos-eleicoes-de-2026/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:23",
+"t": "Polícia Civil deflagra operação contra quadrilha de roubo de medicamentos e apreende canetas emagrecedoras e botox",
+"p": "A Polícia Civil de São Paulo, por meio do Departamento Estadual de Investigações Criminais (Deic), realizou nesta terça-feira (17) uma operação de combate a uma associação criminosa especializada no furto e desvio de cargas farmacêuticas. Durante o cumprimento das ordens judiciais, os agentes apreenderam um lote…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-deflagra-operacao-contra-quadrilha-de-roubo-de-medicamentos-e-apreende-canetas-emagrecedoras-e-botox/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:11",
+"t": "TCM-SP pede suspensão de edital para atividades de lazer no Minhocão",
+"p": "Representação encaminhada à Corte questiona modelo da licitação utilizado pela prefeitura; abertura de envelopes estava marcada para esta 3ª",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tcm-sp-pede-suspensao-de-edital-para-atividades-de-lazer-no-minhocao",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:11",
+"t": "Registro mais que quintuplica o saldo de empregos formais até setembro",
+"p": "EMPREGABILIDADE",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/registro-mais-que-quintuplica-o-saldo-de-empregos-formais-ate-setembro/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "16:09",
@@ -76,6 +403,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/empresa-esclarece-que-suspeito-preso-por-agressao-em-fernandopolis-nao-integra-mais-o-quadro-de-funcionarios/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:03",
+"t": "Aos 7 anos, menino da periferia aprende programação em curso de Harvard, cria jogo em inglês e estuda robótica em universidade federal",
+"p": "Álvaro de Melo, conhecido como Alvinho, tinha sete anos quando concluiu um curso on-line de programação em blocos da Universidade de Harvard, nos Estados Unidos. Depois, criou Super Alvinho, um projeto animado em inglês com um personagem inspirado em sua própria história. Criado no Complexo da Maré, na zona norte…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/aos-7-anos-menino-da-periferia-aprende-programacao-em-curso-de-harvard/",
 "auto": true
 },
 {
@@ -200,6 +539,18 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/brasil-e-mundo/projeto-de-lei-propoe-ferias-de-30-dias-uteis-para-trabalhadores/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:32",
+"t": "Cidade no deserto registra quase 49°C e moradores vivem em casas subterrâneas para escapar do calor extremo",
+"p": "Em Matmata, no sul da Tunísia, algumas casas não têm fachadas convencionais, telhados aparentes ou grandes janelas voltadas para a rua. Isso porque elas foram construídas debaixo da terra. Escavadas diretamente no solo, as moradias formam uma paisagem diferente de tudo o que se costuma encontrar em cidades…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/cidade-no-deserto-registra-quase-49c-e-moradores-vivem-em-casas-subterraneas-para-escapar-do-calor-extremo/",
 "auto": true
 },
 {
@@ -2445,6 +2796,90 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/viver-bem/manga-com-leite-faz-mal-entenda-5-mitos-alimentares-passados-entre-geracoes/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "00:00",
+"t": "Prefeito Tupã cumpre agenda em Brasília, com passagem pelo Ministério dos Transportes",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Tupã"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67767",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "00:00",
+"t": "Banco de Leite Humano de PP faz entrega de 75 kits arrecadados com campanha Novembro Roxo",
+"p": "",
+"tema": "Contas públicas",
+"s": "entregue",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67766",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "00:00",
+"t": "Prefeitura capacita 75 servidores municipais sobre regulamentação das emendas impositivas",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67765",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "00:00",
+"t": "Operação Pós-Finados reforça combate à dengue nos cemitérios municipais de Prudente",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67764",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "00:00",
+"t": "Cultura abre inscrições para grupos musicais integrarem programação do Prudente Encantada",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67763",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "00:00",
+"t": "Em segundo dia de IntegraT, Prudente recebe visita de Secretária de Estado de Turismo",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67762",
 "auto": true
 },
 {
@@ -54655,483 +55090,6 @@
 "num": "Nº 8.567",
 "qd": true,
 "mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Macaubal: Dispõe sobre a designação dos membros do Comitê Municipal de Alfabetização do Município de Macaubal/SP, instituído pela Lei Municipal nº 740, de 16 de outubro de 2026.” ACÁCIO",
-"p": "Decreto nº 646, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Macaubal"
-],
-"src": "Diário Oficial de Macaubal",
-"u": "https://data.queridodiario.ok.org.br/3528106/2026-11-03/28d978fcb6e81354bb31775433494946e5e1120f.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 646",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Ourinhos: Dispõe sobre o expediente nas repartições públicas municipais da Administração Direta e Indireta",
-"p": "Decreto nº 8.243, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Ourinhos"
-],
-"src": "Diário Oficial de Ourinhos",
-"u": "https://data.queridodiario.ok.org.br/3534708/2026-11-03/51d0990b1b2b3558a19393948b6aff6f647bb563.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 8.243",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Osasco: Estabelece a tarifa gratuita para a utilização dos veículos que operam no Sistema de Transporte Coletivo Urbano de Passageiros na Cidade de Osasco no Exame Nacional do Ensino Médio Enem",
-"p": "Decreto nº 15.311, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Osasco"
-],
-"src": "Diário Oficial de Osasco",
-"u": "https://data.queridodiario.ok.org.br/3534401/2026-11-03/49a9c78f15c321905012ef3fd67517d3043ecee1.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 15.311",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Pontes Gestal: Dispõe sobre a disseminação de Boas Práticas na Educação Municipal para o ano letivo de 2026",
-"p": "Decreto nº 4.524, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Pontes Gestal"
-],
-"src": "Diário Oficial de Pontes Gestal",
-"u": "https://data.queridodiario.ok.org.br/3540309/2026-11-03/de0bc1102c01096fa7f4ba10d88a94aaec3ce518.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 4.524",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Penápolis: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 03/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Penápolis"
-],
-"src": "Diário Oficial de Penápolis",
-"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-03/435eaf89f6b169df1d70941b720e075f9603964f.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 03/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 400.000,00 e dá outras providências",
-"p": "Decreto nº 404, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Salto"
-],
-"src": "Diário Oficial de Salto",
-"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-03/6241a437df63579b8bffdb30ab2d11a7b50b135e.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 404",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 463.720,00 e dá outras providências",
-"p": "Decreto nº 405, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Salto"
-],
-"src": "Diário Oficial de Salto",
-"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-03/6241a437df63579b8bffdb30ab2d11a7b50b135e.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 405",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Avanhandava: Dispõe sobre suplementação de dotações do orçamento vigente da Câmara Municipal de Avanhandava e dá outras providências",
-"p": "Decreto nº 4.851, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Avanhandava"
-],
-"src": "Diário Oficial de Avanhandava",
-"u": "https://data.queridodiario.ok.org.br/3504404/2026-11-03/6833ffafca162e2b356f7f7959b9e94109b5167e.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 4.851",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Avanhandava: Dispõe sobre suplementação de dotação do orçamento vigente da Prefeitura Municipal de Avanhandava e dá outras providências",
-"p": "Decreto nº 4.860, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Avanhandava"
-],
-"src": "Diário Oficial de Avanhandava",
-"u": "https://data.queridodiario.ok.org.br/3504404/2026-11-03/6833ffafca162e2b356f7f7959b9e94109b5167e.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 4.860",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Avanhandava: Dispõe sobre suplementação de dotações do orçamento vigente da Prefeitura Municipal de Avanhandava e dá outras providências",
-"p": "Decreto nº 4.863, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Avanhandava"
-],
-"src": "Diário Oficial de Avanhandava",
-"u": "https://data.queridodiario.ok.org.br/3504404/2026-11-03/6833ffafca162e2b356f7f7959b9e94109b5167e.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 4.863",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "03:00",
-"t": "Entenda o mistério por trás das camisinhas sujas espalhadas pela Liberdade",
-"p": "Cartazes com fotos de homens e mulheres têm camisinhas coladas na boca das vítimas. Polícia Civil instaurou inquérito para investigar",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/entenda-o-misterio-por-tras-das-camisinhas-sujas-espalhadas-pela-liberdade",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "02:00",
-"t": "Voto distrital: SP não perde cadeiras, mas pode mudar perfil de eleitos",
-"p": "Texto da PEC que pode mudar sistema eleitoral ainda não foi apresentado; ideia é que haja uma transição já na próxima eleição geral em 2030",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/voto-distrital-sp-nao-perde-cadeiras-mas-pode-mudar-perfil-de-eleitos",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "02:00",
-"t": "Motivo de briga entre Boulos e Tarcísio, novo ICMS entra em vigor dia 1º/2",
-"p": "Estados aprovaram nova alíquota do ICMS sobre combustíveis no último dia 27 de outubro. Entenda as regras!",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/motivo-de-briga-entre-boulos-e-tarcisio-novo-icms-entra-em-vigor-dia-1o-2",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "01:14",
-"t": "Calor de até 38°C e risco de temporais marcam semana na região",
-"p": "Rio Preto e região devem enfrentar uma semana de calor intenso, com temperaturas que podem chegar aos 37°C e 38°C em alguns pontos do noroeste paulista. Além das altas temperaturas, a previsão indica aumento da instabilidade atmosférica, com possibilidade de pancadas de chuva, trovoadas, descargas elétricas e…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/calor-de-ate-38c-e-risco-de-temporais-marcam-semana-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "01:14",
-"t": "Motoristas têm até dia 16 para regularizar multas do Siga Fácil",
-"p": "O Departamento de Estradas de Rodagem do Estado de São Paulo (DER-SP) alerta motoristas sobre a aproximação do fim do prazo da regularização de débitos no sistema de pórticos Siga Fácil. Motoristas que receberam multas por não pagar tarifas do sistema de cobrança automática em rodovias paulistas podem solicitar…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/motoristas-tem-ate-dia-16-para-regularizar-multas-do-siga-facil/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Prefeitura promove ações de conscientização no primeiro aniversário do Código de Ética",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67690",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Prefeitura de Prudente realiza trabalho de manutenção pós-chuva em avenidas da cidade",
-"p": "",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67694",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Prefeitura publica editais do 2º Ciclo da Política Nacional Aldir Blanc nesta quarta",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67693",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Paratriathlon da APOP/Semepp conquista prata e bronze na World Triathlon Para Cup no Chile",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67692",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Dia D de recolhimento de fios soltos em postes ocorre na próxima segunda (09), no Calçadão",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67691",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Rolê Cultural movimenta Prudente com apresentações musicais que vão até dia 26",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67697",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Prefeitura de Prudente será sede do primeiro Sebrae Aqui Mulher da região",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67696",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Seduc Prudente promove aplicação do Sarem entre os dias 3 e 6 de novembro de 2026",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67695",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "Altera a classificação institucional da Secretaria da Fazenda e Planejamento nos Sistemas de Administração Financeira e Orçamentária do Estado.",
-"p": "Decreto estadual nº 70.956, de 03/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.956",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213076",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "00:00",
-"t": "5 decretos de crédito suplementar no Orçamento do Estado (03/11)",
-"p": "Reforço de verbas (crédito suplementar) para: Administração Pública; Ministério Público; Fundação para Desenvolvimento da Educação - FDE; Secretaria da Educação; Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto. Decretos nº 70.951, 70.952, 70.953, 70.954, 70.955.",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Nº 70.951 a 70.955",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213071",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "23:10",
-"t": "Ganância humana transforma ilha paradisíaca em cenário de poluição e água contaminada: agora, moradores e indígenas enfrentam riscos à saúde",
-"p": "Relatório identifica níquel, chumbo e cádmio em amostras de água e alimentos; mineração também ameaça a pesca e o território de comunidades Bajau na Indonésia.",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/ganancia-humana-transforma-ilha-paradisiaca-em-cenario-de-poluicao-e-agua-contaminada-agora-moradores-e-indigenas-enfrentam-riscos-a-saude/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "22:35",
-"t": "WSL: resultados AO VIVO e horários de Yago Dora x Gabriel Medina e programação completa do Finals Day da etapa das Filipinas",
-"p": "Siga os resultados ao vivo do Finals Day da etapa das Filipinas do circuito mundial da World Surf League (WSL).",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/esportes/wsl-resultados-ao-vivo-e-horarios-de-yago-dora-x-gabriel-medina-e-programacao-completa-do-finals-day-da-etapa-das-filipinas/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "22:15",
-"t": "Como foi o Dia de Finados nos cemitérios da capital paulista",
-"p": "Cemitérios de São Paulo receberam programação especial para receber maior fluxo de visitantes nesta segunda (2/11), Dia de Finados",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/como-foi-o-dia-de-finados-nos-cemiterios-da-capital-paulista",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "21:48",
-"t": "VÍDEO: chuva forte transforma ruas em rios e motorista precisa abandonar carro submerso no interior de SP",
-"p": "Chuva forte transforma rua em rio em José Bonifácio, interior de SP Uma forte tempestade atingiu cidades da região de São José do Rio Preto (SP) na tarde desta segunda-feira (2), o que transformou ruas em rios, além de causar pontos de alagamento, enxurradas e queda de árvores. Até a última atualização desta…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São José do Rio Preto",
-"José Bonifácio"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/video-chuva-forte-transforma-ruas-em-rios-e-motorista-precisa-abandonar-carro-submerso-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "21:30",
-"t": "Defesa Civil interdita muro e imóveis após desabamento que matou mulher de 80 anos e deixou 10 feridos durante temporal na zona leste de SP",
-"p": "Desabamento de muro na zona leste de São Paulo",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/defesa-civil-interdita-muro-e-imoveis-apos-desabamento-que-matou-mulher-de-80-anos-e-deixou-10-feridos-durante-temporal-na-zona-leste-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "21:19",
-"t": "Calor de até 38°C e risco de temporais marcam semana na região",
-"p": "Previsão indica temperaturas elevadas, com possibilidade de pancadas de chuva, trovoadas e rajadas de vento",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/calor-de-ate-38c-e-risco-de-temporais-marcam-semana-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "21:14",
-"t": "Santos oferece 100% de desconto em multas e juros até o fim do mês",
-"p": "As medidas do Programa de Recuperação Fiscal (Refis) abrangem débitos inscritos na Dívida Ativa. Além de, pela primeira vez, dívidas do Imposto Sobre Serviços (ISS) ainda não inscritas.",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/descontos-multa-e-juros-prefeitura-santos/",
-"auto": true
 }
 ]
 }
