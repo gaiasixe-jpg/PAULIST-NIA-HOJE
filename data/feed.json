@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-16T23:56:24-03:00",
-"novos_nesta_coleta": 22,
+"atualizado": "2026-11-17T01:00:24-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -22,7 +20,6 @@
 "Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
-"Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
@@ -33,11 +30,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -47,9 +52,83 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Região Noroeste",
+"erro": "<urlopen error _ssl.c:994: The handshake operation timed out>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "00:02",
+"t": "Manga com leite faz mal? Entenda 5 mitos alimentares passados entre gerações",
+"p": "Quem nunca ouviu que misturar manga com leite faz mal, que água com açúcar ajuda a acalmar ou que comer à noite engorda? Transmitidas de geração em geração, essas crenças continuam presentes na rotina de muitas famílias brasileiras. Embora algumas tenham origem em costumes antigos ou observações do cotidiano, nem…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/manga-com-leite-faz-mal-entenda-5-mitos-alimentares-passados-entre-geracoes/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:58",
+"t": "Câmera flagra dupla descartando cães e gatos mortos, sem pele e cabeça em sacos plásticos no interior de SP",
+"p": "Dupla é flagrada descartando cães e gatos mortos, sem pele e cabeça em Rio Preto Uma câmera de segurança flagrou dois homens descartando cerca de 20 cães e gatos de pequeno porte, que foram encontrados mortos dentro de três sacos plásticos, sem pele e sem cabeça, em um canteiro central de uma avenida de São […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/camera-flagra-dupla-descartando-caes-e-gatos-mortos-sem-pele-e-cabeca-em-sacos-plasticos-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:58",
+"t": "Moradores registram céu com raios crepusculares no interior de SP",
+"p": "Segunda quinzena de novembro começa com calor e pancadas de chuva em SP Imagens do céu captadas por moradores em duas cidades da região de São José do Rio Preto, no interior de São Paulo, chamam a atenção por evidenciarem feixes de luz atravessando as nuvens em tons dourados e alaranjados. O fenômeno óptico e […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/moradores-registram-ceu-com-raios-crepusculares-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:58",
+"t": "Paulo Bilynskyj faz críticas a universidades brasileiras em evento com deputados no interior de SP: ‘Um monte de inúteis’",
+"p": "Deputado Paulo Bilynskyj faz críticas a universidades brasileiras em São José do Rio Preto O deputado federal e delegado de polícia Paulo Bilynskyj do Partido Liberal (PL), reeleito nas eleições de 2026 com 90.363 votos, fez críticas a universidades brasileiras durante um evento em São José do Rio Preto, no…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/paulo-bilynskyj-faz-criticas-a-universidades-brasileiras-em-evento-com-deputados-no-interior-de-sp-um-monte-de-inuteis/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:58",
+"t": "Casal é preso por agredir motorista e danificar carro após acidente de trânsito; vídeo",
+"p": "Casal é preso por agredir motorista e danificar carro após acidente em Fernandópolis Um casal foi preso por agredir uma motorista e danificar seu automóvel após um acidente de trânsito na manhã desta segunda-feira (16), no Centro de Fernandópolis (SP). Segundo o boletim de ocorrência, os suspeitos estavam em uma…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/casal-e-preso-por-agredir-motorista-e-danificar-carro-apos-acidente-de-transito-video/",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "23:43",
@@ -54950,75 +55029,6 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/motociclista-morre-apos-ser-atropelado-na-imigrantes-em-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:00",
-"t": "Novembro no Grande ABC começa com chuva e calor; veja previsão completa",
-"p": "A região metropolitana de São Paulo amanheceu com nebulosidade e temperaturas amenas",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366264/novembro-no-grande-abc-comeca-com-chuva-e-calor-veja-previsao-completa",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "11:52",
-"t": "Aos 15 anos, Irina deixou a família para viver em um vilarejo isolado nas montanhas da Espanha, onde carros não chegam; 11 anos depois, mora numa casa sem chuveiro, produz eletricidade com painéis solares e usa um sistem",
-"p": "Foto: Reprodução / Youtube Gaston Marotta A casa de Irina tem eletricidade produzida por painéis solares, água armazenada em reservatórios e um fogão a lenha para enfrentar o inverno. Ainda não possui chuveiro. Para chegar ao vilarejo onde mora, nas montanhas da Espanha, não é possível utilizar carros. Mesmo assim,…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/curiosidades/aos-15-anos-irina-deixou-a-familia-para-viver-em-um-vilarejo-isolado-nas-montanhas-da-espanha-onde-carros-nao-chegam-11-anos-depois-mora-numa-casa-sem-chuveiro-produz-eletricidade-com-paineis-sol/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "11:44",
-"t": "Cobrança de dívida termina com homem esfaqueado em Rio Preto",
-"p": "Vítima foi internada em estado grave no Hospital de Base",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/cobranca-de-divida-termina-com-homem-esfaqueado-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "11:38",
-"t": "Americanas abre vagas temporárias em Santo André e São Bernardo para Black Friday",
-"p": "Os requisitos são idade mínima de 18 anos e ensino médio completo, sem necessidade de experiência prévia",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Santo André",
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366010/americanas-abre-vagas-temporarias-em-santo-andre-e-sao-bernardo-para-black-friday",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "11:03",
-"t": "Onda de tempestades deve atingir três estados nesse início de novembro, com risco de granizo e vendavais",
-"p": "Tempestades devem atingir os três estados do Sul logo após o feriadão, com risco de granizo e vendavais entre 4 e 6 de novembro. A MetSul aponta chuva de até 200 mm no norte gaúcho e no Paraná, e o El Niño agrava o cenário.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/onda-de-tempestades-deve-atingir-tres-estados-nesse-inicio-de-novembro-com-risco-de-granizo-e-vendavais/",
 "auto": true
 }
 ]
