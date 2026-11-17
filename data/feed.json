@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-16T20:50:42-03:00",
-"novos_nesta_coleta": 23,
+"atualizado": "2026-11-16T22:19:59-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -23,12 +23,12 @@
 "Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
-"Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,146 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | HTTP Error 520: <none> | curl: "
+"fonte": "Prefeitura de Presidente Prudente",
+"erro": "The read operation timed out"
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "22:00",
+"t": "Trabalhador com dez anos de INSS pode repetir prazo extra de proteção sem pagar, decide STJ",
+"p": "Quem já acumulou mais de dez anos de pagamentos ao Instituto Nacional do Seguro Social (INSS) não precisa cumprir um novo ciclo de uma década de contribuições para voltar a ter direito à extensão do chamado período de graça. A decisão foi tomada por unanimidade pela 1ª Seção do Superior Tribunal de Justiça (STJ) na […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/trabalhador-com-dez-anos-de-inss-pode-repetir-prazo-extra-de-protecao-sem-pagar-decide-stj/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "21:48",
+"t": "Adolescente se escondeu em cinema para invadir joalheria em shopping de SP",
+"p": "Jovem de 17 anos entrou pelo ar-condicionado e foi flagrado antes de arrombar o cofre. Polícia Civil prendeu mais dois suspeitos de grupo",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/adolescente-se-escondeu-em-cinema-para-invadir-joalheria-em-shopping-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "21:38",
+"t": "Chuvas do El Niño adiam entrega do Rodoanel Norte para abril de 2027",
+"p": "As obras do segundo trecho do Rodoanel Norte, em São Paulo, tiveram a previsão de entrega adiada para abril de 2027 devido ao volume elevado de chuvas na região. A conclusão estava prevista para o fim de 2026, mas as precipitações associadas aos efeitos do El Niño prejudicaram o andamento dos trabalhos. Segundo a…",
+"tema": "Meio ambiente",
+"s": "entregue",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/chuvas-do-el-nino-adiam-entrega-do-rodoanel-norte-para-abril-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "21:12",
+"t": "Prêmios da Lotofácil e Quina podem chegar a R$ 15,3 milhões nos sorteios desta segunda-feira das Loterias Caixa",
+"p": "A Caixa Econômica Federal sorteou na noite desta segunda-feira (16/11) as dezenas dos concurso 7.169 da Quina, acumulado em R$13,3 milhões, e 3831 da Lotofácil, que poderá pagar R$ 2 milhões. Confira os números: Quina:35-41-44-59-80. Lotofácil 02-04-05-06-09-10-11-13-15-16-17-21-23-24-25. Como apostar na Lotofácil…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/premios-da-lotofacil-e-quina-podem-chegar-a-r-153-milhoes-nos-sorteios-desta-segunda-feira-das-loterias-caixa/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "21:12",
+"t": "Vereadores Carlos Cabral e Daniel Domênicis repudiam episódio de violência contra servidora pública no centro da cidade",
+"p": "O episódio de violência registrado na manhã desta segunda-feira (16) na Rua São Paulo, na região central de Fernandópolis, gerou forte repercussão e manifestações públicas de repúdio por parte de parlamentares da Câmara Municipal. A ocorrência envolveu a servidora pública municipal e colaboradora da Fundação…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vereadores-carlos-cabral-e-daniel-domenicis-repudiam-episodio-de-violencia-contra-servidora-publica-no-centro-da-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "21:04",
+"t": "Casal suspeito de furto em Fernandópolis deixa delegacia pela porta da frente horas após ser detido pela PM",
+"p": "O desfecho de uma ocorrência policial chamou a atenção da população de Fernandópolis nesta segunda-feira (16), após um homem e uma mulher, detidos pela Polícia Militar por suspeita de envolvimento em um furto a residência, serem vistos deixando a Delegacia de Polícia pela porta da frente poucas horas depois de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/casal-suspeito-de-furto-em-fernandopolis-deixa-delegacia-pela-porta-da-frente-horas-apos-ser-detido-pela-pm/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "21:00",
+"t": "Travessias de balsas em SP ampliam formas de pagamento e começam a aceitar cartão e Pix",
+"p": "Os usuários das travessias hídricas de São Paulo já podem pagar as tarifas por Pix e cartões de crédito e débito. As novas modalidades começaram a ser implantadas gradualmente em 9 de novembro, nas 14 travessias incluídas na concessão estadual. O pagamento em dinheiro e por tags de cobrança automática continua…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/travessias-de-balsas-em-sp-ampliam-formas-de-pagamento-e-comecam-a-aceitar-cartao-e-pix/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "21:00",
+"t": "Motociclista de 34 anos morre após grave colisão com carro em Valentim Gentil",
+"p": "Um grave acidente de trânsito tirou a vida de um motociclista de 34 anos no final da tarde desta segunda-feira (16), em Valentim Gentil, no interior de São Paulo. A vítima foi identificada como Jucevaldo Pereira de Castro, que não resistiu à gravidade dos ferimentos após colidir contra um automóvel na via que dá…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Valentim Gentil"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motociclista-de-34-anos-morre-apos-grave-colisao-com-carro-em-valentim-gentil/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:56",
+"t": "Operação “Carona 157” prende suspeitos de roubo de caminhonete e tráfico de drogas em Votuporanga",
+"p": "Investigação da DIG de Fernandópolis esclareceu assalto praticado após falsa carona e levou à prisão de dois investigados; durante a operação, policiais também apreenderam drogas e materiais ligados ao tráfico. A Polícia Civil de Fernandópolis deflagrou nesta segunda-feira (16.nov) a Operação “Carona 157”, que…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis",
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/operacao-carona-157-prende-suspeitos-de-roubo-de-caminhonete-e-trafico-de-drogas-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "20:42",
+"t": "Gilvan promove líder de governo a secretário, que prevê novo Centro",
+"p": "Fabio Lopes assume Desenvolvimento Urbano e Habitação no lugar de Marília Formoso Camargo; Marcio Colombo retorna à Câmara hoje",
+"tema": "Habitação",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369177/gilvan-promove-lider-de-governo-a-secretario-que-preve-novo-centro",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "20:40",
@@ -1078,6 +1213,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/politica/camara-jundiai-vota-projeto-eletropostos-e-pauta-da-sessao/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "16:50",
+"t": "Morro de Santos ganha novas canaletas para melhorar drenagem e segurança de moradores",
+"p": "O Morro do Marapé, em Santos, já conta com cinco novas canaletas para melhorar a drenagem na altura da Rua Romeu Acceturi. As estruturas, destinadas à captação e ao direcionamento da água da chuva, tiveram a concretagem concluída no fim de semana, após quatro dias de obras. A intervenção integra um projeto de R$…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Prefeitura de Santos",
+"u": "https://www.santos.sp.gov.br/?q=noticia/morro-de-santos-ganha-novas-canaletas-para-melhorar-drenagem-e-seguranca-de-moradores",
 "auto": true
 },
 {
@@ -54886,161 +55035,6 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/volta-a-chover-em-sao-paulo-veja-a-previsao-para-os-proximos-dias",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:55",
-"t": "Ecovias Noroeste Paulista substitui praças físicas por pórticos eletrônicos neste domingo",
-"p": "A concessionária Ecovias Noroeste Paulista inicia neste domingo, 1º de novembro, a operação do sistema de cobrança automática Siga Fácil nos municípios de Pirangi e Monte Alto. A tecnologia substitui as antigas praças de pedágio físicas por pórticos eletrônicos instalados na Rodovia Comendador Pedro Monteleone…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Monte Alto",
-"Pirangi"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/ecovias-noroeste-paulista-substitui-pracas-fisicas-por-porticos-eletronicos-neste-domingo/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:50",
-"t": "Festa do Imigrante celebra cultura de mais de 50 países com 100 atrações em São Paulo",
-"p": "Edição especial acontece nos dias 14 e 15 de novembro, com 16h de programação e ingresso solidário, mediante a doação de um quilo de alimento",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366255/festa-do-imigrante-celebra-cultura-de-mais-de-50-paises-com-100-atracoes-em-sao-paulo",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:50",
-"t": "Força Tática prende homem por tráfico e apreende mais de 2,7 kg de drogas em Santa Fé do Sul",
-"p": "Um homem foi preso em flagrante por tráfico de drogas na noite desta sexta-feira (30) durante uma operação de patrulhamento da Força Tática da Polícia Militar, no município de Santa Fé do Sul. A ação policial resultou no recolhimento de mais de 2,7 quilos de diferentes tipos de entorpecentes e materiais ligados à…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santa Fé do Sul"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/forca-tatica-prende-homem-por-trafico-e-apreende-mais-de-27-kg-de-drogas-em-santa-fe-do-sul/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:45",
-"t": "Colisão entre carro e motocicleta mobiliza socorristas em Santa Fé do Sul",
-"p": "Um acidente envolvendo um carro e uma motocicleta mobilizou o Serviço de Atendimento Móvel de Urgência (Samu) e o Corpo de Bombeiros no início da tarde deste sábado (31), na Rua 14, nas imediações da feira livre de Santa Fé do Sul. O piloto da motocicleta recebeu os primeiros socorros no local por uma equipe […]",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Santa Fé do Sul"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/colisao-entre-carro-e-motocicleta-mobiliza-socorristas-em-santa-fe-do-sul/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:43",
-"t": "Caminhão desgovernado atinge poste em avenida de Votuporanga",
-"p": "Um caminhão carregado com terra colidiu contra um poste de iluminação pública na avenida situada ao lado da loja Havan, em Votuporanga. A ocorrência mobilizou equipes de atenção no trânsito e atrai os olhares de quem passa pelo local. De acordo com as primeiras informações apuradas, o motorista trafegava no sentido…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/caminhao-desgovernado-atinge-poste-em-avenida-de-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:42",
-"t": "Jovem denuncia furto de R$ 4 mil, videogame e roupas de grife em condomínio de luxo",
-"p": "Uma jovem de 23 anos procurou a Polícia Civil para denunciar o furto de dinheiro, videogame e diversas peças de roupas de alto padrão de dentro de sua residência, localizada no Condomínio Damha, um residencial de luxo em São José do Rio Preto. O caso foi registrado na Central de Flagrantes nesta sexta-feira (30) e […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/jovem-denuncia-furto-de-r-4-mil-videogame-e-roupas-de-grife-em-condominio-de-luxo/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:41",
-"t": "Faxineiro de 60 anos é agredido com tijolada na cabeça após desconfiar de furto de celular",
-"p": "Um faxineiro de 60 anos procurou a Polícia Civil para denunciar que foi agredido a tijoladas e com diversos golpes na manhã desta sexta-feira (30), no bairro Vila Angélica, em São José do Rio Preto. O principal suspeito do crime é o próprio vizinho da vítima, e o caso passou a ser apurado pelo 3º […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/faxineiro-de-60-anos-e-agredido-com-tijolada-na-cabeca-apos-desconfiar-de-furto-de-celular/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:40",
-"t": "PRF recupera carro roubado e com placa clonada usado por motorista de aplicativo",
-"p": "A Polícia Rodoviária Federal (PRF) recuperou, na tarde deste sábado (31), um automóvel com registro de roubo que circulava com placas clonadas no centro de São José do Rio Preto. O veículo havia sido subtraído na capital paulista em meados de julho e acabou localizado após os sistemas automáticos de monitoramento…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prf-reupera-carro-roubado-e-com-placa-clonada-usado-por-motorista-de-aplicativo/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:33",
-"t": "Produção em assentamento em Iperó gera sustento de famílias e abastece escolas do interior paulista",
-"p": "TV TEM O Assentamento Ipanema, em Iperó (SP), reúne cerca de 105 famílias que vivem da agricultura. Com o apoio de uma cooperativa, os produtores rurais distribuem alimentos para cinco cidades da região e ajudam a abastecer a merenda escolar […]",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Iperó"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/producao-em-assentamento-em-ipero-gera-sustento-de-familias-e-abastece-escolas-do-interior-paulista/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:33",
-"t": "Piracema: fiscalização em mananciais no interior de SP começa neste domingo, 1º de novembro",
-"p": "Piracema começa neste domingo, 1º de novembro, em São Paulo Com o início da piracema neste domingo (1º), a Polícia Ambiental tem intensificado a fiscalização nos rios e nas represas para combater a pesca ilegal durante o período de reprodução dos peixes no interior de São Paulo. Nas regiões de São José do Rio Preto […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto",
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/piracema-fiscalizacao-em-mananciais-no-interior-de-sp-comeca-neste-domingo-1o-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:30",
-"t": "Alunos que entraram depois no Pé-de-Meia têm direito ao retroativo? Entenda a decisão do MEC",
-"p": "Estudantes da rede pública que passam a integrar a lista do programa Pé-de-Meia ao longo do ano precisam entender o funcionamento da liberação dos recursos. Segundo a diretriz oficial do Ministério da Educação, o benefício não realiza o pagamento de parcelas retroativas referentes a meses anteriores à inclusão do…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/alunos-que-entraram-depois-no-pe-de-meia-tem-direito-ao-retroativo-entenda-a-decisao-do-mec/",
 "auto": true
 }
 ]
