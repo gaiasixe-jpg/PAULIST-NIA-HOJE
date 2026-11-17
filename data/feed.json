@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T20:00:07-03:00",
-"novos_nesta_coleta": 28,
+"atualizado": "2026-11-17T20:56:16-03:00",
+"novos_nesta_coleta": 19,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,10 +49,76 @@
 },
 {
 "fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
+"erro": "HTTP Error 520: <none> | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Servi"
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "20:47",
+"t": "Criminosos usam falsa história de sequestro e pedido de água para roubar idosas em Ribeirão Preto",
+"p": "Criminosos usaram histórias falsas para entrar em uma casa e simular o sequestro de um familiar",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/criminosos-usam-falsa-historia-de-sequestro-e-pedido-de-agua-para-roubar-idosas-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "20:34",
+"t": "Petróleo tem leve alta com tensões no Oriente Médio e excedente de oferta em foco",
+"p": "Os contratos futuros do petróleo fecharam em alta nesta terça-feira, embora longe das máximas do dia, enquanto os desdobramentos do conflito no Oriente Médio permanecem no centro da atenção dos investidores. Por outro lado, a recuperação das exportações do Oriente Médio contribui para diminuir a pressão sobre os…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Oriente"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/petroleo-tem-leve-alta-com-tensoes-no-oriente-medio-e-excedente-de-oferta-em-foco/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "20:10",
+"t": "Uma jiboia com cerca de um metro é descoberta dentro do motor de um carro estacionado e a polícia procura dono",
+"p": "O motorista notou algo fora do lugar assim que entrou no veículo e prestou atenção ao compartimento do motor. Ao levantar o capô no estacionamento de um centro comercial em Hitachinaka, cidade da província de Ibaraki, no leste do Japão, deparou-se com uma cobra de cerca de um metro enroscada entre as peças. O homem […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/uma-jiboia-com-cerca-de-um-metro-e-descoberta-dentro-do-motor-de-um-carro-estacionado-e-a-policia-procura-dono/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "20:03",
+"t": "Prefeitura acusa uso político do Pró-Povo e repudia intimidação contra secretária",
+"p": "Administração afirma que interesses políticos exploram as dificuldades dos moradores e reforça que a regularização depende de etapas técnicas e legais. Jorge Honorio jorgehonoriojornalista@gmail.com A Prefeitura de Votuporanga divulgou nota oficial nesta terça-feira (17.nov) repudiando o que classificou como…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeitura-acusa-uso-politico-do-pro-povo-e-repudia-intimidacao-contra-secretaria/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "20:01",
+"t": "Casal é deixado em alto-mar durante mergulho em 1998, barco só percebe ausência 2 dias depois e bilhete de socorro aparece meses após o desaparecimento",
+"p": "Tom e Eileen Lonergan estavam perto de encerrar uma viagem de dois anos pelo mundo quando decidiram conhecer a Grande Barreira de Corais. Em 25 de janeiro de 1998, o casal embarcou em uma excursão de mergulho que partiu de Port Douglas, no estado australiano de Queensland. A programação previa três mergulhos entre…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/casal-e-deixado-em-alto-mar-durante-mergulho-em-1998-barco-so-percebe-ausencia-2-dias-depois-e-bilhete-de-socorro-aparece-meses-apos-o-desaparecimento/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "20:00",
@@ -65,6 +131,21 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/camara-arquiva-por-unanimidade-pedido-de-cassacao-de-daniel-david/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "20:00",
+"t": "Leilão do Detran-SP tem Honda, Fiat e Volkswagen com lances a partir de R$ 3,3 mil",
+"p": "O Departamento Estadual de Trânsito de São Paulo (Detran-SP) realiza, no dia 24 de novembro, um leilão online com 133 veículos conservados no município de Marília, no interior paulista. Os lotes têm direito à documentação e podem voltar a circular após a regularização. Entre os modelos disponíveis, há carros e…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo",
+"Marília"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/leilao-do-detran-sp-tem-honda-fiat-e-volkswagen-com-lances-a-partir-de-r-33-mil/",
 "auto": true
 },
 {
@@ -183,6 +264,18 @@
 },
 {
 "d": "2026-11-17",
+"h": "19:47",
+"t": "Litoral catarinense terá resort de luxo de R$ 60 milhões com spa mental, centro de tênis de Rafa Nadal e terapias termais inéditas",
+"p": "A incorporadora All Wert anunciou um investimento de R$ 60 milhões na construção do Gaia All Resort, um centro de bem-estar de alto padrão que integrará o All Resort Club Residence, em Porto Belo, no litoral de Santa Catarina. Com 7 mil m² e mais de 40 ambientes, o espaço reunirá atividades físicas, tratamentos…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/litoral-catarinense-tera-resort-de-luxo-de-r-60-milhoes-com-spa-mental-centro-de-tenis-de-rafa-nadal-e-terapias-termais-ineditas/",
+"auto": true
+},
+{
+"d": "2026-11-17",
 "h": "19:44",
 "t": "XI Conferência Municipal dos Direitos da Criança e do Adolescente acontece neste mês",
 "p": "Encontro será em 25 de novembro, no Lar Beneficente Celina, com debates, votação de propostas e eleição de delegados; inscrições gratuitas estão abertas. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com A XI Conferência Municipal dos Direitos da Criança e do Adolescente…",
@@ -263,6 +356,30 @@
 },
 {
 "d": "2026-11-17",
+"h": "19:16",
+"t": "Mesmo com adiamento, Aneel forma maioria por caducidade de contrato da Enel SP",
+"p": "",
+"tema": "Geral",
+"s": "obra",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369385/mesmo-com-adiamento-aneel-forma-maioria-por-caducidade-de-contrato-da-enel-sp",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "19:15",
+"t": "Aneel adia novamente decisão sobre caducidade de contrato da Enel SP",
+"p": "",
+"tema": "Geral",
+"s": "obra",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369383/aneel-adia-novamente-decisao-sobre-caducidade-de-contrato-da-enel-sp",
+"auto": true
+},
+{
+"d": "2026-11-17",
 "h": "19:07",
 "t": "Homem é condenado a 50 anos de prisão por matar companheira com golpes de cutelo",
 "p": "A Justiça condenou nesta terça-feira (17), após sessão de júri popular realizada em Birigui (SP), Rafael Marson das Neves, de 39 anos, a 50 anos de prisão em regime inicialmente fechado pelo assassinato de sua companheira, Ana Carolina Silva, que tinha 35 anos na época do crime. Além da pena privativa de liberdade…",
@@ -273,6 +390,20 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/homem-e-condenado-a-50-anos-de-prisao-por-matar-companheira-com-golpes-de-cutelo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "19:06",
+"t": "Márcio Colombo retorna à Câmara de Santo André após licença de Fábio Lopes",
+"p": "Suplente do PSDB assume mandato e pretende retomar projetos da legislatura anterior",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369380/marcio-colombo-retorna-a-camara-de-santo-andre-apos-licenca-de-fabio-lopes",
 "auto": true
 },
 {
@@ -54915,144 +55046,6 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/noticias/eu-experimentei-a-tendencia-camadas-de-fibra-por-duas-semanas-e-essa-consequencia-eu-nao-esperava/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:25",
-"t": "Motorista fica ferida após SUV aquaplanar e sair da pista em rodovia",
-"p": "Motorista ficou ferida após veículo aquaplanar com acúmulo de água da chuva e sair da pista na rodovia Altino Arantes, em Batatais",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Batatais"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motorista-fica-ferida-apos-suv-aquaplanar-e-sair-da-pista-em-rodovia/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:20",
-"t": "Moto supostamente furtada em Alagoas é apreendida em Rio Preto",
-"p": "Registro de furto foi em 2023, mas condutor apresentou contrato de locação com a empresa proprietária",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/moto-supostamente-furtada-em-alagoas-e-apreendida-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:19",
-"t": "Etec de Praia Grande prorroga prazo de inscrição do Vestibulinho e garante mais tempo para candidatos disputarem vagas nos cursos",
-"p": "O Vestibulinho da Escola Técnica Estadual (ETEC) de Praia Grande prorrogou seu prazo de inscrição até a próxima segunda feira. As oportunidades são voltadas para quem busca formação de qualidade e deseja ampliar as possibilidades de ingresso no mercado de trabalho. A unidade de Praia Grande oferece cursos que…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/etec-de-praia-grande-prorroga-prazo-de-inscricao-do-vestibulinho-e-garante-mais-tempo-para-candidatos-disputarem-vagas-nos-cursos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:10",
-"t": "Temporal mobiliza Defesa Civil e deixa rastro de estragos e desalojados no interior de São Paulo",
-"p": "Uma sequência de fortes chuvas registrada entre domingo (1º) e a noite desta terça-feira (3) causou inundações, quedas de árvores, destelhamentos e danos estruturais em diversas cidades do Estado de São Paulo. O Governo Estadual, por meio da Defesa Civil, atua de forma integrada com as prefeituras para prestar…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/temporal-mobiliza-defesa-civil-e-deixa-rastro-de-estragos-e-desalojados-no-interior-de-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:09",
-"t": "Registro sedia capacitação de enfermeiros para ampliar oferta de implante contraceptivo pelo SUS",
-"p": "saúde",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/registro-sedia-capacitacao-de-enfermeiros-para-ampliar-oferta-de-implante-contraceptivo-pelo-sus/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:08",
-"t": "Novas regras de atendimento ao consumidor começam a valer",
-"p": "Desde a última segunda-feira (2), os canais de atendimento telefônicos e eletrônicos - Serviço de Antendimento ao Consumidor (SAC) - das empresas estão obrigados a funcionar em contato direto com os consumidores.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/novas-regras-de-atendimento-ao-consumidor-comecam-a-valer/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:06",
-"t": "Discussão em fila de supermercado termina em agressão e caso vai parar na polícia",
-"p": "Advogada afirma ter sido derrubada, puxada pelos cabelos e arranhada por duas mulheres após desentendimento em caixas de supermercado atacadista",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/discussao-em-fila-de-supermercado-termina-em-agressao-e-caso-vai-parar-na-policia/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "08:55",
-"t": "Prefeitura de Santos antecipa operação da Defesa Civil e triplica a equipe para reforçar o monitoramento de morros no período de chuvas",
-"p": "O Plano Preventivo da Defesa Civil (PPDC) em Santos teve sua antecipação valendo pela primeira vez e passou a vigorar no último domingo, com o propósito de reforçar a prevenção dos efeitos das chuvas fortes associadas ao El Niño. Segundo o chefe da Defesa Civil, Daniel Onias, o monitoramento das áreas vulneráveis e…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/prefeitura-de-santos-antecipa-operacao-da-defesa-civil-e-triplica-a-equipe-para-reforcar-o-monitoramento-de-morros-no-periodo-de-chuvas/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "08:54",
-"t": "Provão Paulista começa nesta quarta-feira (4) com 15,8 mil vagas em universidades públicas de SP",
-"p": "Provão oferece vagas na USP, Unesp, Unicamp, Univesp e nas Fatecs; estudantes da 3ª série do Ensino Médio realizam a prova nesta semana, enquanto alunos da 2ª e 1ª série realizam a prova a partir do dia 10",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/educacao/provao-paulista-comeca-nesta-quarta-feira-4-com-158-mil-vagas-em-universidades-publicas-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "08:54",
-"t": "Tubarão de 2,7 metros que vivia em aquário há quase 30 anos passa por eutanásia após piora de saúde e emociona funcionários",
-"p": "Howie chegou a 2,7 metros no habitat atlântico e vivia no aquário de Plymouth desde a abertura em 1998. Ilustração criada com Inteligência Artificial Howie, uma tubarão-mangona que viveu por quase 30 anos no National Marine Aquarium, na Inglaterra, morreu após apresentar piora em sua condição de saúde.",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/mundo-pet/tubarao-de-27-metros-que-vivia-em-aquario-ha-quase-30-anos-passa-por-eutanasia-apos-piora-de-saude-e-emociona-funcionarios/",
 "auto": true
 }
 ]
