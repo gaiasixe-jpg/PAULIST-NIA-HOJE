@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-17T01:00:24-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-17T02:05:56-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -20,6 +22,7 @@
 "Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
+"Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
@@ -30,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -52,13 +47,35 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Região Noroeste",
-"erro": "<urlopen error _ssl.c:994: The handshake operation timed out>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "02:00",
+"t": "Creches do estado de SP registram um estupro de vulnerável a cada dois dias",
+"p": "De outubro de 2025 a setembro de 2026 foram registrados 193 casos de estupros de crianças de 0 a 5 anos em berçários e creches de São Paulo",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/creches-do-estado-de-sp-registram-um-estupro-de-vulneravel-a-cada-dois-dias",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "01:00",
+"t": "Resumo de ‘Por Você’ desta terça: Juarez é liberado da prisão e novo investidor chega ao Hospital Luz",
+"p": "O capítulo de Por Você desta terça-feira (17/11) será marcado pela prisão de Juarez, que consegue deixar a delegacia após Iara, Bela e Gabriel reunirem documentos para comprovar a origem das mercadorias. Enquanto isso, Vitor aceita uma proposta de trabalho feita por Bela, e a protagonista reforça que não pretende…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-terca-juarez-e-liberado-da-prisao-e-novo-investidor-chega-ao-hospital-luz/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "00:02",
@@ -55001,34 +55018,6 @@
 ],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/frente-fria-muda-o-tempo-no-feriado-de-finados-em-todo-o-estado-de-sao-paulo-e-traz-alerta-para-tempestades-no-litoral-e-cidades-do-interior/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:00",
-"t": "Resultado da Mega-Sena: prêmio acumula em R$ 46 milhões; veja as dezenas",
-"p": "Nenhum bilhete acertou as seis dezenas do concurso 3.080 da Mega-Sena; quina pagou mais de R$ 38 mil para 29 apostas",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/economia/resultado-mega-sena-premio-acumula-em-r-46-milhoes-veja-as-dezenas/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:00",
-"t": "Motociclista morre após ser atropelado na Imigrantes, em São Vicente",
-"p": "Divulgação/Portal CCM -ARTESP Um motociclista morreu após ser atropelado por um carro na madrugada deste domingo (1º), na Rodovia dos Imigrantes, na altura da Vila Margarida.",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/motociclista-morre-apos-ser-atropelado-na-imigrantes-em-sao-vicente/",
 "auto": true
 }
 ]
