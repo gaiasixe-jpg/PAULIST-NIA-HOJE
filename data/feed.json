@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-17T15:08:39-03:00",
-"novos_nesta_coleta": 25,
+"atualizado": "2026-11-17T16:10:03-03:00",
+"novos_nesta_coleta": 28,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +50,213 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "16:09",
+"t": "Inscrições para cursos gratuitos do Qualifica SP terminam nesta terça-feira (17)",
+"p": "Programa oferece mais de 2,5 mil vagas presenciais e on-line; cidade do litoral de São Paulo está entre as regiões contempladas",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/brasil/inscricoes-para-cursos-gratuitos-do-qualifica-sp-terminam-nesta-terca-feira-17.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:08",
+"t": "Empresa esclarece que suspeito preso por agressão em Fernandópolis não integra mais o quadro de funcionários",
+"p": "Diante da repercussão envolvendo uma ocorrência de agressão registrada nesta segunda-feira (16) na Rua São Paulo, na região central de Fernandópolis, a empresa Proposta Ambiental afirmou que o homem detido pela Polícia Militar durante a ação não faz parte de sua equipe de colaboradores desde agosto deste ano.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/empresa-esclarece-que-suspeito-preso-por-agressao-em-fernandopolis-nao-integra-mais-o-quadro-de-funcionarios/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:02",
+"t": "WhatsApp mais caro: nova cobrança da Meta coloca eficiência do atendimento à prova",
+"p": "Desde outubro de 2026, empresas que utilizam a API oficial do WhatsApp Business passaram a pagar individualmente pelas mensagens de serviço enviadas durante a janela de atendimento de 24 horas. A API (sigla para Interface de Programação de Aplicações) é uma tecnologia que permite conectar o aplicativo de mensagens…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/whatsapp-mais-caro-nova-cobranca-da-meta-coloca-eficiencia-do-atendimento-a-prova/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:00",
+"t": "Santos é premiada por prevenção da transmissão de HIV e sífilis de mães para bebês",
+"p": "Divulgação/Prefeitura de Santos Santos conquistou dois reconhecimentos estaduais pela qualidade dos serviços de prevenção e atendimento relacionados ao HIV e à sífilis.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-e-premiada-por-prevencao-da-transmissao-de-hiv-e-sifilis-de-maes-para-bebes/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "16:00",
+"t": "Morro do Marapé ganha novas canaletas para melhorar drenagem",
+"p": "Divulgação/Prefeitura de Santos O Morro do Marapé, em Santos, já conta com cinco novas canaletas para melhorar a drenagem na altura da Rua Romeu Acceturi.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/morro-do-marape-ganha-novas-canaletas-para-melhorar-drenagem/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:45",
+"t": "Secretaria da Mulher abre inscrições para o próximo Chá das Rosas, no dia 25/11",
+"p": "A Secretaria da Mulher (Semul) abriu inscrições para as mulheres interessadas em participar da próxima reunião do Chá das Rosas, no dia 25 de novembro, às 11h, na Biblioteca Infantil Municipal, no Centro da cidade. Nessa edição especial é sugerido que cada participante contribua com algum alimento que complemente a…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-abre-inscricoes-para-o-proximo-cha-das-rosas-no-dia-25-11/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:42",
+"t": "Van do Emprego e Qualificação atenderá em dois endereços, na semana de 23 a 27 de novembro",
+"p": "A Van do Emprego e Qualificação, mantida pela Secretaria de Relações do Trabalho e Qualificação Profissional (Sert), da Prefeitura de Sorocaba, atenderá em três endereços na semana de 23 a 27 de novembro. A programação começa na segunda-feira (23), das 9h às 12h, quando a Van estará no Centro Esportivo Maria…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/van-do-emprego-e-qualificacao-atendera-em-dois-enderecos-na-semana-de-23-a-27-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:40",
+"t": "Falha na Apple afeta iCloud, App Store e Apple Pay com milhares de relatos de instabilidade global",
+"p": "Milhares de usuários relataram uma falha generalizada em diversos serviços da Apple nesta terça-feira (17/11). Plataformas como iCloud, App Store e Apple Pay apresentaram instabilidade severa. O problema gerou frustração em proprietários de iPhones e Macs em várias regiões do mundo, que enfrentaram dificuldades…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/falha-na-apple-afeta-icloud-app-store-e-apple-pay-com-milhares-de-relatos-de-instabilidade-global/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:38",
+"t": "Saae/Sorocaba efetua limpeza e manutenção preventiva do Córrego Lavapés",
+"p": "Fotos: Saae/Sorocaba O Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba efetua a limpeza do córrego Lavapés, no trecho junto à Avenida Carlos Sonetti, no Jardim Prestes de Barros. Os trabalhos iniciaram nesta semana e a previsão é que sejam concluídos ainda neste ano. A intervenção ocorre periodicamente, ao…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/saae-sorocaba-efetua-limpeza-e-manutencao-preventiva-do-corrego-lavapes/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:33",
+"t": "Prefeitura de Sorocaba realiza mutirão de vagas PCD",
+"p": "Na próxima quinta-feira (19), às 14h, a Prefeitura de Sorocaba realizará um mutirão de vagas PCD, na UNITEN, localizada na Av. General Osório,1840, Vila Barão. As vagas afirmativas oferecidas são para Operador de Telecobrança e contemplam PCDs e pessoas neurodivergentes, incluindo TEA, TAG, TOC e TDAH. O modelo de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-realiza-mutirao-de-vagas-pcd/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:32",
+"t": "Projeto de lei propõe férias de 30 dias úteis para trabalhadores",
+"p": "Projeto ainda precisa passar pela análise da Câmara dos Deputados e pelo Senado",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/projeto-de-lei-propoe-ferias-de-30-dias-uteis-para-trabalhadores/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:30",
+"t": "Rodovia Régis Bittencourt prevê movimento intenso em SP e no Paraná durante o feriado da Consciência Negra",
+"p": "A rodovia Régis Bittencourt deve receber mais de 700 mil veículos durante o feriado da Consciência Negra. A previsão é de movimento intenso entre quinta-feira (19/11) e domingo (22/11). Segundo a Arteris Régis Bittencourt, concessionária responsável pela administração da BR-116 em São Paulo e no Paraná, são…",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/rodovia-regis-bittencourt-preve-movimento-intenso-em-sp-e-no-parana-durante-o-feriado-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:17",
+"t": "Projeto na Câmara apresentado por deputadas do PSOL quer mudar férias da CLT para contar apenas dias úteis e ampliar descanso",
+"p": "As regras de descanso dos trabalhadores brasileiros CLT podem passar por uma transformação profunda. Um novo projeto de lei apresentado na Câmara dos Deputados pelas parlamentares Sâmia Bomfim (PSol-SP) e Duda Salabert (PSol-MG) quer alterar a forma como o período de férias é computado no País. A proposta, o PL…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/projeto-na-camara-apresentado-por-deputadas-do-psol-quer-mudar-ferias-da-clt-para-contar-apenas-dias-uteis-e-ampliar-descanso/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:15",
+"t": "Miss CCI 2026: Itupeva elege nova rainha, princesa e miss simpatia",
+"p": "Foto: Prefeitura de Itupeva Concurso reuniu 11 participantes e destacou histórias de superação, autoestima e valorização da pessoa idosa.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/miss-cci-2026-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:13",
+"t": "Santa Casa de Casa Branca sofre nova intervenção após investigação de contrato",
+"p": "Entidade é ré em ação que apura irregularidades em contrato de R$ 11,9 milhões firmado com a Prefeitura de Rio Preto",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Casa Branca",
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/santa-casa-de-casa-branca-sofre-nova-intervencao-apos-investigacao-de-contrato/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "15:00",
@@ -123,6 +324,21 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/ilhabela/4-edicao-do-concurso-a-voz-da-ilha-kids-anuncia-vencedores-e-distribui-r-5-mil-em-premios-em-ilhabela.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:53",
+"t": "RJ: polo petrolífero, Macaé voltará a receber voos comerciais",
+"p": "A cidade de Macaé, no Rio de Janeiro, voltará a receber voos comerciais em fevereiro de 2027. Considerado um dos principais polos da indústria do petróleo no país, o município terá voos conectando-o ao Aeroporto Internacional de São Paulo, em Guarulhos, três vezes por semana. A retomada se dá após obras de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Guarulhos",
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/polo-petrolifero-macae-voltara-receber-voos-comerciais",
 "auto": true
 },
 {
@@ -222,6 +438,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/projeto-de-iluminacao-entre-o-pontilhao-da-agua-vermelha-e-a-rotatoria-do-uirapuru-em-fernandopolis-aguarda-aval-final-para-inicio-das-obras/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:29",
+"t": "Mulher desempregada adota criança, tem salário-maternidade negado pelo INSS por não se afastar do trabalho e consegue reverter decisão na Justiça",
+"p": "Uma mulher que estava desempregada desde abril de 2024 adotou uma criança e teve o salário-maternidade negado pelo Instituto Nacional do Seguro Social (INSS) por um motivo inesperado: ela não havia se afastado do trabalho. A negativa, porém, foi revertida pela Justiça Federal, que reconheceu o direito ao pagamento…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/mulher-desempregada-adota-crianca-tem-salario-maternidade-negado-pelo-inss-por-nao-se-afastar-do-trabalho-e-consegue-reverter-decisao-na-justica/",
 "auto": true
 },
 {
@@ -396,6 +624,18 @@
 },
 {
 "d": "2026-11-17",
+"h": "14:00",
+"t": "Água da torneira pode ficar ‘envenenada’ em caso de ‘apagão mundial’? Entenda os riscos de um possível colapso no abastecimento e como se proteger",
+"p": "Os rumores sobre um possível ‘apagão mundial’ levantam uma preocupação que vai além da falta de eletricidade: o risco de comprometimento do abastecimento de água. Embora não exista confirmação de um apagão global iminente, uma interrupção prolongada de energia pode afetar estações de tratamento, bombas e outros…",
+"tema": "Água",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/agua-da-torneira-pode-ficar-envenenada-em-caso-de-apagao-mundial-entenda-os-riscos-de-um-possivel-colapso-no-abastecimento-e-como-se-proteger/",
+"auto": true
+},
+{
+"d": "2026-11-17",
 "h": "13:54",
 "t": "Ferraz oferece cursos gratuitos de cuidador de idosos e manutenção de ar-condicionado; saiba mais",
 "p": "Duas unidades móveis do programa Caminhão da Capacitação estarão na cidade entre os dias 23 de novembro e 4 de dezembro",
@@ -448,6 +688,18 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/casal-e-flagrado-furtando-r-27-mil-em-cartas-pokemon-no-litoral-paulista",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "13:40",
+"t": "Veja quais são os 7 alimentos enlatados indispensáveis ​​para montar um kit de sobrevivência completo que dispensa o uso de água, luz ou fogão",
+"p": "Em situações de emergência, como enchentes, tempestades ou interrupções no abastecimento, ter alimentos armazenados pode fazer toda a diferença. Por isso, montar um kit de sobrevivência exige planejamento e atenção à escolha dos produtos, que precisam oferecer nutrientes, durar por bastante tempo e permitir o…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/estilo-de-vida/veja-quais-sao-os-7-alimentos-enlatados-indispensaveis-para-montar-um-kit-de-sobrevivencia-completo-que-dispensa-o-uso-de-agua-luz-ou-fogao/",
 "auto": true
 },
 {
@@ -54879,256 +55131,6 @@
 ],
 "src": "Boqnews",
 "u": "https://www.boqnews.com/cidades/descontos-multa-e-juros-prefeitura-santos/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "20:30",
-"t": "Diaristas que trabalham até 2 dias na mesma casa precisam pagar INSS e contribuição pode ser de R$ 178,31 ou R$ 324,20 em 2026",
-"p": "Uma diarista que trabalha duas vezes por semana na mesma residência pode ter uma obrigação previdenciária diferente daquela que presta serviços três ou mais dias para uma família. A distinção determina quem deve recolher a contribuição ao Instituto Nacional do Seguro Social (INSS) e pode fazer diferença no direito…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/diaristas-que-trabalham-ate-2-dias-na-mesma-casa-precisam-pagar-inss-e-contribuicao-pode-ser-de-r-17831-ou-r-32420-em-2026/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "20:23",
-"t": "Akira Auriani planeja reformulação no governo para janeiro",
-"p": "Prefeito de Rio Grande da Serra prevê mudanças na equipe para reorganizar a administração visando ao dois últimos anos de mandato",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"Rio Grande da Serra"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366439/akira-auriani-planeja-reformulacao-no-governo-para-janeiro",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "20:18",
-"t": "Temporal causa alagamentos e água invade casas em Marília",
-"p": "Casas foram invadidas pela enxurrada e moradores tiveram prejuízos, perdendo móveis e mantimentos, principalmente na zona sul.",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mntv/temporal-causa-alagamentos-e-agua-invade-casas-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "20:10",
-"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal nesta segunda (2)",
-"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-nesta-segunda-2.html",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "20:09",
-"t": "Dutra tem bloqueio em Piraí e trânsito intenso na noite desta segunda (2)",
-"p": "Segundo a concessionária RioSP, pane em veículo interdita pista expressa no sentido São Paulo; motoristas também enfrentam lentidão em Jacareí",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Jacareí"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/br-116-dutra/dutra-tem-bloqueio-em-pirai-e-transito-intenso-na-noite-desta-segunda-2.html",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "20:02",
-"t": "Aos 79 anos, mulher arrecada R$ 3 milhões e constrói duas escolas em um dos países mais pobres do mundo",
-"p": "Mulher arrecada R$ 3 milhões e constrói escolas em Malawi após começar campanha de doações aos 60 anos.",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/diario-mais/aos-79-anos-mulher-arrecada-r-3-milhoes-e-constroi-duas-escolas-em-um-dos-paises-mais-pobres-do-mundo/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "19:53",
-"t": "Jovem de 24 anos morre afogado em praia de Itanhaém, no litoral de SP",
-"p": "Vítima, moradora de Piracicaba, foi localizada na faixa de areia da região do Satélite e recebeu manobras de reanimação antes de ser levada à UPA",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Piracicaba",
-"Itanhaém"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/jovem-de-24-anos-morre-afogado-em-praia-de-itanhaem-no-litoral-de-sp.html",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "19:29",
-"t": "Cataratas do Iguaçu chegam a 17,7 milhões de litros de água por segundo em 2026, fecham passarela por 20 dias e surpreendem com nova mudança",
-"p": "Durante 20 dias, uma das paisagens mais famosas do Brasil ficou parcialmente inacessível aos turistas. A força das águas das Cataratas do Iguaçu, no Paraná, obrigou a administração do parque a interditar a passarela que leva ao mirante da Garganta do Diabo. Agora, depois de uma cheia que levou o rio a registrar…",
-"tema": "Água",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/cataratas-do-iguacu-chegam-a-177-milhoes-de-litros-de-agua-por-segundo-em-2026-fecham-passarela-por-20-dias-e-surpreendem-com-nova-mudanca/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "19:28",
-"t": "Operação policial intercepta ônibus de viagem e apreende mais de 660 quilos de folhas de coca",
-"p": "Uma fiscalização de rotina realizada pela Polícia Militar Rodoviária resultou na apreensão de 661 quilos de folhas de coca na manhã do último domingo (1º), na Rodovia Comandante João Ribeiro de Barros (SP-294), no trecho do município de Irapuru. A carga ilícita, avaliada pelas forças de segurança em cerca de R$ 140…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Irapuru"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/operacao-policial-intercepta-onibus-de-viagem-e-apreende-mais-de-660-quilos-de-folhas-de-coca/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "19:28",
-"t": "Tempestades e vendavais deixam um morto e rastros de destruição em municípios paulistas",
-"p": "As fortes chuvas e rajadas de vento registradas entre a tarde do último domingo (1º) e a madrugada desta segunda-feira (2) causaram transtornos, destelhamentos e quedas de árvores em diversas regiões do Estado de São Paulo. O balanço do Governo do Estado, por meio da Defesa Civil e do Corpo de Bombeiros, aponta a…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/tempestades-e-vendavais-deixam-um-morto-e-rastros-de-destruicao-em-municipios-paulistas/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "19:28",
-"t": "Defesa Civil alerta para risco de temporais com raios e granizo nos próximos dias",
-"p": "A Defesa Civil do Estado de São Paulo emitiu um alerta de atenção para a possibilidade de tempestades severas em diversas regiões paulistas ao longo dos próximos dias. As previsões meteorológicas indicam pancadas de chuva intensas acompanhadas de descargas elétricas, rajadas de vento e risco pontual de queda de…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/defesa-civil-alerta-para-risco-de-temporais-com-raios-e-granizo-nos-proximos-dias/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "19:28",
-"t": "Polícia Militar frustra furto a loja de eletrônicos e recupera R$ 500 mil em mercadorias",
-"p": "Dois homens, de 24 e 36 anos, foram presos em flagrante na madrugada do último domingo (1º) durante uma tentativa de furto a uma loja de eletrônicos no município de Valinhos, no interior paulista. A ação rápida da Polícia Militar evitou um prejuízo estimado em R$ 500 mil ao estabelecimento comercial e resultou na…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Valinhos"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-militar-frustra-furto-a-loja-de-eletronicos-e-recupera-r-500-mil-em-mercadorias/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "19:21",
-"t": "Mulher morre em desabamento e asilo é atingido por enxurrada; veja estragos da chuva em SP",
-"p": "",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366435/mulher-morre-em-desabamento-e-asilo-e-atingido-por-enxurrada-veja-estragos-da-chuva-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "19:03",
-"t": "Novas regras mudam atendimento ao consumidor a partir desta segunda-feira",
-"p": "Decreto foi publicado em outubro e muda regras no Serviço de Atendimento ao Consumidor (SAC) das empresas",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/novas-regras-mudam-atendimento-ao-consumidor-a-partir-desta-segunda-feira/",
-"auto": true,
-"org": "Prefeitura"
-},
-{
-"d": "2026-11-02",
-"h": "19:00",
-"t": "Janones descarta ministério no governo Lula e explica por que prefere continuar na Câmara após mobilizar milhões nas redes sociais",
-"p": "André Janones com Lula",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/janones-descarta-ministerio-no-governo-lula-e-explica-por-que-prefere-continuar-na-camara-apos-mobilizar-milhoes-nas-redes-sociais/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "18:55",
-"t": "Nova frente fria aumenta risco de temporais e leva ar frio para o estado de SP nesta semana",
-"p": "Nova frente fria avança pelo Sudeste ao longo da semana; em Ribeirão Preto, a previsão indica calor e pancadas de chuva em diferentes períodos",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/nova-frente-fria-aumenta-risco-de-temporais-e-leva-ar-frio-para-o-estado-de-sp-nesta-semana/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "18:30",
-"t": "Dia de Finados reúne mais de 6 mil pessoas nos cemitérios de São Bernardo",
-"p": "A Prefeitura reforçou equipes para dar suporte aos visitantes e os serviços de zeladoria foram intensificados; distribuição de flores marcou a data",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366422/dia-de-finados-reune-mais-de-6-mil-pessoas-nos-cemiterios-de-sao-bernardo",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "18:22",
-"t": "Deputado pede investigação por boicote e perseguição a apoiadores de Lula",
-"p": "Emídio de Souza (PT) solicitou que MPSP e entidades apurem casos de discriminação política após a reeleição do presidente petista",
-"tema": "Eleições",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/deputado-pede-investigacao-por-boicote-e-perseguicao-a-apoiadores-de-lula",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "18:21",
-"t": "Motorista fica preso às ferragens após batida entre carros em avenida de Piracicaba",
-"p": "Batida foi na Avenida Manoel Conceição, na Vila Rezende; um dos veículos ficou sobre o outro e a vítima foi levada ao hospital",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Piracicaba"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/piracicaba/motorista-fica-preso-as-ferragens-apos-batida-entre-carros-em-avenida-de-piracicaba/",
 "auto": true
 }
 ]
