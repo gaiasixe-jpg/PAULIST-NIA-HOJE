@@ -3,6 +3,89 @@
 "itens": [
 {
 "d": "2026-11-17",
+"h": "08:14",
+"t": "Homem é preso suspeito de esfaquear e agredir companheira no rosto em Adamantina",
+"p": "Um homem foi preso, suspeito de esfaquear e agredir companheira no rosto, em Adamantina (SP). A ocorrência foi divulgada nesta segunda-feira (16). Conforme a Polícia Civil, a ocorrência foi registrada pela Polícia Militar, após a equipe ser acionada para atender uma mulher esfaqueada pelo companheiro. No local, a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Adamantina"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/homem-e-preso-suspeito-de-esfaquear-e-agredir-companheira-no-rosto-em-adamantina/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:00",
+"t": "Campinas terá calorão e previsão de chuva nesta terça-feira; veja previsão completa",
+"p": "Pancadas de chuva devem ocorrer principalmente durante a madrugada e a manhã; à tarde, o sol ganha força e as temperaturas sobem",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tera-calorao-e-previsao-de-chuva-nesta-terca-feira-veja-previsao-completa/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "07:58",
+"t": "Advogadas teriam falsificado documentos para dar golpe em filho de Lula",
+"p": "Justiça expediu ordens judiciais de busca e apreensão em São Paulo, São Carlos, Campinas, Itatiba, e em Ponta Grossa, no Paraná",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Carlos",
+"São Paulo",
+"Campinas",
+"Itatiba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/advogadas-teriam-falsificado-documentos-para-dar-golpe-em-filho-de-lula",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "07:52",
+"t": "Filho de Lula foi vítima de golpe em processo de separação de ex-mulher",
+"p": "Investigação da Polícia Civil indica que advogadas se apropriaram de R$ 800 mil durante processo litigioso de Luis Cláudio Lula da Silva",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/filho-de-lula-foi-vitima-de-golpe-em-processo-de-separacao-de-ex-mulher",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "07:23",
+"t": "Advogadas são alvo de operação por golpe de R$ 800 mil contra filho de Lula",
+"p": "Polícia Civil cumpre 17 mandados e investiga advogadas suspeitas de estelionato, falsificação de documentos e lavagem de dinheiro",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/advogadas-sao-alvo-de-operacao-por-golpe-de-r-800-mil-contra-filho-de-lula",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "07:20",
+"t": "Mega-Sena sorteia prêmio de R$ 34 milhões nesta terça-feira",
+"p": "A Mega-Sena sorteia nesta terça-feira (17) prêmio estimado em R$ 34 milhões. As seis dezenas do concurso 3.087 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) em casas lotéricas credenciadas pela Caixa em todo o…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-34-milhoes-nesta-terca-feira",
+"auto": true
+},
+{
+"d": "2026-11-17",
 "h": "07:06",
 "t": "De centavos a milhares de dólares: os onze anos do Ethereum em cinco momentos",
 "p": "Foto: Pexels Em 2014, um ether custava cerca de 31 centavos de dólar. Era o preço pago por quem decidiu financiar um projeto ainda no papel, criado por um programador russo-canadense de 19 anos chamado Vitalik Buterin. Doze anos depois, a mesma moeda vale milhares de dólares e sustenta uma das maiores redes…",
@@ -7197,6 +7280,78 @@
 },
 {
 "d": "2026-11-14",
+"h": "06:00",
+"t": "Poloni: Dispõe sobre a obrigatoriedade de afixação de avisos acerca da proibição de venda, fornecimento ou entrega de bebidas",
+"p": "Decreto nº 2369, publicado no Diário Oficial do município em 14/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Poloni"
+],
+"src": "Diário Oficial de Poloni",
+"u": "https://data.queridodiario.ok.org.br/3539905/2026-11-14/94abc35b7698c423139658b990ca06678f834151.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 2369",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-14",
+"h": "06:00",
+"t": "Poloni: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 14/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Poloni"
+],
+"src": "Diário Oficial de Poloni",
+"u": "https://data.queridodiario.ok.org.br/3539905/2026-11-14/94abc35b7698c423139658b990ca06678f834151.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 14/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-14",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 166.300,00 e dá outras providências",
+"p": "Decreto nº 419, publicado no Diário Oficial do município em 14/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-14/cb139942ae003b6dfcb9c7e60ddfdeecbb7679d8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 419",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-14",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 206.400,00 e dá outras providências",
+"p": "Decreto nº 421, publicado no Diário Oficial do município em 14/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-14/cb139942ae003b6dfcb9c7e60ddfdeecbb7679d8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 421",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-14",
 "h": "05:40",
 "t": "‘Quem Ama Cuida’: Justiça mantém condenação de Ademir que terá que cumprir pena no capítulo desta segunda-feira (16)",
 "p": "O ator Dan Stulbach encena em novela da TV Globo",
@@ -11201,6 +11356,402 @@
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/saude-de-sp-alerta-para-alta-de-casos-de-covid-19-e-reforca-importancia-da-vacinacao/",
 "auto": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Avaré: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 13/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Avaré"
+],
+"src": "Diário Oficial de Avaré",
+"u": "https://data.queridodiario.ok.org.br/3504503/2026-11-13/cd8d9ea9c67badb1c0e475df7bdfae4ee1b8ced5.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 13/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Araçariguama: Altera o Decreto nº 4.956, de 04 de abril de 2025, que dispõe sobre a nomeação dos membros do Conselho Municipal de Educação",
+"p": "Decreto nº 5227, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Araçariguama"
+],
+"src": "Diário Oficial de Araçariguama",
+"u": "https://data.queridodiario.ok.org.br/3502754/2026-11-13/c6d542a7bdf630c60a88874c58fd5a8c1cfd6b60.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5227",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Alto Alegre: Dispõe sobre a Programação Financeira e o Cronograma de Execução Mensal de Desembolso para o exercício de 2027",
+"p": "Decreto nº 5.287, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-11-13/a58781ffe7b26915c02e3090860df90418c23af5.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.287",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Alto Alegre: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 13/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-11-13/a58781ffe7b26915c02e3090860df90418c23af5.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 13/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Botucatu: Dispõe sobre a atualização da Planta de Valores nos termos da Lei 5.093/2009 – ITBI",
+"p": "Decreto nº 14.035, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-13/135632bef131357816a0426fddb5a7db829852ec.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.035",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Dirce Reis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 13/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Dirce Reis"
+],
+"src": "Diário Oficial de Dirce Reis",
+"u": "https://data.queridodiario.ok.org.br/3513850/2026-11-13/5bb2e419d32235eeb7c1be5d9baf01ac9221585e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 13/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Guaraçaí: Institui a Política Municipal de Alfabetização, estabelece suas diretrizes, objetivos, mecanismos de governança e monitoramento no âmbito da Rede Municipal de Ensino de Guaraçaí/SP, cria o Comitê…",
+"p": "Decreto nº 118, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Guaraçaí"
+],
+"src": "Diário Oficial de Guaraçaí",
+"u": "https://data.queridodiario.ok.org.br/3517802/2026-11-13/2b6c145dcf216b61f992581e16bcce8fd2d08a0b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 118",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Guaraçaí: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 13/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Guaraçaí"
+],
+"src": "Diário Oficial de Guaraçaí",
+"u": "https://data.queridodiario.ok.org.br/3517802/2026-11-13/2b6c145dcf216b61f992581e16bcce8fd2d08a0b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 13/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Jaboticabal: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 13/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Jaboticabal"
+],
+"src": "Diário Oficial de Jaboticabal",
+"u": "https://data.queridodiario.ok.org.br/3524303/2026-11-13/77a3ce0c120bfd7d06323b8fb2380e9adee7f805.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 13/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Iracemápolis: Altera o decreto 4458/2026 e muda a composição do Conselho Municipal de Assistência Social e da Mesa Diretora do Conselho Municipal de Assistência Social",
+"p": "Decreto nº 4501, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Iracemápolis"
+],
+"src": "Diário Oficial de Iracemápolis",
+"u": "https://data.queridodiario.ok.org.br/3521408/2026-11-13/edd3873fb47f8688723193025f3bf1105e1e59c8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4501",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Monte Mor: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 13/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-11-13/cc7072cbed3e12d9ea058ca041b1617b4089eac3.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 13/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Palmital: Dispõe sobre a dedução de materiais da base",
+"p": "Decreto nº 5.424, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Palmital"
+],
+"src": "Diário Oficial de Palmital",
+"u": "https://data.queridodiario.ok.org.br/3535309/2026-11-13/80a9cfd20e955fecb2b41c9aa26683dd47d54194.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.424",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Penápolis: Altera a alínea ‘a’ do inciso I do",
+"p": "Decreto nº 8757, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-13/5686e1a4f93a2174c5ff322c47beee98495f4a6e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8757",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Salto: Estabelece o Valor Básico Unitário da Face de Quadra do Loteamento Residencial Cata-Vento, nos termos do Art",
+"p": "Decreto nº 418, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-13/d4150e023691877098161e471989741dc7d42253.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 418",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Santa Maria da Serra: Dispõe sobre a nova nomeação dos membros titulares e respectivos suplentes do Conselho Municipal de Saúde de Santa Maria da Serra, e dá outras providencias",
+"p": "Decreto nº 3771, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Santa Maria da Serra"
+],
+"src": "Diário Oficial de Santa Maria da Serra",
+"u": "https://data.queridodiario.ok.org.br/3547007/2026-11-13/20b19b6930a889d7ba36a8b84eb0921d7fea7ca1.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 3771",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Santa Maria da Serra: Institui o Comitê Estratégico Municipal da Política de Alfabetização Própria do Município de Santa Maria da Serra/SP",
+"p": "Decreto nº 3776, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Santa Maria da Serra"
+],
+"src": "Diário Oficial de Santa Maria da Serra",
+"u": "https://data.queridodiario.ok.org.br/3547007/2026-11-13/20b19b6930a889d7ba36a8b84eb0921d7fea7ca1.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 3776",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Rio Claro: Altera membros do Decreto Municipal nº",
+"p": "Decreto nº 13.926, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Rio Claro"
+],
+"src": "Diário Oficial de Rio Claro",
+"u": "https://data.queridodiario.ok.org.br/3543907/2026-11-13/26499cb1a3dbc462a3cf7759f5b60e3476613944.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 13.926",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Sebastianópolis do Sul: Dispõe sobre o registro, a execução, a transparência e o controle dos recursos de emendas parlamentares no Município de Sebastianópolis do Sul",
+"p": "Decreto nº 34, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Sebastianópolis do Sul"
+],
+"src": "Diário Oficial de Sebastianópolis do Sul",
+"u": "https://data.queridodiario.ok.org.br/3551306/2026-11-13/be36e6cc117effaef8583764d52aaa39d1d1fcfa.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 34",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Sarutaiá: Dispõe sobre a anulação sem a devida liquidação no prazo que especifica e dá outras providências",
+"p": "Decreto nº 62, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Sarutaiá"
+],
+"src": "Diário Oficial de Sarutaiá",
+"u": "https://data.queridodiario.ok.org.br/3551207/2026-11-13/cb330b08ed7f001aa67db5cb6e60ced7e190a222.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 62",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "São Bernardo do Campo: Dispõe sobre suplementação de dotações orçamentárias",
+"p": "Decreto nº 23.419, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário Oficial de São Bernardo do Campo",
+"u": "https://data.queridodiario.ok.org.br/3548708/2026-11-13/02a5c7eacec3f913efa7b485867797f29292bc38.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 23.419",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Valinhos: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 13/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-13/927019fea98fcc207197ff8a589ad2baab6d6e74.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 13/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-13",
+"h": "06:00",
+"t": "Tremembé: Declara de utilidade pública área urbana sem benfeitorias, para desapropriação, para o fim que especifica.” CLEMENTE",
+"p": "Decreto nº 8.128, publicado no Diário Oficial do município em 13/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Tremembé"
+],
+"src": "Diário Oficial de Tremembé",
+"u": "https://data.queridodiario.ok.org.br/3554805/2026-11-13/696b4d34bbb2f42d0f66c64db032edeb301357e8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.128",
+"qd": true,
+"mun": true
 },
 {
 "d": "2026-11-13",
