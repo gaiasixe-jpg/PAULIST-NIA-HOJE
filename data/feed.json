@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T09:01:33-03:00",
-"novos_nesta_coleta": 34,
+"atualizado": "2026-11-17T10:18:14-03:00",
+"novos_nesta_coleta": 26,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,234 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "10:10",
+"t": "Pesquisa aponta aprovação de 49,2% à gestão de César Nascimento em Cubatão",
+"p": "Levantamento do Instituto Badra mostra aproximação entre aprovação e reprovação do prefeito; após divulgação dos números, prefeitura destaca investimentos em saúde, segurança, educação e habitação",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/politica/pesquisa-aponta-aprovacao-de-492-a-gestao-de-cesar-nascimento-em-cubatao.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "10:00",
+"t": "MP pede nova análise de propostas para dragagem do Porto de Santos",
+"p": "Divulgação Parecer defende que licitação de R$ 617,9 milhões retorne à fase de julgamento e habilitação das empresas.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/porto-e-negocios/mp-pede-nova-analise-de-propostas-para-dragagem-do-porto-de-santos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:59",
+"t": "Ação contra a dengue na zona norte esbarra em 10 recusas e 177 imóveis fechados",
+"p": "Balanço da Secretaria da Saúde aponta que equipes percorreram 11 quadras na área da USF Vila Nova.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/acao-contra-a-dengue-na-zona-norte-esbarra-em-10-recusas-e-177-imoveis-fechados/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:59",
+"t": "Campinas mantém seis parques e bosques fechados; veja quais",
+"p": "Seis parques e bosques da região Norte de Campinas, além da Mata de Santa Genebra, continuam fechados nesta terça-feira (17), após o volume de chuva acumulado nas últimas 72 horas ultrapassar o limite estabelecido pela Prefeitura",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-mantem-seis-parques-e-bosques-fechados-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:56",
+"t": "Ministério da Saúde autoriza envio de 500 mil doses extras da vacina contra Covid-19 para São Paulo",
+"p": "Outros nove estados também receberão doses extras da vacina; segundo o Ministério da Saúde, entrega deve acontecer de forma gradual e busca complementar a distribuição regular",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"São Paulo"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/ministerio-da-saude-autoriza-envio-de-500-mil-doses-extras-da-vacina-contra-covid-19-para-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:54",
+"t": "Senado retoma votação do ajuste fiscal nesta terça (17) para analisar quatro propostas de mudanças",
+"p": "Foto: Carlos Moura Após aprovar o texto principal, senadores decidem se mantêm ou retiram regras sobre limite de gastos, impostos de empresas e repasses a estados e municípios",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/senado-vota-destaques-ajuste-fiscal-governo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:45",
+"t": "Bonecas misteriosas são entregues em creches de SC dentro de sacolas com recados e mobilizam investigação",
+"p": "O envio de sacolas com bonecas a creches de Itajaí, no Litoral Norte de Santa Catarina, mobilizou a Guarda Municipal. A corporação investiga a entrega dos pacotes em Centros de Educação Infantil (CEIs) da rede municipal. A apuração começou na segunda-feira (16/11), após denúncias. De acordo com os educadores das…",
+"tema": "Educação",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/bonecas-misteriosas-sao-entregues-em-creches-de-sc-dentro-de-sacolas-com-recados-e-mobilizam-investigacao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:43",
+"t": "Com 51% de chuvas além do normal, estoque de suco de laranja salta 161,9% e chega ao maior nível em 6 anos; como o consumidor é afetado",
+"p": "Estoques de suco de laranja das associadas à CitrusBR somaram 383,2 mil toneladas em 30 de junho de 2026, alta de 161,9% em um ano. O Cepea avalia que o volume pode segurar o preço da fruta até junho de 2027. Chuva chega aos pomares de SP e MG.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/com-51-de-chuvas-alem-do-normal-estoque-de-suco-de-laranja-salta-1619-e-chega-ao-maior-nivel-em-6-anos-como-o-consumidor-e-afetado/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:41",
+"t": "MPSP vai apurar possível omissão da Artesp na fiscalização das Linhas 8 e 9",
+"p": "Ministério Público informou que vai incluir falha da Linha 8-Diamante registrada na última quinta (12/11) em inquérito que apura omissões",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-vai-apurar-possivel-omissao-da-artesp-na-fiscalizacao-das-linhas-8-e-9",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:37",
+"t": "Confira a previsão do tempo para Marília nesta terça-feira (17/11)",
+"p": "Sol predomina durante o dia, mas aumento da nebulosidade eleva a possibilidade de chuva.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-terca-feira-17-11/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:35",
+"t": "Quatro são presos em operação contra produção de supermaconha no interior de São Paulo",
+"p": "Créditos: Polícia Federal Quatro pessoas foram presas em flagrante em operação contra a produção, distribuição e venda de derivados de maconha",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/quatro-sao-presos-em-operacao-contra-producao-de-supermaconha-no-interior-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:32",
+"t": "Unidade móvel do Bom Prato em Santos muda de endereço; veja onde fica",
+"p": "Serviço de refeições no morro da Nova Cintra funcionará na praça Guadalajara; objetivo é garantir mais conforto e segurança aos usuários",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/bom-prato-movel-de-santos-passa-a-atender-em-novo-endereco-nesta-terca-feira-17.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:30",
+"t": "Nova e-bike da Honda tem câmbio automático, assistência elétrica inteligente e motor de 750 W",
+"p": "A Honda apresentou uma nova bicicleta elétrica de alto desempenho voltada para trilhas. A RN0 combina motor Shimano de 750 W, quadro de carbono e tecnologias que ajustam automaticamente a condução. A e-bike da Honda foi apresentada durante a EICMA 2026, em Milão, na Itália. Desenvolvida em parceria com a fabricante…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/automotor/nova-e-bike-da-honda-tem-cambio-automatico-assistencia-eletrica-inteligente-e-motor-de-750-w/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:30",
+"t": "Mulher é presa suspeita de atear fogo em pensão e ferir homem",
+"p": "O caso aconteceu no bairro Boa Vista. Vítima sofreu queimaduras de segundo e terceiro graus e segue internada no Hospital de Base",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mulher-e-presa-suspeita-de-atear-fogo-em-pensao-e-ferir-homem-que-dormia/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:27",
+"t": "Justiça rejeita processo movido contra Neymar e condena ativista",
+"p": "O atacante Neymar obteve uma vitória nos tribunais após a Justiça de São Paulo julgar totalmente improcedente uma ação movida contra ele e contra seu advogado, Davi de Paiva Costa Tangerino. O processo havia sido ajuizado pelo ativista dos direitos humanos e deputado estadual suplente Agripino Magalhães, que…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-rejeita-processo-movido-contra-neymar-e-condena-ativista/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:25",
+"t": "Deputado eleito do PT é autuado após se recusar a fazer teste do bafômetro em rodovia",
+"p": "O deputado estadual eleito e influenciador digital Leonardo Grandini (PT-SP) foi autuado pela Polícia Militar de São Paulo neste domingo (15) após se recusar a soprar o bafômetro durante uma abordagem na rodovia Anchieta, que faz a ligação entre a capital paulista e o litoral sul do estado. O político conduzia um…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/deputado-eleito-do-pt-e-autuado-apos-se-recusar-a-fazer-teste-do-bafometro-em-rodovia/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "09:15",
+"t": "Motorista desce de carro com pane e é atropelado na Rodovia Anhanguera",
+"p": "Vítima foi socorrida em estado grave após acidente no km 99; carro apresentou incêndio e rodovia ficou totalmente bloqueada por quase uma hora",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motorista-desce-de-carro-com-pane-e-e-atropelado-na-rodovia-anhanguera/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "08:56",
@@ -54884,239 +55112,6 @@
 ],
 "src": "Boqnews",
 "u": "https://www.boqnews.com/vida/mulheres-negras-morrem-38-vezes-mais-que-mulheres-brancas-por-cancer-de-mama-aponta-inca/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "07:57",
-"t": "Vendaval e chuva forte atingem Ribeirão Preto nesta madrugada; vídeo",
-"p": "A madrugada de segunda-feira (2), feriado de Finados, começou com chuva forte e vendaval em Ribeirão Preto",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/vendaval-chuva-forte-atingem-ribeirao-preto-nesta-madrugada-video/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "07:49",
-"t": "Ônibus acerta saída de shopping após acidente com carro e deixa um ferido",
-"p": "Ônibus atravessou a Avenida Giovanni Gronchi, bateu em carro e parou na saída do estacionamento do shopping Jardim Sul, deixando um ferido",
-"tema": "Transporte",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/onibus-acerta-saida-de-shopping-apos-acidente-com-carro-e-deixa-um-ferido",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "07:18",
-"t": "Mira Estrela reúne cerca de 600 idosos em edição do Baile Intermunicipal da Melhor Idade",
-"p": "A área de lazer do município de Mira Estrela sediou, no último sábado (24), o tradicional Baile do Consórcio Intermunicipal da Melhor Idade. O evento reuniu cerca de 600 idosos vindos de 13 cidades da região para um dia dedicado à integração social, dança e entretenimento ao som de música ao vivo. A programação…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mira Estrela"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/mira-estrela-reune-cerca-de-600-idosos-em-edicao-do-baile-intermunicipal-da-melhor-idade/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "06:44",
-"t": "Obituário | Falecimentos registrados nesta segunda-feira em Marília e região",
-"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta segunda-feira, dia 2 de novembro.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-segunda-feira-em-marilia-e-regiao-7/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "06:30",
-"t": "Veja o calendário do Pé-de-Meia de novembro e como garantir o depósito da parcela",
-"p": "Os estudantes da rede pública de ensino já podem consultar as datas de liberação da parcela de novembro do programa Pé-de-Meia. Nesta etapa, os depósitos do Incentivo Frequência iniciam no dia 23 e seguem até 30 de novembro, com pagamentos organizados pelo mês de nascimento do aluno. A iniciativa do Governo Federal…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/veja-o-calendario-do-pe-de-meia-de-novembro-e-como-garantir-o-deposito-da-parcela/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "06:30",
-"t": "Resultado da Timemania 2462: prêmio acumula para R$ 24,5 milhões; veja os números e o Time do Coração",
-"p": "Foto: Depositphotos Concurso de domingo (1º/11) não teve acertador dos sete números. Cinco apostas foram premiadas com R$ 40.131,73 por seis acertos.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-timemania-concurso-2462/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "06:30",
-"t": "Resultado da Quina 7157: prêmio acumula para R$ 10,6 milhões; veja as cinco dezenas sorteadas",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso deste domingo (1º/11) não teve ganhadores dos cinco números. Outras 59 apostas acertaram a quadra e receberam R$ 8.217,06 cada.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-quina-concurso-7157/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "06:25",
-"t": "Confira a previsão do tempo para Marília nesta segunda-feira (02/11)",
-"p": "Segunda-feira será de instabilidade com chuvas recorrentes, alta umidade e temperaturas variando entre 21°C e 27°C.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-segunda-feira-02-11/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "06:01",
-"t": "Mira Estrela reúne cerca de 600 idosos em edição do Baile Intermunicipal da Melhor Idade",
-"p": "A área de lazer do município de Mira Estrela sediou, no último sábado (24), o tradicional Baile do Consórcio Intermunicipal da Melhor Idade. O evento reuniu cerca de 600 idosos vindos de 13 cidades da região para um dia dedicado à integração social, dança e entretenimento ao som de música ao vivo. A programação…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mira Estrela"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/mira-estrela-reune-cerca-de-600-idosos-em-edicao-do-baile-intermunicipal-da-melhor-idade/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "06:00",
-"t": "Vereador de Santos pede revisão da Operação Subida nas rodovias",
-"p": "Divulgação/Ecovias Ofício enviado às Câmaras Municipais pede mobilização em torno de um pedido de revisão da chamada Operação Subida.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/vereador-de-santos-pede-revisao-da-operacao-subida-nas-rodovias/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "06:00",
-"t": "Rastreamento de celular roubado leva PM a suspeitos em Santos",
-"p": "Divulgação/PM Um homem foi preso e um adolescente apreendido pela Polícia Militar após um roubo ocorrido nas proximidades de um supermercado, em São Vicente.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Vicente",
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/sao-vicente/rastreamento-de-celular-roubado-leva-pm-a-suspeitos-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "05:00",
-"t": "Câmara vota criação de cargos, Zera Dívida e restrição à publicidade de bets",
-"p": "Sessão será realizada na terça-feira (3), às 16h, e terá oito propostas na pauta, incluindo convênio para reforçar a segurança no Legislativo.",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/camara-vota-criacao-de-cargos-zera-divida-e-restricao-a-publicidade-de-bets/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "05:00",
-"t": "Cemitérios de Marília terão missas no Dia de Finados nesta segunda",
-"p": "Programação na segunda-feira (2) inclui três celebrações no Cemitério da Saudade e uma no Cemitério das Orquídeas.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/cemiterios-de-marilia-terao-missas-no-dia-de-finados-nesta-segunda/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "02:45",
-"t": "Deputados reeleitos esperam “tiro, porrada e bomba” de novatos na Alesp",
-"p": "Parlamentares acreditam em mandato marcado por confusões com chegada de colegas com perfil mais ideológico na Casa",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/deputados-reeleitos-esperam-tiro-porrada-e-bomba-de-novatos-na-alesp",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "01:13",
-"t": "Policiais militares resgatam cachorro preso em bueiro",
-"p": "Uma ação realizada por uma equipe do 49º Batalhão de Polícia Militar do Interior (BPM/I) resultou no resgate de um cachorro de pequeno porte que estava preso no interior de um bueiro no bairro Jardim Tarumã, em Jundiaí. A ocorrência foi registrada na última sexta-feira (30), quando os agentes patrulhavam a região e…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí",
-"Tarumã"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policiais-militares-resgatam-cachorro-preso-em-bueiro/",
-"auto": true
-},
-{
-"d": "2026-11-02",
-"h": "00:43",
-"t": "‘A sensação é a mesma de salvar uma pessoa’: PM resgata cachorro preso em bueiro no interior de SP",
-"p": "Um cachorro de pequeno porte ganhou uma nova chance depois de ser resgatado por policiais militares de dentro de um bueiro na última sexta-feira (30), na região do Jardim Tarumã, em Jundiaí, no interior de São Paulo. O animal foi encontrado por uma equipe do 49º Batalhão de Polícia Militar do Interior (BPM/I), que…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí",
-"Tarumã"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/a-sensacao-e-a-mesma-de-salvar-uma-pessoa-pm-resgata-cachorro-preso-em-bueiro-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "22:00",
-"t": "Honda revela nova CG 160 2027 com mudanças na versão mais barata, novos equipamentos e preços para o Brasil",
-"p": "A Honda apresenta a linha 2027 da CG 160, que chega ao mercado brasileiro trazendo atualizações em tecnologia, praticidade e segurança. Disponível em quatro versões, o veículo motorizado mais vendido do Brasil mantém os atributos que o consagraram ao longo de cinco décadas. Em 2026, a família CG celebra o marco de…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/automotor/honda-revela-nova-cg-160-2027-com-mudancas-na-versao-mais-barata-novos-equipamentos-e-precos-para-o-brasil/",
 "auto": true
 }
 ]
