@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T17:13:06-03:00",
-"novos_nesta_coleta": 41,
+"atualizado": "2026-11-17T18:00:11-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -46,10 +46,160 @@
 },
 {
 "fonte": "Boqnews",
-"erro": "The read operation timed out"
+"erro": "XML or text declaration not at start of entity: line 2, column 0"
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "17:49",
+"t": "Polícia Civil deflagra operação contra quadrilha de roubo de medicamentos e apreende canetas emagrecedoras e botox",
+"p": "A Polícia Civil de São Paulo, por meio do Departamento Estadual de Investigações Criminais (Deic), realizou nesta terça-feira (17) uma operação de combate a uma associação criminosa especializada no furto e desvio de cargas farmacêuticas. Durante o cumprimento das ordens judiciais, os agentes apreenderam um lote…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-deflagra-operacao-contra-quadrilha-de-roubo-de-medicamentos-e-apreende-canetas-emagrecedoras-e-botox/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:49",
+"t": "Justiça Eleitoral inicia descarte e reciclagem de urnas eletrônicas antigas após eleições de 2026",
+"p": "Com o encerramento das eleições gerais de 2026, realizadas nos dias 4 e 25 de outubro, a Justiça Eleitoral deu início ao processo de descarte ecológico e seguro de urnas eletrônicas que atingiram o fim de sua vida útil. Os trabalhos estão concentrados no município de Guarulhos, na Grande São Paulo, e abrangem a…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Guarulhos"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-eleitoral-inicia-descarte-e-reciclagem-de-urnas-eletronicas-antigas-apos-eleicoes-de-2026/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:49",
+"t": "Justiça concede liberdade provisória a mulher envolvida em agressão contra idosa no centro de Fernandópolis",
+"p": "A mulher gravada em vídeo agredindo uma idosa na Rua São Paulo, na região central de Fernandópolis, na manhã desta segunda-feira (16), foi colocada em liberdade após passar por audiência de custódia na tarde desta terça-feira (17). Em contrapartida, o homem apontado como seu companheiro — flagrado danificando o…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-concede-liberdade-provisoria-a-mulher-envolvida-em-agressao-contra-idosa-no-centro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:48",
+"t": "Linhas de ônibus que eram operadas por viação ligada ao PCC são remanejadas",
+"p": "Nove linhas de ônibus da Transwolff terão mudanças na numeração a partir de sábado (21/11). Sete concessionárias assumem operação",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/linhas-de-onibus-que-eram-operadas-por-viacao-ligada-ao-pcc-sao-remanejadas",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:44",
+"t": "“Negritude em Foco” é atração gratuita no Jardim Maylasky neste sábado (21)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Cultura (Secult), realizará, neste sábado (21), das 10h às 12h, o evento “Negritude em Foco”. A programação gratuita ocorre no Chalé Francês, sede da pasta, no Jardim Maylasky, Centro da cidade. Realizada em alusão ao Dia da Consciência Negra, celebrado em 20 de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/negritude-em-foco-e-atracao-gratuita-no-jardim-maylasky-neste-sabado-21/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:42",
+"t": "PM prende dois homens e apreende 52 kg de fios de cobre furtados em Itaquaquecetuba",
+"p": "Segundo a polícia militar, os suspeitos confessaram ter retirado o material de uma rede desativada para obter renda extra",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/policia/pm-prende-dois-homens-e-apreende-52-kg-de-fios-de-cobre-furtados-em-itaquaquecetuba/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:31",
+"t": "Câmara rejeita suspensão de salários de assessores de São Paulo e Brasília",
+"p": "Projeto previa interromper pagamentos durante os recessos da Assembleia Legislativa e do Congresso Nacional",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/camara-rejeita-suspensao-de-salarios-de-assessores-de-sao-paulo-e-brasilia/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:30",
+"t": "Minha Casa, Minha Vida: veja onde será construído empreendimento para o qual moradores foram convocados",
+"p": "Empreendimento faz parte da Faixa 1 do Minha Casa, Minha Vida e atenderá famílias pré-selecionadas pela Prefeitura de Ribeirão Preto",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/minha-casa-minha-vida-veja-onde-sera-construido-empreendimento-para-o-qual-moradores-foram-convocados/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:18",
+"t": "PIB Marília promove Conferência Mulheres Alinhadas pelo Propósito com programação de fé e ministrações",
+"p": "Conferência em Marília reúne Camila Campos, Júlia Vitória e lideranças cristãs Inscrições seguem abertas; conheça as preletoras confirmadas para a edição 2026.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/conteudopatrocinado/pib-marilia-promove-conferencia-mulheres-alinhadas-pelo-proposito-com-programacao-de-fe-e-ministracoes/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:15",
+"t": "A 64 anos-luz da Terra, planeta azul sofre com chuva de vidro e ventos acima de 7 mil km/h",
+"p": "HD 189733 b",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/a-64-anos-luz-da-terra-planeta-azul-sofre-com-chuva-de-vidro-e-ventos-acima-de-7-mil-km-h/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "17:13",
+"t": "Celular Realme anunciado como à prova d’água estraga após mergulho, e Justiça condena fabricante e loja a devolver R$ 1.650",
+"p": "Reprodução - Realme Justiça condena fabricante e loja a devolver R$ 1.650 a consumidor cujo Realme C85 parou de funcionar após mergulho, com base em publicidade que o apresentava como à prova d'água.",
+"tema": "Água",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/celular-realme-anunciado-como-a-prova-dagua-estraga-apos-mergulho-e-justica-condena-fabricante-e-loja-a-devolver-r-1-650/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "17:06",
@@ -2880,6 +3030,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67762",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "00:00",
+"t": "Prudente participa da 8ª Oficina Preparatória SP Sempre Alerta - Operação El Niño 2026/2027",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67769",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "00:00",
+"t": "PP participa de seminário estadual sobre governança e políticas públicas para a juventude",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67768",
 "auto": true
 },
 {
@@ -54868,228 +55046,6 @@
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/roubos-caem-327-no-litoral-sul-paulista-em-setembro/",
 "auto": true
-},
-{
-"d": "2026-11-03",
-"h": "06:02",
-"t": "Fernandópolis mobiliza comunidade com bazar beneficente e noite festiva na primeira semana de novembro",
-"p": "A primeira semana de novembro contará com duas grandes iniciativas solidárias em Fernandópolis destinadas à arrecadação de recursos para entidades de saúde e assistência social da cidade. Entre os dias 5 e 8 de novembro, moradores do município e da região poderão colaborar com o trabalho dos Voluntários da Santa…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/fernandopolis-mobiliza-comunidade-com-bazar-beneficente-e-noite-festiva-na-primeira-semana-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "06:01",
-"t": "Prefeitura de Mira Estrela reforça alerta para o início da Piracema e restrições à pesca na região",
-"p": "O município de Mira Estrela, por meio da Secretaria Municipal de Cultura e Turismo, iniciou a divulgação de alertas sobre o começo do período da Piracema, que teve início no dia 1º de novembro de 2026 e se estenderá até 28 de fevereiro de 2027. Durante esses quatro meses, a pesca sofre restrições severas nos […]",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Mira Estrela"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-mira-estrela-reforca-alerta-para-o-inicio-da-piracema-e-restricoes-a-pesca-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Terça-feira será de sol e chuva em Ribeirão Preto; Veja a previsão do tempo",
-"p": "Previsão para Ribeirão Preto indica pancadas de chuva à tarde e à noite, com temperatura máxima de 34°C",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/terca-feira-sera-de-sol-e-chuva-em-ribeirao-preto-veja-a-previsao-do-tempo/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Bragança Paulista: Fixa prazos para pagamento do Imposto Predial e Territorial Urbano - IPTU, no exercício de 2027",
-"p": "Decreto nº 5.071, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Bragança Paulista"
-],
-"src": "Diário Oficial de Bragança Paulista",
-"u": "https://data.queridodiario.ok.org.br/3507605/2026-11-03/bc25aa395fc8414d0da6a46407d9b17aa8b8fc9c.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 5.071",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Bragança Paulista: Dispõe sobre a Planta Genérica de Valores, os valores do metro quadrado do terreno e os valores do metro quadrado da tipologia da edificação para o ano de 2027",
-"p": "Decreto nº 5.072, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Bragança Paulista"
-],
-"src": "Diário Oficial de Bragança Paulista",
-"u": "https://data.queridodiario.ok.org.br/3507605/2026-11-03/bc25aa395fc8414d0da6a46407d9b17aa8b8fc9c.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 5.072",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Botucatu: Altera o Decreto n.º 14.014/2026 que dispõe sobre a criação da Comissão Permanente de Acompanhamento Atuarial - CPAA",
-"p": "Decreto nº 14.024, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Botucatu"
-],
-"src": "Diário Oficial de Botucatu",
-"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-03/4ced2be500eb567999840d006a07533963c7d882.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 14.024",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Botucatu: Dispõe sobre a nomeação dos membros titulares do Grupo de Análise de Projetos (GAP) do Município de Botucatu, nos termos da Lei Municipal nº 6.969, de 20 de outubro de",
-"p": "Decreto nº 14.025, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Botucatu"
-],
-"src": "Diário Oficial de Botucatu",
-"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-03/4ced2be500eb567999840d006a07533963c7d882.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 14.025",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Guaraçaí: Institui a Política Municipal de Alfabetização, estabelece suas diretrizes, objetivos, mecanismos de governança e monitoramento no âmbito da Rede Municipal de Ensino de Guaraçaí/SP, cria o Comitê…",
-"p": "Decreto nº 117, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Guaraçaí"
-],
-"src": "Diário Oficial de Guaraçaí",
-"u": "https://data.queridodiario.ok.org.br/3517802/2026-11-03/8ada320d5279b0e447fadd8f7d6b8cebade1219c.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 117",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Guaraçaí: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 03/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Guaraçaí"
-],
-"src": "Diário Oficial de Guaraçaí",
-"u": "https://data.queridodiario.ok.org.br/3517802/2026-11-03/8ada320d5279b0e447fadd8f7d6b8cebade1219c.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 03/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Itápolis: Dispõe sobre a suplementação de verbas do orçamento em vigor, nos termos do artigo 11 da Lei Ordinária nº 4.325, de 09 de dezembro de 2025",
-"p": "Decreto nº 6.665, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Itápolis"
-],
-"src": "Diário Oficial de Itápolis",
-"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-03/e20d4bd18972af3de2a815ddc5db21420033103c.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 6.665",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Itápolis: Dispõe sobre a suplementação de verbas do orçamento em vigor",
-"p": "Decreto nº 6.696, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Itápolis"
-],
-"src": "Diário Oficial de Itápolis",
-"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-03/e20d4bd18972af3de2a815ddc5db21420033103c.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 6.696",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Itápolis: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 03/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Itápolis"
-],
-"src": "Diário Oficial de Itápolis",
-"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-03/e20d4bd18972af3de2a815ddc5db21420033103c.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 03/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-03",
-"h": "06:00",
-"t": "Jaboticabal: Altera dispositivos dos Decretos nº",
-"p": "Decreto nº 8.567, publicado no Diário Oficial do município em 03/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Jaboticabal"
-],
-"src": "Diário Oficial de Jaboticabal",
-"u": "https://data.queridodiario.ok.org.br/3524303/2026-11-03/a7576b7d725f3f9a5054578ee4ca0199af2bd33c.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 8.567",
-"qd": true,
-"mun": true
 }
 ]
 }
