@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-17T08:15:18-03:00",
-"novos_nesta_coleta": 41,
+"atualizado": "2026-11-17T09:01:33-03:00",
+"novos_nesta_coleta": 34,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -27,23 +29,15 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 67 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
-{
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +50,296 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "08:56",
+"t": "Ecovias divulga cronograma de obras e esquema especial para o feriado da Consciência Negra nas rodovias da região",
+"p": "Os motoristas que trafegam pelas principais rodovias do noroeste e centro do estado de São Paulo devem redobrar a atenção ao longo desta semana. A concessionária Ecovias Noroeste Paulista divulgou o cronograma de obras, manutenções e melhorias viárias programadas até o próximo domingo, dia 22 de novembro. Os…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ecovias-divulga-cronograma-de-obras-e-esquema-especial-para-o-feriado-da-consciencia-negra-nas-rodovias-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:54",
+"t": "Santos inicia mutirão contra o Aedes aegypti com 64 agentes para vistoriar imóveis e eliminar criadouros na cidade",
+"p": "O 25º Mutirão de Combate ao Aedes aegypti de 2026 começou na última segunda-feira (16), em Santos. A ação contará com 64 agentes de combate a endemias, que percorrerão imóveis para identificar e eliminar possíveis criadouros do mosquito transmissor da dengue, zika e chikungunya. O mutirão na Encruzilhada está…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/santos-inicia-mutirao-contra-o-aedes-aegypti-com-64-agentes-para-vistoriar-imoveis-e-eliminar-criadouros-na-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:52",
+"t": "Processo de separação do filho caçula de Lula e ex teve BO por agressão",
+"p": "Polícia Civil de SP deflagrou na manhã desta terça operação contra advogadas suspeitas de golpe em ação judicial envolvendo filho de Lula",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/processo-de-separacao-do-filho-cacula-de-lula-e-ex-teve-bo-por-agressao",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:51",
+"t": "Ação rápida da PM e assistência social salva idosa debilitada dentro de casa em Indiaporã",
+"p": "Uma atuação ágil e integrada entre a Polícia Militar e a equipe de assistência social foi decisiva para salvar a vida de uma idosa encontrada em situação de vulnerabilidade dentro de sua própria residência, no município de Indiaporã. O resgate aconteceu na última quinta-feira (12), após uma assistente social…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Indiaporã"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/acao-rapida-da-pm-e-assistencia-social-salva-idosa-debilitada-dentro-de-casa-em-indiapora/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:47",
+"t": "Jundiaí terá sol e calor nesta terça-feira (17), mas chuva volta nos próximos dias",
+"p": "Foto: Prefeitura de Jundiaí Terça-feira terá máxima de 29°C, enquanto os próximos dias devem registrar temperaturas mais altas e pancadas de chuva, inclusive no feriado.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-chuva-feriado-20-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:40",
+"t": "Saúde de Guarani d’Oeste recebe veículo zero quilômetro de sete lugares para reforçar atendimento na UBS",
+"p": "A área da saúde pública do município de Guarani d’Oeste ganhou um importante reforço para o atendimento à população. A Administração Municipal recebeu um novo veículo zero quilômetro, com capacidade para sete lugares, que será integrado à frota da Unidade Básica de Saúde (UBS) com o objetivo de ampliar o suporte…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarani d'Oeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/saude-de-guarani-doeste-recebe-veiculo-zero-quilometro-de-sete-lugares-para-reforcar-atendimento-na-ubs/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:40",
+"t": "Belezas naturais, cultura e tradições de Mira Estrela serão destaque em programa regional neste sábado",
+"p": "As tradições culturais, a hospitalidade da população e as potencialidades turísticas de Mira Estrela ganharão projeção regional neste sábado, dia 21 de novembro, com a exibição de uma edição especial do programa “Tá no Ar Interior”, transmitido pelo YouTube. A atração é comandada pelo apresentador Marcos Paiva,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/belezas-naturais-cultura-e-tradicoes-de-mira-estrela-serao-destaque-em-programa-regional-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:34",
+"t": "Caminhão atinge barreira de concreto em trecho com obra e causa interdição na Anhanguera",
+"p": "Caminhão invadiu sinalização de obre e atingiu barreira de concreto na madrugada desta terça (17), em Aramina",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Aramina"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/caminhao-atinge-barreira-de-concreto-em-trecho-com-obra-e-causa-interdicao-na-anhanguera/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:30",
+"t": "Frente fria avança e coloca estados em alerta para chuva forte, rajadas de vento de até 70 km/h e queda de granizo nesta terça-feira; veja previsão",
+"p": "A chegada de uma frente fria ao Sul do Brasil coloca o Rio Grande do Sul em alerta nesta terça-feira (17). O sistema pode provocar chuva forte, rajadas de vento de até 70 km/h, descargas elétricas e queda isolada de granizo. Além disso, há risco de enxurradas e alagamentos em diferentes áreas do estado. Enquanto […]",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/frente-fria-avanca-e-coloca-estados-em-alerta-para-chuva-forte-rajadas-de-vento-de-ate-70-km-h-e-queda-de-granizo-nesta-terca-feira-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:30",
+"t": "Polícia Militar intensifica patrulhamento preventivo na zona rural de Simonsen",
+"p": "Com o objetivo de ampliar a sensação de segurança e coibir a ação de criminosos no campo, a Polícia Militar realizou uma operação de policiamento preventivo na área rural de Simonsen, distrito pertencente ao município de Votuporanga, nesta segunda-feira (16). A iniciativa, que busca garantir maior presença…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-intensifica-patrulhamento-preventivo-na-zona-rural-de-simonsen/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:30",
+"t": "Operação da DISE prende dois suspeitos por tráfico de drogas e apreende R$ 3,2 mil em Jales",
+"p": "Uma operação conduzida pela Polícia Civil, por meio da Delegacia de Investigações Sobre Entorpecentes (DISE), resultou na prisão em flagrante de dois homens suspeitos de tráfico de drogas e associação para o tráfico no município de Jales. A ofensiva policial é o desfecho de um trabalho investigativo iniciado a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-da-dise-prende-dois-suspeitos-por-trafico-de-drogas-e-apreende-r-32-mil-em-jales/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:26",
+"t": "Força Tática recupera duas motos furtadas do pátio do Detran em Votuporanga; suspeitos são ouvidos e liberados",
+"p": "Duas motocicletas que haviam sido furtadas do pátio do Departamento Estadual de Trânsito (Detran) foram recuperadas pela Polícia Militar, por meio de uma equipe da Força Tática, na noite do último sábado (14), em Votuporanga. A localização dos veículos ocorreu após a abordagem de dois suspeitos durante um…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/forca-tatica-recupera-duas-motos-furtadas-do-patio-do-detran-em-votuporanga-suspeitos-sao-ouvidos-e-liberados/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:23",
+"t": "Quem é o filho de Lula apontado como vítima de um golpe de advogadas",
+"p": "Investigação da Polícia Civil de São Paulo aponta que grupo se apropriou de R$ 800 mil de Luís Cláudio Lula da Silva",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/quem-e-o-filho-de-lula-apontado-como-vitima-de-um-golpe-de-advogadas",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:22",
+"t": "Mulher que havia desaparecido em Votuporanga é encontrada pelo Corpo de Bombeiros e reencontra familiares",
+"p": "Horas de angústia e mobilização terminaram com alívio em Votuporanga após o resgate de Andréia Cristina dos Santos, que estava desaparecida desde a tarde desta segunda-feira (16). A mulher foi localizada por uma equipe do Corpo de Bombeiros e encaminhada ao Mini-Hospital do bairro Pozzobon para passar por avaliação…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mulher-que-havia-desaparecido-em-votuporanga-e-encontrada-pelo-corpo-de-bombeiros-e-reencontra-familiares/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:21",
+"t": "Defesa Civil anuncia R$ 2,1 milhões em repasses em capacitação de agentes em Junqueirópolis",
+"p": "A Coordenadoria Estadual de Proteção e Defesa Civil realiza nesta terça-feira, a partir das 8h30, em Junqueirópolis, a oficina regional do programa São Paulo Sempre Alerta – Operação El Niño 2026/2027. O encontro acontece no Cefe (Centro de Formação Educacional), localizado na Praça Álvaro de Oliveira Junqueira, no…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Junqueirópolis"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/defesa-civil-anuncia-r-21-milhoes-em-repasses-em-capacitacao-de-agentes-em-junqueiropolis/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:20",
+"t": "Homem é detido após tentar agredir enfermeira em Santo André",
+"p": "Confusão ocorreu na UPA Vila Luzita, na noite de segunda-feira (16); homem foi levado ao 6º DP após intervenção da GCM",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369209/homem-e-detido-apos-tentar-agredir-enfermeira-em-santo-andre",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:20",
+"t": "Basf prepara estreia do centro de inovação em São Bernardo",
+"p": "Unidade será inaugurada amanhã e prevê o desenvolvimento de produtos à base de poliuretano; investimento é de R$ 20 milhões",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369211/basf-prepara-estreia-do-centro-de-inovacao-em-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:20",
+"t": "Capotamento deixa mulher gravemente ferida na SP-294 em Pacaembu",
+"p": "Uma mulher ficou gravemente ferida em um acidente de trânsito registrado no início da tarde desta segunda-feira (16), na Rodovia Comandante João Ribeiro de Barros (SP-294), em Pacaembu. O acidente aconteceu no km 678+800 metros, na altura do trevo de acesso ao Cemitério Municipal, onde existe uma rotatória. A…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Pacaembu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/capotamento-deixa-mulher-gravemente-ferida-na-sp-294-em-pacaembu/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:18",
+"t": "Encontrado à beira da morte após fugir de queimadas, filhote de onça enfrenta jornada de quase dois anos e conquista a liberdade na Amazônia",
+"p": "Encontrado sozinho e em condições delicadas de saúde, um filhote de onça-pintada conseguiu superar uma longa jornada de recuperação até voltar à floresta amazônica. Batizado de Xamã, o animal foi resgatado ainda nos primeiros meses de vida e precisou passar por quase dois anos de preparação antes de conquistar a…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/encontrado-a-beira-da-morte-apos-fugir-de-queimadas-filhote-de-onca-enfrenta-jornada-de-quase-dois-anos-e-conquista-a-liberdade-na-amazonia/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:18",
+"t": "IBGE abre processo seletivo com mais de 700 vagas temporárias no interior de SP, veja como se inscrever",
+"p": "O Instituto Brasileiro de Geografia e Estatística (IBGE) está com inscrições abertas para a contratação temporária de recenseadores que atuarão no 12º Censo Agropecuário, Florestal e Aquícola. Há vagas disponíveis para municípios nas regiões de Bauru, Marília, Sorocaba, Jundiaí, São José do Rio Preto, Araçatuba,…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Araçatuba",
+"Sorocaba",
+"Jundiaí",
+"Bauru"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/ibge-abre-processo-seletivo-com-mais-de-700-vagas-temporarias-no-interior-de-sp-veja-como-se-inscrever/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "08:15",
+"t": "Reincidente no crime, homem é preso com drogas pela Dise em Marília",
+"p": "Mais de 500 porções de entorpecentes escondidas foram apreendidas pela equipe da Polícia Civil na zona oeste de Marília.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/reincidente-no-crime-homem-e-preso-com-drogas-pela-dise-em-marilia/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "08:14",
@@ -115,6 +399,20 @@
 },
 {
 "d": "2026-11-17",
+"h": "07:33",
+"t": "Guarujá inicia operação educativa do novo estacionamento rotativo com 2 mil vagas distribuídas em 64 vias da cidade",
+"p": "A Prefeitura de Guarujá começou, no último dia 16, a operação do sistema municipal de estacionamento rotativo. Batizado como Roda Guarujá, nesta primeira etapa o projeto funcionará em caráter educativo e terá implementação definitiva em 14 de dezembro. A empresa Rizzo Park operará o sistema. Segundo a prefeitura, a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/guaruja-inicia-operacao-educativa-do-novo-estacionamento-rotativo-com-2-mil-vagas-distribuidas-em-64-vias-da-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-17",
 "h": "07:23",
 "t": "Advogadas são alvo de operação por golpe de R$ 800 mil contra filho de Lula",
 "p": "Polícia Civil cumpre 17 mandados e investiga advogadas suspeitas de estelionato, falsificação de documentos e lavagem de dinheiro",
@@ -137,6 +435,21 @@
 ],
 "src": "Agência Brasil",
 "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-34-milhoes-nesta-terca-feira",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "07:12",
+"t": "Morador de Praia Grande acerta os 15 números da Lotofácil e fatura R$ 696 mil em prêmio dividido",
+"p": "O concurso 3.831 premiou um morador de Praia Grande, no litoral de São Paulo. O sortudo acertou os 15 números da modalidade e levou para casa R$ 696.133,39. A aposta foi feita por meio dos canais digitais. Além dele, um morador de Brasília também faturou a mesma quantia ao acertar todas as dezenas. Agora, a […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Praia Grande",
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/morador-de-praia-grande-acerta-os-15-numeros-da-lotofacil-e-fatura-r-696-mil-em-premio-dividido/",
 "auto": true
 },
 {
@@ -165,6 +478,34 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/calor-vai-aumentar-ou-vem-chuva-veja-como-fica-o-tempo-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "07:00",
+"t": "Obituário | Falecimentos registrados nesta terça-feira (17/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta terça-feira, dia 17 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-terca-feira-17-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "07:00",
+"t": "Homem é preso por com variadas drogas e dinheiro em Garça",
+"p": "Entorpecentes apreendidos pela PM em Garça Ação da Polícia Militar no bairro Cavalcante contou com apoio de cão farejador e resultou na apreensão de porções de entorpecentes.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Garça"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-e-preso-por-com-variadas-drogas-e-dinheiro-em-garca/",
 "auto": true
 },
 {
@@ -54776,349 +55117,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/automotor/honda-revela-nova-cg-160-2027-com-mudancas-na-versao-mais-barata-novos-equipamentos-e-precos-para-o-brasil/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "21:15",
-"t": "Tabela SUS Paulista representa quase 70% dos repasses a hospitais municipais do Grande ABC",
-"p": "Gestão Tarcísio de Freitas enviou para cinco das sete cidades, em três meses, o total de R$ 48.595.798 ante os R$ 69.749.609 da União",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366329/tabela-sus-paulista-representa-quase-70-dos-repasses-a-hospitais-municipais-do-grande-abc",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "21:00",
-"t": "Farmácia Popular funciona como proteção financeira contra endividamento de famílias vulneráveis",
-"p": "A gratuidade de 100% dos medicamentos do programa Farmácia Popular atua como blindagem financeira para o orçamento das famílias brasileiras de menor renda. Desde a eliminação do copagamento pelo governo federal em fevereiro de 2025, a distribuição integral de insumos para doenças crônicas neutraliza o risco de…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/farmacia-popular-funciona-como-protecao-financeira-contra-endividamento-de-familias-vulneraveis/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "20:45",
-"t": "Boulos e Tarcísio divergem sobre aumento do ICMS do diesel: \"Lamentável\"",
-"p": "No último dia 27, governos estaduais aprovaram reajuste do ICMS sobre combustíveis a partir de 1º de fevereiro de 2027",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/boulos-e-tarcisio-divergem-sobre-aumento-do-icms-do-diesel-lamentavel",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "20:40",
-"t": "Policiais militares resgatam cachorro preso em bueiro",
-"p": "Uma ação realizada por uma equipe do 49º Batalhão de Polícia Militar do Interior (BPM/I) resultou no resgate de um cachorro de pequeno porte que estava preso no interior de um bueiro no bairro Jardim Tarumã, em Jundiaí. A ocorrência foi registrada na última sexta-feira (30), quando os agentes patrulhavam a região e…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí",
-"Tarumã"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policiais-militares-resgatam-cachorro-preso-em-bueiro/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "20:23",
-"t": "Meteorito raro que vale quase R$ 30 mil por grama supera o preço do ouro e atrai caçadores mas lei proíbe dono de vender a pedra no mercado",
-"p": "Um único grama de meteorito raro pode custar até 5 mil euros (cerca de R$ 29,8 mil), e superar em dezenas de vezes o preço do ouro. O valor elevado tem impulsionado o mercado de rochas espaciais e atraído caçadores que percorrem regiões isoladas em busca de fragmentos com potencial científico e comercial. O…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/meteorito-raro-que-vale-quase-r-30-mil-por-grama-supera-o-preco-do-ouro-e-atrai-cacadores-mas-lei-proibe-dono-de-vender-a-pedra-no-mercado/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "20:15",
-"t": "Confira as novas regras do uso do vale-refeição (VR) e vale-alimentação (VA)",
-"p": "As novas regras também estabelecem limites para as taxas cobradas dos estabelecimentos comerciais e reduzem o prazo para o repasse dos valores das vendas.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/mudancas-nas-regras-do-vale-refeicao-e-vale-alimentacao/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "19:30",
-"t": "Cacau Show oferece vagas temporárias em São Paulo, Minas Gerais e Rio de Janeiro",
-"p": "Processo seletivo conduzido pela Carpediem Consultoria busca profissionais com ensino médio completo para atuar no atendimento ao público e na organização das lojas",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4365876/cacau-show-oferece-vagas-temporarias-em-sao-paulo-minas-gerais-e-rio-de-janeiro",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "19:25",
-"t": "Homem tenta cruzar o mundo sem pegar avião, é assaltado no Brasil após 90 mil km e é forçado a quebrar meta de ‘zero voos’ para não perder documentários",
-"p": "O ambientalista e cineasta alemão David Bossek decidiu atravessar os sete continentes sem recorrer ao transporte aéreo. Iniciada em 2024, a expedição ONE PLANET prevê quatro anos de deslocamentos por terra e mar, com o objetivo de medir e compensar as emissões de carbono geradas durante o percurso. Até outubro de…",
-"tema": "Segurança",
-"s": "anunciado",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/homem-tenta-cruzar-o-mundo-sem-pegar-aviao-e-assaltado-no-brasil-apos-90-mil-km-e-e-forcado-a-quebrar-meta-de-zero-voos-para-nao-perder-documentarios/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "19:06",
-"t": "Homem é atropelado na Rodovia Euclides da Cunha e socorrido em estado grave em Fernandópolis",
-"p": "Um homem de 28 anos ficou ferido após ser atropelado por um carro na noite deste sábado (31), em um trecho da Rodovia Euclides da Cunha (SP-320), no município de Fernandópolis. O acidente ocorreu no sentido que leva a Jales, na altura entre os bairros Paulistano e Jardim Ipanema. A vítima foi localizada pelos…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Fernandópolis",
-"Cunha",
-"Jales"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/homem-e-atropelado-na-rodovia-euclides-da-cunha-e-socorrido-em-estado-grave-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "19:06",
-"t": "Idoso de 74 anos sofre parada cardiorrespiratória e morre em bar no Jardim do Trevo em Fernandópolis",
-"p": "Um idoso de 74 anos faleceu na noite deste sábado (31) após passar mal enquanto frequentava um estabelecimento comercial no bairro Jardim do Trevo, em Fernandópolis. As equipes de emergência foram acionadas para o local, mas não conseguiram reverter o quadro de saúde do aposentado. De acordo com as informações…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/idoso-de-74-anos-sofre-parada-cardiorrespiratoria-e-morre-em-bar-no-jardim-do-trevo-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "19:00",
-"t": "O custo da limpeza de bueiros em São Paulo: como são calculados os valores das limpezas pela Prefeitura e o que é feito",
-"p": "A limpeza e a desobstrução de bueiros, galerias pluviais e bocas de lobo na cidade de São Paulo não geram qualquer tipo de cobrança direta ou taxa para o morador. Trata-se de um serviço público essencial prestado pelas 32 Subprefeituras paulistanas e custeado integralmente pela arrecadação de impostos municipais.…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/o-custo-da-limpeza-de-bueiros-em-sao-paulo-como-sao-calculados-os-valores-das-limpezas-pela-prefeitura-e-o-que-e-feito/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "18:51",
-"t": "PRF recupera carro roubado que circulava com placas clonadas em Rio Preto",
-"p": "A Polícia Rodoviária Federal (PRF) recuperou, na tarde deste sábado (31/10), um VW Polo com placas clonadas que circulava pelo Centro de Rio Preto. O veículo tinha registro de roubo na cidade de São Paulo, ocorrido em 18 de julho de 2026. Por volta das 15h30, os policiais receberam informações de uma análise de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo",
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/prf-recupera-carro-roubado-que-circulava-com-placas-clonadas-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "18:36",
-"t": "Entenda como é tomada a decisão da atualização do ICMS dos combustíveis",
-"p": "A atualização do ICMS sobre combustíveis não é uma decisão isolada de São Paulo. Os novos valores foram definidos em conjunto pelos estados e pelo Distrito Federal no Conselho Nacional de Política Fazendária (Confaz) e terão aplicação em todo o país a partir de 1º de fevereiro de 2027. O ICMS é cobrado por litro […]",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/entenda-como-e-tomada-a-decisao-da-atualizacao-do-icms-dos-combustiveis/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "18:32",
-"t": "VÍDEO: avião com nove pessoas cai em área residencial e explode perto de carros que passavam por avenida",
-"p": "Um avião particular com nove pessoas a bordo caiu em uma área residencial de West Palm Beach, ao norte de Miami, nos Estados Unidos. Segundo o secretário de Transportes norte-americano, Sean Duffy, todos os ocupantes morreram. A aeronave, um Learjet 60, havia decolado do aeroporto de Austin, no Texas, às 9h36, no…",
-"tema": "Política",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/aviao-com-nove-pessoas-cai-em-area-residencial-e-explode-perto-de-carros-que-passavam-por-avenida/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "18:13",
-"t": "Resultado da Mega-Sena: apostas de 9 cidades de SP ganham na loteria; veja os números",
-"p": "Concurso 3.080 da Mega-Sena foi sorteado neste domingo (1º); prêmio principal subiu para R$ 46 milhões",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/resultado-da-mega-sena-apostas-de-9-cidades-de-sp-ganham-na-loteria-veja-os-numeros/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "18:06",
-"t": "Idosa de 111 anos com 15 filhos, 50 netos, 88 bisnetos e 52 tataranetos relata quais hábitos simples a fizeram ter saúde: “nunca fiquei doente”",
-"p": "A mineira Eunice Anício da Silveira completou 111 anos no último dia 21 de outubro. Ela segue sendo um exemplo de longevidade e chamou a atenção pelos seus hábitos simples na rotina. No decorrer de sua vida ela teve 15 filhos, 50 netos, 88 bisnetos e 52 tataranetos. Sua história ganhou destaque em veículos como […]",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/idosa-de-111-anos-com-15-filhos-50-netos-88-bisnetos-e-52-tataranetos-relata-quais-habitos-simples-a-fizeram-ter-saude-nunca-fiquei-doente/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "18:00",
-"t": "Nadador fica ferido após ser atingido por embarcação no Canal de Bertioga",
-"p": "Arquivo/Prefeitura de Bertioga Um nadador ficou ferido após ser atingido por uma embarcação na manhã deste domingo (1º), no Canal de Bertioga.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/nadador-fica-ferido-apos-ser-atingido-por-embarcacao-no-canal-de-bertioga/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "18:00",
-"t": "Dupla passa atirando de moto e mata jovem em São Vicente",
-"p": "Divulgação/Polícia Civil Um homem de 22 anos morreu após ser baleado na noite de sábado (31) no Jóquei Clube, em São Vicente, no litoral de São Paulo.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Vicente",
-"São Paulo"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/dupla-passa-atirando-de-moto-e-mata-jovem-em-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "17:56",
-"t": "GCM é investigado por violência doméstica contra a esposa no interior de SP",
-"p": "Suspeito teria apontado a própria arma para o rosto da mulher, que relatou agressões. Caso é apurado pela Corregedoria da GCM de Mairinque",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Mairinque"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/gcm-e-investigado-por-violencia-domestica-contra-a-esposa-no-interior-de-sp",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "17:48",
-"t": "Frente fria deve derrubar temperaturas e mudar o tempo em novembro em SP",
-"p": "Combinação da frente fria com umidade da Amazônia afasta ondas de calor e aumenta frequência de pancadas de chuva no estado",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-deve-derrubar-temperaturas-e-mudar-o-tempo-em-novembro-em-sp/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "17:35",
-"t": "Prefeitura de SP promove vacinação antirrábica e microchipagem para pets",
-"p": "Capital paulista promove vacinação contra raiva para cães e gatos de 7 a 14 de novembro. Campanha também oferece identificação por microchip",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/prefeitura-de-sp-promove-vacinacao-antirrabica-e-microchipagem-para-pets",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "17:25",
-"t": "Idoso de 74 anos sofre parada cardiorrespiratória e morre em bar no Jardim do Trevo em Fernandópolis",
-"p": "Um idoso de 74 anos faleceu na noite deste sábado (31) após passar mal enquanto frequentava um estabelecimento comercial no bairro Jardim do Trevo, em Fernandópolis. As equipes de emergência foram acionadas para o local, mas não conseguiram reverter o quadro de saúde do aposentado. De acordo com as informações…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/idoso-de-74-anos-sofre-parada-cardiorrespiratoria-e-morre-em-bar-no-jardim-do-trevo-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "17:21",
-"t": "Homem é atropelado na Rodovia Euclides da Cunha e socorrido em estado grave em Fernandópolis",
-"p": "Um homem de 28 anos ficou ferido após ser atropelado por um carro na noite deste sábado (31), em um trecho da Rodovia Euclides da Cunha (SP-320), no município de Fernandópolis. O acidente ocorreu no sentido que leva a Jales, na altura entre os bairros Paulistano e Jardim Ipanema. A vítima foi localizada pelos…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Fernandópolis",
-"Cunha",
-"Jales"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-e-atropelado-na-rodovia-euclides-da-cunha-e-socorrido-em-estado-grave-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "17:11",
-"t": "Fuvest 2027 traz ‘Stranger Things’, Bad Bunny e escala 6×1 na 1ª fase; veja temas da prova",
-"p": "Vestibular da USP abordou debate sobre jornada de trabalho, música de Legião Urbana e manobra de Sandro Dias; gabarito da Fuvest sai às 19h",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/fuvest-2027-traz-stranger-things-bad-bunny-e-escala-6x1-na-1a-fase-veja-temas-da-prova/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "17:00",
-"t": "Frente fria deve mudar tempo em São Paulo e derrubar temperaturas após dias de calor e chuva no Estado",
-"p": "A primeira semana de novembro será marcada por mudanças no tempo em São Paulo. Depois de dias de calor e pancadas de chuva, a chegada de uma nova frente fria deve aumentar as condições para temporais na quinta-feira (5/11) e provocar queda nas temperaturas a partir de sexta-feira (6/11). Nesta segunda-feira (2/11),…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/frente-fria-deve-mudar-tempo-em-sao-paulo-e-derrubar-temperaturas-apos-dias-de-calor-e-chuva-no-estado/",
 "auto": true
 }
 ]
