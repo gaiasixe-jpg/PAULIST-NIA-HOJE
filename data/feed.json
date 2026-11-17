@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T04:28:16-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-17T06:10:38-03:00",
+"novos_nesta_coleta": 17,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,112 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "06:02",
+"t": "Curso de preparo de panetones capacita moradores de Fernandópolis para gerar renda extra no Natal",
+"p": "Com a aproximação das festas de fim de ano e o consequente aumento na procura por itens típicos natalinos, a produção artesanal de panetones surge como uma excelente alternativa para quem busca complementar o orçamento doméstico. Em Fernandópolis, uma nova turma de moradores participa de um curso gratuito de…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/curso-de-preparo-de-panetones-capacita-moradores-de-fernandopolis-para-gerar-renda-extra-no-natal/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "06:01",
+"t": "Jales realiza evento “Um Dia de Herói” com aulas de segurança, cidadania e arrecadação de alimentos",
+"p": "Crianças e famílias de Jales viveram um fim de semana diferente com a realização do projeto “Um Dia de Herói”, promovido pelo Centro de Educação Pré-Militar (CEPM) no sábado (14) e no domingo (15). Realizada no CPP da cidade e integrada por alunos de quatro a doze anos vindas de oito unidades da Rede Municipal […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jales-realiza-evento-um-dia-de-heroi-com-aulas-de-seguranca-cidadania-e-arrecadacao-de-alimentos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "06:01",
+"t": "Escola municipal de Jales celebra Dia A da Alfabetização com atividades literárias e participação das famílias",
+"p": "Para marcar o Dia A da Alfabetização, celebrado na última sexta-feira (13), a Escola Municipal Profª Elza Pirro Viana promoveu uma programação especial dedicada a incentivar o gosto pela leitura e pela escrita entre os estudantes. A iniciativa integra uma ampla mobilização estadual voltada ao fortalecimento das…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/escola-municipal-de-jales-celebra-dia-a-da-alfabetizacao-com-atividades-literarias-e-participacao-das-familias/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "06:01",
+"t": "Prefeitura de Jales anuncia ganhadores de duas motos 0 km e 150 vales-compras no primeiro sorteio do IPTU Premiado",
+"p": "A Prefeitura de Jales divulgou oficialmente, no início da tarde desta segunda-feira (16), a relação dos 152 contribuintes contemplados na primeira etapa da campanha IPTU Premiado 2026. O grande destaque desta fase ficou para as moradoras Franciele Da Silva Galante e Patricia Parioso Colturato Sanches, que faturaram…",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-jales-anuncia-ganhadores-de-duas-motos-0-km-e-150-vales-compras-no-primeiro-sorteio-do-iptu-premiado/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "06:00",
+"t": "Programa Qualifica SP Empreenda abre 500 vagas em cursos online gratuitos de empreendedorismo",
+"p": "Moradores do estado de São Paulo que já possuem um negócio ou desejam tirar um projeto do papel têm até esta sexta-feira (20) para se inscrever em seis novos cursos gratuitos oferecidos pelo programa Qualifica SP Empreenda. Promovida pela Secretaria de Desenvolvimento Econômico (SDE) em parceria com o Grupo…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/programa-qualifica-sp-empreenda-abre-500-vagas-em-cursos-online-gratuitos-de-empreendedorismo/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "06:00",
+"t": "Governo de SP abre consulta pública para regulamentar gestão de lixo em grandes eventos",
+"p": "O governo do Estado de São Paulo deu início nesta segunda-feira (16) a uma consulta pública para definir regras mais rígidas sobre o descarte e a destinação de resíduos produzidos durante grandes eventos, como shows, festivais, feiras e competições esportivas. Elaborada pela Secretaria de Meio Ambiente,…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-abre-consulta-publica-para-regulamentar-gestao-de-lixo-em-grandes-eventos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "05:43",
+"t": "Empresário é preso suspeito de enviar bomba escondida em videogame para loja concorrente",
+"p": "A Polícia Civil prendeu nesta segunda-feira (16), em Santo André, na Grande São Paulo, o empresário Everton Yoshizumi Lima, de 39 anos, suspeito de arquitetar um atentado contra um concorrente comercial utilizando um explosivo oculto no interior de um console de videogame. De acordo com a investigação conduzida…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santo André"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/empresario-e-preso-suspeito-de-enviar-bomba-escondida-em-videogame-para-loja-concorrente/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "05:00",
+"t": "Câmara do Rio mantém medalha Chiquinha Gonzaga a Eduarda Campopiano",
+"p": "Divulgação A Câmara do Rio de Janeiro manteve a Medalha Chiquinha Gonzaga concedida à deputada estadual eleita por São Paulo Eduarda Campopiano (PL).",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/camara-do-rio-mantem-medalha-chiquinha-gonzaga-a-parlamentar-antifeminista/",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "02:10",
@@ -54903,121 +55009,6 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/capitao-da-policia-militar-morre-aos-41-anos-em-colisao-frontal-na-regiao-de-pereira-barreto/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:36",
-"t": "Embarcação atinge nadador no canal de Bertioga e deixa local sem prestar socorro",
-"p": "Homem sofreu ferimento profundo na coxa esquerda e cortes nas pernas; embarcação não foi identificada e vítima foi levada ao hospital",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/sem-categoria/embarcacao-atinge-nadador-no-canal-de-bertioga-e-deixa-local-sem-prestar-socorro.html",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:35",
-"t": "Novembro começa com calor e pancadas de chuva em São Paulo",
-"p": "Divulgação/PMS Os primeiros dias de novembro devem trazer calor seguido de pancadas de chuvas. Para este domingo (1º), a previsão do tempo é de sol.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/novembro-comeca-com-calor-e-pancadas-de-chuva-em-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:34",
-"t": "Enfermeira de 44 anos morre em colisão frontal entre carro e caminhão na região de Magda",
-"p": "Naísa de Cássia Mateus trabalhava na rede municipal de saúde de Magda e residia em General Salgado; acidente ocorreu na madrugada de sábado, na Rodovia Feliciano Sales Cunha Uma colisão frontal entre um automóvel e um caminhão provocou a morte da enfermeira Naísa de Cássia Mateus, de 44 anos, na madrugada de sábado…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"General Salgado",
-"Magda"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/enfermeira-de-44-anos-morre-em-colisao-frontal-entre-carro-e-caminhao-na-regiao-de-magda/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:32",
-"t": "Colisão entre carro e moto deixa um morto e um ferido na rodovia Rio-Santos, em Bertioga",
-"p": "Acidente ocorreu na manhã deste domingo (1º) na entrada do bairro Caiubura; colisão provocou interdição e inversão de faixa na rodovia",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/colisao-entre-carro-e-moto-deixa-um-morto-e-um-ferido-na-rodovia-rio-santos-em-bertioga.html",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:23",
-"t": "Interdição na zona sul de SP afeta comércios e gera reclamações de moradores e pedestres",
-"p": "Divulgação/Governo de SP Comerciantes, moradores e trabalhadores da Chácara Santo Antônio, na zona sul de São Paulo, reclamam da interdição de uma passagem.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/interdicao-na-zona-sul-de-sp-afeta-comercios-e-gera-reclamacoes-de-moradores-e-pedestres/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:22",
-"t": "Enfermeira vítima de acidente com caminhão é sepultada na região de Rio Preto",
-"p": "Naísa de Cássia Mateus, de 44 anos, trabalhava no Centro de Saúde de Magda, cidade da região de Rio Preto",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Magda",
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/enfermeira-vitima-de-acidente-com-caminhao-e-sepultada-na-regiao-de-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:21",
-"t": "Festa das Orquídeas terá gastronomia, artesanato e participação de entidades em Várzea Paulista",
-"p": "Foto: Prefeitura de Várzea Paulista Evento será realizado nos dias 27, 28 e 29 de novembro, na Praça CEU, com entrada gratuita e atrações para toda a família",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Várzea Paulista"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/festa-das-orquideas-2026-varzea-paulista/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "12:19",
-"t": "Jorge Seba sai em defesa de Tarcísio e pede união após divergências no grupo de Bolsonaro",
-"p": "Prefeito de Votuporanga destaca investimentos estaduais, reafirma confiança no governador e defende reconhecimento de sua participação na campanha presidencial de Flávio Bolsonaro O prefeito de Votuporanga, Jorge Seba, manifestou publicamente apoio ao governador de São Paulo, Tarcísio de Freitas, em carta aberta…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Votuporanga",
-"São Paulo"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/jorge-seba-sai-em-defesa-de-tarcisio-e-pede-uniao-apos-divergencias-no-grupo-de-bolsonaro/",
 "auto": true
 }
 ]
