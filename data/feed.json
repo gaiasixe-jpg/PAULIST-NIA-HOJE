@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-16T22:19:59-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-16T23:56:24-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -23,6 +23,7 @@
 "Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
+"Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
 "Prefeitura de Registro",
@@ -46,13 +47,177 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Prefeitura de Presidente Prudente",
-"erro": "The read operation timed out"
 }
 ],
 "itens": [
+{
+"d": "2026-11-16",
+"h": "23:43",
+"t": "Motociclista de 34 anos morre após grave colisão com carro em Valentim Gentil",
+"p": "Um grave acidente de trânsito tirou a vida de um motociclista de 34 anos no final da tarde desta segunda-feira (16), em Valentim Gentil, no interior de São Paulo. A vítima foi identificada como Jucevaldo Pereira de Castro, que não resistiu à gravidade dos ferimentos após colidir contra um automóvel na via que dá…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Valentim Gentil"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/motociclista-de-34-anos-morre-apos-grave-colisao-com-carro-em-valentim-gentil/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:43",
+"t": "Casal suspeito de furto em Fernandópolis deixa delegacia pela porta da frente horas após ser detido pela PM",
+"p": "O desfecho de uma ocorrência policial chamou a atenção da população de Fernandópolis nesta segunda-feira (16), após um homem e uma mulher, detidos pela Polícia Militar por suspeita de envolvimento em um furto a residência, serem vistos deixando a Delegacia de Polícia pela porta da frente poucas horas depois de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/casal-suspeito-de-furto-em-fernandopolis-deixa-delegacia-pela-porta-da-frente-horas-apos-ser-detido-pela-pm/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:43",
+"t": "Vereadores Carlos Cabral e Daniel Domênicis repudiam episódio de violência contra servidora pública no centro da cidade",
+"p": "O episódio de violência registrado na manhã desta segunda-feira (16) na Rua São Paulo, na região central de Fernandópolis, gerou forte repercussão e manifestações públicas de repúdio por parte de parlamentares da Câmara Municipal. A ocorrência envolveu a servidora pública municipal e colaboradora da Fundação…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/vereadores-carlos-cabral-e-daniel-domenicis-repudiam-episodio-de-violencia-contra-servidora-publica-no-centro-da-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:37",
+"t": "Polícia prende suspeitos de matar boliviano e descartar corpo em mercado",
+"p": "Corpo de boliviano foi encontrado pela Polícia em meio a material reciclável em um estacionamento de um supermercado na zona leste de SP",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-prende-suspeitos-de-matar-boliviano-e-descartar-corpo-em-mercado",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:36",
+"t": "Lotofácil hoje (16/11): veja dezenas, resultado e ganhadores",
+"p": "A Lotofácil realizou nesta segunda-feira, 16 de novembro, o sorteio do concurso 3831, com prêmio estimado em R$ 2 milhões. A extração aconteceu às 21h, em São Paulo, com transmissão ao vivo pelo canal oficial da Caixa no YouTube. Dessa vez, foram dois ganhadores. O sorteio anterior terminou com uma aposta premiada…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/lotofacil-hoje-16-11-veja-dezenas-resultado-e-ganhadores/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:35",
+"t": "Força-tarefa em Guarujá recupera 14 trechos de ruas com quase 200 toneladas de asfalto e vistoria mais de 5 mil imóveis contra a dengue; veja onde",
+"p": "A Prefeitura de Guarujá realizou uma força-tarefa nos bairros Morrinhos I, II e III e Jardim Brasil para reforçar os serviços de infraestrutura, zeladoria e combate à dengue. Por meio do programa GuaruJá Limpeza, diferentes secretarias concentraram equipes na região e promoveram intervenções que incluíram…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/forca-tarefa-em-guaruja-recupera-14-trechos-de-ruas-com-quase-200-toneladas-de-asfalto-e-vistoria-mais-de-5-mil-imoveis-contra-a-dengue-veja-onde/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:32",
+"t": "Aos 78 anos, aposentada gaúcha faz o Enem após AVC, chega à etapa final da EJA e planeja cursar Pedagogia, Psicologia ou Biblioteconomia na universidade",
+"p": "Aos 78 anos, a aposentada gaúcha Loiracy de Jesus Munhões Casal voltou a uma sala de prova para fazer o Exame Nacional do Ensino Médio (Enem). No domingo, 15 de novembro de 2026, ela participou do segundo e último dia de aplicação e se juntou a mais de cinco milhões de candidatos, segundo reportagem publicada […]",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/aos-78-anos-aposentada-gaucha-faz-o-enem-apos-avc-chega-a-etapa-final-da-eja-e-planeja-cursar-pedagogia-psicologia-ou-biblioteconomia-na-universidade/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:24",
+"t": "Quatro pôneis anões são levados para dentro da ala de psiquiatria e acabam sendo muito bem recebidos pelos pacientes na Áustria",
+"p": "Um paciente descrito como introvertido segura a guia e conduz um pônei anão pelo corredor da estação quando, de repente, começa a falar com o animal confiante. A cena faz parte da visita de quatro pôneis anões à ala de psiquiatria da clínica Donaustadt, hospital situado em Donaustadt, distrito no leste de Viena, a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/quatro-poneis-anoes-sao-levados-para-dentro-da-ala-de-psiquiatria-e-acabam-sendo-muito-bem-recebidos-pelos-pacientes-na-austria/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "23:10",
+"t": "Sem lugar para dormir, homem de 49 anos passa noites caminhando pelas ruas de cidade e faz relato comovente: “Isso me mata por dentro”",
+"p": "Homem de 49 anos não sabe onde vai dormir, passa noites caminhando e relata o sofrimento de viver sem moradia própria.",
+"tema": "Habitação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/sem-lugar-para-dormir-homem-de-49-anos-passa-noites-caminhando-pelas-ruas-de-cidade-isso-me-mata-por-dentro/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "22:59",
+"t": "Apenas uma família mora em edifício inteiro de 41 apartamentos após compradores assinarem consentimento para aluguel turístico",
+"p": "O prefeito de Dubrovnik, cidade murada e porto turístico no extremo sul do litoral da Croácia, levou ao Parlamento croata o retrato de um edifício residencial recém-construído com 41 apartamentos no qual, hoje, mora de fato apenas uma família. Segundo o relato apresentado na discussão do projeto final da Lei da…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/apenas-uma-familia-mora-em-edificio-inteiro-de-41-apartamentos-apos-compradores-assinarem-consentimento-para-aluguel-turistico/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "22:49",
+"t": "Trabalhadores encontram altar precioso escondido atrás de portas muradas ao remover argamassa antiga durante reforma de castelo na Eslováquia",
+"p": "Os operários retiravam camada por camada a argamassa antiga quando o som oco sob as ferramentas mudou o ritmo da obra no interior do castelo. Em vez de parede maciça, as mãos encontraram o contorno de portas que tinham sido emparedadas há muito tempo, e atrás delas surgiu um altar precioso mantido fora de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/trabalhadores-encontram-altar-precioso-escondido-atras-de-portas-muradas-ao-remover-argamassa-antiga-durante-reforma-de-castelo-na-eslovaquia/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "22:15",
+"t": "Árvore ‘Frankenstein’ tem pêssegos, ameixas e outras frutas no mesmo tronco, e existe graças a uma técnica agrícola que existe há séculos",
+"p": "Uma única árvore capaz de produzir pêssegos, ameixas, damascos, nectarinas e cerejas parece impossível. O artista e professor norte-americano Sam Van Aken, porém, transformou essa ideia em realidade com a Tree of 40 Fruit, uma obra viva que reúne dezenas de variedades de frutas de caroço em um só exemplar. Para…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/arvore-frankenstein-tem-pessegos-ameixas-e-outras-frutas-no-mesmo-tronco-e-existe-gracas-a-uma-tecnica-agricola-que-existe-ha-seculos/",
+"auto": true
+},
+{
+"d": "2026-11-16",
+"h": "22:11",
+"t": "Câmara de Mauá é a única do Estado a atingir 100% em índice de transparência",
+"p": "Legislativo conquistou o Selo Diamante",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369188/camara-de-maua-e-a-unica-do-estado-a-atingir-100-em-indice-de-transparencia",
+"auto": true
+},
 {
 "d": "2026-11-16",
 "h": "22:00",
@@ -54854,187 +55019,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/nacional/brasil/onda-de-tempestades-deve-atingir-tres-estados-nesse-inicio-de-novembro-com-risco-de-granizo-e-vendavais/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:58",
-"t": "Criança é resgatada após prender dedo em roda de carro na região de Rio Preto",
-"p": "Equipes precisaram cortar a roda do estepe para retirar o dedo da criança com segurança",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/crianca-e-resgatada-apos-prender-dedo-em-roda-de-carro-na-regiao-de-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:49",
-"t": "Falta de água: bairros têm alerta de falta de água hoje a amanhã; veja locais afetados",
-"p": "Falta de água afeta bairros de Campinas neste domingo (1º) por causa de reparos emergenciais da Sanasa; na segunda-feira (2), serviço programado também interrompe o abastecimento",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-agua-bairros-tem-alerta-de-falta-de-agua-hoje-a-amanha-veja-locais-afetados/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:47",
-"t": "Comer maçã todos os dias faz bem à saúde? Conheça 7 benefícios investigados pela ciência",
-"p": "Foto: Imagem ilustrativa/Tribuna de Jundiaí Rica em fibras e compostos antioxidantes, a fruta pode contribuir para a saúde do intestino, do coração e do metabolismo; estudos mostram quais benefícios já têm evidências e quais ainda estão sendo investigados.",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/saude/comer-maca-todos-os-dias-beneficios/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:42",
-"t": "Novembro em SP começa com chuva e calor; veja previsão completa",
-"p": "",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366264/novembro-em-sp-comeca-com-chuva-e-calor-veja-previsao-completa",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:34",
-"t": "Em Jundiaí, esporte e convivência ajudam a construir novos caminhos no cuidado em saúde mental",
-"p": "Encontro reuniu cerca de 80 participantes para jogar futebol, socializar e praticar convivência saudável - Foto: Prefeitura de Jundiaí Segunda edição do InterCaps reuniu cerca de 80 crianças e adolescentes atendidos por serviços de cinco cidades em uma programação de futebol e integração",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/esporte-convivencia-cuidado-saude-mental-jundiai-intercaps/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:30",
-"t": "Nova Ponte Jurubatuba prevê oito faixas, melhorias para ciclistas, novo contrato de quase R$ 60 milhões e deve destravar trânsito histórico na região",
-"p": "A Prefeitura de São Paulo fechou um novo contrato de R$ 57,9 milhões para a duplicação da Ponte Jurubatuba, na zona sul da capital, após a rescisão amigável de um acordo anterior, de R$ 67,1 milhões. A intervenção já teve entrega anunciada para maio de 2026, mas recebeu um novo prazo contratual de execução de […]",
-"tema": "Transporte",
-"s": "entregue",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mobilidade/duplicacao-da-ponte-jurubatuba-preve-oito-faixas-melhorias-para-ciclistas-novo-contrato-de-quase-r-60-milhoes-e-destrava-transito-historico-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:28",
-"t": "Mudanças climáticas e resiliência urbana: estamos preparados para os extremos do clima?",
-"p": "É preciso considerar a capacidade de uma cidade de atravessar períodos de estiagem prolongada e lidar com chuvas intensas.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/colunistas/mudancas-climaticas-e-resiliencia-urbana-estamos-preparados-para-os-extremos-do-clima/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:19",
-"t": "Sem rodas, sem portas e com lugar para apenas um agente, nova ‘viatura voadora’ de 102 km/h chega à polícia de uma universidade dos EUA para testar missões em áreas de difícil acesso",
-"p": "Foto: Reprodução @jetsonaero Batizada de Astro, aeronave elétrica com oito hélices pode atingir 102 km/h e voar por cerca de 20 minutos; uso em operações policiais ainda depende de autorização federal.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/curiosidades/viatura-voadora-policia-eua-102-km-h/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:13",
-"t": "Caminhão tomba na Rodovia Washington Luís e deixa motorista preso às ferragens",
-"p": "Um acidente grave foi registrado na manhã deste domingo (1º) na Rodovia Washington Luís (SP-310), no trecho que passa pelo município de Mirassol. Um caminhão acabou tombando na pista, mobilizando equipes de resgate e de sinalização de trânsito. De acordo com as primeiras informações apuradas no local, o condutor do…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Mirassol"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/caminhao-tomba-na-rodovia-washington-luis-e-deixa-motorista-preso-as-ferragens/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:10",
-"t": "Homem é preso suspeito de furtar três celulares no Hospital de Urgência de São Bernardo",
-"p": "Indivíduo se passava por paciente e foi flagrado por seguranças da unidade quando tentava pegar quarto aparelho",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366253/homem-e-preso-suspeito-de-furtar-tres-celulares-no-hospital-de-urgencia-de-sao-bernardo-",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:09",
-"t": "Obituário | Falecimentos registrados neste domingo em Marília e região",
-"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região neste domingo, dia 1º de novembro.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-domingo-em-marilia-e-regiao-5/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "10:03",
-"t": "Em Jundiaí, cuidado com a saúde feminina também acontece em grupo e perto de casa",
-"p": "Nem a chuva desanimou as participantes para a prática de Lian Gong no Parque do Cerrado, no Novo Horizonte - Foto: Prefeitura de Jundiaí Atividades promovidas pelas UBSs e Clínicas da Família incluem caminhadas, exercícios terapêuticos, rodas de conversa e encontros para fortalecer o bem-estar físico e emocional",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Novo Horizonte",
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/saude-da-mulher-jundiai-atividades-coletivas-autocuidado/",
-"auto": true
-},
-{
-"d": "2026-11-01",
-"h": "09:57",
-"t": "Volta a chover em São Paulo? Veja a previsão para os próximos dias",
-"p": "A chuva deu uma trégua para os paulistas, mas a instabilidade das condições metereológicas deve trazer novas pancadas a SP nos próximos dias",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/volta-a-chover-em-sao-paulo-veja-a-previsao-para-os-proximos-dias",
 "auto": true
 }
 ]
