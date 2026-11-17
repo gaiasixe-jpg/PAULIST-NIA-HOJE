@@ -3,6 +3,231 @@
 "itens": [
 {
 "d": "2026-11-17",
+"h": "15:00",
+"t": "Prefeito quer contratar empréstimo de R$ 50 milhões para a Saúde",
+"p": "Projeto enviado à Câmara prevê financiamento pela Caixa, com carência de 24 meses",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeito-quer-contratar-emprestimo-de-r-50-milhoes-para-a-saude/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:00",
+"t": "PM prende suspeito com armas e drogas no ‘Beco do Pneu’, em Santos",
+"p": "Divulgação/Polícia Militar A operação foi realizada na Avenida Brigadeiro Faria Lima, nas proximidades do local conhecido como “Beco do Pneu”, no bairro Rádio Clube.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/santos-baixada/pm-prende-suspeito-com-armas-e-drogas-no-beco-do-pneu-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "15:00",
+"t": "Penápolis inaugura poço profundo de mais de mil metros financiado pela Desenvolve SP",
+"p": "O município de Penápolis, situado a cerca de 480 quilômetros da capital paulista, deu um passo importante para assegurar a segurança hídrica de sua população com a entrada em funcionamento de um novo e potente poço profundo. Inaugurado no último dia 15 após aproximadamente três anos e meio de trabalhos, o…",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Penápolis",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/penapolis-inaugura-poco-profundo-de-mais-de-mil-metros-financiado-pela-desenvolve-sp/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:56",
+"t": "Sabesp atualiza visual de conta de água e esgoto para se adequar à reforma tributária",
+"p": "A Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) iniciou a emissão de suas faturas com um novo layout, disponível tanto na versão impressa quanto na digital. A alteração foi implementada para cumprir as novas exigências da legislação tributária e garantir maior transparência nos registros fiscais do…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/sabesp-atualiza-visual-de-conta-de-agua-e-esgoto-para-se-adequar-a-reforma-tributaria/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:54",
+"t": "4ª edição do concurso 'A Voz da Ilha Kids' anuncia vencedores e distribui R$5 mil em prêmios em Ilhabela",
+"p": "Final contou com 11 apresentações ao vivo; edição deste ano abriu inscrições para candidatos de outros municípios do litoral norte",
+"tema": "Eleições",
+"s": "anunciado",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/4-edicao-do-concurso-a-voz-da-ilha-kids-anuncia-vencedores-e-distribui-r-5-mil-em-premios-em-ilhabela.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:52",
+"t": "Mongaguá faz mutirão gratuito de Implanon e atende 42 mulheres no primeiro dia",
+"p": "Ação no Ambulatório de Saúde da Mulher também ofereceu testes rápidos para HIV, sífilis e hepatites; prefeitura prevê nova edição em dezembro",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Mongaguá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/mongagua/mongagua-faz-mutirao-gratuito-de-implanon-e-atende-42-mulheres-no-primeiro-dia.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:50",
+"t": "Várzea Paulista abre inscrições para curso gratuito de martelinho com turmas à tarde e à noite",
+"p": "Foto: *Imagem ilustrativa criada pelo Tribuna de Jundiaí com auxílio de inteligência artificial e direção criativa da equipe. Reprodução total ou parcial proibida sem autorização. Interessados devem ter pelo menos 18 anos e Ensino Fundamental; aulas começam no dia 3 de dezembro. Veja como se inscrever",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Várzea Paulista",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/curso-gratuito-martelinho-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:43",
+"t": "São Bernardo captura 16 escorpiões na Pauliceia; veja cuidados",
+"p": "Prefeitura monitora a presença dos animais na Pauliceia, onde relatório de 2021 já identificava foco de escorpião-amarelo",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369300/sao-bernardo-captura-16-escorpioes-na-pauliceia-veja-cuidados",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:37",
+"t": "URGENTE: Novo laudo dá NEGATIVO para Cryptosporidium em amostra de água de Itapeva",
+"p": "A prefeita de Itapeva, Adriana Duch Machado, acaba de anunciar nesta terça-feira (17) duas atualizações relacionadas à crise da água que afeta o município há cerca de dois meses: a redução nos casos de gastroenterite e o resultado negativo para o parasita Cryptosporidium em uma nova análise. Segundo a publicação, o…",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/laudo-negativo-cryptosporidium/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:35",
+"t": "Última edição do ano: saiba como aproveitar serviços durante Ação Cidadania em Praia Grande",
+"p": "Programação reúne secretarias municipais, atendimento da OAB, Procon e suporte do Grupamento Maria da Penha, no bairro Esmeralda",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/praiagrande/ultima-edicao-do-ano-saiba-como-aproveitar-servicos-durante-acao-cidadania-em-praia-grande.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:31",
+"t": "Colisão entre duas carretas é registrada no trevo de Cardoso",
+"p": "Um acidente de trânsito envolvendo duas carretas foi registrado na manhã desta terça-feira (17) no trevo de acesso ao município de Cardoso. De acordo com as informações obtidas no local, a batida aconteceu no momento em que um dos veículos pesados realizava a travessia da interseção rodoviária. Apesar da força do…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Cardoso"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/colisao-entre-duas-carretas-e-registrada-no-trevo-de-cardoso/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:30",
+"t": "Projeto de iluminação entre o Pontilhão da Água Vermelha e a rotatória do Uirapuru em Fernandópolis aguarda aval final para início das obras",
+"p": "Uma demanda histórica de motoristas e moradores de Fernandópolis está mais perto de virar realidade. O projeto para implantar iluminação pública no trecho que liga o Pontilhão da Água Vermelha à rotatória do Uirapuru já concluiu suas etapas técnicas e agora depende apenas de uma última liberação burocrática para…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/projeto-de-iluminacao-entre-o-pontilhao-da-agua-vermelha-e-a-rotatoria-do-uirapuru-em-fernandopolis-aguarda-aval-final-para-inicio-das-obras/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:26",
+"t": "Jundiaí utiliza mais de 57 toneladas de asfalto em operação de recuperação de ruas",
+"p": "Ação no Santa Gertrudes - Foto: Prefeitura de Jundiaí Com quatro equipes atuando simultaneamente, manutenção viária atende diferentes regiões da cidade conforme necessidades e solicitações dos moradores",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santa Gertrudes",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/operacao-tapa-buracos-jundiai-57-toneladas-asfalto/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:23",
+"t": "Podologia esportiva é tema de aula gratuita do programa Bertioga em Movimento nesta quinta-feira (19)",
+"p": "Encontro ocorre no Complexo Esportivo Pé N’Areia; atividade é aberta ao público e atende a iniciantes e corredores avançados",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/podologia-esportiva-e-tema-de-aula-gratuita-do-programa-bertioga-em-movimento-nesta-quinta-feira-19.html",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:20",
+"t": "MP arquiva denúncia contra empresário por falta de provas de discriminação",
+"p": "Denúncia sobre possíveis práticas de assédio eleitoral foi encaminhada ao Ministério Público do Trabalho",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mp-arquiva-denuncia-contra-empresario-por-falta-de-provas-de-discriminacao/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "14:16",
+"t": "Famerp e Fatec rebatem declaração de deputado sobre universidades",
+"p": "Paulo Bilynskyj (PL) afirmou, em evento da Acirp, que instituições de ensino superior formam “um monte de inúteis”",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/famerp-e-fatec-rebatem-declaracao-de-deputado-sobre-universidades/",
+"auto": true
+},
+{
+"d": "2026-11-17",
 "h": "14:10",
 "t": "Defesa Civil de Bertioga participa de capacitação da Operação El Niño 2026/2027",
 "p": "Treinamento estadual em Peruíbe reuniu nove cidades da Baixada Santista, para preparar o efetivo contra impactos climáticos extremos",
