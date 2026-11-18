@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T15:02:25-03:00",
-"novos_nesta_coleta": 31,
+"atualizado": "2026-11-18T16:04:02-03:00",
+"novos_nesta_coleta": 28,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,229 @@
 "itens": [
 {
 "d": "2026-11-18",
+"h": "16:02",
+"t": "Biometria facial: veja como a tecnologia está chegando a lojas e estabelecimentos",
+"p": "O medo de cair em golpes virtuais virou parte da rotina do brasileiro. Segundo o Fórum Brasileiro de Segurança Pública (FBSP), 83,2% das pessoas temem ser vítimas de fraudes por internet ou celular, e o receio acompanha os registros policiais, que somaram 2,26 milhões de ocorrências de estelionato em 2025, alta de…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/biometria-facial-veja-como-a-tecnologia-esta-chegando-a-lojas-e-estabelecimentos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:00",
+"t": "Praia Grande ganha mais 200 unidades habitacionais de interesse social",
+"p": "Fred Casagrande/Arquivo Prefeitura de Praia Grande Essas novas unidades habitacionais de Praia Grande devem começar a serem construídas no segundo trimestre de 2027.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/praia-grande-ganha-mais-200-unidades-habitacionais-de-interesse-social/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:00",
+"t": "Solange Freitas assume presidência do União Brasil em Santos",
+"p": "Divulgação/Alesp A deputada estadual Solange Freitas assumiu a presidência do diretório municipal do União Brasil em Santos.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/solange-freitas-assume-presidencia-do-uniao-brasil-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:50",
+"t": "Brasileiro com dois filhos pagava aluguel caro em Lisboa e decidiu comprar uma casa de apenas 1 euro na Itália; outros brasileiros seguiram o mesmo caminho e já representam 60% das compras recentes em uma pequena cidade ",
+"p": "Brasileiros trocam aluguel caro em Portugal por casas de 1 euro na Sicília Dinara Jane Rodrigues ajuda brasileiros a conquistarem a casa própria na Itália através do programa de casas a 1 euro ARQUIVO PESSOAL Brasileiros que vivem em Portugal respondem por 60% das vendas recentes de casas por 1 euro em Campofranco,…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/brasileiro-com-dois-filhos-pagava-aluguel-caro-em-lisboa-e-decidiu-comprar-uma-casa-de-apenas-1-euro-na-italia-outros-brasileiros-seguiram-o-mesmo-caminho-e-ja-representam-60-das-compras-recentes-em/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:50",
+"t": "UBS Golfinhos oferece acompanhamento gratuito para quem deseja parar de fumar em Caraguatatuba",
+"p": "Grupo de tabagismo reúne equipe multiprofissional em dez encontros quinzenais e mensais, com suportes clínico, nutricional e odontológico",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/ubs-golfinhos-oferece-acompanhamento-gratuito-para-quem-deseja-parar-de-fumar-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:39",
+"t": "Cobrança do estacionamento rotativo no Guarujá começa em 14 de dezembro",
+"p": "Projeto Roda Guarujá oferecerá cerca de 2 mil vagas; motoristas já podem baixar o aplicativo durante a atual fase informativa",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/cobranca-do-estacionamento-rotativo-no-guaruja-comeca-em-14-de-dezembro.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:38",
+"t": "Festa das Orquídeas terá passeios turísticos gratuitos em Várzea Paulista; saiba como participar",
+"p": "Foto: Prefeitura de Várzea Paulista Visitantes poderão conhecer três atrações da cidade nos dias 28 e 29 de novembro, com saídas às 11h e às 15h e vagas limitadas.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/passeios-turisticos-gratuitos-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:37",
+"t": "Professora levou alunos de escola pública para entrevistar mulheres quilombolas, transformou suas histórias em aulas e em uma peça e conquistou o 2º lugar em prêmio nacional que recebeu 3.916 projetos",
+"p": "Crédito: PC Pereira/ Governo da Bahia Estudantes de Iraquara, na Chapada Diamantina, entrevistaram mulheres quilombolas e levaram suas histórias à sala de aula e ao teatro. O projeto ficou em segundo lugar no eixo Direitos Humanos do Prêmio Educador Nota 10.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/professora-levou-alunos-de-escola-publica-para-entrevistar-mulheres-quilombolas-transformou-suas-historias-em-aulas-e-em-uma-peca-e-conquistou-o-2o-lugar-em-premio-nacional-que-recebeu-3-916-projetos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:30",
+"t": "Operadoras vão exigir biometria facial para ativar e manter chips de aparelhos; entenda o motivo e aprenda a fazer pelo celular",
+"p": "As operadoras de telefonia móvel passarão a exigir biometria facial para ativar novos chips e manter linhas já existentes no Brasil. A medida integra um novo pacote de segurança regulado pela Agência Nacional de Telecomunicações (Anatel) contra fraudes digitais. O objetivo principal da agência é fechar o cerco…",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/operadoras-vao-exigir-biometria-facial-para-ativar-e-manter-chips-de-aparelhos-entenda-o-motivo-e-aprenda-a-fazer-pelo-celular/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:30",
+"t": "Cubatão conquista a marca de 9 meses sem registrar mortes no trânsito urbano e reduz número de acidentes em mais de 31% em 2026",
+"p": "Cubatão, na Baixada Santista, passou os primeiros nove meses de 2026 sem registrar mortes em acidentes de trânsito nas vias urbanas. O resultado representa uma mudança em relação aos dois anos anteriores, quando o município contabilizou quatro óbitos no mesmo período. O levantamento considera as ocorrências…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Cubatão"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/cubatao-conquista-a-marca-de-9-meses-sem-registrar-mortes-no-transito-urbano-e-reduz-numero-de-acidentes-em-mais-de-31-em-2026/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:17",
+"t": "INSS muda regras em novembro e pode encerrar pedidos de auxílio-doença sem analisar o direito de quem faltar à perícia médica agendada",
+"p": "Quem solicita auxílio-doença ao Instituto Nacional do Seguro Social (INSS) precisa redobrar a atenção aos agendamentos de perícia médica. Uma nova portaria, em vigor desde 16 de novembro de 2026, estabelece que a ausência à avaliação pode resultar no encerramento do pedido sem que o instituto analise se o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/inss-muda-regras-em-novembro-e-pode-encerrar-pedidos-de-auxilio-doenca-sem-analisar-o-direito-de-quem-faltar-a-pericia-medica-agendada/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:15",
+"t": "Trasmontano prepara ampliação de unidade de saúde em Cubatão; veja o que muda",
+"p": "Pronto atendimento funciona na avenida 9 de Abril, com clínica geral, cardiologia, raio-X e laboratório; novos andares vão ampliar especialidades",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/trasmontano-prepara-ampliacao-de-unidade-de-saude-em-cubatao-veja-o-que-muda.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:13",
+"t": "Concurso premia os melhores cafés de São Paulo em 2026; região de Ribeirão tem 6 indicados",
+"p": "Produtores de Altinópolis, Franca, Pedregulho e Santo Antônio da Alegria disputam concurso promovido pela Secretaria de Agricultura",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo Antônio da Alegria",
+"Altinópolis",
+"Pedregulho",
+"São Paulo",
+"Franca"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/concurso-premia-melhores-cafes-de-sao-paulo-em-2026-regiao-de-ribeirao-tem-6-indicados/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:08",
+"t": "Deputados esvaziam sessão para cobrar R$ 2 bilhões em emendas de Tarcísio",
+"p": "Insatisfeitos com demora do governo para pagar emendas, deputados faltaram em sessão sobre projeto de lei do Executivo nessa terça",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/deputados-esvaziam-sessao-para-cobrar-r-2-bilhoes-em-emendas-de-tarcisio",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:07",
+"t": "Itupeva está entre as 30 cidades de São Paulo que mais geraram empregos no último ano",
+"p": "Foto: Prefeitura de Itupeva Município ocupa a 26a posição em ranking estadual, segundo levantamento realizado pela Fundação Seade",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo",
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/itupeva-ranking-geracao-empregos-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:05",
+"t": "Do nível verde ao vermelho: saiba como funciona o plano de Santos para enfrentar dias de calor extremo",
+"p": "Protocolo da Defesa Civil estabelece quatro níveis de alerta e prevê medidas preventivas para proteger grupos vulneráveis durante picos de temperatura",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/do-nivel-verde-ao-vermelho-saiba-como-funciona-o-plano-de-santos-para-enfrentar-dias-de-calor-extremo.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "15:02",
 "t": "Força Tática desarticula central de drogas sintéticas e prende suspeito em Votuporanga",
 "p": "Ecstasy, MD, munições calibre .380 e uma motocicleta adulterada foram apreendidos durante operação que terminou com prisão em flagrante na zona sul da cidade. Uma operação da Força Tática da Polícia Militar resultou na prisão em flagrante de um homem suspeito de tráfico de drogas na tarde desta terça-feira…",
@@ -76,6 +299,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/tarcisio-de-freitas-promove-reforma-no-governo-e-troca-comando-da-fazenda/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:00",
+"t": "Ação resulta na prisão de homem e apreensão de caça-níqueis em Cubatão",
+"p": "Arquivo/SSP Um homem de 51 anos foi preso em flagrante durante uma operação da Polícia Civil realizada na última segunda-feira (16), em Cubatão.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/noticias/acao-resulta-na-prisao-de-homem-e-apreensao-de-caca-niqueis-em-cubatao/",
 "auto": true
 },
 {
@@ -118,6 +355,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/asfalto-cede-apos-vazamento-e-engole-caminhao-betoneira-em-bairro-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:55",
+"t": "GCM captura três procurados pela Justiça em menos de 9 horas em São Sebastião",
+"p": "Prisões ocorreram no Canto do Mar, em Boiçucanga e no centro; dois homens tinham mandados de prisão civil e outro possuía condenação definitiva",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/gcm-captura-tres-procurados-pela-justica-em-menos-de-9-horas-em-sao-sebastiao.html",
 "auto": true
 },
 {
@@ -242,6 +493,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/asfalto-cede-apos-vazamento-de-agua-e-engole-caminhao-betoneira-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:30",
+"t": "NASA lança desafio com prêmio de R$ 5,7 milhões para estudantes que criamem ideias para construir uma base no polo sul da Lua; veja regras",
+"p": "A construção de uma base permanente na Lua pode ganhar novas ideias com a ajuda de estudantes. A NASA anunciou o Moon Base Challenge, uma competição que distribuirá US$ 1 milhão (cerca de R$ 5,7 milhões) em prêmios para equipes de escolas de ensino médio e instituições de ensino superior que desenvolverem soluções…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/nasa-lanca-desafio-com-premio-de-r-57-milhoes-para-estudantes-que-criamem-ideias-para-construir-uma-base-no-polo-sul-da-lua-veja-regras/",
 "auto": true
 },
 {
@@ -54753,264 +55016,6 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/o-que-o-aluno-nao-fala-que-a-escola-precisa-escutar/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:48",
-"t": "Justiça condena homem por furto em escola de Três Fronteiras",
-"p": "Decisão da 2ª Vara de Santa Fé do Sul determinou 2 anos e 4 meses de reclusão em regime fechado após réu invadir prédio e levar bicicleta.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Santa Fé do Sul",
-"Três Fronteiras"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/homem-e-condenado-a-mais-de-dois-anos-de-prisao-por-furtar-bicicleta-em-escola-de-tres-fronteiras/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:45",
-"t": "Câmara de SP arquiva pedido de impeachment de Ricardo Nunes por redução da frota de ônibus durante as eleições 2026",
-"p": "A Comissão Especial da Câmara Municipal de São Paulo rejeitou, nesta terça-feira (3/11), o pedido de impeachment contra o prefeito Ricardo Nunes (MDB) relacionado à suposta redução da frota de ônibus durante o segundo turno das eleições presidenciais. O relatório recebeu cinco votos favoráveis e dois contrários,…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/camara-de-sp-arquiva-pedido-de-impeachment-de-ricardo-nunes-por-reducao-da-frota-de-onibus-durante-as-eleicoes-2026/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:44",
-"t": "Moto com chassi raspado e rolos de cobre são apreendidos após fuga de suspeitos",
-"p": "Abordagem ocorreu durante patrulhamento nas proximidades da Rodovia Euclides da Cunha (SP-320), em Fernandópolis/SP. Uma ação da Polícia Militar resultou na apreensão de uma motocicleta irregular e de três rolos de fios de cobre na madrugada deste domingo (1º.nov), em Fernandópolis/SP. Durante patrulhamento…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis",
-"Cunha"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/moto-com-chassi-raspado-e-rolos-de-cobre-sao-apreendidos-apos-fuga-de-suspeitos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:41",
-"t": "Senado rejeita incluir redução da maioridade penal na PEC da Segurança",
-"p": "Plenário aprovou requerimento para que redução da idade mínima para prisão seja discutida em proposta separada; placar foi de 38 votos a favor e 36 contra pela tramitação independente. O plenário do Senado rejeitou nesta terça-feira (3.nov) a inclusão da redução da maioridade penal de 18 para 16 anos na PEC…",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/senado-rejeita-incluir-reducao-da-maioridade-penal-na-pec-da-seguranca/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:39",
-"t": "Em vitória para o governo Lula, Senado aprova PEC da Segurança Pública",
-"p": "O Senado aprovou nesta terça-feira (3/11), por unanimidade em dois turnos, a PEC da Segurança Pública, que mais força à União, criando regras nacionais para o setor e transformar a Polícia Rodoviária Federal em uma polícia Ostensiva para reforçar a proteção nas ruas e estradas. O texto deixou de fora a redução da…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/em-vitoria-para-o-governo-lula-senado-aprova-pec-da-seguranca-publica/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:39",
-"t": "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes",
-"p": "A Comissão Especial da Câmara de Vereadores de São Paulo arquivou o pedido de impeachment contra o prefeito de São Paulo, Ricardo Nunes, por irregularidades no fornecimento de transporte público durante o segundo turno das eleições. No total, cinco parlamentares votaram contra o pedido (Rubinho Nunes - União, que…",
-"tema": "Eleições",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-de-sp-arquiva-pedido-de-impeachment-contra-ricardo-nunes",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:35",
-"t": "A LISTA QUE NÃO PAGA BOLETO",
-"p": "A eleição terminou, mas esqueceram de avisar aos grupos de WhatsApp. Agora circulam listas de estabelecimentos que deveriam ser frequentados ou evitados conforme a preferência política dos proprietários. Antes de comprar pão ou consertar o carro, é preciso investigar em quem o comerciante votou. Daqui a pouco, o…",
-"tema": "Eleições",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/a-lista-que-nao-paga-boleto/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:31",
-"t": "PM prende homem armado após ameaças contra mulher e apreende espingarda em Fernandópolis",
-"p": "Suspeito foi detido em flagrante após ação da Polícia Militar no Conjunto Habitacional Albino Mininelli; faca, simulacro de arma e espingarda calibre .28 foram apreendidos. Um homem foi preso em flagrante pela Polícia Militar no último domingo (1º.nov) após ameaçar uma mulher no Conjunto Habitacional Albino…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/pm-prende-homem-armado-apos-ameacas-contra-mulher-e-apreende-espingarda-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:30",
-"t": "IPVA zero para motoristas de aplicativo é aprovado em estado brasileiro e começa a valer em 2027",
-"p": "Os motoristas e entregadores de aplicativo não têm direito à isenção do Imposto sobre a Propriedade de Veículos Automotores (IPVA) em todo o Brasil. Como não existe uma lei federal que conceda o benefício à categoria, a possibilidade de deixar de pagar o imposto depende de iniciativas e regras específicas de cada…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/ipva-zero-para-motoristas-de-aplicativo-e-aprovado-em-estado-brasileiro-e-comeca-a-valer-em-2027/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:30",
-"t": "Colégio Unifev promove VI Festival de Natação e reúne famílias na Cidade Universitária",
-"p": "Evento contou com a participação de cerca de 150 alunos para demonstrar a evolução nas aulas e fortalecer o vínculo entre escola e comunidade. O Colégio Unifev realizou, no último sábado (31.out), a sexta edição do seu tradicional Festival de Natação, nas piscinas aquecidas do Complexo Poliesportivo da Cidade…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/colegio-unifev-promove-vi-festival-de-natacao-e-reune-familias-na-cidade-universitaria/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:27",
-"t": "Suspeito de matar cabo da PM em Minas Gerais é preso em Rio Preto",
-"p": "Homem de 33 anos foi localizado durante operação conjunta das polícias militares de Minas Gerais e São Paulo; outras duas pessoas também foram detidas. Um homem identificado como Marcelo Augusto Carvalho Fernandes, de 33 anos, foi preso na madrugada desta segunda-feira (2.nov) em São José do Rio Preto/SP, após ser…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/suspeito-de-matar-cabo-da-pm-em-minas-gerais-e-preso-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:25",
-"t": "Frente fria muda o tempo em SP, traz chuva e ventos de até 80 km/h; veja previsão",
-"p": "Frente fria chega na quinta-feira (5), com ventos intensos e possibilidade de temporais em todo o estado de São Paulo",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-muda-o-tempo-em-sp-traz-chuva-e-ventos-de-ate-80-km-h-veja-previsao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:22",
-"t": "Campinas convoca 24 aprovados em concursos públicos; veja lista, cargos e data da reunião",
-"p": "Prefeitura de Campinas convoca 24 aprovados em concursos públicos. Veja os cargos, a data da reunião obrigatória e como consultar a lista de convocados",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/campinas-convoca-24-aprovados-em-concursos-publicos-veja-lista-cargos-e-data-da-reuniao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:22",
-"t": "Lula avalia criar Ministério da Comunicação Digital e acelerar regulação das redes",
-"p": "Nova estrutura poderá ganhar protagonismo no próximo governo, com foco em plataformas digitais, combate à desinformação e comunicação online. O presidente Luiz Inácio Lula da Silva (PT) avalia a criação de um Ministério da Comunicação Digital como parte de uma reestruturação da área de comunicação do governo…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/lula-avalia-criar-ministerio-da-comunicacao-digital-e-acelerar-regulacao-das-redes/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:21",
-"t": "Pedágio free flow na Imigrantes muda de lugar e cobrança de R$ 20,30 por sentido pode começar até dezembro",
-"p": "O pórtico do pedágio eletrônico no sistema free flow da Rodovia dos Imigrantes, no ABC paulista, foi reinstalado em um novo ponto na madrugada da última quinta-feira (29/10). A estrutura, que inicialmente ficaria no km 29, foi transferida para o km 37+300, no sentido São Paulo, após pressão de moradores de São…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mobilidade/pedagio-free-flow-na-imigrantes-muda-de-lugar-e-cobranca-de-r-2030-por-sentido-pode-comecar-ate-dezembro/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:10",
-"t": "Lula sanciona lei da ‘OAB da Medicina’: saiba como vai funcionar a prova em 3 etapas que passa a barrar formandos sem nota mínima",
-"p": "O presidente Luiz Inácio Lula da Silva prepara a sanção presidencial da lei que institui a obrigatoriedade do Exame Nacional de Avaliação da Formação Médica (Enamed) para o exercício profissional no Brasil. Conhecida como “OAB da Medicina”, a exigência vinha sendo aplicada temporariamente por meio de Medida…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/lula-sanciona-lei-da-oab-da-medicina-saiba-como-vai-funcionar-a-prova-em-3-etapas-que-passa-a-barrar-formandos-sem-nota-minima/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:10",
-"t": "Lula sanciona lei da ‘OAB da Medicina’: saiba como vai funcionar a prova em 3 etapas que passa a barrar formandos sem nota mínima",
-"p": "O presidente Luiz Inácio Lula da Silva prepara a sanção presidencial da lei que institui a obrigatoriedade do Exame Nacional de Avaliação da Formação Médica (Enamed) para o exercício profissional no Brasil. Conhecida como “OAB da Medicina”, a exigência vinha sendo aplicada temporariamente por meio de Medida…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/lula-sanciona-lei-da-oab-da-medicina-saiba-como-vai-funcionar-a-prova-em-3-etapas-que-passa-a-barrar-formandos-sem-nota-minima/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:05",
-"t": "Cachorrinha resgatada em lixão de SP supera tumor e quimioterapia após meses internada e agora busca um novo lar cheio de carinho",
-"p": "A cachorrinha Suzy superou um dos momentos mais difíceis da sua vida e iniciou uma nova fase em São Paulo. Ela foi encontrada abandonada em péssimas condições de saúde dentro de um lixão na capital paulista, apresentando corpo tomado por nódulos, sujeira acumulada e falhas profundas na pelagem. Após o resgate…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/cachorrinha-resgatada-em-lixao-de-sp-supera-tumor-e-quimioterapia-apos-meses-internada/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:00",
-"t": "Alexandre Damasio - Presidente da Câmara de Dirigentes Lojistas de São Caetano | ABC da Economia",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Caetano do Sul"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366641/alexandre-damasio-presidente-da-camara-de-dirigentes-lojistas-de-sao-caetano-%7C-abc-da-economia",
 "auto": true
 }
 ]
