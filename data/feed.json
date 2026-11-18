@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-18T10:23:22-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-18T12:05:11-03:00",
+"novos_nesta_coleta": 48,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +50,526 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "12:01",
+"t": "Prefeitura de Sorocaba entrega quadra poliesportiva no Jardim São Guilherme",
+"p": "Fotos: Bruno Lamedica – Secom A Prefeitura de Sorocaba, por meio da Secretaria de Serviços Públicos e Obras (Serpo), entregou, no fim da tarde desta terça-feira (17), a quadra poliesportiva na Rua Belmiro Moreira Soares, no Jardim São Guilherme, Zona Norte da cidade. A obra foi executada pela empresa W2 Engenharia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-entrega-quadra-poliesportiva-no-jardim-sao-guilherme/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:00",
+"t": "Programa SP Mobile intensifica combate a roubo de celulares com foco em asfixiar mercado ilegal e receptação",
+"p": "O enfrentamento aos crimes de roubo e furto de aparelhos celulares no estado de São Paulo ganhou um aliado estratégico: o programa SP Mobile, desenvolvido pela Secretaria da Segurança Pública (SSP). Em entrevista concedida ao SP POD, podcast oficial da Agência SP, o coordenador da iniciativa, delegado Rodolfo Latif…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/programa-sp-mobile-intensifica-combate-a-roubo-de-celulares-com-foco-em-asfixiar-mercado-ilegal-e-receptacao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:00",
+"t": "Governo de SP alerta sobre os perigos da violência psicológica e lança campanha de conscientização",
+"p": "Exigir a senha do celular sob o pretexto de demonstrar confiança, controlar a localização em tempo real, censurar as roupas da companheira ou tentar isolá-la do convívio com amigos e familiares são atitudes frequentemente rotuladas de forma equivocada como excesso de zelo ou ciúme. No entanto, comportamentos como…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-alerta-sobre-os-perigos-da-violencia-psicologica-e-lanca-campanha-de-conscientizacao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:58",
+"t": "Dani Alonso e Capitão Augusto anunciam conquista de carro para Fundo Social de Marília",
+"p": "Veículo deve reforçar ações como o transporte de cestas básicas, cobertores e doações destinadas à população em situação de vulnerabilidade.",
+"tema": "Assistência social",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/dani-alonso-e-capitao-augusto-anunciam-conquista-de-carro-para-fundo-social-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:58",
+"t": "PM prende foragido da Justiça após tentativa de assalto com arma falsa em farmácia",
+"p": "Um homem de 38 anos, que estava foragido da Justiça, foi preso em flagrante na noite desta terça-feira (17) enquanto tentava assaltar uma farmácia no Jardim Leonidas Moreira, bairro localizado na zona oeste da capital paulista. A prisão foi efetuada por agentes da 3ª Companhia do 16º Batalhão de Polícia Militar…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-prende-foragido-da-justica-apos-tentativa-de-assalto-com-arma-falsa-em-farmacia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:58",
+"t": "Polícias de SP e GO realizam operação contra suspeitos de aplicar golpe de R$ 70 mil da falsa central bancária",
+"p": "A Polícia Civil de São Paulo participou, na manhã desta quarta-feira (18), de uma operação integrada com a Polícia Civil de Goiás para desarticular uma quadrilha suspeita de aplicar o chamado golpe da falsa central bancária. As diligências ocorreram na capital paulista e mobilizaram agentes do Grupo Armado de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policias-de-sp-e-go-realizam-operacao-contra-suspeitos-de-aplicar-golpe-de-r-70-mil-da-falsa-central-bancaria/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:58",
+"t": "Defesa Civil mobiliza engenheiros e especialistas para investigar tremores e estrondos em Barretos",
+"p": "A Defesa Civil do Estado de São Paulo enviou, nesta terça-feira (17), uma equipe de engenheiros ao município de Barretos para auxiliar a administração municipal na apuração das causas dos estrondos e tremores de terra relatados recentemente pelos moradores. A força-tarefa busca dar uma resposta técnica e científica…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Barretos"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-mobiliza-engenheiros-e-especialistas-para-investigar-tremores-e-estrondos-em-barretos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:56",
+"t": "Bolsa Família: quem passa de R$ 218 por pessoa fica com 50% do benefício por até 18 meses",
+"p": "Beneficários do Bolsa Família que passam de R$ 218 de renda por pessoa não perdem o benefício de uma vez. Pela Regra de Proteção, elas passam a receber 50% do valor por até 18 meses, desde que a renda não ultrapasse R$ 706 por pessoa, segundo informações do MDS (Ministério do Desenvolvimento e Assistência Socia). […]",
+"tema": "Assistência social",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/bolsa-familia-quem-passa-de-r-218-por-pessoa-fica-com-50-do-beneficio-por-ate-18-meses/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:54",
+"t": "Ônibus fura sinal vermelho e quase atinge carro na saída de shopping",
+"p": "Ônibus avançou o semáforo na Avenida Guilherme Campos e quase atingiu um automóvel que deixava o estacionamento de um shopping; flagrante foi registrado por câmera de segurança",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/onibus-fura-sinal-vermelho-e-quase-atinge-carro-na-saida-de-shopping/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:53",
+"t": "Adolescente suspeito de chefiar roubos a casas é apreendido em escola de SP",
+"p": "Adolescente foi apreendido pela polícia dentro de escola estadual no Brás, no centro de São Paulo. Ele é apontado como líder da quadrilha",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/adolescente-suspeito-de-liderar-quadrilha-de-roubo-e-apreendido-em-escola",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:50",
+"t": "Defesa Civil mobiliza engenheiros e especialistas para investigar tremores e estrondos em Barretos",
+"p": "A Defesa Civil do Estado de São Paulo enviou, nesta terça-feira (17), uma equipe de engenheiros ao município de Barretos para auxiliar a administração municipal na apuração das causas dos estrondos e tremores de terra relatados recentemente pelos moradores. A força-tarefa busca dar uma resposta técnica e científica…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Barretos"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-mobiliza-engenheiros-e-especialistas-para-investigar-tremores-e-estrondos-em-barretos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:50",
+"t": "Polícias de SP e GO realizam operação contra suspeitos de aplicar golpe de R$ 70 mil da falsa central bancária",
+"p": "A Polícia Civil de São Paulo participou, na manhã desta quarta-feira (18), de uma operação integrada com a Polícia Civil de Goiás para desarticular uma quadrilha suspeita de aplicar o chamado golpe da falsa central bancária. As diligências ocorreram na capital paulista e mobilizaram agentes do Grupo Armado de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policias-de-sp-e-go-realizam-operacao-contra-suspeitos-de-aplicar-golpe-de-r-70-mil-da-falsa-central-bancaria/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:49",
+"t": "Prefeitura de Espírito Santo do Dourado-MG abre 39 vagas na Educação",
+"p": "A Prefeitura de Espírito Santo do Dourado, no estado de Minas Gerias, abriu um novo processo seletivo simplificado voltado à área da educação, com oportunidades para profissionais de nível médio e superior. Regido pelo edital nº 02/2026, o processo seletivo busca reforçar o atendimento na rede municipal por meio de…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Dourado"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-espirito-santo-do-dourado-mg-abre-39-vagas-na-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:46",
+"t": "PM prende foragido da Justiça após tentativa de assalto com arma falsa em farmácia",
+"p": "Um homem de 38 anos, que estava foragido da Justiça, foi preso em flagrante na noite desta terça-feira (17) enquanto tentava assaltar uma farmácia no Jardim Leonidas Moreira, bairro localizado na zona oeste da capital paulista. A prisão foi efetuada por agentes da 3ª Companhia do 16º Batalhão de Polícia Militar…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pm-prende-foragido-da-justica-apos-tentativa-de-assalto-com-arma-falsa-em-farmacia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:41",
+"t": "Aos 92 anos, idosa é a única moradora de uma cidade e trabalha como prefeita, dona de bar e guardiã de 5 mil livros",
+"p": "Elsie Eiler, única moradora de Monowi, em Nebraska, ficou sozinha na cidade após a morte do marido, em 2004, e decidiu continuar cuidando do lugar onde viveu",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/aos-92-anos-idosa-e-a-unica-moradora-de-uma-cidade-e-trabalha-como-prefeita-dona-de-bar-e-guardia-de-5-mil-livros/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:23",
+"t": "UFSCar de Rio Preto recebe emenda parlamentar de Itamar Borges",
+"p": "Recursos destinados pelo deputado estadual serão utilizados na compra de equipamentos para o novo Laboratório de Ensino de Química e Biologia",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/ufscar-de-rio-preto-recebe-emenda-parlamentar-de-itamar-borges/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:18",
+"t": "Operação da Polícia Civil desarticula esquema de tráfico de drogas em Garça",
+"p": "Operação policial conjunta, deflagrada nesta quarta-feira, mobiliza equipes de segurança pública em Garça.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Garça"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/operacao-da-policia-civil-desarticula-esquema-de-trafico-de-drogas-em-garca/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:15",
+"t": "Calor de 36°C e temporais ameaçam São Paulo no feriado prolongado, enquanto chuva forte pode atingir diferentes regiões do estado",
+"p": "O feriado prolongado da Consciência Negra terá calor de até 36°C e risco de temporais em São Paulo. A previsão indica pancadas de chuva, descargas elétricas e possibilidade de vendavais entre sexta-feira (20/11) e domingo (22/11). Segundo o Meteored, a combinação de calor, umidade na atmosfera e uma área de baixa…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/calor-de-36c-e-temporais-ameacam-sao-paulo-no-feriado-prolongado-enquanto-chuva-forte-pode-atingir-diferentes-regioes-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:14",
+"t": "Audiências discutem orçamento de R$ 2,2 bi e mudanças no zoneamento de Marília",
+"p": "Câmara discutiu orçamento de Marília para 2027, estimado em R$ 2,2 bilhões, além de mudanças no zoneamento da SP-333 e expansão urbana.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/audiencias-discutem-orcamento-de-r-22-bi-e-mudancas-no-zoneamento-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:10",
+"t": "Veja como ficam os serviços públicos municipais no feriado do Dia da Consciência Negra",
+"p": "Foto: Bruno Monteiro Rodrigues O feriado do Dia da Consciência Negra, celebrado nesta sexta-feira (20), vai alterar a rotina de alguns dos serviços públicos oferecidos pelo Município. Os setores essenciais, como os atendimentos de urgências e emergências em unidades de saúde, seguem normalmente, sem alteração. Da…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/veja-como-ficam-os-servicos-publicos-municipais-no-feriado-do-dia-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:08",
+"t": "Dia da Consciência Negra: veja o que abre e fecha no feriado em Mogi das Cruzes",
+"p": "Prefeitura não terá expediente na sexta-feira (20), mas serviços essenciais, como saúde, segurança e coleta de lixo, funcionarão normalmente",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/dia-da-consciencia-negra-veja-o-que-abre-e-fecha-no-feriado-em-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:04",
+"t": "Pedido de CPI sobre área da Coopec é arquivado por falta de assinaturas",
+"p": "Requerimento apresentado por Renato Pupo reuniu quatro apoios, mas precisava de oito para tramitar na Câmara de Rio Preto",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/pedido-de-cpi-sobre-area-da-coopec-e-arquivado-por-falta-de-assinaturas/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:02",
+"t": "UNITEN transforma profissional em empreendedor",
+"p": "Oferecendo diversos cursos durante o ano, que atendem a diferentes segmentos profissionais, a Universidade do Trabalhador – UNITEN, ligada à Secretaria de Relações do Trabalho e Qualificação Profissional (Sert), da Prefeitura de Sorocaba, é mais que um local de aprendizado, é um espaço de transformação de vidas.…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/uniten-transforma-profissional-em-empreendedor/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:00",
+"t": "Dona da Brastemp e Consul busca geladeira velha de qualquer marca na sua casa de graça e oferece até 10% de desconto na compra de uma nova",
+"p": "Quem tem uma geladeira, freezer ou máquina de lavar sem uso em casa pode solicitar o recolhimento gratuito do equipamento por meio de um programa da Whirlpool, dona das marcas Brastemp e Consul. O serviço atende aparelhos de qualquer fabricante e está disponível em todos os municípios do Brasil. Além da…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/dona-da-brastemp-e-consul-busca-geladeira-velha-de-qualquer-marca-na-sua-casa-de-graca-e-oferece-ate-10-de-desconto-na-compra-de-uma-nova/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:00",
+"t": "Parques e bosques de Campinas são reabertos após redução das chuvas; veja quais",
+"p": "Todos os parques e bosques da cidade estão abertos à visitação nesta quarta-feira (18), após o acumulado de chuvas ficar abaixo de 80 mm em 72 horas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/parques-e-bosques-de-campinas-sao-reabertos-apos-reducao-das-chuvas-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:00",
+"t": "Novo sistema de Zona Azul começa a operar em Mongaguá",
+"p": "Júlio Koema/Prefeitura de Mongaguá O novo Sistema de Estacionamento Rotativo \"Zona Azul\" entrou oficialmente em operação nesta segunda-feira (16) em Mongaguá.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/novo-sistema-de-zona-azul-comeca-a-operar-em-mongagua/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:00",
+"t": "Escola de teatro oferece aulas gratuitas para crianças e adultos em Santos",
+"p": "Divulgação A TESCOM Escola de Teatro oferece aulas abertas e gratuitas de teatro em Santos durante o mês de novembro.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/escola-de-teatro-oferece-aulas-gratuitas-para-criancas-e-adultos-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:58",
+"t": "Tarcísio anuncia novo secretário e confirma permanência de quatro",
+"p": "Leonardo Sultani assume a Secretaria de Gestão e Governo Digital no lugar de Caio Paes de Andrade",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/tarcisio-anuncia-novo-secretario-e-confirma-permanencia-de-quatro/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:49",
+"t": "Empresa de tecnologia de Peruíbe promove hackathon com chance de contratação para alunos da ETEC",
+"p": "A Yup Chat, empresa de comunicação corporativa da Baixada Santista, abre as portas de sua sede no dia 28 de novembro, das 8h às 19h, para sediar a 1ª edição do Hackathon da Yup Chat, em parceria com a ETEC de Peruíbe. A ideia da organização é reter talentos e evitar que a mão de […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Peruíbe"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/empresa-de-tecnologia-de-peruibe-promove-hackathon-com-chance-de-contratacao-para-alunos-da-etec/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:47",
+"t": "Decreto que regulamenta escala 5×2 será assinado na quinta-feira",
+"p": "Objetivo é balizar o entendimento de trabalhadores e empregadores.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/brasil/decreto-que-regulamenta-escala-5x2-sera-assinado-na-quinta-feira/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-18",
+"h": "10:45",
+"t": "São Bernardo é reconhecida por modernização da gestão pública",
+"p": "Programa SBC+i integra tecnologia, gestão orientada por dados e participação popular; município subiu da 50ª para a 34ª colocação no ranking nacional.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369455/sao-bernardo-e-reconhecida-por-modernizacao-da-gestao-publica",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:39",
+"t": "Globo quebra o silêncio e se pronuncia após onda de protestos de artistas sobre as condições de trabalho nos bastidores",
+"p": "Nos últimos dias, artistas como Fernanda Montenegro, Camila Pitanga e Humberto Carrão publicaram manifestações em suas redes sociais pelo fim da jornada de 12 horas em produções audiovisuais. Mesmo que muitos deles sejam contratados por obra, os profissionais fizeram postagens de protesto nos bastidores de suas…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/globo-quebra-o-silencio-e-se-pronuncia-apos-onda-de-protestos-de-artistas-sobre-as-condicoes-de-trabalho-nos-bastidores/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:39",
+"t": "Fomenta reúne 230 prefeitos de SP e cobra repasses a cidades",
+"p": "Encontro reuniu 230 prefeitos e representantes de 503 cidades; cartas-manifesto cobram mais recursos e desburocratização dos governos estadual e federal.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/conteudo-patrocinado/amppesp/fomenta-reune-230-prefeitos-de-sp-e-cobra-repasses-a-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:37",
+"t": "Polícia Civil prende suspeito de agredir homem em Bady Bassitt",
+"p": "A vítima ficou em estado grave e foi internada na Unidade de Terapia Intensiva (UTI) do Hospital de Base, em Rio Preto",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Bady Bassitt",
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-civil-prende-suspeito-de-agredir-homem-em-bady-bassitt/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:32",
+"t": "Motorista de 28 anos morre após carro bater em árvore e capotar em rodovia na região",
+"p": "Motorista morreu em grave acidente na manhã desta quarta (18), na rodovia Deputado Cunha Bueno, em Jaboticabal",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Jaboticabal"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motorista-de-28-anos-morre-apos-carro-bater-em-arvore-e-capotar-em-rodovia-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:30",
+"t": "Kit de sobrevivência: de apagões a ataques cibernéticos, países orientam famílias a guardar água, comida e remédios por até 10 dias",
+"p": "Governos de diferentes países têm orientado a população a manter em casa um kit de emergência com água, alimentos, medicamentos e outros suprimentos básicos. A recomendação busca preparar as famílias para enfrentar interrupções em serviços essenciais, que podem ocorrer em situações como desastres naturais, apagões,…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/kit-de-sobrevivencia-de-apagoes-a-ataques-ciberneticos-paises-orientam-familias-a-guardar-agua-comida-e-remedios-por-ate-10-dias/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:28",
+"t": "Sorocaba recebe pela terceira vez consecutiva o Selo Ouro de Cidade Inteligente, pela Connected Smart Cities",
+"p": "Pelo terceiro ano consecutivo, a cidade de Sorocaba ficou entre as melhores do País e obteve o Selo Ouro de Cidade Inteligente. O anúncio ocorreu no início da noite desta terça-feira (17), durante o Connected Smart Cities, evento que reúne líderes, gestores públicos, empreendedores e especialistas em inovação e…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-recebe-pela-terceira-vez-consecutiva-o-selo-ouro-de-cidade-inteligente-pela-connected-smart-cities/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:27",
+"t": "Sesc Marília terá oficinas, danças e capoeira gratuitas na Consciência Negra",
+"p": "Sesc Marília oferece seis dias de atividades culturais gratuitas Programação reúne oficinas, danças, capoeira, literatura e atividades sobre personalidades negras da história brasileira.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/sesc-marilia-tera-oficinas-dancas-e-capoeira-gratuitas-na-consciencia-negra/",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "10:06",
@@ -428,6 +942,18 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/panetone-do-amor-riopreto-shopping-e-renascer-celebram-12-anos-de-parceria/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:40",
+"t": "Sonda europeia acha sinal de magma sob Marte, e a busca por vida muda de lugar: agora é para baixo",
+"p": "A sonda ExoMars Trace Gas Orbiter detectou cloreto de hidrogênio sobre fissuras do vulcão Alba Mons, em Marte. O estudo na Science Advances, liderado por Alexander Trokhimovskiy, sugere magma quente sob a superfície e a possibilidade de ambientes hidrotermais capazes de abrigar microrganismos.",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/sonda-europeia-acha-sinal-de-magma-sob-marte-e-a-busca-por-vida-muda-de-lugar-agora-e-para-baixo/",
 "auto": true
 },
 {
@@ -54509,537 +55035,6 @@
 ],
 "src": "Boqnews",
 "u": "https://www.boqnews.com/nacional/justica-eleitoral-reabre-cadastro-e-retoma-servicos-ao-eleitor/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:34",
-"t": "Inauguração da decoração temática abre o Natal dos Sonhos 2026",
-"p": "Mais de 2 milhões de luzes e 300 esculturais natalinas transformaram Campos do Jordão em Fábrica de Biscoitos; programação cultural também já começou",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/inauguracao-da-decoracao-tematica-abre-o-natal-dos-sonhos-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:33",
-"t": "Falha em provedora de nuvem do Smart Sampa permitiu acesso a 17 mil câmeras, diz UOL",
-"p": "Arquivo A plataforma do Smart Sampa, programa de vigilância com reconhecimento facial do município de SP, tinha outra falha.",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/falha-em-provedora-de-nuvem-do-smart-sampa-permitiu-acesso-a-17-mil-cameras-diz-uol/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:33",
-"t": "‘Homenagem justa’: 1º Hospital Pediátrico Público de Santos vai se chamar Prefeita Telma de Souza; veja detalhes da obra de R$ 85 milhões",
-"p": "A Zona Noroeste de Santos será palco de um marco histórico para a saúde municipal. Em vídeo publicado nas redes sociais, o prefeito Rogério Santos anunciou que o primeiro Hospital Pediátrico Público da cidade receberá o nome de Hospital Pediátrico Prefeita Telma de Souza. O equipamento, que está com as obras em…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/homenagem-justa-1o-hospital-pediatrico-publico-de-santos-vai-se-chamar-prefeita-telma-de-souza-veja-detalhes-da-obra-de-r-85-milhoes/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:30",
-"t": "Lula passará por exames de rotina em hospital de SP",
-"p": "Lula passará por exames de rotina em São Paulo nesta terça-feira (3). O petista deve viajar no fim do dia, após conversas com ministros.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/lula-passara-por-exames-de-rotina-em-hospital-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:28",
-"t": "Motociclista morre na rodovia dos Imigrantes ao atingir caminhão que tentava parar no acostamento",
-"p": "Acidente no km 13, em São Paulo, ocorreu quando o caminhão reduzia a velocidade por causa de uma pane; trânsito tem congestionamento",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/motociclista-morre-na-rodovia-dos-imigrantes-ao-atingir-caminhao-que-tentava-parar-no-acostamento.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:22",
-"t": "Polícia investiga feto encontrado com cachorro na zona rural de Jaguariúna",
-"p": "A PM foi acionada, na tarde dessa segunda-feira (2/11), após um homem avistar um cachorro carregando o feto pela rua",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jaguariúna"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/policia-investiga-feto-encontrado-com-cachorro-na-zona-rural-de-jaguariuna",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:18",
-"t": "Polícia Militar resgata bebê de 7 meses mantida refém pelo próprio pai",
-"p": "Uma bebê de apenas sete meses foi resgatada em segurança pela Polícia Militar após ser mantida como refém pelo próprio pai, na noite da última sexta-feira (30), em Guarujá, no litoral paulista. A ação rápida da corporação garantiu a prisão em flagrante do agressor e a proteção da criança, que foi devolvida à mãe…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Guarujá"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-militar-resgata-bebe-de-7-meses-mantida-refem-pelo-proprio-pai/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:14",
-"t": "Confira onde a unidade móvel da Casa do Cidadão Zeladoria estará nos dias 3 a 10 de novembro",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Fazenda (Sefaz), levará, de 3 a 9 de novembro, das 10h às 15h30, os serviços oferecidos pela unidade móvel da Casa do Cidadão Zeladoria ao Sorocaba Shopping, localizado na Avenida Dr. Afonso Vergueiro, 1700, Centro. E, no dia 10 de novembro, a unidade ficará das […]",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/confira-onde-a-unidade-movel-da-casa-do-cidadao-zeladoria-estara-nos-dias-3-a-10-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:06",
-"t": "Jundiaí muda horário da coleta de resíduos na Ponte São João a partir de segunda-feira (9)",
-"p": "Foto: Prefeitura de Jundiaí A coleta de resíduos na Ponte São João será diurna a partir de 9 de novembro. Confira os dias de atendimento e as ruas afetadas.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/coleta-residuos-ponte-sao-joao-diurna/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:04",
-"t": "Lula viaja para SP nesta terça-feira (3) para realizar exames de rotina no Hospital Sírio-Libanês",
-"p": "Segundo a Secom, exames foram programados para depois das eleições e presidente seguirá agenda regular após retorno à capital federal",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366596/lula-viaja-para-sp-nesta-terca-feira-3-para-realizar-exames-de-rotina-no-hospital-sirio-libanes",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:01",
-"t": "Ecovias Noroeste Paulista programa obras e intervenções nas principais rodovias da região",
-"p": "A concessionária Ecovias Noroeste Paulista deu início a um amplo cronograma de obras de ampliação, manutenção e conservação que segue até o próximo domingo (8) em diversas rodovias da região. As intervenções abrangem vias de grande fluxo, como a Washington Luís (SP-310), a Brigadeiro Faria Lima (SP-326) e trechos…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/ecovias-noroeste-paulista-programa-obras-e-intervencoes-nas-principais-rodovias-da-regiao-2/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:00",
-"t": "Mercado Municipal recebe 1ª Festa Nordestina com música, gastronomia e artesanato",
-"p": "Henrique Teixeira/Arquivo Prefeitura de Santos O som da sanfona, os aromas da culinária regional e as cores do artesanato nordestino vão dar o tom da primeira edição da Festa Nordestina do Mercado.",
-"tema": "Política",
-"s": "entregue",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/1077-fm/mercado-municipal-recebe-1a-festa-nordestina-com-musica-gastronomia-e-artesanato/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:00",
-"t": "Mulher fica ferida após cair de mureta na Ilha Porchat, em São Vicente",
-"p": "Divulgação/Prefeitura de São Vicente Uma mulher de 35 anos ficou ferida após cair de um barraco na manhã desta terça-feira (3), na Ilha Porchat, em São Vicente.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/mulher-fica-ferida-apos-cair-de-mureta-na-ilha-porchat-em-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:00",
-"t": "Polícia faz operação contra agiotagem e cumpre mandados em Mongaguá",
-"p": "Divulgação/SSP Operação desarticulou um esquema de agiotagem que utilizava ameaças e intimidações para cobrar empréstimos com juros abusivos.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Mongaguá"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/policia-faz-operacao-contra-agiotagem-e-cumpre-mandados-em-mongagua/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:55",
-"t": "Santos avança com as obras do novo Hospital Pediátrico Prefeita Telma de Souza e da escola de educação infantil na Zona Noroeste",
-"p": "O prefeito de Santos Rogério Santos divulgou em suas redes sociais o avanço das obras no novo Hospital Pediátrico na Zona Noroeste. O prédio receberá o nome da prefeita Telma de Souza, falecida no último dia 10 de outubro. Embora o gestor não tenha divulgado a data de inauguração o Hospital Pediátrico Prefeita…",
-"tema": "Saúde",
-"s": "entregue",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/santos-avanca-com-as-obras-do-novo-hospital-pediatrico-prefeita-telma-de-souza-e-da-escola-de-educacao-infantil-na-zona-noroeste/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:52",
-"t": "Aliado de Nunes, João Jorge confirma disputa pelo comando da Câmara de SP",
-"p": "Eleição para a presidência da Câmara está marcada para 15 de dezembro; João Jorge busca apoio de vereadores de diferentes bancadas",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/aliado-de-nunes-joao-jorge-confirma-disputa-pelo-comando-da-camara-de-sp",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:45",
-"t": "Médico brasileiro entra na sociedade de clínica nos EUA e aposta em mercado que um empresário de Orlando compara ao Brasil dos anos 90",
-"p": "O médico brasileiro Marcelo Bechara anunciou uma nova etapa de sua atuação internacional com a entrada na sociedade da True U Anti-Aging Health & Wellness, clínica de saúde e bem-estar localizada em Orlando, nos Estados Unidos. A parceria foi apresentada durante um evento realizado na última quarta-feira (28/10),…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/saude/medico-brasileiro-entra-na-sociedade-de-clinica-nos-eua-e-aposta-em-mercado-que-um-empresario-de-orlando-compara-ao-brasil-dos-anos-90/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:43",
-"t": "‘Imposto do pecado’: governo define data para cobrar nova taxa e aciona Congresso",
-"p": "Medida provisória que regulamenta o Imposto do Pecado deve ser enviado ao Congresso Nacional nesta terça-feira; cronograma prevê transição com IPI até 2028",
-"tema": "Contas públicas",
-"s": "anunciado",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/politica/imposto-do-pecado-governo-define-data-para-cobrar-nova-taxa-e-aciona-congresso/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:35",
-"t": "Santo André acerta com Júlio Vaz para reforçar setor defensivo em 2027",
-"p": "Zagueira chega ao time andreense com três títulos no currículo e contrato previsto até outubro da próxima temporada",
-"tema": "Geral",
-"s": "obra",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366588/santo-andre-acerta-com-julio-vaz-para-reforcar-setor-defensivo-em-2027",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:33",
-"t": "Chegada de vendaval e chuva forte assustam turistas durante feriado no interior de SP; Vídeo",
-"p": "Chegada de vendaval e chuva forte assustaram turistas no feriado desta segunda (2), em Rifaina, a 150 quilômetros de Ribeirão Preto",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto",
-"Rifaina"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chegada-de-vendaval-e-chuva-forte-assustam-turistas-durante-feriado-no-interior-de-sp-video/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:32",
-"t": "Prefeitura de Fernandópolis busca atrair indústria de tecnologia para o município",
-"p": "A Prefeitura de Fernandópolis realizou uma visita institucional à sede da Eletra – Tecnologia em Tração Elétrica, em São Bernardo do Campo, para apresentar o município como uma alternativa competitiva para a expansão industrial da companhia. A iniciativa busca atrair empreendimentos de alta tecnologia e promover a…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Bernardo do Campo",
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-busca-atrair-industria-de-tecnologia-para-o-municipio/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:31",
-"t": "Fernandópolis apresenta potencial logístico em reunião com representantes da Shopee",
-"p": "A Prefeitura de Fernandópolis realizou uma reunião com representantes da Shopee e da Directpar com o objetivo de atrair novos investimentos para o setor logístico e fortalecer a economia local. Durante o encontro, a administração municipal apresentou a estrutura da cidade e suas vantagens estratégicas para sediar…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/fernandopolis-apresenta-potencial-logistico-em-reuniao-com-representantes-da-shopee/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:30",
-"t": "Meu Bairro Novo de Santo André chega ao Jardim do Estádio com 11 km de asfalto",
-"p": "Prefeitura coloca investimento de R$ 12 milhões para recapear 38 vias",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366569/meu-bairro-novo-de-santo-andre-chega-ao-jardim-do-estadio-com-11-km-de-asfalto",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:30",
-"t": "Trecho da Avenida Rosa Kasinski segue interditado após incêndio em Mauá",
-"p": "Defesa Civil identificou risco de colapso da estrutura da WPA Ambiental e queda de materiais sobre a pista; ainda não há previsão de liberação",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366581/trecho-da-avenida-rosa-kasinski-segue-interditado-apos-incendio-em-maua",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:15",
-"t": "Justiça suspende Operação Mafiusi e \"Concierge do PCC\" pode ser solto",
-"p": "Decisão cancelou audiências marcadas para este mês e determinou que revisão de réus presos seja feita individualmente",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/justica-suspende-operacao-mafiusi-e-concierge-do-pcc-pode-ser-solto",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:15",
-"t": "Maior arranha-céu do mundo terá 1 km de altura e observatório no topo; projeto de R$ 6,5 bilhões ficou parado por sete anos",
-"p": "Em construção após sete anos de projeto parado na Arábia Saudita, a Jeddah Tower terá mil metros de altura e deve se tornar o maior arranha-céu do mundo, deixando o Burj Khalifa, de Dubai, para trás. A previsão é que as obras sejam totalmente concluídas em 2028. O ícone arquitetônico global com mais de um […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/maior-arranha-ceu-do-mundo-tera-1-km-de-altura-e-observatorio-no-topo-projeto-de-r-65-bilhoes-ficou-parado-por-sete-anos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:15",
-"t": "Aposentado é vítima de assalto debaixo de pontilhão em Rio Preto",
-"p": "Um aposentado de 49 anos teve o telefone celular roubado na tarde do último sábado (31), enquanto caminhava pelo Conjunto Habitacional Costa do Sol, em São José do Rio Preto. A ocorrência foi registrada na Polícia Civil no início desta semana, na segunda-feira (2). Segundo informações do boletim de ocorrência, a…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/aposentado-e-vitima-de-assalto-debaixo-de-pontilhao-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:15",
-"t": "Bolsa Família tem grande mudança no calendário de novembro após alerta de super El Niño e antecipa pagamento de oito grupos; veja novas datas",
-"p": "O calendário do Bolsa Família de novembro de 2026 passou por uma mudança significativa após um alerta do governo federal sobre os possíveis impactos do super El Niño no Brasil. A medida antecipa os pagamentos de oito grupos de beneficiários e concentra os repasses em apenas três dias úteis, em vez de manter a…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/bolsa-familia-tem-grande-mudanca-no-calendario-de-novembro-apos-alerta-de-super-el-nino-e-antecipa-pagamento-de-oito-grupos-veja-novas-datas/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:13",
-"t": "Empresa de tecnologia tem sistema invadido e dispara mensagens indevidas por WhatsApp",
-"p": "Um empresário de 46 anos procurou a Polícia Civil de São José do Rio Preto para denunciar um ataque hacker contra o sistema de sua empresa de tecnologia, localizada no bairro Jardim São Marcos. A invasão ocorreu na madrugada da última segunda-feira (2), quando criminosos acessaram sem autorização a API de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/empresa-de-tecnologia-tem-sistema-invadido-e-dispara-mensagens-indevidas-por-whatsapp/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:12",
-"t": "Furto de fiação prejudica atendimento em unidade de saúde e termina com dois presos",
-"p": "Dois homens, de 36 e 42 anos, foram presos em flagrante na manhã da última segunda-feira (2) sob a suspeita de furtar fios de cobre do Complexo de Doenças Crônicas Transmissíveis, localizado na Vila Curti, em São José do Rio Preto. O crime causou danos à estrutura do prédio e comprometeu temporariamente o…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/furto-de-fiacao-prejudica-atendimento-em-unidade-de-saude-e-termina-com-dois-presos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:11",
-"t": "BAEP prende em Rio Preto suspeito de tentativa de homicídio ocorrida em Mirassol",
-"p": "Policiais do Batalhão de Ações Especiais de Polícia (BAEP) prenderam, na última segunda-feira (2), um homem suspeito de envolvimento em uma tentativa de homicídio qualificado registrada no município de Mirassol. A prisão ocorreu no bairro José Menino, em São José do Rio Preto, após o trabalho de patrulhamento e…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto",
-"Mirassol"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/baep-prende-em-rio-preto-suspeito-de-tentativa-de-homicidio-ocorrida-em-mirassol/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:06",
-"t": "Ilhabela alerta para golpe com links falsos na cobrança da taxa ambiental",
-"p": "Mensagens fraudulentas por WhatsApp e SMS simulam página oficial da TPA; prefeitura reforça prazo de 30 dias após entrada",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ilhabela"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-alerta-para-golpe-com-links-falsos-na-cobranca-da-taxa-ambiental.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:01",
-"t": "Começa hoje em Ribeirão Preto: moradores podem zerar juros e multas de dívidas",
-"p": "Refis 2026 já recebe pedidos para quitar pendências com a Prefeitura de Ribeirão Preto e contas da Saerp; descontos chegam a 100%",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/politica/comeca-hoje-em-ribeirao-preto-moradores-podem-zerar-juros-e-multas-de-dividas/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "14:01",
-"t": "Contação de história é atração gratuita na Biblioteca Infantil nesta quinta-feira (5)",
-"p": "Crianças de adultos poderão conferir, nesta quinta-feira (5), às 14h, a atividade de contação de histórias da Miraculos Editora, na Biblioteca Infantil Municipal “Renato Sêneca de Sá Fleury”, no Centro. A atividade é aberta ao público geral, sem necessidade de inscrição prévia. Realizada pela Prefeitura de…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/contacao-de-historia-e-atracao-gratuita-na-biblioteca-infantil-nesta-quinta-feira-5/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:58",
-"t": "Justiça Eleitoral reabre cadastro em todo o país e retoma atendimento ao eleitor",
-"p": "Foto: Fernando Frazão/Agência Brasil Após suspensão temporária para a realização do pleito de 2026, atendimento presencial e digital volta a disponibilizar alistamento, transferência e regularização de títulos",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/justica-eleitoral-reabre-cadastro-eleitoral-servicos-eleitor/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:55",
-"t": "Campinas lidera ranking de motoristas que não prestam socorro em acidentes",
-"p": "Levantamento obtido via Lei de Acesso à Informação aponta 61 registros de omissão de socorro em acidentes de trânsito na região entre janeiro e agosto de 2026",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-lidera-ranking-de-motoristas-que-nao-prestam-socorro-em-acidentes/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:54",
-"t": "Santos conquista selo máximo da Caixa e entra para grupo seleto de cidades brasileiras com mais de 80 mil habitantes",
-"p": "A Prefeitura de Santos recebeu, nesta terça-feira (27), no Paço Municipal, o Selo Diamante da CAIXA Gestão Sustentável, a mais alta categoria de reconhecimento do programa da Caixa Econômica Federal. A certificação foi entregue ao prefeito Rogério Santos por Cristiano Medeiros, diretor de Governo da instituição. A…",
-"tema": "Política",
-"s": "entregue",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/santos-conquista-selo-maximo-da-caixa-e-entra-para-grupo-seleto-de-cidades-brasileiras-com-mais-de-80-mil-habitantes/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:45",
-"t": "Mega da Virada 2026 abre apostas com prêmio de mais de R$ 1 bilhão; veja como jogar",
-"p": "Foto: Tribuna de Jundiaí Concurso especial recebe apostas até 31 de dezembro, com jogos a partir de R$ 6 e sorteio marcado para o primeiro dia de 2027.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/mega-da-virada-2026-apostas-premio-bilionario/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:45",
-"t": "Focadas na saúde, cafeteiras sem plástico feitas com aço inox que unem tecnologia e sustentabilidade viram febre e esgota estoques no mundo inteiro",
-"p": "A busca pela xícara de café ideal ganhou um novo critério que vai muito além de botões digitais e funções automáticas. Agora, o verdadeiro atrativo dos aparelhos mais sofisticados está na ausência de componentes plásticos no preparo da bebida. Essa mudança decorre do receio crescente em torno dos microplásticos e…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/cafeteiras-sem-plastico-feitas-com-aco-inox-que-unem-tecnologia-e-sustentabilidade/",
 "auto": true
 }
 ]
