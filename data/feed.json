@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T01:02:19-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-18T02:09:53-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -60,6 +60,21 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-quarta-bela-arma-situacao-para-vanessa-durante-parto-de-famosa/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "00:30",
+"t": "A menos de uma hora de São Paulo, a terra dos casamentos esconde uma montanha de 1.170 metros e represa do Sistema Cantareira",
+"p": "Mairiporã é conhecida como a terra dos casamentos, mas também guarda uma montanha de 1.170 metros, cachoeiras e uma represa do Sistema Cantareira.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mairiporã",
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/turismo/a-menos-de-uma-hora-de-sao-paulo-a-terra-dos-casamentos-esconde-uma-montanha-de-1-170-metros-e-represa-do-sistema-cantareira/",
 "auto": true
 },
 {
@@ -55015,21 +55030,6 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/policia/alvinlandia-registra-caso-de-violencia-domestica-no-fim-de-semana-prolongado/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:37",
-"t": "Mulher é empurrada e xingada na frente do filho de dois anos em Garça",
-"p": "Ocorrência foi registrada na DDM de Marília Mulher de 41 anos acionou a Polícia Militar; acusado foi autuado por violência doméstica, vias de fato e injúria.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Marília",
-"Garça"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/mulher-e-empurrada-e-xingada-na-frente-do-filho-de-dois-anos-em-garca/",
 "auto": true
 }
 ]
