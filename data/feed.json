@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T08:14:07-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-18T09:09:06-03:00",
+"novos_nesta_coleta": 33,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,268 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "09:03",
+"t": "Justiça de Votuporanga condena réu a mais de 13 anos de prisão por tráfico de drogas e posse de arma raspada",
+"p": "A 1ª Vara Criminal da Comarca de Votuporanga condenou Diego Maradona Vieira da Silva, de 35 anos, a 13 anos, um mês e oito dias de reclusão, em regime inicial fechado, além do pagamento de 911 dias-multa, pelos crimes de tráfico de drogas majorado e posse ilegal de arma de fogo de uso restrito com […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-votuporanga-condena-reu-a-mais-de-13-anos-de-prisao-por-trafico-de-drogas-e-posse-de-arma-raspada/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:01",
+"t": "Acidente na John Boyd: 5 veículos batem e deixam mulher ferida",
+"p": "Engavetamento aconteceu na manhã desta quarta-feira (18), na aproximação da Rodovia dos Bandeirantes, e deixou pelo menos uma motorista ferida",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/acidente-na-john-boyd-5-veiculos-batem-e-deixam-mulher-ferida/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:00",
+"t": "Quarta-feira (18) tem previsão de pancadas de chuva, raios e temporais isolados em todo o estado de São Paulo",
+"p": "O estado de São Paulo enfrenta um aumento nas instabilidades atmosféricas nesta quarta-feira, dia 18, devido à combinação entre a atuação de um cavado em níveis médios da atmosfera e a umidade transportada por um corredor vindo da região amazônica. Com esse cenário, voltam as condições para a ocorrência de pancadas…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/quarta-feira-18-tem-previsao-de-pancadas-de-chuva-raios-e-temporais-isolados-em-todo-o-estado-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:52",
+"t": "Balsa entre São Sebastião e Ilhabela tem espera de até 45 minutos nesta quarta-feira (18)",
+"p": "Fila é maior para quem sai de São Sebastião; travessia opera com seis embarcações na manhã desta quarta; veja tarifas e horários",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Sebastião",
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/balsas/ilhabela/balsa-entre-sao-sebastiao-e-ilhabela-tem-espera-de-ate-45-minutos-nesta-quarta-feira-18.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:51",
+"t": "Grande ABC terá calor de 30°C e chuva à tarde nesta quarta-feira (18)",
+"p": "Climatempo prevê máximas de 28°C na maior parte da região; São Caetano pode chegar a 30°C. Inmet mantém alerta amarelo para tempestades até o fim do dia",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369426/grande-abc-tera-calor-de-30%C2%B0c-e-chuva-a-tarde-nesta-quarta-feira-18-",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:50",
+"t": "Lula assina nesta quinta-feira decreto que regulamenta o início da escala 5×2 para dezembro",
+"p": "O presidente Luiz Inácio Lula da Silva assinará nesta quinta-feira (19), às 9h, em cerimônia aberta à imprensa no Palácio do Planalto, o decreto que regulamenta a implementação da nova escala de trabalho 5×2 no país. Conforme anunciado na tarde desta terça-feira (17) pelo ministro do Trabalho e Emprego, Luiz…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Planalto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/lula-assina-nesta-quinta-feira-decreto-que-regulamenta-o-inicio-da-escala-5x2-para-dezembro/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-18",
+"h": "08:47",
+"t": "Panetone do Amor: Riopreto Shopping e Renascer celebram 12 anos de parceria",
+"p": "Campanha integra a programação do Natal em Londres, valoriza o trabalho dos alunos da instituição e convida os clientes a participar da iniciativa",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/panetone-do-amor-riopreto-shopping-e-renascer-celebram-12-anos-de-parceria/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:36",
+"t": "Jundiaí terá calor de 30°C e pancadas de chuva nesta quarta-feira (18)",
+"p": "Foto: Prefeitura de Jundiaí Com temperaturas de até 30°C, cidade terá sol e possibilidade de chuva; previsão indica instabilidade também durante o fim de semana.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-novembro-2/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:35",
+"t": "Governo de SP vai publicar edital para contratação de 5 mil professores",
+"p": "Segundo o Governo de SP, 3 mil das vagas serão para cargos efetivos para jornadas de 40 horas semanais e 2 mil para jornadas de 25h semanais",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/governo-de-sp-vai-publicar-edital-para-contratacao-de-5-mil-professores",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:25",
+"t": "Condenado por estupro e foragido desde 2023 é preso pela Polícia Ambiental em Mendonça",
+"p": "Homem de 23 anos tinha mandado de prisão para cumprimento de pena de 12 anos em regime fechado e foi localizado durante patrulhamento preventivo. Um homem de 23 anos, condenado a 12 anos de prisão pelo crime de estupro, foi capturado pela Polícia Militar Ambiental nesta segunda-feira (16.nov), no município de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mendonça"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/condenado-por-estupro-e-foragido-desde-2023-e-preso-pela-policia-ambiental-em-mendonca/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:24",
+"t": "Maioria da Aneel recomenda romper contrato da Enel em SP, mas diretor-geral trava decisão final",
+"p": "Reprodução Quatro dos cinco diretores da Aneel (Agência Nacional de Energia Elétrica) decidiram recomendar ao governo federal",
+"tema": "Geral",
+"s": "obra",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/maioria-da-aneel-recomenda-romper-contrato-da-enel-em-sp-mas-diretor-geral-trava-decisao-final/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:23",
+"t": "Santa Casa de Votuporanga recebe uma tonelada de alimentos arrecadados pelo CAMEV",
+"p": "Doação faz parte do Trote Solidário da Turma XV de Medicina da Unifev e reforça uma relação construída entre formação acadêmica, solidariedade e o Hospital. A Santa Casa de Votuporanga recebeu, nesta segunda-feira (16.nov), uma tonelada de alimentos arrecadados durante o Trote Solidário promovido pelo Centro…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/santa-casa-de-votuporanga-recebe-uma-tonelada-de-alimentos-arrecadados-pelo-camev/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:22",
+"t": "Ônibus afunda no asfalto em rua na zona Oeste de Ribeirão Preto; veja vídeo",
+"p": "Ônibus afundou após asfalto ceder na manhã desta quarta (18), no bairro Monte Alegre",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/onibus-afunda-no-asfalto-em-rua-na-zona-oeste-de-ribeirao-preto-veja-video/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:21",
+"t": "Mecânico morre atingido por caminhão enquanto consertava carreta em rodovia",
+"p": "Profissional realizava reparos em carreta no acostamento quando foi atingido por caminhoneiro que perdeu o controle da direção",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mecanico-morre-atingido-por-caminhao-enquanto-consertava-carreta-em-rodovia",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:20",
+"t": "Motociclista é preso com R$ 86 mil em produtos irregulares na BR-153",
+"p": "Operação conjunta da Polícia Rodoviária e da FICCO apreendeu medicamentos para emagrecimento, anabolizantes, perfumes importados, eletrônicos e uma BMW sem placa em Bady Bassitt. Uma operação integrada entre a Polícia Militar Rodoviária (PMRv) e a Força Integrada de Combate ao Crime Organizado (FICCO/SP) resultou…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Bady Bassitt"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/motociclista-e-preso-com-r-86-mil-em-produtos-irregulares-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:18",
+"t": "Guarda Civil Municipal de Santos ganha o reforço de 55 novos agentes após seis meses de formação teórica e prática",
+"p": "A Guarda Civil Municipal (GCM) de Santos ganhou um reforço com 55 novos agentes que concluíram seis meses de preparação para atuar na segurança da população. A formatura aconteceu nesta terça-feira (17), durante uma cerimônia no Clube Vasco da Gama. Estavam presentes autoridades do município, familiares e amigos…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/guarda-civil-municipal-de-santos-ganha-o-reforco-de-55-novos-agentes-apos-seis-meses-de-formacao-teorica-e-pratica/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:15",
+"t": "Tênis na máquina de lavar exige cuidados específicos para evitar deformações, danos ao tecido e desgaste da estrutura do calçado durante a limpeza",
+"p": "Ciclo delicado, água fria e secagem adequada ajudam a preservar os materiais e aumentar a durabilidade dos pares",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/tenis-na-maquina-de-lavar-exige-cuidados-especificos-para-evitar-deformacoes-danos-ao-tecido-e-desgaste-da-estrutura-do-calcado-durante-a-limpeza/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:15",
+"t": "Operação El Niño: Defesa Civil realiza capacitação de municípios da região",
+"p": "A Defesa Civil do Estado capacitou representantes de 53 municípios da região de Presidente Prudente nesta terça-feira, durante a oitava oficina regional da SP Sempre Alerta – Operação El Niño 2026/2027, realizada em Junqueirópolis. A programação também incluiu a entrega de dois caminhões-pipa, a assinatura de…",
+"tema": "Meio ambiente",
+"s": "entregue",
+"c": [
+"Presidente Prudente",
+"Junqueirópolis"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/operacao-el-nino-defesa-civil-realiza-capacitacao-de-municipios-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:13",
+"t": "Investigado por furto de gado é preso com arma irregular em Junqueirópolis",
+"p": "Um homem de 50 anos foi preso em flagrante nesta terça-feira (17), em Junqueirópolis, por posse irregular de arma de fogo. A prisão ocorreu durante o cumprimento de um mandado de busca e apreensão no bairro Jardim Alvorada. Na residência, a Polícia Civil apreendeu uma espingarda calibre 28, munições, materiais para…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Junqueirópolis"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/investigado-por-furto-de-gado-e-preso-com-arma-irregular-em-junqueiropolis/",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "08:00",
@@ -83,6 +339,46 @@
 },
 {
 "d": "2026-11-18",
+"h": "08:00",
+"t": "Dona da Brastemp e Consul inclui cooktops por indução na produção de fábrica que já faz micro-ondas e lava-louças no Brasil",
+"p": "A Whirlpool, multinacional dona de marcas como Brastemp, Consul e KitchenAid, recebeu autorização para fabricar fogões por indução em sua unidade industrial de Manaus, no Amazonas. O projeto prevê a produção de 9,6 mil equipamentos no primeiro ano, com investimento aproximado de R$ 4,97 milhões. A estimativa da…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/dona-da-brastemp-e-consul-inclui-cooktops-por-inducao-na-producao-de-fabrica-que-ja-faz-micro-ondas-e-lava-loucas-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "07:58",
+"t": "Carga de mercadorias estrangeiras avaliada em R$ 300 mil é apreendida na região",
+"p": "Uma carga de sucata que escondia celulares, tablets e medicamentos emagrecedores foi apreendida, na Rodovia Olímpio Ferreira da Silva (SP-272), em Mirante do Paranapanema (SP), na manhã desta terça-feira (17). De acordo com a Polícia Rodoviária, o valor estimado das mercadorias apreendidas é de R$ 300 mil. A ação…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mirante do Paranapanema"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/carga-de-mercadorias-estrangeiras-avaliada-em-r-300-mil-e-apreendida-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "07:56",
+"t": "Polícia investiga furto de placas e vandalismo em cemitérios de Caiabu",
+"p": "A Polícia Civil investiga pelo menos 50 furtos de placas em cemitérios de Caiabu (SP), além de danos ao patrimônio público. O caso foi divulgado nesta terça-feira (17). Até o momento, ninguém foi preso. Conforme a apuração, as ocorrências foram registradas no Cemitério Municipal de Caiabu e no Cemitério Municipal…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Caiabu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/policia-investiga-furto-de-placas-e-vandalismo-em-cemiterios-de-caiabu/",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "07:55",
 "t": "Decreto que regulamenta escala 5×2 será assinado na quinta-feira",
 "p": "O decreto vai fixar o início do cumprimento da nova escala a partir de 16 de dezembro",
@@ -98,6 +394,20 @@
 },
 {
 "d": "2026-11-18",
+"h": "07:54",
+"t": "Três funcionários são presos suspeitos de furtar 150 litros de diesel de indústria em Martinópolis",
+"p": "Três homens, com idades entre 27 e 49 anos, foram presos na terça-feira (16), suspeitos de furtar 150 litros de óleo diesel de uma indústria em que eles trabalhavam, em Martinópolis (SP). A Polícia Civil registrou a ocorrência após a equipe de segurança da empresa, localizada às margens da Rodovia Homero Severo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Martinópolis"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/tres-funcionarios-sao-presos-suspeitos-de-furtar-150-litros-de-diesel-de-industria-em-martinopolis/",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "07:50",
 "t": "Médico foragido da Justiça é preso durante plantão em PS de Barueri",
 "p": "Além do médico, um segundo homem considerado foragido da Justiça foi capturado no mesmo pronto-socorro de Barueri, na Grande São Paulo",
@@ -108,6 +418,18 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/medico-foragido-da-justica-e-preso-durante-plantao-em-ps-de-barueri",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "07:15",
+"t": "Reflexão de Ana Maria Braga: ‘não fique emprestando guarda-chuva pra quem só lembra de você quando chove’ — a frase sobre amizade e reciprocidade",
+"p": "Ana Maria Braga",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/reflexao-de-ana-maria-braga-nao-fique-emprestando-guarda-chuva-pra-quem-so-lembra-de-voce-quando-chove-a-reflexao-sobre-amizade-e-reciprocidade/",
 "auto": true
 },
 {
@@ -54698,330 +55020,6 @@
 "c": [],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/qualifica-sp-empreenda-abre-500-vagas-para-cursos-gratuitos-de-capacitacao-online/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:47",
-"t": "AMEs da região oferecem check-up gratuito para homens acima dos 50 anos",
-"p": "A Secretaria de Estado da Saúde de São Paulo mantém o programa “Filho que Ama Leva o Pai no AME”, iniciativa permanente que oferece exames e consultas preventivas gratuitas para homens a partir dos 50 anos. Realizado aos sábados em Ambulatórios Médicos de Especialidades de todo o estado — incluindo as unidades de…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/ames-da-regiao-oferecem-check-up-gratuito-para-homens-acima-dos-50-anos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:45",
-"t": "Falta de água atinge bairros hoje; veja regiões afetadas e quando volta",
-"p": "Falta de água atinge cinco bairros de Campinas nesta terça-feira (3). Veja as regiões afetadas e os horários previstos para a normalização do abastecimento",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-agua-atinge-bairros-hoje-veja-regioes-afetadas-e-quando-volta/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:41",
-"t": "Mulher perde R$ 3.380 em golpe da falsa advogada, ignora alerta de risco antes de fazer Pix e Justiça nega devolução do dinheiro",
-"p": "Uma mulher acreditou que estava prestes a receber dinheiro de um processo judicial, mas acabou perdendo R$ 3.380 para criminosos que se passaram por sua advogada. O caso ganhou um novo capítulo quando ela tentou recuperar o prejuízo na Justiça e teve o pedido de indenização negado. O motivo chamou atenção: antes de…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/mulher-perde-r-3-380-em-golpe-da-falsa-advogada-ignora-alerta-de-risco-antes-de-fazer-pix-e-justica-nega-devolucao-do-dinheiro/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:37",
-"t": "Patrão suspeito de espancar ex-funcionário que foi cobrar salário é preso",
-"p": "Suspeito é dono de lanchonete em Sorocaba e estava foragido desde 23 de outubro após agredir a pauladas ex-funcionário motoboy",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Sorocaba"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/patrao-suspeito-de-espancar-ex-funcionario-que-foi-cobrar-salario-e-preso",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:35",
-"t": "Novas regras do SAC podem gerar até 100 mil empregos no Brasil",
-"p": "Foto: Tribuna de Jundiaí Atendimento humano ampliado deve impulsionar contratações em bancos, telecomunicações, energia e planos de saúde",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/economia/empregos/novas-regras-sac-empregos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:30",
-"t": "Aos 52 anos, Rodrigo Faro revela a atividade física responsável por seu corpão sarado e garante que o treino mudou sua vida",
-"p": "Após anos à frente de programas de auditório, Rodrigo Faro vive uma nova fase na televisão enquanto mantém uma rotina dedicada à saúde e ao condicionamento físico. Praticante de calistenia há quase três anos, o apresentador revelou como a modalidade influencia sua disciplina e sua relação com os desafios durante…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/aos-52-anos-rodrigo-faro-revela-a-atividade-fisica-responsavel-por-seu-corpao-sarado-e-garante-que-o-treino-mudou-sua-vida/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:27",
-"t": "Novembro Azul: Saúde de SP oferece check-up gratuito para homens",
-"p": "Programa \"Filho que Ama Leva o Pai no AME\" realiza exames aos sábados, sem necessidade de encaminhamento médico",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/vida/novembro-azul-saude-de-sp-oferece-check-up-gratuito-para-homens/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:22",
-"t": "Concessão do antigo Daem tem novo capítulo na Justiça de São Paulo",
-"p": "Parecer apresentado ao TJ-SP analisa a mudança de posição da administração após acordo que permitiu manter a concessão.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/concessao-do-antigo-daem-tem-novo-capitulo-na-justica-de-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:17",
-"t": "Pinacoteca Benedicto Calixto promove ciclo gratuito de palestras em novembro",
-"p": "A programação acontece de 6 a 28 de novembro, com oito encontros gratuitos sobre cultura, sustentabilidade, inovação e desenvolvimento regional, na Pinacoteca Benedicto Calixto, em Santos.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/pinacoteca-benedicto-calixto-promove-ciclo-gratuito-de-palestras-em-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:15",
-"t": "Havan começa construção de megaloja de R$ 110 milhões com dois pisos e praça de alimentação; projeto dobrou de 10 mil para 20 mil m²",
-"p": "A Havan, gigante rede do varejo brasileiro, começou a construção de uma nova megaloja às margens da BR-101 em Tijucas, no Litoral de Santa Catarina. O investimento total é de R$ 110 milhões e projeto conta com 20 mil metros quadrados de área construída. O empresário Luciano Hang visitou o terreno da unidade em 26 […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/havan-comeca-construcao-de-megaloja-de-r-110-milhoes-com-dois-pisos-e-praca-de-alimentacao-projeto-dobrou-de-10-mil-para-20-mil-m%c2%b2/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:15",
-"t": "Construção de nova escola avança na Zona Noroeste de Santos",
-"p": "As obras da nova UME Hilda Rabaça, na Vila Haddad, Zona Noroeste de Santos, avançaram para novas etapas. Com a superestrutura e a alvenaria concluídas, os serviços incluem o reboco das paredes e a instalação dos contramarcos das esquadrias, após a recuperação das estruturas. A previsão de entrega é julho de 2027.",
-"tema": "Educação",
-"s": "entregue",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/construcao-de-nova-escola-avanca-na-zona-noroeste-de-santos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:06",
-"t": "Roubos caem 32,7% no litoral sul de SP em setembro, aponta governo",
-"p": "Roubos de veículos recuaram 11,9% em setembro; entre janeiro e setembro, roubos em geral caíram 29,2% e furtos tiveram redução de 15,7%",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/roubos-caem-327-no-litoral-sul-de-sp-em-setembro-aponta-governo.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:06",
-"t": "MP recorre de decisão que rejeitou ação sobre gastos com shows em Marília",
-"p": "Promotoria questiona entendimento da Justiça e apresenta novos argumentos sobre uso de recursos municipais nas apresentações de Gusttavo Lima e Maiara & Maraisa.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/mp-recorre-de-decisao-que-rejeitou-acao-sobre-gastos-com-shows-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:05",
-"t": "Escolas públicas podem se inscrever para receber Cuboteca em 2027; veja como participar",
-"p": "Instituto EP vai selecionar uma unidade de ensino para receber um Cuboteca; inscrições podem ser feitas até 30 de novembro",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/escolas-publicas-podem-se-inscrever-para-receber-cuboteca-em-2027-veja-como-participar/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:04",
-"t": "Jovem é pronunciado e irá a juri popular por tentar matar o pai em Marília",
-"p": "Laudo comprovou que menor não matou o pai adotivo em Marília e Justiça determinou desinternação Crime aconteceu em janeiro deste ano; vítima foi atingida por diversos disparos na garagem de casa na zona oeste da cidade.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/jovem-e-pronunciado-e-ira-a-juri-popular-por-tentar-matar-o-pai-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:02",
-"t": "Chuva à vista: veja como proteger a escova da umidade e prolongar a finalização",
-"p": "Manter o cabelo alinhado depois da escova pode ser um desafio quando a umidade do ar aumenta. Em dias de chuva ou calor intenso, os fios podem perder a forma e ganhar volume, comprometendo o resultado da produção. Para preservar o penteado por mais tempo, a escolha dos finalizadores e alguns cuidados durante a…",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/chuva-a-vista-veja-como-proteger-a-escova-da-umidade-e-prolongar-a-finalizacao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:02",
-"t": "11 livros para incluir na lista de leituras em novembro",
-"p": "Novembro chega para estimular a vontade de cumprir metas de leitura e de conhecer histórias que não podem ficar para depois. Nesta seleção, as obras passeiam por gêneros e temas que são capazes de cativar os mais diferentes grupos de leitores. Entre as lições universais de Khalil Gibran e as curiosidades por trás…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/11-livros-para-incluir-na-lista-de-leituras-em-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "11:52",
-"t": "Bertioga garante transporte gratuito para candidatos nos dias do Enem 2026",
-"p": "Tarifa zero vale para os dias 8 e 15 de novembro. Aluno precisa apresentar o cartão de inscrição e um documento com foto no momento do embarque",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/bertioga-garante-transporte-gratuito-para-candidatos-nos-dias-do-enem-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "11:49",
-"t": "Cadastro eleitoral reabre nesta terça-feira (3) e cartórios retomam serviços de título; veja como agendar",
-"p": "Serviços de emissão de título, transferência de domicílio, coleta de biometria e regularização da situação eleitoral estão disponíveis",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/cadastro-eleitoral-reabre-nesta-terca-feira-3-e-cartorios-retomam-servicos-de-titulo-veja-como-agendar/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "11:44",
-"t": "Arranha-céu de US$ 1,2 bilhão promete atingir 1 km de altura, superar o Burj Khalifa e se tornar o prédio mais alto do mundo",
-"p": "A Jeddah Tower, na Arábia Saudita, tem uma meta ambiciosa para a engenharia mundial: alcançar um quilômetro de altura e se tornar o edifício mais alto do planeta. Com investimento estimado em US$ 1,2 bilhão (cerca de R$ 6,5 bilhões), o arranha-céu será construído na cidade de Jeddah. O edifício terá uso misto e…",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/arranha-ceu-de-us-12-bilhao-promete-atingir-1-km-de-altura-superar-o-burj-khalifa-e-se-tornar-o-predio-mais-alto-do-mundo/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "11:42",
-"t": "Prefeitura de Fernandópolis lança nova etapa de recapeamento asfáltico para recuperar ruas da cidade",
-"p": "A Prefeitura de Fernandópolis iniciou as ações preparatórias para uma nova operação de recapeamento asfáltico que vai atender o perímetro urbano do município. A iniciativa dá continuidade aos trabalhos de melhoria da infraestrutura viária realizados na cidade e foi oficializada pelo prefeito João Paulo Cantarella.…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-lanca-nova-etapa-de-recapeamento-asfaltico-para-recuperar-ruas-da-cidade/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "11:41",
-"t": "Simpósio gratuito em Fernandópolis orienta artistas e agentes culturais sobre editais e direitos",
-"p": "Artistas, produtores e agentes culturais de Fernandópolis contam com uma oportunidade para aprimorar seus conhecimentos sobre captação de recursos e legislação do setor. Nos dias 18 e 19 de novembro, a Câmara Municipal sedia o simpósio “Cúpula Jurídica: Arte Além dos Palcos”, promovido pela Universidade Brasil. Com…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/simposio-gratuito-em-fernandopolis-orienta-artistas-e-agentes-culturais-sobre-editais-e-direitos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "11:39",
-"t": "Mulher encontra 35 obras de famoso pintor do século XVII em casa e acervo escondido há 100 anos pode chegar a mais de R$ 101 milhões",
-"p": "A holandesa Charlotte Meyer encontrou um conjunto histórico de obras de arte ao organizar pertences de família durante a pandemia de Covid-19 em 2020. Enquanto examinava um cofre antigo, ela abriu uma pasta esquecida que guardava 35 pequenas gravuras. As obras foram adquiridas por seu avô entre 1900 e 1920 por…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/mulher-encontra-35-obras-de-famoso-pintor-do-seculo-xvii-em-casa-e-acervo-escondido-ha-100-anos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "11:37",
-"t": "Dupla é presa após furtar fios de unidade de saúde em Rio Preto",
-"p": "Atendimento do Complexo de Doenças Crônicas Transmissíveis, na Vila Curti, não foi comprometido",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/dupla-e-presa-apos-furtar-fios-de-unidade-de-saude-em-rio-preto/",
 "auto": true
 }
 ]
