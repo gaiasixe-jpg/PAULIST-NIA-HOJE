@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-18T14:15:11-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-18T15:02:25-03:00",
+"novos_nesta_coleta": 31,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,11 +14,13 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -25,16 +28,13 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
 },
 {
 "fonte": "A Tribuna",
@@ -45,23 +45,257 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | The read operation timed out | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unav"
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "15:02",
+"t": "Força Tática desarticula central de drogas sintéticas e prende suspeito em Votuporanga",
+"p": "Ecstasy, MD, munições calibre .380 e uma motocicleta adulterada foram apreendidos durante operação que terminou com prisão em flagrante na zona sul da cidade. Uma operação da Força Tática da Polícia Militar resultou na prisão em flagrante de um homem suspeito de tráfico de drogas na tarde desta terça-feira…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/forca-tatica-desarticula-central-de-drogas-sinteticas-e-prende-suspeito-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:00",
+"t": "Tarcísio de Freitas promove reforma no governo e troca comando da Fazenda",
+"p": "Governador confirmou cinco mudanças no secretariado, substitui Samuel Kinoshita por Rogério Campos na Fazenda e desmembra duas das principais pastas da administração paulista. O governador do Estado de São Paulo, Tarcísio de Freitas (Republicanos), anunciou uma ampla reestruturação administrativa para o início de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/tarcisio-de-freitas-promove-reforma-no-governo-e-troca-comando-da-fazenda/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:58",
+"t": "PM evita confronto e convence homem armado com facão a se render em Jales",
+"p": "Durante ocorrência de violência doméstica, PMs utilizaram técnicas de negociação e verbalização para controlar a situação sem uso da força, garantindo a segurança dos envolvidos. Uma ação da Polícia Militar evitou uma possível tragédia no último sábado (14.nov), em Jales/SP, durante o atendimento de uma ocorrência…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/pm-evita-confronto-e-convence-homem-armado-com-facao-a-se-render-em-jales/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:57",
+"t": "Asfalto cede e caminhão afunda em rua de Votuporanga",
+"p": "Vazamento na rede de água pode ter provocado o afundamento registrado nesta quarta-feira (18), no bairro Vivendas II; não houve feridos e o abastecimento já foi normalizado",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/asfalto-cede-e-caminhao-afunda-em-rua-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:57",
+"t": "Asfalto cede após vazamento e “engole” caminhão betoneira em bairro de Votuporanga",
+"p": "Afundamento da pista no Vivendas II foi provocado por vazamento na rede de água; motorista não se feriu e a Saev notificou a loteadora responsável pelo empreendimento. Um caminhão betoneira ficou parcialmente engolido por uma cratera após o asfalto ceder na manhã desta quarta-feira (18.nov), no loteamento Vivendas…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/asfalto-cede-apos-vazamento-e-engole-caminhao-betoneira-em-bairro-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:53",
+"t": "Vagas de emprego em Jundiaí: 5 empresas oferecem 270 oportunidades; veja como participar",
+"p": "Foto: Prefeitura de Jundiaí Seleções acontecem até 25 de novembro no Maxi Shopping, com oportunidades nos setores de comércio, logística e produção.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/vagas-emprego-jundiai-270/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:52",
+"t": "Defesa Civil capacita 43 municípios e anuncia R$ 1,67 milhão em investimentos durante oficina em Araçatuba",
+"p": "A Defesa Civil do Estado de São Paulo realiza nesta quarta-feira (18), no município de Araçatuba, a nona edição da Oficina Preparatória da SP Sempre Alerta – Operação El Niño 2026/2027. O evento reúne gestores e agentes de 43 cidades da região com o objetivo de fortalecer a capacidade de resposta diante de eventos…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-capacita-43-municipios-e-anuncia-r-167-milhao-em-investimentos-durante-oficina-em-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:51",
+"t": "Tarcísio anuncia reformulação de quatro secretarias e define titulares para a nova gestão",
+"p": "O governador de São Paulo, Tarcísio de Freitas, anunciou nesta quarta-feira (18) uma ampla reestruturação administrativa envolvendo quatro secretarias estaduais, com a redistribuição de competências e a confirmação dos nomes que liderarão essas pastas na nova gestão. O objetivo da mudança, segundo o Executivo, é…",
+"tema": "Política",
+"s": "anunciado",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tarcisio-anuncia-reformulacao-de-quatro-secretarias-e-define-titulares-para-a-nova-gestao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:50",
+"t": "Operação da PF prende sete pessoas e apreende carros, joias, arma e R$28 mil em dinheiro",
+"p": "Conexão Oculta investiga tráfico internacional de drogas pelo porto de Santos; Justiça também determinou bloqueio de bens dos investigados",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/operacao-da-pf-prende-sete-pessoas-e-apreende-carros-joias-arma-e-r28-mil-em-dinheiro.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:50",
+"t": "Estado de SP recebe nova remessa com mil doses da vacina contra a mpox para grupos prioritários",
+"p": "A Secretaria de Estado da Saúde de São Paulo (SES-SP) recebeu do Ministério da Saúde um novo lote com mil doses do imunizante contra a mpox. O material será distribuído a partir da próxima segunda-feira (23) para os Grupos de Vigilância Epidemiológica (GVEs) do estado, que farão o repasse aos municípios com base em…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estado-de-sp-recebe-nova-remessa-com-mil-doses-da-vacina-contra-a-mpox-para-grupos-prioritarios/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:43",
+"t": "Projeto financiado pela PNAB em Fernandópolis vai retratar história de superação e inclusão educacional na terceira idade",
+"p": "A produtora cultural Leonilda Martins Lourenço de Souza assinou, nesta quarta-feira (18), o Termo de Execução Cultural referente ao projeto “Narrativa em Vídeo: A História da Minha Mãe”. A iniciativa foi contemplada com recursos da Política Nacional Aldir Blanc (PNAB), repassados por meio da Prefeitura de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/projeto-financiado-pela-pnab-em-fernandopolis-vai-retratar-historia-de-superacao-e-inclusao-educacional-na-terceira-idade/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:41",
+"t": "Grupo apresenta o espetáculo “Delírios de um Poeta sem Inspiração” na Mostra de Teatro de Fernandópolis",
+"p": "O Teatro Municipal “Merciol Viscardi” recebe nesta quarta-feira (18) duas apresentações do espetáculo “Delírios de um Poeta sem Inspiração”, encenado pelo grupo Líbero em Cena, formado por estudantes da ECIM Líbero de Almeida Silvares. A peça integra a programação da 29ª Mostra Estudantil de Teatro de Fernandópolis…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/grupo-apresenta-o-espetaculo-delirios-de-um-poeta-sem-inspiracao-na-mostra-de-teatro-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:40",
+"t": "Justiça suspende licitação de R$ 6 milhões para fornecimento de iPhones no Senado",
+"p": "Foto: Lula Marques/Agência Brasil Decisão liminar atende a pedido do deputado Nikolas Ferreira; magistrado considerou que exigência de celulares de luxo viola regras do serviço público",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/justica-suspende-licitacao-iphones-senado-nikolas-ferreira/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:34",
+"t": "Asfalto cede após vazamento de água e engole caminhão betoneira em Votuporanga",
+"p": "Um caminhão betoneira acabou sendo parcialmente engolido pelo asfalto na manhã desta quarta-feira (18) após o terreno ceder no bairro Vivendas II, em Votuporanga. A ocorrência foi provocada por um rompimento na rede de distribuição de água, o que gerou um forte fluxo subterrâneo e enfraqueceu a base da via pública,…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/asfalto-cede-apos-vazamento-de-agua-e-engole-caminhao-betoneira-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:25",
+"t": "Tarcísio vai manter Osvaldo Nico Gonçalves na Secretaria de Segurança Pública de SP",
+"p": "",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369522/tarcisio-vai-manter-osvaldo-nico-goncalves-na-secretaria-de-seguranca-publica-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:17",
+"t": "Polícia investiga morte de pichador após perseguição em prédio de SP",
+"p": "Imagens mostram grupo perseguindo pichador após intervenção dele em prédio. Olodum ficou desaparecido antes de ser encontrado morto",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-investiga-morte-de-pichador-apos-perseguicao-em-predio-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:13",
+"t": "Linha 557 tem alteração no trajeto devido a obra na Avenida José Mezzalira, em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Desvio pelo Recanto da Prata afeta viagens no Ivoturucaia e Jardim Marajoara; Prefeitura prevê concluir os reparos em até dez dias.",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/linha-557-desvio-obra-ivoturucaia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "14:11",
+"t": "Natal Encantado de Santo André conta com shows de Frejat, Jota Quest e Art Popular",
+"p": "O calendário de Natal contará também com a chegada do Papai Noel, no dia 4 de dezembro, em grandiosa estrutura montada no espelho d’água do Paço, que terá ainda Casa do Papai Noel, roda gigante, carrossel, espaços instagramáveis e outras atrações",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369517/natal-encantado-de-santo-andre-conta-com-shows-de-frejat-jota-quest-e-art-popular",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "14:08",
@@ -127,6 +361,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/policia-recebeu-pedido-de-socorro-antes-de-namorada-de-ex-psol-ser-morta",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "13:53",
+"t": "Sete filhotes são abandonados no meio da mata, sem água e comida, mas ciclista muda destino dos cães e garante novos lares para todos",
+"p": "Um passeio de bicicleta terminou em um resgate inesperado em Major Vieira, no Planalto Norte de Santa Catarina. Durante o percurso, Helinton Haribert Paneitz encontrou sete filhotes de cães dentro de uma caixa em uma reserva de pinus. Os animais estavam sem água e comida. Naquele momento, Helinton verificava um…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sete-filhotes-sao-abandonados-no-meio-da-mata-sem-agua-e-comida-mas-ciclista-muda-destino-dos-caes-e-garante-novos-lares-para-todos/",
 "auto": true
 },
 {
@@ -242,6 +488,34 @@
 },
 {
 "d": "2026-11-18",
+"h": "13:27",
+"t": "Seminário intensivo transforma e fortalece perfil empreendedor em Itapeva",
+"p": "Cinco dias de desafios, aprendizados, superação e descobertas. Foi assim a experiência vivida pelos participantes do Empretec, seminário desenvolvido pela Organização das Nações Unidas (ONU) e promovido no Brasil pelo Sebrae, que reuniu empreendedores em Itapeva para uma intensa jornada de desenvolvimento pessoal e…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/perfil-empreendedor-2/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "13:26",
+"t": "Anderson Pomini, presidente da APS, será homenageado com Medalha Braz Cubas em Santos",
+"p": "O presidente da Autoridade Portuária de Santos (APS), Anderson Pomini, será homenageado no dia 23 de novembro, segunda-feira, na Câmara Municipal de Santos. Ele receberá a Medalha de Honra ao Mérito Braz Cubas, em reconhecimento aos serviços prestados à Cidade. A iniciativa é do presidente do Legislativo santista,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/anderson-pomini-presidente-da-aps-sera-homenageado-com-medalha-braz-cubas-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "13:24",
 "t": "Provão Paulista: saiba quais são os cursos mais procurados pelos estudantes",
 "p": "Provão Paulista foi aplicado neste mês de novembro aos estudantes do ensino médio. Prazo para escolha de cursos vai até 27/11",
@@ -264,6 +538,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/sangue-o-negativo-critico-colsan-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "13:23",
+"t": "Suzano terá programação cultural no feriado da Consciência Negra",
+"p": "Shows, dança, capoeira e samba de roda serão realizados entre sexta-feira (20) e domingo (22)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/suzano/suzano-tera-programacao-cultural-no-feriado-da-consciencia-negra/",
 "auto": true
 },
 {
@@ -54723,315 +55011,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4366641/alexandre-damasio-presidente-da-camara-de-dirigentes-lojistas-de-sao-caetano-%7C-abc-da-economia",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:55",
-"t": "Quadras de areia da Lagoa do Taquaral ficam no escuro e geram reclamações de usuários",
-"p": "Das cinco quadras do Parque Portugal, em Campinas, três estão completamente apagadas e uma funciona com iluminação parcial; Prefeitura informou que fará vistoria nesta quarta-feira (4)",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Campinas",
-"Taquaral"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/quadras-de-areia-da-lagoa-do-taquaral-ficam-no-escuro-e-geram-reclamacoes-de-usuarios/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:53",
-"t": "Reeleito, Adilson Jr (PP) presidirá Legislativo de Santos durante o biênio 2027/2028",
-"p": "Pela primeira vez, um vereador foi reeleito durante o mesmo mandato, após alteração no Regimento Interno da Câmara. Este será o seu quarto mandato. \"Nosso objetivo é deixar o Poder Legislativo à altura que a população merece\", destacou.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/adilson-jr-presidente-da-camara-reeleicao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:47",
-"t": "Ciclones chegam a SP e provocam virada no tempo; veja quando",
-"p": "Dois ciclones devem provocar temporais, chuva forte e ventania em São Paulo; confira a previsão do tempo",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/ciclones-chegam-a-sp-e-provocam-virada-no-tempo-veja-quando/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:37",
-"t": "Linhas de ônibus mudam trajeto a partir desta quarta-feira; veja quais são",
-"p": "Duas linhas de ônibus mudam de trajeto em Campinas a partir de 4 de novembro. Veja o que muda nas linhas e quais pontos deixam de ser atendidos",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/linhas-de-onibus-mudam-trajeto-a-partir-desta-quarta-feira-veja-quais-sao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:31",
-"t": "Clube histórico de SP reduz dívida de R$ 871 milhões em 74% após acordo com maior banco de investimentos da América Latina e anuncia megaparque público de 85 mil m²",
-"p": "Um dos clubes mais tradicionais de São Paulo conseguiu reduzir em aproximadamente 74% uma dívida tributária estimada em R$ 871 milhões, após uma negociação que envolveu um dos maiores grupos financeiros da América Latina. Além do desconto de R$ 643 milhões, o acordo prevê uma transformação milionária: a construção…",
-"tema": "Contas públicas",
-"s": "anunciado",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/esportes/clube-historico-de-sp-reduz-divida-de-r-871-milhoes-em-74-apos-acordo-com-maior-banco-de-investimentos-da-america-latina-e-anuncia-megaparque-publico-de-85-mil-m%c2%b2/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:26",
-"t": "Homem preso em Itaquá por suspeita de matar gato com golpe de vassoura é liberado após audiência de custódia; vídeo",
-"p": "Suspeito terá que cumprir medidas cautelares; caso aconteceu na segunda-feira (2) e foi registrado por câmeras de segurança",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itaquaquecetuba"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/policia/homem-preso-em-itaqua-por-suspeita-de-matar-gato-com-golpe-de-vassoura-e-liberado-apos-audiencia-de-custodia-video/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:17",
-"t": "Esse país transformou deserto em plantações gigantes vistas pela NASA, mas gastou água acumulada há 20 mil anos",
-"p": "Enormes círculos verdes espalhados pela areia chamaram atenção em imagens de satélite da NASA. As formações, que parecem desenhos geométricos feitos no deserto, são na verdade plantações irrigadas na Arábia Saudita, país do Oriente Médio conhecido pelo clima extremamente seco. Durante décadas, o governo saudita…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Oriente"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/esse-pais-transformou-deserto-em-plantacoes-gigantes-vistas-pela-nasa-mas-gastou-agua-acumulada-ha-20-mil-anos-nn/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:13",
-"t": "Ribeirão Pires terá conferência lúdica nesta quarta-feira (4)",
-"p": "Programação da 13ª Conferência Municipal dos Direitos da Criança e do Adolescente terá atividades participativas e debates também na quinta-feira (5)",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366619/ribeirao-pires-tera-conferencia-ludica-nesta-quarta-feira-4-",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:12",
-"t": "Após sequência de eventos, Parque Raya recebe obras de recuperação do gramado; VEJA FOTOS",
-"p": "Recuperação do gramado do Parque Raya, em Ribeirão Preto, acontece após sequência de eventos que danificaram a vegetação do local",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/apos-sequencia-de-eventos-parque-raya-recebe-obras-de-recuperacao-do-gramado-veja-fotos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:12",
-"t": "São Bernardo terá ações de saúde para adolescentes no Novembro Azul",
-"p": "Campanha Novembrinho Azul terá atividades educativas e vacinação contra HPV; no sábado (28), as 36 UBSs funcionarão das 8h às 17h",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366625/sao-bernardo-tera-acoes-de-saude-para-adolescentes-no-novembro-azul",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:11",
-"t": "Justiça libera três homens que trocaram tiros em praia do litoral norte",
-"p": "Justiça concede liberdade provisória aos três homens detidos por trocarem tiros na faixa de areia na Praia Grande, em Ubatuba",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ubatuba"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/justica-libera-tres-homens-que-trocaram-tiros-em-praia-do-litoral-norte",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:10",
-"t": "Pedágio free flow: veja como pagar e recuperar valor de multa; prazo termina no dia 16",
-"p": "Motoristas têm até 16 de novembro para pagar pedágios free flow atrasados sem multa em SP. Veja como consultar débitos, pedir reembolso e retirar pontos da CNH",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/pedagio-free-flow-veja-como-pagar-e-recuperar-valor-de-multa-prazo-termina-no-dia-16/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:09",
-"t": "Campinas suspende licitação de R$ 224,6 milhões para contratar profissionais para UPAs e Samu",
-"p": "Pregão previa contratação de serviços médicos e de enfermagem para quatro unidades de pronto atendimento e o Samu; Prefeitura afirma que suspensão ocorreu após questionamentos de empresas e que não há prejuízo aos pacientes",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/saude/campinas-suspende-licitacao-de-r-2246-milhoes-para-contratar-profissionais-para-upas-e-samu/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:02",
-"t": "Cenoura faz bem para quê? Conheça 8 benefícios da hortaliça para a saúde",
-"p": "Com sua coloração laranja vibrante e sabor naturalmente adocicado, a cenoura é um vegetal que se destaca tanto pela versatilidade na cozinha quanto pelos benefícios para a saúde. Fácil de encontrar e incluir na alimentação diária, ela é fonte de nutrientes importantes para o bom funcionamento do organismo, como…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/cenoura-faz-bem-para-que-conheca-8-beneficios-da-hortalica-para-a-saude/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "18:00",
-"t": "Suspeito de dar voadora em idoso em Osasco já foi condenado a 14 anos por matar carroceiro com flecha",
-"p": "A Justiça de São Paulo decretou a prisão temporária de Denis Young Kim, de 43 anos, suspeito de agredir um idoso que caminhava com o auxílio de muletas em Osasco, na região metropolitana de São Paulo. A decisão atendeu a um pedido da Polícia Civil, que investiga o caso como tentativa de homicídio por motivo […]",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"São Paulo",
-"Osasco"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/suspeito-de-dar-voadora-em-idoso-em-osasco-ja-foi-condenado-a-14-anos-por-matar-carroceiro-com-flecha/",
-"auto": true,
-"org": "Prefeitura"
-},
-{
-"d": "2026-11-03",
-"h": "17:54",
-"t": "Comissão especial da Câmara Municipal de São Paulo arquiva pedido de impeachment de Nunes",
-"p": "Relatório de Major Palumbo recebeu cinco votos favoráveis e dois contrários; processo não seguirá para análise do plenário",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366632/comissao-especial-da-camara-municipal-de-sao-paulo-arquiva-pedido-de-impeachment-de-nunes",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "17:51",
-"t": "Justiça de São Paulo mantém venda de cães e gatos pela internet após associações pedirem proibição por risco de maus-tratos e criadores clandestinos",
-"p": "Comprar um cachorro ou gato pela internet pode parecer uma operação simples, semelhante à aquisição de outros produtos anunciados em plataformas digitais. Entretanto, por trás de algumas ofertas podem existir criadores clandestinos, condições inadequadas de reprodução e até situações de maus-tratos. Foi justamente…",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/justica-de-sao-paulo-mantem-venda-de-caes-e-gatos-pela-internet-apos-associacoes-pedirem-proibicao-por-risco-de-maus-tratos-e-criadores-clandestinos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "17:48",
-"t": "Esposa acompanha Flávio nos EUA após ser peça-chave para vender moderação nas eleições",
-"p": "Reprodução / Redes Sociais Diante de milhares de apoiadores, no ato de 7 de Setembro na avenida Paulista, um dos principais eventos da campanha de Flávio Bolsonaro, a sua mulher, Fernanda Bolsonaro, fez um discurso de 56 segundos.",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/especiais-santa-portal/rumos-e-desafios/esposa-acompanha-flavio-nos-eua-apos-ser-peca-chave-para-vender-moderacao-nas-eleicoes/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "17:46",
-"t": "Feira em Várzea Paulista reúne produtos exclusivos e valoriza talentos da cidade",
-"p": "Foto: Prefeitura de Várzea Paulista Instalado no shopping, espaço oferece peças artesanais produzidas por empreendedores locais durante três dias da semana",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Várzea Paulista"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/feira-criativa-varzea-paulista/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "17:45",
-"t": "Taboão da Serra oferece exames gratuitos para homens acima de 50 anos, com consultas de cardiologista e urologista sem encaminhamento médico",
-"p": "Homens com 50 anos ou mais podem realizar consultas e exames gratuitos no Ambulatório Médico de Especialidades (AME) de Taboão da Serra, na Grande São Paulo. A unidade participa do programa “Filho que Ama Leva o Pai no AME”, da Secretaria de Estado da Saúde, que oferece check-up em mais de 20 unidades estaduais,…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Taboão da Serra"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/taboao-da-serra-oferece-exames-gratuitos-para-homens-acima-de-50-anos-com-consultas-de-cardiologista-e-urologista-sem-encaminhamento-medico/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "17:36",
-"t": "Prefeitura de Sorocaba dá início à programação de 50 anos do Parque da Biquinha",
-"p": "A Prefeitura de Sorocaba deu início, na manhã desta terça-feira (3), à programação especial de aniversário de 50 anos do Parque da Biquinha (5 de novembro), um dos espaços verdes mais tradicionais da cidade. Voltada a pessoas de todas as idades, a iniciativa reunirá atividades educativas, culturais, recreativas e…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-da-inicio-a-programacao-de-50-anos-do-parque-da-biquinha/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "17:35",
-"t": "São José dos Campos alcança pontuação máxima em prêmio estadual com programa que oferece 22 modalidades esportivas para jovens",
-"p": "São José dos Campos, no Vale do Paraíba, conquistou o primeiro lugar na categoria Município Amigo do Esporte do Prêmio Selo Amigo do Esporte, promovido pela Secretaria de Esportes do Estado de São Paulo. O município alcançou a pontuação máxima de 50 pontos com o Programa Atleta Cidadão, iniciativa voltada à…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/sao-jose-dos-campos-alcanca-pontuacao-maxima-em-premio-estadual-com-programa-que-oferece-22-modalidades-esportivas-para-jovens/",
 "auto": true
 }
 ]
