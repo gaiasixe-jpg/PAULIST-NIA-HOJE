@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T04:30:11-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-18T06:12:42-03:00",
+"novos_nesta_coleta": 19,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,140 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "06:03",
+"t": "Obras da Areninha em Fernandópolis entram na reta final com inauguração prevista para dezembro",
+"p": "Os trabalhos de construção da Arena Lazer SP, iniciativa integrada ao programa estadual “100% Esporte para Todos”, continuam avançando em ritmo acelerado em Fernandópolis e se aproximam de sua fase final. O novo complexo poliesportivo e de convivência está sendo erguido na Rua Mário Benez, situada no Residencial…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/obras-da-areninha-em-fernandopolis-entram-na-reta-final-com-inauguracao-prevista-para-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:02",
+"t": "UNIFEF reúne centenas de estudantes e apresenta mais de 120 trabalhos científicos em congressos acadêmicos",
+"p": "O Centro Universitário de Fernandópolis (UNIFEF) promoveu, entre os dias 11 e 13 de novembro, a exibição de banners científicos referentes à quinta edição do Congresso de Educação, Ciências e Tecnologia (CONECT) e à estreia do Congresso de Pesquisa e Extensão (CONPEX). Realizada durante os horários regulares de…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/unifef-reune-centenas-de-estudantes-e-apresenta-mais-de-120-trabalhos-cientificos-em-congressos-academicos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:02",
+"t": "Prefeitura avança na climatização de creches e inicia instalação de aparelhos de ar-condicionado em Brasitânia",
+"p": "A Prefeitura de Fernandópolis deu início aos trabalhos de instalação de novos aparelhos de ar-condicionado no Centro Municipal de Educação Infantil (CEMEI) Américo Borin, localizado no distrito de Brasitânia. Ao todo, a unidade receberá quatro equipamentos de alta potência — sendo dois de 36 mil BTUs e outros dois…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-avanca-na-climatizacao-de-creches-e-inicia-instalacao-de-aparelhos-de-ar-condicionado-em-brasitania/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:02",
+"t": "Empresários de Fernandópolis são convidados para encontro com secretário estadual de Desenvolvimento Econômico",
+"p": "A Prefeitura de Fernandópolis, em parceria com a Secretaria de Desenvolvimento Econômico do Estado de São Paulo, está convocando a classe empresarial do município para participar de um importante encontro institucional com o titular da pasta estadual, Jorge Lima. A reunião acontecerá no próximo dia 25 de novembro,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/empresarios-de-fernandopolis-sao-convidados-para-encontro-com-secretario-estadual-de-desenvolvimento-economico/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:01",
+"t": "Escola municipal realiza apresentações teatrais e destaca o protagonismo de estudantes em São João das Duas Pontes",
+"p": "A Escola Municipal de Ensino Fundamental (EMEF) Manoel Joaquim Santana, em São João das Duas Pontes, promoveu nos dias 11 e 12 de novembro uma série de apresentações artísticas que mobilizaram a comunidade escolar. A programação colocou em evidência a criatividade, a expressão corporal e o protagonismo dos alunos…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/escola-municipal-realiza-apresentacoes-teatrais-e-destaca-o-protagonismo-de-estudantes-em-sao-joao-das-duas-pontes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:01",
+"t": "Trânsito na região central de Jales passará por mudanças a partir da próxima semana; confira o que muda",
+"p": "A Prefeitura de Jales, por meio da Secretaria Municipal de Mobilidade Urbana e Segurança Pública, dará início na próxima semana a uma série de intervenções no tráfego e na sinalização de importantes vias da região central. O pacote de alterações tem como metas principais dar maior fluidez à circulação de veículos,…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/transito-na-regiao-central-de-jales-passara-por-mudancas-a-partir-da-proxima-semana-confira-o-que-muda/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Governo de SP reforça alerta para atualização da caderneta de vacinação contra a covid-19",
+"p": "Diante do crescimento recente no número de diagnósticos e de internações em Unidades de Terapia Intensiva (UTIs) em todo o território paulista, a Secretaria de Estado da Saúde (SES-SP) intensificou as orientações para que a população mantenha a imunização contra a covid-19 em dia. Desde o início do ano, o estado…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-reforca-alerta-para-atualizacao-da-caderneta-de-vacinacao-contra-a-covid-19/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "05:30",
+"t": "Franquia de limpeza criada há dois anos já faturou R$ 42 milhões, e teve início de maneira curiosa",
+"p": "Com R$ 42 milhões acumulados em faturamento até 2026, 78 franquias em operação e uma base de aproximadamente 8 mil prestadores cadastrados como pessoa jurídica, a Dona Help consolidou em apenas dois anos uma operação nacional de limpeza residencial, comercial e pós-obra partindo de diárias de R$ 120. Fundada em…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/franquia-de-limpeza-criada-ha-dois-anos-ja-faturou-r-42-milhoes-e-teve-inicio-de-maneira-curiosa/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "05:00",
+"t": "Governo do Rio é dominado por Flávio Bolsonaro",
+"p": "Flávio Bolsonaro no Rio É notório que Flávio Bolsonaro (PL) fugiu do Brasil – na visão dos opositores – ou o deixou para pedir asilo – na opinião dos eleitores. O que não se pode negar, e caciques partidários sabem disso, é que ele manteve raízes. O Governo do Rio de Janeiro é dele. Flávio […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/colunistas-leandro-mazzini/governo-do-rio-e-dominado-por-flavio-bolsonaro/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "05:00",
+"t": "Após reunir 100 mil pessoas, Festival Geek não será realizado em Santos em 2026",
+"p": "Raimundo Rosa/PMS Prefeitura afirma que atração passará por remodelação, e reportagem apurou que decisão envolve questões orçamentárias.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/apos-reunir-100-mil-pessoas-festival-geek-nao-sera-realizado-em-santos-em-2026/",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "02:30",
@@ -54886,145 +55020,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4366517/policia-pede-prisao-preventiva-de-motorista-que-agrediu-idoso-com-voadora-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:54",
-"t": "Caraguatatuba oferece 204 vagas de emprego em diferentes áreas nesta terça-feira (3)",
-"p": "Oportunidades incluem funções no comércio, alimentação, serviços, construção civil e transporte; interessados devem entregar currículo das 8h às 16 horas",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Caraguatatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/caraguatatuba/caraguatatuba-oferece-204-vagas-de-emprego-em-diferentes-areas-nesta-terca-feira-3.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:54",
-"t": "Manutenção emergencial afeta o abastecimento de água em diversos bairros de Fernandópolis nesta terça-feira",
-"p": "A Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) realiza uma manutenção emergencial em Fernandópolis nesta terça-feira (3). Em razão dos trabalhos não programados, o fornecimento de água foi temporariamente interrompido em diversos bairros do município, mas a expectativa da empresa é que a…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/manutencao-emergencial-afeta-o-abastecimento-de-agua-em-diversos-bairros-de-fernandopolis-nesta-terca-feira/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:52",
-"t": "Festa Nordestina terá shows gratuitos e comida típica no fim de semana; veja programação",
-"p": "Festa Nordestina gratuita será realizado nos dias 6 e 7 de novembro, em dois bairros da cidade",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/festa-nordestina-tera-shows-gratuitos-e-comida-tipica-no-fim-de-semana-veja-programacao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:51",
-"t": "Segurança morre após 13 dias internado no Hospital de Base",
-"p": "Homem foi encontrado desacordado no local de trabalho com traumatismo cranioencefálico grave, com hemorragias e fratura no crânio",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/seguranca-morre-apos-13-dias-internado-no-hospital-de-base/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:49",
-"t": "São Bernardo participa de encontro sobre alfabetização no Chile",
-"p": "Evento em Santiago reúne mais de 40 instituições e redes de ensino brasileiras para discutir práticas pedagógicas e avaliação da aprendizagem",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366513/sao-bernardo-participa-de-encontro-sobre-alfabetizacao-no-chile",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:47",
-"t": "Taubaté Shopping abre Natal com Turma da Boiadeirinha e Papai Noel no sábado",
-"p": "Programação gratuita começa às 11h de 7 de novembro. Encontro com personagens terá inscrição prévia e vagas limitadas.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Taubaté"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/taubate-shopping-natal-boiadeirinha-7-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:47",
-"t": "Born in Light anuncia dois dias de música e bem-estar em Santo Antônio do Pinhal",
-"p": "Evento está marcado para 20 e 21 de novembro na Pousada Olivier. Programação anunciada combina música eletrônica, arte e atividades de bem-estar.",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"Santo Antônio do Pinhal"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/born-in-light-santo-antonio-pinhal-20-21-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:47",
-"t": "FLAI começa quarta em Ilhabela com literatura, oficinas e música",
-"p": "Feira acontece de 4 a 7 de novembro na Fazenda Engenho D’Água. Grupo Triii, Fafá Conta e Daniel Munduruku estão na programação.",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Ilhabela"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/flai-ilhabela-programacao-4-7-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:46",
-"t": "Suspeito de matar mulher de 35 anos em quarto de hotel em Jundiaí é localizado e preso no litoral de SP",
-"p": "Foto: Polícia Civil / Divulgação Suspeito de feminicídio em Jundiaí é preso em Caraguatatuba. Ex-companheiro confessou ter matado mulher de 35 anos em hotel.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Caraguatatuba",
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/policia/feminicidio-jundiai-suspeito-preso/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:45",
-"t": "A Fazenda: dinâmica inédita pode mudar o rumo da formação da sétima Roça do reality; veja o que ocorrerá",
-"p": "Na noite desta terça-feira (3/11), será formada a sétima roça de “A Fazenda 18” e a berlinda contará com uma dinâmica inédita que mexerá com o jogo. Relembre todos os campeões de ‘A Fazenda’ A apresentadora Adriane Galisteu anunciou no programa anterior que o vencedor da Prova de Fogo, Daniel Erthal, poderá abrir…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/a-fazenda-dinamica-inedita-pode-mudar-o-rumo-da-formacao-da-setima-roca-do-reality-veja-o-que-ocorrera/",
 "auto": true
 }
 ]
