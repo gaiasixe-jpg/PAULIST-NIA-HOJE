@@ -3,6 +3,77 @@
 "itens": [
 {
 "d": "2026-11-18",
+"h": "08:00",
+"t": "Celular ao volante soma mais de 9 mil multas no trânsito de Campinas",
+"p": "Levantamento da Emdec aponta que o uso do celular está associado a cerca de 98% das autuações por distração no trânsito entre janeiro e outubro",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/celular-ao-volante-soma-mais-de-9-mil-multas-no-transito-de-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:00",
+"t": "Campinas tem previsão de chuva e calor de 30 °C nesta quarta-feira; veja previsão completa",
+"p": "Dia deve começar com tempo firme, mas pancadas de chuva são esperadas durante a tarde; aviso meteorológico prevê ventos fortes e possibilidade de granizo",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-previsao-de-chuva-e-calor-de-30-c-nesta-quarta-feira-veja-previsao-completa/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "07:55",
+"t": "Decreto que regulamenta escala 5×2 será assinado na quinta-feira",
+"p": "O decreto vai fixar o início do cumprimento da nova escala a partir de 16 de dezembro",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/decreto-que-regulamenta-escala-5x2-sera-assinado-na-quinta-feira/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-18",
+"h": "07:50",
+"t": "Médico foragido da Justiça é preso durante plantão em PS de Barueri",
+"p": "Além do médico, um segundo homem considerado foragido da Justiça foi capturado no mesmo pronto-socorro de Barueri, na Grande São Paulo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Barueri"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/medico-foragido-da-justica-e-preso-durante-plantao-em-ps-de-barueri",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "07:14",
+"t": "Vem mais chuva? Confira a previsão do tempo para esta quarta-feira em Ribeirão Preto",
+"p": "Ribeirão Preto já registrou chuva na madrugada desta quarta (18) e há alerta do Inmet até o fim da noite",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/vem-mais-chuva-confira-a-previsao-do-tempo-para-esta-quarta-feira-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "06:50",
 "t": "Carreta tomba e interdita faixa da Rodovia Raposo Tavares em Vargem Grande",
 "p": "Acidente aconteceu por volta das 5h desta quarta-feira (18/11) na altura do km 40. Motorista da carreta foi socorrido pela concessionária",
@@ -27,6 +98,18 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/policia/entregador-morre-apos-quase-um-mes-internado-por-acidente-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:40",
+"t": "Comitê Vale Europeu: comunicação e educação para a sustentabilidade",
+"p": "O Comitê Vale Europeu do Movimento ODS SC desenvolve iniciativas para ampliar o conhecimento e estimular a aplicação prática dos Objetivos de Desenvolvimento Sustentável. Entre elas, destaca-se o Papo Sustentável – ODS na Prática, iniciativa de comunicação que, por meio de entrevistas e convidados de diferentes…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/artigo/comite-vale-europeu-comunicacao-e-educacao-para-a-sustentabilidade/",
 "auto": true
 },
 {
