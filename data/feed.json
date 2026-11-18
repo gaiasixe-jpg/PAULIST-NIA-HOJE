@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-18T18:58:03-03:00",
+"atualizado": "2026-11-18T19:58:45-03:00",
 "novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,232 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "19:57",
+"t": "Motorista de ônibus é flagrado mexendo no celular durante trajeto em Campinas; veja vídeo",
+"p": "Condutor da linha 192 foi filmado por um passageiro enquanto dirigia em direção ao Centro da cidade; Emdec informou que vai investigar o caso",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motorista-de-onibus-e-flagrado-mexendo-no-celular-durante-trajeto-em-campinas-veja-video/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:52",
+"t": "Após reclamações, Prefeitura altera horários do transporte coletivo em Votuporanga",
+"p": "Mudanças atingem cinco das nove linhas da circular e foram anunciadas após manifestações de usuários. Após reclamações de passageiros e cobranças levadas, inclusive, à tribuna da Câmara Municipal, a Prefeitura de Votuporanga anunciou nesta quarta-feira (18.nov) alterações nos horários do transporte coletivo urbano…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/apos-reclamacoes-prefeitura-altera-horarios-do-transporte-coletivo-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:50",
+"t": "Força Tática captura procurado pela Justiça durante patrulhamento em Votuporanga",
+"p": "Homem com mandado de prisão em aberto foi localizado nas proximidades do Parque da Cultura e encaminhado à Central de Flagrantes, onde permaneceu à disposição da Justiça. Um homem procurado pela Justiça foi capturado pela Força Tática da Polícia Militar na noite desta segunda-feira (16.nov), em Votuporanga/SP. A…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/forca-tatica-captura-procurado-pela-justica-durante-patrulhamento-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:47",
+"t": "Câmara dá sinal verde para financiamento de R$ 28 milhões e pacote de obras estruturantes",
+"p": "Projeto recebeu 11 votos favoráveis e três contrários e autoriza a Prefeitura a contratar empréstimo junto à Caixa para execução de seis obras estruturantes da Saev Ambiental. Jorge Honorio jorgehonoriojornalista@gmail.com A Câmara Municipal de Votuporanga aprovou, durante a 41ª Sessão Ordinária realizada na noite…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/camara-da-sinal-verde-para-financiamento-de-r-28-milhoes-e-pacote-de-obras-estruturantes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:46",
+"t": "Com mobilização de vários abrigos, cachorro que chegou sem reação ao abrigo sobrevive e se prepara para virar cão de assistência de veterano",
+"p": "O cão Ares chegou a um abrigo na França sem qualquer reação aos estímulos ao redor, o corpo imóvel e o olhar vazio a ponto de os cuidadores temerem que o quadro de apatia fosse irreversível. A equipe que o recebeu registrou ausência de resposta a sons, a toques e à presença humana, o que […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/com-mobilizacao-de-varios-abrigos-cachorro-que-chegou-sem-reacao-ao-abrigo-sobrevive-e-se-prepara-para-virar-cao-de-assistencia-de-veterano/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:45",
+"t": "Caseiro encontra filhote de sagui agarrado ao corpo da mãe após choque elétrico em chácara de Goiás, aciona a PM e o animal segue a um centro de triagem",
+"p": "Um caseiro encontrou um filhote de sagui agarrado ao corpo da mãe em uma chácara na zona rural de Guapó, em Goiás. A fêmea havia morrido após sofrer uma descarga elétrica. O filhote estava vivo. O encontro ocorreu no domingo, 15 de novembro de 2026, segundo o relato do Batalhão de Operações Ambientais da Polícia […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/caseiro-encontra-filhote-de-sagui-agarrado-ao-corpo-da-mae-apos-choque-eletrico-em-chacara-de-goias-aciona-a-pm-e-o-animal-segue-a-um-centro-de-triagem/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:39",
+"t": "Secretaria da Saúde intensifica testagem rápida de HIV, sífilis e hepatites durante campanha Fique Sabendo",
+"p": "SAE reforça ações de prevenção e diagnóstico precoce entre 15 de novembro e 20 de dezembro, com atendimento noturno nos dias 2 e 3 de dezembro. Ampliar o acesso à prevenção, à testagem e ao diagnóstico precoce das Infecções Sexualmente Transmissíveis (ISTs) é o objetivo da campanha Fique Sabendo, realizada de 15 de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/secretaria-da-saude-intensifica-testagem-rapida-de-hiv-sifilis-e-hepatites-durante-campanha-fique-sabendo/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:36",
+"t": "Tarcísio de Freitas receberá a mais alta honraria da Câmara de Votuporanga",
+"p": "Homenagem proposta pelos vereadores Cabo Renato Abdala (PRD) e Sargento Moreno (PL) reconhece os investimentos e ações do Governo de São Paulo em benefício do município; entrega será feita em sessão solene. Jorge Honorio jorgehonoriojornalista@gmail.com A Câmara Municipal de Votuporanga aprovou por unanimidade,…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/tarcisio-de-freitas-recebera-a-mais-alta-honraria-da-camara-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:34",
+"t": "Homem é arrastado pela enxurrada durante forte chuva; veja vídeo",
+"p": "Caso aconteceu na tarde desta quarta-feira (18), na Avenida Madre Maria Teodora; segundo testemunhas, homem foi resgatado por populares",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/homem-e-arrastado-pela-enxurrada-durante-forte-chuva-veja-video/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:33",
+"t": "Clube de leitura debate obra de Maya Angelou",
+"p": "Atividade do Kasa Cultura será realizada no dia 28, na Biblioteca Municipal, e propõe uma conversa sobre racismo, memória e consciência negra. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com O clube Leitores da Kasa promove, no dia 28 de novembro, um encontro dedicado ao…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/clube-de-leitura-debate-obra-de-maya-angelou/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:32",
+"t": "GCM de Itaquaquecetuba recupera R$ 55 mil em medicamentos e localiza vans parcialmente desmontadas",
+"p": "Suspeitos fugiram por uma área de mata; caso é investigado pelo 1º Distrito Policial de Itaquá",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/gcm-de-itaquaquecetuba-recupera-r-55-mil-em-medicamentos-e-localiza-vans-parcialmente-desmontadas/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:30",
+"t": "O que entra no perdão de dívidas do MEI em janeiro, segundo o projeto inicial",
+"p": "A Receita Federal vai cancelar de forma automática, a partir de 1º de janeiro de 2027, as dívidas referentes à contribuição previdenciária do Microempreendedor Individual (MEI) que venceram até 13 de outubro de 2026. Prevista no pacote Prospera MEI e respaldada pela Lei Complementar 238/2026, sancionada em outubro…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/o-que-entra-no-perdao-de-dividas-do-mei-em-janeiro-segundo-o-projeto-inicial/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:29",
+"t": "Suspeito de espancamento que deixou homem entre a vida e a morte é preso em Bady Bassitt",
+"p": "Vítima de 47 anos segue internada em estado gravíssimo na UTI do Hospital de Base de São José do Rio Preto; investigado confessou as agressões, mas alegou ter agido em legítima defesa. A Polícia Civil de Bady Bassitt/SP prendeu temporariamente um homem suspeito de participar de uma violenta sequência de agressões…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Bady Bassitt"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/suspeito-de-espancamento-que-deixou-homem-entre-a-vida-e-a-morte-e-preso-em-bady-bassitt/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:27",
+"t": "Prefeitura realizará avaliação para identificar fatores que afetam a saúde mental dos servidores municipais",
+"p": "Levantamento seguirá as atualizações das normas de Segurança e Saúde no Trabalho e permitirá identificar situações de estresse, sobrecarga e dificuldades no ambiente profissional. Identificar situações que possam afetar a saúde mental e o bem-estar dos servidores municipais é o objetivo de uma avaliação de riscos…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeitura-realizara-avaliacao-para-identificar-fatores-que-afetam-a-saude-mental-dos-servidores-municipais/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:00",
+"t": "Histórico clube vira parque público de 85 mil m² após acordo milionário com a Prefeitura, que reduziu dívida de quase R$ 1 bilhão",
+"p": "O Jockey Club de São Paulo vai ceder uma área de aproximadamente 85 mil metros quadrados do Hipódromo de Cidade Jardim, na zona sul da Capital, para a criação de um parque público. A medida faz parte de um acordo com a Prefeitura de São Paulo para renegociar uma dívida tributária e prevê o pagamento […]",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/historico-clube-vira-parque-publico-de-85-mil-m%c2%b2-apos-acordo-milionario-com-a-prefeitura-que-reduziu-divida-de-quase-r-1-bilhao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:59",
+"t": "Natal de Santos perde tradicional show na sacada de hotel e Festival Geek em 2026; Prefeitura explica as mudanças e promete atrações em 2027",
+"p": "A programação de fim de ano de Santos terá mudanças importantes em 2026. Dois eventos que conquistaram espaço no calendário cultural e turístico da cidade não serão realizados neste ano: o Ilumina Santos e o Santos Festival Geek. A Prefeitura, porém, promete reformular as atrações e trabalhar para que ambas…",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/natal-de-santos-perde-tradicional-show-na-sacada-de-hotel-e-festival-geek-em-2026-prefeitura-explica-as-mudancas-e-promete-atracoes-em-2027/",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "18:51",
@@ -62,6 +284,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/brasil-e-mundo/ccj-do-senado-aprova-aumento-de-pena-para-motoristas-que-causarem-morte-sob-efeito-de-alcool-ou-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:49",
+"t": "Trânsito em São Paulo chega a 1.260 km de lentidão em meio a alerta de chuva forte com raios, granizo e risco de enchentes",
+"p": "A cidade de São Paulo registra 1.260 quilômetros de lentidão no trânsito nesta quarta-feira (18/11), segundo dados da Companhia de Engenharia de Tráfego (CET-SP), em parceria com o Waze. O cenário ocorre em meio a um alerta da Defesa Civil para chuva nas zonas oeste, sul e central da Capital, com possibilidade de…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/transito-em-sao-paulo-chega-a-1-260-km-de-lentidao-em-meio-a-alerta-de-chuva-forte-com-raios-granizo-e-risco-de-enchentes/",
 "auto": true
 },
 {
@@ -90,6 +326,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/colisao-entre-carro-e-moto-deixa-motociclista-ferido-em-cruzamento-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:40",
+"t": "Restos de cometa que volta só em 2031 provocam chuva de meteoros Leônidas visível na madrugada desta quinta-feira (19) no Brasil; veja o horário",
+"p": "Quem perdeu o pico da chuva de meteoros Leônidas ainda pode tentar ver as chamadas estrelas cadentes na madrugada de quinta-feira (19). A Organização Internacional de Meteoros estimou o máximo anual para as 20h45 de terça-feira, dia 17, no horário de Brasília. A atividade, porém, continua até o fim do mês. No…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/chuva-de-meteoros-leonidas-visivel-na-madrugada-desta-quinta-feira-19-no-brasil/",
 "auto": true
 },
 {
@@ -54667,250 +54915,6 @@
 ],
 "src": "Boqnews",
 "u": "https://www.boqnews.com/cidades/santos-tera-sol-nesta-quarta-feira-mas-previsao-indica-chuva-e-raios-a-partir-de-quinta/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:08",
-"t": "Polícia Civil prende suspeitos de aplicar golpe do falso leilão no interior de SP",
-"p": "Polícia Civil de Barretos prendeu 2 suspeitos durante cumprimento de madados na Capital; Vítima perdeu R$ 6 mil",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Barretos"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/policia-civil-prende-suspeitos-de-aplicar-golpe-do-falso-leilao-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:07",
-"t": "Provão Paulista é aplicado para 380 mil estudantes do ensino médio",
-"p": "Provão Paulista começa a ser aplicado nesta quarta (4/11) e quinta-feira (5/11) aos estudantes concluintes do ensino médio da rede pública",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/provao-paulista-e-aplicado-para-380-mil-estudantes-do-ensino-medio",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:07",
-"t": "Campinas inicia limpeza de piscinão na Avenida Norte-Sul",
-"p": "Piscinão de 90 mil metros quadrados na Norte-Sul passa por limpeza para retirar sedimentos acumulados com as chuvas",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-inicia-limpeza-de-piscinao-na-avenida-norte-sul/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:07",
-"t": "Mega da Virada: Caixa anuncia que prêmio deve superar R$ 1 bilhão",
-"p": "Apostas para o concurso especial já estão disponíveis",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/mega-da-virada-caixa-anuncia-que-premio-deve-superar-r-1-bilhao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:02",
-"t": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
-"p": "Texto foi aprovado por unanimidade",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/158539-2/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:59",
-"t": "Pedreiro morre após cair em poço de elevador durante obra em Rio Preto",
-"p": "Trabalhadores estariam sem equipamentos de proteção, segundo informações preliminares",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/pedreiro-morre-apos-cair-em-poco-de-elevador-durante-obra-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:54",
-"t": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
-"p": "O plenário do Senado Federal aprovou na noite de terça-feira (3), em dois turnos, a Proposta de Emenda à Constituição (PEC) da Segurança Pública, que reorganiza as forças públicas para ampliar o combate ao crime organizado no país.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:52",
-"t": "Polícia pede prisão de empresário suspeito de matar advogada e filho dela",
-"p": "Paradeiro de Eric de Almeida é desconhecido das autoridades. Corpos de Anna Gabriela Faria Lima e Raphael Ferrari foram encontrados em Cotia",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Cotia"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/policia-pede-prisao-de-empresario-suspeito-de-matar-advogada-e-filho-dela",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:49",
-"t": "Feijão do dia anterior pode ficar muito mais saboroso e com caldo cremoso novamente, mas existe um cuidado com a quantidade de água e o tempo no fogo que faz toda a diferença",
-"p": "Amasse alguns grãos com uma colher e misture ao caldo para ajudar a engrossar sem acrescentar outros ingredientes",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/gazeta-mais/dicas-da-gazeta/feijao-do-dia-anterior-pode-ficar-muito-mais-saboroso-e-com-caldo-cremoso-novamente-mas-existe-um-cuidado-com-a-quantidade-de-agua-e-o-tempo-no-fogo-que-faz-toda-a-diferenca/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:45",
-"t": "Calor intenso pode matar estas 5 plantas populares; veja como protegê-las do sol forte e evitar folhas secas e manchadas",
-"p": "Nem todas as plantas conseguem suportar as altas temperaturas do verão. Enquanto algumas espécies estão adaptadas à exposição solar intensa, outras preferem ambientes frescos, úmidos e protegidos da luz direta. Por isso, dias muito quentes exigem atenção redobrada com determinadas plantas ornamentais, que podem…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/calor-intenso-pode-matar-estas-5-plantas-populares-veja-como-protege-las-do-sol-forte-e-evitar-folhas-secas-e-manchadas/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:41",
-"t": "Lotofácil faz dois milionários; Quina acumula na terça-feira (3)",
-"p": "Apostas de São Paulo e Espírito Santo recebem R$ 4,7 milhões cada; Quina pode pagar R$ 12 milhões no próximo concurso",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366713/lotofacil-faz-dois-milionarios-quina-acumula-na-terca-feira-3-",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:38",
-"t": "GCM resgata 20 aves silvestres de cativeiro durante ocorrência de violência doméstica, em Suzano",
-"p": "Ocorrência foi atendida pela Patrulha Maria da Penha, que recebeu a denúncia de violência doméstica; GPA foi posteriormente acionado e identificou as aves, que foram recolhidas por uma equipe especializada",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Suzano"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/gcm-resgata-20-aves-silvestres-de-cativeiro-durante-ocorrencia-de-violencia-domestica-em-suzano/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:37",
-"t": "Jundiaí terá calor de 31°C nesta quarta (4), mas chuva e queda de temperatura estão previstas",
-"p": "Foto: Prefeitura de Jundiaí Quarta-feira (4) terá sol entre nuvens e calor, mas o INMET mantém alerta para tempestade. Previsão indica chuva nos próximos dias.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-calor-chuva-frio/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:32",
-"t": "Câmara aprova desconto e isenção de IPTU para moradores e beneficiários do BPC",
-"p": "Vereadores também rejeitam convocações de secretários para prestar esclarecimentos sobre auxílio-atleta e situação financeira do município",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/camara-aprova-desconto-e-isencao-de-iptu-para-moradores-e-beneficiarios-do-bpc/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:30",
-"t": "Governo de SP altera local da futura estação Ana Rosa da Linha 16-Violeta",
-"p": "Resolução foi publicada no Diário Oficial desta quarta (4/11); linha de Metrô deve conectar os parques da capital paulista",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/governo-de-sp-altera-local-da-futura-estacao-ana-rosa-da-linha-16-violeta",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:30",
-"t": "Lula passa por exames médicos em São Paulo; veja o resultado",
-"p": "Presidente passou por avaliação de rotina na terça-feira (3), no Hospital Sírio-Libanês, em São Paulo, e mantém agenda habitual",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366728/lula-passa-por-exames-medicos-em-sao-paulo-veja-o-resultado",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:30",
-"t": "Ônibus com pneu furado deixa passageiros à espera de outro veículo por 1h30",
-"p": "Passageiros precisaram esperar das 5h20 às 6h50 por outro veículo após pneu de ônibus da linha 708-BL1 furar no meio do trajeto",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/onibus-com-pneu-furado-deixa-passageiros-a-espera-de-outro-veiculo-por-1h30/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:28",
-"t": "São Vicente promove feira de empreendedorismo com dezenas de estandes nos setores de gastronomia moda e serviços",
-"p": "O Conecta Mais São Vicente valoriza o empreendedorismo e conecta empresários locais à população. A iniciativa reúne mais de 80 estandes com expositores de diversos segmentos como gastronomia moda e serviços. O evento no Boulevard Shopping oferece aos participantes a oportunidade de apresentar marcas produtos e…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/sao-vicente-promove-feira-de-empreendedorismo-com-dezenas-de-estandes-nos-setores-de-gastronomia-moda-e-servicos/",
 "auto": true
 }
 ]
