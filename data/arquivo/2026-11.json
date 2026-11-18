@@ -2,6 +2,46 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-18",
+"h": "01:00",
+"t": "Resumo de ‘Por Você’ desta quarta: Bela arma situação para Vanessa durante parto de famosa",
+"p": "Vanessa se irrita com um investimento feito por Manoel no hospital no capítulo de “Por Você” desta quarta-feira (18/11). A médica também prepara a equipe para receber uma paciente famosa que está prestes a dar à luz, mas acaba sendo colocada em uma situação inesperada por Bela. Enquanto isso, Lucas e Margô ajudam…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-quarta-bela-arma-situacao-para-vanessa-durante-parto-de-famosa/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "00:06",
+"t": "Relatório final da CPI da Saúde aponta perda de 69 leitos e falhas na gestão pública em Araçatuba",
+"p": "Câmara de Araçatuba aprova por unanimidade relatório final da CPI da Saúde A Câmara Municipal de Araçatuba (SP) aprovou por unanimidade, durante sessão nesta segunda-feira (16), o relatório final da Comissão Parlamentar de Inquérito (CPI) da Saúde, que aponta a redução de 69 leitos do Sistema Único de Saúde (SUS)…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/relatorio-final-da-cpi-da-saude-aponta-perda-de-69-leitos-e-falhas-na-gestao-publica-em-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "00:05",
+"t": "Homem é condenado por matar a facadas mulher encontrada em cadeira na garagem da casa em Birigui",
+"p": "Homem é condenado a 50 anos de prisão por matar mulher a facadas em Birigui Um homem de 39 anos foi condenado nesta terça-feira (17) por matar a facadas a companheira, à época com 35 anos, que foi encontrada pela polícia sentada em uma cadeira na garagem da casa da família em Birigui (SP). Rafael […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-condenado-por-matar-a-facadas-mulher-encontrada-em-cadeira-na-garagem-da-casa-em-birigui/",
+"auto": true
+},
+{
 "d": "2026-11-17",
 "h": "23:51",
 "t": "Tarcísio anuncia novo secretário de Governo Digital e confirma permanência de quatro titulares para a próxima gestão",
