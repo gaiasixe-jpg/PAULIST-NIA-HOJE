@@ -3,6 +3,48 @@
 "itens": [
 {
 "d": "2026-11-18",
+"h": "06:50",
+"t": "Carreta tomba e interdita faixa da Rodovia Raposo Tavares em Vargem Grande",
+"p": "Acidente aconteceu por volta das 5h desta quarta-feira (18/11) na altura do km 40. Motorista da carreta foi socorrido pela concessionária",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Vargem"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/carreta-tomba-e-interdita-faixa-da-rodovia-raposo-tavares-em-vargem-grande",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:48",
+"t": "Entregador morre após quase um mês internado por acidente em Marília",
+"p": "Vítima estava internada no Hospital das Clínicas desde outubro e caso passou a ser investigado como homicídio culposo.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/entregador-morre-apos-quase-um-mes-internado-por-acidente-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "06:15",
+"t": "Resultado da Lotofácil 3832: ninguém acerta 15 dezenas e próximo prêmio sobe para R$ 5 milhões; veja quanto pagou cada faixa",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso desta terça-feira (17) premiou 163 apostas com 14 acertos, que receberão R$ 1.896,35 cada. Veja os 15 números sorteados e o rateio completo.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotofacil-concurso-3832/",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "06:03",
 "t": "Obras da Areninha em Fernandópolis entram na reta final com inauguração prevista para dezembro",
 "p": "Os trabalhos de construção da Arena Lazer SP, iniciativa integrada ao programa estadual “100% Esporte para Todos”, continuam avançando em ritmo acelerado em Fernandópolis e se aproximam de sua fase final. O novo complexo poliesportivo e de convivência está sendo erguido na Rua Mário Benez, situada no Residencial…",
@@ -95,6 +137,18 @@
 "c": [],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/governo-de-sp-reforca-alerta-para-atualizacao-da-caderneta-de-vacinacao-contra-a-covid-19/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "05:41",
+"t": "‘Quem Ama Cuida’: Pilar tenta roubar celular de Diná no hospital no capítulo desta quinta-feira (19)",
+"p": "A atriz Rosi Campos atua na novela da Globo",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/quem-ama-cuida-pilar-tenta-roubar-celular-de-dina-no-hospital-no-capitulo-desta-quinta-feira-19/",
 "auto": true
 },
 {
@@ -308,6 +362,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/timemania-hoje-17-11-veja-dezenas-e-resultado-dos-r-28-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "23:28",
+"t": "Mulher que matou namorado a facadas após sexo a 3 é solta pela Justiça",
+"p": "Isabella Assis Ferreira é investigada pela morte do namorado, Gabriel Lima Brito, após briga por ciúmes depois de terem feito sexo a três",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mulher-que-matou-namorado-a-facadas-apos-sexo-a-tres-e-solta-apos-audiencia",
 "auto": true
 },
 {
