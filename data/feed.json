@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T12:05:11-03:00",
-"novos_nesta_coleta": 48,
+"atualizado": "2026-11-18T13:09:37-03:00",
+"novos_nesta_coleta": 30,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,281 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "13:00",
+"t": "Estação Ferroviária de Jales receberá passagem do Trem Iluminado e feira natalina em dezembro",
+"p": "A magia do Natal tomará conta do município de Jales nos dias 2 e 3 de dezembro, com uma programação festiva preparada para reunir moradores e visitantes na histórica Estação Ferroviária. A principal atração será a passagem do tradicional Trem Iluminado da Rumo, parte de um projeto que percorre mais de 80 cidades…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estacao-ferroviaria-de-jales-recebera-passagem-do-trem-iluminado-e-feira-natalina-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "13:00",
+"t": "Educadores de São João das Duas Pontes participam de oficina prática de contação de histórias",
+"p": "Gestores e professores da Rede Municipal de Ensino de São João das Duas Pontes participaram, no último dia 12 de novembro, de uma capacitação especial voltada ao aprimoramento das práticas pedagógicas em sala de aula. A Oficina de Contação de Histórias foi realizada nas dependências da EMEF Manoel Joaquim Santana e…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/educadores-de-sao-joao-das-duas-pontes-participam-de-oficina-pratica-de-contacao-de-historias/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:58",
+"t": "Governo de SP abre concurso público para professores",
+"p": "Secretaria Estadual de Educação prevê 5 mil vagas para atender o Ensino Fundamental e o Ensino Médio",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/governo-de-sp-abre-concurso-publico-para-professores.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:58",
+"t": "Feriado da Consciência Negra homenageia Zumbi dos Palmares em Santos",
+"p": "Evento na praça Palmares começa às 10h, desta sexta-feira (20), e reúne atrações culturais, capoeira e tenda de saúde com exames preventivos",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/feriado-da-consciencia-negra-homenageia-zumbi-dos-palmares-em-santos.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:57",
+"t": "AfroFest 2026 promove shows, feira e cultura neste fim de semana em Bertioga",
+"p": "Programação ocorre de sexta-feira (20) a domingo (22), na Tenda de Eventos, no Centro, com atrações musicais, gastronomia e Marcha da Consciência Negra",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/afrofest-2026-promove-shows-feira-e-cultura-neste-fim-de-semana-em-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:56",
+"t": "São Paulo recebe mil novas doses da vacina contra a Mpox",
+"p": "Imunizantes serão destinados aos grupos prioritários, conforme critérios do Programa Nacional de Imunizações e avaliação do cenário epidemiológico de cada região",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/sao-paulo-recebe-mil-novas-doses-da-vacina-contra-a-mpox/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:55",
+"t": "Casal usa bebê para furtar cartas Pokémon em Santos; veja valores",
+"p": "Produtos avaliados em R$ 2,7 mil foram recuperados pela Polícia Civil; no mercado internacional, exemplares raros alcançam milhões de dólares",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369492/casal-usa-bebe-para-furtar-cartas-pokemon-em-santos-veja-valores-",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:50",
+"t": "Mongaguá aprova orçamento de quase R$ 688 milhões para 2027, com R$ 200 milhões para Educação e R$ 113 milhões para Saúde; veja detalhes",
+"p": "A Câmara Municipal de Mongaguá aprovou, na última segunda-feira (16), o orçamento de R$ 687,78 milhões para 2027. O valor, previsto no Projeto de Lei nº 93/2026, será distribuído entre áreas como educação, saúde, obras, segurança pública e manutenção da cidade. A Educação terá a maior parcela dos recursos, com R$…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/mongagua-aprova-orcamento-de-quase-r-688-milhoes-para-2027-com-r-200-milhoes-para-educacao-e-r-113-milhoes-para-saude-veja-detalhes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:41",
+"t": "Luciano Hang, dono da Havan, tem frota de aeronaves no valor de R$ 434 milhões e uma delas percorre viagens internacionais sem precisar reabastecer: “São Paulo à Nova York em 14 horas”",
+"p": "Avaliadas em R$ 434 milhões, as três aeronaves executivas de Luciano Hang, dono da Havan, foram vistas juntas no transporte dele e de sua equipe para a inauguração da 200ª megaloja da varejista, que aconteceu no último dia 14 de novembro, em Boa Vista, em Roraima. Conforme apurado pelo ND Mais, o maior dos aviões […]",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/luciano-hang-dono-da-havan-tem-frota-de-aeronaves-no-valor-de-r-434-milhoes-e-uma-delas-percorre-viagens-internacionais-sem-escalas-sao-paulo-a-nova-york-em-14-horas/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:40",
+"t": "Polícia apura suspeita de homofobia envolvendo padre de Palmital",
+"p": "Relato aponta advertências a integrantes de paróquia em Palmital; sacerdote nega ameaças e afirma ter prestado orientação religiosa.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Palmital"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/policia-apura-suspeita-de-homofobia-envolvendo-padre-de-palmital/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:37",
+"t": "Mais de 289 mil estudantes já escolheram cursos no Provão Paulista 2026; prazo termina no dia 27",
+"p": "Mais de 289 mil alunos da rede pública já registraram suas preferências de cursos superiores no Provão Paulista Seriado 2026, programa da Secretaria da Educação do Estado de São Paulo (Seduc-SP) que garante acesso direto a instituições públicas paulistas. Entre os estudantes concluintes da 3ª série do Ensino Médio,…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mais-de-289-mil-estudantes-ja-escolheram-cursos-no-provao-paulista-2026-prazo-termina-no-dia-27/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:36",
+"t": "Com melhor malha viária do país, SP investe em passagens de fauna e proteção ambiental nas rodovias concedidas",
+"p": "Dono da malha rodoviária estadual mais bem avaliada do Brasil segundo a Pesquisa CNT de Rodovias 2026, o Governo de São Paulo avança em um amplo programa de concessões que alia modernização viária, segurança no trânsito e preservação ambiental. Em alusão ao Dia da Consciência Ambiental, celebrado neste domingo…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/com-melhor-malha-viaria-do-pais-sp-investe-em-passagens-de-fauna-e-protecao-ambiental-nas-rodovias-concedidas/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:35",
+"t": "Natal gratuito: shopping terá oficina para crianças neste fim de semana; veja como participar",
+"p": "Evento terá quatro sessões neste sábado (21); programação natalina segue até dezembro com apresentações musicais, oficinas e encontros com o Papai Noel",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/natal-gratuito-shopping-tera-oficina-para-criancas-neste-fim-de-semana-veja-como-participar/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:31",
+"t": "Justiça manda ONG devolver husky que foi adotada após fugir de casa onde morava",
+"p": "Tutora diz que husky fugiu após portão ficar aberto, foi acolhida por ONG de Cravinhos e encaminhada para adoção; associação diz que ainda não havia sido notificada",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Cravinhos"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/justica-manda-ong-devolver-husky-que-foi-adotada-apos-fugir-de-casa-onde-morava/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:20",
+"t": "Aos 194 anos e cego, animal terrestre mais velho do mundo come terra e gravetos até receber ajuda decisiva contra a desnutrição",
+"p": "Jonathan, jabuti de 194 anos, ficou cego, perdeu o olfato e chegou a comer terra e gravetos antes de recuperar a saúde",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/aos-194-anos-e-cego-animal-terrestre-mais-velho-do-mundo-come-terra-e-gravetos-ate-receber-ajuda-decisiva-contra-a-desnutricao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:15",
+"t": "El Niño vai mudar até seu cardápio: estes são os alimentos que podem te salvar do calor intenso e refrescar seus dias durante o verão brasileiro",
+"p": "O calor pode mudar não apenas a rotina, mas também as escolhas à mesa. Com a intensificação do El Niño, que deve influenciar as condições climáticas brasileiras nos próximos meses, alguns alimentos ganham espaço no cardápio. Frutas, verduras e legumes com bastante água na composição são boas opções para quem…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/el-nino-vai-mudar-ate-seu-cardapio-estes-sao-os-alimentos-que-podem-te-salvar-do-calor-intenso-e-refrescar-seus-dias-durante-o-verao-brasileiro/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:09",
+"t": "São Paulo tem previsão de chuva e calor; veja até quando vão as altas temperaturas",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369483/sao-paulo-tem-previsao-de-chuva-e-calor-veja-ate-quando-vao-as-altas-temperaturas",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:09",
+"t": "Câmara de Jundiaí aprova 11 projetos de lei nas áreas de saúde, esporte, educação, cultura e cidadania",
+"p": "Foto: Tribuna de Jundiaí Sessão ordinária também foi marcada pela derrubada de dois vetos do Executivo, aprovação das contas municipais de 2024 e o adiamento das propostas sobre a Serra do Japi e eletropostos",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-jundiai-aprova-11-projetos-saude-esporte-educacao-cultura/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:06",
+"t": "Polícia Civil investiga suposto sequestro de jovem na zona norte de Marília",
+"p": "Polícia Civil investiga desaparecimento de jovem na zona norte Dinheiro teria sido exigido para a família sob ameaça; após pagamento de quantia, paradeiro é desconhecido.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/policia-civil-investiga-suposto-sequestro-de-jovem-na-zona-norte-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "12:06",
+"t": "Motoristas usam acostamento como ‘terceira faixa’ para furar congestionamento na BR-153 em Rio Preto; vídeo",
+"p": "Infrações: motoristas usam acostamento para fugir de lentidão na BR-153 em Rio Preto Motoristas, motociclistas e até caminhoneiros têm utilizado o acostamento da Rodovia Transbrasiliana (BR-153), como uma espécie de “terceira faixa” para escapar do congestionamento nos horários de pico em São José do Rio Preto…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/motoristas-usam-acostamento-como-terceira-faixa-para-furar-congestionamento-na-br-153-em-rio-preto-video/",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "12:01",
@@ -250,6 +521,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/mundo/aos-92-anos-idosa-e-a-unica-moradora-de-uma-cidade-e-trabalha-como-prefeita-dona-de-bar-e-guardia-de-5-mil-livros/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "11:30",
+"t": "Nova lei autoriza R$ 149,4 bilhões para aposentadorias, Bolsa Família e BPC, mas dinheiro não representa pagamento extra aos beneficiários",
+"p": "Uma nova lei sancionada pelo governo federal autorizou R$ 149,4 bilhões para reforçar o orçamento destinado a aposentadorias, pensões e programas sociais. O montante chama atenção pelo tamanho, mas não significa que aposentados, pensionistas ou beneficiários do Bolsa Família receberão dinheiro extra. Segundo…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/nova-lei-autoriza-r-1494-bilhoes-para-aposentadorias-bolsa-familia-e-bpc-mas-dinheiro-nao-representa-pagamento-extra-aos-beneficiarios/",
 "auto": true
 },
 {
@@ -54747,294 +55030,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/gazeta-mais/estilo-de-vida/errar-o-desenho-da-sobrancelha-pode-mudar-sua-expressao-saiba-qual-estilo-combina-com-o-formato-do-seu-rosto-e-evite-falhas-graves/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:38",
-"t": "Equipes de manutenção urbana atuam simultaneamente nas cinco regiões de Jundiaí",
-"p": "Foto: Prefeitura de Jundiaí Equipes atuam em ruas, avenidas e parques com roçagem, poda de árvores e ações preventivas contra alagamentos.",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/quem-ama-cuida-manutencao-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:35",
-"t": "Cartórios eleitorais de SP retomam atendimentos nesta terça-feira (3/11)",
-"p": "Interessados devem agendar horário pelo site do TRE, para solicitação do primeiro título de eleitor ou regularização da situação eleitoral",
-"tema": "Eleições",
-"s": "obra",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/cartorios-eleitorais-de-sp-retomam-atendimentos-nesta-terca-feira-3-11",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:35",
-"t": "Itapeva abre inscrições para curso gratuito de fabricação de pães nutritivos",
-"p": "Estão abertas as inscrições para o curso gratuito “Aprenda a Fabricar Pães Nutritivos”, oferecido pela Prefeitura de Itapeva, por meio da Secretaria de Desenvolvimento Econômico e do Fundo Social Municipal, em parceria com o Sebrae-SP e o Sebrae Aqui. A capacitação será realizada entre os dias 12 de novembro e 2 de…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/curso-paes-2/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:30",
-"t": "Novos Honda City Sedan e Hatchback 2026 chegam com design renovado, motor 1.5L, sistema Magic Seat e pacotes avançados de segurança e tecnologia",
-"p": "A Honda atualizou as linhas do City Sedan e do City Hatchback, consolidando os modelos como referências em eficiência, tecnologia e aproveitamento de espaço interno em seus respectivos segmentos. Ambas as carrocerias compartilham uma plataforma moderna, mas atendem a perfis distintos de motoristas: enquanto o sedan…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/automotor/novos-honda-city-sedan-e-hatchback-2026-chegam-com-design-renovado-motor-1-5l-sistema-magic-seat-e-pacotes-avancados-de-seguranca-e-tecnologia/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:30",
-"t": "Rua das Hortências recebe asfalto em Ribeirão Pires",
-"p": "Obras no Jardim Santa Rosa avançam com aplicação de duas camadas de asfalto; intervenção integra pacote de R$ 1,2 milhão",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366580/rua-das-hortencias-recebe-asfalto-em-ribeirao-pires",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:25",
-"t": "Saúde Municipal discute enfrentamento da Sífilis em ação alusiva à campanha Outubro Verde",
-"p": "A Secretaria Municipal da Saúde de Sorocaba (SES), promoveu, no dia 29 de outubro, uma capacitação voltada aos profissionais da saúde intitulada “Outubro Verde – Enfrentamento da Sífilis, diagnóstico precoce e foco também na Transmissão Horizontal”. O encontro foi realizado na UFSCar Santa Rosália e contou com a…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/saude-municipal-discute-enfrentamento-da-sifilis-em-acao-alusiva-a-campanha-outubro-verde/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:22",
-"t": "Jundiaí se prepara para receber o Festival Baobá Afro Party 2026, com quatro dias de cultura e ancestralidade",
-"p": "Foto: Reprodução Evento acontece de 19 a 22 de novembro, no Espaço Expressa, com mais de 30 apresentações artísticas, afroempreendedorismo e uma programação dedicada à valorização da cultura afro-brasileira",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/festival-baoba-afro-party-2026-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:21",
-"t": "Smart Sampa: Prefeitura abre investigação sobre novo vazamento de dados",
-"p": "Em novo vazamento de dados relacionados ao Smart Sampa, mais de 17 mil câmeras de locais privados da cidades foram acessadas pelo UOL",
-"tema": "Política",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/smart-sampa-prefeitura-abre-investigacao-sobre-novo-vazamento-de-dados",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:10",
-"t": "Coco Bambu chega à Baixada Santista com unidade no Litoral Plaza",
-"p": "Restaurante abre em 23 de novembro, em Praia Grande, com investimento de R$ 9 milhões, capacidade para mais de 300 pessoas, espaço kids, música ao vivo e cardápio especializado em frutos do mar.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/coco-bambu-chega-a-baixada-santista-com-unidade-no-litoral-plaza/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:00",
-"t": "Hospital pediátrico de Santos avança com solução para manter obras durante chuvas",
-"p": "Isabela Carrari/Divulgação Prefeitura de Santos Uma bolha gigante de lona foi a solução de engenharia encontrada para driblar o período de chuvas na construção do primeiro hospital pediátrico público da região.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/hospital-pediatrico-de-santos-avanca-com-solucao-para-manter-obras-durante-chuvas/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "16:00",
-"t": "Trinca-ferro é resgatado após ser encontrado em quintal de casa em SV",
-"p": "Divulgação/Prefeitura de São Vicente A GCM Ambiental resgatou uma ave da espécie trinca-ferro (Saltator similis) no último domingo (1º), em São Vicente,",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/trinca-ferro-e-resgatado-apos-ser-encontrado-em-quintal-de-casa-em-sv/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:58",
-"t": "Mercado Municipal de Santos promove 1ª Festa Nordestina neste fim de semana",
-"p": "Evento gratuito reúne música ao vivo, gastronomia típica e artesanato, no sábado (7) e domingo (8); programação cultural ocorre das 14h às 20h30",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/santos/mercado-municipal-de-santos-promove-1-festa-nordestina-neste-fim-de-semana.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:54",
-"t": "Motofest reúne apaixonados por motos, rock e gastronomia em Peruíbe",
-"p": "Evento ocorre nos dias 7 e 8 de novembro, no Parque Turístico Municipal, com apresentações de quatro bandas; confira a programação",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Peruíbe"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/peruibe/motofest-reune-apaixonados-por-motos-rock-e-gastronomia-em-peruibe.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:52",
-"t": "Alerta em Ilhabela: mensagens exigem falso pagamento de taxa ambiental",
-"p": "Criminosos enviam mensagens por WhatsApp e SMS para direcionar motoristas a páginas fraudulentas; prefeitura orienta pagamento pelo site oficial",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ilhabela"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ilhabela/alerta-em-ilhabela-mensagens-exigem-falso-pagamento-de-taxa-ambiental.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:47",
-"t": "Senado vota nesta terça a PEC da Segurança Pública; veja o que está em jogo",
-"p": "Foto: Carlos Moura Proposta cria o 'SUS da Segurança' e endurece penas contra facções; governo articula aprovação do texto sem mudanças na maioridade penal para acelerar promulgação",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/senado-vota-nesta-terca-pec-da-seguranca-publica/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:45",
-"t": "ANTAQ revisa regras para cobrança de sobre-estadia de contêiner",
-"p": "Consulta pública recebe contribuições até 4 de novembro. Advogada Cristina Wadner analisa os limites da regulação e a responsabilidade dos armadores.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/antaq-revisa-regras-para-cobranca-de-sobre-estadia-de-conteiner/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:43",
-"t": "Sesc Jundiaí terá Catto, Amaro Freitas, Bela Gil e Bruninho do vôlei em novembro; confira a programação",
-"p": "Foto: Ivi_Maiga_Bugrimenko Agenda reúne shows, teatro inspirado em Clarice Lispector, atividades esportivas, cinema e vivências de culturas afro-brasileiras",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/entretenimento/programacao-sesc-jundiai-novembro-2026/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:42",
-"t": "Feto de bebê é encontrado em estrada de terra após ser carregado por cachorro",
-"p": "Polícia Militar foi acionada na noite de segunda-feira (2), após uma testemunha relatar a situação; Polícia Civil e perícia foram chamadas para investigar o caso",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/feto-de-bebe-e-encontrado-em-estrada-de-terra-apos-ser-carregado-por-cachorro/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:40",
-"t": "Nova escola de Santos avança para fase de acabamento e tem entrega prevista para 2027",
-"p": "UME Hilda Rabaça, na Vila Haddad, terá capacidade para mais que o dobro de alunos da unidade atual e atenderá crianças em período integral",
-"tema": "Educação",
-"s": "entregue",
-"c": [
-"Santos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/santos/nova-escola-de-santos-avanca-para-fase-de-acabamento-e-tem-entrega-prevista-para-2027.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:36",
-"t": "Justiça Eleitoral reabre cadastro e retoma serviços ao eleitor",
-"p": "Atendimentos voltam a ser feitos pela internet e nos cartórios",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/justica-eleitoral-reabre-cadastro-e-retoma-servicos-ao-eleitor/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "15:36",
-"t": "Justiça Eleitoral reabre cadastro e retoma serviços ao eleitor",
-"p": "A Justiça Eleitoral reabriu o cadastro eleitoral em todo o país nesta terça-feira (3). Com a retomada dos serviços, eleitores podem voltar a solicitar a emissão do primeiro título de eleitor, a transferência de domicílio eleitoral, a atualização de dados cadastrais e a regularização da situação eleitoral.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/justica-eleitoral-reabre-cadastro-e-retoma-servicos-ao-eleitor/",
 "auto": true
 }
 ]
