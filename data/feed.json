@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T18:01:36-03:00",
-"novos_nesta_coleta": 36,
+"atualizado": "2026-11-18T18:58:03-03:00",
+"novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,181 @@
 "itens": [
 {
 "d": "2026-11-18",
+"h": "18:51",
+"t": "CCJ do Senado aprova aumento de pena para motoristas que causarem morte sob efeito de álcool ou drogas",
+"p": "Projeto segue para a Câmara dos Deputados",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/ccj-do-senado-aprova-aumento-de-pena-para-motoristas-que-causarem-morte-sob-efeito-de-alcool-ou-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:42",
+"t": "Mulher envolvida em agressão no trânsito em Fernandópolis grava vídeo pedindo desculpas e alega mal súbito",
+"p": "A mulher envolvida na agressão contra uma senhora durante uma briga de trânsito registrada na manhã da última segunda-feira (16), no Centro de Fernandópolis, encaminhou um vídeo ao portal Área17 pedindo desculpas públicas pelo episódio. Na gravação, ela afirma ter sofrido um mal súbito no momento da confusão e…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mulher-envolvida-em-agressao-no-transito-em-fernandopolis-grava-video-pedindo-desculpas-e-alega-mal-subito/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:40",
+"t": "Colisão entre carro e moto deixa motociclista ferido em cruzamento de Fernandópolis",
+"p": "Um acidente de trânsito envolvendo uma motocicleta e um automóvel foi registrado na tarde desta quarta-feira (18), em Fernandópolis. A ocorrência aconteceu no cruzamento da Avenida Paulo Saravalli com a Rua São Paulo, nas imediações de um posto de combustíveis, região de intenso fluxo de veículos. De acordo com os…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/colisao-entre-carro-e-moto-deixa-motociclista-ferido-em-cruzamento-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:38",
+"t": "Temporal causa estragos em Campinas: ao menos 18 alagamentos, queda de muro e de árvore; veja balanço",
+"p": "Prefeitura divulgou levantamento das ocorrências registradas até as 17h40 desta quarta-feira (18); no Jardim das Bandeiras, choveu 41,4 milímetros em apenas 40 minutos",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/temporal-causa-estragos-em-campinas-ao-menos-18-alagamentos-queda-de-muro-e-de-arvore-veja-balanco/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:30",
+"t": "JCMS Veículos: 40 anos de confiança para você conquistar seu próximo carro",
+"p": "Foto: Divulgação/JCMS Veículos Na Vila Arens, em Jundiaí, a revenda combina cuidado com a procedência dos veículos, opções para diferentes necessidades e orçamentos, facilidade de negociação e atendimento sem pressa para ajudar cada cliente a escolher com tranquilidade, fortalecendo uma relação de confiança que já…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jcms-veiculos-40-anos-de-confianca-para-voce-conquistar-seu-proximo-carro/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:28",
+"t": "Valdemar chama candidatura de Nikolas à presidência da Câmara de ‘loucura’ e deputado ameaça deixar o PL",
+"p": "A disputa pelo comando da Câmara dos Deputados abriu uma crise interna no PL após o Presidente da sigla, Valdemar Costa Neto, classificar como “loucura” a hipótese de lançar o deputado Nikolas Ferreira (PL-MG) ao cargo. Em resposta ao impasse partidário, o parlamentar mineiro ameaçou deixar a legenda caso a cúpula…",
+"tema": "Eleições",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/valdemar-chama-candidatura-de-nikolas-a-presidencia-da-camara-de-loucura-e-deputado-ameaca-deixar-o-pl/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:08",
+"t": "Nunes anuncia novo Parque Dom Pedro com demolição de viadutos e pede compreensão com o trânsito",
+"p": "Leon Rodrigues/Secom/Prefeitura de São Paulo O prefeito Ricardo Nunes (MDB) confirmou a demolição de dois viadutos que ligam a zona leste de São Paulo ao centro histórico da capital.",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/nunes-anuncia-novo-parque-dom-pedro-com-demolicao-de-viadutos-e-pede-compreensao-com-o-transito/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:06",
+"t": "Onça-pintada de 90 kg percorre mais de 2 mil km em dois dias para encontrar parceiro e ajudar a preservar a espécie no Brasil",
+"p": "Uma onça-pintada de pelagem quase totalmente preta percorreu cerca de 2,1 mil quilômetros para participar de um programa de reprodução e conservação da espécie no Brasil. Com aproximadamente 90 quilos, a fêmea Jataí deixou o Refúgio Biológico Bela Vista, em Foz do Iguaçu, no Paraná, e chegou à Reserva…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/onca-pintada-de-90-kg-percorre-mais-de-2-mil-km-em-dois-dias-para-encontrar-parceiro-e-ajudar-a-preservar-a-especie-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:03",
+"t": "PSol suspende ex-candidato preso suspeito de matar namorada em São Paulo",
+"p": "Marcelo Cunha Massari disputou, em 2024, uma vaga como vereador na Câmara Municipal de Taboão da Serra pelo PSol",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Taboão da Serra",
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/psol-suspende-ex-candidato-preso-suspeito-de-matar-namorada-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:02",
+"t": "Provas de resistência: saiba como reduzir os riscos durante o esforço físico",
+"p": "A busca por desafios físicos cada vez maiores tem levado os brasileiros a participarem de maratonas, triatlos e outras competições de resistência. Embora essas atividades tragam benefícios à saúde, a exigência imposta ao organismo também levanta questões sobre os cuidados necessários durante a preparação. O debate…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/provas-de-resistencia-saiba-como-reduzir-os-riscos-durante-o-esforco-fisico/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:01",
+"t": "Defesa Civil de SP envia 17 alertas de chuvas fortes para o estado",
+"p": "Na tarde desta quarta-feira (18), toda a cidade de São Paulo foi colocada em estado de atenção para alagamentos por causa das fortes chuvas que caem sobre várias regiões da capital. O estado de atenção é o segundo da escala adotada pela Defesa Civil e pelo Centro de Gerenciamento de Emergências Climáticas (CGE),…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/defesa-civil-de-sp-envia-17-alertas-de-chuvas-fortes-para-o-estado",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:00",
+"t": "TJSP condena Keeta, que deve retirar Pizza Hut do app em até 48 horas",
+"p": "Para a Justiça, conduta da Keeta caracterizou \"uso indevido de marca e concorrência desleal\"",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tjsp-condena-keeta-que-deve-retirar-pizza-hut-do-app-em-ate-48-horas",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:00",
+"t": "CCJ do Senado aprova aumento de pena para motorista que mata sob efeito de álcool ou drogas; proposta vai para a Câmara dos Deputados",
+"p": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou nesta quarta-feira (18/11) o projeto de lei que endurece as penas para homicídio culposo no trânsito. A medida atinge motoristas que dirigem após consumir álcool ou substâncias psicoativas que comprometam a direção. Com a aprovação do texto, o tempo de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/ccj-do-senado-aprova-aumento-de-pena-para-motorista-que-mata-sob-efeito-de-alcool-ou-drogas-proposta-vai-para-a-camara-dos-deputados/",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "17:59",
 "t": "Hospital São Vicente avalia procedimentos de emergência e centro cirúrgico em projeto do Ministério da Saúde",
 "p": "Foto: Hospital São Vicente Na terceira participação no Projeto Lean nas Emergências, hospital de Jundiaí revisou práticas implementadas para identificar gargalos, organizar fluxos de trabalho e reduzir desperdícios nos serviços hospitalares.",
@@ -62,6 +237,46 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-sao-vicente-procedimentos-de-emergencia-projeto-ministerio-da-saude/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:58",
+"t": "Operação da Polícia Civil combate esquema de fraude fiscal de R$ 232 milhões",
+"p": "Uma mulher foi presa preventivamente nesta quarta-feira (18) durante a Operação X.509, uma força-tarefa deflagrada pela Polícia Civil para desarticular um esquema milionário de fraude fiscal no interior paulista. A ação foi conduzida pela Delegacia de Investigações Gerais (DIG) de Rio Claro em parceria com o Grupo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Rio Claro"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-da-policia-civil-combate-esquema-de-fraude-fiscal-de-r-232-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:58",
+"t": "Tarcísio de Freitas confirma permanência de Osvaldo Nico Gonçalves no comando da Segurança Pública de SP",
+"p": "O governador Tarcísio de Freitas oficializou a permanência de Osvaldo Nico Gonçalves à frente da Secretaria da Segurança Pública (SSP) de São Paulo para a próxima gestão estadual. Com uma trajetória de mais de quatro décadas dedicada à Polícia Civil paulista, o secretário seguirá liderando as estratégias de combate…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tarcisio-de-freitas-confirma-permanencia-de-osvaldo-nico-goncalves-no-comando-da-seguranca-publica-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:58",
+"t": "Quinta-feira terá calor intenso e risco de pancadas de chuva com raios e ventos fortes no Estado",
+"p": "As áreas de instabilidade continuam influenciando as condições climáticas em todo o Estado de São Paulo nesta quinta-feira, dia 19 de novembro. De acordo com a previsão meteorológica, ainda há possibilidade de pancadas de chuva isoladas, que podem variar de moderada a forte intensidade, acompanhadas de descargas…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/quinta-feira-tera-calor-intenso-e-risco-de-pancadas-de-chuva-com-raios-e-ventos-fortes-no-estado/",
 "auto": true
 },
 {
@@ -90,6 +305,30 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/demo-day-apresenta-projetos-do-hackathon-da-nasa-e-define-equipes-que-poderao-representar-sorocaba-na-etapa-global/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:52",
+"t": "SP recebe novas doses da vacina contra a mpox; saiba quem pode receber",
+"p": "Com o aumento de número de casos, o Ministério da Saúde começou a enviar novas doses de vacina contra a mpox para o estado de São Paulo. Segundo a Secretaria estadual da Saúde, São Paulo recebeu esta semana uma nova remessa de mil doses da vacina, que já estão sendo distribuídas para atender aos grupos prioritários…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sp-recebe-novas-doses-da-vacina-contra-mpox-saiba-quem-pode-receber",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:50",
+"t": "Migração ligada à Lua transforma estradas em rios vermelhos e força governo local a construir pontes especiais para milhões de caranguejos chegarem ao mar",
+"p": "Milhões de caranguejos vermelhos começaram a transformar estradas e paisagens da Austrália em um cenário impressionante durante uma das maiores migrações de animais do mundo. O fenômeno aconteceu nos dias 14 e 15 de novembro de 2026, na Ilha Christmas, onde os crustáceos deixaram as florestas e seguiram em direção…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/migracao-ligada-a-lua-transforma-estradas-em-rios-vermelhos-e-forca-governo-local-a-construir-pontes-especiais-para-milhoes-de-caranguejos-chegarem-ao-mar/",
 "auto": true
 },
 {
@@ -54673,287 +54912,6 @@
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/sao-vicente-promove-feira-de-empreendedorismo-com-dezenas-de-estandes-nos-setores-de-gastronomia-moda-e-servicos/",
 "auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:27",
-"t": "Exames do presidente Lula estão dentro da normalidade, diz boletim",
-"p": "Boletim médico publicado às 23h desta terça-feira (3) informa que os exames do presidente Lula estão “dentro da normalidade”. Lula viajou para São Paulo ontem e foi internado no Hospital Sírio-Libanês para realizar exames de rotina previamente agendados. Notícias relacionadas: Lula vai a São Paulo para fazer exames…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/exames-do-presidente-lula-estao-dentro-da-normalidade-diz-boletim",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:21",
-"t": "Furto de fiação elétrica causa interrupção de atendimentos em Centro de Especialidades Odontológicas por seis dias",
-"p": "O furto de cabos de internet e de fiação elétrica causou a interrupção dos atendimentos no Centro de Especialidades Odontológicas de Araçatuba (SP) durante seis dias. O crime foi descoberto nesta terça-feira (3), quando os funcionários se preparavam para retomar os serviços no local após o feriado prolongado do Dia…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Araçatuba"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/furto-de-fiacao-eletrica-causa-interrupcao-de-atendimentos-em-centro-de-especialidades-odontologicas-por-seis-dias/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:20",
-"t": "Homem é morto em confronto com policiais militares em Andradina",
-"p": "Um homem de 29 anos foi morto em um confronto com a Polícia Militar nesta terça-feira (3) em Andradina (SP). De acordo com a Polícia Civil, havia um mandado de prisão por violência doméstica contra Rodney Augusto Lara Ferreira. Ele foi localizado pela equipe da Força Tática em uma casa abandonada. Ao entrarem no…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Andradina"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/homem-e-morto-em-confronto-com-policiais-militares-em-andradina/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:15",
-"t": "Trânsito em São Paulo chega a 602 km de lentidão e motoristas enfrentam atrasos de até 1 hora nesta quarta-feira",
-"p": "A cidade de São Paulo registra 602 quilômetros de lentidão no trânsito nesta quarta-feira (4/11), segundo dados da Companhia de Engenharia de Tráfego (CET). O trânsito intenso também atinge importantes rodovias de acesso à capital paulista, com destaque para a Raposo Tavares, que apresenta mais de 23 quilômetros de…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/transito-em-sao-paulo-chega-a-602-km-de-lentidao-e-motoristas-enfrentam-atrasos-de-ate-1-hora-nesta-quarta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:12",
-"t": "Caminhão tomba e deixa carga espalhada na Rodovia Cônego Domênico Rangoni na manhã desta quarta-feira (4)",
-"p": "Um caminhão tombou na descida da acidente aconteceu por volta das 7h45, na Rodovia Cônego Domênico Rangoni, no sentido Guarujá, na manhã desta quarta-feira (4), sentido Guarujá. A carga está espalhada pelo trecho. Segundo informações da Ecovias, o acidente aconteceu no km 252 com acostamento e faixa 2 bloqueadas e…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Guarujá"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/caminhao-tomba-e-deixa-carga-espalhada-na-rodovia-na-manha-desta-quarta-feira-4/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:11",
-"t": "Pedreiro morre ao cair em poço aberto para construção de elevador em obra",
-"p": "Um pedreiro de 75 anos morreu na manhã desta terça-feira (3) em São José do Rio Preto (SP) ao cair em um poço destinado à construção de um elevador em uma obra. Segundo consta no boletim de ocorrência, José Amorim da Silva estava na área superior do prédio junto com outro trabalhador, quando teria tropeçado […]",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/pedreiro-morre-ao-cair-em-poco-aberto-para-construcao-de-elevador-em-obra/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:08",
-"t": "Fogo destrói ônibus escolar em almoxarifado da prefeitura de Adamantina",
-"p": "Um ônibus escolar pegou fogo dentro do Almoxarifado Municipal de Adamantina (SP), na manhã de sábado (31). As informações foram divulgadas pela prefeitura nesta terça-feira (3). As chamas foram percebidas por servidores que chegavam ao local. Os próprios funcionários conseguiram controlar o incêndio. Segundo a…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Adamantina"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/fogo-destroi-onibus-escolar-em-almoxarifado-da-prefeitura-de-adamantina/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "08:06",
-"t": "Detran-SP faz leilão com quase 800 veículos e lances a partir de R$ 540 na região",
-"p": "Um leilão realizado pelo Departamento Estadual de Trânsito de São Paulo (Detran-SP) tem quase 800 veículos disponíveis em cidades das regiões de Bauru, Presidente Prudente e São José do Rio Preto. A etapa de pré-lances começou nesta terça-feira (3). Os veículos estão recolhidos em Palmital, Cândido Mota, Presidente…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"Presidente Prudente",
-"São Paulo",
-"Palmital",
-"Bauru"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/detran-sp-faz-leilao-com-quase-800-veiculos-e-lances-a-partir-de-r-540-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "07:59",
-"t": "Centro Dia de Fernandópolis encerra programação do Mês do Idoso com Encontro Familiar",
-"p": "O Centro Dia do Idoso de Fernandópolis finalizou as comemorações do Mês do Idoso com a realização do Encontro Familiar, reunindo os frequentadores da unidade e seus parentes em uma noite de integração. O encerramento teve como atração principal o espetáculo teatral “O Baile da Última Estação”, encenado pelos…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/centro-dia-de-fernandopolis-encerra-programacao-do-mes-do-idoso-com-encontro-familiar/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "07:58",
-"t": "Fernandópolis recebe o espetáculo “Doroteia” durante o Festival Nacional de Teatro",
-"p": "O clássico do dramaturgo Nelson Rodrigues, “Doroteia”, ganha uma nova montagem no palco do Teatro Municipal de Fernandópolis durante o Festival Nacional de Teatro. Produzido pelo Fócu – Grupo de Teatro, de Ribeirão Preto, o espetáculo é uma das cinco atrações selecionadas para a programação oficial do evento,…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeirão Preto",
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/fernandopolis-recebe-o-espetaculo-doroteia-durante-o-festival-nacional-de-teatro/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "07:12",
-"t": "Mega-Sena sorteia prêmio acumulado de R$ 46 milhões nesta quarta-feira",
-"p": "A Mega-Sena sorteia nesta quarta-feira (4) prêmio estimado em R$ 46 milhões. As seis dezenas do concurso 3.081 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) em casas lotéricas credenciadas pela Caixa em todo o…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-acumulado-de-r-46-milhoes-nesta-quarta-feira",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "07:01",
-"t": "Ortopedista do Imot é um dos três médicos brasileiros convidados para visita técnica em hospital de Portugal",
-"p": "Marcos Nali acompanhou cirurgias, participou de discussões clínicas e trocou experiências com especialistas do Hospital Lusíadas, no Porto, centro de referência no tratamento de infecções ortopédicas",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/acao-em-rede/ortopedista-do-imot-e-um-dos-tres-medicos-brasileiros-convidados-para-visita-tecnica-em-hospital-de-portugal/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "06:00",
-"t": "Araçariguama: Dispõe sobre os pontos facultativos nos dias 23, 24, 28, 29, 30 e 31 de dezembro de 2026, nas Repartições Públicas do Poder Executivo do Município de Araçariguama, em comemoração ao Natal e Ano Novo",
-"p": "Decreto nº 5225, publicado no Diário Oficial do município em 04/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Araçariguama"
-],
-"src": "Diário Oficial de Araçariguama",
-"u": "https://data.queridodiario.ok.org.br/3502754/2026-11-04/c221dfc7aaf178e6efa411838dc0d2b79903a87e.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 5225",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-04",
-"h": "06:00",
-"t": "Barbosa: Dispõe sobre novo prazo de início e término de adesão ao Programa de Recuperação Fiscal – REFIS 2026, de acordo com a Lei nº 2.525 de 03/02/2026 e dá outras providências",
-"p": "Decreto nº 2.960, publicado no Diário Oficial do município em 04/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Barbosa"
-],
-"src": "Diário Oficial de Barbosa",
-"u": "https://data.queridodiario.ok.org.br/3505104/2026-11-04/4325cb37280f3dd3ff4c479518a99f49d36babac.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 2.960",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-04",
-"h": "06:00",
-"t": "Bragança Paulista: Institui e regulamenta o Fórum Municipal Permanente de Educação",
-"p": "Decreto nº 5.075, publicado no Diário Oficial do município em 04/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Bragança Paulista"
-],
-"src": "Diário Oficial de Bragança Paulista",
-"u": "https://data.queridodiario.ok.org.br/3507605/2026-11-04/93ccd9180b83eb5bb63c5cdb319c18ac993515e1.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 5.075",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-04",
-"h": "06:00",
-"t": "Botucatu: Regulamenta o processo de Atribuição de Classes para professores de Educação Infantil e Ensino Fundamental Anos Iniciais (1º ao 5º ano) da Rede Municipal de Ensino",
-"p": "Decreto nº 14.030, publicado no Diário Oficial do município em 04/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Botucatu"
-],
-"src": "Diário Oficial de Botucatu",
-"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-04/3636903dab48a7f558600b1639cdae3d491b102f.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 14.030",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-04",
-"h": "06:00",
-"t": "Jundiaí: Institui a Política Municipal de Alfabetização e o Comitê Estratégico Municipal de Alfabetização - CEMA, no âmbito da Rede Municipal de Ensino de Jundiaí, e dá providências correlatas",
-"p": "Decreto nº 36.853, publicado no Diário Oficial do município em 04/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Jundiaí"
-],
-"src": "Diário Oficial de Jundiaí",
-"u": "https://data.queridodiario.ok.org.br/3525904/2026-11-04/3cead3de1688d95c61cedcc716972009e37594e5.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 36.853",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-04",
-"h": "06:00",
-"t": "Jaboticabal: Institui a Política Municipal de Alfabetização no âmbito da Rede Pública Municipal de Ensino de Jaboticabal-SP, dispõe sobre sua governança, implementação, monitoramento e avaliação",
-"p": "Decreto nº 8.568, publicado no Diário Oficial do município em 04/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Jaboticabal"
-],
-"src": "Diário Oficial de Jaboticabal",
-"u": "https://data.queridodiario.ok.org.br/3524303/2026-11-04/ec281aa167f2f81cf25f300cec1594ca30131afa.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 8.568",
-"qd": true,
-"mun": true
 }
 ]
 }
