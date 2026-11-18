@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-17T20:56:16-03:00",
-"novos_nesta_coleta": 19,
+"atualizado": "2026-11-17T22:25:44-03:00",
+"novos_nesta_coleta": 21,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -23,12 +23,12 @@
 "Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
-"Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,163 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 520: <none> | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Servi"
+"fonte": "Prefeitura de Presidente Prudente",
+"erro": "The read operation timed out"
 }
 ],
 "itens": [
+{
+"d": "2026-11-17",
+"h": "22:13",
+"t": "Veterano leva a família ao reencontro com a enfermeira que cuidou dele após três tiros nas pernas na Guerra do Vietnã, 58 anos depois de ser ferido",
+"p": "Quando Michael Militello reencontrou Linda Pickard Knightstep, em Amherst, no estado de Nova York, ele queria que a ex-enfermeira do Exército conhecesse sua família. Os dois haviam se conhecido num hospital de campanha durante a Guerra do Vietnã, quando ele chegou ferido nas pernas. No reencontro, cercado por…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/veterano-leva-a-familia-ao-reencontro-com-a-enfermeira-que-cuidou-dele-apos-tres-tiros-nas-pernas-na-guerra-do-vietna-58-anos-depois-de-ser-ferido/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "22:00",
+"t": "Pix offline, transferência internacional e mais segurança em 2027: Banco Central anuncia quatro novidades",
+"p": "A implementação de pagamentos via Pix offline, sem conexão com a internet, integra o pacote de quatro atualizações previstas pelo Banco Central para 2027. Em análise técnica pela autoridade monetária, o cronograma de aprimoramento do sistema financeiro abrange ainda o pagamento parcial no Pix automático, a…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/pix-offline-transferencia-internacional-e-mais-seguranca-em-2027-banco-central-anuncia-quatro-novidades/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "22:00",
+"t": "Investimento de quase meio milhão reforça proteção de paraíso natural com mais de 20 km de praias, dunas e manguezais que abrigam centenas de espécies silvestres",
+"p": "Imagine um lugar onde quilômetros de praias praticamente intocadas encontram dunas, lagoas e manguezais, enquanto lontras, tucanos e outros animais silvestres vivem em meio à vegetação nativa. Esse cenário existe no litoral de Santa Catarina e faz parte de um dos importantes refúgios ecológicos do estado, que acaba…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/investimento-de-quase-meio-milhao-reforca-protecao-de-paraiso-natural-com-mais-de-20-km-de-praias-dunas-e-manguezais-que-abrigam-centenas-de-especies-silvestres/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "21:45",
+"t": "Lugar mais quente do planeta chega a 50°C, passa meses sem chuva e tem lagos ácidos em meio ao deserto",
+"p": "Imagine trabalhar sob um sol tão intenso que a temperatura ultrapassa os 50°C, em uma região onde a chuva é extremamente rara e a paisagem é formada por extensas planícies de sal. Essa é a realidade de quem vive e trabalha nas proximidades de Dallol, no nordeste da Etiópia, uma das áreas mais extremas do […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/lugar-mais-quente-do-planeta-chega-a-50c-passa-meses-sem-chuva-e-tem-lagos-acidos-em-meio-ao-deserto/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "21:39",
+"t": "Gestão Tite investe mais em saúde do que antecessores médicos",
+"p": "Na comparação dos orçamentos, o atual prefeito de São Caetano acrescentou 24,29% de recursos à Pasta; Pinheiro 13,60% e Auricchio, 5,80%",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369400/gestao-tite-investe-mais-em-saude-do-que-antecessores-medicos",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "21:30",
+"t": "James Bond e o MI6: o que é verdade e o que é ficção na relação com o governo britânico?",
+"p": "Anunciado nessa segunda-feira (16/11) como novo James Bond, Robert Pattinson recebeu boas-vindas da Família Real Britânica, na sua conta oficial no X. A postagem diz “Bem-vindo ao Serviço Secreto de Sua Majestade, Sr. Bond” e muitos internautas começaram a perguntar, o agente secreto 007, é ficção ou realmente…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/james-bond-e-o-mi6-o-que-e-verdade-e-o-que-e-ficcao-na-relacao-com-o-governo-britanico/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "21:22",
+"t": "Prefeitura multa concessionária do Aeroporto de Congonhas em R$ 50 mil",
+"p": "Aena Brasil foi autuada pelo corte de 22 árvores em uma área na zona sul de São Paulo, próxima ao terminal aéreo, sem autorização municipal",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-multa-concessionaria-do-aeroporto-de-congonhas-em-r-50-mil",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "21:22",
+"t": "Saiu o resultado! Confira os números da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte desta terça-feira (17)",
+"p": "As Loterias da Caixa sortearam na noite desta terça-feira (17), os prêmios de concursos da Quina, Lotofácil, Timemania e Dia de Sorte. Os sorteios do dia movimentaram jogadores em todo o país, com valores acumulados que atraem quem busca mudar de vida com uma única aposta. Veja os números sorteados da Quina,…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-quina-lotofacil-timemania-e-dia-de-sorte-desta-terca-feira-17/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "21:17",
+"t": "São Paulo se prepara para rescisão de contrato com Bet",
+"p": "Rubens Chiri / saopaulofc.net Empresa se movimenta para rescindir o contrato com o Tricolor",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-se-prepara-para-rescisao-de-contrato-com-bet/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "21:10",
+"t": "Sistema Anchieta-Imigrantes: operação free-flow começa em 1º de dezembro",
+"p": "Mudança substitui a cobrança nas praças físicas e reduz de R$ 40,60 para R$ 20,30 o valor pago por veículos de passeio nos dois sentidos",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sistema-anchieta-imigrantes-operacao-free-flow-comeca-em-1o-de-dezembro",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "21:05",
+"t": "Mega-Sena acumulada em R$ 32,1 milhões nesta terça-feira: confira as dezenas sorteadas pela Caixa",
+"p": "A Caixa Econômica Federal sorteou na noite desta terça-feira (17/11) as seis dezenas do concurso 3087 da Mega-Sena, que poderá pagar um prêmio de R$ 32,1 milhões para quem acertar todas os números. Confira os números: Como apostar na Mega-Sena A Mega-Sena é a principal loteria do país e premia quem acertar os seis…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/mega-sena-acumulada-em-r-321-milhoes-nesta-terca-feira-confira-as-dezenas-sorteadas-pela-caixa/",
+"auto": true
+},
+{
+"d": "2026-11-17",
+"h": "20:52",
+"t": "Manutenção pode afetar abastecimento de água em São Bernardo",
+"p": "A Sabesp informou que os bairros que podem ter o serviço interrompido são Baeta Neves, Jardim Fátima e Nova Barra",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369395/manutencao-pode-afetar-abastecimento-de-agua-em-sao-bernardo-",
+"auto": true
+},
 {
 "d": "2026-11-17",
 "h": "20:47",
@@ -54882,170 +55034,6 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/hospital-regional-de-itanhaem-abre-processo-seletivo-para-18-vagas/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:56",
-"t": "São Vicente assina comodato para gestão do Complexo Materno-Infantil",
-"p": "Contrato de 30 anos foi assinado na sexta (30), em conjunto com a Fundação Lusíada; prefeito também oficializou convocação de 81 profissionais para o hospital",
-"tema": "Saúde",
-"s": "obra",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/litoral/sao-vicente-assina-comodato-para-gestao-do-complexo-materno-infantil/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:54",
-"t": "Homem é preso após arrombar mercado e furtar mais de R$ 1,5 mil em produtos",
-"p": "Desempregado foi flagrado pela Polícia Militar carregando um saco com carnes, picolés, bebidas, doces e outros produtos",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/homem-e-preso-apos-arrombar-mercado-e-furtar-mais-de-r-15-mil-em-produtos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:51",
-"t": "Áudio: CCJ analisa criação de fundo de amparo às crianças órfãs",
-"p": "A Comissão de Constituição e Justiça (CCJ) analisa projeto de lei que cria o Fundo de Amparo às Crianças Órfãs e o Programa de Amparo às Crianças Órfãs. O PL 2.329/2021 tem o objetivo de garantir suporte financeiro e assistencial a crianças e adolescentes que perderam pais ou cuidadores primários. Condicionado à…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Amparo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/audio-ccj-analisa-criacao-de-fundo-de-amparo-as-criancas-orfas/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:51",
-"t": "Após 1 ano internado, adolescente que teve 90% do corpo queimado em explosão volta para casa: ‘Olho brilha de alegria’, diz mãe",
-"p": "Adolescente internado em Catanduva após explosão de churrasqueira volta para casa Depois de um ano e cinco meses internado em um hospital em Catanduva (SP), entre cirurgias e procedimentos para tratar queimaduras em quase 90% do corpo, Rikelme Alexandre de Brito, de 14 anos, voltou para casa. O acidente ocorreu no…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Catanduva"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/apos-1-ano-internado-adolescente-que-teve-90-do-corpo-queimado-em-explosao-volta-para-casa-olho-brilha-de-alegria-diz-mae/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:51",
-"t": "Segurança morre após cair de barracão no trabalho em Rio Preto",
-"p": "Hospital de Base de Rio Preto (SP) Divulgação Um segurança de 58 anos morreu, na manhã de segunda-feira (2), em São José do Rio Preto (SP) após cair de um barracão durante o trabalho. Ele passou 13 dias internado em estado grave no Hospital de Base (HB). Segundo o boletim de ocorrência, Denilson Alves de […]",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/seguranca-morre-apos-cair-de-barracao-no-trabalho-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:50",
-"t": "Eficiência energética e conforto térmico impulsionam o uso de exaustores eólicos em galpões industriais no estado de SP",
-"p": "Com as frequentes oscilações de temperatura no estado de São Paulo, indústrias e empresas de logística têm voltado suas atenções para soluções sustentáveis que garantam a renovação do ar e o conforto térmico de suas instalações. Manter um ambiente de trabalho arejado não é apenas uma exigência regulatória de saúde…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/eficiencia-energetica-e-conforto-termico-impulsionam-o-uso-de-exaustores-eolicos-em-galpoes-industriais-no-estado-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:48",
-"t": "Adolescente morre após se afogar em represa em Mogi das Cruzes",
-"p": "Vítima de 14 anos foi retirada da água em parada cardiorrespiratória e encaminhada à UPA do Oropó, onde a morte foi confirmada",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/adolescente-morre-apos-se-afogar-em-represa-em-mogi-das-cruzes/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:32",
-"t": "Jim Caviezel, que vive Jair Bolsonaro nos cinemas, se manifesta sobre o cenário político brasileiro: “o comunismo assumiu totalmente a eleição”",
-"p": "O ator norte-americano Jim Caviezel, que interpretou o ex-presidente Jair Bolsonaro no longa “Dark Horse”, falou pela primeira vez sobre as polêmicas do filme e afirmou que “o comunismo assumiu totalmente a eleição” do Brasil. Até então, o ator apenas havia compartilhado imagens e escrito sobre o longa em suas…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/jim-caviezel-que-vive-jair-bolsonaro-nos-cinemas-se-manifesta-sobre-o-cenario-politico-brasileiro-o-comunismo-assumiu-totalmente-a-eleicao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:32",
-"t": "Motociclista em alta velocidade atropela pedestre que atravessava rua",
-"p": "Acidente aconteceu na Rua Sete de Setembro, neste domingo (1º), e foi registrado por uma câmera de segurança; motociclista atingiu a pedestre, que sofreu fraturas na perna e na pelve",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/motociclista-em-alta-velocidade-atropela-pedestre-que-atravessava-rua/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:32",
-"t": "MEC dá dicas aos participantes para o Enem 2026",
-"p": "A primeira prova do Exame Nacional do Ensino Médio (Enem) de 2026 está marcada para o próximo domingo (8) e o Ministério da Educação (MEC) elaborou uma lista para facilitar a preparação dos mais de 5 milhões de inscritos com itens que devem estar prontos antes da data do exame.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/mec-da-dicas-aos-participantes-para-o-enem-2026/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:30",
-"t": "Fazenda e refúgio de Rogério Ceni tem 3,9 mil hectares e armazém para 1 milhão de sacas no interior de Mato Grosso",
-"p": "A Fazenda Dona Dozolina, comandada pela família do ex-goleiro Rogério Ceni, fez uma ampliação para a produção de 1 milhão de sacas em seu armazém há cerca de seis anos. A propriedade de 3,9 mil hectares se tornou um refúgio para o atleta em Santa Carmem, no interior do Mato Grosso. Na época das obras […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/fazenda-e-refugio-de-rogerio-ceni-tem-39-mil-hectares-e-armazem-para-1-milhao-de-sacas-no-interior-de-mato-grosso/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "09:29",
-"t": "Eu experimentei a tendência ‘camadas de fibra’ por duas semanas, e essa consequência eu não esperava",
-"p": "Prato montado com feijão, folhas, maçã com casca, aveia e sementes ao lado de um copo de água, ilustrando o hábito de espalhar fibra ao longo do dia sem suplementos. Ilustração criada com Inteligência Artificial Uma jornalista testou a tendência alimentar fiber layering por 14 dias para melhorar a digestão, mas a…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/noticias/eu-experimentei-a-tendencia-camadas-de-fibra-por-duas-semanas-e-essa-consequencia-eu-nao-esperava/",
 "auto": true
 }
 ]
