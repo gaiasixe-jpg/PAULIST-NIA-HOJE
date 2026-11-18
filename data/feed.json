@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T19:58:45-03:00",
-"novos_nesta_coleta": 27,
+"atualizado": "2026-11-18T20:56:40-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,119 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | HTTP Error 503: Service Unavailable | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "20:49",
+"t": "Duas gorilas em parque de safári israelense surpreendem pesquisadores ao usarem uma à outra como escada viva em colaboração especial",
+"p": "Amelia apoiou-se na rocha e, em seguida, escalou o dorso de Lisha para quebrar um galho a cerca de 4,5 metros de altura, contorno que as duas fêmeas de gorila-do-ocidente repetiram diante das câmeras de segurança do parque de safári de Ramat Gan, instalação aberta ao público próxima a Tel Aviv, em Israel. O tronco […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/duas-gorilas-em-parque-de-safari-israelense-surpreendem-pesquisadores-ao-usarem-uma-a-outra-como-escada-viva-em-colaboracao-especial/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "20:39",
+"t": "Campinas terá mudanças em taxas e impostos; veja o que muda",
+"p": "Câmara aprovou propostas da Prefeitura que alteram cobrança da taxa de lixo, regras do imposto sobre transição de imóveis e multas por atraso no pagamento de dívidas municipais",
+"tema": "Contas públicas",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/campinas-tera-mudancas-em-taxas-e-impostos-veja-o-que-muda/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "20:34",
+"t": "Concurso em SP abre 98 vagas para pesquisadores científicos; veja como participar",
+"p": "Inscrições para o concurso seguem até 22 de dezembro pelo site da Vunesp; provas objetiva e dissertativa estão previstas para 14 de fevereiro de 2027",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/concurso-em-sp-abre-98-vagas-para-pesquisadores-cientificos-veja-como-participar/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "20:20",
+"t": "Governo de SP destaca fortalecimento da indústria automotiva com inauguração de nova fábrica da Toyota em Sorocaba",
+"p": "O governador Tarcísio de Freitas participou nesta quarta-feira (18) da inauguração da nova fábrica da Toyota em Sorocaba, batizada de Sorocaba 2. A expansão da montadora no interior paulista, realizada com o suporte dos programas estaduais Pró-Veículo e Pró-Veículo Verde, faz parte de um plano de investimentos de…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Sorocaba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-destaca-fortalecimento-da-industria-automotiva-com-inauguracao-de-nova-fabrica-da-toyota-em-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "20:18",
+"t": "Polícia Militar apreende mais de 722 kg de drogas e arma de fogo com apoio de cão farejador",
+"p": "Uma operação conjunta da Polícia Militar resultou na apreensão de 722,3 quilos de entorpecentes em uma residência utilizada como depósito do tráfico em Araraquara, no interior de São Paulo. A ação, realizada na última terça-feira (17), contou com a participação de equipes do Canil de Araraquara, da 3ª Companhia de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Araraquara"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-apreende-mais-de-722-kg-de-drogas-e-arma-de-fogo-com-apoio-de-cao-farejador/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "20:16",
+"t": "Defesa Civil emite 17 alertas de temporais e monitora instabilidades climáticas em todo o Estado",
+"p": "A Defesa Civil do Estado de São Paulo manteve forte atuação nesta quarta-feira (18) para o monitoramento das condições meteorológicas, impulsionadas pela combinação de altas temperaturas e pela umidade vinda da região amazônica. O cenário de calor e instabilidade favoreceu a formação de nuvens carregadas,…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-emite-17-alertas-de-temporais-e-monitora-instabilidades-climaticas-em-todo-o-estado/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "20:14",
+"t": "Chuva alaga saída da estação de trem da Linha 7-Rubi em São Paulo",
+"p": "O acúmulo de água durante a forte chuva fez motocicletas estacionadas na saída da Estação Perus ficaram parcialmente submersas",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-alaga-saida-da-estacao-de-trem-da-linha-7-rubi-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "20:00",
+"t": "Ilumina Santos, que já recebeu Fábio Jr., fica fora da programação de Natal",
+"p": "Prefeitura de Santos Evento tradicional de Natal, que já reuniu milhares de pessoas na orla, será suspenso neste ano em meio a obras e mudanças no trânsito.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/ilumina-santos-que-ja-recebeu-fabio-jr-fica-fora-da-programacao-de-natal/",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "19:57",
@@ -65,6 +173,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/motorista-de-onibus-e-flagrado-mexendo-no-celular-durante-trajeto-em-campinas-veja-video/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:55",
+"t": "Dr. Fabio Lopes, Secretário de Desenvolvimento Urbano e Habitação de Santo André | Política em Cena",
+"p": "",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369599/dr-fabio-lopes-secretario-de-desenvolvimento-urbano-e-habitacao-de-santo-andre-%7C-politica-em-cena",
 "auto": true
 },
 {
@@ -107,6 +229,18 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/camara-da-sinal-verde-para-financiamento-de-r-28-milhoes-e-pacote-de-obras-estruturantes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "19:47",
+"t": "Prorrogação de isenção de ICMS para carros de pessoas com deficiência e autistas até 2027 é aprovada, mas mantém limites atuais",
+"p": "Pessoas com deficiência (PcD) e pessoas autistas que pretendem comprar um carro zero-quilômetro em 2027 receberam uma notícia importante. O Conselho Nacional de Política Fazendária (Confaz) aprovou a prorrogação, até 31 de dezembro do próximo ano, do convênio que regulamenta a isenção de ICMS na aquisição de…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/prorrogacao-de-isencao-de-icms-para-carros-de-pessoas-com-deficiencia-e-autistas-ate-2027-e-provada-mas-mantem-limites-atuais/",
 "auto": true
 },
 {
@@ -246,6 +380,20 @@
 },
 {
 "d": "2026-11-18",
+"h": "19:18",
+"t": "São Caetano busca operação de R$ 160 milhões para obras de infraestrutura",
+"p": "Prefeito Tite Campanella propõe crédito para reforma de escolas, de unidades de saúde, de parques, bem como a construção de viadutos; pedido está na Câmara",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369594/sao-caetano-busca-operacao-de-rs-160-milhoes-para-obras-de-infraestrutura",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "19:00",
 "t": "Histórico clube vira parque público de 85 mil m² após acordo milionário com a Prefeitura, que reduziu dívida de quase R$ 1 bilhão",
 "p": "O Jockey Club de São Paulo vai ceder uma área de aproximadamente 85 mil metros quadrados do Hipódromo de Cidade Jardim, na zona sul da Capital, para a criação de um parque público. A medida faz parte de um acordo com a Prefeitura de São Paulo para renegociar uma dívida tributária e prevê o pagamento […]",
@@ -270,6 +418,20 @@
 ],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/brasil/natal-de-santos-perde-tradicional-show-na-sacada-de-hotel-e-festival-geek-em-2026-prefeitura-explica-as-mudancas-e-promete-atracoes-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "18:59",
+"t": "Natal de Santos perde tradicional show na sacada de hotel e Festival Geek em 2026; Prefeitura explica as mudanças e promete atrações em 2027",
+"p": "A programação de fim de ano de Santos terá mudanças importantes em 2026. Dois eventos que conquistaram espaço no calendário cultural e turístico da cidade não serão realizados neste ano: o Ilumina Santos e o Santos Festival Geek. A Prefeitura, porém, promete reformular as atrações e trabalhar para que ambas…",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/natal-de-santos-perde-tradicional-show-na-sacada-de-hotel-e-festival-geek-em-2026-prefeitura-explica-as-mudancas-e-promete-atracoes-em-2027/",
 "auto": true
 },
 {
@@ -3524,6 +3686,20 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/economia/dona-da-brastemp-e-consul-inclui-cooktops-por-inducao-na-producao-de-fabrica-que-ja-faz-micro-ondas-e-lava-loucas-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:00",
+"t": "Rodovias da região de Campinas esperam cerca de 4,3 milhões de veículos no feriado da Consciência Negra",
+"p": "Previsão reúne cinco sistemas rodoviários que atendem Campinas e cidades da região; maior movimento na saída é esperado entre a tarde de quinta-feira (19) e a manhã de sexta (20)",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/rodovias-da-regiao-de-campinas-esperam-cerca-de-43-milhoes-de-veiculos-no-feriado-da-consciencia-negra/",
 "auto": true
 },
 {
@@ -54745,176 +54921,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/seminario-de-boas-praticas-reune-educadores-de-jales-e-seleciona-projeto-para-etapa-regional/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:45",
-"t": "Orquídea sem flores pode voltar a florescer com mistura de alho e água e esse preparo caseiro chama atenção de quem procura uma solução simples para cuidar da planta em casa",
-"p": "Entenda quais condições de iluminação, rega e nutrição ajudam a planta a desenvolver novas hastes e manter as raízes saudáveis",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/gazeta-mais/dicas-da-gazeta/orquidea-sem-flores-pode-voltar-a-florescer-com-mistura-de-alho-e-agua-e-esse-preparo-caseiro-chama-atencao-de-quem-procura-uma-solucao-simples-para-cuidar-da-planta-em-casa/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:44",
-"t": "ALEPA e CGU encerram inscrições nesta quarta, 4; veja demais concursos",
-"p": "O prazo para participar de 15 concursos públicos e processos seletivos termina nesta quarta-feira, 4 de novembro. As seleções reúnem 684 vagas em Alagoas, Pará, Goiás, Santa Catarina, Amazonas, Mato Grosso do Sul, Minas Gerais, Sergipe, Espírito Santo e São Paulo. Há oportunidades para candidatos com formação nos…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/alepa-e-cgu-encerram-inscricoes-nesta-quarta-4-veja-demais-concursos/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:43",
-"t": "Carro fica preso em árvore após batida no Jardim Conceição",
-"p": "Carro ficou preso em árvore após acidente envolvendo dois veículos na manhã desta quarta-feira (4), no Jardim Conceição; trânsito segue lento no trecho",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/carro-fica-preso-em-arvore-apos-batida-no-jardim-conceicao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:35",
-"t": "A Fazenda 18: sétima roça é formada após dinâmica com o fazendeiro; veja qual foi a escolha de Ana Bruna e vote na enquete em quem deve sair",
-"p": "Na noite desta terça-feira (3/11) foi formada a sétima roça de “A Fazenda 18”. Nela, disputam Eduarda Braum, Renata Del Bianco, Rikardo Negro e Mayk Leão. A berlinda foi formada após uma dinâmica inédita do programa, que foi anunciada por Adriane Galisteu na última segunda-feira (2/11). Ana Bruna, a fazendeira da…",
-"tema": "Geral",
-"s": "anunciado",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/a-fazenda-18-setima-roca-e-formada-apos-dinamica-com-o-fazendeiro-veja-qual-foi-a-escolha-de-ana-bruna-e-vote-na-enquete-em-quem-deve-sair/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:33",
-"t": "São Vicente inaugura Nova Rodoviária neste domingo (8)",
-"p": "São Vicente entra em clima de festa neste domingo (8), com a inauguração da Nova Rodoviária. A partir das 9h, a Praça Bernardino de Campos (Centro) recebe uma programação especial para marcar a entrega do equipamento.",
-"tema": "Geral",
-"s": "entregue",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/litoral/sao-vicente-inaugura-nova-rodoviaria-neste-domingo-8/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:31",
-"t": "Vira-lata caramelo maltratado é adotado por policial, ganha farda e medalhas e acaba promovido a sargento da PM no Rio de Janeiro",
-"p": "Um vira-lata caramelo conquistou um lugar especial em um batalhão da Polícia Militar do Rio de Janeiro. Conhecido como Oliveira, o animal chegou de mansinho ao 17º BPM, na Ilha do Governador, no fim de 2018, e acabou adotado pelos policiais. Desde então, passou a fazer parte da rotina do quartel e ganhou até uma […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/vira-lata-caramelo-maltratado-e-adotado-por-policial-ganha-farda-e-medalhas-e-acaba-promovido-a-sargento-da-pm-no-rio-de-janeiro/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:28",
-"t": "Ilha ameaçada pelo avanço do mar abandona o concreto e aposta em esperança verde e natural para salvar 3 mil pessoas das ondas violentas",
-"p": "Seja no Brasil ou em qualquer outro ponto do planeta, o avanço do mar é um vilão bem conhecido e temido. É nessa realidade que está uma pequena ilha ao norte de Manila, capital das Filipinas. Em meio ao caos e às tentativas frustradas de conter a água, moradores passaram anos convivendo com casas protegidas […]",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/ilha-ameacada-pelo-avanco-do-mar-abandona-o-concreto-e-aposta-em-esperanca-verde-e-natural-para-salvar-3-mil-pessoas-das-ondas-violentas/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:27",
-"t": "Suzano realiza mutirão de empregos com 450 vagas nesta sexta-feira",
-"p": "Ação ocorre das 9h às 15h, no Centro Unificado de Serviços (Centrus), e reúne oportunidades oferecidas por nove empresas",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Suzano"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/suzano-realiza-mutirao-de-empregos-com-450-vagas-nesta-sexta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:25",
-"t": "Padilha defende proibição das bets e cita impacto no SUS",
-"p": "O ministro da Saúde, Alexandre Padilha, defendeu na terça-feira (3) a manutenção da decisão do governo federal que proibiu o funcionamento das empresas que operam sites de apostas online, conhecidas como bets.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/vida/padilha-defende-proibicao-das-bets-e-cita-impacto-no-sus/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:23",
-"t": "Falha elétrica atinge linha 9-Esmeralda, interrompe circulação em uma das vias e Paese é acionado",
-"p": "Uma falha elétrica afeta a circulação dos trens da linha 9-Esmeralda na manhã desta quarta-feira (4/11), provocando a interrupção do serviço em uma das vias entre as estações Presidente Altino e Ceasa, na Grande São Paulo. De acordo com a ViaMobilidade, concessionária responsável pela linha, o problema foi…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/falha-eletrica-atinge-linha-9-esmeralda-interrompe-circulacao-em-uma-das-vias-e-paese-e-acionado/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:21",
-"t": "AMAÊ Festival traz Matuê, Marina Sena e mais 17 atrações neste sábado (7)",
-"p": "Evento vem com grandes nomes do rap, trap, funk, pop e música eletrônica em dois palcos simultâneos, com mais de 12 horas de programação",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/amae-festival-traz-matue-marina-sena-e-mais-17-atracoes-neste-sabado-7/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:16",
-"t": "Obituário | Falecimentos registrados nesta quarta-feira (4/11) em Marília e região",
-"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta quarta-feira, dia 4 de novembro.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-quarta-feira-4-11-em-marilia-e-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "09:15",
-"t": "Santos terá sol nesta quarta-feira, mas previsão indica chuva e raios a partir de quinta",
-"p": "Cidade terá tempo estável nesta quarta-feira (4), com predomínio de sol e temperaturas elevadas",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/santos-tera-sol-nesta-quarta-feira-mas-previsao-indica-chuva-e-raios-a-partir-de-quinta/",
 "auto": true
 }
 ]
