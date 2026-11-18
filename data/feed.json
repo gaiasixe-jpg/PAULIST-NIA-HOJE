@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T16:04:02-03:00",
-"novos_nesta_coleta": 28,
+"atualizado": "2026-11-18T17:06:28-03:00",
+"novos_nesta_coleta": 46,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,426 @@
 "itens": [
 {
 "d": "2026-11-18",
+"h": "17:05",
+"t": "USF São Bento leva orientações e serviços de saúde ao Clube do Idoso",
+"p": "A equipe da Unidade de Saúde da Família (USF) do Parque São Bento desenvolveu, na manhã desta quarta-feira (18), uma programação especial aos frequentadores do Clube do Idoso, no bairro Pinheiros. A ação da Prefeitura de Sorocaba, por meio das secretarias da Saúde (SES) e da Cidadania (Secid), ofereceu serviços de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/usf-sao-bento-leva-orientacoes-e-servicos-de-saude-ao-clube-do-idoso/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:04",
+"t": "Defesa Civil Municipal participa de reunião sobre atualização dos mapas de áreas de risco",
+"p": "Gestão de riscos",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/defesa-civil-municipal-participa-de-reuniao-sobre-atualizacao-dos-mapas-de-areas-de-risco/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:03",
+"t": "Rompimento de adutora afeta abastecimento de água em bairro de Ribeirão Preto",
+"p": "Reparo emergencial deve ser concluído até as 22h desta quarta-feira (18); abastecimento será retomado gradativamente após o serviço",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/rompimento-de-adutora-afeta-abastecimento-de-agua-em-bairro-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:03",
+"t": "Missão do Parque Tecnológico de Sorocaba no Paraguai abre caminho para novos negócios e intercâmbio industrial",
+"p": "Fotos: Divulgação Único município brasileiro com estande próprio em feira internacional, Sorocaba articula parcerias estratégicas, cooperação técnica e aguarda comitiva paraguaia para apresentar incentivos da Lei Maquila a empresários da região A recente missão institucional do Parque Tecnológico de Sorocaba (PTS)…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/missao-do-parque-tecnologico-de-sorocaba-no-paraguai-abre-caminho-para-novos-negocios-e-intercambio-industrial/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "17:01",
+"t": "Forte chuva alaga Mercadão, ruas e avenidas de Campinas; veja pontos afetados",
+"p": "A forte chuva que atingiu Campinas na tarde desta quarta-feira (18) provocou alagamentos em diversos pontos da cidade. Além de ruas e avenidas, o temporal invadiu o Mercado Municipal, no Centro, e deixou clientes ilhados dentro de lojas. Não há informações de ocorrências graves. Leia também: Tocou ai? Celulares…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/forte-chuva-alaga-mercadao-ruas-e-avenidas-de-campinas-veja-pontos-afetados/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:58",
+"t": "Defesa civil faz alerta severo para chuva e CGE aponta para alagamentos",
+"p": "Por volta das 16h30, uma forte chuva atingiu a cidade de São Paulo. Autoridades fazem recomendações para garantir a segurança da população",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/defesa-civil-faz-alerta-severo-para-chuva-e-cge-aponta-para-alagamentos",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:54",
+"t": "Chuva forte coloca regiões de São Paulo em alerta severo, provoca trânsito intenso e Defesa Civil prevê raios, ventos e granizo",
+"p": "A Defesa Civil emitiu um alerta severo para chuva nas zonas oeste, sul e central de São Paulo nesta quarta-feira (18/11). A tempestade pode vir acompanhada de descargas elétricas, ventos fortes e possibilidade de granizo. A instabilidade também pode atingir municípios vizinhos à capital. O órgão orienta a população…",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/cotidiano/chuva-forte-coloca-regioes-de-sao-paulo-em-alerta-severo-provoca-transito-intenso-e-defesa-civil-preve-raios-ventos-e-granizo/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:53",
+"t": "Prefeitura de SP planeja realizar megashow na Paulista no pré-Carnaval",
+"p": "MPSP instaurou procedimento para analisar a realização do evento, que deve trazer grandes nomes da música para apresentações na Paulista",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-de-sp-planeja-realizar-megashow-na-paulista-no-pre-carnaval",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:52",
+"t": "Metrô celebra Dia da Consciência Negra com programação cultural na estação Vila Prudente",
+"p": "O Metrô de São Paulo promove nesta quinta-feira (19), na estação Vila Prudente (linhas 2-Verde e 15-Prata), uma programação especial em celebração ao Dia da Consciência Negra. A iniciativa acontece das 10h às 18h e contará com apresentações de capoeira e maculelê, escola de samba, bloco afro, DJ, sarau de poesia…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/metro-celebra-dia-da-consciencia-negra-com-programacao-cultural-na-estacao-vila-prudente/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:52",
+"t": "Operação da Polícia Civil de SP prende suspeita de envolvimento em fraude fiscal de R$ 232 milhões",
+"p": "A Polícia Civil prendeu uma mulher durante a Operação X.509, deflagrada nesta quarta-feira (18) para combater um esquema de fraude fiscal no interior de São Paulo. A ação foi realizada pela Delegacia de Investigações Gerais (DIG) de Rio Claro, em conjunto com o Grupo de Atuação Especial de Combate ao Crime…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Rio Claro"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-da-policia-civil-de-sp-prende-suspeita-de-envolvimento-em-fraude-fiscal-de-r-232-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:52",
+"t": "Tarcísio de Freitas confirma Osvaldo Nico Gonçalves à frente da Segurança Pública de SP",
+"p": "O governador Tarcísio de Freitas confirmou a permanência de Osvaldo Nico Gonçalves no comando da Secretaria da Segurança Pública (SSP) para a próxima gestão. Com mais de quatro décadas de experiência na Polícia Civil, Nico dará continuidade às políticas de enfrentamento ao crime organizado, fortalecimento das ações…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tarcisio-de-freitas-confirma-osvaldo-nico-goncalves-a-frente-da-seguranca-publica-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:51",
+"t": "Previsão do tempo para quinta-feira (19), em SP: instabilidades continuam atuando",
+"p": "Nesta quinta-feira, dia 19, as instabilidades continuam atuando sobre o Estado de São Paulo. Ainda há previsão de pancadas de chuva isoladas, de moderada a forte intensidade, acompanhadas de raios e, pontualmente, de rajadas de vento fortes, principalmente no setor oeste do Estado. O risco de temporais é menor nas…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/previsao-do-tempo-para-quinta-feira-19-em-sp-instabilidades-continuam-atuando/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:50",
+"t": "Cubatão incentiva moradores a concluir o ensino básico por meio de plataforma federal",
+"p": "Iniciativa busca apoiar moradores que procuram o Posto de Atendimento ao Trabalhador (PAT) para vagas de emprego, mas que não terminaram o ensino básico",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/cubatao-incentiva-moradores-a-concluir-o-ensino-basico-por-meio-de-plataforma-federal.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:46",
+"t": "Jundiaí lança Procon Racial para combater discriminação nas relações de consumo",
+"p": "Foto: Prefeitura de Jundiaí Novo serviço oferecerá acolhimento, orientação jurídica e apoio psicológico a vítimas de racismo nas relações de consumo.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/procon-racial-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:45",
+"t": "Quinta-feira terá calor intenso e risco de pancadas de chuva com raios e ventos fortes no Estado",
+"p": "As áreas de instabilidade continuam influenciando as condições climáticas em todo o Estado de São Paulo nesta quinta-feira, dia 19 de novembro. De acordo com a previsão meteorológica, ainda há possibilidade de pancadas de chuva isoladas, que podem variar de moderada a forte intensidade, acompanhadas de descargas…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/quinta-feira-tera-calor-intenso-e-risco-de-pancadas-de-chuva-com-raios-e-ventos-fortes-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:44",
+"t": "Tarcísio de Freitas confirma permanência de Osvaldo Nico Gonçalves no comando da Segurança Pública de SP",
+"p": "O governador Tarcísio de Freitas oficializou a permanência de Osvaldo Nico Gonçalves à frente da Secretaria da Segurança Pública (SSP) de São Paulo para a próxima gestão estadual. Com uma trajetória de mais de quatro décadas dedicada à Polícia Civil paulista, o secretário seguirá liderando as estratégias de combate…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tarcisio-de-freitas-confirma-permanencia-de-osvaldo-nico-goncalves-no-comando-da-seguranca-publica-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:41",
+"t": "Tarcísio mantém Nico Gonçalves na Segurança Pública",
+"p": "Anúncio foi feito nesta quarta-feira (18), quando o governador também apresentou uma reformulação administrativa que redistribui as atribuições de quatro secretarias estaduais",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369560/tarcisio-mantem-nico-goncalves-na-seguranca-publica",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:40",
+"t": "Câmara apresenta projeto da nova sede administrativa em Várzea Paulista",
+"p": "Prefeito em exercício, João Paulo, acompanhado de vereadores de Várzea Paulista - Foto: Câmara de Várzea Paulista Projeto prevê prédio de dois pavimentos, plenário para 200 pessoas e espaços destinados ao atendimento da população",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/nova-sede-camara-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:35",
+"t": "Operação da Polícia Civil combate esquema de fraude fiscal de R$ 232 milhões",
+"p": "Uma mulher foi presa preventivamente nesta quarta-feira (18) durante a Operação X.509, uma força-tarefa deflagrada pela Polícia Civil para desarticular um esquema milionário de fraude fiscal no interior paulista. A ação foi conduzida pela Delegacia de Investigações Gerais (DIG) de Rio Claro em parceria com o Grupo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Rio Claro"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-da-policia-civil-combate-esquema-de-fraude-fiscal-de-r-232-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:34",
+"t": "Educação do Estado de São Paulo publica edital de concurso para professores nesta quinta-feira",
+"p": "5 mil professores devem ser contratados para os Ensinos Fundamental e Médio; 3 mil terão jornada de 40 horas semanais, enquanto 2 mil trabalharão 25 horas por semana",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/educacao-do-estado-de-sao-paulo-publica-edital-de-concurso-para-professores-nesta-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:34",
+"t": "Prefeitura de Sorocaba, em parceria com a iniciativa privada e Ministério da Cultura, traz a jovens estudantes o projeto “O Sonho Além do Jogo”",
+"p": "Fotos: Michelle Alves/Secom O projeto “O Sonho Além do Jogo” que incluiu rodadas de games com workshop e oficinas, proporcionou a jovens estudantes, de 12 a 18 anos, uma experiência única, no Centro de Referência em Educação (CRE), nesta segunda (16) a quarta-feira (18), nos períodos da manhã e da tarde. O evento…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-em-parceria-com-a-iniciativa-privada-e-ministerio-da-cultura-traz-a-jovens-estudantes-o-projeto-o-sonho-alem-do-jogo/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:27",
+"t": "Tocou ai? Celulares recebem alerta severo de chuva forte",
+"p": "Aviso da Defesa Civil foi enviado por volta das 15h30 desta quarta-feira (18) e alertou para possibilidade de temporais e queda de granizo",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/tocou-ai-celulares-recebem-alerta-severo-de-chuva-forte/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:26",
+"t": "Polícia prende mulher suspeita de distribuir drogas por delivery em Rio Preto",
+"p": "Investigação da Dise durou cerca de 30 dias e identificou um esquema de armazenamento e distribuição de drogas no bairro Fraternidade.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-prende-mulher-suspeita-de-distribuir-drogas-por-delivery-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:20",
+"t": "Prefeitura de Ouroeste disponibiliza transporte gratuito para moradores de Arabá participarem do 2º Feirão de Empregos",
+"p": "Os trabalhadores residentes no distrito de Arabá terão facilidade extra para buscar recolocação ou novas oportunidades profissionais nesta quinta-feira (19). O Governo Municipal de Ouroeste vai oferecer transporte gratuito para levar os interessados até o 2º Feirão de Empregos da cidade, garantindo acesso amplo ao…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-disponibiliza-transporte-gratuito-para-moradores-de-araba-participarem-do-2o-feirao-de-empregos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:14",
+"t": "Feriado em SP terá chuva por causa de frente fria? Entenda",
+"p": "Sistema avança pelo litoral paulista no sábado (21), mas não deve provocar queda significativa nas temperaturas; Feriado terá períodos de sol, calor e pancadas de chuva",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/feriado-em-sp-tera-chuva-por-causa-de-frente-fria-entenda/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:13",
+"t": "Tarcísio mantém delegado Nico na Segurança Pública e anuncia mudanças em quatro secretarias de SP",
+"p": "Governador Tarcísio de Freitas confirmou a permanência de Osvaldo Nico Gonçalves nesta quarta-feira (18) e anunciou mudanças em outras quatro pastas do governo estadual",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/tarcisio-mantem-delegado-nico-na-seguranca-publica-e-anuncia-mudancas-em-quatro-secretarias-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:11",
+"t": "Havan abre vaga de emprego com salário de R$ 2.290 e benefícios em Jundiaí; confira",
+"p": "Foto: Reprodução/Google Street View Oportunidade para operador comercial e caixa exige Ensino Médio completo e oferece premiações, PPR e chances de crescimento.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/havan-jundiai-vaga-emprego/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:10",
+"t": "TCE-SP dá parecer favorável às contas do Sama durante gestão de Rangel Souza",
+"p": "Análises referentes aos exercícios de 2021 a 2024 tiveram resultados favoráveis; vereador do PT atribui desempenho à transparência e à responsabilidade com o dinheiro público",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369553/tce-sp-da-parecer-favoravel-as-contas-do-sama-durante-gestao-de-rangel-souza-",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:10",
+"t": "Ilhabela recebe final do XTERRA Brasil com nova prova de 80km",
+"p": "Evento de esportes de aventura ocorre de sexta-feira (20) a domingo (22), no Parque Fazenda Engenho D’Água, e distribui R$30 mil em prêmios",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/esportes/ilhabela-recebe-final-do-xterra-brasil-com-nova-prova-de-80km.html",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:05",
+"t": "Trocou a vida na capital e deixou para trás a fama do pai apresentador para construir uma casa de barro de 56 m² no interior, onde vive de bioconstrução e trabalho com a natureza",
+"p": "A construção levou três anos e meio e utiliza técnicas que aproveitam materiais naturais para melhorar o conforto térmico e reduzir o consumo de água",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/trocou-a-vida-na-capital-e-deixou-para-tras-a-fama-do-pai-apresentador-para-construir-uma-casa-de-barro-de-56-m%c2%b2-no-interior-onde-vive-de-bioconstrucao-e-trabalho-com-a-natureza/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:05",
+"t": "Tarcísio confirma Osvaldo Nico Gonçalves na Segurança Pública de SP",
+"p": "Delegado assumiu a secretaria em dezembro de 2025 e continuará no cargo na próxima gestão",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/tarcisio-confirma-osvaldo-nico-goncalves-na-seguranca-publica-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-18",
 "h": "16:02",
 "t": "Biometria facial: veja como a tecnologia está chegando a lojas e estabelecimentos",
 "p": "O medo de cair em golpes virtuais virou parte da rotina do brasileiro. Segundo o Fórum Brasileiro de Segurança Pública (FBSP), 83,2% das pessoas temem ser vítimas de fraudes por internet ou celular, e o receio acompanha os registros policiais, que somaram 2,26 milhões de ocorrências de estelionato em 2025, alta de…",
@@ -90,6 +510,32 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/solange-freitas-assume-presidencia-do-uniao-brasil-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:00",
+"t": "Carregador de carro elétrico na garagem: quando o condomínio precisa ou não reformar a rede elétrica",
+"p": "A instalação de carregadores para veículos elétricos em condomínios residenciais nem sempre exige grandes obras ou a ampliação da rede elétrica do prédio. A necessidade de reformas depende diretamente da capacidade atual do edifício, da potência dos aparelhos e da quantidade de carros atendidos. Com a frota…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/automotor/carregador-de-carro-eletrico-na-garagem-quando-o-condominio-precisa-ou-nao-reformar-a-rede-eletrica/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "16:00",
+"t": "Perimetral de Guarujá deve tirar parte dos caminhões das ruas de Vicente de Carvalho",
+"p": "Obra estimada em R$1 bilhão prevê ponte estaiada e ligação com porto, aeroporto e túnel Santos-Guarujá; contrato depende do TCU",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/perimetral-de-guaruja-deve-tirar-parte-dos-caminhoes-das-ruas-de-vicente-de-carvalho.html",
 "auto": true
 },
 {
@@ -160,6 +606,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/noticias/professora-levou-alunos-de-escola-publica-para-entrevistar-mulheres-quilombolas-transformou-suas-historias-em-aulas-e-em-uma-peca-e-conquistou-o-2o-lugar-em-premio-nacional-que-recebeu-3-916-projetos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "15:35",
+"t": "Mário Gomes é condenado a pagar aluguel por 13 anos em mansão no Rio após imóvel ser arrematado em leilão judicial",
+"p": "A Justiça do Rio de Janeiro condenou o ator Mário Gomes e a mulher dele, Raquel Palma, a pagar uma taxa equivalente ao aluguel de mercado pelo período em que permaneceram em uma mansão no Joá, na Zona Sul do Rio, após o imóvel ser vendido em leilão judicial. A cobrança corresponde a mais de […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/mario-gomes-e-condenado-a-pagar-aluguel-por-13-anos-em-mansao-no-rio-apos-imovel-ser-arrematado-em-leilao-judicial/",
 "auto": true
 },
 {
@@ -2644,6 +3102,48 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/homem-e-condenado-por-matar-a-facadas-mulher-encontrada-em-cadeira-na-garagem-da-casa-em-birigui/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "00:00",
+"t": "Prefeitura de Prudente assegura licença-maternidade de 6 meses para servidoras temporárias",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67773",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "00:00",
+"t": "Sebrae Aqui Mulher, no Paço Municipal, oferece vários tipos de serviços a empreendedoras",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67772",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "00:00",
+"t": "Setur estreia projeto Viva o Parque nesta quarta com música, esporte e gastronomia",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67771",
 "auto": true
 },
 {
@@ -54509,513 +55009,6 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67704",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "00:00",
-"t": "Feirão Meu Primeiro Emprego nesta sexta-feira com participação de 18 empresas",
-"p": "",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67703",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "00:00",
-"t": "Dispõe sobre abertura de crédito suplementar ao Orçamento da Seguridade Social no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo - USP, visando ao atendi…",
-"p": "Decreto estadual nº 70.957, de 04/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Saúde",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.957",
-"c": [
-"Ribeirão Preto",
-"São Paulo"
-],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213079",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "23:07",
-"t": "Voepass vai penhorar aeronave de R$ 25 milhões por determinação da Justiça",
-"p": "Justiça de São Paulo determinou a penhora da aeronave da Voepass por dívida de R$ 9 mil em hotel mineiro",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/voepass-vai-penhorar-aeronave-de-r-25-milhoes-por-determinacao-da-justica",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "23:00",
-"t": "A polêmica por trás da nova lei de Lula, que corta o auxílio-reclusão para o crime organizado",
-"p": "Sancionada pelo presidente Luiz Inácio Lula da Silva em 24 de março de 2026, a Lei 15.358/2026 (Lei Antifacção) abriu um intenso debate jurídico e político no país ao vetar o auxílio-reclusão para dependentes de presos por envolvimento com o crime organizado. A medida reacendeu a discussão nacional entre o…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/a-polemica-por-tras-da-nova-lei-de-lula-que-corta-o-auxilio-reclusao-para-o-crime-organizado/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "22:30",
-"t": "Nova rodada do Gás do Povo é dia 10: como resgatar o benefício sem perder o prazo",
-"p": "A liberação de nova rodada do programa Gás do Povo no dia 10 de novembro pela Caixa Econômica Federal consolida o fim da transferência financeira direta e impõe a retirada de cupons nas distribuidoras. O regulamento estabelece prazos de expiração que vedam o acúmulo de vouchers entre ciclos, podendo resultar no…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/nova-rodada-do-gas-do-povo-veja-como-resgatar-sem-perder-o-prazo/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "22:28",
-"t": "Polícia Militar captura procurado pela Justiça em Votuporanga",
-"p": "Homem com mandado de prisão expedido pela 1ª Vara Criminal foi localizado durante patrulhamento na região central e encaminhado à Central de Flagrantes. Um homem procurado pela Justiça foi capturado pela Polícia Militar na noite desta terça-feira (3.nov), na região central de Votuporanga/SP. Segundo a corporação,…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/policia-militar-captura-procurado-pela-justica-em-votuporanga-25/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "22:26",
-"t": "Motorista embriagado bate carro, deixa esposa ferida e foge sem prestar socorro em Rio Preto",
-"p": "Mulher de 32 anos foi socorrida após colisão na Rodovia Washington Luís (SP-310); marido, que teria ingerido bebida alcoólica antes de dirigir, é investigado pela Polícia Civil. Uma mulher de 32 anos ficou ferida após o carro em que estava se envolver em um acidente na noite deste domingo (1º.nov), na Rodovia…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/motorista-embriagado-bate-carro-deixa-esposa-ferida-e-foge-sem-prestar-socorro-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "22:12",
-"t": "Previsão do tempo indica sol, calor e pancadas de chuva isoladas em todo o Estado nesta quarta-feira",
-"p": "O estado de São Paulo terá mais um dia marcado pela predominância de sol e temperaturas elevadas nesta quarta-feira (4). Contudo, a combinação entre o calor intenso, a umidade e a atuação de um cavado meteorológico favorecerá o surgimento de áreas de instabilidade, provocando pancadas de chuva isoladas acompanhadas…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/previsao-do-tempo-indica-sol-calor-e-pancadas-de-chuva-isoladas-em-todo-o-estado-nesta-quarta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "22:08",
-"t": "Câmara de São Paulo arquiva pedido de impeachment contra o prefeito Ricardo Nunes",
-"p": "A Comissão Especial da Câmara Municipal de São Paulo aprovou o arquivamento do pedido de impeachment contra o prefeito Ricardo Nunes. O processo apurava supostas irregularidades no dimensionamento da frota de transporte público municipal durante a realização do segundo turno das eleições. Por cinco votos a dois, os…",
-"tema": "Eleições",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/camara-de-sao-paulo-arquiva-pedido-de-impeachment-contra-o-prefeito-ricardo-nunes/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:55",
-"t": "Pedreiro de 75 anos morre após queda em poço de elevador durante obra",
-"p": "Um pedreiro de 75 anos morreu na manhã desta terça-feira (3) após cair no poço destinado à instalação de um elevador em um prédio em construção no município de São José do Rio Preto. O trabalhador foi identificado como José Amorim da Silva. Segundo informações registradas no boletim de ocorrência, a vítima atuava…",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/pedreiro-de-75-anos-morre-apos-queda-em-poco-de-elevador-durante-obra/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:52",
-"t": "Homem com mandado de prisão em aberto morre após confronto com a Polícia Militar",
-"p": "Um homem de 29 anos morreu após um confronto com a Polícia Militar na cidade de Andradina nesta terça-feira (3). O suspeito, identificado como Rodney Augusto Lara Ferreira, era procurado pela Justiça em razão de um mandado de prisão em aberto por violência doméstica. A ocorrência teve início quando uma equipe da…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Andradina"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-com-mandado-de-prisao-em-aberto-morre-apos-confronto-com-a-policia-militar/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:48",
-"t": "Câmara de Fernandópolis aprova criação do Centro de Referência de Atendimento à Mulher",
-"p": "A Câmara Municipal de Fernandópolis aprovou o Projeto de Lei nº 115/2026, que oficializa a criação do Centro de Referência de Atendimento à Mulher (CRAM) na cidade. A deliberação ocorreu durante a 25ª Sessão Ordinária, realizada nesta terça-feira (3), e representa um avanço estrutural no fortalecimento da rede…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/camara-de-fernandopolis-aprova-criacao-do-centro-de-referencia-de-atendimento-a-mulher/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:46",
-"t": "Comissão da Câmara cobra esclarecimentos sobre eventual transferência temporária da UPA de Fernandópolis",
-"p": "A possível transferência provisória dos serviços da Unidade de Pronto Atendimento (UPA) de Fernandópolis durante as obras de reforma e ampliação do prédio entrou em pauta na Câmara Municipal nesta terça-feira (3). A cobrança consta no Requerimento nº 245/2026, apresentado pela Comissão de Educação, Saúde, Bem-Estar…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/comissao-da-camara-cobra-esclarecimentos-sobre-eventual-transferencia-temporaria-da-upa-de-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:43",
-"t": "Estudante de Fernandópolis recebe homenagem na Câmara Municipal por conquista de intercâmbio estadual",
-"p": "O estudante Isaque Albanez Malta Ferreira, aluno da Escola Estadual Fernando Barbosa Lima, foi homenageado pela Câmara Municipal de Fernandópolis após ser selecionado para participar do programa de intercâmbio “Prontos Pro Mundo”, iniciativa promovida pelo Governo do Estado de São Paulo. A homenagem foi proposta…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/estudante-de-fernandopolis-recebe-homenagem-na-camara-municipal-por-conquista-de-intercambio-estadual/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:41",
-"t": "Abelha produz espécie de plástico natural que protege seu ninho da água e pode se decompor em cerca de 1 ano",
-"p": "Uma pequena abelha chamou a atenção de pesquisadores por produzir algo que parece ter saído de uma fábrica de materiais sintéticos. Para proteger seus ovos, o inseto reveste o interior do ninho com uma película fina, brilhante e resistente à umidade. O material apresenta características semelhantes às de…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/abelha-produz-especie-de-plastico-natural-que-protege-seu-ninho-da-agua-e-pode-se-decompor-em-cerca-de-1-ano-nn/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:30",
-"t": "Matuê, Marina Sena e Veigh estão entre atrações do AMAÊ Festival, que terá 19 shows e mais de 12 horas de música no interior de SP",
-"p": "O AMAÊ Festival 2026 acontece neste sábado (7/11), em São José do Rio Preto, no interior de São Paulo, com 19 shows e 23 artistas distribuídos em dois palcos. O evento, que chega à quarta edição e anteriormente era conhecido como Awê Festival, começa às 15h e terá mais de 12 horas de programação. Entre […]",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/matue-marina-sena-e-veigh-estao-entre-atracoes-do-amae-festival-que-tera-19-shows-e-mais-de-12-horas-de-musica-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:30",
-"t": "Adilson Junior é reeleito presidente da Câmara de Santos; veja o que muda",
-"p": "Divulgação/Câmara de Santos Chapa única recebeu 17 votos favoráveis, um contrário e uma abstenção.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/adilson-junior-e-reeleito-presidente-da-camara-de-santos-veja-o-que-muda/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:26",
-"t": "Presidente da Câmara solicita dados e prazo para conclusão da reforma do Horto Florestal de Fernandópolis",
-"p": "O andamento das obras de recuperação e modernização do Horto Florestal Municipal de Fernandópolis entrou na pauta do Poder Legislativo nesta terça-feira (3). Por meio do Requerimento nº 248/2026, apresentado durante a 25ª Sessão Ordinária, o vereador e presidente da Câmara Municipal, Daniel Trídico Arroio, cobrou…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/presidente-da-camara-solicita-dados-e-prazo-para-conclusao-da-reforma-do-horto-florestal-de-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:23",
-"t": "Santo André tem último dia de cadastro para troca gratuita de geladeiras nesta quarta-feira (4)",
-"p": "Programa realizado pela Enel em parceria com a Prefeitura oferece oportunidade de substituir equipamentos antigos por modelos mais econômicos",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366677/santo-andre-tem-ultimo-dia-de-cadastro-para-troca-gratuita-de-geladeiras-nesta-quarta-feira-4-",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:22",
-"t": "Obra de R$ 11,3 milhões na Estrada do Piripau segue parada e moradores cobram conclusão",
-"p": "Pavimentação da Estrada do Piripau, em Ribeirão Preto, tem 80% dos serviços concluídos e novo prazo de entrega previsto para março de 2027",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/obra-de-r-113-milhoes-na-estrada-do-piripau-segue-parada-e-moradores-cobram-conclusao/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:21",
-"t": "Saúde de Votuporanga registra quase 7 mil faltas em consultas agendadas em 2026",
-"p": "Somente em outubro, foram 704 ausências na rede municipal; Secretaria da Saúde orienta pacientes a comunicarem quando não puderem comparecer. A Secretaria Municipal da Saúde de Votuporanga registrou 6.959 faltas em consultas agendadas na rede municipal abrangendo todos os prestadores que ofertam serviços de…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/saude-de-votuporanga-registra-quase-7-mil-faltas-em-consultas-agendadas-em-2026/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:19",
-"t": "Procurado por violência doméstica morre em confronto com a Força Tática em Andradina",
-"p": "Rodney Augusto Lara Ferreira, de 29 anos, conhecido como “Amém”, tinha mandado de prisão preventiva por agressões e ameaças contra a companheira. Segundo a polícia, ele reagiu à abordagem e atirou contra os agentes. Um homem de 29 anos morreu durante um confronto com policiais da Força Tática na tarde desta…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Andradina"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/procurado-por-violencia-domestica-morre-em-confronto-com-a-forca-tatica-em-andradina/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:17",
-"t": "Saiu o resultado! Confira os números da Quina, Lotofácil, Timemania e Dia de Sorte desta terça-feira (3)",
-"p": "As Loterias da Caixa sortearam na manga desta terça-feira (3), os prêmios de concursos da Quina, Lotofácil, Timemania e Dia de Sorte.",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-quina-lotofacil-timemania-e-dia-de-sorte-desta-terca-feira-3/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:09",
-"t": "Carro bate em árvore e deixa motorista ferido na Rodovia Francisco Von Zuben",
-"p": "Acidente aconteceu na altura do km 92; durante o atendimento à vítima, uma segunda colisão foi registrada na mesma via e deixou outro homem ferido",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/carro-bate-em-arvore-e-deixa-motorista-ferido-na-rodovia-francisco-von-zuben/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "21:02",
-"t": "Fiscais abrem meias e caixas escondidas em caminhão e encontram mais de 50 cobras vivas na Europa",
-"p": "Uma fiscalização de rotina em uma região de fronteira da Europa terminou com uma descoberta surpreendente. Ao inspecionarem um caminhão próximo à cidade de Vidin, na Bulgária, agentes alfandegários encontraram mais de 50 cobras vivas escondidas em meias e caixas. Os animais estavam acomodados em embalagens que…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/fiscais-abrem-meias-e-caixas-escondidas-em-caminhao-e-encontram-mais-de-50-cobras-vivas-na-europa-nn/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:41",
-"t": "Justiça determina penhora de avião da Passaredo por dívida de R$ 9,2 mil com hotel em MG",
-"p": "Aeronave está registrada em nome da Passaredo, empresa do grupo Voepass, que teve as operações suspensas pela Anac em 2025",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/justica-determina-penhora-de-aviao-da-passaredo-por-divida-de-r-92-mil-com-hotel-em-mg/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:30",
-"t": "Adolescente se apresenta e é apreendido por latrocínio que matou engenheiro em Santos; VÍDEO",
-"p": "Divulgação/Polícia Civil Com a nova apreensão, nove pessoas já foram identificadas por envolvimento no crime.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/adolescente-se-apresenta-e-e-apreendido-por-latrocinio-que-matou-engenheiro-em-santos-video/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:30",
-"t": "Villa Country terá Simone Mendes, Maiara & Maraisa e Festival Sertanejo em novembro; confira a programação completa",
-"p": "O Villa Country, em São Paulo, terá uma programação recheada de sertanejo em novembro, com shows de Simone Mendes, Maiara & Maraisa, Danilo & Davi e um festival que reúne quatro atrações na mesma noite. A agenda também inclui as edições da Comitiva do Villa e do Chama Play. A programação começa nesta quinta-feira…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/villa-country-tera-simone-mendes-maiara-maraisa-e-festival-sertanejo-em-novembro-confira-a-programacao-completa/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:26",
-"t": "Incêndio de grandes proporções atinge fábrica, deixa feridos e interdita rodovia",
-"p": "Pelo menos duas pessoas sofreram queimaduras e foram encaminhadas a hospital da cidade; segundo a prefeitura, vítimas não correm risco de morte",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/piracicaba/incendio-de-grandes-proporcoes-atinge-fabrica-deixa-feridos-e-interdita-rodovia/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:15",
-"t": "Regra de Proteção do Bolsa Família garante transição de 2 anos para beneficiários que entram no mercado de trabalho",
-"p": "O programa Bolsa Família conta com um mecanismo fundamental para garantir a estabilidade financeira dos beneficiários que ingressam no mercado de trabalho ou aumentam seus rendimentos: a Regra de Proteção. A medida do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) evita que o…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/regra-de-protecao-do-bolsa-familia-garante-transicao-de-2-anos-para-beneficiarios-que-entram-no-mercado-de-trabalho/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:11",
-"t": "Maior fabricante de veículos elétricos do mundo terá concessionária em Votuporanga",
-"p": "As obras da BYD já estão em andamento e reforçam a consolidação do município como polo regional dos setores automotivo e de serviços especializados. A inauguração está prevista para o início de 2027. Votuporanga segue ampliando sua participação no mercado automotivo regional com a chegada de novos investimentos…",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/maior-fabricante-de-veiculos-eletricos-do-mundo-tera-concessionaria-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:06",
-"t": "Neoenergia Elektro lança edital de R$ 36 milhões para financiamento de projetos em SP e MS",
-"p": "Interessados poderão apresentar propostas de projetos, seguindo os critérios técnicos e comerciais definidos no edital da chamada, disponível na página da Neoenergia. O Programa de Eficiência Energética da Neoenergia Elektro está com edital de Chamada Pública aberto. Com investimento de R$ 36 milhões, os…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/neoenergia-elektro-lanca-edital-de-r-36-milhoes-para-financiamento-de-projetos-em-sp-e-ms/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:00",
-"t": "Prefeitura de Fartura (SP) usou R$ 1,1 milhão de Emenda Pix de obras para pagar cachês de shows sertanejos, aponta TCE",
-"p": "Um repasse federal de R$ 1,1 milhão em Emenda Pix, destinado originalmente para investimentos em obras e instalações públicas no município de Fartura, no interior de São Paulo, foi utilizado pela gestão municipal para custear shows de artistas sertanejos. A irregularidade foi identificada pelo Tribunal de Contas do…",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Fartura"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/prefeitura-de-fartura-sp-usou-r-11-milhao-de-emenda-pix-de-obras-para-pagar-caches-de-shows-sertanejos-aponta-tce/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "20:00",
-"t": "Do iniciante ao avançado: saiba como participar da 11ª Clínica Bertioga em Movimento",
-"p": "Programação desta fase de clínicas é desenvolvida pelas Secretarias de Saúde e de Esportes até 30 de novembro",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/do-iniciante-ao-avancado-saiba-como-participar-da-11-clinica-bertioga-em-movimento.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:59",
-"t": "Raio mata 26 cabeças de gado durante tempestade em Américo de Campos",
-"p": "Descarga elétrica atingiu propriedade rural durante temporal que também causou danos em estradas e residências; Defesa Civil classificou o episódio como uma das ocorrências mais severas dos últimos anos no município. Uma forte tempestade registrada na tarde desta segunda-feira (2.nov) provocou a morte de 26 cabeças…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Américo de Campos"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/raio-mata-26-cabecas-de-gado-durante-tempestade-em-americo-de-campos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:56",
-"t": "Justiça de São Paulo barra novas regras da Meta que permitiam uso de conteúdos jornalísticos para treinar inteligência artificial",
-"p": "Em uma decisão histórica para o mercado de comunicação mundial, a Justiça de São Paulo concedeu, nesta terça-feira (3/11), uma liminar que impede a Meta de aplicar suas novas condições comerciais contra os veículos de imprensa associados à Associação Nacional de Jornais (ANJ), à Associação Brasileira de Emissoras…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/justica-de-sao-paulo-barra-novas-regras-da-meta-que-permitiam-uso-de-conteudos-jornalisticos-para-treinar-inteligencia-artificial/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "19:55",
-"t": "O que o aluno não fala que a escola precisa escutar!",
-"p": "Alberto Martins Cesário, professor e escritor Na terceira carteira da fileira junto à janela, uma criança permanecia em silêncio, não levantava a mão, não disputava respostas, não reclamava das atividades. Quando eu fazia uma pergunta, seus olhos encontravam algum ponto distante do quadro, como se a resposta…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/o-que-o-aluno-nao-fala-que-a-escola-precisa-escutar/",
 "auto": true
 }
 ]
