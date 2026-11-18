@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-18T09:09:06-03:00",
-"novos_nesta_coleta": 33,
+"atualizado": "2026-11-18T10:23:22-03:00",
+"novos_nesta_coleta": 29,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,254 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "10:06",
+"t": "Polícia Civil investiga acidente que deixou vítima hospitalizada em Marília",
+"p": "Vítima foi socorrida pelo Samu após atropelamento no Centro de Marília Imagens de câmera de segurança conseguiram captar a dinâmica do atropelamento; caso é investigado.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/policia-civil-investiga-acidente-que-deixou-vitima-hospitalizada-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:00",
+"t": "Praia Grande terá reforço de 650 policiais militares na Operação Verão 26/27",
+"p": "Richard Aldrin / Prefeitura de Praia Grande Esquema especial começa em 14 de dezembro e seguirá até o Carnaval.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/praia-grande-tera-reforco-de-650-policiais-militares-na-operacao-verao-26-27/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:00",
+"t": "Justiça de Rio Preto manda três réus a júri popular após ataques mútuos a facadas em bar da Vila Toninho",
+"p": "A Vara do Júri e do Juizado Especial Criminal de São José do Rio Preto pronunciou Daniel Oliveira da Silva, Vitor César Gil da Silva e Jeferson da Silva Lucas para serem submetidos a julgamento pelo Tribunal do Júri por tentativas de homicídio qualificado ocorridas na madrugada de 1º de maio deste ano, no Bar […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-manda-tres-reus-a-juri-popular-apos-ataques-mutuos-a-facadas-em-bar-da-vila-toninho/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "10:00",
+"t": "Câmara de Fernandópolis entrega diploma de Atirador Destaque de 2026 a jovem do Tiro de Guerra",
+"p": "A Câmara Municipal de Fernandópolis realizou, durante a sessão ordinária desta terça-feira (17), uma cerimônia solene para homenagear o atirador auxiliar de instrução da reserva de 2ª categoria, Gustavo Cabrera da Silva, com o diploma de “Atirador Destaque do Ano de 2026”. A honraria legislativa, instituída no…",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/camara-de-fernandopolis-entrega-diploma-de-atirador-destaque-de-2026-a-jovem-do-tiro-de-guerra/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:58",
+"t": "Motorista alérgico a abelha é picado por inseto e perde controle de caminhão",
+"p": "Após ser picado pelo inseto, o motorista do caminhão bateu contra a barreira de proteção da Rodovia Irineu Penteado (SP-191), em Charqueada",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Charqueada"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/motorista-alergico-a-abelha-e-picado-e-perde-controle-de-caminhao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:57",
+"t": "Bairros da zona Leste de Ribeirão Preto podem ficar sem água; Veja quais",
+"p": "Bairros da zona Leste da cidade têm alerta para falta d'água nesta quarta (18), devido a um reparo na rede de abastecimento",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/bairros-da-zona-leste-de-ribeirao-preto-podem-ficar-sem-agua-veja-quais-2/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:45",
+"t": "Tarcísio confirma mais quatro nomes no secretariado estadual em 2027",
+"p": "Dois secretários mudarão de pasta com a reestruturação do secretariado para o próximo mandato de Tarcísio",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tarcisio-confirma-mais-quatro-nomes-no-secretariado-estadual-em-2027",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:41",
+"t": "Colisão entre moto e caminhão deixa ferido grave na SP-294 em Marília",
+"p": "Circunstâncias da colisão entre moto e caminhão estão sendo apuradas pela Polícia Civil Após colisão, motociclista foi socorrido e encaminhado para atendimento médico no Hospital de Clínicas de Marília.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/colisao-entre-moto-e-caminhao-deixa-ferido-grave-na-sp-294-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:35",
+"t": "Confira as ofertas de emprego no PAT Marília nesta quarta-feira (18/11)",
+"p": "Carteira de trabalho digital. Salários informados chegam a R$ 5.181,26, com vagas para candidatos de variados níveis de escolaridade e experiência.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-quarta-feira-18-11/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:30",
+"t": "Alimenta Brasil: parceria em Jundiaí vai garantir 45 mil refeições gratuitas por mês a idosos em situação de vulnerabilidade social",
+"p": "Foto: Prefeitura de Jundiaí Parceria entre Prefeitura, empresas e instituto social vai atender inicialmente 750 idosos com alimentação saudável e entrega domiciliar.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/alimenta-brasil-jundiai-refeicoes-gratuitas-idosos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:30",
+"t": "UBS de Mira Estrela funcionará apenas em regime de urgência e emergência nesta sexta-feira, 20",
+"p": "A Secretaria Municipal de Saúde de Mira Estrela informou à população que, em razão do feriado do Dia da Consciência Negra celebrado nesta sexta-feira, 20 de novembro, o atendimento na Unidade Básica de Saúde (UBS) do município sofrerá alterações. Durante toda a data, a unidade operará exclusivamente em sistema de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ubs-de-mira-estrela-funcionara-apenas-em-regime-de-urgencia-e-emergencia-nesta-sexta-feira-20/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:28",
+"t": "2º Feirão de Empregos de Ouroeste reúne vagas de trabalho e oferece apoio para elaboração de currículos",
+"p": "Os moradores de Ouroeste que estão em busca de uma colocação ou recolocação profissional contam com uma importante oportunidade por meio do 2º Feirão de Empregos do município. Promovida pelo Governo Municipal, a iniciativa tem como objetivo principal aproximar os trabalhadores locais das empresas da região,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/2o-feirao-de-empregos-de-ouroeste-reune-vagas-de-trabalho-e-oferece-apoio-para-elaboracao-de-curriculos/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:27",
+"t": "MPSP vai monitorar gestão do Ruas Abertas na avenida Paulista",
+"p": "Medida deve acompanhar gestão e participação da sociedade civil em conselhos, além da fiscalização; Prefeitura ainda não foi notificada",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-vai-monitorar-gestao-do-ruas-abertas-na-avenida-paulista",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:27",
+"t": "Grupo de Gestantes de Ouroeste oferece acolhimento, orientações de saúde e entrega de kits às futuras mães",
+"p": "As futuras mães de Ouroeste participaram de mais uma edição do Grupo de Gestantes, iniciativa promovida pela rede municipal de saúde para oferecer acolhimento, troca de experiências e preparo completo para a maternidade. Durante os encontros, as participantes contaram com o acompanhamento direto de profissionais da…",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/grupo-de-gestantes-de-ouroeste-oferece-acolhimento-orientacoes-de-saude-e-entrega-de-kits-as-futuras-maes/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:25",
+"t": "Confira a previsão do tempo para Marília nesta quarta-feira (18/11)",
+"p": "Dia deve ser marcado por variações de temperatura e possibilidade de chuva.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-quarta-feira-18-11/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:22",
+"t": "Manhã difícil para passageiros: 3 ônibus quebram e complicam ainda mais a vida dos usuários",
+"p": "Pelo menos três ônibus apresentaram problemas na manhã desta quarta-feira (18), em diferentes pontos de Campinas",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/manha-dificil-para-passageiros-3-onibus-quebram-e-complicam-ainda-mais-a-vida-dos-usuarios/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:21",
+"t": "Obituário | Falecimentos registrados nesta quarta-feira (18/11) em Marília e região",
+"p": "Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta quarta-feira, dia 18 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-quarta-feira-18-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:21",
+"t": "Recital de piano da profª Marta Gil acontece nesta quarta-feira (18)",
+"p": "Por Raquel Amorin Nesta quarta-feira, dia 18 de novembro, acontece o Recital de Piano da professora Marta Nori Xavier Gil dos Santos. O evento será realizado no Teatro de Bolso, às 19h30, e conta com o apoio da Prefeitura de Itapeva, por meio da Secretaria Municipal da Cultura e Turismo. O recital contará com […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/recital-piano-marta-gil/",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "09:03",
@@ -76,6 +330,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/acidente-na-john-boyd-5-veiculos-batem-e-deixam-mulher-ferida/",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "09:01",
+"t": "Vai para São Paulo? Veja como está o trânsito na Anchieta e Imigrantes nesta quarta-feira (18)",
+"p": "Alto fluxo provoca congestionamento em trechos das duas rodovias do Sistema Anchieta-Imigrantes na direção da Capital",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369428/vai-para-sao-paulo-veja-como-esta-o-transito-na-anchieta-e-imigrantes-nesta-quarta-feira-18-",
 "auto": true
 },
 {
@@ -117,6 +385,20 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4369426/grande-abc-tera-calor-de-30%C2%B0c-e-chuva-a-tarde-nesta-quarta-feira-18-",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "08:51",
+"t": "Secretaria da Educação de SP lança concurso para contratar 5 mil professores",
+"p": "Secretaria da Educação de SP lança nesta quinta (19) edital de concurso para contratar 5 mil professores na rede estadual",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/secretaria-da-educacao-de-sp-lanca-concurso-para-contratar-5-mil-professores/",
 "auto": true
 },
 {
@@ -54758,268 +55040,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/variedades/cafeteiras-sem-plastico-feitas-com-aco-inox-que-unem-tecnologia-e-sustentabilidade/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:44",
-"t": "AMEs da região oferecem check-up gratuito para homens acima dos 50 anos",
-"p": "A Secretaria de Estado da Saúde de São Paulo mantém o programa “Filho que Ama Leva o Pai no AME”, iniciativa permanente que oferece exames e consultas preventivas gratuitas para homens a partir dos 50 anos. Realizado aos sábados em Ambulatórios Médicos de Especialidades de todo o estado — incluindo as unidades de…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/ames-da-regiao-oferecem-check-up-gratuito-para-homens-acima-dos-50-anos/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:43",
-"t": "Qualifica SP Empreenda abre 500 vagas para cursos gratuitos de capacitação online",
-"p": "A Secretaria de Desenvolvimento Econômico do Estado de São Paulo abriu inscrições para 500 vagas gratuitas em seis novos cursos de qualificação voltados ao empreendedorismo, promovidos pelo programa Qualifica SP Empreenda. As capacitações abordam temas essenciais para o mercado atual, como gestão de custos, vendas…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/qualifica-sp-empreenda-abre-500-vagas-para-cursos-gratuitos-de-capacitacao-online/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:37",
-"t": "Obras mantêm trecho da Mogi-Bertioga parcialmente interditado na tarde desta terça-feira (3)",
-"p": "SP-098 tem tráfego normal na maioria dos segmentos monitorados, nesta terça-feira (3), mas obras exigem atenção entre os quilômetros 75 e 92",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/obras-mantem-trecho-da-mogi-bertioga-parcialmente-interditado-na-tarde-desta-terca-feira-3.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:36",
-"t": "Saiba como chegar à praia do Lázaro em Ubatuba pela rodovia Rio-Santos",
-"p": "Acesso ocorre na altura do km 64 da rodovia federal; vias locais como Euclides Prado e Jaboticabeira levam direto à faixa de areia",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Ubatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ubatuba/saiba-como-chegar-a-praia-do-lazaro-em-ubatuba-pela-rodovia-rio-santos.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:35",
-"t": "Prefeitura realiza torneio de Tênis de Mesa no CE Brigadeiro Tobias neste domingo (8)",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), promove neste domingo (8), nos períodos da manhã e da tarde, o 2.º Torneio de Tênis de Mesa 2026 CE Brigadeiro Tobias, no Centro Esportivo do bairro. A competição é gratuita, voltada a participantes acima de 10 anos, e as […]",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-realiza-torneio-de-tenis-de-mesa-no-ce-brigadeiro-tobias-neste-domingo-8/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:30",
-"t": "Praça Cristo Operário ganha playground e academia e Santo André promete mais segurança no local",
-"p": "Equipamento foi revitalizado com investimento de R$ 1,6 milhão e aguarda nova UBS para complementar serviços",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366563/praca-cristo-operario-ganha-playground-e-academia-e-santo-andre-promete-mais-seguranca-no-local",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:30",
-"t": "Rodovia Oswaldo Cruz tem tráfego normal nesta terça-feira (3); serra exige atenção",
-"p": "SP-125 tem tempo bom e boa visibilidade nos trechos monitorados, mas motoristas devem ficar atentos à possibilidade de neblina na serra",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-tem-trafego-normal-nesta-terca-feira-3-serra-exige-atencao.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:29",
-"t": "Cadê os 10 ônibus do BRT de Campinas que não rodaram hoje? Veja o que dizem Emdec e Setcamp",
-"p": "Quebras de veículos e falta de mão de obra estão entre os motivos apontados para os problemas nas linhas do BRT que atendem o Campo Grande e o Satélite Íris",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/cade-os-10-onibus-do-brt-de-campinas-que-nao-rodaram-hoje-veja-o-que-dizem-emdec-e-setcamp/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:29",
-"t": "El Niño desloca a chuva para o Paraná e São Paulo e novembro terá calor de até 6 °C acima da média; Pacífico aquece a +5 ºC, nível considerado extremo",
-"p": "El Niño bate +3,4 °C por duas semanas seguidas e o Pacífico passa de +5 °C. A chuva acima da média atinge São Paulo até 9 de novembro e depois migra para o Nordeste e o Sul. Calor pode passar de 6 °C acima da média.",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/el-nino-desloca-a-chuva-para-o-parana-e-sao-paulo-e-novembro-tera-calor-de-ate-6-c-acima-da-media-pacifico-aquece-a-5-oc-nivel-considerado-extremo/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:22",
-"t": "Hospital de São Sebastião recebe certificação por ações de segurança do paciente",
-"p": "Reconhecimento foi concedido após quase um ano de acompanhamento do hospital Sírio-Libanês, com avaliação de melhorias, indicadores e participação de profissionais",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Sebastião"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/saosebastiao/hospital-de-sao-sebastiao-recebe-certificacao-por-acoes-de-seguranca-do-paciente.html",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:16",
-"t": "Projeto que muda carreira de professores volta à pauta da Alesp pós-eleição",
-"p": "Categoria dos professores critica mudanças e sindicato marcou protesto em frente à Assembleia Legislativa contra votação da proposta",
-"tema": "Educação",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/projeto-que-muda-carreira-de-professores-volta-a-pauta-da-alesp-pos-eleicao",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:16",
-"t": "Inscrições para vagas remanescentes do Fies terminam nesta terça-feira (3)",
-"p": "Vagas remanescentes são destinadas exclusivamente à contratação do financiamento no segundo semestre letivo deste ano, sem possibilidade de extensão do prazo",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/educacao/inscricoes-para-vagas-remanescentes-do-fies-terminam-nesta-terca-feira-3/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:12",
-"t": "Centro Universitário Braz Cubas abre seleção para contratação de professores",
-"p": "Processo seletivo busca profissionais com título de mestre ou doutor; inscrições ficam abertas até 15 de novembro e devem ser realizadas pela plataforma Gupy",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/centro-universitario-braz-cubas-abre-selecao-para-contratacao-de-professores/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:10",
-"t": "Aos 57 anos, mulher sem-teto que morava em seu carro faz batalha judicial contra rebocadora por taxa de US$ 21.634 dólares e chama a atenção de indicada ao Oscar",
-"p": "Em 2018, a sem teto Amanda Ogle de 57 anos travava uma grande batalha judicial contra uma rebocadora. A empresa cobrava uma conta de 400 dólares pelo guincho do carro no qual ela morava. O veículo foi guinchado após criminosos roubarem o automóvel e estacionarem em local proibido. Sem recursos e atuando como sua…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/aos-57-anos-mulher-sem-teto-que-morava-em-seu-carro-faz-batalha-judicial-contra-rebocadora-por-taxa-de-us-21-634-dolares-e-chama-a-atencao-de-indicada-ao-oscar/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:08",
-"t": "Furtos de motos e bicicletas preocupam moradores do Rudge Ramos, em São Bernardo",
-"p": "Segundo a SSP, as áreas com maior incidência de crimes são monitoradas pelas forças de segurança, que realizam ações de prevenção e repressão a delitos patrimoniais, além do combate à receptação de produtos provenientes de furtos e roubos",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366560/furtos-de-motos-e-bicicletas-preocupam-moradores-do-rudge-ramos-em-sao-bernardo",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:03",
-"t": "Prefeitura de Jundiaí abre inscrições para seletivas de voleibol feminino; confira as datas",
-"p": "Foto: Prefeitura de Jundiaí Avaliações ocorrem nos dias 28 e 29 de novembro, no Bolão, e oferecem oportunidades para atletas integrarem o Time Jundiaí em 2027",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/seletivas-voleibol-feminino-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "13:00",
-"t": "Pais com mais de 60 anos podem receber pensão por morte de filho pelo INSS mesmo sem idade mínima exigida, mas precisam comprovar dependência",
-"p": "Perder um filho é uma das experiências mais difíceis para uma família. Além do impacto emocional, a morte também pode comprometer o orçamento de pais que dependiam da ajuda financeira recebida mensalmente. O que muitos brasileiros desconhecem é que o Instituto Nacional do Seguro Social (INSS) permite que pai e mãe…",
-"tema": "Contas públicas",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/pais-com-mais-de-60-anos-podem-receber-pensao-por-morte-de-filho-pelo-inss-mesmo-sem-idade-minima-exigida-mas-precisam-comprovar-dependencia/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:52",
-"t": "AME de Mauá oferece check-up gratuito para homens a partir dos 50 anos",
-"p": "Programa estadual oferece consultas com cardiologista e urologista, além de exames laboratoriais, aos sábados e sem necessidade de encaminhamento médico",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366555/ame-de-maua-oferece-check-up-gratuito-para-homens-a-partir-dos-50-anos",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:48",
-"t": "Comissão especial arquiva pedido de impeachment contra Ricardo Nunes",
-"p": "Pedido de impeachment foi apresentado após relatos de problemas na circulação de ônibus em SP no dia do 2º turno das eleições presidenciais",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/comissao-especial-arquiva-pedido-de-impeachment-contra-ricardo-nunes",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "12:48",
-"t": "Qualifica SP Empreenda abre 500 vagas para cursos gratuitos de capacitação online",
-"p": "A Secretaria de Desenvolvimento Econômico do Estado de São Paulo abriu inscrições para 500 vagas gratuitas em seis novos cursos de qualificação voltados ao empreendedorismo, promovidos pelo programa Qualifica SP Empreenda. As capacitações abordam temas essenciais para o mercado atual, como gestão de custos, vendas…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/qualifica-sp-empreenda-abre-500-vagas-para-cursos-gratuitos-de-capacitacao-online/",
 "auto": true
 }
 ]
