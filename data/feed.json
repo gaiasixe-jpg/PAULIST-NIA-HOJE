@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-18T02:09:53-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-18T03:14:10-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,30 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-18",
+"h": "02:30",
+"t": "Adrilles Jorge terá que devolver R$ 188 mil por irregularidades na campanha",
+"p": "Prestação de contas do candidato ao Congresso em 2022 apresentou nota fiscal sem trânsito bancário, uso indevido do fundão e dívida pendente",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/adrilles-jorge-tera-que-devolver-r-188-mil-por-irregularidades-na-campanha",
+"auto": true
+},
+{
+"d": "2026-11-18",
+"h": "02:25",
+"t": "Afastada, delegada que namora líder do PCC continua recebendo salário",
+"p": "Layla Lima Ayub recebeu R$ 17,3 mil brutos em setembro. Mesmo presa, delegada foi beneficiada por reajuste de 10% aprovado pela Alesp",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/afastada-delegada-que-namora-lider-do-pcc-continua-recebendo-salario",
+"auto": true
+},
 {
 "d": "2026-11-18",
 "h": "01:00",
@@ -55001,35 +55025,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/a-fazenda-dinamica-inedita-pode-mudar-o-rumo-da-formacao-da-setima-roca-do-reality-veja-o-que-ocorrera/",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:43",
-"t": "Mirante São José tem banheiros depredados em Ribeirão Pires",
-"p": "Portas e estruturas de proteção foram danificadas durante o fim de semana; Prefeitura prevê interdição temporária dos sanitários para reparos",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366509/mirante-sao-jose-tem-banheiros-depredados-em-ribeirao-pires",
-"auto": true
-},
-{
-"d": "2026-11-03",
-"h": "10:42",
-"t": "Alvinlândia registra caso de violência doméstica no fim de semana prolongado",
-"p": "Morte de morador de Júlio Mesquita será investigada pela Polícia Civil Mulher foi alvo de chutes e arranhões durante discussão na casa da mãe; acusado tentou fugir, mas foi detido pela PM.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Júlio Mesquita",
-"Alvinlândia"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/alvinlandia-registra-caso-de-violencia-domestica-no-fim-de-semana-prolongado/",
 "auto": true
 }
 ]
