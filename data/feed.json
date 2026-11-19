@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-19T06:14:17-03:00",
-"novos_nesta_coleta": 23,
+"atualizado": "2026-11-19T07:19:42-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,165 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-19",
+"h": "07:00",
+"t": "Inmet emite alerta de tempestade e granizo para esta quinta-feira; veja as cidades",
+"p": "Alerta do Inmet abrange diversas regiões do interior paulista e prevê chuva de até 50 milímetros por dia, ventos de até 60 km/h e possibilidade de queda de granizo",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/inmet-emite-alerta-de-tempestade-e-granizo-para-esta-quinta-feira-veja-as-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:42",
+"t": "Troca de tiros na Marginal Pinheiros: polícia mata 2 suspeitos de roubos",
+"p": "Dupla fugiu por cerca de 5 quilômetros e trocou tiros com policiais da Companhia de Ações Especiais da Polícia (Caep) na Marginal Pinheiro",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/troca-de-tiros-na-marginal-pinheiros-policia-mata-2-suspeitos-de-roubos",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:31",
+"t": "Obituário | Falecimentos registrados nesta quinta-feira (19/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta quinta-feira, dia 19 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-quinta-feira-19-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:26",
+"t": "Resultados das loterias de quarta-feira (18/11): Lotofácil, Quina, Dupla Sena, +Milionária e mais; confira todos os números sorteados e prêmios",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Sete modalidades tiveram concursos em 18 de novembro de 2026. Apenas a Lotofácil registrou ganhador na faixa principal; +Milionária acumulou para R$ 117 milhões.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultados-loterias-18-11-2026/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:24",
+"t": "Resultado do Super Sete 924: ninguém acerta as sete colunas e prêmio acumula para R$ 650 mil; veja os números sorteados em 18/11 e rateio",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de quarta-feira também não teve ganhadores com seis acertos. Na faixa de cinco colunas, 29 apostas receberam R$ 852,91 cada.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-super-sete-concurso-924/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:22",
+"t": "Resultado do Dia de Sorte 1351: ninguém acerta sete dezenas e prêmio sobe para R$ 1,7 milhão; Mês da Sorte é setembro",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso realizado na quarta-feira (18) premiou 54 apostas com seis acertos, além de mais de 72 mil premiações pelo Mês da Sorte.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-dia-de-sorte-concurso-1351/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:20",
+"t": "Resultado da +Milionária 408: ninguém acerta seis dezenas e dois trevos; prêmio acumula para R$ 117 milhões e duas apostas ganham R$ 208 mil",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de quarta-feira (18) sorteou os trevos 1 e 3. Próximo prêmio é o maior entre as sete modalidades sorteadas na noite.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-mais-milionaria-concurso-408/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:19",
+"t": "Resultado da Lotomania 3001: ninguém acerta as 20 dezenas e prêmio acumula para R$ 2 milhões; quatro apostas ganham mais de R$ 43 mil",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de quarta-feira (18) também não teve ganhador com zero acertos. Próximo sorteio está previsto para segunda-feira (23).",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotomania-concurso-3001/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:17",
+"t": "Resultado da Dupla Sena 3034: ninguém acerta seis dezenas nos dois sorteios e prêmio acumula para R$ 14,6 milhões; confira os resultados e rateios",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Primeira extração premiou 39 apostas com cinco acertos e a segunda teve 22 ganhadoras nessa faixa. Próximo concurso será na segunda-feira (23).",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-dupla-sena-concurso-3034/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:15",
+"t": "Resultado da Quina 7171: ninguém acerta as cinco dezenas e prêmio acumula para R$ 1,1 milhão; veja números e valores pagos no sorteio de 18/11",
+"p": "Foto: Depositphotos Concurso premiou 56 apostas com quatro acertos, pagando R$ 3.850,86 para cada uma. Próxima extração acontece nesta quinta-feira (19).",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-quina-concurso-7171/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "06:13",
+"t": "Resultado da Lotofácil 3833: aposta acerta as 15 dezenas e ganha R$ 4,16 milhões no sorteio de quarta-feira (18); veja números e rateio completo",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso teve 385 apostas premiadas com 14 acertos, que receberam R$ 2.093,27 cada. Próximo sorteio será nesta quinta-feira (19), com prêmio estimado em R$ 2 milhões.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotofacil-concurso-3833/",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "06:06",
@@ -54762,154 +54917,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/interior-de-sao-paulo-registra-queda-expressiva-em-roubos-e-furtos-no-mes-de-setembro/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:00",
-"t": "Estado de SP registra queda de 19,3% nos roubos de celulares nos primeiros nove meses do ano",
-"p": "O estado de São Paulo contabilizou uma redução de 19,3% nos casos de roubos de telefones celulares entre janeiro e setembro de 2026, na comparação com o mesmo período do ano passado. Dados consolidados pela Secretaria da Segurança Pública indicam que o número de ocorrências caiu de 75.859 para 61.189 nos nove…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/estado-de-sp-registra-queda-de-193-nos-roubos-de-celulares-nos-primeiros-nove-meses-do-ano/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:00",
-"t": "Ações integradas das forças de segurança de SP garantem a localização de quase 60 mil pessoas desaparecidas",
-"p": "O trabalho conjunto das polícias Civil, Militar e Científica do estado de São Paulo resultou na localização de 59.017 pessoas que estavam registradas como desaparecidas entre janeiro de 2023 e setembro de 2026. O volume representa um índice de solução de 78,6% dos casos notificados no período, com uma média diária…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/acoes-integradas-das-forcas-de-seguranca-de-sp-garantem-a-localizacao-de-quase-60-mil-pessoas-desaparecidas/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:59",
-"t": "Papel-toalha embebido em vinagre por 20 minutos pode remover crostas brancas da torneira sem precisar esfregar o metal e ainda ajuda a recuperar a aparência da superfície",
-"p": "A acidez da mistura ajuda a dissolver depósitos minerais acumulados com a evaporação da água e facilita a manutenção do acabamento",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/gazeta-mais/estilo-de-vida/papel-toalha-embebido-em-vinagre-por-20-minutos-pode-remover-crostas-brancas-da-torneira-sem-precisar-esfregar-o-metal-e-ainda-ajuda-a-recuperar-a-aparencia-da-superficie/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:57",
-"t": "Câmara de Jundiaí aprova projetos para saúde, idosos e mulheres na ciência",
-"p": "Foto: Tribuna de Jundiaí Sessão ordinária desta terça (3) aprova pauta com foco no tratamento da obesidade pelo SUS, rotas acessíveis para a terceira idade e reconhecimento esportivo",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/camara-de-jundiai-aprova-projetos-saude-idosos-ciencia/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:54",
-"t": "Guerra, economia, IA e casos de corrupção derrotam Trump nos EUA",
-"p": "Republicanos perderam maioria na Câmara e Senado em derrota histórica",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/guerra-economia-ia-e-casos-de-corrupcao-derrotam-trump-nos-eua/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:48",
-"t": "Féfin diz que gravou vídeo para companheira ‘refletir’ no dia seguinte",
-"p": "Em discurso na Câmara, vereador atribui conflito à suspeita de traição, nega agressão e acusa terceiros de divulgar vídeo com interesses políticos. Parlamentar afirmou que protegia companheira e ainda criticou manifestação de mulheres.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/noticias/fefin-diz-que-gravou-video-para-companheira-refletir-no-dia-seguinte/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:48",
-"t": "Féfin diz que gravou vídeo para companheira ‘refletir’ no dia seguinte",
-"p": "Em discurso na Câmara, vereador atribui conflito à suspeita de traição, nega agressão e acusa terceiros de divulgar vídeo com interesses políticos. Parlamentar afirmou que protegia companheira e ainda criticou manifestação de mulheres.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/fefin-diz-que-gravou-video-para-companheira-refletir-no-dia-seguinte/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:46",
-"t": "Cozinheiro é resgatado após atear fogo em casa na zona oeste de Marília",
-"p": "Corpo de Bombeiros atuaram em ocorrência na zona oeste de Marília Morador foi socorrido inconsciente e encaminhado à UPA norte; chamas mobilizaram PM e bombeiros.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/cozinheiro-e-resgatado-apos-atear-fogo-em-casa-na-zona-oeste-de-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:42",
-"t": "Polícia Civil prende cinco suspeitos de furtar 74 cabeças de gado na região",
-"p": "Operação Curral do Crime cumpriu cinco mandados de prisão temporária e 11 de busca e apreensão",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/policia-civil-prende-cinco-suspeitos-de-furtar-74-cabecas-de-gado-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:41",
-"t": "Homem é encontrado morto com \"buraco na cabeça\" em carrinho de supermercado",
-"p": "Corpo foi localizado enrolado em cobertores debaixo do viaduto Jaceguai, no centro de São Paulo. Caso é investigado pela Polícia Civil",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/homem-e-encontrado-morto-com-buraco-na-cabeca-em-carrinho-de-supermercado",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "11:37",
-"t": "Justiça decreta prisão de empresário acusado de matar a ex e o filho dela",
-"p": "Eric Conrado Alves de Almeida está foragido. Ele é suspeito de matar a ex e o filho dela dentro de casa, em Cotia, na Grande São Paulo",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Cotia"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/justica-determina-prisao-de-empresario-que-matou-ex-namorada-e-o-filho-dela",
 "auto": true
 }
 ]
