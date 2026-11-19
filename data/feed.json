@@ -1,25 +1,21 @@
 {
-"atualizado": "2026-11-19T18:01:17-03:00",
-"novos_nesta_coleta": 21,
+"atualizado": "2026-11-19T18:57:48-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
-"Jornal Ita News",
+"Portal Sorocaba.com",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -32,11 +28,23 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -44,15 +52,173 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Portal Sorocaba.com",
-"erro": "HTTP Error 404: Not Found"
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-19",
+"h": "18:56",
+"t": "PM apreende 26 quilos de maconha em ônibus interestadual e detém passageiro em Rio Preto",
+"p": "Suspeito transportava a droga de Campo Grande/MS para Goiânia/GO e afirmou que receberia parte da carga como pagamento. Uma ação da Polícia Militar resultou na apreensão de aproximadamente 26 quilos de maconha na tarde desta quarta-feira (18.nov), em São José do Rio Preto/SP. A droga estava na bagagem de um…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/pm-apreende-26-quilos-de-maconha-em-onibus-interestadual-e-detem-passageiro-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "18:49",
+"t": "Prefeitura investe R$ 2,1 milhões em novos maquinários e amplia renovação da frota municipal",
+"p": "Motoniveladora, retroescavadeira, carreta-reboque e caminhão-baú reforçam serviços urbanos; investimentos da Prefeitura em renovação da frota já somam cerca de R$ 13 milhões em dois anos. A Prefeitura de Votuporanga colocou em operação novos equipamentos que passam a reforçar os serviços de manutenção e conservação…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeitura-investe-r-21-milhoes-em-novos-maquinarios-e-amplia-renovacao-da-frota-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "18:48",
+"t": "Operação da Polícia Civil termina com grande apreensão de maconha, crack e cocaína em Rio Preto",
+"p": "Investigação da Dise durou cerca de 30 dias e apontou que suspeita utilizava um carro para fazer entregas de drogas; imóvel no bairro Fraternidade armazenava grande quantidade de entorpecentes. Uma mulher de 27 anos foi presa em flagrante por tráfico de drogas nesta quarta-feira (18.nov), em São José do Rio…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/operacao-da-policia-civil-termina-com-grande-apreensao-de-maconha-crack-e-cocaina-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "18:46",
+"t": "Lula chama de ‘ingratidão’ críticas à redução da jornada e assina regras da 5×2",
+"p": "Decreto traz detalhes sobre as regras para que acordos e convenções coletivas possam ajustar os modelos de escala. O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (19.nov) o decreto que regulamenta a implantação da escala 5×2 no Brasil, consolidando uma das mais significativas mudanças nas…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/lula-chama-de-ingratidao-criticas-a-reducao-da-jornada-e-assina-regras-da-5x2/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "18:39",
+"t": "Prefeitura de Sorocaba anuncia os vencedores do Prêmio de Artes Visuais 2026",
+"p": "Exposição, com 13 obras classificadas da premiação, pode ser conferida no Museu Histórico Sorocabano, até o fim de dezembro A Prefeitura de Sorocaba, por meio da Secretaria de Cultura (Secult), anunciou, na tarde desta quinta-feira (19), em cerimônia realizada no Museu Histórico Sorocabano (MHS), os cinco…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-anuncia-os-vencedores-do-premio-de-artes-visuais-2026/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "18:37",
+"t": "Homem que ameaçou ex-namorada com faca e motosserra é preso no Taquaral",
+"p": "Suspeito de 45 anos foi encontrado em casa, na região do Taquaral; objetos exibidos em vídeos enviados à vítima foram apreendidos pela Polícia Civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Taquaral"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/homem-que-ameacou-ex-namorada-com-faca-e-motosserra-e-preso-no-taquaral/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "18:19",
+"t": "Homem é preso após invadir ONG e matar 2 cachorros a tiros na zona leste",
+"p": "Câmeras de segurança flagraram o homem pulando muro da ONG, atirando nos cachorros e indo embora. A arma foi encontrada na casa do preso",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-e-preso-apos-invadir-ong-e-matar-2-cachorros-a-tiros-na-zona-leste",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "18:14",
+"t": "Mulher de 60 anos é presa após furtar 20 peças de roupas no Calçadão de Rio Preto",
+"p": "Uma mulher de 60 anos foi detida pela Guarda Civil Municipal (GCM) na manhã desta quinta-feira (19), suspeita de furtar 20 peças de vestuário de um estabelecimento comercial localizado no Calçadão, na área central de São José do Rio Preto. O acionamento dos guardas partiu dos próprios funcionários da loja, que…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-de-60-anos-e-presa-apos-furtar-20-pecas-de-roupas-no-calcadao-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "18:14",
+"t": "Hemocentro de Fernandópolis abre neste feriado para reforçar estoques de sangue",
+"p": "O Hemocentro de Fernandópolis funcionará em esquema especial nesta sexta-feira (20), feriado nacional, para receber voluntários interessados em doar sangue. Os atendimentos ocorrerão das 7h30 às 12h e integram a programação do Mês do Doador de Sangue, campanha realizada em alusão ao Dia Nacional do Doador de…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/hemocentro-de-fernandopolis-abre-neste-feriado-para-reforcar-estoques-de-sangue/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "18:14",
+"t": "Lula defende transporte público gratuito nos fins de semana após assinar decreto da escala 5×2",
+"p": "O presidente Luiz Inácio Lula da Silva declarou nesta quinta-feira (19), durante cerimônia no Palácio do Planalto, em Brasília, que o governo federal vai atuar pela implantação da gratuidade no transporte público coletivo aos fins de semana em todo o país. Segundo o chefe do Executivo, a iniciativa busca…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Planalto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/lula-defende-transporte-publico-gratuito-nos-fins-de-semana-apos-assinar-decreto-da-escala-5x2/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "18:05",
+"t": "Veja como fica o tempo em Ribeirão Preto e no litoral de SP durante o feriado da Consciência Negra",
+"p": "Segundo a Climatempo, Ribeirão Preto terá sol pela manhã e pancadas de chuva à tarde e à noite entre sexta (20) e domingo (22); praias de SP também terão instabilidade no período da tarde",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/veja-como-fica-o-tempo-ribeirao-preto-e-no-litoral-de-sp-durante-o-feriado-da-consciencia-negra/",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "17:58",
@@ -54830,162 +54996,6 @@
 "c": [],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4366949/anchieta-e-imigrantes-tem-lentidao-nesta-quinta-feira-5-veja-trechos",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:18",
-"t": "Ribeirão Pires vai ter verba estadual para restauro da Fábrica de Sal",
-"p": "Prefeitura receberá R$ 500 mil para elaboração de projeto que visa intervenções no espaço histórico; Rio Grande também foi contemplada",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4366953/ribeirao-pires-vai-ter-verba-estadual-para-restauro-da-fabrica-de-sal",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:18",
-"t": "Ouroeste sedia capacitação do Coren e vira polo de formação para aplicação de Implanon",
-"p": "O município de Ouroeste sediou nesta quarta-feira (21) um curso de capacitação técnica promovido pelo Conselho Regional de Enfermagem (Coren), consolidando a cidade como polo regional para a qualificação de profissionais de saúde na implantação do método contraceptivo Implanon. A iniciativa contou com o suporte do…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Ouroeste"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/ouroeste-sedia-capacitacao-do-coren-e-vira-polo-de-formacao-para-aplicacao-de-implanon/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:18",
-"t": "Contribuintes de Fernandópolis podem renegociar dívidas municipais com descontos pelo REFIS",
-"p": "A Prefeitura de Fernandópolis abriu a adesão ao Programa de Recuperação Fiscal (REFIS), oferecendo aos contribuintes a oportunidade de quitar e regularizar débitos municipais de forma presencial ou digital. Os moradores interessados em acertar a situação financeira junto ao município podem optar por negociar as…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/contribuintes-de-fernandopolis-podem-renegociar-dividas-municipais-com-descontos-pelo-refis/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:18",
-"t": "Impasse sobre rotatória no Shopping Fernandópolis se arrasta há meses e gera risco no trânsito",
-"p": "O que foi anunciado como uma alteração provisória no tráfego durante a realização da Expo Fernandópolis tornou-se um problema recorrente para quem circula pelas imediações do Shopping Center Fernandópolis. A indefinição sobre a construção de uma rotatória definitiva no local tem provocado preocupação entre…",
-"tema": "Transporte",
-"s": "anunciado",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/impasse-sobre-rotatoria-no-shopping-fernandopolis-se-arrasta-ha-meses-e-gera-risco-no-transito/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:18",
-"t": "Fernandópolis chega a 2026 com contas aprovadas e R$ 114,5 milhões reservados para a saúde",
-"p": "Um orçamento público só merece confiança quando as contas que vieram antes dele estão em ordem. Em Fernandópolis, cidade de 71.186 habitantes segundo o Censo 2022, essa sequência aparece com clareza. Em maio de 2026, o município teve noticiado o parecer favorável do Tribunal de Contas do Estado de São Paulo às…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/fernandopolis-chega-a-2026-com-contas-aprovadas-e-r-1145-milhoes-reservados-para-a-saude/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:15",
-"t": "Foram mais de 5 mil km, 15 dias de estradas e 8 de balsa: como a Estátua da Liberdade da Havan chegou a Roraima em operação histórica",
-"p": "A Estátua da Liberdade da Havan percorreu mais de 5 mil quilômetros entre Santa Catarina e Roraima para marcar a inauguração da loja de número 200 da rede. A operação logística, que atravessou o Brasil de Sul a Norte, levou mais de 15 dias pelas rodovias e outros oito dias de navegação por balsa até […]",
-"tema": "Transporte",
-"s": "entregue",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/foram-mais-de-5-mil-km-15-dias-de-estradas-e-8-de-balsa-como-a-estatua-da-liberdade-da-havan-chegou-a-roraima-em-operacao-historica/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:15",
-"t": "Câmara de Mira Estrela aprova por unanimidade contas de 2024 da ex-prefeita Priscilla Prado",
-"p": "A Câmara Municipal de Mira Estrela aprovou por unanimidade, no dia 19 de outubro, as contas da Prefeitura referentes ao exercício de 2024, último ano do mandato da ex-prefeita Priscilla Prado. O julgamento seguiu o parecer prévio favorável emitido pelo Tribunal de Contas do Estado de São Paulo (TCE-SP) no processo…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Mira Estrela"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/camara-de-mira-estrela-aprova-por-unanimidade-contas-de-2024-da-ex-prefeita-priscilla-prado/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:15",
-"t": "Empresário é preso em aeroporto por dívida de mais de R$ 1,2 milhão em pensão alimentícia",
-"p": "Um empresário de 52 anos foi preso nesta quarta-feira (4) em São José do Rio Preto (SP) por uma dívida de mais de R$ 1,2 milhão referente à pensão alimentícia. O investigado era procurado pela Justiça e foi localizado após desembarcar no Aeroporto Estadual Professor Eribelto Manoel Reino. Conforme apurado pela TV…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/empresario-e-preso-em-aeroporto-por-divida-de-mais-de-r-12-milhao-em-pensao-alimenticia/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:12",
-"t": "Câmara derruba veto e libera distribuição gratuita de sensores de glicose para crianças com diabetes em Presidente PrudenteV",
-"p": "Crianças e adolescentes com diabetes, de 2 a 17 anos, poderão receber gratuitamente sensores e aparelhos digitais para monitoramento contínuo da glicose em Presidente Prudente (SP). A medida está prevista na Lei Municipal nº 12.084/2026, publicada no Diário Oficial do Município nesta quarta-feira (4). A legislação…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/camara-derruba-veto-e-libera-distribuicao-gratuita-de-sensores-de-glicose-para-criancas-com-diabetes-em-presidente-prudentev/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:11",
-"t": "Suplente assume vaga de vereador do PT preso por envolvimento com o PCC",
-"p": "Senival Moura (PT) pediu afastamento da Câmara após ser preso na semana passada; Manoel Del Rio é 1º suplente e assumiria cargo em 2027",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/suplente-assume-vaga-de-vereador-do-pt-preso-por-envolvimento-com-o-pcc",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:11",
-"t": "Defesa Civil alerta para tempestades com ventos de 80 km/h durante final de semana",
-"p": "A Defesa Civil emitiu um alerta para o risco de temporais em todo o estado de São Paulo (SP) até sábado (7). A previsão é de chuva forte, ventos de até 80 kmh/h e possibilidade de granizo. As regiões de Sorocaba , Jundiaí, Itapetininga, Bauru, Marília, São José do Rio Preto, Araçatuba e Presidente Prudente […]",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"Presidente Prudente",
-"Itapetininga",
-"Araçatuba",
-"Sorocaba",
-"Jundiaí",
-"Bauru"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/defesa-civil-alerta-para-tempestades-com-ventos-de-80-km-h-durante-final-de-semana/",
 "auto": true
 }
 ]
