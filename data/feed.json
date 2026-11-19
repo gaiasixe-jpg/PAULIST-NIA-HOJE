@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-19T14:15:04-03:00",
-"novos_nesta_coleta": 40,
+"atualizado": "2026-11-19T15:02:36-03:00",
+"novos_nesta_coleta": 34,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 25 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -50,6 +50,323 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-19",
+"h": "15:00",
+"t": "Leonardo, Belo e Zezé Di Camargo & Luciano agitam o Vale do Paraíba com shows e eventos no feriado prolongado",
+"p": "O feriado prolongado terá uma programação variada para quem pretende aproveitar os próximos dias no Vale do Paraíba e região. Entre esta quinta-feira (19/11) e domingo (22/11), o público poderá acompanhar shows de artistas conhecidos, peças de teatro e festivais gastronômicos em diferentes cidades. Na agenda…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/leonardo-belo-e-zeze-di-camargo-luciano-agitam-o-vale-do-paraiba-com-shows-e-eventos-no-feriado-prolongado/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:58",
+"t": "Poá: carro capota no Rodoanel após bater em barreira e motorista fica gravemente ferido",
+"p": "Acidente provocou congestionamento de seis quilômetros no Rodoanel; vítima foi socorrida pelo helicóptero Águia, da Polícia Militar",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Poá"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/poa-carro-capota-no-rodoanel-apos-bater-em-barreira-e-motorista-fica-gravemente-ferido/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:46",
+"t": "Confira o que abre e fecha no feriado da Consciência Negra",
+"p": "Devido ao feriado desta sexta-feira, 20/11, alguns serviços municipais terão horários de funcionamento alterados",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/confira-o-que-abre-e-fecha-no-feriado-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:41",
+"t": "Prefeitura oferece atendimento especializado a mulheres em situação de violência",
+"p": "Acolhimento e proteção",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/prefeitura-oferece-atendimento-especializado-a-mulheres-em-situacao-de-violencia/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:40",
+"t": "Fim da escala 6×1: veja o que muda em dezembro após decreto assinado hoje",
+"p": "Fim da escala 6x1: a partir de 16 de dezembro, jornada cai para 42 horas semanais e trabalhadores passam a ter dois dias de descanso; limite de 40 horas começa em 2027",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/fim-da-escala-6x1-veja-o-que-muda-em-dezembro-apos-decreto-assinado-hoje-por-lula/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "14:40",
+"t": "Pesquisa aponta aprovação de 56,2% à gestão Farid Madi em Guarujá",
+"p": "Levantamento ouviu 1.060 eleitores em outubro, e mostra que 35% reprovam a administração municipal; segurança pública e saúde lideram as críticas",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/politica/pesquisa-aponta-aprovacao-de-562-a-gestao-farid-madi-em-guaruja.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:38",
+"t": "Lula anuncia planos para criar ministério voltado às pessoas idosas",
+"p": "O presidente Luiz Inácio Lula da Silva anunciou nesta quinta-feira (19) a intenção de instituir uma pasta ministerial dedicada às políticas públicas para a população idosa. A declaração foi feita no Palácio do Planalto, em Brasília, durante a cerimônia de assinatura do decreto que regulamenta o encerramento da…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Planalto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/lula-anuncia-planos-para-criar-ministerio-voltado-as-pessoas-idosas/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "14:37",
+"t": "Bertioga abre programação gratuita de Natal nesta sexta-feira (20) com chegada do Papai Noel, balé e parada na orla",
+"p": "Programação reúne espetáculos dos polos culturais, atrações em parceria com o Sesc e apresentações musicais em barco-casa pelo canal",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-abre-programacao-gratuita-de-natal-nesta-sexta-feira-20-com-chegada-do-papai-noel-bale-concerto-e-parada-na-orla.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:36",
+"t": "Empresário vira réu e tem prisão preventiva decretada por matar advogada",
+"p": "A Justiça aceitou a denúncia do MPSP e tornou réu o empresário Eric Conrado, suspeito de matar a namorada advogada e o filho dela, de 6 anos",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/empresario-vira-reu-e-tem-prisao-preventiva-decretada-por-matar-advogada",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:35",
+"t": "Pista de atletismo da Cava do Bosque terá reforma de R$ 2,4 milhões feita por empresa dos Jogos Rio 2016",
+"p": "Obra de R$ 2,4 milhões na pista da Cava do Bosque será feita pela PlayPiso, responsável pelo piso do Engenhão nos Jogos Rio 2016, com prazo de 180 dias",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/esportes/pista-de-atletismo-da-cava-do-bosque-tera-reforma-de-r-24-milhoes-feita-por-empresa-dos-jogos-rio-2016/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:33",
+"t": "Operação Engrenagem prende 11 pessoas e apreende drogas",
+"p": "A Polícia Civil realiza nesta quinta-feira (19), em Barretos, a Operação Engrenagem para desarticular um grupo suspeito de atuar no tráfico de drogas no município. A ofensiva, conduzida por agentes da Delegacia de Investigações Gerais (DIG) e da Delegacia de Investigações sobre Entorpecentes (DISE), cumprirá ordens…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Barretos"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-engrenagem-prende-11-pessoas-e-apreende-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:31",
+"t": "Operação mira quadrilha do golpe do bilhete premiado suspeita de movimentar mais de R$ 100 milhões",
+"p": "Uma organização criminosa investigada por aplicar o golpe do bilhete premiado e movimentar mais de R$ 100 milhões é alvo de uma ofensiva conjunta da Polícia Civil de São Paulo e do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), do Ministério Público, nesta quinta-feira (19). Batizada de Operação…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-mira-quadrilha-do-golpe-do-bilhete-premiado-suspeita-de-movimentar-mais-de-r-100-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:30",
+"t": "Tarcísio de Freitas confirma permanência de três secretários para a nova gestão do Governo de SP",
+"p": "O governador Tarcísio de Freitas anunciou a manutenção de mais três integrantes do primeiro escalão para a nova gestão do Governo de São Paulo. Permanecem nos cargos Andrezza Rosalém, à frente da Secretaria de Desenvolvimento Social; Marcelo Branco, na Secretaria de Desenvolvimento Urbano e Habitação; e Marcello…",
+"tema": "Habitação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/tarcisio-de-freitas-confirma-permanencia-de-tres-secretarios-para-a-nova-gestao-do-governo-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:29",
+"t": "Operação mira quadrilha que fingia ser da Enel para roubar fios de cobre",
+"p": "Segundo a polícia, a quadrilha usava equipamentos e até uniformes clonados da Enel para isolar ruas e roubar fios de cobre e fibra óptica",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/operacao-mira-quadrilha-que-fingia-ser-da-enel-para-roubar-fios-de-cobre",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:28",
+"t": "Concurso para professores em SP abre 5 mil vagas; veja salários e inscrições",
+"p": "Foto: Canva Concurso para professores em SP oferece 5 mil vagas, salários de até R$ 5.565 e inscrições a partir de 26 de novembro. Confira o edital.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/concursos/concurso-professores-sp-5000-vagas/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:28",
+"t": "Caraguatatuba descarta enquadramento automático de ADIs no magistério",
+"p": "Prefeitura aponta impedimentos jurídicos para mudança de carreira no magistério, e estuda valorização profissional, ainda sem prazo definido",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/caraguatatuba-descarta-enquadramento-automatico-de-adis-no-magisterio.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:28",
+"t": "Lula assina decreto que regulamenta jornada 5×2, rebate críticas sobre economia e alerta para impasses na transição",
+"p": "O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira (19), durante cerimônia no Palácio do Planalto, em Brasília, que seu governo não promoverá recuos nos direitos sociais conquistados pelos trabalhadores. O discurso ocorreu no ato de assinatura do decreto que regulamenta o fim da escala 6×1 e institui…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Planalto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/lula-assina-decreto-que-regulamenta-jornada-5x2-rebate-criticas-sobre-economia-e-alerta-para-impasses-na-transicao/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "14:27",
+"t": "Justiça manda Sindicato dos Médicos sede em até 180 dias",
+"p": "Tribunal reformou sentença de primeira instância favorável à entidade e considerou irregular a concessão gratuita do imóvel",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/justica-manda-sindicato-dos-medicos-sede-em-ate-180-dias/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:23",
+"t": "Corpo com sinais de violência é encontrado em mata de Ribeirão Preto",
+"p": "Corpo de um homem com sinais de tiros foi localizado pela GCM nesta quinta (19), nas proximidades da rodovia Mário Donegá",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/corpo-com-sinais-de-violencia-e-encontrado-em-mata-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:21",
+"t": "Uso de drones em guerra interna da Colômbia cresce 132% sob Espriella",
+"p": "O uso de drones por grupos paramilitares e de narcotraficantes na guerra interna da Colômbia cresceu 132% nos primeiros 100 dias de governo do ultradireitista Abelardo de La Espriella. A cada 20 horas, ocorre um ataque com drone no país sul-americano. Nos primeiros nove meses do ano, foram registrados 323 ataques…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Colômbia"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/uso-de-drones-em-guerra-interna-da-colombia-cresce-132-sob-espriella",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:19",
+"t": "Santo André inicia pesquisa de satisfação sobre transporte público",
+"p": "Levantamento da SATrans começou na terça-feira (17), terá duração de 30 dias e busca reunir opiniões sobre os serviços e as condições da frota",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369743/santo-andre-inicia-pesquisa-de-satisfacao-sobre-transporte-publico",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:17",
+"t": "‘Vovó ladra’ é presa mais uma vez pela GCM",
+"p": "Idosa de 60 anos foi flagrada com 20 peças de roupas furtadas de uma loja no Calçadão",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vovo-ladra-e-presa-mais-uma-vez-pela-gcm/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "14:15",
+"t": "Diadema realiza Feirão de Empregos nesta quinta (26)",
+"p": "Evento oferece 3 mil vagas de todos os níveis de escolaridade; candidatos devem levar currículo impresso",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369748/diadema-realiza-feirao-de-empregos-nesta-quinta-26-",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "14:11",
@@ -91,6 +408,23 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4369736/rodizio-de-veiculos-sera-suspenso-em-sao-paulo-no-feriado-da-consciencia-negra-",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "13:54",
+"t": "Estado abre vagas para professores em quatro cidades do Grande ABC",
+"p": "Concurso público, com inscrições até 26 de novembro e prova em 25 de abril de 2027, vai selecionar profissionais para Santo André, São Bernardo, Diadema e Mauá",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santo André",
+"Diadema",
+"Mauá",
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369740/estado-abre-vagas-para-professores-em-quatro-cidades-do-grande-abc",
 "auto": true
 },
 {
@@ -147,6 +481,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/maisnoticias/pompeia-registra-relatos-de-diarreia-em-17-alunos-e-tres-professoras/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "13:38",
+"t": "Pompeia registra relatos de diarreia em 17 alunos e três professoras",
+"p": "Prefeitura considera possibilidade de quadro viral e afirma que ainda não há elementos para relacionar os sintomas à alimentação servida nas escolas.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/pompeia-registra-relatos-de-diarreia-em-17-alunos-e-tres-professoras/",
 "auto": true
 },
 {
@@ -54692,342 +55040,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/variedades/agua-muito-quente-no-banho-pode-dilatar-vasos-e-provocar-tontura-ou-desmaio-veja-como-prevenir-a-queda-de-pressao-no-banheiro/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "22:06",
-"t": "Debatedores divergem sobre projeto de lei para ampliar concorrência no mercado de gás natural",
-"p": "Renato Araujo / Câmara dos Deputados Duas comissões da Câmara debateram o assunto Audiência pública conjunta das comissões de Desenvolvimento Econômico e de Minas e Energia discutiu o Projeto de Lei (PL) 5802/25, de autoria do deputado Kim Kataguiri (Missão-SP). A proposta trata da desconcentração do mercado de gás…",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/debatedores-divergem-sobre-projeto-de-lei-para-ampliar-concorrencia-no-mercado-de-gas-natural/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "22:00",
-"t": "Pesquisa aponta qual é o curso de faculdade preferido dos bilionários do Brasil; confira o ranking",
-"p": "A procura por se graduar sempre vem com uma dúvida importante: qual curso devo fazer? Quem procura inspiração nas trajetórias de sucesso dos grandes empresários do país, tem a resposta graças a um estudo realizado pelo The College analisou a vida escolar dos 70 bilionários brasileiros presentes no ranking…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/pesquisa-aponta-qual-e-o-curso-de-faculdade-preferido-dos-bilionarios-do-brasil-confira-o-ranking/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:48",
-"t": "Polícia prende empresário suspeito de matar a ex e o filho dela em Cotia",
-"p": "Eric Conrado Alves de Almeida, suspeito de matar a ex e o filho dela, estava foragido e foi encontrado em uma residência na zona oeste de SP",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Cotia"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/policia-prende-empresario-suspeito-de-matar-a-ex-e-o-filho-dela-em-cotia",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:43",
-"t": "Polícia Civil prende dois homens por furto a condomínio e roubos em série",
-"p": "A Polícia Civil de Araçatuba prendeu, na manhã desta quarta-feira (4), dois homens suspeitos de envolvimento em diferentes crimes patrimoniais registrados no município. As prisões foram efetuadas em ações distintas decorrentes de investigações conduzidas pelas equipes locais. Um dos investigados é apontado como…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araçatuba"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-prende-dois-homens-por-furto-a-condominio-e-roubos-em-serie/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:42",
-"t": "Empresário é preso no Aeroporto de Rio Preto por dívida de R$ 1,2 milhão em pensão alimentícia",
-"p": "Um empresário de 52 anos foi preso pela Polícia Civil na manhã desta quarta-feira (4), ao desembarcar no Aeroporto Estadual Professor Eribelto Manoel Reino, em São José do Rio Preto. O homem possuía um mandado de prisão em aberto decorrente de um débito de pensão alimentícia acumulado em mais de R$ 1,2 milhão. O…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/empresario-e-preso-no-aeroporto-de-rio-preto-por-divida-de-r-12-milhao-em-pensao-alimenticia/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:40",
-"t": "Polícia Civil prende três suspeitos de fraudar compras virtuais",
-"p": "Policiais do Departamento de Operações Policiais Estratégicas (Dope) prenderam em flagrante três pessoas nesta quarta-feira (4), na zona leste de São Paulo, em uma operação voltada ao combate de fraudes em compras realizadas pela internet. O grupo é investigado por utilizar documentos falsos e comprovantes de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-prende-tres-suspeitos-de-fraudar-compras-virtuais/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:34",
-"t": "Defesa Civil de SP alerta para risco de temporais em diferentes regiões do estado",
-"p": "Aviso vale entre quinta-feira (5) e sábado (7). Instabilidades podem provocar chuva forte, rajadas de vento de até 80km/h, descargas elétricas e queda de granizo; população deve adotar medidas preventivas. A Defesa Civil do Estado de São Paulo emitiu um alerta para todo o território paulista devido à previsão de…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/defesa-civil-de-sp-alerta-para-risco-de-temporais-em-diferentes-regioes-do-estado/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:31",
-"t": "Tornados e tempestades atingem Santa Catarina e Rio Grande do Sul; instabilidade avança para SP",
-"p": "Tornados e tempestades severas causaram destruição e deixaram dezenas de desabrigados na Região Sul do país nesta quarta-feira (4). A Defesa Civil de Santa Catarina confirmou a passagem de tornados nos municípios de Chapecó e Xanxerê, no oeste catarinense, com rajadas de vento que atingiram até 126 km/h. O mau…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/tornados-e-tempestades-atingem-santa-catarina-e-rio-grande-do-sul-instabilidade-avanca-para-sp/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:30",
-"t": "STF derruba lei estadual que dava liberdade para pais proibirem a presença de filhos em aulas sobre gênero e sexualidade",
-"p": "O Supremo Tribunal Federal (STF) derrubou a lei estadual do Maranhão, que concedia aos pais o direito de proibir a presença dos filhos em aulas ou projetos pedagógicos sobre gênero e sexualidade. A decisão, tomada na ADI 7883, gera dúvidas práticas para pais e mães de alunos da rede pública e privada em todo o […]",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/stf-derruba-lei-estadual-que-dava-liberdade-para-pais-proibirem-a-presenca-de-filhos-em-aulas-sobre-genero-e-sexualidade/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:28",
-"t": "Idosa fica ferida após ser derrubada por ladrão durante assalto na Vila Tibério",
-"p": "Idosa foi arrastada durante o roubo, registrado por câmera de segurança, na madrugada de terça-feira (3), em Ribeirão Preto",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/idosa-fica-ferida-apos-ser-derrubada-por-ladrao-durante-assalto-na-vila-tiberio/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:20",
-"t": "Detran-SP leiloa quase 800 veículos com lances a partir de R$ 540; veja como participar",
-"p": "Foto: Divulgação/Governo de São Paulo Leilão online começa em 9 de novembro e oferece carros, motos e sucatas; interessados já podem apresentar pré-lances.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/economia/leilao-detran-sp-792-veiculos-lances-540-reais/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:20",
-"t": "Justiça quebra sigilo de processo sobre queda de avião da Voepass e revela mensagens de funcionários antes da tragédia",
-"p": "Documento com mais de 81 mil páginas reúne conversas recuperadas do celular de comissária que morreu no acidente em Vinhedo; em uma delas, ex-mecânico afirmou que aviões 'só não caíam porque Deus gostava muito deles'",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Vinhedo"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/justica-quebra-sigilo-de-processo-sobre-queda-de-aviao-da-voepass-e-revela-mensagens-de-funcionarios-antes-da-tragedia/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:04",
-"t": "Pedras de até 318 kg se movem sozinhas no deserto e cientistas descobrem o que provoca o fenômeno misterioso",
-"p": "As marcas no barro endurecido permanecem visíveis muito depois que a lâmina de água e o gelo fino já evaporaram, o que por décadas alimentou hipóteses sem nenhuma filmagem do deslocamento real. Ilustração criada com Inteligência Artificial Pedras que se movem sozinhas no Vale da Morte, nos EUA, intrigaram…",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/mundo/pedras-de-ate-318-kg-se-movem-sozinhas-no-deserto-e-cientistas-descobrem-o-que-provoca-o-fenomeno-misterioso/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:03",
-"t": "Saiu o resultado! Veja os números sorteados da Mega-Sena nesta quarta-feira (4/11) da com prêmio acumulado em R$ 47,3 milhões",
-"p": "A Caixa Econômica Federal sorteou na noite desta quarta-feira (4/11) as seis dezenas do concurso 3081 da Mega-Sena, que poderá pagar um prêmio de R$ 47,3 milhões para quem acertar todas os números. Confira os números: Como apostar na Mega-Sena A Mega-Sena é a principal loteria do país e premia quem acertar os seis…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/saiu-o-resultado-veja-os-numeros-sorteados-da-mega-sena-nesta-quarta-feira-4-11-da-com-premio-acumulado-em-r-473-milhoes/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "21:01",
-"t": "Aos 38 anos, mulher abandona vida na cidade, passa 1 ano e meio construindo casa de barro com 12 para-brisas no lugar das janelas e faz telhado de coração",
-"p": "Aos 22 anos, Mariana Di Pascuales decidiu deixar a rotina urbana de Rosario, na Argentina, e buscar uma vida mais próxima da natureza. A mudança abriu caminho para experiências que mais tarde influenciariam a construção da própria casa, de barro! Durante uma temporada no Uruguai, ela viveu sem água encanada nem…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/aos-38-anos-mulher-abandona-vida-na-cidade-passa-1-ano-e-meio-construindo-casa-de-barro-com-12-para-brisas-no-lugar-das-janelas-e-faz-telhado-de-coracao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "20:55",
-"t": "Homem sofre fratura após ser atropelado na Rodovia Francisco Von Zuben",
-"p": "Acidente aconteceu na noite desta quarta-feira (4); na terça (3), outros dois acidentes foram registrados em um trecho da rodovia, cerca de 500 metros abaixo do local do atropelamento",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/homem-sofre-fratura-apos-ser-atropelado-na-rodovia-francisco-von-zuben/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "20:30",
-"t": "Sete brasileiros conquistam cadeiras na Câmara dos EUA e se tornam deputados estaduais pelo Partido Democrata",
-"p": "As eleições de meio de mandato realizadas nos Estados Unidos resultaram em uma conquista histórica para a comunidade imigrante de origem brasileira. Candidatos com trajetórias ligadas ao Brasil garantiram vitórias expressivas para os legislativos estaduais no país, reforçando a presença e a voz da população…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/sete-brasileiros-conquistam-cadeiras-na-camara-dos-eua-e-se-tornam-deputados-estaduais-pelo-partido-democrata/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "20:06",
-"t": "Polícia Civil prende homem acusado de agredir idoso de 79 anos",
-"p": "A Polícia Civil de São Paulo cumpriu, nesta quarta-feira (4), o mandado de prisão temporária contra Denis Young Kim, de 43 anos, investigado por tentativa de homicídio qualificado por motivo fútil contra um idoso de 79 anos. O suspeito apresentou-se acompanhado por seu advogado no 99º Distrito Policial, na zona sul…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-civil-prende-homem-acusado-de-agredir-idoso-de-79-anos/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "20:06",
-"t": "Provão Paulista aborda vício em apostas esportivas na redação",
-"p": "A Secretaria da Educação do Estado de São Paulo (Seduc-SP) divulgou o tema da redação do Provão Paulista Seriado, aplicado nesta quarta-feira (4) para 380 mil estudantes concluintes do Ensino Médio na rede pública. Os candidatos tiveram como proposta redigir um texto dissertativo-argumentativo sobre o vício em…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/provao-paulista-aborda-vicio-em-apostas-esportivas-na-redacao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "20:06",
-"t": "Polícia investiga morte de homem achado ferido em Auriflama",
-"p": "Antônio de Oliveira, de 57 anos, foi socorrido no quintal de casa e transferido para a Santa Casa de Araçatuba, mas não resistiu",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araçatuba",
-"Auriflama"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-civil-investiga-morte-suspeita-de-homem-encontrado-ferido-em-auriflama/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "20:00",
-"t": "Detran-SP realiza leilão de quase 800 veículos no interior de SP com lances a partir de R$ 540; veja como participar",
-"p": "O Departamento Estadual de Trânsito de São Paulo (Detran-SP) disponibiliza 792 veículos em um novo leilão realizado em cidades das regiões de Bauru, Presidente Prudente e São José do Rio Preto. Os lances iniciais começam em R$ 540 para motocicletas e R$ 810 para carros. A etapa de pré-lances teve início nesta…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"Presidente Prudente",
-"São Paulo",
-"Bauru"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/detran-sp-realiza-leilao-de-quase-800-veiculos-no-interior-de-sp-com-lances-a-partir-de-r-540-veja-como-participar/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "19:49",
-"t": "Secretaria da Saúde alerta sobre falsa cobrança em nome da Vigilância Sanitária",
-"p": "Comerciantes relataram que receberam mensagens de WhatsApp de pessoas que se identificam falsamente como representantes da Vigilância Sanitária para solicitar pagamentos. A Secretaria da Saúde da Prefeitura de Votuporanga alerta comerciantes sobre um possível golpe que pode estar sendo praticado na cidade…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/secretaria-da-saude-alerta-sobre-falsa-cobranca-em-nome-da-vigilancia-sanitaria/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "19:45",
-"t": "Audiências públicas vão debater área de proteção do rios Jaguari e Juquiá",
-"p": "Alesp discute projeto que cria regras para uso e ocupação do solo no entorno das bacias hidrográficas. Projeto deve ser votado neste ano",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Juquiá"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/audiencias-publicas-vao-debater-area-de-protecao-do-rios-jaguari-e-juquia",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "19:43",
-"t": "Estudante tem carro roubado por dupla em moto na saída da faculdade",
-"p": "Uma estagiária de 23 anos foi rendida por dois criminosos em uma motocicleta e teve o carro roubado na noite desta terça-feira (3), na Vila Aeroporto, em Rio Preto. Além do veículo, os assaltantes levaram o celular e uma bolsa escolar da vítima. O carro foi recuperado pouco depois pela Polícia Militar, no Jardim…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/estudante-tem-carro-roubado-por-dupla-em-moto-na-saida-da-faculdade/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "19:43",
-"t": "CDHU oferece renegociação de financiamento habitacional sem entrada",
-"p": "Mutuários da Companhia de Desenvolvimento Habitacional e Urbano (CDHU) podem renegociar financiamentos habitacionais sem a necessidade de pagamento de entrada. A possibilidade faz parte da campanha Casa em Dia, lançada pelo governo de São Paulo para facilitar a regularização de contratos e oferecer alternativas de…",
-"tema": "Habitação",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/cdhu-oferece-renegociacao-de-financiamento-habitacional-sem-entrada/",
 "auto": true
 }
 ]
