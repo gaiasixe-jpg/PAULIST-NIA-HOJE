@@ -3,6 +3,46 @@
 "itens": [
 {
 "d": "2026-11-19",
+"h": "20:30",
+"t": "Revitalização de cinco das principais avenidas de Santos começa pela orla",
+"p": "Diego Matos/Divulgação Prefeitura de Santos O projeto da Prefeitura de Santos para revitalização dos principais eixos de circulação de veículos da área insular começa na segunda.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/revitalizacao-de-cinco-das-principais-avenidas-de-santos-comeca-pela-orla/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "20:19",
+"t": "Secretário de Recursos Humanos é exonerado na Prefeitura de Fernandópolis",
+"p": "O contador e especialista no setor previdenciário Aristofanes Okiama, mais conhecido como Ari Okiama, foi exonerado do cargo de secretário municipal de Recursos Humanos da Prefeitura de Fernandópolis. Ele permanecerá à frente da pasta até o final deste mês de novembro, quando o prefeito João Paulo Cantarella (PL)…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/secretario-de-recursos-humanos-e-exonerado-na-prefeitura-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "20:15",
+"t": "Brasileiros podem morar legalmente em 8 países por até 2 anos sem cidadania europeia, sem precisar apresentar contrato de trabalho ou matrícula em faculdade",
+"p": "Mudar de país em busca de novas oportunidades profissionais, estudar no exterior ou simplesmente experimentar uma cultura diferente é um desejo de muitos brasileiros. O que pouca gente sabe é que existe um acordo internacional que facilita esse processo e permite que cidadãos do Brasil morem legalmente em…",
+"tema": "Geral",
+"s": "obra",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/brasileiros-podem-morar-legalmente-em-8-paises-por-ate-2-anos-sem-cidadania-europeia-sem-precisar-apresentar-contrato-de-trabalho-ou-matricula-em-faculdade/",
+"auto": true
+},
+{
+"d": "2026-11-19",
 "h": "19:34",
 "t": "Suspeito de usar arma para ameaçar trabalhadores após desentendimento é preso em Itaquaquecetuba",
 "p": "Vítimas relataram à Polícia Militar que a discussão começou após a manobra de um caminhão danificar uma estrutura de madeira em frente à residência do homem",
@@ -65,6 +105,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/confira-o-que-abre-e-fecha-em-votuporanga-no-feriado-do-dia-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "19:19",
+"t": "Show do Deep Purple em São Paulo é adiado por problemas de saúde de Ian Gillan",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369805/show-do-deep-purple-em-sao-paulo-e-adiado-por-problemas-de-saude-de-ian-gillan",
 "auto": true
 },
 {
@@ -162,6 +216,18 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/motociclista-invade-pista-contraria-e-sofre-grave-acidente-em-mirassol/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "19:00",
+"t": "Justiça derruba liminar e libera licitação de R$ 4,9 milhões do Senado para contratar celulares como o iPhone 18 Pro aos parlamentares",
+"p": "A presidente do Tribunal Regional Federal da 1ª Região (TRF-1), desembargadora federal Maria do Carmo Cardoso, derrubou nesta quinta-feira (19) a decisão liminar que havia suspendido a licitação do Senado Federal para a contratação de serviços de telefonia e o fornecimento de celulares, incluindo iPhones, para…",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/justica-derruba-liminar-e-libera-licitacao-de-r-49-milhoes-do-senado-para-contratar-celulares-como-o-iphone-18-pro-aos-parlamentares/",
 "auto": true
 },
 {
