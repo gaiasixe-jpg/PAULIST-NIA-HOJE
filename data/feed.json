@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-19T07:19:42-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-19T09:06:31-03:00",
+"novos_nesta_coleta": 35,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,6 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
+"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -46,13 +47,377 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-19",
+"h": "09:00",
+"t": "Justiça de Jales condena homem a regime fechado por arrombar casa da tia e furtar roupas de grife em Santa Albertina",
+"p": "A 2ª Vara Criminal da Comarca de Jales condenou Evandro Aparecido Garcia à pena de três anos de reclusão, em regime inicial fechado, além do pagamento de 15 dias-multa, pelo crime de furto qualificado pelo rompimento de obstáculo. Na mesma sentença, assinada pelo juiz Fabrício Augusto Dias nesta terça-feira (17), o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santa Albertina",
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-jales-condena-homem-a-regime-fechado-por-arrombar-casa-da-tia-e-furtar-roupas-de-grife-em-santa-albertina/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:58",
+"t": "Polícia descobre central clandestina com chips falsificados usados em golpes em Santa Isabel",
+"p": "Um homem, apontado como responsável pelo local, foi preso durante a operação; estrutura contava com milhares de chips e 700 mini modems 4G, segundo a polícia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santa Isabel"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/policia-descobre-central-clandestina-com-chips-falsificados-usados-em-golpes-em-santa-isabel/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:57",
+"t": "Prefeitura de Sorocaba oferece gratuitamente sorvete a passageiros do transporte coletivo",
+"p": "Fotos: Michelle Alves/Secom A Prefeitura de Sorocaba está disponibilizando, desde quarta-feira (18), sempre das 12h às 14h, sorvete gratuito aos usuários da Linha 101 (Rodoviária/Praça Nove de Julho) do transporte coletivo, no Ônibus Cremosão. A ação foi viabilizada em parceria com a iniciativa privada, por meio de…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-oferece-gratuitamente-sorvete-a-passageiros-do-transporte-coletivo/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:56",
+"t": "Justiça de Jales condena jovem por desviar R$ 12,2 mil de cartões da própria avó para apostar em cassinos virtuais",
+"p": "A 2ª Vara Criminal da Comarca de Jales condenou Lucas Eduardo Modolo Ventramelli à pena de três anos e quatro meses de reclusão, em regime inicial aberto, além do pagamento de 16 dias-multa e indenização mínima de R$ 12.279,35 à vítima, pelo crime de furto qualificado mediante fraude em continuidade delitiva. A…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-jales-condena-jovem-por-desviar-r-122-mil-de-cartoes-da-propria-avo-para-apostar-em-cassinos-virtuais/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:54",
+"t": "Justiça de Paulo de Faria condena homem a regime semiaberto por furto de peças de irrigação avaliadas em R$ 18,4 mil",
+"p": "A Vara Única da Comarca de Paulo de Faria condenou Ailton da Cruz Menezes à pena de dois anos e quatro meses de reclusão, em regime inicial semiaberto, além do pagamento de 11 dias-multa, pelo crime de furto qualificado mediante concurso de pessoas. A sentença, assinada pelo juiz Luan Casagrande e disponibilizada…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Paulo de Faria"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-paulo-de-faria-condena-homem-a-regime-semiaberto-por-furto-de-pecas-de-irrigacao-avaliadas-em-r-184-mil/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:51",
+"t": "Justiça de Rio Preto condena homem por furto de celular na Vila Imperial",
+"p": "A 4ª Vara Criminal da Comarca de São José do Rio Preto condenou Igor Emanuel de Paiva à pena de um ano de reclusão, em regime inicial aberto, e ao pagamento de 10 dias-multa pelo crime de furto simples. A sentença, assinada pelo juiz Lucas Eduardo Steinle Camargo e disponibilizada nesta segunda-feira (16),…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-por-furto-de-celular-na-vila-imperial/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:51",
+"t": "Idoso é preso por posse ilegal de arma após ser flagrado com objetos furtados de barcaça em Aparecida d’Oeste",
+"p": "Um homem de 66 anos foi preso pela Polícia Militar em Aparecida d’Oeste após os agentes localizarem uma espingarda irregular e materiais furtados em sua residência. A ocorrência teve início quando a equipe foi acionada via telefone 190 para atender a um relato de furto registrado na área de lazer do município, na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Aparecida d'Oeste",
+"Aparecida"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/idoso-e-preso-por-posse-ilegal-de-arma-apos-ser-flagrado-com-objetos-furtados-de-barcaca-em-aparecida-doeste/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:50",
+"t": "Justiça de Rio Preto condena homem a prestação de serviços por tentativa de furto de carro com chave micha",
+"p": "A 1ª Vara Criminal da Comarca de São José do Rio Preto condenou Alex Dias Oliveira à pena de um ano de reclusão, em regime inicial aberto, e ao pagamento de cinco dias-multa por tentativa de furto qualificado pelo emprego de chave falsa. A decisão, proferida pela juíza Luciana Cassiano Zamperlini Cochito nesta…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-a-prestacao-de-servicos-por-tentativa-de-furto-de-carro-com-chave-micha/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:48",
+"t": "Justiça de Mirassol condena tatuador por furto noturno de TV e objetos em residência",
+"p": "A 2ª Vara da Comarca de Mirassol condenou o tatuador Dhiego Rodrigues Gonzales a um ano e quatro meses de reclusão, em regime inicial aberto, além do pagamento de 13 dias-multa e indenização mínima de um salário mínimo à vítima, pelo crime de furto praticado durante o repouso noturno. A sentença, assinada pelo juiz…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mirassol"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-mirassol-condena-tatuador-por-furto-noturno-de-tv-e-objetos-em-residencia/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:46",
+"t": "Justiça de Rio Preto condena homem por receptação de carro furtado em Adolfo",
+"p": "A 1ª Vara Criminal da Comarca de São José do Rio Preto condenou Henrique Nivaldo Martins da Silva à pena de um ano e dois meses de reclusão, em regime inicial semiaberto, além do pagamento de 11 dias-multa, pelo crime de receptação. A sentença, proferida em audiência virtual pela juíza Luciana Cassiano Zamperlini…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Adolfo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-por-receptacao-de-carro-furtado-em-adolfo/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:43",
+"t": "Yahoo Mail reduz espaço gratuito para 15 GB no Brasil e avisa que contas deixarão de enviar e receber novos e-mails assim que a caixa de entrada lotar",
+"p": "Print de tela mostrando a mudança no armazenamento do serviço, que ainda tem muitos usuários no país. O Yahoo Mail reduziu o armazenamento gratuito para 15 GB e, ao atingir o limite, a conta deixa de enviar e receber e-mails. As mensagens devolvidas no período não chegam, mesmo após a liberação de espaço.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/yahoo-mail-reduz-espaco-gratuito-para-15-gb-no-brasil-e-avisa-que-contas-deixarao-de-enviar-e-receber-novos-e-mails-assim-que-a-caixa-de-entrada-lotar/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:35",
+"t": "Em sua 55ª edição, e pouco após completar cinco anos de existência, Mutirão de Empregos chega ao Shopping Cidade Sorocaba.",
+"p": "Em 2021, o Mutirão de Empregos foi lançado pela Prefeitura de Sorocaba para facilitar o contato entre as pessoas em busca de uma oportunidade de trabalho e as empresas que necessitavam completar seus quadros profissionais. Cinco anos depois, o evento chega à sua 55ª edição, de casa nova, para facilitar ainda mais o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/em-sua-55a-edicao-e-pouco-apos-completar-cinco-anos-de-existencia-mutirao-de-empregos-chega-ao-shopping-cidade-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:26",
+"t": "Entenda por que prefeito de Aparecida, Zé Louquinho, foi afastado do cargo",
+"p": "Zé Louquinho (PL) foi afastado nessa quarta-feira (18/11) do cargo de prefeito de Aparecida por determinação da Justiça de São Paulo",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Aparecida",
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/entenda-por-que-prefeito-de-aparecida-ze-louquinho-foi-afastado-do-cargo",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:22",
+"t": "SP lidera ranking histórico da Mega da Virada e tem 33 apostas que já conquistaram prêmio milionário",
+"p": "São Paulo é o Estado com mais apostas vencedoras da Mega da Virada desde a criação do concurso especial, em 2009. Ao longo das edições, diferentes municípios paulistas já tiveram jogos que acertaram as seis dezenas e dividiram o prêmio milionário. A capital paulista aparece como o principal destaque. Segundo…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sp-lidera-ranking-historico-da-mega-da-virada-e-tem-33-apostas-que-ja-conquistaram-premio-milionario/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:19",
+"t": "Passageira de carro morre ao ser atingida por peça de caminhão na Dutra",
+"p": "Segundo a Polícia Rodoviária Federal, mulher de 34 anos foi atingida por uma lona de freio de um caminhão. O acidente aconteceu no interior",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/passageira-de-carro-morre-ao-ser-atingida-por-peca-de-caminhao-na-dutra",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:05",
+"t": "Concurso do São Sebastião Prev terá provas neste domingo (22) em quatro escolas",
+"p": "Provas serão aplicadas em quatro escolas municipais e estaduais, com horários divididos entre manhã e tarde, conforme o cargo",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saosebastiao/concurso-do-sao-sebastiao-prev-tera-provas-neste-domingo-22-em-quatro-escolas.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:02",
+"t": "Obras do Anel Viário de Fernandópolis começam com instalação de placa e preparação de canteiro",
+"p": "A empresa vencedora da licitação já deu início aos primeiros trabalhos para a construção do Anel Viário de Fernandópolis. A placa indicativa da obra já foi afixada no local, marcando a etapa inicial após a emissão da ordem de serviço no fim de outubro de 2026, que autorizou a mobilização assim que encerradas as…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/obras-do-anel-viario-de-fernandopolis-comecam-com-instalacao-de-placa-e-preparacao-de-canteiro/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:00",
+"t": "Véspera de feriado tem calor de 32°C, pancadas de chuva e trovoadas em São Paulo",
+"p": "A previsão do tempo em São Paulo nesta quinta-feira (19/11) indica um dia de calor, com máxima de 32°C e possibilidade de pancadas de chuva acompanhadas de trovoadas. Segundo a previsão, os termômetros devem registrar mínima de 19°C. O sol aparece entre nuvens, mas a chuva pode ocorrer em diferentes períodos do…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/vespera-de-feriado-tem-calor-de-32c-pancadas-de-chuva-e-trovoadas-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:00",
+"t": "Campinas tem alerta da Defesa Civil para temporais nesta quinta-feira; veja previsão completa",
+"p": "Combinação de calor e umidade favorece a formação de nuvens carregadas; região está entre as áreas do estado com previsão dos maiores volumes de chuva",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-alerta-da-defesa-civil-para-temporais-nesta-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:00",
+"t": "Consciência Negra: veja o que abre e fecha em Campinas no feriado",
+"p": "Feriado da Consciência Negra altera o funcionamento de órgãos e serviços da Prefeitura, com alguns atendimentos suspensos e outros mantidos em esquema especial",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/consciencia-negra-veja-o-que-abre-e-fecha-em-campinas-no-feriado/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:00",
+"t": "Região de Campinas receberá 57 doses da vacina contra a mpox; veja quem pode se vacinar",
+"p": "Governo de São Paulo recebeu mil novas doses do Ministério da Saúde; distribuição aos grupos de Vigilância Epidemiológica começa na segunda-feira (23)",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/saude/regiao-de-campinas-recebera-57-doses-da-vacina-contra-a-mpox-veja-quem-pode-se-vacinar/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "07:55",
+"t": "Homem é preso suspeito de agredir a mãe e a irmã em Rinópolis",
+"p": "Um homem, de 36 anos, foi preso suspeito de agredir a irmã, de 24 anos, e na mãe, de 59, em Rinópolis (SP), na madrugada de terça-feira (17). Conforme a Polícia Civil, o suspeito já apresentava comportamento agressivo e alterado, e começou a fazer ofensas verbais às vítimas. Durante a discussão, o homem passou a […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Rinópolis"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/homem-e-preso-suspeito-de-agredir-a-mae-e-a-irma-em-rinopolis/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "07:53",
+"t": "Investigação aponta que rompimentos em propriedades rurais contribuíram para lama em represa de Martinópolis",
+"p": "Uma investigação conduzida por órgãos ambientais e técnicos identificou o rompimento de estruturas de contenção e o transporte de solo em três propriedades rurais localizadas na divisa entre Martinópolis e Rancharia (SP), fatores que podem ter agravado o assoreamento da Represa Laranja Doce. Nesta quarta-feira…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Martinópolis",
+"Rancharia"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/investigacao-aponta-que-rompimentos-em-propriedades-rurais-contribuiram-para-lama-em-represa-de-martinopolis/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "07:48",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta quinta (19)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-quinta-19.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "07:36",
+"t": "Diante da previsão de El Niño, Mongaguá capacita agentes e reforça ações preventivas contra chuvas intensas",
+"p": "A Prefeitura de Mongaguá intensificou as ações preventivas e operacionais para enfrentar o pico de um El Niño de intensidade muito forte entre esta primavera e o verão. Durante os dias 12 e 13 de novembro, o gestor da Defesa Civil Municipal, Coronel PM Argeo Rodrigues, e o engenheiro Marcelo Castela participaram de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/diante-da-previsao-de-el-nino-mongagua-capacita-agentes-e-reforca-acoes-preventivas-contra-chuvas-intensas/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "07:02",
+"t": "Mega-Sena sorteia prêmio de R$ 40 milhões nesta quinta-feira",
+"p": "A Mega-Sena sorteia nesta quinta-feira (19) prêmio estimado em R$ 40 milhões. As seis dezenas do concurso 3.088 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) em casas lotéricas credenciadas pela Caixa em todo o…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-40-milhoes-nesta-quinta-feira",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "07:00",
@@ -54570,353 +54935,6 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/vale-do-paraiba-tem-280-vagas-em-cursos-profissionalizantes-do-trampolim/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:18",
-"t": "São José do Rio Preto tem 270 vagas em cursos profissionalizantes do Trampolim",
-"p": "A Secretaria de Desenvolvimento Econômico do Estado de São Paulo (SDE) prorrogou as inscrições para 270 vagas em cursos profissionalizantes gratuitos do programa Qualifica SP, disponíveis na plataforma Trampolim. São oportunidades presenciais na região de São José do Rio Preto, voltadas tanto para quem busca o…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/sao-jose-do-rio-preto-tem-270-vagas-em-cursos-profissionalizantes-do-trampolim/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:18",
-"t": "Time São Paulo Paralímpico completa 15 anos como referência mundial de inclusão e alta performance",
-"p": "O Time São Paulo Paralímpico comemora 15 anos de história nesta quarta-feira (4). Criado em 4 de novembro de 2011 pelo Governo do Estado de São Paulo, por meio da Secretaria de Estado dos Direitos da Pessoa com Deficiência (SEDPcD), em parceria estratégica com o Comitê Paralímpico Brasileiro (CPB), o programa…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/time-sao-paulo-paralimpico-completa-15-anos-como-referencia-mundial-de-inclusao-e-alta-performance/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:18",
-"t": "Governo de SP recupera 52 mil celulares e veículos roubados ou furtados entre janeiro e setembro",
-"p": "O Goveno de São Paulo, por meio Secretaria da Segurança Pública (SSP) de São Paulo, recuperou 52 mil celulares e veículos roubados ou furtados no estado entre janeiro e setembro de 2026. Do total, foram 20,8 mil aparelhos celulares e 31,2 mil veículos. Entre as ações voltadas à recuperação de celulares está o…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/governo-de-sp-recupera-52-mil-celulares-e-veiculos-roubados-ou-furtados-entre-janeiro-e-setembro/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:17",
-"t": "Derrota de Trump pode frear política de intervenções na América Latina",
-"p": "A derrota histórica do presidente Donald Trump nos Estados Unidos (EUA), que levou os republicanos a perderem maioria na Câmara e no Senado , pode contribuir para frear a política de intervenções da Casa Branca na América Latina, além de incentivar Washington a chegar a um acordo com o Brasil no caso das tarifas…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Casa Branca"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/derrota-de-trump-pode-frear-politica-de-intervencoes-na-america-latina",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:16",
-"t": "\"Fiscalização continua\", diz Nunes sobre desvios em 700 imóveis de HIS",
-"p": "Prefeito de São Paulo, Ricardo Nunes destacou que fiscalização sobre imóveis de Habitação de Interesse Social (HIS) deve continuar",
-"tema": "Habitação",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/fiscalizacao-continua-diz-nunes-sobre-desvios-em-700-imoveis-de-his",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:03",
-"t": "Operação mira esquema de golpe do “falso leilão” e prende 2 suspeitos em SP",
-"p": "Segundo a polícia, uma organização utilizava perfis falsos em aplicativos de mensagens e técnicas para enganar dezenas de vítimas pelo país",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/operacao-mira-esquema-de-golpe-do-falso-leilao-e-prende-2-suspeitos-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:00",
-"t": "Ex-apresentadora do TV Fama, Janaína Barbosa morre aos 48 anos; Otávio Mesquita confirma a notícia e lamenta a perda",
-"p": "A atriz e ex-apresentadora Janaína Barbosa morreu nesta terça-feira (3/11), aos 48 anos. Conhecida por comandar o programa TV Fama, da RedeTV!, ao lado de Nelson Rubens, ela ganhou destaque na televisão brasileira nos anos 2000. A morte foi confirmada pelo apresentador Otávio Mesquita, com quem foi casada. A causa…",
-"tema": "Geral",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/ex-apresentadora-do-tv-fama-janaina-barbosa-morre-aos-48-anos-otavio-mesquita-confirma-a-noticia-e-lamenta-a-perda/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:56",
-"t": "Sócios são encontrados mortos em caçamba de caminhonete em Itapeva; polícia investiga o caso",
-"p": "Dois homens foram encontrados mortos em uma caminhonete, em Itapeva (SP), na noite de terça-feira (4). O caso está sob investigação da Polícia Civil. Segundo a Polícia Militar, as vítimas são João Batista Nunes Neto, de 47 anos, e Heleno Benedito Ferreira, de 48. Eles eram sócios e moravam em Taquarituba (SP). As…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Taquarituba",
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/socios-encontrados-mortos/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:53",
-"t": "Governo estuda criar órgão de \"conciliação\" para conflitos em concessões",
-"p": "Câmara com agências reguladoras e Procuradoria Geral do Estado (PGE) teria objetivo de padronizar procedimentos de remodelação contratual",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/governo-estuda-criar-orgao-de-conciliacao-para-conflitos-em-concessoes",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:53",
-"t": "Quem é James Talarico, democrata que conquistou vitória histórica no Texas após 38 anos de republicanos",
-"p": "O democrata James Talarico, de 37 anos, conquistou uma vitória histórica nas eleições de meio de mandato dos Estados Unidos de 2026. Ex-professor da rede pública e seminarista presbiteriano, ele venceu a disputa por uma cadeira no Senado pelo Texas, encerrando um período de 38 anos sem que o estado elegesse um…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/quem-e-james-talarico-democrata-que-conquistou-vitoria-historica-no-texas-apos-38-anos-de-republicanos/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:48",
-"t": "Descobriram uma área onde acendiam fogo há 9.000 anos, perto do lago de água doce de 90 milhões de m³, hoje os turistas passam de barco todos os dias",
-"p": "Uma área de fogueiras acesas por humanos pré-históricos há cerca de 9.000 anos foi identificada na margem de um lago de água doce que guarda aproximadamente 90 milhões de metros cúbicos de volume e que, nos dias atuais, é atravessado todos os dias por barcos de turistas no norte do Vietnã. O achado se soma […]",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/turismo/descobriram-uma-area-onde-acendiam-fogo-ha-9-000-anos-perto-do-lago-de-agua-doce-de-90-milhoes-de-m%c2%b3-hoje-os-turistas-passam-de-barco-todos-os-dias/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:45",
-"t": "Veículo cai em ribanceira e GCM auxilia no resgate de vítima no Jardim Carandá",
-"p": "A Guarda Civil Municipal (GCM) de Sorocaba resgatou um homem de 46 anos de idade, após acidente de trânsito à 0h30 desta quarta-feira (4), no Jardim Carandá, Zona Norte da cidade. O veículo despencou em ribanceira de aproximadamente 15 metros de altura, após o condutor perder o controle da direção. A operação se…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/veiculo-cai-em-ribanceira-e-gcm-auxilia-no-resgate-de-vitima-no-jardim-caranda/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:45",
-"t": "Sem aceitar transfusão de sangue, paciente com câncer consegue na Justiça o direito a um transplante que não existe no SUS",
-"p": "Uma paciente com câncer vai passar por um transplante de médula óssea com uma técnica que não existe no Sistema Único de Saúde (SUS). Por motivos religiosos, a mulher não pode aceitar transfusão de sangue. O procedimento será garantido pelo governo de São Paulo após uma determinação judicial divulgada na…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/sem-aceitar-transfusao-de-sangue-paciente-com-cancer-consegue-na-justica-o-direito-a-um-transplante-que-nao-existe-no-sus/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:39",
-"t": "Anfíbio de 237 milhões de anos desafia a regra que nenhum sapo, rã ou salamandra consegue quebrar hoje",
-"p": "O Gerrothorax maritimus viveu há 237 milhões de anos e pode ter sido o primeiro anfíbio a passar toda a vida no mar. Fósseis achados em Guizhou, na China, mostram armadura óssea, brânquias e estrôncio de água salgada. O estudo está na Nature Ecology & Evolution.",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/anfibio-de-237-milhoes-de-anos-desafia-a-regra-que-nenhum-sapo-ra-ou-salamandra-consegue-quebrar-hoje/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:33",
-"t": "Dani Alonso e Capitão Augusto acompanham avanço das Casas Terapêuticas em Marília",
-"p": "Conquista do serviço voltado a pessoas com vício em álcool e drogas atende pedido do vereador Damasceno, levado pelos parlamentares.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/dani-alonso-e-capitao-augusto-acompanham-avanco-das-casas-terapeuticas-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:32",
-"t": "Espetáculo “Hilda e Caio” é destaque na programação do 1º Festival Nacional de Teatro de Fernandópolis",
-"p": "O Teatro Municipal de Fernandópolis recebe no próximo dia 20 de novembro, às 20h, a apresentação do espetáculo “Hilda e Caio”, uma das atrações mais aguardadas da programação do 1º Festival Nacional de Teatro da cidade. Dirigido e escrito pelo premiado dramaturgo Kiko Rieser, a montagem traz no elenco os atores…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/espetaculo-hilda-e-caio-e-destaque-na-programacao-do-1o-festival-nacional-de-teatro-de-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:31",
-"t": "Jales é finalista do Prêmio Band Cidades Excelentes na categoria Educação",
-"p": "O município de Jales conquistou a indicação como finalista do Prêmio Band Cidades Excelentes 2026 na categoria Educação, entre as cidades com população de 30 mil a 100 mil habitantes. O convite oficial para a cerimônia de entrega da premiação foi formalizado à administração municipal pela representante da Band TV…",
-"tema": "Educação",
-"s": "entregue",
-"c": [
-"Jales"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/jales-e-finalista-do-premio-band-cidades-excelentes-na-categoria-educacao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:31",
-"t": "Seca revela ruínas de vila que ficou mais de 60 anos debaixo d’água na Europa; igreja medieval escapou por pouco",
-"p": "Uma seca na República Tcheca, país da Europa Central, fez reaparecer vestígios de uma aldeia que desapareceu sob as águas de uma represa em 1960. O recuo do reservatório revelou partes de antigas construções e trouxe de volta uma história que parecia escondida para sempre. As ruínas pertencem à antiga aldeia de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/seca-revela-ruinas-de-vila-que-ficou-mais-de-60-anos-debaixo-dagua-na-europa-igreja-medieval-escapou-por-pouco-nn/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:30",
-"t": "Prefeitura de Ouroeste promove seminário gratuito para valorizar e capacitar artesãos locais e regionais",
-"p": "O Governo Municipal de Ouroeste, por meio da Secretaria Municipal de Cultura, realiza na próxima terça-feira, 10 de novembro, o seminário “O Ouro da Terra: como valorizar as produções artesanais locais”. O evento é gratuito e voltado para artesãos de Ouroeste, do distrito de Arabá e de demais municípios da região…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ouroeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-promove-seminario-gratuito-para-valorizar-e-capacitar-artesaos-locais-e-regionais/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:29",
-"t": "São João das Duas Pontes abre programação do “Natal Encantado 2026” na Praça da Matriz",
-"p": "A Prefeitura de São João das Duas Pontes prepara o lançamento do projeto “Natal Encantado 2026”, que promete movimentar o centro do município durante as festividades do final de ano. As celebrações terão início oficial no dia 20 de novembro com o acendimento das luzes natalinas na Praça da Matriz, marcando a…",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"São João das Duas Pontes"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/sao-joao-das-duas-pontes-abre-programacao-do-natal-encantado-2026-na-praca-da-matriz/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:25",
-"t": "Vereador quer calendário anual e multas para organizadores de corridas de rua",
-"p": "Proposta estabelece período de inscrição, exige alvará e prevê penalidades para cancelamentos de última hora e eventos sem autorização",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/vereador-quer-calendario-anual-e-multas-para-organizadores-de-corridas-de-rua/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:19",
-"t": "Boliviana é presa com drogas em fundo falso de malas em Palmital",
-"p": "Entorpecentes foram encontrados em mala de boliviana em Palmital Policiais encontraram drogas após abordagem de um ônibus que seguia de Puerto Suárez, na Bolívia, para o Rio de Janeiro.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Palmital"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/boliviana-e-presa-com-drogas-em-fundo-falso-de-malas-em-palmital/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:19",
-"t": "Passageira fica ferida após caminhão furar sinal e bater em ônibus em Ribeirão Preto; vídeo",
-"p": "Passageira foi levada para a UPA Leste após o impacto e já teve alta; motorista do caminhão fugiu sem prestar socorro",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/passageira-fica-ferida-apos-caminhao-furar-sinal-e-bater-em-onibus-em-ribeirao-preto-video/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:17",
-"t": "Hopi Pride 2027 abre venda de ingressos para edição especial de 10 anos; veja valores",
-"p": "Edição comemorativa do Hopi Pride será realizada em 24 de abril, com 12 horas de programação; ingressos do primeiro lote à venda a partir desta quarta-feira (4)",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/hopi-pride-2027-abre-venda-de-ingressos-para-edicao-especial-de-10-anos-veja-valores/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:15",
-"t": "Receita Federal cumpre mandados no Alphaville em operações contra sonegação",
-"p": "Operações apuram uso de empresas de fachada para sonegar impostos e lavar dinheiro na comercialização de sebo e gordura de origem animal",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/receita-federal-cumpre-mandados-no-alphaville-em-operacoes-contra-sonegacao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "12:00",
-"t": "Interior de São Paulo registra queda expressiva em roubos e furtos no mês de setembro",
-"p": "Os índices de criminalidade no interior paulista apresentaram uma redução significativa durante o mês de setembro, quando comparados ao mesmo período do ano passado. Dados consolidados pela Secretaria da Segurança Pública do Estado de São Paulo (SSP-SP) apontam uma queda de 22,6% nos roubos em geral, com o total de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/interior-de-sao-paulo-registra-queda-expressiva-em-roubos-e-furtos-no-mes-de-setembro/",
 "auto": true
 }
 ]
