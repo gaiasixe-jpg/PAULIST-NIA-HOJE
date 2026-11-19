@@ -1,26 +1,21 @@
 {
-"atualizado": "2026-11-19T03:13:47-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-19T04:30:05-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -33,11 +28,23 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -45,8 +52,16 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
