@@ -3,6 +3,291 @@
 "itens": [
 {
 "d": "2026-11-19",
+"h": "13:02",
+"t": "14 livros para quem busca boas histórias e leituras marcantes",
+"p": "Seja por meio de romances envolventes, relatos baseados em fatos, reflexões sobre comportamento ou narrativas repletas de aventura, os livros oportunizam novas formas de enxergar o mundo e as pessoas. Pensando nisso, selecionamos obras de ficção e não ficção para apresentar histórias de superação, pertencimento,…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/14-livros-para-quem-busca-boas-historias-e-leituras-marcantes/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "13:00",
+"t": "Nova fábrica bilionária da BYD coloca São Paulo, Minas Gerais e Rio de Janeiro na disputa pela produção de ônibus, caminhões e vans elétricas",
+"p": "A montadora chinesa BYD prepara uma nova fábrica de veículos comerciais elétricos no Brasil, e três estados disputam a instalação da unidade: São Paulo, Minas Gerais e Rio de Janeiro. O empreendimento deverá ampliar a produção nacional de ônibus, caminhões e vans elétricas. A escolha do local ainda não foi…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/automotor/nova-fabrica-bilionaria-da-byd-coloca-sao-paulo-minas-gerais-e-rio-de-janeiro-na-disputa-pela-producao-de-onibus-caminhoes-e-vans-eletricas/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "13:00",
+"t": "Ônibus Azul oferece café da manhã em ação de conscientização sobre a prevenção do câncer de próstata",
+"p": "Fotos: SES A Prefeitura de Sorocaba, por meio do Ônibus Azul, vinculado à Secretaria da Saúde (SES) realizou, na manhã de quarta-feira (18), uma ação de conscientização sobre a prevenção ao câncer de próstata e a importância do exame após os 40 anos como forma de descobrir a doença ainda na fase inicial. A ação […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/onibus-azul-oferece-cafe-da-manha-em-acao-de-conscientizacao-sobre-a-prevencao-do-cancer-de-prostata/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:54",
+"t": "Governo de SP abre inscrições para curso online e gratuito de Libras com início em 23 de novembro",
+"p": "A Secretaria de Estado dos Direitos da Pessoa com Deficiência (SEDPcD), por meio da Escola da Inclusão, está com inscrições abertas para uma nova turma do Curso Básico de Libras, totalmente gratuito e realizado em ambiente virtual. Nesta etapa, os encontros acontecem às segundas, quartas e sextas-feiras, das 19h às…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-abre-inscricoes-para-curso-online-e-gratuito-de-libras-com-inicio-em-23-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:51",
+"t": "Árvore cai sobre van e deixa casal ferido em rodovia no interior de SP; Vídeo",
+"p": "Árvore caiu sobre van nesta quinta (19), na rodovia Cândido Portinari, em Pedregulho; Vítimas foram socorridas",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Pedregulho"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/arvore-cai-sobre-van-e-deixa-casal-ferido-em-rodovia-no-interior-de-sp-video/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:50",
+"t": "INSS muda regras do auxílio-doença em 2026 e falta à perícia pode encerrar pedido sem análise médica sobre o problema de saúde",
+"p": "Quem depende do auxílio-doença precisa ficar atento às convocações do INSS, pois faltar à perícia pode impedir a análise do benefício solicitado",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/inss-muda-regras-do-auxilio-doenca-em-2026-e-falta-a-pericia-pode-encerrar-pedido-sem-consulta-medica-sobre-o-problema-de-saude/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:49",
+"t": "SP: Tarcísio mantém mais três secretários para próximo mandato",
+"p": "Dos 19 nomes anunciados pelo governador de São Paulo Tarcísio de Freitas (Republicanos), 12 já faziam parte da gestão dele",
+"tema": "Política",
+"s": "anunciado",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sp-tarcisio-mantem-mais-tres-secretarios-para-proximo-mandato",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:45",
+"t": "Quadro de Van Gogh é vendido por R$ 1,12 bilhão em leilão nos EUA, bate recorde do artista e entra para a lista das obras mais caras da história",
+"p": "Uma pintura de Vincent van Gogh foi arrematada por US$ 190,4 milhões, aproximadamente R$ 1,12 bilhão, em um leilão realizado pela Sotheby’s, em Nova York, nos Estados Unidos. O resultado estabeleceu um novo recorde de venda em leilão para uma obra do artista holandês, além de colocar a tela entre as peças mais…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/quadro-de-van-gogh-e-vendido-por-r-112-bilhao-em-leilao-nos-eua-bate-recorde-do-artista-e-entra-para-a-lista-das-obras-mais-caras-da-historia/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:45",
+"t": "Campos do Jordão celebra Dia da Bandeira com solenidade cívica e resgate de tradição na Praça da Bandeira",
+"p": "Cerimônia reuniu autoridades municipais, estudantes e a Guarda Civil Municipal para o hasteamento das bandeiras e a incineração solene de um exemplar inservível da Bandeira Nacional. Prefeito Caê destacou a retomada de uma tradição que permaneceu interrompida por mais de duas décadas. A Praça da Bandeira, em Vila…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/campos-do-jordao-celebra-dia-da-bandeira-com-solenidade-civica-e-resgate-de-tradicao-na-praca-da-bandeira.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:44",
+"t": "Prefeitura de SP planeja megashow internacional gratuito na Av. Paulista antes do carnaval",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369721/prefeitura-de-sp-planeja-megashow-internacional-gratuito-na-av-paulista-antes-do-carnaval",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:32",
+"t": "Carro pega fogo após pane elétrica em frente a UBS de São Bernardo",
+"p": "Motorista foi socorrido por populares e ficou levemente ferido",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369716/carro-pega-fogo-apos-pane-eletrica-em-frente-a-ubs-de-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:30",
+"t": "Lula promete manter direitos e diz que controle fiscal é prioridade",
+"p": "O presidente da República, Luiz Inácio Lula da Silva, declarou, nesta quinta-feira (19), que não haverá retrocesso nos direitos sociais durante seu governo. Ao participar, no Palácio do Planalto, em Brasília, da cerimônia de assinatura do decreto que regulamenta a jornada de trabalho 5x2, Lula criticou o que…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Planalto"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-promete-manter-direitos-e-diz-que-controle-fiscal-e-prioridade",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "12:30",
+"t": "Resgatado à beira de rodovia no litoral de SP, bicho-preguiça passa um mês em recuperação e ganha nova chance na natureza",
+"p": "Uma bicho-preguiça ganhou uma nova chance de viver em seu habitat natural após passar cerca de um mês em recuperação. Resgatada às margens da Rodovia Padre Manoel da Nóbrega (SP-055), em Pedro de Toledo, a fêmea foi reintroduzida na natureza em Peruíbe, no litoral de São Paulo. A soltura ocorreu depois que o animal…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Pedro de Toledo",
+"São Paulo",
+"Peruíbe"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/resgatado-a-beira-de-rodovia-no-litoral-de-sp-bicho-preguica-passa-um-mes-em-recuperacao-e-ganha-nova-chance-na-natureza/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:26",
+"t": "Confira as atrações culturais gratuitas da Feira Crespa 2026 nesta sexta-feira (20)",
+"p": "A Feira Crespa 2026 levará uma série de atrações culturais, nesta sexta-feira (20), ao Parque das Águas, localizado no Jardim Abaeté. Com início às 13h, o evento, já tradicional na cidade, celebrará o Dia da Consciência Negra (20 de novembro), com uma programação diversificada, que incluirá ainda comidas típicas e…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/confira-as-atracoes-culturais-gratuitas-da-feira-crespa-2026-nesta-sexta-feira-20/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:22",
+"t": "Moradores reclamam de falta de água há mais de uma semana em Ribeirão Preto",
+"p": "Saerp informa que realiza monitoramento na região e disponibiliza caminhões-pipa; moradores reclamam de falta de água",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/moradores-reclamam-de-falta-de-agua-ha-mais-de-uma-semana-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:21",
+"t": "Arujá oferece 302 vagas de emprego; veja como se candidatar",
+"p": "Programa conta com oportunidades exclusivas ou elegíveis para Pessoas com Deficiência (PCD)",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Arujá"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/aruja-oferece-302-vagas-de-emprego-veja-como-se-candidatar/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:19",
+"t": "Câmara de Mogi aprova projeto que autoriza prorrogar a concessão do terminal Geraldo Scavone por até 7 anos e 4 meses",
+"p": "Além da possibilidade de estender o contrato de concessão, texto aprovado também prevê a utilização de uma área no entorno do terminal para viabilizar as obras de revitalização",
+"tema": "Contas públicas",
+"s": "obra",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/camara-de-mogi-aprova-projeto-que-autoriza-prorrogar-a-concessao-do-terminal-geraldo-scavone-por-ate-7-anos-e-4-meses/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:19",
+"t": "Jales ganha iluminação especial e anuncia programação do Natal Tempo de Esperança 2026",
+"p": "O espírito natalino já começa a transformar a paisagem urbana de Jales com os preparativos para o Natal Tempo de Esperança 2026. Ruas, avenidas e praças do município receberam enfeites temáticos e iluminação especial, criando cenários festivos para moradores e visitantes celebrarem o fim de ano. A ornamentação já…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jales-ganha-iluminacao-especial-e-anuncia-programacao-do-natal-tempo-de-esperanca-2026/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:17",
+"t": "A arte não cura tudo. Mas há dores que só encontram voz através dela",
+"p": "Foto: Arquivo Pessoal Coluna Arte e Saúde Mental por Guga Menga",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/opiniao/a-arte-nao-cura-tudo-mas-ha-dores-que-so-encontram-voz-atraves-dela/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:14",
+"t": "TRF transfere ação sobre problemas na BR-153 de Marília para São Paulo",
+"p": "Tribunal acolheu recurso da concessionária; novo juízo deve analisar pedidos de melhorias na rodovia, cujo leilão foi adiado para 2027.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo",
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/trf-transfere-acao-sobre-problemas-na-br-153-de-marilia-para-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "12:05",
+"t": "URGENTE: Lula assina decreto que regulamenta o fim da escala 6×1 e muda jornada de cerca de 14,8 milhões de trabalhadores a partir de dezembro",
+"p": "O presidente Luiz Inácio Lula da Silva (PT) assinou, nesta quinta-feira (19), o decreto que regulamenta a transição para o fim da escala 6×1 e a adoção de dois dias de descanso semanal remunerado. A mudança começa a valer em 16 de dezembro de 2026 e prevê a redução gradual da jornada de trabalho, sem […]",
+"tema": "Decretos",
+"s": "decreto",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/urgente-lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1-e-muda-jornada-de-cerca-de-148-milhoes-de-trabalhadores-a-partir-de-dezembro/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
 "h": "12:03",
 "t": "Polícia Civil mira esquema de fraudes em materiais cirúrgicos avaliado em R$ 5 milhões",
 "p": "A Polícia Civil de São Paulo apura um esquema de fraudes ligado a fornecedoras de produtos médicos e hospitalares suspeitas de irregularidades que chegam a cerca de R$ 5 milhões, além de lavagem de dinheiro. Na quarta-feira (18), agentes do Departamento Estadual de Investigações Criminais (Deic) cumpriram mandados…",
@@ -53,6 +338,20 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/filho-de-advogado-de-fernandopolis-morre-em-hospital-nos-estados-unidos/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "11:59",
+"t": "Rompimento de adutora pode deixar 5 bairros sem água na zona Sul de Ribeirão Preto; veja quais",
+"p": "Rompimento de adutora pode causar falta d'água em bairros da zona Sul da cidade nesta quinta (19)",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/rompimento-de-adutora-pode-deixar-5-bairros-sem-agua-na-zona-sul-de-ribeirao-preto-veja-quais/",
 "auto": true
 },
 {
