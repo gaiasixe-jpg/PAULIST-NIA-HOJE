@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-19T09:06:31-03:00",
-"novos_nesta_coleta": 35,
+"atualizado": "2026-11-19T10:26:43-03:00",
+"novos_nesta_coleta": 40,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,366 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-19",
+"h": "10:20",
+"t": "Diário Comunidade apresenta finalistas do ‘Educador em Ação’ neste domingo",
+"p": "Estão na disputa os projetos “Explorando os Segredos da Água: Conscientização e Ciência na Prática”, “TV Peninha” e “Ubuntu: Eu Sou Porque Nós Somos!”",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/conteudo-de-marca/diario-comunidade-apresenta-finalistas-do-educador-em-acao-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "10:20",
+"t": "Taça Cidade de Sorocaba 2026 define semifinalistas neste domingo (22)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), promove, na manhã deste domingo (22), os jogos de volta válidos pelas quartas de final da Taça Cidade de Sorocaba 2026. Os vencedores se classificarão para as semifinais da primeira divisão do Campeonato Municipal de Futebol…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/taca-cidade-de-sorocaba-2026-define-semifinalistas-neste-domingo-22/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "10:12",
+"t": "Marília terá dança, música, teatro e festival de rap neste fim de semana",
+"p": "Marília recebe 5ª Mostra Internacional de Teatro com programação gratuita Eventos ocorrem de 19 a 22 de novembro, com opções gratuitas, ingressos pagos e arrecadação de alimentos.",
+"tema": "Contas públicas",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-tera-danca-musica-teatro-e-festival-de-rap-neste-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "10:02",
+"t": "Entrada de Paulo Bilynskyj na Comissão da Mulher intensifica atritos entre PL e Erika Hilton",
+"p": "Paulo Bilynskyj - Foto: Mario Agra/Câmara dos Deputados Indicação do parlamentar como titular provocou forte reação na base governista; presidente do colegiado acusa oposição de tentar travar propostas de proteção feminina",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/pl-escala-paulo-bilynskyj-comissao-da-mulher-erika-hilton/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "10:00",
+"t": "Homem é preso com 250 kg de fios e cigarros contrabandeados em Cubatão",
+"p": "Divulgação/Polícia Civil Um homem de 51 anos foi preso em flagrante durante uma operação da Polícia Civil na Vila dos Pescadores, em Cubatão.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/homem-e-preso-com-250-kg-de-fios-e-cigarros-contrabandeados-em-cubatao/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:59",
+"t": "Defesa Civil recebe caminhão-pipa para reforçar combate a incêndios rurais",
+"p": "Equipamento amplia a estrutura municipal para atuar em incêndios em vegetação, períodos de estiagem e outras ocorrências.",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/defesa-civil-recebe-caminhao-pipa-para-reforcar-combate-a-incendios-rurais/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:57",
+"t": "UBS Chico Mendes terá atendimento médico e vacinação durante feriado",
+"p": "Unidade funcionará por seis horas na sexta-feira; casos graves e emergências continuarão sendo atendidos nas UPAs.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/ubs-chico-mendes-tera-atendimento-medico-e-vacinacao-durante-feriado/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:54",
+"t": "Jundiaí planeja reunir Bombeiros, PM, Guarda Municipal e SAMU em complexo de segurança; entenda",
+"p": "Foto: Prefeitura de Jundiaí Com investimento previsto de R$ 24 milhões, proposta busca aproximar equipes de segurança e emergência para facilitar a comunicação e o atendimento à população.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-planeja-reunir-bombeiros-pm-gm-e-samu-em-complexo-de-seguranca/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:53",
+"t": "Rodovias paulistas esperam cerca de 18,9 milhões de veículos no feriado",
+"p": "As rodovias concedidas de São Paulo devem registrar a circulação de aproximadamente 18,9 milhões de veículos entre os dias 19 e 23 de novembro durante o feriado, de acordo com previsão da Agência de Transporte do Estado de São Paulo (Artesp). Para acompanhar o movimento e dar suporte aos viajantes, as…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/rodovias-paulistas-esperam-cerca-de-189-milhoes-de-veiculos-no-feriado/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:52",
+"t": "Polícia Civil desarticula central clandestina de chips falsificados e prende suspeito",
+"p": "A Polícia Civil desmontou, na quarta-feira (18), uma central clandestina dedicada à produção e venda de chips de celular falsificados em uma chácara localizada em Santa Isabel, na Região Metropolitana de São Paulo. Um homem de 46 anos, apontado como o responsável pela estrutura, foi detido em flagrante durante a…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santa Isabel",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-desarticula-central-clandestina-de-chips-falsificados-e-prende-suspeito/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:52",
+"t": "Confira a agenda do Procon Móvel para a próxima semana",
+"p": "O Procon Móvel prestará atendimentos durante quatro dias e em dois diferentes pontos da cidade, entre segunda (23) e sexta-feira (27). Sem a necessidade de agendamento prévio, a população poderá recorrer aos serviços relacionados aos direitos do consumidor, participar do Programa de Apoio ao Superendividado (PAS)…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/confira-a-agenda-do-procon-movel-para-a-proxima-semana-7/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:51",
+"t": "Defesa Civil emite dezenas de alertas e registra alagamentos e quedas de árvores no Estado",
+"p": "A Defesa Civil do Estado de São Paulo mantém o monitoramento contínuo das condições meteorológicas diante da previsão de pancadas de chuva em diversas regiões paulistas. A junção do calor e da umidade, reforçada pela umidade vinda da Amazônia, favorece a formação de nuvens carregadas que podem provocar tempestades,…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-emite-dezenas-de-alertas-e-registra-alagamentos-e-quedas-de-arvores-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:50",
+"t": "Operação da Polícia Civil prende três suspeitos de roubar motos de luxo",
+"p": "A Polícia Civil prendeu três homens, de 20, 23 e 26 anos, suspeitos de participar de roubos de motocicletas na Rodovia Raposo Tavares, na capital paulista. As detenções aconteceram na quarta-feira (18) durante a Operação Última Marcha, coordenada pelo 75º Distrito Policial (Jardim Arpoador), subordinado à 3ª…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-da-policia-civil-prende-tres-suspeitos-de-roubar-motos-de-luxo/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:48",
+"t": "Vinicius autoriza obras de R$ 10,7 milhões na avenida Yusaburo Sasazaki",
+"p": "Prefeitura autorizou procedimentos para execução das melhorias no Distrito Industrial Santo Barion, na zona norte de Marília.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vinicius-autoriza-obras-de-r-107-milhoes-na-avenida-yusaburo-sasazaki/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:48",
+"t": "Seduc-SP abre concurso com 5.000 vagas efetivas para professores e processo para temporários",
+"p": "A Secretaria da Educação do Estado de São Paulo (Seduc-SP) publicou nesta quinta-feira (19), no Diário Oficial do Estado, o edital do novo concurso público para contratar 5.000 professores efetivos do Ensino Fundamental e do Ensino Médio. As inscrições começam às 16h do dia 26 de novembro de 2026 e seguem abertas…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/seduc-sp-abre-concurso-com-5-000-vagas-efetivas-para-professores-e-processo-para-temporarios/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:40",
+"t": "Ex-candidato a vereador preso por suspeita de matar namorada defendia combate às desigualdades e incentivo ao skate em Taboão da Serra",
+"p": "O ex-candidato a vereador Marcelo Cunha Massari, de 51 anos, foi preso em flagrante na quarta-feira (18/11). Suspeito de envolvimento na morte da namorada, Bianca Karolayne Garbo, de 25, apresentou-se aos eleitores de Taboão da Serra, em 2024, como defensor do combate às desigualdades sociais e também de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Taboão da Serra"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/ex-candidato-a-vereador-preso-por-suspeita-de-matar-namorada-defendia-combate-as-desigualdades-e-incentivo-ao-skate-em-taboao-da-serra/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:37",
+"t": "Mega-Sena sorteia prêmio acumulado de R$ 40 milhões nesta quinta-feira (19)",
+"p": "Apostas para o concurso 3.088 podem ser feitas até as 20h; sorteio ocorre a partir das 21h, em São Paulo",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369660/mega-sena-sorteia-premio-acumulado-de-rs-40-milhoes-nesta-quinta-feira-19-",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:35",
+"t": "Confira a previsão do tempo para Marília nesta quinta-feira (19/11)",
+"p": "Dia terá elevação das temperaturas, queda da umidade e aumento da probabilidade de chuva; veja a previsão.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-quinta-feira-19-11/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:32",
+"t": "Lula assina decreto que regulamenta jornada 5×2 nesta quinta-feira",
+"p": "Documento estabelece o início da implementação da nova escala em 16 de dezembro; presidente também sugeriu ajustes no decreto",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/lula-assina-decreto-que-regulamenta-jornada-5x2-nesta-quinta-feira/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "09:32",
+"t": "20 de novembro: confira o Abre e Fecha da Prefeitura no feriado nacional de Consciência Negra",
+"p": "Foto: Prefeitura de Jundiaí Serviços administrativos e unidades de saúde terão alterações no atendimento nesta sexta-feira (20); parques, centros esportivos e coleta de lixo funcionam normalmente",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/abre-e-fecha-jundiai-feriado-consciencia-negra-2026/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:32",
+"t": "Jundiaí tem maior acumulado de chuva do estado de SP em período de 12 horas",
+"p": "Foto: Prefeitura de Jundiaí Temporal atingiu a cidade na tarde de quarta-feira (18), provocando alagamentos, quedas de árvores e problemas em semáforos; Defesa Civil não registrou vítimas.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-tem-maior-acumulado-de-chuva-do-estado-de-sp-em-periodo-de-12-horas/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:32",
+"t": "Confira as ofertas de emprego no PAT Marília nesta quinta-feira (19/11)",
+"p": "Seleção contempla diferentes níveis de escolaridade e experiência, com oportunidades nos setores industrial, comercial e de serviços.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-quinta-feira-19-11/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:30",
+"t": "13º salário pode render mais em 2026 com nova regra do Imposto de Renda, mas nem todos os trabalhadores terão o mesmo benefício",
+"p": "O pagamento do 13º salário de 2026 está se aproximando e milhões de trabalhadores poderão receber um valor líquido maior neste ano. Isso porque a nova regra do Imposto de Renda (IR) ampliou a faixa de isenção e reduziu a cobrança para parte dos contribuintes. Nova regra muda isenção A mudança beneficia…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/13o-salario-pode-render-mais-em-2026-com-nova-regra-do-imposto-de-renda-mas-nem-todos-os-trabalhadores-terao-o-mesmo-beneficio/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:28",
+"t": "Motociclista morre em acidente com ônibus em Ribeirão Preto",
+"p": "Acidente aconteceu na noite desta quarta-feira (18), no Paulo Gomes Romeo; motociclista morreu no local do acidente",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motociclista-morre-em-acidente-com-onibus-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:15",
+"t": "Homem invade e depreda UBS Ferrazópolis, em São Bernardo",
+"p": "O homem foi identificado pela Polícia Militar e encaminhado ao 1º DP (Distrito Policial) do município",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369654/homem-invade-e-depreda-ubs-ferrazopolis-em-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "09:15",
+"t": "Cinema público à beira-mar no litoral entra na reta final das obras de modernização e tem previsão de reabertura",
+"p": "O Cine Arte Posto 4, considerado o único cinema público, fixo e permanente à beira-mar do Brasil, segue com suas obras de revitalização avançando em Santos. Com um investimento de R$ 286 mil, viabilizado por meio do Orçamento Participativo 2025, os serviços começaram em agosto. Entre as melhorias estão novas…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/tradicional-cinema-a-beira-mar-do-litoral-avanca-as-obras-e-tem-previsao-de-reabertura/",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "09:00",
@@ -209,6 +569,32 @@
 },
 {
 "d": "2026-11-19",
+"h": "08:41",
+"t": "Caminhão tomba e causa interdição em rodovia de Ribeirão Preto",
+"p": "Caminhão tombou na madrugada desta quinta (19), na rodovia Mário Donegá",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/caminhao-tomba-e-causa-interdicao-em-rodovia-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:40",
+"t": "Lotofácil 3833: apostador transforma R$ 3,50 em fortuna de R$ 4,1 milhões com acerto dos 15 números",
+"p": "Uma aposta simples de apenas R$ 3,50 garantiu um prêmio de mais de R$ 4,1 milhões a um jogador de Araucária, no Paraná. O bilhete acertou sozinho as 15 dezenas do concurso 3833 da Lotofácil, sorteado na noite de quarta-feira (18/11), pela Caixa Econômica Federal. Com o resultado, o apostador vai receber exatamente…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/lotofacil-3833-apostador-transforma-r-350-em-fortuna-de-r-41-milhoes-com-acerto-dos-15-numeros/",
+"auto": true
+},
+{
+"d": "2026-11-19",
 "h": "08:35",
 "t": "Em sua 55ª edição, e pouco após completar cinco anos de existência, Mutirão de Empregos chega ao Shopping Cidade Sorocaba.",
 "p": "Em 2021, o Mutirão de Empregos foi lançado pela Prefeitura de Sorocaba para facilitar o contato entre as pessoas em busca de uma oportunidade de trabalho e as empresas que necessitavam completar seus quadros profissionais. Cinco anos depois, o evento chega à sua 55ª edição, de casa nova, para facilitar ainda mais o…",
@@ -219,6 +605,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/em-sua-55a-edicao-e-pouco-apos-completar-cinco-anos-de-existencia-mutirao-de-empregos-chega-ao-shopping-cidade-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "08:30",
+"t": "Troca de tiros bloqueia Marginal Pinheiros, deixa dois mortos e assusta passageiros de trem em SP",
+"p": "Uma ocorrência policial terminou com dois homens mortos na noite desta quarta-feira (18/11), na Marginal Pinheiros, zona oeste de São Paulo. Os dois eram suspeitos de participar de uma série de roubos a farmácias. A ação envolveu policiais da Companhia de Ações Especiais de Polícia (Caep) Oeste. Durante a…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/policia/troca-de-tiros-bloqueia-marginal-pinheiros-deixa-dois-mortos-e-assusta-passageiros-de-trem-em-sp/",
 "auto": true
 },
 {
@@ -850,6 +1250,35 @@
 "c": [],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/defesa-civil-emite-17-alertas-de-temporais-e-monitora-instabilidades-climaticas-em-todo-o-estado/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "00:03",
+"t": "Decreto abre espaço para empresas assumirem manutenção de áreas públicas",
+"p": "Critérios de seleção favorecem propostas com instalação de melhorias, enquanto manutenção básica recebe pontuação zero",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/decreto-abre-espaco-para-empresas-assumirem-manutencao-de-areas-publicas/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "00:00",
+"t": "Rodovias da região devem receber 150 mil veículos no feriado prolongado",
+"p": "Movimento deve ser intenso na Washington Luís e na BR-153. Motoristas precisam redobrar a atenção devido às obras e previsão de chuva",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/rodovias-da-regiao-devem-receber-150-mil-veiculos-no-feriado-prolongado/",
 "auto": true
 },
 {
@@ -54507,434 +54936,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/emef-joao-garcia-andreo-passa-por-melhorias-na-infraestrutura-e-controle-de-aves-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:59",
-"t": "City Tour tem roteiro com parada no Parque da Biquinha neste fim de semana (7 e 8)",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Turismo (Setur), está com inscrições abertas para as próximas edições do City Tour, que serão realizadas neste sábado e domingo (7 e 8). Desta vez, o passeio contemplará o tradicional roteiro histórico-cultural da cidade, com uma parada especial no Parque da…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/city-tour-tem-roteiro-com-parada-no-parque-da-biquinha-neste-fim-de-semana-7-e-8/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:54",
-"t": "Justiça concede tutela recursal e determina recondução imediata de Aparecida Salisso ao cargo de prefeita de Icém",
-"p": "O Desembargador Sergio Coimbra Schmidt, da 7ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, concedeu a tutela recursal no Agravo de Instrumento nº 4160730-09.2026.8.26.0000 para suspender a cassação de Aparecida Salisso e determinar a sua imediata recondução ao cargo de Prefeita Municipal…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Aparecida",
-"Icém"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/justica-concede-tutela-recursal-e-determina-reconducao-imediata-de-aparecida-salisso-ao-cargo-de-prefeita-de-icem/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:52",
-"t": "Rodovia Dutra tem tráfego intenso nesta quarta-feira (4); veja trechos",
-"p": "Motoristas enfrentam lentidão em Barra Mansa, no sentido São Paulo, com tempo de travessia de até 40 minutos em trechos de 7 km",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/rodovia-dutra-tem-trafego-intenso-nesta-quarta-feira-4-veja-trechos.html",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:47",
-"t": "Novembro Azul em Caraguatatuba: exames de PSA em porta aberta e orientações percorrem postos e bairros",
-"p": "Unidades de saúde e espaços comunitários oferecem consultas diretas, checagem de pressão e exames para prevenção do câncer de próstata",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Caraguatatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/caraguatatuba/novembro-azul-em-caraguatatuba-exames-de-psa-em-porta-aberta-e-orientacoes-percorrem-postos-e-bairros.html",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:42",
-"t": "Procurado por associação ao tráfico de drogas é preso pela Polícia Militar em Ouroeste",
-"p": "Um homem de 28 anos com mandado de prisão em aberto foi capturado pela Polícia Militar na manhã desta quarta-feira (4), no município de Ouroeste. O suspeito era procurado pela Justiça para o cumprimento de pena pelo crime de associação para o tráfico de drogas. A prisão foi efetuada por agentes do 10º Grupamento de […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ouroeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/procurado-por-associacao-ao-trafico-de-drogas-e-preso-pela-policia-militar-em-ouroeste/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:40",
-"t": "Para prevenir acidentes, Guarujá retira árvores com risco de queda e garante poda ecológica",
-"p": "Ações de segurança ambiental em outubro resultam no recolhimento de 390 metros cúbicos de galhos e no transplante de palmeira na Enseada",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Guarujá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/guaruja/para-prevenir-acidentes-guaruja-retira-arvores-com-risco-de-queda-e-garante-poda-ecologica.html",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:38",
-"t": "Estado de SP tem queda em roubos de celulares entre janeiro e setembro",
-"p": "O estado de São Paulo registrou queda de 19,3% nos roubos de celulares entre janeiro e setembro de 2026, na comparação com o mesmo período do ano anterior. Segundo balanço do governo estadual, foram 61.189 ocorrências nos nove primeiros meses deste ano, contra 75.859 em 2025, uma diferença de 14.670 casos. Os dados…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/estado-de-sp-tem-queda-em-roubos-de-celulares-entre-janeiro-e-setembro",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:34",
-"t": "Quadrilha que furtava bagagens em postos de rodovias é alvo de operação",
-"p": "Grupo agia em rodovias paulista, e tinha como preferência famílias, com crianças, que estavam paravam para descansar durante viagens",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/quadrilha-que-furtava-bagagens-em-postos-de-rodovias-e-alvo-de-operacao",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:32",
-"t": "Coleta de lixo em Jundiaí muda para o período noturno nos bairros Medeiros e Tulipas",
-"p": "Foto: Prefeitura de Jundiaí Coleta noturna em Jundiaí começa em 9 de novembro nos bairros Medeiros e Tulipas. Veja o novo horário e quais serviços serão afetados.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/coleta-noturna-jundiai-medeiros-tulipas/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:28",
-"t": "Fundo Social de Ubatuba fecha para reformas; confira onde ocorrerão os serviços",
-"p": "Atendimento do Perequê-Açu migra para o paço municipal, durante obras no prédio; assistência a famílias e doações seguem no Centro até 2027",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ubatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ubatuba/fundo-social-de-ubatuba-fecha-para-reformas-confira-onde-ocorrerao-os-servicos.html",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:21",
-"t": "Mototaxista perde perna após colidir contra placa de trânsito durante corrida",
-"p": "Um mototaxista de 57 anos teve a perna direita amputada após sofrer um grave acidente de trânsito na Avenida 01A, no município de Araçatuba. O homem pilotava uma motocicleta por aplicativo e transportava uma estudante de 15 anos no momento da colisão, registrada oficialmente pelas autoridades policiais nesta…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Araçatuba"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/mototaxista-perde-perna-apos-colidir-contra-placa-de-transito-durante-corrida/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:20",
-"t": "Operação da Polícia Civil prende cinco suspeitos de furtar 74 cabeças de gado",
-"p": "A Polícia Civil deflagrou nesta quarta-feira (4) a Operação Curral do Crime, que resultou na prisão de cinco homens investigados pelo furto de 74 cabeças de gado na área rural de Paulo de Faria, município localizado a cerca de 100 quilômetros de São José do Rio Preto. O crime causou um prejuízo estimado em R$ […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto",
-"Paulo de Faria"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/operacao-da-policia-civil-prende-cinco-suspeitos-de-furtar-74-cabecas-de-gado/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:07",
-"t": "Coral Infantojuvenil Municipal leva espetáculo gratuito ‘Os Saltimbancos’ à Sala Glória Rocha",
-"p": "Foto: Prefeitura de Jundiaí Apresentações acontecem neste domingo (8), em dois horários, com entrada gratuita e participação do Pré-Coral e da Cia de Teatro de Jundiaí",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/noticias/espetaculo-os-saltimbancos-gratuito-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:04",
-"t": "Confira as tabelas dos Jogos Escolares de Sorocaba da próxima semana",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), divulga as partidas válidas pelos Jogos Escolares de Sorocaba (JES 2026), agendadas entre os próximos dias 9 e 13 de novembro. A competição entrará na nona semana da categoria Mirim e na quarta semana da categoria Pré-Mirim.…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/confira-as-tabelas-dos-jogos-escolares-de-sorocaba-da-proxima-semana-6/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:02",
-"t": "Obras da Sabesp podem afetar abastecimento de água em Itanhaém e Peruíbe",
-"p": "Sabesp fará intervenções durante a noite de quarta (4) e a madrugada de quinta-feira (5); moradores podem enfrentar oscilações no abastecimento de água",
-"tema": "Saneamento",
-"s": "fato",
-"c": [
-"Itanhaém",
-"Peruíbe"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/obras-da-sabesp-podem-afetar-abastecimento-de-agua-em-itanhaem-e-peruibe.html",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "14:01",
-"t": "Dani Alonso e Capitão Augusto acompanham avanço das Casas Terapêuticas em Marília",
-"p": "Conquista do serviço voltado a pessoas com vício em álcool e drogas atende pedido do vereador Damasceno, levado pelos parlamentares.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/dani-alonso-e-capitao-augusto-acompanham-avanco-das-casas-terapeuticas-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:49",
-"t": "Cuidadora com 34 anos de trabalho em lar de idosos é demitida por crise econômica e ganha indenização de 200 mil euros após erro formal na Espanha",
-"p": "Uma trabalhadora com mais de 34 anos de serviço em um lar de idosos na Espanha obteve uma vitória na Justiça após ser demitida. O Tribunal Superior de Justiça do País Basco considerou o desligamento injusto e determinou o pagamento de uma indenização superior a 200 mil euros. A decisão levou em conta falhas formais […]",
-"tema": "Geral",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/cuidadora-com-34-anos-de-trabalho-em-lar-de-idosos-e-demitida-por-crise-economica-e-ganha-indenizacao-de-200-mil-euros-apos-erro-formal-na-espanha/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:48",
-"t": "Game Fest reúne moradores de 23 localidades e registra mais de 1,2 mil partidas em Ilhabela",
-"p": "Evento gratuito teve 154 inscritos, dez espaços de jogos e participação de crianças, adolescentes e adultos, em promoção da prefeitura da cidade",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ilhabela"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ilhabela/game-fest-reune-moradores-de-23-localidades-e-registra-mais-de-12-mil-partidas-em-ilhabela.html",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:46",
-"t": "Hospital São Vicente está entre os 10 que mais internam vítimas de trauma em SP",
-"p": "Foto: Divulgação/ HSV Hospital São Vicente, em Jundiaí, está entre os 10 hospitais com mais internações por trauma em SP e mantém Selo Diamante.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-sao-vicente-jundiai-atendimento-trauma-selo-diamante/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:42",
-"t": "Telefones do Saae/Sorocaba estão fora de operação por problemas técnicos da operadora",
-"p": "Como alternativa, a autarquia disponibiliza três linhas emergenciais O Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba informa que, nesta quarta-feira (4), os telefones 0800 770 11 95 (ligação gratuita) e 3224 5800, estão temporariamente fora de operação devido a problemas técnicos da operadora responsável. A…",
-"tema": "Saneamento",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/telefones-do-saae-sorocaba-estao-fora-de-operacao-por-problemas-tecnicos-da-operadora-8/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:38",
-"t": "Justiça manda reconduzir Professora Cidinha à Prefeitura de Icém",
-"p": "Desembargador apontou indícios de desvio de finalidade na sessão que retirou o mandato da prefeita, em junho",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Icém"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/justica-manda-reconduzir-professora-cidinha-a-prefeitura-de-icem/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:36",
-"t": "Saúde promove atividades do Novembro Azul durante todo o mês em Marília",
-"p": "Programação inclui palestras, rodas de conversa, orientações e Dia D de mobilização em 17 de novembro.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/saude-promove-atividades-do-novembro-azul-durante-todo-o-mes-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:36",
-"t": "Polícia Civil prende cinco suspeitos de furtar 74 cabeças de gado na região",
-"p": "A Polícia Civil prendeu cinco investigados nesta quarta-feira (4), durante a Operação Curral do Crime, que apura o furto de 74 cabeças de gado na região de Paulo de Faria, cerca de 100 km de Rio Preto. O prejuízo estimado na época dos fatos foi de aproximadamente R$ 200 mil. A operação foi coordenada pela […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Paulo de Faria",
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-civil-prende-cinco-suspeitos-de-furtar-74-cabecas-de-gado-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:35",
-"t": "Vereador quer calendário anual e multas para organizadores de corridas de rua",
-"p": "Um projeto de lei apresentado pelo vereador Klebinho Kizumba (PL) propõe a criação de um Calendário Municipal de Corridas de Rua em Rio Preto. A iniciativa estabelece regras para a organização de provas, caminhadas, treinos coletivos e eventos semelhantes que utilizem vias e espaços públicos, dependam de…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/vereador-quer-calendario-anual-e-multas-para-organizadores-de-corridas-de-rua/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:32",
-"t": "Ruas terão mudanças de sentido a partir de amanhã; veja os locais",
-"p": "Trânsito muda bairro de Campinas, a partir de 5 de novembro; veja quais ruas terão novos sentidos de circulação",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/ruas-terao-mudancas-de-sentido-a-partir-de-amanha-veja-os-locais/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:32",
-"t": "Feira Crespa é atração no Parque das Águas no dia 20 de novembro",
-"p": "A Prefeitura de Sorocaba realizará no dia 20 de novembro, a partir das 13h, no Parque das Águas, a já tradicional Feira Crespa, um evento especial em celebração ao Dia da Consciência Negra (20 de novembro), marcado pela valorização da cultura afro-brasileira, da identidade e do protagonismo da população negra.…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/feira-crespa-e-atracao-no-parque-das-aguas-no-dia-20-de-novembro-2/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:31",
-"t": "Após chuvas, Prefeitura avalia danos em residências e atende famílias",
-"p": "no Vila Real Administração vistoriou imóveis danificados e afirma buscar alternativas habitacionais definitivas para famílias em áreas de risco.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/apos-chuvas-prefeitura-avalia-danos-em-residencias-e-atende-familias/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:30",
-"t": "Motos isentas de IPVA em São Paulo podem perder benefício em 2027 por causa de uma exigência na documentação",
-"p": "Os proprietários de motos de até 180 cilindradas em São Paulo precisam ficar atentos às condições para manter a isenção do IPVA em 2027. Embora a legislação estadual dispense esses veículos do pagamento do imposto, uma exigência relacionada à documentação pode impedir a aplicação do benefício. A Lei Estadual nº…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/automotor/motos-isentas-de-ipva-em-sao-paulo-podem-perder-beneficio-em-2027-por-causa-de-uma-exigencia-na-documentacao/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:24",
-"t": "Simpósio em Santos debate prevenção e cuidados com prematuros",
-"p": "Evento integra a campanha Novembro Roxo e abordará assistência neonatal, acompanhamento do desenvolvimento e prevenção da prematuridade",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/vida/simposio-em-santos-debate-prevencao-e-cuidados-com-prematuros/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:20",
-"t": "Em um dos estados mais ‘abrasileirados’ dos EUA, duas mineiras que deixaram o Brasil ainda crianças são reeleitas deputadas após feito histórico",
-"p": "Duas brasileiras nascidas em Minas Gerais conquistaram a reeleição para a Câmara dos Representantes de Massachusetts, nos Estados Unidos, nesta terça-feira (3). Priscila Sousa e Rita Mendes, ambas do Partido Democrata, garantiram novos mandatos no Legislativo de um dos estados americanos com maior presença de…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/politica/em-um-dos-estados-mais-abrasileirados-dos-eua-duas-mineiras-que-deixaram-o-brasil-ainda-criancas-sao-reeleitas-deputadas-apos-feito-historico/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "13:18",
-"t": "Vale do Paraíba tem 280 vagas em cursos profissionalizantes do Trampolim",
-"p": "A Secretaria de Desenvolvimento Econômico do Estado de São Paulo (SDE) prorrogou as inscrições para 280 vagas em cursos profissionalizantes gratuitos do programa Qualifica SP, disponíveis na plataforma Trampolim. São oportunidades presenciais na região de São José dos Campos, voltadas tanto para quem busca o…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/vale-do-paraiba-tem-280-vagas-em-cursos-profissionalizantes-do-trampolim/",
 "auto": true
 }
 ]
