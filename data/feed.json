@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-19T17:12:43-03:00",
-"novos_nesta_coleta": 35,
+"atualizado": "2026-11-19T18:01:17-03:00",
+"novos_nesta_coleta": 21,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -19,7 +19,6 @@
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
-"Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
@@ -47,9 +46,188 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Portal Sorocaba.com",
+"erro": "HTTP Error 404: Not Found"
 }
 ],
 "itens": [
+{
+"d": "2026-11-19",
+"h": "17:58",
+"t": "Trânsito ao vivo: descida para o litoral provoca congestionamento na Anchieta e Imigrantes; veja onde estão as filas na véspera de feriado",
+"p": "Excesso de veículos causa filas na Anchieta e na Imigrantes; veja os quilômetros com congestionamento na descida para a Baixada Santista.",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/transito-ao-vivo-descida-para-o-litoral-provoca-congestionamento-na-anchieta-e-imigrantes-veja-onde-estao-as-filas-na-vespera-de-feriado/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:55",
+"t": "Seu Jorge, Tasha e Tracie e Jota.Pê fazem shows grátis em SP em Festival da Consciência Negra",
+"p": "Divulgação Rede Sociais Para celebrar a cultura negra, a Prefeitura de São Paulo promove até sábado (21) a primeira edição do Festival da Consciência Negra",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/seu-jorge-tasha-e-tracie-e-jota-pe-fazem-shows-gratis-em-sp-em-festival-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:49",
+"t": "Área estratégica do Porto de Santos passará por reforma de R$ 99 milhões para movimentação de combustíveis e químicos com mais segurança",
+"p": "O Porto de Santos terá um investimento de R$ 99,1 milhões para recuperar e reforçar a estrutura do cais da Ilha Barnabé, na margem esquerda do estuário. A Autoridade Portuária de Santos (APS) já iniciou a mobilização para as obras, que terão prazo de execução de 21 meses. A Ordem de Serviço foi emitida em […]",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/area-estrategica-do-porto-de-santos-passara-por-reforma-de-r-99-milhoes-para-movimentacao-de-combustiveis-e-quimicos-com-mais-seguranca/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:45",
+"t": "Luciano Hang, dono da Havan, doa R$ 1 milhão para equipar nova UPA, enquanto empresários ajudam a arrecadar R$ 2,2 milhões para a unidade começar a atender em dezembro",
+"p": "UPA de Barra Velha muda de endereço em 8 de dezembro. Veja onde ficará a nova unidade e quando começam os atendimentos",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/luciano-hang-dono-da-havan-doa-r-1-milhao-para-equipar-nova-upa-enquanto-empresarios-ajudam-a-arrecadar-r-22-milhoes-para-a-unidade-comecar-a-atender-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:44",
+"t": "Parque Tecnológico de Sorocaba e AMAZUL promovem workshop sobre Gestão do Conhecimento",
+"p": "Capacitação, que acontece no dia 30 de novembro apresentará metodologia certificada pelo Ministério da Defesa para ajudar negócios locais e startups a protegerem processos críticos e escalarem com segurança O conhecimento retido nas equipes é um dos ativos mais valiosos — e vulneráveis — de qualquer organização.…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/parque-tecnologico-de-sorocaba-e-amazul-promovem-workshop-sobre-gestao-do-conhecimento/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:34",
+"t": "Suspeito de matar dentista cometeu crime para pagar dívida com agiotas",
+"p": "Christian Eduardo Corsi foi encontrado morto após 3 dias desaparecido em Itu (SP). Suspeito prestava serviços de jardinagem à vítima",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itu"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/suspeito-de-matar-dentista-cometeu-crime-para-pagar-divida-com-agiotas",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:34",
+"t": "Justiça manda Sindicato dos Médicos desocupar sede em até 180 dias",
+"p": "O Tribunal de Justiça de São Paulo (TJ-SP) determinou que o Sindicato dos Médicos de Rio Preto e Região desocupe, no prazo de 180 dias, o imóvel onde funciona a entidade, conhecido como Casa do Médico, no Jardim Panorama. A decisão, tomada pela 10ª Câmara de Direito Público em 13 de novembro, reformou a sentença […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Panorama",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-manda-sindicato-dos-medicos-desocupar-sede-em-ate-180-dias/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:33",
+"t": "Feriado prolongado terá calor e previsão de tempestades na região",
+"p": "O feriado prolongado em Rio Preto será marcado por temperaturas elevadas e possibilidade de chuva. A previsão indica calor e ocorrência de tempestades esparsas a partir desta sexta-feira (20), com instabilidade ao longo de todo o fim de semana. Na sexta-feira, os termômetros devem variar entre 23°C e 34°C, a maior…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/feriado-prolongado-tera-calor-e-previsao-de-tempestades-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:33",
+"t": "Tarcísio confirma permanência de três secretários e define nova estrutura do governo",
+"p": "O governador Tarcísio de Freitas (Republicanos) confirmou nesta quinta-feira (19) a permanência de mais três secretários na equipe que dará continuidade à sua gestão em São Paulo. Andrezza Rosalém seguirá à frente da Secretaria de Desenvolvimento Social; Marcelo Branco permanece no comando da Secretaria de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tarcisio-confirma-permanencia-de-tres-secretarios-e-define-nova-estrutura-do-governo/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:31",
+"t": "Coletor que virou ‘o amigo’ de um menino de Jundiaí é homenageado pelo presidente da Câmara, Edicarlos Vieira",
+"p": "Foto: Divulgação Cícero Rogério Pereira dos Santos conquistou o carinho do menino Joaquim durante a coleta de lixo e recebeu diploma de congratulação na Câmara Municipal, em homenagem proposta por Edicarlos Vieira",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/coletor-lixo-homenageado-jundiai-amizade-menino/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:25",
+"t": "Prefeitura de Sorocaba e Cooperativa dos Apicultores de Sorocaba e Região promovem o Festival do Mel e da Abelha",
+"p": "No próximo sábado (28), das 9h às 17h, a Prefeitura de Sorocaba, através da Secretaria de Empreendedorismo, da Micro Empresa e da Empresa de Pequeno Porte – Semepp e a Cooperativa dos Apicultores de Sorocaba e Região (COAPIS), promovem o Festival do Mel e da Abelha, na Praça do Parque Campolim. O evento, gratuito e […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-e-cooperativa-dos-apicultores-de-sorocaba-e-regiao-promovem-o-festival-do-mel-e-da-abelha/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:23",
+"t": "Pesca de dez espécies de peixes brasileiros terá novas proibições e pescadores precisam ficar atentos às mudanças nas regras e penalizações",
+"p": "O Governo de Rondônia estabeleceu novos períodos de proibição da pesca de tambaqui, pirarucu e outras oito espécies no estado. A instrução normativa foi publicada no Diário Oficial na terça-feira (17/11) e também define limites para captura durante o defeso. A medida busca proteger a reprodução dos peixes e…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/pesca-de-dez-especies-de-peixes-brasileiros-tera-novas-proibicoes-e-pescadores-precisam-ficar-atentos-as-mudancas-nas-regras-e-penalizacoes/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "17:15",
+"t": "David Beckham entra na Justiça contra marca de perfume após produto aparecer à venda em postos de gasolina e exige indenização de US$ 41 milhões",
+"p": "David Beckham com o frasco do perfume",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/david-beckham-entra-na-justica-contra-marca-de-perfume-apos-produto-aparecer-a-venda-em-postos-de-gasolina-e-exige-indenizacao-de-us-41-milhoes/",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "17:06",
@@ -229,6 +407,18 @@
 },
 {
 "d": "2026-11-19",
+"h": "16:30",
+"t": "Brasil é o segundo país com mais roubos de cargas no mundo e rodovias de SP aparecem entre as mais perigosas em levantamento alarmante",
+"p": "Alimentos, medicamentos, eletrônicos e até combustíveis. Mercadorias que abastecem supermercados, farmácias e estabelecimentos comerciais se tornaram alvos frequentes de criminosos nas estradas brasileiras. O problema é tão grave que colocou o Brasil na segunda posição do ranking mundial de roubo de cargas, atrás…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/brasil-e-o-segundo-pais-com-mais-roubos-de-cargas-no-mundo-e-rodovias-de-sp-aparecem-entre-as-mais-perigosas-em-levantamento-alarmante/",
+"auto": true
+},
+{
+"d": "2026-11-19",
 "h": "16:27",
 "t": "Jundiaí recebe reconhecimento estadual por projeto que fortalece o protagonismo dos jovens nas escolas",
 "p": "A assessora de Políticas para a Juventude, Letícia Branco, participou do seminário - Foto: Prefeitura de Jundiaí Projeto Grêmi.ação, que incentiva a participação dos estudantes nas decisões da cidade e fortalece os grêmios estudantis, recebeu certificação de Boa Prática em Governança e Gestão do Governo de SP",
@@ -239,6 +429,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/projeto-gremiacao-jundiai-reconhecimento-estadual/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "16:22",
+"t": "Santos vai transformar cinco avenidas com investimento de R$ 183,6 milhões, mas primeira obra já muda o trânsito e os ônibus na orla",
+"p": "Motoristas e passageiros de ônibus que circulam pela orla de Santos terão mudanças na rotina a partir da próxima segunda-feira (23). A Prefeitura inicia as obras de revitalização de cinco importantes avenidas da Cidade, com investimento de R$ 183,6 milhões. A primeira etapa começa na Avenida Presidente Wilson,…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/santos-vai-transformar-cinco-avenidas-com-investimento-de-r-1836-milhoes-mas-primeira-obra-ja-muda-o-transito-e-os-onibus-na-orla/",
 "auto": true
 },
 {
@@ -3304,6 +3508,90 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67780",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "00:00",
+"t": "Prudenprev publica deferimento das inscrições referentes ao Concurso Público nº 01/2026",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67787",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "00:00",
+"t": "Jornada Empreendedora abre inscrições para Design de Sobrancelha e Planejamento Financeiro",
+"p": "",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67786",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "00:00",
+"t": "Prefeitura nomeia mais 86 servidores, sendo 72 professores efetivos",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67785",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "00:00",
+"t": "Prefeitura intensifica ações de combate à dengue nos bairros Morada do Sol e Bela Vista",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67784",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "00:00",
+"t": "PP recebe encontro regional sobre crédito para mulheres empreendedoras; inscrições abertas",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67783",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "00:00",
+"t": "Fundo Social realiza Curso de Receitas Natalinas da Cozinhalimento de Presidente Prudente",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67782",
 "auto": true
 },
 {
@@ -54698,291 +54986,6 @@
 ],
 "src": "Portal Regional (Dracena)",
 "u": "https://portalregional.net.br/2026/11/defesa-civil-alerta-para-tempestades-com-ventos-de-80-km-h-durante-final-de-semana/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:08",
-"t": "Taxa Selic em 13,75% e juros elevados penalizam a economia real, aponta APAS",
-"p": "Para Felipe Queiroz, economista-chefe da entidade, a decisão mantém a pressão sobre o consumo das famílias, os investimentos e os setores produtivos",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/taxa-selic-em-1375-e-juros-elevados-penalizam-a-economia-real-aponta-apas/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:06",
-"t": "Homem é condenado a 30 anos por estupro de vulnerável contra a própria filha em Junqueirópolis",
-"p": "Um homem foi condenado a 30 anos por estupro de vulnerável contra a própria filha em Junqueirópolis (SP). A sentença foi divulgada pela Justiça nesta quarta-feira (4). Conforme o Ministério Público de São Paulo (MP-SP), a decisão foi tomada em 16 de outubro pela Vara Única da Comarca de Junqueirópolis, após o caso…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Junqueirópolis",
-"São Paulo"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/homem-e-condenado-a-30-anos-por-estupro-de-vulneravel-contra-a-propria-filha-em-junqueiropolis/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:00",
-"t": "Defesa Civil coloca Campinas em alerta para chuva forte, ventos e granizo; veja previsão",
-"p": "Nova frente fria deve atingir a região de Campinas nesta quinta-feira (5), com previsão de temporais e queda nas temperaturas; alerta vale para todo o estado de São Paulo até sábado (7)",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/defesa-civil-coloca-campinas-em-alerta-para-chuva-forte-ventos-e-granizo-veja-previsao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:00",
-"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta quinta (5)",
-"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campos do Jordão",
-"Taubaté"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-quinta-5.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "08:00",
-"t": "Polícia Civil e Gaeco miram esquema de remédios falsificados para câncer e Justiça bloqueia até R$ 15 milhões em SP",
-"p": "O Ministério Público de São Paulo (MP-SP) e a Polícia Civil deflagraram, nesta quinta-feira (5/11), uma operação contra um esquema suspeito de comercializar medicamentos falsificados para o tratamento de câncer e lavar dinheiro. A ação prevê três mandados de prisão preventiva, 18 de busca e apreensão e o bloqueio…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/policia-civil-e-gaeco-miram-esquema-de-remedios-falsificados-para-cancer-e-justica-bloqueia-ate-r-15-milhoes-em-sp/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:50",
-"t": "Distribuidora é alvo de operação por vender remédios falsos contra o câncer",
-"p": "Segundo Ministério Público esquema envolvendo a distribuidora e a venda de remédios contra o câncer falsificados acontece desde 2024",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/distribuidora-e-alvo-de-operacao-por-vender-remedios-falsos-contra-o-cancer",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:46",
-"t": "Costa Rica transfere primeiros 123 presos para mega prisão inspirada no modelo de El Salvador",
-"p": "A Costa Rica iniciou a transferência de detentos para uma nova penitenciária de segurança máxima inspirada no modelo adotado pelo presidente de El Salvador, Nayib Bukele. Os primeiros 123 presos chegaram ao Centro de Alta Contenção e Crime Organizado (CACCO) no mês passado, em uma segunda-feira (26), em uma…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/costa-rica-transfere-primeiros-123-presos-para-mega-prisao-inspirada-no-modelo-de-el-salvador/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:45",
-"t": "Jundiaí entra em alerta para tempestade; fim de semana terá chuva forte e queda de temperatura",
-"p": "Foto: Prefeitura de Jundiaí Com máxima de 30°C, cidade tem 93% de chance de chuva nesta quinta-feira (5). Previsão indica pancadas à tarde e temporal à noite; instabilidade volta a ganhar força no sábado.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-entra-em-alerta-para-tempestade-fim-de-semana-tera-chuva-forte-e-queda-de-temperatura/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:30",
-"t": "Operação Laziosi mira falsificação de remédios com alvo em Marília",
-"p": "Segunda fase da Operação Laziosi, conduzida pelo Gaeco e pela Polícia Civil, mobilizou a DIG em Marília para cumprir mandados de busca.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/operacao-laziosi-mira-falsificacao-de-remedios-com-alvo-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:29",
-"t": "Veja opções de bibliotecas públicas próximas do transporte metropolitano de SP para a reta final do Enem",
-"p": "Com a proximidade do Exame Nacional do Ensino Médio (Enem), os vestibulandos costumam revisar os conteúdos que aprenderam ao longo do ano. Para ajudar a estudar na reta final das provas que serão realizadas nos próximos dois domingos, dias 8 e 15 de novembro, a Secretaria dos Transportes Metropolitanos (STM)…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/veja-opcoes-de-bibliotecas-publicas-proximas-do-transporte-metropolitano-de-sp-para-a-reta-final-do-enem/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:28",
-"t": "Caminho da Capacitação entra na reta final de inscrições para 1,3 mil vagas em 18 cidades da Grande SP",
-"p": "O 32º ciclo do Caminho da Capacitação, programa itinerante de qualificação profissional do Fundo Social de São Paulo, está na reta final de inscrições. São 1.350 vagas gratuitas distribuídas em 18 municípios da Grande São Paulo, com aulas de 9 a 19 de novembro. Os interessados têm até terça-feira (10) para se…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/caminho-da-capacitacao-entra-na-reta-final-de-inscricoes-para-13-mil-vagas-em-18-cidades-da-grande-sp/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:26",
-"t": "TJSP extingue ação contra Prefeitura de SP por falta de ônibus nas eleições",
-"p": "Juiz entendeu que não houve lesão ao patrimônio público e extinguiu, sem análise do mérito, ação sobre transporte no segundo turno",
-"tema": "Transporte",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/tjsp-extingue-acao-contra-prefeitura-de-sp-por-falta-de-onibus-nas-eleicoes",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:19",
-"t": "Ação integrada da Prefeitura retira 30 toneladas e oferece atendimento social no Jardim Tamoio",
-"p": "Foto: Prefeitura de Jundiaí Ação integrada mobilizou equipes de infraestrutura, segurança e assistência social para atuar em área pública com ocupação irregular.",
-"tema": "Assistência social",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/operacao-jardim-tamoio-30-toneladas/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:14",
-"t": "Defesa Civil mobiliza gabinete de crise após previsão de temporais em SP",
-"p": "Órgão alerta para a possibilidade de chuva forte com vendaval e descargas elétricas até o próximo sábado (7/11)",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/defesa-civil-mobiliza-gabinete-de-crise-apos-previsao-de-temporais-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "07:00",
-"t": "Fernandópolis chega a 2026 com contas aprovadas e R$ 114,5 milhões reservados para a saúde",
-"p": "Cidade-polo do Noroeste Paulista destina cerca de um quarto do orçamento à saúde e se organiza com municípios vizinhos em consórcio regional",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/fernandopolis-chega-a-2026-com-contas-aprovadas-e-r-1145-milhoes-reservados-para-a-saude/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "06:49",
-"t": "Resultado do Super Sete 918: concurso acumula para R$ 200 mil; confira as colunas",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Ninguém acertou as sete colunas em 04/11; uma aposta levou R$ 21,7 mil com seis acertos.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-super-sete-concurso-918/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "06:44",
-"t": "Lotofácil acumula após 158 apostas baterem na trave e prêmio dispara para R$ 5 milhões nesta quinta-feira",
-"p": "O concurso 3821 da Lotofácil deixou 158 apostadores no quase na noite da última quarta-feira (4). Com isso, o prêmio acumulou e chegou a R$ 5 milhões. Agora, o próximo concurso da modalidade será realizado nesta quinta-feira (5). Lotofácil 3821 Como resgatar os valores premiados Os felizardos que acertaram os…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/lotofacil-acumula-apos-158-apostas-baterem-na-trave-e-premio-dispara-para-r-5-milhoes-nesta-quinta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "06:37",
-"t": "Resultado da Lotofácil 3821: ninguém acerta 15 dezenas e prêmio vai a R$ 5 milhões",
-"p": "Foto: Depositphotos Concurso de 04/11 teve 158 apostas com 14 acertos; confira todas as 15 dezenas.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-lotofacil-concurso-3821/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "06:35",
-"t": "Resultado da Quina 7159: aposta única ganha R$ 11,8 milhões; veja os cinco números",
-"p": "Foto: Depositphotos Concurso sorteado em 04/11 teve um acerto na faixa principal por aposta feita no canal eletrônico.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-quina-concurso-7159/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "06:27",
-"t": "Frente fria aumenta risco de temporais e Inmet emite alerta para Ribeirão Preto; Veja previsão",
-"p": "Inmet prevê instabilidade ao longo de quinta-feira (5), com pancadas de chuva, rajadas de vento e possibilidade de granizo no interior paulista",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-aumenta-risco-de-temporais-e-inmet-emite-alerta-para-ribeirao-preto-veja-previsao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "06:15",
-"t": "Escondido no Vale do Paraíba, complexo natural tem cachoeira com três poços de águas cristalinas e trilha fácil para bate e volta saindo de SP",
-"p": "Localizada em Lavrinhas, no interior de São Paulo, a Cachoeira da Pedreira é uma ótima opção de passeio para um bate e volta de fim de semana. O complexo fica na região da Capela do Jacu e acompanha o curso do Rio do Braço, com quedas d’água, rochosas e diversos poços de água transparente. Na […]",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Lavrinhas",
-"Pedreira"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/turismo/escondido-no-vale-do-paraiba-complexo-de-cachoeira-tem-tres-pocos-de-aguas-cristalinas-e-trilha-facil-para-bate-e-volta-saindo-de-sp/",
 "auto": true
 }
 ]
