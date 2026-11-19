@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-19T02:14:16-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-19T03:13:47-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,20 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-19",
+"h": "02:30",
+"t": "Áudios expõem suspeita de rachadinha com Bolsa Atleta no interior de SP",
+"p": "Gravações mostram treinador exigindo repasse integral de R$ 1,5 mil de atleta em Rio Preto; Ministério Público investiga denúncias",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/audios-expoem-suspeita-de-rachadinha-com-bolsa-atleta-no-interior-de-sp",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "02:00",
@@ -54900,18 +54914,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/saude-de-sp-mobiliza-os-645-municipios-paulistas-em-forca-tarefa-para-identificar-casos-de-sarampo-e-rubeola/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "10:53",
-"t": "CDHU lança campanha “Casa em Dia” para renegociação de dívidas habitacionais sem exigência de entrada",
-"p": "A Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo (CDHU), vinculada à Secretaria de Desenvolvimento Urbano e Habitação, deu início à campanha Casa em Dia. A iniciativa oferece aos mutuários paulistas a possibilidade de reestruturar as parcelas do financiamento imobiliário e regularizar…",
-"tema": "Habitação",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/cdhu-lanca-campanha-casa-em-dia-para-renegociacao-de-dividas-habitacionais-sem-exigencia-de-entrada/",
 "auto": true
 }
 ]
