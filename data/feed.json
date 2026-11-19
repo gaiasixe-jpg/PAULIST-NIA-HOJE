@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-19T15:02:36-03:00",
-"novos_nesta_coleta": 34,
+"atualizado": "2026-11-19T16:07:54-03:00",
+"novos_nesta_coleta": 31,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,295 @@
 "itens": [
 {
 "d": "2026-11-19",
+"h": "16:04",
+"t": "Alunos do CEU das Artes do Laranjeiras vencem torneio de xadrez em Araras",
+"p": "Dois alunos do curso de xadrez do Centro de Esportes e Artes Unificado “Professor Flávio Vespasiano Di Giorgi” (CEU das Artes) conquistaram medalhas de ouro durante a 124ª etapa do Circuito Solidário de Xadrez, que ocorreu no último domingo (15), em Araras (SP), com mais de 130 participantes. Promovido pela…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Araras"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/alunos-do-ceu-das-artes-do-laranjeiras-vencem-torneio-de-xadrez-em-araras/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "16:02",
+"t": "Alerta de arritmia no smartwatch: veja quais sinais exigem atenção",
+"p": "O smartwatch, também conhecido como relógio inteligente, tornou-se um grande aliado na rotina de muitas pessoas. Além de facilitar o acesso a mensagens e notificações, o dispositivo oferece recursos que ajudam a acompanhar a saúde, como o monitoramento da frequência cardíaca. No entanto, receber um alerta de ritmo…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/alerta-de-arritmia-no-smartwatch-veja-quais-sinais-exigem-atencao/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "16:00",
+"t": "Ônibus de Natal voltam a circular de graça em SP e levar famílias ao Parque Ibirapuera durante a temporada de fim de ano",
+"p": "Os ônibus natalinos podem voltar a circular por São Paulo neste fim de ano para levar moradores de diferentes regiões da cidade ao Parque Ibirapuera. A iniciativa da Prefeitura de São Paulo e da SPTrans prevê veículos iluminados, motoristas vestidos de Papai Noel e monitores turísticos durante o trajeto, com…",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/onibus-de-natal-voltam-a-circular-de-graca-em-sp-e-levar-familias-ao-parque-ibirapuera-durante-a-temporada-de-fim-de-ano/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "16:00",
+"t": "Caravana de Natal da Coca-Cola terá desfile em Guarujá nesta terça-feira",
+"p": "Divulgação/Prefeitura de Guarujá Entrando em clima natalino, Guarujá celebra a magia da data com a Caravana de Natal da Coca-Cola, que inicia o desfile em Vicente de Carvalho.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/caravana-de-natal-da-coca-cola-tera-desfile-em-guaruja-nesta-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "16:00",
+"t": "Parque Tecnológico abre 420 vagas gratuitas para formação em inteligência artificial",
+"p": "Carlos Nogueira/Arquivo Prefeitura de Santos A programação ocorrerá no auditório do Parque Tecnológico e abordará as possibilidades, os limites e os riscos da inteligência artificial.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/parque-tecnologico-abre-420-vagas-gratuitas-para-formacao-em-inteligencia-artificial/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "16:00",
+"t": "SV aprova ampliação do número de guarda-sóis e cadeiras para ambulantes nas praias",
+"p": "Divulgação/Prefeitura de São Vicente Com a mudança, o limite passará a ser de 15 guarda-sóis e 45 cadeiras entre abril e outubro, nas praias de São Vicente.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/sv-aprova-ampliacao-do-numero-de-guarda-sois-e-cadeiras-para-ambulantes-nas-praias/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:50",
+"t": "Fim da escala 6×1: como fica a jornada de trabalho após decreto assinado por Lula que atinge 36,5 milhões de profissionais brasileiros",
+"p": "O Presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (19/11) o decreto que regulamenta o fim da escala 6×1 e detalha a transição obrigatória para o modelo 5×2 em todo o País. A cerimônia ocorreu no Palácio do Planalto, em Brasília, e estabelece as regras práticas para empresas e trabalhadores após…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Planalto"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/fim-da-escala-6x1-como-fica-a-jornada-de-trabalho-apos-decreto-assinado-por-lula-que-atinge-365-milhoes-de-profissionais-brasileiros/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "15:41",
+"t": "Consultas e exames no Hospital e Maternidade ampliam acesso a especialidades em Várzea Paulista",
+"p": "Foto: Prefeitura de Várzea Paulista Unidade oferece atendimentos em 14 especialidades médicas e diferentes tipos de exames; desde agosto, foram disponibilizadas mais de 10 mil consultas e 11 mil exames",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/consultas-exames-hospital-maternidade-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:40",
+"t": "Justiça de SP nega proibição da venda de pets na internet",
+"p": "Divulgação Decisão do TJ-SP mantém entendimento de que não há lei que vete anúncios de animais em plataformas digitais; ONGs apontam que sites são cúmplices de maus-tratos",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/justica-de-sp-nega-proibicao-da-venda-de-pets-na-internet/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:38",
+"t": "Rodovia Padre Manoel da Nóbrega registra tráfego normal na tarde desta quinta (19)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-registra-trafego-normal-na-tarde-desta-quinta-19.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:37",
+"t": "Feriado e fim de semana terão bloqueios no trânsito em Ribeirão Preto; veja locais",
+"p": "Bloqueios no trânsito acontecem no feriado e final de semana para serviços de infraestrutura, limpeza pública e realização de eventos",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/feriado-e-fim-de-semana-terao-bloqueios-no-transito-em-ribeirao-preto-veja-locais/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:35",
+"t": "Provão Paulista: aluna tem prova cancelada após postar caderno de respostas",
+"p": "Aluna de 17 anos publicou caderno de respostas do Provão Paulista em suas redes sociais. Publicação foi deletada",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/provao-paulista-aluna-tem-prova-cancelada-apos-postar-caderno-de-respostas",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:35",
+"t": "Dutra tem congestionamento e trânsito intenso nesta quinta-feira (19)",
+"p": "Motoristas enfrentam lentidão em Guarulhos e Piraí, no sentido São Paulo; concessionária também aponta obras na pista expressa da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guarulhos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/dutra-tem-congestionamento-e-transito-intenso-nesta-quinta-feira-19.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:27",
+"t": "Suspeito de matar homem a facadas é preso por posse ilegal de arma de fogo em Suzano",
+"p": "Homicídio aconteceu no dia 4 de abril, em Suzano; durante buscas na casa do suspeito, a polícia encontrou uma espingarda e munição",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/policia/suspeito-de-matar-homem-a-facadas-e-preso-por-posse-ilegal-de-arma-de-fogo-em-suzano/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:26",
+"t": "Lutador de MMA é preso suspeito de maltratar e matar seu cachorro em SP",
+"p": "Lutador alega que matou o animal para defender a esposa. A vizinhança o acusa de maus-tratos, mostrando imagens dos cães sem comida e água",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/lutador-de-mma-e-preso-suspeito-de-maltratar-e-matar-seu-cachorro-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:23",
+"t": "Obras na SP-123 provocam congestionamento na Serra de Campos do Jordão nesta quinta-feira (19)",
+"p": "Operação Pare e Siga na altura do km 30 causa lentidão nos dois sentidos da Rodovia Floriano Rodrigues Pinheiro. Segundo informações obtidas pela NetCampos, os trabalhos têm previsão de término às 17h. Motoristas que utilizam a Rodovia Floriano Rodrigues Pinheiro (SP-123), principal ligação entre Taubaté e Campos…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/obras-na-sp-123-provocam-congestionamento-na-serra-de-campos-do-jordao-nesta-quinta-feira-19.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:20",
+"t": "Polícia Militar e Guarda Civil reforçam segurança para o Afrofest durante feriado prolongado em Bertioga",
+"p": "Ação conjunta entre GCM e polícia militar intensifica patrulhamento para proteger moradores e turistas; evento começa nesta sexta-feira (20)",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/policia-militar-e-guarda-civil-reforcam-seguranca-para-o-afrofest-durante-feriado-prolongado-em-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:15",
+"t": "Rua brasileira é eleita uma das melhores do mundo em 2026 pela revista Time Out, com ateliês de antiguidades, galerias de arte e bares descolados",
+"p": "Confira as paradas obrigatórias indicadas pela Time Out no Beco do Bragança/Divulgação/Firma",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/rua-brasileira-e-eleita-uma-das-melhores-do-mundo-em-2026-pela-revista-time-out-com-atelies-de-antiguidades-galerias-de-arte-e-bares-descolados/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:15",
+"t": "Motociclista de 22 anos morre após colisão com ônibus na rodovia Manoel Hyppólito do Rego, em São Sebastião",
+"p": "Ocorrência foi registrada por volta das 11h25 no sentido Caraguatatuba; coletivo acessava a rodovia no momento do impacto",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Caraguatatuba",
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/motociclista-de-22-anos-morre-apos-colisao-com-onibus-na-rodovia-manoel-hyppolito-do-rego-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:13",
+"t": "Lula assina decreto que regulamenta a jornada 5×2; veja regras de transição",
+"p": "Foto: Marcelo Camargo/Agência Brasil Primeira fase começa em 16 de dezembro de 2026 com redução para 42 horas semanais sem corte de salário; em 2027, limite cai definitivamente para 40 horas",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/lula-assina-decreto-jornada-5x2-regras-transicao/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "15:07",
+"t": "Durante o Mutirão de Empregos, Sert realizará entrevistas para 100 vagas em logística",
+"p": "Entrevistas acontecem no dia 24, às 10h, para trabalhar em Cabreúva. Candidatos de Sorocaba e região podem participar A Prefeitura de Sorocaba, por meio da Secretaria de Relações do Trabalho e Qualificação Profissional, realizará na próxima terça-feira (24), às 10h, um processo seletivo para 100 vagas de auxiliar…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Cabreúva",
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/durante-o-mutirao-de-empregos-sert-realizara-entrevistas-para-100-vagas-em-logistica/",
+"auto": true
+},
+{
+"d": "2026-11-19",
 "h": "15:00",
 "t": "Leonardo, Belo e Zezé Di Camargo & Luciano agitam o Vale do Paraíba com shows e eventos no feriado prolongado",
 "p": "O feriado prolongado terá uma programação variada para quem pretende aproveitar os próximos dias no Vale do Paraíba e região. Entre esta quinta-feira (19/11) e domingo (22/11), o público poderá acompanhar shows de artistas conhecidos, peças de teatro e festivais gastronômicos em diferentes cidades. Na agenda…",
@@ -60,6 +349,20 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/turismo/leonardo-belo-e-zeze-di-camargo-luciano-agitam-o-vale-do-paraiba-com-shows-e-eventos-no-feriado-prolongado/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "15:00",
+"t": "Veja o que abre e fecha em Santo André no Dia da Consciência Negra",
+"p": "Unidades básicas e o Poupatempo da Saúde estarão fechados na sexta-feira (20), retornando na segunda-feira (23)",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369751/veja-o-que-abre-e-fecha-em-santo-andre-no-dia-da-consciencia-negra",
 "auto": true
 },
 {
@@ -54742,304 +55045,6 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/cotidiano/pancadas-de-chuva-e-temperaturas-amenas-marcam-previsao-do-tempo-em-sao-paulo-a-partir-desta-quinta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "05:00",
-"t": "Lagarto teiú é resgatado após ser atropelado em São Vicente",
-"p": "Divulgação A Guarda Civil Municipal (GCM) Ambiental de São Vicente resgatou um lagarto teiú que havia sido atropelado na tarde de terça-feira (3).",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/lagarto-teiu-e-resgatado-apos-ser-atropelado-em-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "05:00",
-"t": "Homem ameaça incendiar casa com botijões de gás após separação em Praia Grande",
-"p": "Reprodução/Instagram @praiagrandemaisoficial Imóvel e casas vizinhas foram evacuados por risco de explosão. Após negociação, homem foi imobilizado e levado à UPA.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/homem-ameaca-incendiar-casa-com-botijoes-de-gas-apos-separacao-em-praia-grande/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "04:26",
-"t": "‘Por Você’: Vanessa descobre que Junqueira encomendou atentado e contrata Zé no capítulo de sexta (06)",
-"p": "Nesta sexta-feira (6), em Por Você, a investigação sobre o atropelamento de Gabriel atinge o ápice. Diante de Vanessa, Zé insinua ter detalhes valiosos sobre o acidente, despertando o alerta da vilã. Pouco tempo depois, a verdade vem à tona com força: Vanessa descobre que Junqueira mandou atropelar o ex-marido,…",
-"tema": "Geral",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-vanessa-descobre-que-junqueira-encomendou-atentado-e-contrata-ze-no-capitulo-de-sexta-06/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "02:30",
-"t": "Ativo nas redes, pastor réu por estupro não é localizado pela Justiça",
-"p": "Pastor Fabio Prado é investigado por estupro de vulnerável contra a própria sobrinha de dois anos",
-"tema": "Geral",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/ativo-nas-redes-pastor-reu-por-estupro-nao-e-localizado-pela-justica",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "02:14",
-"t": "Polícia Civil prende dois homens por furto a condomínio e roubos em série",
-"p": "A Polícia Civil de Araçatuba prendeu, na manhã desta quarta-feira (4), dois homens suspeitos de envolvimento em diferentes crimes patrimoniais registrados no município. As prisões foram efetuadas em ações distintas decorrentes de investigações conduzidas pelas equipes locais. Um dos investigados é apontado como…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araçatuba"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-civil-prende-dois-homens-por-furto-a-condominio-e-roubos-em-serie/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "02:10",
-"t": "Escolas de São Paulo registram média de 25 agressões por dia letivo",
-"p": "Mais de 5 mil ocorrências de lesão corporal em escolas e creches foram registradas de setembro de 2025 a agosto de 2026 no estado paulista",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/escolas-de-sao-paulo-registram-media-de-25-agressoes-por-dia-letivo",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "02:00",
-"t": "Resumo de ‘Por Você’ desta quinta (5): Leandra autoriza Bela a visitar Gabriel, enquanto Junqueira humilha Zé e Vanessa recebe cópias dos contratos",
-"p": "No capítulo desta quinta-feira (5/11) de Por Você, Leandra autoriza Bela a visitar Gabriel, que segue em recuperação após o acidente. Enquanto isso, Bela fica apreensiva com o estado do rapaz. Ricardo também estranha a postura de Junqueira diante da situação de Gabriel. Bela se preocupa com Gabriel Leandra permite…",
-"tema": "Geral",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-quinta-5-leandra-autoriza-bela-a-visitar-gabriel-enquanto-junqueira-humilha-ze-e-vanessa-recebe-copias-dos-contratos/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "01:48",
-"t": "Golpes do falso advogado e de prêmio deixam cinco vítimas em Rio Preto",
-"p": "Cinco moradores de Rio Preto registraram ocorrências de estelionato envolvendo golpes aplicados por telefone e WhatsApp. As fraudes, relatadas à Polícia Civil entre terça-feira (3) e quarta-feira (4), provocaram prejuízo informado de aproximadamente R$ 56 mil. Entre as vítimas estão idosos, trabalhadores e pessoas…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/golpes-do-falso-advogado-e-de-premio-deixam-cinco-vitimas-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "01:20",
-"t": "Defesa Civil de SP alerta para risco de temporais em diferentes regiões do estado entre quinta-feira (5) e sábado (7)",
-"p": "A Defesa Civil do Estado de São Paulo alerta para a ocorrência de temporais em diferentes regiões paulistas entre quinta-feira (5) e sábado (7). A previsão indica chuva forte, acompanhada de descargas elétricas, rajadas de vento de até 80km/h e possibilidade de queda de granizo em pontos isolados. A partir da tarde…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/defesa-civil-de-sp-alerta-para-risco-de-temporais-em-diferentes-regioes-do-estado-entre-quinta-feira-5-e-sabado-7/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "01:20",
-"t": "Escola de Jaú lidera aprovações no Provão Paulista no interior e destaca foco dos alunos e apoio das famílias desde o início do Ensino Médio",
-"p": "A Escola Estadual Professora Ana Franco Rocha Brando, de Jaú (a 287 quilômetros da capital), é a unidade de ensino da rede pública paulista do interior com mais alunos aprovados na edição de 2025 do Provão Paulista Seriado e também a escola do estado, entre as com mais de 100 alunos na série, com maior […]",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Jaú"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/escola-de-jau-lidera-aprovacoes-no-provao-paulista-no-interior-e-destaca-foco-dos-alunos-e-apoio-das-familias-desde-o-inicio-do-ensino-medio/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "01:20",
-"t": "Polícia de SP prende três suspeitos de fraudar compras pela internet na zona leste",
-"p": "Policiais do Departamento de Operações Policiais Estratégicas (Dope) prenderam três pessoas nesta quarta-feira (4), na zona leste da capital paulista, durante uma operação de combate a fraudes em compras pela internet. A investigação começou após a polícia receber informações sobre um grupo suspeito de utilizar…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-de-sp-prende-tres-suspeitos-de-fraudar-compras-pela-internet-na-zona-leste/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:55",
-"t": "Seedorf tranquiliza sobre Garro, explica Memphis e culpa a chuva pelo jogo travado no Majestoso",
-"p": "Rodrigo Coca/Agência Corinthians Seedorf defendeu Yuri Alberto, que perdeu chances e foi expulso no confronto",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/noticias/seedorf-tranquiliza-sobre-garro-explica-memphis-e-culpa-a-chuva-pelo-jogo-travado-no-majestoso/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:02",
-"t": "O que assistir no cinema? Conheça 5 estreias desta quinta-feira (05/11)",
-"p": "Se você está pensando em aproveitar o tempo livre para ir ao cinema, mas ainda não decidiu o que assistir, vale conferir as novidades que chegam às telonas nesta quinta-feira, 5 de novembro. A programação reúne produções de diferentes gêneros, com histórias que passeiam por humor, drama, aventura e animação. São…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/o-que-assistir-no-cinema-conheca-5-estreias-desta-quinta-feira-05-11/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:02",
-"t": "Conquistar um cliente já não basta: por que as relações comerciais ficaram mais complexas?",
-"p": "Conquistar um cliente corporativo pode significar convencer muito mais gente do que o executivo responsável pela contratação. Uma decisão de compra entre empresas envolve, em média, 13 participantes internos e nove influenciadores externos, segundo o estudo “The State of Business Buying, 2026“, divulgado pela…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/conquistar-um-cliente-ja-nao-basta-por-que-as-relacoes-comerciais-ficaram-mais-complexas/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:00",
-"t": "Prefeitura realiza Feira Meu Primeiro Emprego nesta sexta com oferta de 400 vagas",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67707",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:00",
-"t": "Prudente representa Oeste Paulista em Seminário Estadual de Regionalização da Saúde",
-"p": "",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67706",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:00",
-"t": "Paratriathlon da APOP/Semepp conquista prata e bronze em competição no Chile",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67710",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:00",
-"t": "Setur promove Festival de Pesca neste domingo no Balneário; inscrições seguem abertas",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67709",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:00",
-"t": "Semepp promove Festival e Torneio de Vôlei de Verão para categorias de base neste sábado",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67708",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "00:00",
-"t": "Natal Sem Fome realiza segundo mutirão neste sábado em 12 pontos de Prudente",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67711",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "23:53",
-"t": "Papai Noel chega ao Brisamar Shopping neste domingo (8) com espetáculo musical e atração surpresa em São Vicente",
-"p": "O espírito natalino toma conta de São Vicente a partir deste domingo (8) com a aguardada chegada oficial do Papai Noel ao Brisamar Shopping. A programação especial tem início marcado para as 17 horas e inaugura a cenografia temática de fim de ano no empreendimento do litoral. Com o tema Natal no Parque Nevado, o […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Vicente"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/sao-vicente/papai-noel-chega-ao-brisamar-shopping-neste-domingo/",
-"auto": true
-},
-{
-"d": "2026-11-04",
-"h": "23:25",
-"t": "Água muito quente no banho pode dilatar vasos e provocar tontura ou desmaio; veja como prevenir a queda de pressão no banheiro",
-"p": "Sentir tontura depois de um banho quente pode parecer apenas um mal-estar passageiro. No entanto, essa reação pode estar relacionada a uma queda temporária da pressão arterial, provocada pela exposição prolongada a temperaturas elevadas. O desconforto costuma aparecer ao desligar o chuveiro, sair da banheira ou…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/agua-muito-quente-no-banho-pode-dilatar-vasos-e-provocar-tontura-ou-desmaio-veja-como-prevenir-a-queda-de-pressao-no-banheiro/",
 "auto": true
 }
 ]
