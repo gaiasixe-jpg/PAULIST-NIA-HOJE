@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T10:21:38-03:00",
-"novos_nesta_coleta": 18,
+"atualizado": "2026-11-20T12:03:17-03:00",
+"novos_nesta_coleta": 39,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -55,6 +55,377 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "12:00",
+"t": "Colisão entre carros deixa um morto e dois feridos em Bertioga",
+"p": "Divulgação/Portal CCM - ARTESP O acidente aconteceu durante uma tentativa de travessia da pista por um dos veículos na Rodovia Rio-Santos, em Bertioga.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Bertioga"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/colisao-entre-carros-deixa-um-morto-e-dois-feridos-em-bertioga/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:00",
+"t": "Carreta com carga de gordura animal tomba na Cônego, em Santos",
+"p": "Divulgação/Portal CCM - ARTESP Uma carreta carregada com gordura animal tombou após o motorista perder o controle do veículo em uma curva da Rodovia Cônego Domenico Rangoni.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/carreta-com-carga-de-gordura-animal-tomba-na-conego-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:56",
+"t": "Entenda o que muda após Tarcísio extinguir Secretaria dos Transportes em SP",
+"p": "Funções da pasta serão distribuídas para futura Secretaria de Infraestrutura, comandada por Rafael Benini. Artesp ficará em outra secretaria",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/entenda-o-que-muda-apos-tarcisio-extinguir-secretaria-dos-transportes-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:51",
+"t": "Vinicius anuncia concurso, 14º salário e aposentadoria especial para agentes",
+"p": "Prefeitura apresenta projeto de valorização e anuncia 60 vagas para agentes de saúde Segundo a administração, o objetivo é recompor o quadro de servidores e ampliar a cobertura dos serviços de saúde.",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vinicius-anuncia-concurso-14-salario-e-aposentadoria-especial-para-agentes/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:49",
+"t": "Balão de 50 metros cai em parque de SP devastado por incêndio em 2021",
+"p": "Defesa Civil apagou a tocha do balão antes que o fogo atingisse a vegetação do Parque Estadual do Juquery, em Franco da Rocha, na Grande SP",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Franco da Rocha"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/balao-de-50-metros-cai-em-parque-de-sp-devastado-por-incendio-em-2021",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:48",
+"t": "Deic prende último suspeito de matar jovem em Rio Preto",
+"p": "A Polícia Civil prendeu, nesta quinta-feira (20), o último investigado pelo homicídio de um jovem de 18 anos ocorrido em dezembro de 2025, no bairro Santo Antônio, em Rio Preto. O suspeito foi localizado na zona rural de Ponta Porã (MS), na região de fronteira com o Paraguai, durante a quinta e última fase da […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/deic-prende-ultimo-suspeito-de-matar-jovem-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:48",
+"t": "Polícia esclarece agressão grave contra motorista de aplicativo em Rio Preto",
+"p": "A Polícia Civil concluiu a investigação sobre a agressão a um motorista de aplicativo, de 49 anos, ocorrida em agosto deste ano, em Rio Preto. O trabalho da Delegacia de Investigações Gerais (DIG) resultou no indiciamento do homem apontado como autor das agressões por lesão corporal de natureza grave. A passageira…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-esclarece-agressao-grave-contra-motorista-de-aplicativo-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:48",
+"t": "Branco cobra promessa de prefeito e admite decepção se ficar fora da presidência",
+"p": "A disputa pela presidência da Câmara de Rio Preto expõe uma divergência política dentro do próprio governo do prefeito Fábio Candido (PL). De um lado, o vice-prefeito Fábio Marcondes (PL) trabalha pela eleição de Rossini Diniz (MDB). Do outro, o vereador Anderson Branco (Progressistas) tenta viabilizar a própria…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/branco-cobra-promessa-de-prefeito-e-admite-decepcao-se-ficar-fora-da-presidencia/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:48",
+"t": "Jovem mata padrasto ao defender a mãe em Catanduva",
+"p": "Um jovem de 20 anos matou o padrasto na noite desta quinta-feira (19), no bairro Jardim Del Rey, em Catanduva. Segundo as informações iniciais, o rapaz teria intervindo para defender a mãe de agressões. De acordo com a Polícia Civil, policiais militares foram acionados para atender a uma ocorrência de briga de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Catanduva"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/jovem-mata-padrasto-ao-defender-a-mae-em-catanduva/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:39",
+"t": "O El Niño provoca inundações que desorientam crocodilos e cobras jiboias, fazendo eles aparecerem perto de residências no Equador",
+"p": "Em Guayaquil, no litoral do Equador, moradores passaram a registrar crocodilos junto a áreas de passeio depois que as chuvas do El Niño encharcaram manguezais e canais. Ilustração criada com Inteligência Artificial Crocodilo, jiboias, lontras e aves marinhas passaram a aparecer em áreas urbanas de Guayaquil, no…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/o-el-nino-provoca-inundacoes-que-desorientam-crocodilos-e-cobras-jiboias-fazendo-eles-aparecerem-perto-de-residencias-no-equador/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:28",
+"t": "Motorista bate carro na traseira de caminhão em rodovia na região de Ribeirão Preto",
+"p": "Motorista bateu carro na traseira de caminhão na madrugada desta sexta (20), na Cândido Portinari",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motorista-bate-carro-na-traseira-de-caminhao-em-rodovia-na-regiao-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:21",
+"t": "Auxílio-aluguel: Governo de SP beneficia 10,6 mil mulheres em situação de violência doméstica no estado",
+"p": "Presente em 596 municípios paulistas, o Auxílio-Aluguel para Mulheres Vítimas de Violência tem como objetivo contribuir para a autonomia e a garantia de direitos de mulheres em situação de vulnerabilidade que sofreram violência doméstica. Desde o início do programa, em fevereiro de 2025, a iniciativa já beneficiou…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/auxilio-aluguel-governo-de-sp-beneficia-106-mil-mulheres-em-situacao-de-violencia-domestica-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:21",
+"t": "Ação da Defesa Civil evita incêndio no Parque Estadual do Juquery após queda de balão",
+"p": "A atuação rápida e preventiva da Defesa Civil de Franco da Rocha evitou um possível incêndio no Parque Estadual do Juquery, na manhã desta sexta-feira (20), após a queda de um balão de aproximadamente 50 metros na área da unidade de conservação. LEIA TAMBÉM: Defesa Civil de São Paulo alerta população para previsão…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Franco da Rocha",
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/acao-da-defesa-civil-evita-incendio-no-parque-estadual-do-juquery-apos-queda-de-balao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:13",
+"t": "Marília discute novas regras que podem alterar horários do comércio",
+"p": "Revisão do Código de Posturas busca ampliar liberdade de funcionamento; proposta deve ser encaminhada à Câmara.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-discute-novas-regras-que-podem-alterar-horarios-do-comercio/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "11:10",
+"t": "Jovem mata padrasto ao defender a mãe em Catanduva",
+"p": "O caso foi registrado na noite desta quinta-feira (19) no bairro Jardim Del Rey. O caso segue sob investigação e a Polícia Civil apura se houve legítima defesa",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Catanduva"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/jovem-mata-padrasto-ao-defender-a-mae-em-catanduva/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:57",
+"t": "Branco cobra promessa de prefeito e admite decepção se ficar fora da presidência",
+"p": "Parlamentar não descarta recuar, mas fala em possível desgaste na relação com o Executivo",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/branco-cobra-promessa-de-prefeito-e-admite-decepcao-se-ficar-fora-da-presidencia/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:55",
+"t": "Bairros da zona Oeste de Ribeirão Preto podem ficar sem água no feriado; veja quais",
+"p": "Bairros da zona Oeste da cidade têm alerta para falta d'água nesta sexta (20), devido a reparos na rede de abastecimento",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/bairros-da-zona-oeste-de-ribeirao-preto-podem-ficar-sem-agua-no-feriado-veja-quais/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:50",
+"t": "Ação rápida da Defesa Civil evita incêndio após queda de balão de 50 metros",
+"p": "A atuação preventiva e imediata da Defesa Civil de Franco da Rocha impediu um possível incêndio florestal no Parque Estadual do Juquery na manhã desta sexta-feira (20). O incidente ocorreu após a queda de um balão de aproximadamente 50 metros de altura dentro da área da unidade de conservação, mobilizando equipes…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Franco da Rocha"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/acao-rapida-da-defesa-civil-evita-incendio-apos-queda-de-balao-de-50-metros/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:47",
+"t": "Linha de crédito impulsiona empreendedores negros no interior de SP e ajuda a expandir pequenos negócios",
+"p": "Celebrado nesta sexta-feira, 20 de novembro, o Dia Nacional de Zumbi e da Consciência Negra coloca em evidência a importância do acesso ao financiamento para fortalecer negócios comandados por pessoas negras no estado de São Paulo. Por meio da linha Empreenda Afro, do Banco do Povo Paulista (BPP) — programa ligado…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/linha-de-credito-impulsiona-empreendedores-negros-no-interior-de-sp-e-ajuda-a-expandir-pequenos-negocios/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:46",
+"t": "Grupo do Paraná é preso suspeito de furtar cabos em cidades da região",
+"p": "Cerca de 100 quilos de cabos de cobre foram apreendidos durante operação da Polícia Civil e da Guarda Municipal",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/grupo-do-parana-e-preso-suspeito-de-furtar-cabos-em-cidades-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:42",
+"t": "Anchieta e Imigrantes têm 50 km de congestionamento nesta manhã de feriado",
+"p": "Rodovias que ligam a capital à baixada Santista, somavam, até as 10h30 desta sexta (20/11), 50 km de congestionamento",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/anchieta-e-imigrantes-tem-50-km-de-congestionamento-nesta-manha-de-feriado",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:42",
+"t": "Feriadão da Consciência Negra será de calor intenso e pancadas de chuva em Fernandópolis e região",
+"p": "O feriado prolongado do Dia da Consciência Negra, celebrado nesta sexta-feira (20), deve ser marcado por forte abafamento, aumento de nuvens e pancadas de chuva em Fernandópolis e nos municípios vizinhos do Noroeste Paulista. Segundo os dados meteorológicos, o calor intenso vai predominar ao longo de todo o período…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/feriadao-da-consciencia-negra-sera-de-calor-intenso-e-pancadas-de-chuva-em-fernandopolis-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:40",
+"t": "PM encontra 15 kg de cocaína escondidos em picape recolhida há seis anos em Marília",
+"p": "Suspeito foi preso pela Polícia Militar Cães farejadores localizaram a droga em um compartimento falso durante vistoria em pátio de Padre Nóbrega.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/pm-encontra-15-kg-de-cocaina-escondidos-em-picape-recolhida-ha-seis-anos-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:38",
+"t": "Obras do novo Cemitério Municipal de Ouroeste avançam para a segunda etapa",
+"p": "As obras de construção do novo Cemitério Municipal de Ouroeste entraram em uma nova fase de execução. De acordo com informações divulgadas pelo Governo Municipal, os trabalhos estão sendo conduzidos por meio da Secretaria Municipal de Serviços Urbanos, que deu início à segunda etapa do cronograma com o levantamento…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/obras-do-novo-cemiterio-municipal-de-ouroeste-avancam-para-a-segunda-etapa/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:30",
+"t": "Festa Retrô 2Mil reúne Dead Fish, Gloria, Pe Lanza e HEVO84 em São Paulo para encontro de artistas que marcaram a história do rock nacional",
+"p": "Quem viveu a explosão do emo, do hardcore e do pop-punk brasileiro nos anos 2000 terá um encontro especial em São Paulo neste sábado (21/11). A festa Retrô 2Mil reúne artistas que marcaram a época em uma programação dedicada ao rock nacional. O evento será realizado no Juventus Live Hall e terá apresentações de…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/festa-retro-2mil-reune-dead-fish-gloria-pe-lanza-e-hevo84-em-sao-paulo-para-encontro-de-artistas-que-marcaram-a-historia-do-rock-nacional/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:27",
+"t": "Polícia esclarece agressão grave contra motorista de aplicativo em Rio Preto",
+"p": "A agressão ocorreu em agosto deste ano. A vítima ficou desacordada, e o agressor deixou o local sem prestar socorro",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/policia-esclarece-agressao-grave-contra-motorista-de-aplicativo-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "10:12",
+"t": "Hipopótamos de Pablo Escobar chegam a 260 na Colômbia e 10 podem sofrer eutanásia após animais se aproximarem de rota usada por crianças para ir à escola",
+"p": "Autoridades ambientais da Colômbia pretendem realizar a eutanásia química de dez hipopótamos nos próximos cinco meses. Os animais vivem em áreas rurais do departamento de Antioquia e foram considerados uma ameaça para comunidades locais. A medida será conduzida pela Corporação Autônoma Regional das Bacias dos Rios…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Colômbia"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/hipopotamos-de-pablo-escobar-chegam-a-260-na-colombia-e-10-podem-sofrer-eutanasia-apos-animais-se-aproximarem-de-rota-usada-por-criancas-para-ir-a-escola/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "10:02",
 "t": "Polícia identifica suspeita de atropelamento e apreende carro em oficina de Marília",
 "p": "Carro atropelou vítima e fugiu do local do acidente logo em seguida Mulher foi localizada pela Polícia Civil após investigação sobre atropelamento na avenida Sampaio Vidal, no Centro.",
@@ -97,6 +468,21 @@
 },
 {
 "d": "2026-11-20",
+"h": "09:48",
+"t": "Pedágios ficam mais caros em 3 rodovias na região de Ribeirão Preto; confira as novas tarifas",
+"p": "São quatro praças na região com novas tarifas a partir da 0h de segunda (23), incluindo São Simão, na Anhanguera, e Guatapará, na Machado Sant’Anna",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Guatapará"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/pedagios-ficam-mais-caros-em-3-rodovias-na-regiao-de-ribeirao-preto-confira-as-novas-tarifas/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "09:45",
 "t": "Condenado por tráfico é preso pela PM ao sair do trabalho em Marília",
 "p": "Caso está sendo investigado pela Polícia Civil de Marília Homem de 58 anos foi localizado no Jardim Morumbi durante cumprimento de ordem judicial e deverá cumprir pena.",
@@ -111,6 +497,20 @@
 },
 {
 "d": "2026-11-20",
+"h": "09:44",
+"t": "Operação descida 7×3 favorece quem vai para a Baixada Santista, mas rodovias somam quase 50 km de congestionamento para quem vai curtir o feriado",
+"p": "Os motoristas que seguem em direção a Santos, São Vicente, Praia Grande, Guarujá e outras cidades da Baixada Santista enfrentam trânsito intenso nesta sexta-feira (20), feriado da Consciência Negra. Segundo a Ecovias, concessionária responsável pelo Sistema Anchieta-Imigrantes (SAI), a Rodovia dos Imigrantes…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/operacao-descida-7x3-favorece-quem-vai-para-a-baixada-santista-mas-rodovias-somam-quase-50-km-de-congestionamento-para-quem-vai-curtir-o-feriado/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "09:32",
 "t": "Corpo envolto em lençóis é encontrado em rua da zona leste de São Paulo",
 "p": "Caso ocorre em meio à investigação de mortes com características semelhantes na capital; polícia ainda não confirmou relação entre elas",
@@ -121,6 +521,20 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/corpo-envolto-em-lencois-e-encontrado-em-rua-da-zona-leste-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "09:32",
+"t": "Vai descer para o litoral? Veja onde ficam os pedágios sem cancela e como pagar a tarifa nas rodovias de SP",
+"p": "Quem pretende viajar para o litoral de São Paulo precisa ficar atento aos pedágios sem cancela espalhados pelas rodovias estaduais. O sistema, conhecido como Free Flow, permite que os veículos passem por pórticos eletrônicos sem parar em cabines para pagar a tarifa. A cobrança acontece por meio da leitura da placa…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/vai-descer-para-o-litoral-veja-onde-ficam-os-pedagios-sem-cancela-e-como-pagar-a-tarifa-nas-rodovias-de-sp/",
 "auto": true
 },
 {
@@ -54660,420 +55074,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/variedades/elon-musk-anuncia-megaprojeto-de-r-105-bilhoes-para-criar-fabrica-de-chips-de-inteligencia-artificial-do-tamanho-de-13-mil-maracanas/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:44",
-"t": "Advogada esfaqueia mulher que teria \"furado fila\" de bar em SP",
-"p": "Além de advogada, a suspeita, que não foi presa, tem cargo na Prefeitura de Itapecerica da Serra, na Grande São Paulo",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itapecerica da Serra"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/advogada-esfaqueia-mulher-que-teria-furado-fila-de-bar-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:43",
-"t": "Refis Ribeirão 2026 oferece até 100% de desconto em juros e multas",
-"p": "Programa permite regularizar débitos de IPTU, ITBI, ISS, Saerp, entre outros, com condições especiais de pagamento e adesão até 18 de dezembro.",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/conteudo-patrocinado/prefeituraderibeiraopreto/refis-ribeirao-2026-oferece-ate-100-de-desconto-em-juros-e-multas/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:43",
-"t": "Cachoeira que deságua no mar: a beleza intocada da praia do Arpoador em Peruíbe",
-"p": "Escondido no Parque Estadual Itinguçu, refúgio de ecoturismo combina banho de água doce e salgada no mesmo espaço e exige acompanhamento de guia",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Peruíbe"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/turismo/cachoeira-que-desagua-no-mar-a-beleza-intocada-da-praia-do-arpoador-em-peruibe.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:42",
-"t": "Itanhaém conclui primeira etapa de desassoreamento do Rio Campininha",
-"p": "Intervenção ampliou a capacidade de escoamento da água, contribuindo para reduzir os riscos de alagamentos",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Itanhaém"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/litoral/itanhaem-conclui-primeira-etapa-de-desassoreamento-do-rio-campininha/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:40",
-"t": "Jacareí tem 'Dia D' com exames e testes gratuitos para homens",
-"p": "Ação ocorre no sábado, dia 28, em quatro unidades de saúde, das 8h às 17h. Programação inclui testes rápidos, vacinação e solicitação de exame PSA",
-"tema": "Saúde",
-"s": "obra",
-"c": [
-"Jacareí"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/vale-do-paraiba/jacarei-tem-dia-d-com-exames-e-testes-gratuitos-para-homens.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:39",
-"t": "Sorocaba promove ações alusivas à campanha Novembro Azul nas UBSs",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), realizará, ao longo do mês, uma série de ações alusivas à campanha Novembro Azul nas Unidades Básicas de Saúde (UBSs) da cidade. Com objetivo de ampliar o acesso aos serviços, divulgar as estratégias de prevenção e promoção da saúde, a iniciativa visa…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-promove-acoes-alusivas-a-campanha-novembro-azul-nas-ubss/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:38",
-"t": "Escritor ribeirão-pretano lança livro feito em parceria com filho de 10 anos neste final de semana",
-"p": "Escritor e músico Nelson Ribeiro Barbosa lança a obra neste sábado (7), às 10h, na Biblioteca Sinhá Junqueira, no Centro de Ribeirão Preto",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/escritor-ribeirao-pretano-lanca-livro-feito-em-parceria-com-filho-de-10-anos-neste-final-de-semana/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:35",
-"t": "São José dos Campos acumula mais de 3,9 mil empregos formais criados em 2026",
-"p": "Dados do Caged apontam saldo positivo de 161 carteiras assinadas em setembro, impulsionado pelo setor de serviços no município",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/vale-do-paraiba/sao-jose-dos-campos-acumula-mais-de-39-mil-empregos-formais-criados-em-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:34",
-"t": "‘Quem cuida de quem cuida?’: especialistas apontam o que mais pesa na saúde mental dos profissionais da educação",
-"p": "A saúde mental nas escolas costuma ser discutida a partir dos alunos. Mas quem cuida dos profissionais responsáveis por ensinar, acolher e acompanhar crianças e adolescentes? Professores, gestores, funcionários da direção e equipes de apoio também enfrentam desafios emocionais no ambiente escolar. A sobrecarga, a…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/saude/quem-cuida-de-quem-cuida-especialistas-apontam-o-que-mais-pesa-na-saude-mental-dos-profissionais-da-educacao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:31",
-"t": "Rio Grande do Sul confirma duas mortes e ocorrência de tornado em três cidades",
-"p": "Divulgação/CBMRS A Defesa Civil do Rio Grande do Sul confirmou duas mortes e a ocorrência de um tornado em áreas rurais dos municípios de Erval Grande, Itatiba do Sul e Barra do Rio Azul.",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Itatiba"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/rio-grande-do-sul-confirma-duas-mortes-e-ocorrencia-de-tornado-em-tres-cidades/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:31",
-"t": "Centro Público de Emprego de Santos tem 160 vagas na construção civil",
-"p": "Vagas são para funções de pedreiro, carpinteiro, encanador, calceteiro, eletricista, operador de máquinas, motorista de caminhão e ajudante de obras",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/centro-publico-de-emprego-de-santos-tem-160-vagas-na-construcao-civil/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:30",
-"t": "Ganhador dos R$ 324,8 milhões da Mega-Sena em Rondonópolis, no Mato Grosso, resgata prêmio na Caixa Econômica Federal",
-"p": "A aposta ganhadora do concurso 3077 da Mega-Sena, realizada no dia 28 de outubro, deu entrada na Caixa Econômica Federal para resgatar seu prêmio de R$ 324,8 milhões. O bilhete premiado saiu para a cidade de Rondonópolis, no Mato Grosso, e foi feito por meio dos canais digitais da Caixa e uma aposta simples, de […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/ganhador-dos-r-3248-milhoes-da-mega-sena-em-rondonopolis-no-mato-grosso-resgata-premio-na-caixa-economica-federal/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:22",
-"t": "Alerta de perigo do Inmet prevê chuva de até 100 mm e vento de até 60 km/h no interior de SP",
-"p": "Alerta do Inmet é válido ao longo desta quinta-feira (5) para o estado de São Paulo",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/alerta-de-perigo-do-inmet-preve-chuva-de-ate-100-mm-e-vento-de-ate-60-km-h-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:20",
-"t": "Datena prepara retorno ao jornalismo policial em projeto inédito de Luiz Bacci após passagens por Band, SBT, RedeTV! e TV Brasil",
-"p": "José Luiz Datena já tem uma nova casa para voltar a programação nacional. Após deixar a TV Brasil, o apresentador foi anunciado no elenco da Bacci Notícias TV, canal no YouTube idealizado e comandado por Luiz Bacci. A chegada marca mais uma mudança na trajetória profissional do jornalista, que passou por quatro…",
-"tema": "Geral",
-"s": "anunciado",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/datena-prepara-retorno-ao-jornalismo-policial-em-projeto-inedito-de-luiz-bacci-apos-passagens-por-band-sbt-redetv-e-tv-brasil/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:19",
-"t": "Obras vão modificar entradas e saídas de condomínios na Avenida Ozanam, em Jundiaí",
-"p": "Foto: Prefeitura de Jundiaí Obras na Av. Ozanam, em Jundiaí, vão reorganizar acessos de condomínios na Vila Nambi para melhorar a circulação e a segurança no trânsito.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/obras-avenida-ozanam-acessos-condominios-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:16",
-"t": "Tarcísio e Carla Morando celebram entrega da recuperação da Vila do Doce",
-"p": "Deputada articulou recursos estaduais de R$ 2,185 milhões para recuperar galeria atingida por desabamento de sete quiosques em Ribeirão Pires",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367089/tarcisio-e-carla-morando-celebram-entrega-da-recuperacao-da-vila-do-doce-",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:09",
-"t": "Ribeirão Preto será sede do ‘Miss e Mister São Paulo 2027’; Veja quando será o concurso",
-"p": "Concurso Miss e Mister São Paulo acontece entre os dias 18 e 21 de novembro, em Ribeirão Preto",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/giro-lazer-e-cultura/ribeirao-preto-sera-sede-do-miss-e-mister-sao-paulo-2027-veja-quando-sera-o-concurso/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:00",
-"t": "Neymar Jr tem pena reduzida pelo STJD e poderá enfrentar o Coritiba",
-"p": "Raul Baretta/Santos FC O Superior Tribunal de Justiça Desportiva (STJD) acatou o recurso do Santos FC e reduziu a pena do meia Neymar Jr. para apenas um jogo de suspensão no Campeonato Brasileiro, após a expulsão contra a equipe do Bahia em virtude da Lei Vini Jr. Com a decisão, o camisa 10 estará à disposição do…",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/esporte/santosfc/neymar-jr-pena-reduzida-stjd/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:56",
-"t": "Cetesb libera oito dos nove pontos de monitoramento nas praias de Bertioga",
-"p": "Boletim atualizado garante bandeira verde na maior parte da orla do município; técnicos alertam contra o banho de mar após fortes chuvas",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/cetesb-libera-oito-dos-nove-pontos-de-monitoramento-nas-praias-de-bertioga.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:55",
-"t": "Juninho do Chicão encabeça chapa para presidente da Câmara de Diadema",
-"p": "Vereador reúne representantes de cinco partidos em composição única para disputar a Mesa Diretora no biênio 2027/2028; eleição está marcada para o dia 12",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367083/juninho-do-chicao-encabeca-chapa-para-presidente-da-camara-de-diadema",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:55",
-"t": "Força Tática prende homem suspeito de assaltar loja de utilidades em Fernandópolis",
-"p": "A Polícia Militar, por meio da equipe de Força Tática, prendeu em flagrante um homem suspeito de roubar uma loja de utilidades em Fernandópolis. O crime ocorreu no final da manhã desta quinta-feira (5), mobilizando os policiais após o acionamento das vítimas. Segundo as informações apuradas, o criminoso invadiu o…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/forca-tatica-prende-homem-suspeito-de-assaltar-loja-de-utilidades-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:47",
-"t": "Coca-Cola FEMSA realiza mutirão de emprego em Jundiaí com salários de até R$ 5.987",
-"p": "Foto: Prefeitura de Jundiaí Seleção acontece no dia 13 de novembro, no Maxi Shopping, com oportunidades em cinco funções e benefícios para os contratados.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/mutirao-emprego-coca-cola-femsa-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:34",
-"t": "Santiago Peña, presidente do Paraguai, renuncia ao cargo após crise bancária no país",
-"p": "Presidente era alvo de um processo de impeachment, apoiado inclusive pela base do governo",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/santiago-pena-presidente-do-paraguai-renuncia-ao-cargo-apos-crise-bancaria-no-pais/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:30",
-"t": "Ribeirão Preto muda idade para rastrear diabetes e altera teste de diagnóstico na rede pública",
-"p": "Adultos sem sintomas de diabetes passam a ser avaliados a partir dos 35 anos nos postos de saúde; exame de tolerância à glicose passa a durar uma hora",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/saude/ribeirao-preto-muda-idade-para-rastrear-diabetes-e-altera-teste-de-diagnostico-na-rede-publica/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:28",
-"t": "Derrotado nas eleições, Ciro Nogueira se reúne com Tarcísio em SP",
-"p": "Presidente nacional do Progressistas encontra governador no Palácio dos Bandeirantes, ao lado de deputado federal Maurício Neves",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/derrotado-nas-eleicoes-ciro-nogueira-se-reune-com-tarcisio-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:26",
-"t": "Após cobranças, Prefeitura inicia manutenção em fonte da Praça Fernando Jacob em Fernandópolis",
-"p": "Uma equipe de manutenção da Prefeitura de Fernandópolis iniciou nesta quinta-feira (5) os trabalhos de reparo na fonte de água da Praça Fernando Jacob, um dos principais cartões-postais do município. A intervenção ocorre após uma série de reportagens e cobranças veiculadas pela imprensa local a respeito da…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/apos-cobrancas-prefeitura-inicia-manutencao-em-fonte-da-praca-fernando-jacob-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:25",
-"t": "Vigilância Sanitária de Votuporanga alerta comerciantes sobre golpe do Pix no WhatsApp",
-"p": "A Secretaria Municipal da Saúde de Votuporanga emitia um alerta aos comerciantes locais a respeito de uma tentativa de fraude que utiliza indevidamente o nome da Vigilância Sanitária Municipal. Proprietários de estabelecimentos relataram ter recebido mensagens no aplicativo WhatsApp de criminosos que se passam por…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/vigilancia-sanitaria-de-votuporanga-alerta-comerciantes-sobre-golpe-do-pix-no-whatsapp/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:19",
-"t": "EMEF de São João das Duas Pontes sedia formação pedagógica voltada para o Saresp",
-"p": "A EMEF Manoel Joaquim Santana sediou a 2ª Formação do Giro Brasil Cultural, conduzida pelo professor Marcos Ferrari Jr. O encontro teve como público-alvo as equipes pedagógicas responsáveis pelas turmas dos 2º e 5º anos do ensino fundamental, com foco no aprimoramento das estratégias de ensino voltadas ao Sistema…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São João das Duas Pontes"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/emef-de-sao-joao-das-duas-pontes-sedia-formacao-pedagogica-voltada-para-o-saresp/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:19",
-"t": "Profissionais de São João das Duas Pontes participam de reunião da Undime em Ouroeste",
-"p": "A Secretaria Municipal de Educação de Ouroeste sediou a 1ª Reunião da União dos Dirigentes Municipais de Educação (Undime) – Polo Fernandópolis. O encontro reuniu gestores e secretários de Educação dos municípios da região no intuito de debater o fortalecimento da rede pública de ensino e o alinhamento de políticas…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São João das Duas Pontes",
-"Fernandópolis",
-"Ouroeste"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/profissionais-de-sao-joao-das-duas-pontes-participam-de-reuniao-da-undime-em-ouroeste/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "14:19",
-"t": "Uso frequente de cones em buracos gera cobrança por tapa-buracos em Fernandópolis",
-"p": "A presença de cones de sinalização instalados pela Prefeitura de Fernandópolis para alertar sobre buracos em vias públicas tem chamado a atenção de motoristas e pedestres que transitam pelo município. Embora os equipamentos auxiliem na prevenção de acidentes e na indicação de trechos perigosos, a permanência…",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/uso-frequente-de-cones-em-buracos-gera-cobranca-por-tapa-buracos-em-fernandopolis/",
 "auto": true
 }
 ]
