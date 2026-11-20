@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T07:13:55-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-20T08:13:38-03:00",
+"novos_nesta_coleta": 44,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 76 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,144 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "08:00",
+"t": "‘Se a cor é minha, por que lhe incomoda?’: professor de Jundiaí transforma racismo em reflexão e literatura",
+"p": "Foto: Arquivo Pessoal Robson Luís Santana usa a literatura e a educação para provocar reflexões sobre identidade, preconceito e valorização da população negra.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/professor-escritor-jundiai-racismo-livros/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "08:00",
+"t": "Editorial — Entre dias difíceis e novos caminhos, Itapeva recebe boas novas",
+"p": "Itapeva atravessou semanas que certamente ficarão marcadas na memória de sua população. A crise no abastecimento e na qualidade da água trouxe preocupação, insegurança e uma rotina difícil para milhares de famílias. Houve dias de torneiras vazias, reservatórios esvaziados pela Sabesp para a recomposição do…",
+"tema": "Saneamento",
+"s": "alerta",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/editorial-1419/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "07:58",
+"t": "Com nova drenagem e asfalto, obras na Rua Francisco Nano são concluídas em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Intervenção na Vila Progresso incluiu a instalação de galerias para escoamento da água da chuva e a substituição do antigo pavimento.",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/rua-francisco-nano-asfalto-vila-progresso/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "07:54",
+"t": "País europeu fecha aeroporto e suspende voos após suspeita de invasão do espaço aéreo em meio a ataques russos",
+"p": "A Polônia suspendeu pousos e decolagens no aeroporto de Rzeszów, no sudeste do país, nesta sexta-feira (20), após ataques russos contra a Ucrânia e uma suspeita de violação do espaço aéreo polonês. Segundo a Agência Polonesa de Serviços de Navegação Aérea (PANSA), o fechamento ocorre para permitir operações de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/pais-europeu-fecha-aeroporto-e-suspende-voos-apos-suspeita-de-invasao-do-espaco-aereo-em-meio-a-ataques-russos/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "07:40",
+"t": "Inmet alerta estado de SP para chuva com granizo e ventos no feriado; Veja cidades",
+"p": "Inmet emitiu alerta para o risco de tempestade nesta sexta (20), feriado pelo Dia Consciência Negra",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/inmet-alerta-estado-de-sp-para-chuva-com-granizo-e-ventos-no-feriado-veja-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "07:37",
+"t": "Chuva volta ao litoral de SP nesta sexta-feira, ganha força no fim de semana e pode vir acompanhada de raios",
+"p": "As pancadas de chuva devem voltar a Santos, no litoral de São Paulo, a partir desta sexta-feira (20). A instabilidade pode aumentar entre domingo (22) e segunda-feira (23), quando há possibilidade de raios. Segundo a Defesa Civil, as precipitações devem ocorrer de forma intercalada, com períodos de abertura de sol…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/chuva-volta-ao-litoral-de-sp-nesta-sexta-feira-ganha-forca-no-fim-de-semana-e-pode-vir-acompanhada-de-raios/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "07:36",
+"t": "Novo CRAS no Morada das Vinhas poderá atender até 5 mil famílias em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí As obras da unidade chegaram a 95% de execução; equipamento receberá os serviços atualmente oferecidos na Vila Hortolândia.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Hortolândia",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/novo-cras-morada-das-vinhas-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "07:17",
+"t": "Feriado desta sexta tem alertas do Inmet para tempestades no estado de SP",
+"p": "Alerta laranja do Inmet abrange regiões de Presidente Prudente, Marília, Assis e litoral Sul. Capital deve ter calor e chuva",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/feriado-desta-sexta-tem-alertas-do-inmet-para-tempestades-no-estado-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "07:16",
+"t": "SP: capital tem calor e pancadas isoladas no feriado; no interior, alerta de chuvas mais fortes",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369837/sp-capital-tem-calor-e-pancadas-isoladas-no-feriado-no-interior-alerta-de-chuvas-mais-fortes",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "07:08",
+"t": "Feriado aumenta buscas por viagens de ônibus em 188% no Grande ABC",
+"p": "Feriado da Consciência Negra movimenta viagens para Rio de Janeiro, Curitiba e Litoral paulista",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369827/feriado-aumenta-buscas-por-viagens-de-onibus-em-188-no-grande-abc",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "07:02",
@@ -4612,6 +4744,132 @@
 ],
 "src": "Diário Oficial de Guaraçaí",
 "u": "https://data.queridodiario.ok.org.br/3517802/2026-11-19/9f46296c0604f506010c1b1ff791f3661a425d84.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Monte Alto: Declara Luto Oficial no Município, em razão do falecimento de Rosmeire Terezinha Thimoteo Picolo, esposa de Vereador Municipal, e dá providências",
+"p": "Decreto nº 5.288, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Monte Alto"
+],
+"src": "Diário Oficial de Monte Alto",
+"u": "https://data.queridodiario.ok.org.br/3531308/2026-11-19/f9251e7955d3e019a59e2dcc5f75172df2f63adf.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.288",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Poloni: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Poloni"
+],
+"src": "Diário Oficial de Poloni",
+"u": "https://data.queridodiario.ok.org.br/3539905/2026-11-19/dce50a0d934a63f7569625c55f9395a6e96e76b3.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Salto: Dispõe sobre abertura de movimentação orçamentária no valor de R$ 2.089.389,00 e dá outras providências",
+"p": "Decreto nº 425, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-19/83d16bf64b893aee89203dc63082d7745a57c56b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 425",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 435.000,00 e dá outras providências",
+"p": "Decreto nº 426, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-19/83d16bf64b893aee89203dc63082d7745a57c56b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 426",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 62.835,42 e dá outras providências",
+"p": "Decreto nº 427, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-19/83d16bf64b893aee89203dc63082d7745a57c56b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 427",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Valinhos: Dispõe sobre a Permissão de Uso, a título precário e gratuito, de espaços",
+"p": "Decreto nº 13.177, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-19/dc17a08bb07a56f041808fcf6b7f23478bd77dc1.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 13.177",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Valinhos: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-19/dc17a08bb07a56f041808fcf6b7f23478bd77dc1.pdf",
 "auto": true,
 "org": "Prefeitura",
 "num": "Créditos 19/11",
@@ -9244,6 +9502,240 @@
 },
 {
 "d": "2026-11-18",
+"h": "06:00",
+"t": "Itápolis: Aprova o Protocolo Municipal de Diabetes Mellitus – Atenção Primária à Saúde, no âmbito do Sistema Único de Saúde do Município de Itápolis",
+"p": "Decreto nº 6.774, publicado no Diário Oficial do município em 18/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-18/e937002384f9722e5440d21a0d3572531ab713b1.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.774",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Itápolis: Aprova o Protocolo Municipal de Administração de Medicamentos Injetáveis, no âmbito da rede municipal de saúde de",
+"p": "Decreto nº 6.775, publicado no Diário Oficial do município em 18/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-18/e937002384f9722e5440d21a0d3572531ab713b1.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.775",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Monte Mor: Estabelece normas relativas ao Encerramento da Execução Orçamentária, Financeira e Patrimonial do Poder Executivo Municipal, visando ao levantamento do Balanço Geral do Município de Monte Mor no…",
+"p": "Decreto nº 7074, publicado no Diário Oficial do município em 18/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-11-18/609621cd28813c47519e661230b94d4e72335bf3.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 7074",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Monte Mor: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 18/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-11-18/609621cd28813c47519e661230b94d4e72335bf3.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 18/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Nova Luzitânia: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 18/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Nova Luzitânia"
+],
+"src": "Diário Oficial de Nova Luzitânia",
+"u": "https://data.queridodiario.ok.org.br/3533304/2026-11-18/28ea0dd84bb0abad505484f9d098800672172e4a.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 18/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Penápolis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 18/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-18/290d5d6cf23fef1332551357352bef5985930e89.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 18/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Salto: Institui a Comissão de Seleção dos Editais de Chamamento Público da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB) – Ciclo 2 e nomeia seus membros",
+"p": "Decreto nº 423, publicado no Diário Oficial do município em 18/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-18/9cf69f5cbb8bdba721135b03b066219504fa020b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 423",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Tapiraí: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 18/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Tapiraí"
+],
+"src": "Diário Oficial de Tapiraí",
+"u": "https://data.queridodiario.ok.org.br/3553500/2026-11-18/d387dcc534fff2457c015e42d4d9f8ab7df14de8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 18/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "São Manuel: Estabelece o Manual do Processo Administrativo de Fiscalização do SIM-SM",
+"p": "Decreto nº 4512, publicado no Diário Oficial do município em 18/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Manuel"
+],
+"src": "Diário Oficial de São Manuel",
+"u": "https://data.queridodiario.ok.org.br/3550100/2026-11-18/a288841d8af3189ba2b29f02c7d2c00a6fc8baba.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4512",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Valinhos: Altera o Decreto nº 13.090/2026 que compõe o Conselho Municipal de Defesa do Patrimônio Cultural de Valinhos – CONDEPAV, biênio 2026/2028, na forma que especifica",
+"p": "Decreto nº 13.175, publicado no Diário Oficial do município em 18/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-18/4ac67a9d222537962d8bdd383ef5de91decc3110.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 13.175",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Tremembé: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 18/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Tremembé"
+],
+"src": "Diário Oficial de Tremembé",
+"u": "https://data.queridodiario.ok.org.br/3554805/2026-11-18/1783f5343ba12c6cd1c414f08302ae8c65f37490.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 18/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Taubaté: Dispõe sobre a suspensão do expediente nas repartições públicas municipais nos dias 24, 28, 29, 30 e 31 de dezembro de 2026",
+"p": "Decreto nº 16.526, publicado no Diário Oficial do município em 18/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Taubaté"
+],
+"src": "Diário Oficial de Taubaté",
+"u": "https://data.queridodiario.ok.org.br/3554102/2026-11-18/b110114b795149d2490e79ac246e545fefffaa53.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 16.526",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
+"h": "06:00",
+"t": "Vinhedo: Dispõe sobre nomeação dos membros do Conselho Municipal de Política Urbana – CMPU",
+"p": "Decreto nº 460, publicado no Diário Oficial do município em 18/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Vinhedo"
+],
+"src": "Diário Oficial de Vinhedo",
+"u": "https://data.queridodiario.ok.org.br/3556701/2026-11-18/cebd6b10dd65dfd3b9764919f6cf8d03f92f6220.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 460",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-18",
 "h": "05:41",
 "t": "‘Quem Ama Cuida’: Pilar tenta roubar celular de Diná no hospital no capítulo desta quinta-feira (19)",
 "p": "A atriz Rosi Campos atua na novela da Globo",
@@ -13162,6 +13654,96 @@
 "auto": true,
 "org": "Prefeitura",
 "num": "Nº 14.035",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-17",
+"h": "06:00",
+"t": "Itápolis: Aprova o Protocolo Municipal de Nutrição Enteral e Suplementação Alimentar no âmbito",
+"p": "Decreto nº 6.772, publicado no Diário Oficial do município em 17/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-17/1c11306f876f3e18bef970bc207d04c450fd0555.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.772",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-17",
+"h": "06:00",
+"t": "Macaubal: Dispõe sobre a autorização, o controle e a realização de serviço extraordinário no âmbito da Administração Pública Municipal de Macaubal",
+"p": "Decreto nº 647, publicado no Diário Oficial do município em 17/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Macaubal"
+],
+"src": "Diário Oficial de Macaubal",
+"u": "https://data.queridodiario.ok.org.br/3528106/2026-11-17/760bca44a48e5c16fc66dbe658682c3c9dfbef8b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 647",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-17",
+"h": "06:00",
+"t": "Osasco: Dispõe sobre o fluxo extraordinário de execução das emendas parlamentares municipais impositivas do exercício de 2026 e estabelece regra transitória para a formalização de ajustes",
+"p": "Decreto nº 15.333, publicado no Diário Oficial do município em 17/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Osasco"
+],
+"src": "Diário Oficial de Osasco",
+"u": "https://data.queridodiario.ok.org.br/3534401/2026-11-17/c06d20156a3b6320068e7f909a8e097054076227.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 15.333",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-17",
+"h": "06:00",
+"t": "São Manuel: Aprova o Regulamento de Inspeção Industrial e Sanitária de produtos de origem animal executada pelo Serviço de Inspeção Municipal – SIM de São Manuel",
+"p": "Decreto nº 4511, publicado no Diário Oficial do município em 17/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Manuel"
+],
+"src": "Diário Oficial de São Manuel",
+"u": "https://data.queridodiario.ok.org.br/3550100/2026-11-17/e39e29d08c037b5f4723bec12ee0d69de9efe1f1.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4511",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-17",
+"h": "06:00",
+"t": "Valinhos: Altera o Decreto nº 13.101/2026, que compõe o Conselho Municipal de Proteção e Bem-Estar Animal – CMPBEA, biênio 2026/2028, na forma que especifica",
+"p": "Decreto nº 13.169, publicado no Diário Oficial do município em 17/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Valinhos"
+],
+"src": "Diário Oficial de Valinhos",
+"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-17/fecb496e2a2660c39c897c1608c71c078fae9ac0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 13.169",
 "qd": true,
 "mun": true
 },
@@ -54483,492 +55065,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/nacional/brasil/aposentados-do-inss-que-pagaram-plano-de-saude-por-10-anos-podem-manter-cobertura-da-empresa-mas-precisam-cumprir-prazo-de-30-dias/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:47",
-"t": "Jundiaí escolhe nova Corte Afro nesta sexta-feira (6), com entrada gratuita no Polytheama",
-"p": "Foto: Prefeitura de Jundiaí Concurso celebra a cultura afro-brasileira e escolhe três representantes que participarão de ações de valorização da igualdade racial.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/corte-afro-2026-jundiai-miss-perola-negra/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:42",
-"t": "Marília fecha setembro no vermelho com 313 vagas de trabalho a menos",
-"p": "Leilão de oito terrenos em Marília prevê arrecadação mínima de R$ 7,09 milhões (Alexandre de Souza/Prefeitura de Marília) Setor de serviços lidera perdas, com 247 postos fechados; município registrou 3.373 demissões, aponta Novo Caged.",
-"tema": "Contas públicas",
-"s": "anunciado",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-fecha-setembro-no-vermelho-com-313-vagas-de-trabalho-a-menos/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:40",
-"t": "O motivo assustador que pode fazer ataques de elefantes dobrados até 2085 veio à tona e alerta cientistas no sul da África",
-"p": "O avanço das atividades agrícolas e o agravamento das condições de seca podem intensificar os conflitos entre humanos e elefantes no sul da África nas próximas décadas. De acordo com um novo estudo, a área da África do Sul com alto risco de ataques de elefantes às plantações pode crescer entre 33% e 100% até […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/o-motivo-assustador-que-pode-fazer-ataques-de-elefantes-dobrados-ate-2085-veio-a-tona-e-alerta-cientistas-no-sul-da-africa/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:40",
-"t": "Confira a agenda do Procon Móvel para a próxima semana",
-"p": "O Procon Móvel prestará atendimentos durante quatro dias e em três diferentes pontos da cidade, entre a próxima segunda (9) e sexta-feira (13). Sem a necessidade de agendamento prévio, a população poderá recorrer aos serviços relacionados aos direitos do consumidor, participar do Programa de Apoio ao…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/confira-a-agenda-do-procon-movel-para-a-proxima-semana-6/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:38",
-"t": "Câmara de Ribeirão Preto aprova cesta de Natal para servidores e alunos da rede pública",
-"p": "Entrega de cestas natalinas para servidores e alunos da rede municipal depende de orçamento disponível; veja a proposta aprovada pela Câmara",
-"tema": "Educação",
-"s": "entregue",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/politica/camara-de-ribeirao-preto-aprova-cesta-de-natal-para-servidores-e-alunos-da-rede-publica/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:37",
-"t": "Presidente do TRE-SP faz alerta sobre título de eleitor e explica riscos de não regularizar",
-"p": "Em entrevista ao portal, presidente do TRE-SP comentou a expectativa de procura pelos serviços da Justiça Eleitoral, a participação dos jovens e a importância de manter o título regularizado",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/politica/eleicoes/presidente-do-tre-sp-faz-alerta-sobre-titulo-de-eleitor-e-explica-riscos-de-nao-regularizar/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:36",
-"t": "PM prende grupo suspeito de tentar de furtar fios de cobre no Jardim Aparecida",
-"p": "Suspeitos foram abordados no Jardim Aparecida após denúncia à Polícia Militar; grupo estava com ferramentas especializadas para retirar cabos de dutos subterrâneos",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/pm-prende-grupo-suspeito-de-tentar-de-furtar-fios-de-cobre-no-jardim-aparecida/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:35",
-"t": "Gestante fica ferida após carro bater contra guard-rail na rodovia Rio-Santos",
-"p": "Acidente ocorreu na altura do km 93 da rodovia, em Caraguatatuba; mulher foi encaminhada à Santa Casa consciente e em estado estável",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Caraguatatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/gestante-fica-ferida-apos-carro-bater-contra-guard-rail-na-rodovia-rio-santos.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:31",
-"t": "Escola em Praia Grande ganha espaço que alia literatura e tecnologia",
-"p": "Novo equipamento está instalado na EM Ivanira Teresa Pedroso",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/litoral/escola-de-praia-grande-ganha-espaco-que-alia-literatura-e-tecnologia/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:30",
-"t": "Bolsa Família e MEI podem caminhar juntos em 2026 e estas são as regras para manter o benefício",
-"p": "Quem disse que abrir um negócio significa dar adeus ao Bolsa Família? Em 2026, os beneficiários do programa podem se tornar Microempreendedores Individuais (MEI) sem perder automaticamente o auxílio. Mas é preciso ficar atento: a renda familiar continua sendo o principal critério para a manutenção dos pagamentos.…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/bolsa-familia-e-mei-podem-caminhar-juntos-em-2026-e-estas-sao-as-regras-para-manter-o-beneficio/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:30",
-"t": "Realejo Livros recebe três escritores renomados para lançamentos gratuitos neste sábado em Santos; confira",
-"p": "A Realejo Livros, localizada no bairro do Gonzaga, em Santos, no litoral de São Paulo, promove neste sábado (7) uma programação especial com dois lançamentos literários. Os encontros reúnem o jornalista Leão Serva, o psicanalista Christian Dunker e o escritor Cláudio Thebas, com bate-papos e sessões de autógrafos…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo",
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/santos/realejo-livros-recebe-tres-escritores-renomados-para-lancamentos-gratuitos-neste-sabado-em-santos-confira/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:29",
-"t": "Defesa Civil ativa gabinete de crise para monitorar temporais em São Paulo",
-"p": "Mobilização foi iniciada nesta quinta-feira (5) para acompanhar a previsão de chuva forte, ventos de até 80 km/h, raios e possibilidade de granizo em diferentes regiões do Estado",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367063/defesa-civil-ativa-gabinete-de-crise-para-monitorar-temporais-em-sao-paulo-",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:20",
-"t": "Após ter terreno negado pela Prefeitura de SP, Santos mantém sonho vivo e coloca novo CT da base na capital como prioridade",
-"p": "O Santos Futebol Clube pretende construir um novo Centro de Treinamento (CT) exclusivo para suas categorias de base na capital paulista, mesmo após a Prefeitura de São Paulo negar a cessão de um terreno localizado na Zona Leste da cidade. A decisão foi publicada no Diário Oficial do Município na última terça-feira…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/esportes/apos-ter-terreno-negado-pela-prefeitura-de-sp-santos-mantem-sonho-vivo-e-coloca-novo-ct-da-base-na-capital-como-prioridade/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:15",
-"t": "Inscrições para concurso da Fazenda de SP terminam nesta quinta-feira",
-"p": "Seleção oferece oportunidades para Analista em Planejamento, Orçamento e Finanças Públicas, com remuneração inicial de até R$ 11,3 mil",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/inscricoes-para-concurso-da-fazenda-de-sp-terminam-nesta-quinta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:13",
-"t": "Polícia Militar captura procurado pela Justiça em Votuporanga",
-"p": "Homem tinha mandado de prisão em aberto e foi localizado durante patrulhamento na Rodovia Péricles Bellini (SP-461); pena supera sete anos de prisão. Um homem procurado pela Justiça foi preso na tarde desta quarta-feira (4.nov) durante uma ação da Polícia Militar na Rodovia Péricles Bellini (SP-461), em…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/policia-militar-captura-procurado-pela-justica-em-votuporanga-26/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:04",
-"t": "Ribeirão Pires instala cabos para iluminação na Kaethe Richers",
-"p": "Intervenção começou em outubro e prevê novos equipamentos ao longo da via, que liga a Rodovia Índio Tibiriçá à região central do município",
-"tema": "Transporte",
-"s": "anunciado",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367056/ribeirao-pires-instala-cabos-para-iluminacao-na-kaethe-richers",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "13:00",
-"t": "Santos recebe aval da Prefeitura de São Paulo para projetar futuro CT da base na capital",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367058/santos-recebe-aval-da-prefeitura-de-sao-paulo-para-projetar-futuro-ct-da-base-na-capital",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:56",
-"t": "Mauá negocia 170 vagas em curso gratuito com auxílio de R$ 1.600",
-"p": "Prefeitura discute parceria com a UFABC para oferecer formação a trabalhadores domésticos; proposta prevê aulas aos sábados e auxílio para transporte e alimentação.",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367053/maua-negocia-170-vagas-em-curso-gratuito-com-auxilio-de-rs-1-600",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:55",
-"t": "El Niño muito forte divide o Brasil entre seca e cheia e coloca o litoral paulista em atenção; anomalia é a mais intensa desde 1950",
-"p": "El Niño atinge intensidade muito forte com índice RONI em +2,0 °C, segundo a NOAA. Inmet prevê chuva acima da média no Sul, em São Paulo, Rio e centro-sul de Minas, e abaixo no Norte e Nordeste. Nordeste tem 16% da área em seca grave.",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/el-nino-muito-forte-divide-o-brasil-entre-seca-e-cheia-e-coloca-o-litoral-paulista-em-atencao-anomalia-e-a-mais-intensa-desde-1950/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:54",
-"t": "Psicologia e Medicina Unifev debatem obsessão e ciúme patológico no III PsicoTalks",
-"p": "Iniciativa conjunta entre os cursos promoveu integração interdisciplinar sobre temas centrais da saúde mental na noite da última terça-feira (3). A Unifev promoveu, na noite da última terça-feira (3.nov), a terceira edição do PsicoTalks no auditório do Câmpus Centro. Com o tema “Obsessão e ciúme patológico”, o…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/psicologia-e-medicina-unifev-debatem-obsessao-e-ciume-patologico-no-iii-psicotalks/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:51",
-"t": "Atendimentos para tratamento do câncer de próstata no SUS paulista sobem 21,8% em dois anos",
-"p": "Os atendimentos voltados ao tratamento do câncer de próstata na rede pública de saúde do Estado de São Paulo registraram um aumento de 21,8% entre 2023 e 2025. Dados levantados pela Secretaria de Estado da Saúde (SES-SP) revelam que, somente no ano passado, o Sistema Único de Saúde (SUS) realizou 209.611…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/atendimentos-para-tratamento-do-cancer-de-prostata-no-sus-paulista-sobem-218-em-dois-anos/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:49",
-"t": "Crise climática exige compromissos efetivos de governos e setor privado",
-"p": "Às vésperas da 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP 31), a Organização Meteorológica Mundial (OMM) alerta que as novas metas apresentadas pelos países permitirão reduzir as emissões globais em apenas 6% até 2035. É um avanço dez vezes menor do que o necessário para limitar o aumento da…",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/crise-climatica-exige-compromissos-efetivos-de-governos-e-setor-privado/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:48",
-"t": "Roubos caem 42,11% em um ano em São Caetano, aponta SSP",
-"p": "Município também registra queda anual de 13,33% nos furtos de veículos e, segundo a Prefeitura, não contabiliza homicídios dolosos desde o início de 2025.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Caetano do Sul"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367048/roubos-caem-42-11-em-um-ano-em-sao-caetano-aponta-ssp",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:44",
-"t": "Polícia Federal prende homem por armazenar conteúdos de abuso sexual infantil",
-"p": "Polícia Federal prendeu homem em flagrante nesta quinta (5), em Serrana, na região de Ribeirão Preto",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Ribeirão Preto",
-"Serrana"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/policia-federal-prende-homem-por-armazenar-conteudos-de-abuso-sexual-infantil/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:44",
-"t": "Força Tática prende casal e apreende drogas na zona rural de Votuporanga",
-"p": "Operação da Polícia Militar localizou tijolos de maconha, cocaína, crack, skunk, balança de precisão e motocicleta usada na distribuição de entorpecentes. Um casal foi preso em flagrante por tráfico de drogas e associação para o tráfico durante uma ação da Força Tática do 16º Batalhão de Polícia Militar do Interior…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/forca-tatica-prende-casal-e-apreende-drogas-na-zona-rural-de-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:44",
-"t": "Uso frequente de cones em buracos gera cobrança por tapa-buracos em Fernandópolis",
-"p": "A presença de cones de sinalização instalados pela Prefeitura de Fernandópolis para alertar sobre buracos em vias públicas tem chamado a atenção de motoristas e pedestres que transitam pelo município. Embora os equipamentos auxiliem na prevenção de acidentes e na indicação de trechos perigosos, a permanência…",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/uso-frequente-de-cones-em-buracos-gera-cobranca-por-tapa-buracos-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:43",
-"t": "Linha 21-Vinho pode ampliar ligação do Grande ABC com São Paulo",
-"p": "Gilvan Ferreira afirma que traçado em estudo inclui cidades da região; Metrô está na fase de contratação do anteprojeto",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367046/linha-21-vinho-pode-ampliar-ligacao-do-grande-abc-com-sao-paulo",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:42",
-"t": "Motociclista morre após bater na traseira de caminhão de lixo em Araçatuba",
-"p": "Jéssica Xavier de Souza, de 33 anos, morreu no local do acidente ocorrido próximo à ponte do Ribeirão Baguaçu. Polícia Civil apura as circunstâncias da colisão. Uma mulher de 33 anos morreu na noite desta quarta-feira (4.nov) após se envolver em um grave acidente de trânsito no bairro Residencial Vista Verde, em…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araçatuba"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/motociclista-morre-apos-bater-na-traseira-de-caminhao-de-lixo-em-aracatuba/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:41",
-"t": "Ribeirão Pires e Estado concluem reconstrução da galeria da Vila do Doce",
-"p": "Entrega oficial foi realizada na manhã desta quinta-feira (5), na Capital, pelo governador Tarcísio de Freitas",
-"tema": "Política",
-"s": "entregue",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367050/ribeirao-pires-e-estado-concluem-reconstrucao-da-galeria-da-vila-do-doce-",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:41",
-"t": "CINORP promove formação para coordenadores pedagógicos com foco na fluência leitora e na matemática",
-"p": "Encontro realizado em parceria com o Instituto Alfa e Beto reuniu coordenadores pedagógicos em Votuporanga para apresentar estratégias de diagnóstico e intervenção nas redes municipais de ensino. O Consórcio Intermunicipal do Noroeste Paulista (CINORP), por meio da Escola de Governo, realizou, em parceria com o…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/cinorp-promove-formacao-para-coordenadores-pedagogicos-com-foco-na-fluencia-leitora-e-na-matematica/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:40",
-"t": "Profissionais de São João das Duas Pontes participam de reunião da Undime em Ouroeste",
-"p": "A Secretaria Municipal de Educação de Ouroeste sediou a 1ª Reunião da União dos Dirigentes Municipais de Educação (Undime) – Polo Fernandópolis. O encontro reuniu gestores e secretários de Educação dos municípios da região no intuito de debater o fortalecimento da rede pública de ensino e o alinhamento de políticas…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São João das Duas Pontes",
-"Fernandópolis",
-"Ouroeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/profissionais-de-sao-joao-das-duas-pontes-participam-de-reuniao-da-undime-em-ouroeste/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:37",
-"t": "EMEF de São João das Duas Pontes sedia formação pedagógica voltada para o Saresp",
-"p": "A EMEF Manoel Joaquim Santana sediou a 2ª Formação do Giro Brasil Cultural, conduzida pelo professor Marcos Ferrari Jr. O encontro teve como público-alvo as equipes pedagógicas responsáveis pelas turmas dos 2º e 5º anos do ensino fundamental, com foco no aprimoramento das estratégias de ensino voltadas ao Sistema…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São João das Duas Pontes"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/emef-de-sao-joao-das-duas-pontes-sedia-formacao-pedagogica-voltada-para-o-saresp/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:37",
-"t": "Semob implanta mão única de direção em trecho de rua no Vila Rica",
-"p": "Fotos: Semob A Prefeitura de Sorocaba, por meio da Secretaria de Mobilidade (Semob), implantou, nesta quinta-feira (5), sentido único de circulação em trecho da Rua Rubens Antonio Nazare Santos, no bairro Vila Rica, Zona Oeste da cidade. A alteração foi realizada pela equipe de sinalização da Semob, no trecho entre…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/semob-implanta-mao-unica-de-direcao-em-trecho-de-rua-no-vila-rica/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:34",
-"t": "Festival Literário de São Vicente terá programação gratuita",
-"p": "Evento acontece de 12 a 14 de novembro, na Vila de São Vicente, com feira de livros, apresentações artísticas, atividades para crianças, jovens e adultos e programação gratuita.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/festival-literario-de-sao-vicente-tera-programacao-gratuita/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:32",
-"t": "Polícia Militar de SP abre concurso com 2 mil vagas para aluno-soldado; veja como se inscrever",
-"p": "Inscrições começam no dia 9 de novembro e seguem até 22 de dezembro; salário inicial é de R$ 5,4 mil",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/policia-militar-de-sp-abre-concurso-com-2-mil-vagas-para-aluno-soldado-veja-como-se-inscrever/",
 "auto": true
 }
 ]
