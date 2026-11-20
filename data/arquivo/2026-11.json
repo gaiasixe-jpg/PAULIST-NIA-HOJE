@@ -3,6 +3,58 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "20:45",
+"t": "Após incidente cibernético, Porto de Santos eleva nível de segurança; novos credenciamentos estão suspensos",
+"p": "Medidas de contingência implantadas pela Autoridade Portuária acompanham elevação do nível de proteção determinada pela Cesportos/SP",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/porto/apos-incidente-cibernetico-porto-de-santos-eleva-nivel-de-seguranca-novos-credenciamentos-estao-suspensos.html",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "20:14",
+"t": "Homem acusado de invadir ONG e matar 2 cães a tiros tem registro de CAC",
+"p": "Homem invadiu ONG no Jardim Anália Franco em 2 ocasiões e matou 2 cachorros a tiros. Ele disse à polícia que o barulho dos cães o incomodava",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-acusado-de-invadir-ong-e-matar-2-caes-a-tiros-tem-registro-de-cac",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:57",
+"t": "Vendaval e temporal atingem Foz do Iguaçu, no Paraná, arrancam telhados e secretário fala em ‘minitornado’",
+"p": "Uma forte tempestade acompanhada de rajadas de vento atingiu Foz do Iguaçu, no oeste do Paraná, na tarde desta sexta-feira (20/11). O temporal provocou destelhamentos, quedas de árvores e bloqueios de vias, mas não deixou feridos até o momento. Moradores da região da Tríplice Fronteira registraram em vídeo a…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/vendaval-e-temporal-atingem-foz-do-iguacu-no-parana-arrancam-telhados-e-secretario-fala-em-minitornado/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:34",
+"t": "PF diz que não há conversas de Mendonça com Vorcaro",
+"p": "A Polícia Federal (PF) informou ao Supremo Tribunal Federal (STF) que não foram encontrados registros de conversas entre o ex-banqueiro Daniel Vorcaro e o ministro André Mendonça. A conclusão consta no relatório entregue nesta semana ao presidente do STF, Edson Fachin , relator do caso Master. Mais cedo, o sigilo…",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Mendonça"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "19:29",
 "t": "Guarujá monta operação especial de trânsito neste domingo (22) para agilizar saída de veículos no fim do feriado",
 "p": "Ação ocorre das 17h às 20h em seis pontos com semáforo intermitente, bloqueios temporários e monitoramento no Túnel Juscelino Kubitschek",
@@ -13,6 +65,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/guaruja/guaruja-monta-operacao-especial-de-transito-neste-domingo-22-para-agilizar-saida-de-veiculos-no-fim-do-feriado.html",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:18",
+"t": "Luciano Hang, dono da Havan, doa com diversos empresários R$ 2,2 milhões para a compra dos equipamentos em nova UPA",
+"p": "Após ter doado US$ 1 milhão para conseguir viabilizar os equipamentos da nova Unidade de Pronto Atendimento (UPA) 24 horas de Barra Velha, em Santa Catarina, o empresário Luciano Hang, dono da Havan, fez uma nova ação. Ele conseguiu se juntar a outros empresários da região e arrecadar cerca de R$ 2,2 milhões. A…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/luciano-hang-dono-da-havan-doa-com-diversos-empresarios-r-22-milhoes-para-a-compra-dos-equipamentos-em-nova-upa/",
 "auto": true
 },
 {

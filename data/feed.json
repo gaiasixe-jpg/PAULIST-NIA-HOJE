@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T19:55:32-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-20T20:55:04-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 76 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,61 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "20:45",
+"t": "Após incidente cibernético, Porto de Santos eleva nível de segurança; novos credenciamentos estão suspensos",
+"p": "Medidas de contingência implantadas pela Autoridade Portuária acompanham elevação do nível de proteção determinada pela Cesportos/SP",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/porto/apos-incidente-cibernetico-porto-de-santos-eleva-nivel-de-seguranca-novos-credenciamentos-estao-suspensos.html",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "20:14",
+"t": "Homem acusado de invadir ONG e matar 2 cães a tiros tem registro de CAC",
+"p": "Homem invadiu ONG no Jardim Anália Franco em 2 ocasiões e matou 2 cachorros a tiros. Ele disse à polícia que o barulho dos cães o incomodava",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-acusado-de-invadir-ong-e-matar-2-caes-a-tiros-tem-registro-de-cac",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:57",
+"t": "Vendaval e temporal atingem Foz do Iguaçu, no Paraná, arrancam telhados e secretário fala em ‘minitornado’",
+"p": "Uma forte tempestade acompanhada de rajadas de vento atingiu Foz do Iguaçu, no oeste do Paraná, na tarde desta sexta-feira (20/11). O temporal provocou destelhamentos, quedas de árvores e bloqueios de vias, mas não deixou feridos até o momento. Moradores da região da Tríplice Fronteira registraram em vídeo a…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/vendaval-e-temporal-atingem-foz-do-iguacu-no-parana-arrancam-telhados-e-secretario-fala-em-minitornado/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:34",
+"t": "PF diz que não há conversas de Mendonça com Vorcaro",
+"p": "A Polícia Federal (PF) informou ao Supremo Tribunal Federal (STF) que não foram encontrados registros de conversas entre o ex-banqueiro Daniel Vorcaro e o ministro André Mendonça. A conclusão consta no relatório entregue nesta semana ao presidente do STF, Edson Fachin , relator do caso Master. Mais cedo, o sigilo…",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Mendonça"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "19:29",
@@ -65,6 +114,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/guaruja/guaruja-monta-operacao-especial-de-transito-neste-domingo-22-para-agilizar-saida-de-veiculos-no-fim-do-feriado.html",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:18",
+"t": "Luciano Hang, dono da Havan, doa com diversos empresários R$ 2,2 milhões para a compra dos equipamentos em nova UPA",
+"p": "Após ter doado US$ 1 milhão para conseguir viabilizar os equipamentos da nova Unidade de Pronto Atendimento (UPA) 24 horas de Barra Velha, em Santa Catarina, o empresário Luciano Hang, dono da Havan, fez uma nova ação. Ele conseguiu se juntar a outros empresários da região e arrecadar cerca de R$ 2,2 milhões. A…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/luciano-hang-dono-da-havan-doa-com-diversos-empresarios-r-22-milhoes-para-a-compra-dos-equipamentos-em-nova-upa/",
 "auto": true
 },
 {
@@ -54982,74 +55043,6 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/camara-aprova-mudancas-nas-regras-do-premio-professor-nota-1000/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:07",
-"t": "Secretária de Votuporanga representa especialistas em gestão da saúde formados pelo Albert Einstein",
-"p": "Ivonete Félix do Nascimento foi escolhida para representar os alunos do Hospital Israelita durante seminário estadual que marcou a conclusão de formação voltada à gestão regional da saúde pública. A secretária municipal da Saúde de Votuporanga, Ivonete Félix do Nascimento, foi escolhida para representar os…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/secretaria-de-votuporanga-representa-especialistas-em-gestao-da-saude-formados-pelo-albert-einstein/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:04",
-"t": "Polícia investiga morte de homem encontrado desacordado com ferimentos em Auriflama",
-"p": "Antônio de Oliveira, de 57 anos, foi localizado desacordado e com múltiplas lesões. Polícia Civil instaurou inquérito para esclarecer as circunstâncias da morte. A Polícia Civil investiga a morte de Antônio de Oliveira, de 57 anos, ocorrida nesta terça-feira (3.nov), após o homem ser encontrado desacordado e…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Auriflama"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/policia-investiga-morte-de-homem-encontrado-desacordado-com-ferimentos-em-auriflama/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:02",
-"t": "Novembro Azul: cuidado integral",
-"p": "Unidades de saúde de Votuporanga terão programação especial de 23 a 27 de novembro, com orientações sobre prevenção de doenças, vacinação, saúde mental e autocuidado. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com A prevenção de doenças e o acompanhamento regular da…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/novembro-azul-cuidado-integral/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:52",
-"t": "Polícia prende cinco suspeitos de furtar 74 cabeças de gado e desarticula esquema na região",
-"p": "Ação da Polícia Civil cumpriu mandados em várias cidades do interior paulista. Investigação aponta prejuízo de cerca de R$ 200 mil aos pecuaristas e apreendeu armas e celulares que podem revelar novos envolvidos. A Polícia Civil deflagrou nesta quarta-feira (4.nov) a operação “Curral do Crime”, que resultou na…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/policia-prende-cinco-suspeitos-de-furtar-74-cabecas-de-gado-e-desarticula-esquema-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:48",
-"t": "Tiroteio contra “seguranças do PCC” deixa 2 policiais feridos na Grande SP",
-"p": "Confronto entre policiais e suspeitos ligados ao tráfico ocorreu durante operação de combate ao crime organizado em comunidade nesta quinta",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/tiroteio-contra-segurancas-do-pcc-deixa-2-policiais-feridos-na-grande-sp",
 "auto": true
 }
 ]
