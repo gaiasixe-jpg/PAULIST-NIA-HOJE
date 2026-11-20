@@ -3,6 +3,86 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "19:29",
+"t": "Guarujá monta operação especial de trânsito neste domingo (22) para agilizar saída de veículos no fim do feriado",
+"p": "Ação ocorre das 17h às 20h em seis pontos com semáforo intermitente, bloqueios temporários e monitoramento no Túnel Juscelino Kubitschek",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/guaruja-monta-operacao-especial-de-transito-neste-domingo-22-para-agilizar-saida-de-veiculos-no-fim-do-feriado.html",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:12",
+"t": "Justiça absolve ex-chefe de investigadores da Dise e ex-policial civil em Campinas",
+"p": "Ex-chefe de investigadores da Dise foi absolvido por insuficiência de provas nos processos por associação criminosa e extorsão; MP pretende recorrer",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/justica-absolve-ex-chefe-de-investigadores-da-dise-e-ex-policial-civil-em-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:10",
+"t": "Bolsonaro é internado em Brasília após sentir fortes dores abdominais",
+"p": "Foto: Gustavo Moreno/STF O ex-presidente Jair Bolsonaro foi internado no Hospital DF Star, em Brasília, com fortes dores abdominais. Exames vão investigar as causas do quadro.",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/bolsonaro-internado-brasilia-dores-abdominais/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:52",
+"t": "Chuvas fortes atingem litoral norte e cidades do interior de São Paulo; veja os locais",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369951/chuvas-fortes-atingem-litoral-norte-e-cidades-do-interior-de-sao-paulo-veja-os-locais",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:33",
+"t": "Ministro do TSE vota para anular candidatura e votos de Ney Santos",
+"p": "Floriano de Azevedo Marques aponta elementos que ligam o deputado federal eleito ao crime organizado; defesa nega envolvimento do ex-prefeito de Embu das Artes com o PCC",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Embu das Artes"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369949/ministro-do-tse-vota-para-anular-candidatura-e-votos-de-ney-santos",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:30",
+"t": "Novos casos de sarampo e Covid-19: relembre como Xuxa e MC Fioti se uniram a órgãos de saúde para impulsionar campanhas de vacinação",
+"p": "MC Fiote em frente a fachada do Instituto Butantan, responsável pela produção da vacina CoronaVac/Divulgação/Kondzila",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/novos-casos-de-sarampo-e-covid-19-relembre-como-xuxa-e-mc-fioti-se-uniram-a-orgaos-de-saude-para-impulsionar-campanhas-de-vacinacao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "18:28",
 "t": "Operação da Polícia Civil prende três pessoas por tráfico de drogas",
 "p": "A Polícia Civil, por meio da Delegacia de Investigações Gerais (DIG) de Assis, deflagrou na última quinta-feira (19) a Operação “Átropos” para desarticular uma organização criminosa envolvida com o tráfico de drogas no município. A ofensiva policial resultou na prisão de dois homens e uma mulher, além do…",
@@ -29,6 +109,30 @@
 },
 {
 "d": "2026-11-20",
+"h": "18:22",
+"t": "Rolos de papel higiênico viram enfeites de Natal com formato de flores e flocos de neve usando apenas cortes, cola e tinta para decorar gastando pouco",
+"p": "Renovar a decoração de Natal sem comprometer o orçamento pode ser mais simples do que parece. Materiais comuns, frequentemente descartados após o uso, encontram novas possibilidades durante os preparativos para as festas de fim de ano. Entre eles estão os rolos de papel higiênico, que podem ser transformados em…",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/estilo-de-vida/rolos-de-papel-higienico-viram-enfeites-de-natal-com-formato-de-flores-e-flocos-de-neve-usando-apenas-cortes-cola-e-tinta-para-decorar-gastando-pouco/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:21",
+"t": "Jair Bolsonaro, ex-presidente do Brasil, deixa a prisão domiciliar e é internado em Brasília por conta problemas de saúde",
+"p": "O ex-presidente Jair Bolsonaro foi internado no final da tarde desta sexta-feira (20) para realizar exames por conta de dores abdominais. A informação foi confirmada pelo médico de Bolsonaro, Brasil Caiado. Segundo o boletim médico divulgado pelo Hospital DF Star, Bolsonaro deu entrada na unidade com “quadro de dor…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/jair-bolsonaro-ex-presidente-do-brasil-deixa-a-prisao-domiciliar-e-e-internado-em-brasilia-por-conta-problemas-de-saude/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "18:19",
 "t": "Tradicional clube do interior de São Paulo aprova SAF de R$ 1 bilhão",
 "p": "Divulgação / Guarani Projeto prevê investimentos no futebol, pagamento de dívidas e construção de novas estruturas.",
@@ -39,6 +143,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/mais/esportes/tradicional-clube-do-interior-de-sao-paulo-aprova-saf-de-r-1-bilhao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:15",
+"t": "Carreta perde o controle e tomba na Ayrton Senna, em Mogi das Cruzes",
+"p": "Segundo a concessionária, veículo estava transportando pó de madeira e a vítima foi encaminhada para o hospital",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/carreta-perde-o-controle-e-tomba-na-ayrton-senna-em-mogi-das-cruzes/",
 "auto": true
 },
 {
@@ -79,6 +197,20 @@
 },
 {
 "d": "2026-11-20",
+"h": "18:06",
+"t": "São Bernardo entrega 2º bebedouro inteligente",
+"p": "Novo equipamento na Avenida Francisco Prestes Maia integra o programa Cidade Linda de Viver e prepara o município para o enfrentamento das altas temperaturas e efeitos do El Niño",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369944/sao-bernardo-entrega-2-bebedouro-inteligente-",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "18:05",
 "t": "Ministro do TSE vota para barrar eleição de Ney Santos por ligação com PCC",
 "p": "Ministro do TSE vota para anular candidatura do deputado eleito Ney Santos por \"robustas\" provas de relação com o PCC",
@@ -115,6 +247,20 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/policia/dupla-e-presa-apos-roubar-casal-perto-da-praia-do-tombo-em-guaruja-video/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:58",
+"t": "Não deixe ninguém limitar seus sonhos, declara Vilma Marcelino",
+"p": "Vice-prefeita de Rio Grande da Serra faz reflexão sobre representatividade",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Rio Grande da Serra"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369942/-nao-deixe-ninguem-limitar-seus-sonhos-declara-vilma-marcelino",
 "auto": true
 },
 {

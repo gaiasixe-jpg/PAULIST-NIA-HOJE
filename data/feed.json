@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-20T18:55:54-03:00",
-"novos_nesta_coleta": 19,
+"atualizado": "2026-11-20T19:55:32-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -27,17 +28,12 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "O Diário de Mogi",
-"erro": "The read operation timed out"
 },
 {
 "fonte": "A Tribuna",
@@ -50,9 +46,93 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "19:29",
+"t": "Guarujá monta operação especial de trânsito neste domingo (22) para agilizar saída de veículos no fim do feriado",
+"p": "Ação ocorre das 17h às 20h em seis pontos com semáforo intermitente, bloqueios temporários e monitoramento no Túnel Juscelino Kubitschek",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/guaruja-monta-operacao-especial-de-transito-neste-domingo-22-para-agilizar-saida-de-veiculos-no-fim-do-feriado.html",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:12",
+"t": "Justiça absolve ex-chefe de investigadores da Dise e ex-policial civil em Campinas",
+"p": "Ex-chefe de investigadores da Dise foi absolvido por insuficiência de provas nos processos por associação criminosa e extorsão; MP pretende recorrer",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/justica-absolve-ex-chefe-de-investigadores-da-dise-e-ex-policial-civil-em-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "19:10",
+"t": "Bolsonaro é internado em Brasília após sentir fortes dores abdominais",
+"p": "Foto: Gustavo Moreno/STF O ex-presidente Jair Bolsonaro foi internado no Hospital DF Star, em Brasília, com fortes dores abdominais. Exames vão investigar as causas do quadro.",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/bolsonaro-internado-brasilia-dores-abdominais/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:52",
+"t": "Chuvas fortes atingem litoral norte e cidades do interior de São Paulo; veja os locais",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369951/chuvas-fortes-atingem-litoral-norte-e-cidades-do-interior-de-sao-paulo-veja-os-locais",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:33",
+"t": "Ministro do TSE vota para anular candidatura e votos de Ney Santos",
+"p": "Floriano de Azevedo Marques aponta elementos que ligam o deputado federal eleito ao crime organizado; defesa nega envolvimento do ex-prefeito de Embu das Artes com o PCC",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Embu das Artes"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369949/ministro-do-tse-vota-para-anular-candidatura-e-votos-de-ney-santos",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:30",
+"t": "Novos casos de sarampo e Covid-19: relembre como Xuxa e MC Fioti se uniram a órgãos de saúde para impulsionar campanhas de vacinação",
+"p": "MC Fiote em frente a fachada do Instituto Butantan, responsável pela produção da vacina CoronaVac/Divulgação/Kondzila",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/novos-casos-de-sarampo-e-covid-19-relembre-como-xuxa-e-mc-fioti-se-uniram-a-orgaos-de-saude-para-impulsionar-campanhas-de-vacinacao/",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "18:28",
@@ -81,6 +161,30 @@
 },
 {
 "d": "2026-11-20",
+"h": "18:22",
+"t": "Rolos de papel higiênico viram enfeites de Natal com formato de flores e flocos de neve usando apenas cortes, cola e tinta para decorar gastando pouco",
+"p": "Renovar a decoração de Natal sem comprometer o orçamento pode ser mais simples do que parece. Materiais comuns, frequentemente descartados após o uso, encontram novas possibilidades durante os preparativos para as festas de fim de ano. Entre eles estão os rolos de papel higiênico, que podem ser transformados em…",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/estilo-de-vida/rolos-de-papel-higienico-viram-enfeites-de-natal-com-formato-de-flores-e-flocos-de-neve-usando-apenas-cortes-cola-e-tinta-para-decorar-gastando-pouco/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:21",
+"t": "Jair Bolsonaro, ex-presidente do Brasil, deixa a prisão domiciliar e é internado em Brasília por conta problemas de saúde",
+"p": "O ex-presidente Jair Bolsonaro foi internado no final da tarde desta sexta-feira (20) para realizar exames por conta de dores abdominais. A informação foi confirmada pelo médico de Bolsonaro, Brasil Caiado. Segundo o boletim médico divulgado pelo Hospital DF Star, Bolsonaro deu entrada na unidade com “quadro de dor…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/jair-bolsonaro-ex-presidente-do-brasil-deixa-a-prisao-domiciliar-e-e-internado-em-brasilia-por-conta-problemas-de-saude/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "18:19",
 "t": "Tradicional clube do interior de São Paulo aprova SAF de R$ 1 bilhão",
 "p": "Divulgação / Guarani Projeto prevê investimentos no futebol, pagamento de dívidas e construção de novas estruturas.",
@@ -91,6 +195,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/mais/esportes/tradicional-clube-do-interior-de-sao-paulo-aprova-saf-de-r-1-bilhao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:15",
+"t": "Carreta perde o controle e tomba na Ayrton Senna, em Mogi das Cruzes",
+"p": "Segundo a concessionária, veículo estava transportando pó de madeira e a vítima foi encaminhada para o hospital",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/carreta-perde-o-controle-e-tomba-na-ayrton-senna-em-mogi-das-cruzes/",
 "auto": true
 },
 {
@@ -131,6 +249,20 @@
 },
 {
 "d": "2026-11-20",
+"h": "18:06",
+"t": "São Bernardo entrega 2º bebedouro inteligente",
+"p": "Novo equipamento na Avenida Francisco Prestes Maia integra o programa Cidade Linda de Viver e prepara o município para o enfrentamento das altas temperaturas e efeitos do El Niño",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369944/sao-bernardo-entrega-2-bebedouro-inteligente-",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "18:05",
 "t": "Ministro do TSE vota para barrar eleição de Ney Santos por ligação com PCC",
 "p": "Ministro do TSE vota para anular candidatura do deputado eleito Ney Santos por \"robustas\" provas de relação com o PCC",
@@ -167,6 +299,20 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/policia/dupla-e-presa-apos-roubar-casal-perto-da-praia-do-tombo-em-guaruja-video/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:58",
+"t": "Não deixe ninguém limitar seus sonhos, declara Vilma Marcelino",
+"p": "Vice-prefeita de Rio Grande da Serra faz reflexão sobre representatividade",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Rio Grande da Serra"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369942/-nao-deixe-ninguem-limitar-seus-sonhos-declara-vilma-marcelino",
 "auto": true
 },
 {
@@ -54904,154 +55050,6 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/tiroteio-contra-segurancas-do-pcc-deixa-2-policiais-feridos-na-grande-sp",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:18",
-"t": "\"Direitos humanos urgente\": presos sobem em caixa d'água de presídio em SP",
-"p": "Segundo a Polícia Penal, os presos aproveitaram um momento de deslocamento interno para subir na estrutura. Policiais trabalham no resgate",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/direitos-humanos-urgente-presos-sobem-em-caixa-dagua-de-presidio-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:18",
-"t": "Espaço cultural em São Vicente recebe workshop e mostra coletiva sobre ancestralidade em homenagem ao Dia da Consciência Negra",
-"p": "O Centro Cultural Grupo Criarts, em São Vicente, recebe uma programação artística em celebração ao Dia da Consciência Negra. O evento inclui um workshop neste sábado (7) e a exposição coletiva ‘A arte é a voz que ecoa nossa ancestralidade’, que acontece de 19 de novembro a 20 de dezembro. A visitação será gratuita,…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/sao-vicente/sao-vicente-recebe-workshop-e-mostra-em-homenagem-ao-dia-da-consciencia-negra/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:13",
-"t": "Zagueiro da base do Santos assina primeiro contrato profissional",
-"p": "Gabriel Neves, de 17 anos, assina vínculo válido até o fim de 2028 com o Peixe; destaque da equipe sub-17, zagueiro já participa de treinos no sub-20",
-"tema": "Geral",
-"s": "obra",
-"c": [
-"Santos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/esportes/futebolnacional/santos/zagueiro-da-base-do-santos-assina-primeiro-contrato-profissional.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:10",
-"t": "\"Supermaconha\": três são presos em rodovia com mais de 30 quilos de skunk",
-"p": "Durante a abordagem, os policiais encontraram um dispositivo de rastreamento dentro da droga, que seria deixada na capital paulista",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/supermaconha-tres-sao-presos-em-rodovia-com-mais-de-30-quilos-de-skunk",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:08",
-"t": "Coca-Cola investe R$ 75 milhões em centro de distribuição de 40 mil m² às margens de rodovia no interior de SP para atender 22 cidades e gerar 400 empregos",
-"p": "Limeira, no interior de São Paulo, receberá um novo centro de distribuição da Coca-Cola FEMSA Brasil, empresa que já conta com diversas fábricas no solo brasileiro. O empreendimento terá investimento de R$ 75 milhões e previsão de gerar 400 empregos diretos na fase inicial de operação. A unidade será construída em…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Limeira"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/coca-cola-investe-r-75-milhoes-em-centro-de-distribuicao-de-40-mil-m%c2%b2-as-margens-de-rodovia-no-interior-de-sp-para-atender-22-cidades-e-gerar-400-empregos/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:07",
-"t": "Turistas perdem viagem à Grécia após seguir orientação de chatbot e agora cobram R$ 13,5 mil",
-"p": "Dois passageiros da Noruega perderam uma viagem de férias para a ilha de Creta, na Grécia, depois de seguirem informações fornecidas por um chatbot de atendimento aeroportuário. Agora, eles buscam uma indenização de 26 mil coroas norueguesas, aproximadamente R$ 13,5 mil. O caso foi divulgado pelo jornal norueguês…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/turismo/turistas-perdem-viagem-a-grecia-apos-seguir-orientacao-de-chatbot-e-agora-cobram-r-135-mil-nn/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:04",
-"t": "Trabalho escravo: 22 são resgatados em colheita de feijão em São Paulo",
-"p": "Trabalhadores atuavam em lavoura de feijão descalços, sem água potável, banheiros ou equipamentos de segurança, além de dormirem no chão",
-"tema": "Água",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/trabalho-escravo-22-resgatados-sp",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:03",
-"t": "MPSP denuncia vereador do PT, filho e ex-assessores por lavagem de dinheiro",
-"p": "Esquema supostamente vinculado ao ex-presidente da Câmara de Catanduva, Marcos Aparecido Ferreira, desviou cerca de R$ 3,89 milhões",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Catanduva"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/mpsp-denuncia-vereador-do-pt-filho-e-ex-assessores-por-lavagem-de-dinheiro",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:02",
-"t": "Enem: começar pelas questões ou pela redação? Veja como administrar o tempo na prova",
-"p": "No Exame Nacional do Ensino Médio (Enem), administrar o tempo é um dos desafios enfrentados pelos candidatos. Além das questões objetivas, o primeiro dia de prova inclui a redação, que exige leitura, planejamento, elaboração e revisão do texto. Por isso, deixar a produção textual para os últimos minutos pode…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/enem-comecar-pelas-questoes-ou-pela-redacao-veja-como-administrar-o-tempo-na-prova/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:00",
-"t": "Menina de 11 anos percebe motorista sem ar no ônibus escolar e chama o pai, que usa carrinho de golfe para ajudar a salvar a profissional de uma crise de asma",
-"p": "Durante a viagem de ônibus para casa, a menina Bella Scott, de 11 anos, percebeu que a motorista precisava de ajuda. Christine Huston tossia repetidamente, respirava com chiado e falava com dificuldade. Diante desses sinais, a estudante pegou o celular e ligou para o pai. Primeiro, descreveu o que acontecia;…",
-"tema": "Educação",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/menina-de-11-anos-percebe-motorista-sem-ar-no-onibus-escolar-e-chama-o-pai-que-usa-carrinho-de-golfe-para-ajudar-a-salvar-a-profissional-de-uma-crise-de-asma/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "18:00",
-"t": "Campinas registra mais de 500 recusas ao teste do bafômetro em blitze realizadas em 2026",
-"p": "Levantamento da Emdec aponta que quase 19 mil testes foram realizados neste ano; dos 35 mortos no trânsito da cidade, oito tiveram a morte associada ao consumo de álcool, entre os 19 casos já analisados",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-registra-mais-de-500-recusas-ao-teste-do-bafometro-em-blitze-realizadas-em-2026/",
 "auto": true
 }
 ]
