@@ -1,12 +1,11 @@
 {
-"atualizado": "2026-11-20T17:58:30-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-20T18:55:54-03:00",
+"novos_nesta_coleta": 19,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -37,6 +36,10 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "The read operation timed out"
+},
+{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
@@ -50,6 +53,122 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "18:28",
+"t": "Operação da Polícia Civil prende três pessoas por tráfico de drogas",
+"p": "A Polícia Civil, por meio da Delegacia de Investigações Gerais (DIG) de Assis, deflagrou na última quinta-feira (19) a Operação “Átropos” para desarticular uma organização criminosa envolvida com o tráfico de drogas no município. A ofensiva policial resultou na prisão de dois homens e uma mulher, além do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Assis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-da-policia-civil-prende-tres-pessoas-por-trafico-de-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:28",
+"t": "Justiça mantém condenação de professor por ataque à filha de Roberto Justus",
+"p": "O Tribunal de Justiça do Estado de São Paulo (TJSP) confirmou, em segunda instância, a condenação do professor aposentado da Universidade Federal do Rio de Janeiro (UFRJ) Marcos Dantas por danos morais após ele sugerir o uso de guilhotina em uma publicação envolvendo Vicky Justus, filha caçula do empresário Roberto…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-mantem-condenacao-de-professor-por-ataque-a-filha-de-roberto-justus/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:19",
+"t": "Tradicional clube do interior de São Paulo aprova SAF de R$ 1 bilhão",
+"p": "Divulgação / Guarani Projeto prevê investimentos no futebol, pagamento de dívidas e construção de novas estruturas.",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/tradicional-clube-do-interior-de-sao-paulo-aprova-saf-de-r-1-bilhao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:13",
+"t": "Brasileiro participa de premiação do príncipe William em Mumbai, na Índia",
+"p": "Com clientes no alto escalão do governo Trump, Juliano Villela participou de premiação ambiental que reuniu integrantes da realeza britânica",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/brasileiro-participa-de-premiacao-do-principe-william-em-mumbai-na-india",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:09",
+"t": "Chuva e granizo: Defesa Civil emite alerta severo para zona norte de SP",
+"p": "Além de chuva forte se espalhando pela região, há o risco de \"raios, vento e condição para granizo\"",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-e-granizo-defesa-civil-emite-alerta-severo-para-zona-norte-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:07",
+"t": "Jair Bolsonaro é levado às pressas a hospital em Brasília após sentir dores abdominais",
+"p": "O ex-Presidente Jair Bolsonaro (PL) foi internado na tarde desta sexta-feira (20/11) no Hospital DF Star, em Brasília, após sentir fortes dores abdominais. A transferência foi confirmada pelo médico do ex-mandatário, o cardiologista Brasil Caiado. Bolsonaro deixou sua residência no Jardim Botânico, onde cumpre…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/jair-bolsonaro-e-levado-as-pressas-a-hospital-em-brasilia-apos-sentir-dores-abdominais/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:05",
+"t": "Ministro do TSE vota para barrar eleição de Ney Santos por ligação com PCC",
+"p": "Ministro do TSE vota para anular candidatura do deputado eleito Ney Santos por \"robustas\" provas de relação com o PCC",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ministro-do-tse-vota-para-barrar-eleicao-de-ney-santos-por-ligacao-com-pcc",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:00",
+"t": "Campinas tem alta de 118% nos casos de racismo e discriminação em 2026",
+"p": "Registros de racismo incluem ofensas, constrangimentos e discriminação religiosa; escolas concentram denúncias",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-alta-de-118-nos-casos-de-racismo-e-discriminacao-em-2026/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "18:00",
+"t": "Dupla é presa após roubar casal perto da praia do Tombo, em Guarujá; VÍDEO",
+"p": "Reprodução/Guarujá Mil Grau Dois suspeitos foram detidos pela Polícia Militar após roubarem um casal nas proximidades da Praia do Tombo, em Guarujá.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/dupla-e-presa-apos-roubar-casal-perto-da-praia-do-tombo-em-guaruja-video/",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "17:50",
@@ -197,6 +316,20 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4369930/policia-militar-prende-homem-apos-furto-em-comercio-em-maua",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "16:37",
+"t": "Polícia Militar prende homem após furto em comércio de Mauá",
+"p": "Indivíduo tentou entrar à força em um veículo ocupado por uma motorista para fugir",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369930/policia-militar-prende-homem-apos-furto-em-comercio-de-maua",
 "auto": true
 },
 {
@@ -54919,144 +55052,6 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/campinas-registra-mais-de-500-recusas-ao-teste-do-bafometro-em-blitze-realizadas-em-2026/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:47",
-"t": "Confira as ofertas de emprego no PAT Marília nesta sexta-feira (6/11)",
-"p": "Posto reúne 94 vagas em diferentes áreas, com oportunidades na indústria, limpeza, construção civil, transporte e serviços; há seleção exclusiva para PCDs.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-sexta-feira-6-11/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:46",
-"t": "Mogi das Cruzes recebe a 20ª edição do Festcão; confira a programação",
-"p": "Evento gratuito será realizado no Parque Botyra e terá concurso de cães, apresentações e espaço para adoção responsável",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/cultura/mogi-das-cruzes-recebe-20a-edicao-do-festcao-confira-a-programacao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:46",
-"t": "Mogi das Cruzes recebe a 20ª edição do Festcão; confira a programação",
-"p": "Evento gratuito será realizado no Parque Botyra e terá concurso de cães, apresentações e espaço para adoção responsável",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-recebe-20a-edicao-do-festcao-confira-a-programacao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:43",
-"t": "Confira a previsão do tempo para Marília nesta sexta-feira (6/11)",
-"p": "Termômetros podem atingir os 34°C durante a tarde, há previsão de chuvas rápidas e isoladas na madrugada e no meio da manhã.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-sexta-feira-6-11/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:42",
-"t": "Governo prepara nova mordida no bolso: imposto do pecado chega a bebidas, cigarros e carros e terá taxa de até 66,7% em 2027; veja o que muda",
-"p": "O governo federal definiu as alíquotas do Imposto Seletivo, conhecido popularmente como “imposto do pecado”. A medida prevê a cobrança sobre produtos e atividades considerados prejudiciais à saúde ou ao meio ambiente. As regras constam de uma medida provisória (MP) assinada pelo presidente Luiz Inácio Lula da Silva…",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/economia/governo-prepara-nova-mordida-no-bolso-imposto-do-pecado-chega-a-bebidas-cigarros-e-carros-e-tera-taxa-de-ate-667-em-2027-veja-o-que-muda/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:35",
-"t": "Justiça acata pedido da Prefeitura e suspende prazo para regularização do AVCB do Paço Municipal",
-"p": "Processo permanece em andamento e os próximos desdobramentos dependerão da nova vistoria técnica.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/justica-acata-pedido-da-prefeitura-e-suspende-prazo-para-regularizacao-do-avcb-do-paco-municipal/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:31",
-"t": "Grupo do Cras Nova Esperança faz atividade alusiva ao Dia da Consciência Negra",
-"p": "Fotos: Secid O grupo Maria Fuxiqueiras participou, nesta quarta-feira (4), de uma atividade de artesanato alusiva ao Dia da Consciência Negra (20 de novembro), no Centro de Referência em Assistência Social (Cras) Nova Esperança. Promovido pela Prefeitura de Sorocaba, por meio da Secretaria da Cidadania (Secid), o…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/grupo-do-cras-nova-esperanca-faz-atividade-alusiva-ao-dia-da-consciencia-negra/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:31",
-"t": "Escolas municipais da Zona Norte de Sorocaba participam de projetos de turismo pedagógico da Setur",
-"p": "Fotos: Reprodução/Setur Estudantes e gestores da Escola Municipal “Edward Frufru Marciano” e da Escola Municipal “Avelino Leite de Camargo” participaram, nesta quarta-feira (4), de novas edições de projetos da Secretaria do Turismo (Setur), que visam disseminar conhecimento a respeito de Sorocaba, exibir o turismo…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/escolas-municipais-da-zona-norte-de-sorocaba-participam-de-projetos-de-turismo-pedagogico-da-setur/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:30",
-"t": "Diagnosticada com câncer de mama aos 34 anos, servidora enfrenta três anos de tratamento e relata as marcas que permanecem depois das terapias",
-"p": "O filho tinha 5 anos quando Kátia Sant’Ana recebeu o diagnóstico de câncer de mama, em 2018. A preocupação com a criança atravessou uma rotina que reuniu afastamento do trabalho, mudanças físicas e tratamentos ao longo de aproximadamente três anos. Em relato publicado pela Prefeitura de São Vicente em 26 de outubro…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/diagnosticada-com-cancer-de-mama-aos-34-anos-servidora-enfrenta-tres-anos-de-tratamento-e-relata-as-marcas-que-permanecem-depois-das-terapias-nn/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:26",
-"t": "UBS Vitória Régia promove ações de conscientização e educação preventiva à comunidade local",
-"p": "A equipe da UBS Vitória Régia promoveu, nesta quarta-feira (4), ações educativas e de conscientização à comunidade A iniciativa foi realizada em parceria com estudantes do curso de Medicina da Universidade Paulista (Unip), campus Sorocaba. Durante o evento, a população foi orientada sobre a importância da vacinação…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/ubs-vitoria-regia-promove-acoes-de-conscientizacao-e-educacao-preventiva-a-comunidade-local/",
 "auto": true
 }
 ]
