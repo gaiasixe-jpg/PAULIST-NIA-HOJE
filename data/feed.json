@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T03:14:32-03:00",
+"atualizado": "2026-11-20T04:31:28-03:00",
 "novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
@@ -50,6 +50,32 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "03:30",
+"t": "‘Avenida Brasil’: Lucinda assume assassinato de Max na delegacia e Nina teme ser a culpada nesta sexta (20)",
+"p": "No capítulo desta sexta-feira (20), em ‘Avenida Brasil’, a morte misteriosa do vigarista desencadeia uma onda de culpa, fofas e uma confissão surpreendente perante a polícia. Abalada por ter despertado ao lado do cadáver sem gravações claras do ocorrido, a jovem desabafa com o namorado, pois Nina diz a Jorginho que…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/avenida-brasil-lucinda-assume-assassinato-de-max-na-delegacia-e-nina-teme-ser-a-culpada-nesta-sexta-20/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "03:28",
+"t": "Alunos de escola municipal conhecem produção agrícola em projeto educativo",
+"p": "Atividade reuniu 15 crianças de 4 anos, que aprenderam sobre o cultivo de alimentos e participaram do plantio de mudas.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/alunos-de-escola-municipal-conhecem-producao-agricola-em-projeto-educativo/",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "02:30",
@@ -54930,32 +54956,6 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/hospital-de-varzea-paulista-tomografias-diagnosticos-de-urgencia/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:20",
-"t": "Prefeitura abre inscrições para Torneio de Xadrez no CEU das Artes do Laranjeiras",
-"p": "A Prefeitura de Sorocaba promove, no dia 6 de dezembro, domingo, o IX Torneio Regional de Xadrez, a partir das 8h30, no Centro de Esportes e Artes Unificado “Prof. Flávio Vespasiano Di Giorgi” (CEU das Artes), no Parque das Laranjeiras. A competição é aberta a participantes de todas as idades e está com inscrições…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-abre-inscricoes-para-torneio-de-xadrez-no-ceu-das-artes-do-laranjeiras/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:16",
-"t": "PM de SP abre concurso para aluno-soldado com salário inicial de R$ 5,4 mil",
-"p": "Inscrições começam na próxima segunda-feira (9/11) e ficam abertas até 22 de dezembro. Concurso tem prova objetiva e teste físico",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/pm-de-sp-abre-concurso-para-aluno-soldado-com-salario-inicial-de-r-54-mil",
 "auto": true
 }
 ]

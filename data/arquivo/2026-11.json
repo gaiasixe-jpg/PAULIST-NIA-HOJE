@@ -3,6 +3,32 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "03:30",
+"t": "‘Avenida Brasil’: Lucinda assume assassinato de Max na delegacia e Nina teme ser a culpada nesta sexta (20)",
+"p": "No capítulo desta sexta-feira (20), em ‘Avenida Brasil’, a morte misteriosa do vigarista desencadeia uma onda de culpa, fofas e uma confissão surpreendente perante a polícia. Abalada por ter despertado ao lado do cadáver sem gravações claras do ocorrido, a jovem desabafa com o namorado, pois Nina diz a Jorginho que…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/avenida-brasil-lucinda-assume-assassinato-de-max-na-delegacia-e-nina-teme-ser-a-culpada-nesta-sexta-20/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "03:28",
+"t": "Alunos de escola municipal conhecem produção agrícola em projeto educativo",
+"p": "Atividade reuniu 15 crianças de 4 anos, que aprenderam sobre o cultivo de alimentos e participaram do plantio de mudas.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/alunos-de-escola-municipal-conhecem-producao-agricola-em-projeto-educativo/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "02:30",
 "t": "Metrô para cegos em São Paulo: “Uma caverna escura com um dragão lá dentro”",
 "p": "Bombeira aposentada, Sueli Amaral conta os desafios do transporte público de SP para pessoas cegas. \"O metrô é uma caverna escura\", diz",
