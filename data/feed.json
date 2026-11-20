@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-19T23:23:18-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-20T01:00:15-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,62 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "00:21",
+"t": "Comissão aprova criação de centros de acolhimento de curta permanência para idosos",
+"p": "Zeca Ribeiro / Câmara dos Deputados Deputado Alexandre Lindenmeyer, relator da proposta A Comissão de Defesa dos Direitos da Pessoa Idosa aprovou o Projeto de Lei 1762/26, do deputado David Soares (Pode-SP), que determina a oferta de centros de acolhimento de curta permanência para pessoas idosas durante períodos…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/comissao-aprova-criacao-de-centros-de-acolhimento-de-curta-permanencia-para-idosos/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "00:21",
+"t": "Consciência Negra: veja o que abre e o que fecha durante feriado prolongado em Rio Preto e Araçatuba",
+"p": "Veja o que abre e o que fecha durante feriado da Consciência Negra Devido ao feriado do Dia da Consciência Negra, celebrado na sexta-feira (2), algumas repartições públicas e serviços funcionam em horários diferenciados em São José do Rio Preto e em Araçatuba (SP). Os atendimentos médicos de urgência e emergência e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/consciencia-negra-veja-o-que-abre-e-o-que-fecha-durante-feriado-prolongado-em-rio-preto-e-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "00:21",
+"t": "VÍDEO: mulher é presa após furtar 20 peças de roupa em loja no interior de SP",
+"p": "Mulher é presa após furtar 20 peças de roupa em loja de Rio Preto Uma mulher de 60 anos foi presa em flagrante na manhã desta quinta-feira (19) por furtar 20 peças de roupa de uma loja no Calçadão de São José do Rio Preto (SP). Segundo a Guarda Civil Municipal (GCM), não é a […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/video-mulher-e-presa-apos-furtar-20-pecas-de-roupa-em-loja-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "00:21",
+"t": "Chuva causa transtornos, queda de árvores e alagamentos em cidades no interior de SP; vídeo",
+"p": "Chuva causa transtornos, alagamentos e quedas de árvores na região de Votuporanga A chuva registrada na tarde desta quinta-feira (19) causou transtornos, quedas de árvores e alagamentos em algumas cidades da região noroeste de São Paulo. Imagens enviadas por moradores à produção da TV TEM mostram que os municípios…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Votuporanga",
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/chuva-causa-transtornos-queda-de-arvores-e-alagamentos-em-cidades-no-interior-de-sp-video/",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "23:14",
@@ -54902,63 +54958,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367017/grande-abc-recebe-a-primeira-fashion-weekend-plus-size",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:04",
-"t": "Cadeirante é achado morto com cortes na garganta e lesão de pedrada na face",
-"p": "Segundo a GCM, o cadeirante foi encontrado na calçada da Rua Senador Feijó, região central de São Paulo, na manhã desta quinta-feira (5/11)",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/cadeirante-e-achado-morto-com-cortes-na-garganta-e-lesao-de-pedrada-na-face",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:04",
-"t": "Prefeitura de São Paulo nega terreno para centro de treinamento do Santos na Zona Leste",
-"p": "Área recebe obras de uma unidade de saúde, além de abrigar equipamentos esportivos e moradias provisórias para pessoas em situação de vulnerabilidade",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo",
-"Santos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/esportes/futebolnacional/santos/prefeitura-de-sao-paulo-nega-terreno-para-centro-de-treinamento-do-santos-na-zona-leste.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:03",
-"t": "Polícia Militar captura homem procurado pela Justiça em bairro rural de Buri",
-"p": "Um homem procurado pela Justiça foi capturado pela Polícia Militar na quarta-feira (4), no bairro rural Chapeuzinho, em Buri. De acordo com informações da corporação, policiais do 54º Batalhão de Polícia Militar do Interior (54º BPM/I) receberam informações sobre a possível localização do indivíduo e realizaram…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Buri"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/procurado-buri/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:00",
-"t": "Instituto Federal de Santos inscreve para curso técnico de informática",
-"p": "Henrique Teixeira/Divulgação Prefeitura de Santos Jovens que desejam investir em uma carreira na área de tecnologia têm uma oportunidade no Instituto Federal de Santos.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/instituto-federal-de-santos-inscreve-para-curso-tecnico-de-informatica/",
 "auto": true
 }
 ]
