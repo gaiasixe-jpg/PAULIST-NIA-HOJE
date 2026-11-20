@@ -3,6 +3,158 @@
 "itens": [
 {
 "d": "2026-11-19",
+"h": "21:51",
+"t": "Motociclista morre após acidente com caminhão em rodovia na região de Ribeirão",
+"p": "Acidente aconteceu na noite desta quinta-feira (19), em Jaboticabal; outra vítima que estava na motocicleta foi socorrida com ferimentos moderados",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Jaboticabal"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motociclista-morre-apos-acidente-com-caminhao-em-rodovia-na-regiao-de-ribeirao/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:42",
+"t": "Polícia Militar prende homem por tráfico de drogas em Mauá",
+"p": "Indivíduo, abordado em patrulhamento, estava com 661 porções de entorpecentes, sendo 173 de maconha, 248 de cocaína e 240 de crack",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369822/policia-militar-prende-homem-por-trafico-de-drogas-em-maua",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:26",
+"t": "Operação contra o tráfico prende seis suspeitos e apreende adolescente",
+"p": "A Polícia Civil de São Paulo deflagrou, nesta quinta-feira (19), a Operação Hereditário no município de Lavínia, no interior paulista, com o objetivo de desarticular uma organização criminosa suspeita de comandar o comércio de entorpecentes na região. A ação reuniu equipes policiais das delegacias de Lavínia,…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo",
+"Lavínia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-contra-o-trafico-prende-seis-suspeitos-e-apreende-adolescente/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:24",
+"t": "Polícia Civil prende investigado por estelionato e apreende carro de luxo durante operação",
+"p": "A Polícia Civil de São Paulo prendeu, nesta quinta-feira (19), na capital paulista, um homem suspeito de envolvimento em crimes de estelionato. A captura integrou a Operação Revelia 2, deflagrada em parceria com a Polícia Civil do Distrito Federal (PCDF), que também resultou na apreensão de um automóvel de luxo e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-investigado-por-estelionato-e-apreende-carro-de-luxo-durante-operacao/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:19",
+"t": "Em Diadema, prazo para analisar pareceres do TCE é modificado",
+"p": "Relatórios do Tribunal de Contas do Estado sobre movimentações de caixa da Prefeitura podem ser votados no ano seguinte aos envios à Câmara",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369821/em-diadema-prazo-para-analisar-pareceres-do-tce-e-modificado",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:08",
+"t": "Veja os pontos facultativos em Ribeirão Preto em 2027",
+"p": "Decreto com pontos facultativos foi publicado no Diário Oficial do Município desta quinta-feira (19)",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/veja-os-pontos-facultativos-em-ribeirao-preto-em-2027/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "21:05",
+"t": "Cães farejadores encontram quase 20 kg de drogas em van na Anchieta",
+"p": "Naomi e Athos localizaram três mochilas com cocaína, maconha e lança-perfume durante fiscalização no km 40 da rodovia, em São Bernardo",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369816/caes-farejadores-encontram-quase-20-kg-de-drogas-em-van-na-anchieta",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:03",
+"t": "GCM de folga reage a assalto e é baleado por bandido no bairro do Brás",
+"p": "GCM utilizou a arma da corporação para reagir a assalto na Rua Uruguaiana durante dia de folga e acabou ferido. Os criminosos fugiram",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/gcm-de-folga-reage-a-assalto-e-e-baleado-por-bandido-no-bairro-do-bras",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:02",
+"t": "Prefeitura de Campinas alerta para golpe com falso site do município",
+"p": "Página imita o portal oficial de Campinas e divulga programa inexistente de renovação de frota",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/prefeitura-de-campinas-alerta-para-golpe-com-falso-site-do-municipio/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:00",
+"t": "Mongaguá sanciona lei que cria o Programa Recomeço com bolsa de R$ 1,2 mil",
+"p": "Júlio Koema/Divulgação Prefeitura de Mongaguá A Prefeitura de Mongaguá sancionou, nesta quarta-feira (18), a lei que institui oficialmente o Programa Recomeço.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/mongagua-sanciona-lei-que-cria-o-programa-recomeco-com-bolsa-de-r-12-mil/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "20:57",
+"t": "Manutenção na rede da Sabesp pode afetar abastecimento de água em bairros da Grande SP",
+"p": "",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369815/manutencao-na-rede-da-sabesp-pode-afetar-abastecimento-de-agua-em-bairros-da-grande-sp",
+"auto": true
+},
+{
+"d": "2026-11-19",
 "h": "20:30",
 "t": "Revitalização de cinco das principais avenidas de Santos começa pela orla",
 "p": "Diego Matos/Divulgação Prefeitura de Santos O projeto da Prefeitura de Santos para revitalização dos principais eixos de circulação de veículos da área insular começa na segunda.",

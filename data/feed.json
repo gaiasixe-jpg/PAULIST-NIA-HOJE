@@ -1,26 +1,21 @@
 {
-"atualizado": "2026-11-19T20:52:32-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-19T22:15:56-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -28,15 +23,28 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -44,15 +52,171 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "The read operation timed out | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503:"
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-19",
+"h": "21:51",
+"t": "Motociclista morre após acidente com caminhão em rodovia na região de Ribeirão",
+"p": "Acidente aconteceu na noite desta quinta-feira (19), em Jaboticabal; outra vítima que estava na motocicleta foi socorrida com ferimentos moderados",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Jaboticabal"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motociclista-morre-apos-acidente-com-caminhao-em-rodovia-na-regiao-de-ribeirao/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:42",
+"t": "Polícia Militar prende homem por tráfico de drogas em Mauá",
+"p": "Indivíduo, abordado em patrulhamento, estava com 661 porções de entorpecentes, sendo 173 de maconha, 248 de cocaína e 240 de crack",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369822/policia-militar-prende-homem-por-trafico-de-drogas-em-maua",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:26",
+"t": "Operação contra o tráfico prende seis suspeitos e apreende adolescente",
+"p": "A Polícia Civil de São Paulo deflagrou, nesta quinta-feira (19), a Operação Hereditário no município de Lavínia, no interior paulista, com o objetivo de desarticular uma organização criminosa suspeita de comandar o comércio de entorpecentes na região. A ação reuniu equipes policiais das delegacias de Lavínia,…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo",
+"Lavínia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-contra-o-trafico-prende-seis-suspeitos-e-apreende-adolescente/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:24",
+"t": "Polícia Civil prende investigado por estelionato e apreende carro de luxo durante operação",
+"p": "A Polícia Civil de São Paulo prendeu, nesta quinta-feira (19), na capital paulista, um homem suspeito de envolvimento em crimes de estelionato. A captura integrou a Operação Revelia 2, deflagrada em parceria com a Polícia Civil do Distrito Federal (PCDF), que também resultou na apreensão de um automóvel de luxo e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-investigado-por-estelionato-e-apreende-carro-de-luxo-durante-operacao/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:19",
+"t": "Em Diadema, prazo para analisar pareceres do TCE é modificado",
+"p": "Relatórios do Tribunal de Contas do Estado sobre movimentações de caixa da Prefeitura podem ser votados no ano seguinte aos envios à Câmara",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369821/em-diadema-prazo-para-analisar-pareceres-do-tce-e-modificado",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:08",
+"t": "Veja os pontos facultativos em Ribeirão Preto em 2027",
+"p": "Decreto com pontos facultativos foi publicado no Diário Oficial do Município desta quinta-feira (19)",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/veja-os-pontos-facultativos-em-ribeirao-preto-em-2027/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-19",
+"h": "21:05",
+"t": "Cães farejadores encontram quase 20 kg de drogas em van na Anchieta",
+"p": "Naomi e Athos localizaram três mochilas com cocaína, maconha e lança-perfume durante fiscalização no km 40 da rodovia, em São Bernardo",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369816/caes-farejadores-encontram-quase-20-kg-de-drogas-em-van-na-anchieta",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:03",
+"t": "GCM de folga reage a assalto e é baleado por bandido no bairro do Brás",
+"p": "GCM utilizou a arma da corporação para reagir a assalto na Rua Uruguaiana durante dia de folga e acabou ferido. Os criminosos fugiram",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/gcm-de-folga-reage-a-assalto-e-e-baleado-por-bandido-no-bairro-do-bras",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:02",
+"t": "Prefeitura de Campinas alerta para golpe com falso site do município",
+"p": "Página imita o portal oficial de Campinas e divulga programa inexistente de renovação de frota",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/prefeitura-de-campinas-alerta-para-golpe-com-falso-site-do-municipio/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "21:00",
+"t": "Mongaguá sanciona lei que cria o Programa Recomeço com bolsa de R$ 1,2 mil",
+"p": "Júlio Koema/Divulgação Prefeitura de Mongaguá A Prefeitura de Mongaguá sancionou, nesta quarta-feira (18), a lei que institui oficialmente o Programa Recomeço.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/mongagua-sanciona-lei-que-cria-o-programa-recomeco-com-bolsa-de-r-12-mil/",
+"auto": true
+},
+{
+"d": "2026-11-19",
+"h": "20:57",
+"t": "Manutenção na rede da Sabesp pode afetar abastecimento de água em bairros da Grande SP",
+"p": "",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369815/manutencao-na-rede-da-sabesp-pode-afetar-abastecimento-de-agua-em-bairros-da-grande-sp",
+"auto": true
+},
 {
 "d": "2026-11-19",
 "h": "20:30",
@@ -54820,163 +54984,6 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/prefeitura-multa-obra-apos-morte-de-trabalhador-em-caixa-dagua-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "10:00",
-"t": "Homem é preso por roubo de corrente que deixou vítima com fraturas em Bertioga",
-"p": "Divulgação/Polícia Civil Vítima, de 54 anos, caminhava com a esposa na Praia do Indaiá quando foi abordada por três homens de bicicleta.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Bertioga"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/homem-e-preso-por-roubo-de-corrente-que-deixou-vitima-com-fraturas-em-bertioga/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "10:00",
-"t": "Justiça determina suspensão de tirzepatida manipulada em programa de obesidade na Prefeitura de Urupês",
-"p": "A Justiça de São Paulo determinou a suspensão liminar da aplicação de tirzepatida manipulada no programa público de combate à obesidade da Prefeitura de Urupês. A decisão atendeu a uma ação movida pela farmacêutica Eli Lilly, detentora da patente do Mounjaro, que alegou descumprimento das normas sanitárias da…",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"São Paulo",
-"Urupês"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/justica-determina-suspensao-de-tirzepatida-manipulada-em-programa-de-obesidade-na-prefeitura-de-urupes/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:58",
-"t": "Justiça manda prender homem que fingiu entregar currículo para assaltar construtora em Marília",
-"p": "Decisão considera situação dos moradores e prevê análise individual dos imóveis do condomínio residencial - Crime ocorreu em 2017 e causou prejuízo superior a R$ 23 mil; condenado a oito anos de prisão, réu pôde recorrer em liberdade.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/justica-manda-prender-homem-que-fingiu-entregar-curriculo-para-assaltar-construtora-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:57",
-"t": "Mais de meia tonelada de maconha é apreendida em canavial da região",
-"p": "Flagrante contou com ação conjunta das polícias de São Paulo e Minas Gerais e do Ministério Público",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/mais-de-meia-tonelada-de-maconha-e-apreendida-em-canavial-da-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:54",
-"t": "Conflito por cães soltos em rua termina em agressão e ameaças em Rio Preto",
-"p": "Uma discussão por conta de cães mantidos soltos na via pública terminou em agressão física e ameaças entre duas vizinhas na tarde de quarta-feira (4), no bairro Estância Chácara Santa Inêz, em São José do Rio Preto. A Polícia Civil registrou a ocorrência como lesão corporal, ameaça e omissão de cautela na guarda de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/conflito-por-caes-soltos-em-rua-termina-em-agressao-e-ameacas-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:52",
-"t": "Alto Tietê tem cursos gratuitos de qualificação profissional; confira",
-"p": "Programa oferece formações em Arujá, Biritiba Mirim, Itaquaquecetuba e Poá, com aulas a partir de 9 de novembro; inscrições vão até terça-feira (10)",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Itaquaquecetuba",
-"Arujá",
-"Poá"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/alto-tiete-tem-cursos-gratuitos-de-qualificacao-profissional-confira/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:51",
-"t": "Festival de Cinema Italiano terá 16 sessões gratuitas em Jundiaí a partir desta quinta (5)",
-"p": "Foto: Divulgação Programação inclui filmes como 'A Doce Vida', 'Riso Amaro' e 'Viagem à Itália', com entrada gratuita no Maxi Shopping Jundiaí.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/entretenimento/festival-de-cinema-italiano-tera-16-sessoes-gratuitas-em-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:51",
-"t": "Defesa Civil alerta para risco de temporais em Rio Preto até sábado",
-"p": "Boletim meteorológico prevê chuvas fortes, rajadas de vento, descargas elétricas e possibilidade de granizo entre os dias 5 e 7 de novembro",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/defesa-civil-alerta-para-risco-de-temporais-em-rio-preto-ate-sabado/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:51",
-"t": "Iaras-SP abre vagas de até R$ 6.142 via processo seletivo; veja edital",
-"p": "A Prefeitura de Iaras, no interior de São Paulo, publicou o edital nº 002/2026 de um novo processo seletivo para contratação temporária e formação de cadastro reserva. A seleção reúne oportunidades para candidatos de níveis fundamental, médio e superior, com remunerações que chegam a R$ 6.142,00. Abertura…",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Iaras"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/iaras-sp-abre-vagas-de-ate-r-6-142-via-processo-seletivo-veja-edital/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:51",
-"t": "Adolescente é detida após furtar cosméticos em loja no centro de Rio Preto",
-"p": "Uma adolescente de 16 anos foi detida na noite de quarta-feira (4) após ser flagrada furtando diversos produtos em uma loja de cosméticos na região central de São José do Rio Preto. A mercadoria, avaliada em R$ 321,90, foi recuperada pelos seguranças do estabelecimento no momento em que a jovem deixava o local. A…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/adolescente-e-detida-apos-furtar-cosmeticos-em-loja-no-centro-de-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "09:50",
-"t": "Golpes pelo WhatsApp e telefone causam prejuízo de R$ 56 mil a moradores de Rio Preto",
-"p": "Uma onda de fraudes virtuais e ligações enganosas fez pelo menos cinco vítimas em São José do Rio Preto entre a última terça-feira (3) e quarta-feira (4), gerando um prejuízo acumulado de aproximadamente R$ 56 mil. Os casos, registrados na Polícia Civil como estelionato e fraude eletrônica, envolvem desde idosos…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/golpes-pelo-whatsapp-e-telefone-causam-prejuizo-de-r-56-mil-a-moradores-de-rio-preto/",
 "auto": true
 }
 ]
