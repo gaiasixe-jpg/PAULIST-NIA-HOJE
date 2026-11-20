@@ -3,6 +3,115 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "17:50",
+"t": "Secretaria da Educação de SP abre concurso público para vagas de professores",
+"p": "A Secretaria da Educação do Estado de São Paulo (Seduc-SP) publicou nesta semana no Diário Oficial do Estado, o edital do novo concurso público para a contratação de 5.000 professores efetivos do Ensino Fundamental e do Ensino Médio. As inscrições estarão abertas das 16h do dia 26 de novembro de 2026 até as 16h do […]",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/secretaria-da-educacao-de-sp-abre-concurso-publico-para-vagas-de-professores/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:50",
+"t": "Idoso é preso por posse irregular de armas em Rio Preto",
+"p": "Um idoso, de 78 anos, foi preso em flagrante por posse irregular de arma de fogo de uso permitido após um desentendimento familiar, no bairro Jardim Estrela, em Rio Preto. A ocorrência foi registrada na madrugada desta sexta-feira (20), após a Polícia Militar ser acionada para atender a um conflito entre…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/idoso-e-preso-por-posse-irregular-de-armas-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:49",
+"t": "Conmebol confirma apoio a Infantino",
+"p": "Reprodução / Instagram @alejandrodominguezws Dez associações, incluindo o Brasil vão votar pela reeleição do presidente",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/conmebol-confirma-apoio-a-infantino/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:43",
+"t": "Jair Bolsonaro é levado ao hospital após sentir dores abdominais",
+"p": "Informação foi divulgada pelo filho, Carlos Bolsonaro, nas redes sociais; ex-presidente deve realizar exames para auxiliar no diagnóstico",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/jair-bolsonaro-e-levado-ao-hospital-apos-sentir-dores-abdominais/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:28",
+"t": "Justiça manda soltar lutador de MMA que foi preso por esfaquear o cachorro",
+"p": "Ed Carlos de Lima Dias Júnior, conhecido como “The Golden Boy”, obteve liberdade provisória após audiência de custódia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-manda-soltar-lutador-de-mma-que-foi-preso-por-esfaquear-o-cachorro",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:21",
+"t": "Alunos de escolas estaduais de SP são premiados no Afrominuto com homenagens a Nei Lopes",
+"p": "Bryan Lucas Rodrigues Lisboa, de 14 anos de idade, cresceu em uma família de sambistas em Batatais, no interior do estado. Ele não imaginava que justamente o samba o traria para conhecer a capital paulista pela primeira vez. O estudante da Escola Estadual Silvio de Almeida está entre os compositores de um samba rap…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Batatais",
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/alunos-de-escolas-estaduais-de-sp-sao-premiados-no-afrominuto-com-homenagens-a-nei-lopes/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:21",
+"t": "Paralimpíadas Escolares: Guilherme Benevides, da Seleção Brasileira, brilha nas disputas do rúgbi de cadeira de rodas",
+"p": "Guilherme Benevides é o camisa 10 da equipe de São Paulo nas Paralímpiadas Escolares. Aos 17 anos, ele é o grande destaque da competição de rúgbi em cadeira de rodas. A paixão e entrega de Guilherme no paradesporto já lhe valeu a convocação para defender o Brasil no Mundial da modalidade disputado em agosto.…",
+"tema": "Educação",
+"s": "entregue",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/paralimpiadas-escolares-guilherme-benevides-da-selecao-brasileira-brilha-nas-disputas-do-rugbi-de-cadeira-de-rodas/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:17",
+"t": "Polícia Militar apreende adolescentes com moto roubada e simulacro de arma em Suzano",
+"p": "Na delegacia, adolescente que conduzia o veículo afirmou que pretendia cometer novos roubos com o outro jovem",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/policia-militar-apreende-adolescentes-com-moto-roubada-e-simulacro-de-arma-em-suzano/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "16:45",
 "t": "Justiça mantém condenação de professor por ataque à filha de Roberto Justus",
 "p": "O Tribunal de Justiça do Estado de São Paulo (TJSP) confirmou, em segunda instância, a condenação do professor aposentado da Universidade Federal do Rio de Janeiro (UFRJ) Marcos Dantas por danos morais após ele sugerir o uso de guilhotina em uma publicação envolvendo Vicky Justus, filha caçula do empresário Roberto…",
