@@ -3,6 +3,118 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "10:02",
+"t": "Polícia identifica suspeita de atropelamento e apreende carro em oficina de Marília",
+"p": "Carro atropelou vítima e fugiu do local do acidente logo em seguida Mulher foi localizada pela Polícia Civil após investigação sobre atropelamento na avenida Sampaio Vidal, no Centro.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/policia-identifica-suspeita-de-atropelamento-e-apreende-carro-em-oficina-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "09:54",
+"t": "Operação reforça segurança nas divisas de São Caetano durante feriado",
+"p": "Ação integra guardas dos sete municípios para reforçar o patrulhamento",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369855/operacao-reforca-seguranca-nas-divisas-de-sao-caetano-durante-feriado",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "09:49",
+"t": "Operação Tapa-Buraco atenderá 17 ruas do Centro de Mogi neste domingo",
+"p": "Serviços serão realizados pelas equipes da Secretaria Municipal de Serviços Urbanos e Zeladoria",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/operacao-tapa-buraco-atendera-17-ruas-do-centro-de-mogi-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "09:45",
+"t": "Condenado por tráfico é preso pela PM ao sair do trabalho em Marília",
+"p": "Caso está sendo investigado pela Polícia Civil de Marília Homem de 58 anos foi localizado no Jardim Morumbi durante cumprimento de ordem judicial e deverá cumprir pena.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/condenado-por-trafico-e-preso-pela-pm-ao-sair-do-trabalho-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "09:32",
+"t": "Corpo envolto em lençóis é encontrado em rua da zona leste de São Paulo",
+"p": "Caso ocorre em meio à investigação de mortes com características semelhantes na capital; polícia ainda não confirmou relação entre elas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/corpo-envolto-em-lencois-e-encontrado-em-rua-da-zona-leste-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "09:31",
+"t": "Papai Noel chega ao shopping de Mogi das Cruzes neste sábado; veja a programação",
+"p": "Agenda inclui recepção com personagens, distribuição de gorrinhos, teatro, música e cortejo; entrada do Bom Velhinho está prevista para às 17h",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/papai-noel-chega-ao-shopping-de-mogi-das-cruzes-neste-sabado-veja-a-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "09:23",
+"t": "Obituário | Falecimentos registrados nesta sexta-feira (20/11) em Marília e região",
+"p": "Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta sexta-feira, dia 20 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-sexta-feira-20-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "09:03",
+"t": "Onça-parda é encontrada em estado grave, recupera mais de 15 kg em nove meses e volta a viver livre na natureza",
+"p": "Uma onça-parda macho conhecida como Guaraná voltou a viver na natureza após nove meses de tratamento e reabilitação. O felino chegou a correr risco de morte quando equipes o encontraram em estado grave de saúde na Reserva São Francisco do Perigara, em Barão de Melgaço, no Pantanal de Mato Grosso. Agora recuperado,…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São Francisco"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/onca-parda-e-encontrada-em-estado-grave-recupera-mais-de-15-kg-em-nove-meses-e-volta-a-viver-livre-na-natureza/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "09:01",
 "t": "Corte Afro 2026 celebra representatividade e protagonismo da mulher negra em Jundiaí",
 "p": "Foto: Prefeitura de Jundiaí Eleitas entre 33 candidatas, Esthefany, Inae e Camila compartilham suas histórias e o significado de representar a cultura afro-brasileira na cidade.",
@@ -55,6 +167,18 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/o-que-fazer-em-ribeirao-veja-mais-de-15-opcoes-de-passeios-para-curtir-o-feriado-e-o-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "08:26",
+"t": "Mais de 5,6 milhões de veículos devem pegar estradas de SP no feriado; veja os horários de maior trânsito",
+"p": "Mais de 5,6 milhões de veículos devem circular pelas rodovias paulistas durante o feriado prolongado da Consciência Negra, celebrado nesta sexta-feira (20). A estimativa considera o movimento entre a saída da capital, nesta quinta-feira (19), e o retorno, previsto principalmente para domingo (22) e segunda-feira…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/mais-de-56-milhoes-de-veiculos-devem-pegar-estradas-de-sp-no-feriado-veja-os-horarios-de-maior-transito/",
 "auto": true
 },
 {
