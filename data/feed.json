@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T01:00:15-03:00",
-"novos_nesta_coleta": 13,
+"atualizado": "2026-11-20T02:09:50-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,46 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "01:30",
+"t": "‘Roque Santeiro’: Padre Hipólito confronta Matilde por reabertura da boate e Frei Albano cobra creche de Zé das Medalhas nesta sexta (20)",
+"p": "No capítulo desta sexta-feira (20), em ‘Roque Santeiro’, a liberação da casa noturna provoca uma reação rápida dos líderes religiosos de Asa Branca. Inconformado com o retorno dos negócios que considera contrários aos bons costumes do povoado, o pároco decide agir diretamente contra a comerciante, pois, ao saber da…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-padre-hipolito-confronta-matilde-por-reabertura-da-boate-e-frei-albano-cobra-creche-de-ze-das-medalhas-nesta-sexta-20/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "01:02",
+"t": "Trabalha com hora marcada? Veja 5 cuidados para uma agenda cheia valer a pena",
+"p": "Dois profissionais podem cobrar o mesmo valor, atender o mesmo número de pessoas e terminar a semana com rendas parecidas. A diferença é que um concentrou os atendimentos em três dias. O outro precisou de cinco, com intervalos de uma hora que não conseguiu aproveitar nem para atender mais alguém nem para ir para…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/trabalha-com-hora-marcada-veja-5-cuidados-para-uma-agenda-cheia-valer-a-pena/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "01:02",
+"t": "Dia da Consciência Negra: 4 dicas para construir uma educação antirracista desde a infância",
+"p": "Celebrado em 20 de novembro, o Dia da Consciência Negra é uma oportunidade para famílias e escolas promoverem conversas com as crianças sobre racismo, respeito e igualdade. Esses diálogos contribuem para que elas reconheçam e valorizem a identidade, a ancestralidade e a cultura negra. A especialista em Educação…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/dia-da-consciencia-negra-4-dicas-para-construir-uma-educacao-antirracista-desde-a-infancia/",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "00:21",
@@ -54916,48 +54956,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/economia/fabrica-de-bilionarios-weg-desembolsa-r-44-milhoes-para-comprar-terreno-na-india-pais-conta-com-2-mil-trabalhadores-da-multinacional/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:13",
-"t": "Polo da Univesp em Fernandópolis forma novos profissionais em Tecnologia da Informação",
-"p": "A Universidade Virtual do Estado de São Paulo (Univesp), Polo de Fernandópolis, realizou nesta quarta-feira (4) a colação de grau de mais duas pessoas no curso superior de Tecnologia da Informação, com ênfase em Internet das Coisas. Os novos graduados são a professora de educação infantil Camila Cristina Paiva…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/polo-da-univesp-em-fernandopolis-forma-novos-profissionais-em-tecnologia-da-informacao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:13",
-"t": "Coordenadoria de Políticas para a Diversidade Sexual divulga datas das reuniões do GADS e do GPH deste mês de novembro",
-"p": "A Coordenadoria de Políticas para a Diversidade Sexual, ligada à Secretaria da Cidadania (Secid) da Prefeitura de Sorocaba, divulga as datas das reuniões do mês de novembro com o GPH (Grupo de Apoio a Pais de LGBTs de Sorocaba) e o GADS (Grupo de Apoio à Diversidade Sexual). O intuito é promover a troca de […]",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/coordenadoria-de-politicas-para-a-diversidade-sexual-divulga-datas-das-reunioes-do-gads-e-do-gph-deste-mes-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:12",
-"t": "Grande ABC recebe a primeira Fashion Weekend Plus Size",
-"p": "21ª edição do evento terá dois dias de programação com desfiles, shows, oficinas de moda e arte e atividades voltadas à diversidade e à inclusão na Fábrica de Cultura de São Bernardo",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367017/grande-abc-recebe-a-primeira-fashion-weekend-plus-size",
 "auto": true
 }
 ]
