@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T06:11:51-03:00",
-"novos_nesta_coleta": 23,
+"atualizado": "2026-11-20T07:13:55-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,97 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "07:02",
+"t": "Feriado de 20 de novembro terá calor de até 32°C e previsão de chuva em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Sexta-feira (20) deve ter sol entre muitas nuvens, com pancadas de chuva a partir da tarde. Instabilidade também deve atingir o fim de semana.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-feriado-20-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "06:31",
+"t": "Resultados das loterias de quinta-feira (19/11): Mega-Sena, Quina, Lotofácil e mais",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Cinco modalidades tiveram concursos realizados; apenas a Lotofácil registrou apostas vencedoras da faixa principal.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultados-loterias-19-11-2026/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "06:26",
+"t": "Resultado da Quina 7172: prêmio acumula e concurso especial vai a R$ 50 milhões",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Trinta e cinco apostas acertaram quatro dezenas e receberam R$ 7.534,97 cada; próximo sorteio será a Quina Friday.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-quina-concurso-7172/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "06:21",
+"t": "Prefeitura de Guarani d’Oeste oferece aulas gratuitas de Zumba e FitDance para incentivar saúde e bem-estar",
+"p": "Moradores de Guarani d’Oeste têm à disposição aulas gratuitas de Zumba e FitDance promovidas pela Diretoria Municipal de Assistência Social em parceria com o Fundo Social do município. A iniciativa busca incentivar a prática regular de exercícios físicos, contribuindo também para o fortalecimento da autoestima, da…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarani d'Oeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-guarani-doeste-oferece-aulas-gratuitas-de-zumba-e-fitdance-para-incentivar-saude-e-bem-estar/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "06:21",
+"t": "Jales recebe 7º Festival New Style de Hip Hop com programação gratuita entre os dias 27 e 29 de novembro",
+"p": "O município de Jales sediará, entre os dias 27 e 29 de novembro, a sétima edição do Festival New Style – Circuito Regional de Hip Hop. Com entrada gratuita e apoio da Prefeitura, o encontro vai reunir b-boys, b-girls, DJs, MCs e entusiastas da cultura urbana em uma agenda diversificada que abrange batalhas de rima, […]",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/jales-recebe-7o-festival-new-style-de-hip-hop-com-programacao-gratuita-entre-os-dias-27-e-29-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "06:20",
+"t": "Organizadores da Mostra Estudantil e do Festival de Teatro agradecem apoio da Prefeitura de Fernandópolis",
+"p": "Na manhã desta terça-feira (17), o prefeito de Fernandópolis, João Paulo Cantarella, recebeu em seu gabinete os organizadores da 29ª Mostra Estudantil e do 1º Festival Nacional de Teatro. O encontro teve como propósito agradecer à administração municipal pelo suporte financeiro e institucional destinado ao…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/organizadores-da-mostra-estudantil-e-do-festival-de-teatro-agradecem-apoio-da-prefeitura-de-fernandopolis/",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "06:02",
@@ -54882,87 +54969,6 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/brasil-e-mundo/policia-militar-de-sp-abre-concurso-com-2-mil-vagas-para-aluno-soldado-veja-como-se-inscrever/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:25",
-"t": "Justiça suspende aplicação de tirzepatida manipulada em programa de Urupês",
-"p": "Liminar atende a ação da fabricante do Mounjaro, que questiona a utilização da substância preparada em farmácias de manipulação",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Urupês"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/justica-suspende-aplicacao-de-tirzepatida-manipulada-em-programa-de-urupes/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:23",
-"t": "Marília intensifica reparos no asfalto durante período de chuvas em diferentes bairros",
-"p": "Equipes da Infraestrutura atuam nas zonas norte, sul, leste e oeste da cidade.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-intensifica-reparos-no-asfalto-durante-periodo-de-chuvas-em-diferentes-bairros/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:21",
-"t": "Vira-lata ganha lar temporário no interior de SP após cair em bueiro e ser resgatado por policiais militares com a ajuda dos moradores",
-"p": "Um cachorro de pequeno porte sem raça definida recebeu ajuda de policiais militares depois de ficar preso em um bueiro no Jardim Tarumã, em Jundiaí, no interior de São Paulo. O resgate aconteceu na sexta-feira (30), quando três pessoas chamaram uma equipe do 49º Batalhão de Polícia Militar do Interior (BPM/I). Os…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí",
-"Tarumã"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/vira-lata-ganha-lar-temporario-no-interior-de-sp-apos-cair-em-bueiro-e-ser-resgatado-por-policiais/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:15",
-"t": "SP: estudantes da rede pública estadual terão transporte gratuito para Enem",
-"p": "Medida do governo de São Paulo deve atender 70 mil alunos matriculados no 3º ano do ensino médio; prova acontece nos dias 8 e 15 de noevmbro",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/sp-estudantes-da-rede-publica-estadual-terao-transporte-gratuito-para-enem",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:15",
-"t": "Ludmilla passa por cima de acusação de plágio em música de início de carreira e compositor terá que pagar honorários",
-"p": "A cantora Ludmilla saiu vitoriosa de uma disputa judicial envolvendo uma de suas primeiras composições. A Justiça do Rio de Janeiro rejeitou a ação movida pelo compositor Reynaldo Veríssimo da Purificação, que reivindicava a coautoria de uma música da artista e pedia indenização por danos morais. A decisão foi…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/ludmilla-passa-por-cima-de-acusacao-de-plagio-em-musica-de-inicio-de-carreira-e-compositor-tera-que-pagar-honorarios/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "12:13",
-"t": "MP dá 20 dias para Prefeitura de Rio Preto explicar cortes no Auxílio-Atleta",
-"p": "Promotor quer esclarecimentos sobre desligamento de professores e possível interrupção de aulas gratuitas de ginástica, zumba e futebol",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/mp-da-20-dias-para-prefeitura-de-rio-preto-explicar-cortes-no-auxilio-atleta/",
 "auto": true
 }
 ]
