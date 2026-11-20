@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-20T13:04:02-03:00",
-"novos_nesta_coleta": 19,
+"atualizado": "2026-11-20T14:05:50-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -27,15 +25,23 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -51,11 +57,66 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "13:53",
+"t": "Pai é preso suspeito de abusar sexualmente da filha de dois meses em Várzea Paulista",
+"p": "Foto: SSP/SP Homem foi detido após denúncia da mãe da criança; bebê recebeu atendimento médico e foi encaminhada ao Hospital Universitário de Jundiaí.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Várzea Paulista",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/pai-preso-suspeito-abuso-filha-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "13:52",
+"t": "GCM de São Bernardo reforça patrulhamento durante feriado prolongado",
+"p": "Guarda intensifica rondas em equipamentos públicos até domingo (22); Operação Dorme Bem também amplia fiscalização contra perturbação do sossego",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369895/gcm-de-sao-bernardo-reforca-patrulhamento-durante-feriado-prolongado",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "13:17",
+"t": "Suzane: projeto contra presença de criminosos no audiovisual trava na Alesp",
+"p": "Texto veta que criminosos participem de projetos audiovisuais; condenada por matar pais teria recebido R$ 500 mil para entrevista em filme",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/suzane-projeto-contra-presenca-de-criminosos-no-audiovisual-trava-na-alesp",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "13:00",
+"t": "Manutenção da Sabesp pode deixar 9 milhões de pessoas sem água no feriado",
+"p": "Troca de válvula em estrutura do Sistema Cantareira deve impactar fornecimento de água em 10 cidades da região metropolitana de São Paulo",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/manutencao-da-sabesp-pode-deixar-9-milhoes-de-pessoas-sem-agua-no-feriado",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "12:53",
@@ -55020,62 +55081,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367104/maua-inaugura-horta-comunitaria-no-jardim-sao-jose-nesta-sexta-feira-6-",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:07",
-"t": "Mudanças na Avenida Ozanam reduzem em até 40% tempo de percurso de ônibus em Jundiaí",
-"p": "Foto: Prefeitura de Jundiaí Melhorias na Avenida Ozanam, em Jundiaí, reduziram em até 40% o tempo de percurso da linha 514. Novas obras também reorganizam acessos de condomínios.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/onibus-linha-514-tempo-viagem-avenida-ozanam-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:07",
-"t": "1ª Mostra de Dramaturgia Experimental de Sorocaba é realizada neste fim de semana (7 e 8)",
-"p": "Fotos: Divulgação Sorocaba recebe, neste fim de semana (7 e 8 de outubro), a programação especial da sua primeira edição da Mostra de Dramaturgia Experimental, no Nauta Estúdio. Com entrada gratuita, a atração reunirá textos inéditos e experimentações cênicas com recorte feminino e diferentes formatos, com leituras…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/1a-mostra-de-dramaturgia-experimental-de-sorocaba-e-realizada-neste-fim-de-semana-7-e-8/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:06",
-"t": "Sabesp anuncia suspensão temporária da emissão de contas de água em Itapeva; medida começa nesta sexta-feira (6)",
-"p": "Durante coletiva de imprensa realizada nesta quinta-feira (5), foram anunciadas novas medidas relacionadas à crise da água em Itapeva. Entre os principais pontos está a suspensão da emissão de contas pela Sabesp, inicialmente pelo período de um ciclo de faturamento, de 6 de novembro a 5 de dezembro. Segundo as…",
-"tema": "Saneamento",
-"s": "alerta",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/suspensao-contas-agua-itapeva/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:02",
-"t": "IBGE abre 27 mil vagas com salário fixo, produtividade e auxílio-alimentação de R$ 1,1 mil",
-"p": "Inscrições para o processo seletivo do IBGE abrem nesta sexta-feira (6) pela Cesgranrio; contratos são válidos por até seis meses",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/economia/ibge-abre-27-mil-vagas-com-salario-fixo-produtividade-e-auxilio-alimentacao-de-r-11-mil/",
 "auto": true
 }
 ]

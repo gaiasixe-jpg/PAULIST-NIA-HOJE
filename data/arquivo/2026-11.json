@@ -3,6 +3,61 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "13:53",
+"t": "Pai é preso suspeito de abusar sexualmente da filha de dois meses em Várzea Paulista",
+"p": "Foto: SSP/SP Homem foi detido após denúncia da mãe da criança; bebê recebeu atendimento médico e foi encaminhada ao Hospital Universitário de Jundiaí.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Várzea Paulista",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/pai-preso-suspeito-abuso-filha-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "13:52",
+"t": "GCM de São Bernardo reforça patrulhamento durante feriado prolongado",
+"p": "Guarda intensifica rondas em equipamentos públicos até domingo (22); Operação Dorme Bem também amplia fiscalização contra perturbação do sossego",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369895/gcm-de-sao-bernardo-reforca-patrulhamento-durante-feriado-prolongado",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "13:17",
+"t": "Suzane: projeto contra presença de criminosos no audiovisual trava na Alesp",
+"p": "Texto veta que criminosos participem de projetos audiovisuais; condenada por matar pais teria recebido R$ 500 mil para entrevista em filme",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/suzane-projeto-contra-presenca-de-criminosos-no-audiovisual-trava-na-alesp",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "13:00",
+"t": "Manutenção da Sabesp pode deixar 9 milhões de pessoas sem água no feriado",
+"p": "Troca de válvula em estrutura do Sistema Cantareira deve impactar fornecimento de água em 10 cidades da região metropolitana de São Paulo",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/manutencao-da-sabesp-pode-deixar-9-milhoes-de-pessoas-sem-agua-no-feriado",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "12:53",
 "t": "Casa de repouso interditada pela Justiça volta a funcionar em outro imóvel e é fechada novamente",
 "p": "Vigilância Sanitária encontrou 12 idosos em casa de repouso em Ribeirão Preto, com capacidade para 10 pessoas, apenas um cuidador e falta de alimentos",
