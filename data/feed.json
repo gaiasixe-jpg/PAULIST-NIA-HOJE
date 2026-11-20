@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T12:03:17-03:00",
-"novos_nesta_coleta": 39,
+"atualizado": "2026-11-20T13:04:02-03:00",
+"novos_nesta_coleta": 19,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -27,7 +27,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -50,9 +49,147 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "12:53",
+"t": "Casa de repouso interditada pela Justiça volta a funcionar em outro imóvel e é fechada novamente",
+"p": "Vigilância Sanitária encontrou 12 idosos em casa de repouso em Ribeirão Preto, com capacidade para 10 pessoas, apenas um cuidador e falta de alimentos",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/casa-de-repouso-interditada-pela-justica-volta-a-funcionar-em-outro-imovel-e-e-fechada-novamente/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:28",
+"t": "Linha de crédito impulsiona empreendedores negros no interior de SP e ajuda a expandir pequenos negócios",
+"p": "Celebrado nesta sexta-feira, 20 de novembro, o Dia Nacional de Zumbi e da Consciência Negra coloca em evidência a importância do acesso ao financiamento para fortalecer negócios comandados por pessoas negras no estado de São Paulo. Por meio da linha Empreenda Afro, do Banco do Povo Paulista (BPP) — programa ligado…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/linha-de-credito-impulsiona-empreendedores-negros-no-interior-de-sp-e-ajuda-a-expandir-pequenos-negocios/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:28",
+"t": "Ação rápida da Defesa Civil evita incêndio após queda de balão de 50 metros",
+"p": "A atuação preventiva e imediata da Defesa Civil de Franco da Rocha impediu um possível incêndio florestal no Parque Estadual do Juquery na manhã desta sexta-feira (20). O incidente ocorreu após a queda de um balão de aproximadamente 50 metros de altura dentro da área da unidade de conservação, mobilizando equipes…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Franco da Rocha"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/acao-rapida-da-defesa-civil-evita-incendio-apos-queda-de-balao-de-50-metros/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:28",
+"t": "Entregador é detido suspeito de avisar traficantes sobre operações policiais por grupo de mensagens",
+"p": "Operação contra o tráfico prende quatro e detém entregador que usava grupo de mensagens para avisar sobre blitz e viaturas em Santa Adélia (SP) Polícia Militar/Divulgação Um entregador de farmácia foi detido na quinta-feira (19) suspeito de usar a própria motocicleta de trabalho para monitorar a movimentação de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santa Adélia"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/entregador-e-detido-suspeito-de-avisar-traficantes-sobre-operacoes-policiais-por-grupo-de-mensagens/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:28",
+"t": "Namorado de passageira é indiciado por perseguir e espancar motorista após áudios da corrida revelarem dinâmica do crime",
+"p": "Motorista foi perseguido e espancado pelo namorado de uma passageira em Rio Preto (SP) Polícia Civil/Divulgação O namorado de uma passageira foi indiciado pela polícia por perseguir e espancar um motorista, de 49 anos, após áudios da corrida revelarem a dinâmica do crime, que ocorreu em agosto deste ano em São José…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/namorado-de-passageira-e-indiciado-por-perseguir-e-espancar-motorista-apos-audios-da-corrida-revelarem-dinamica-do-crime/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:26",
+"t": "Tempestade extrema em Tupanciretã destelha 8 mil casas e deixa RS em alerta",
+"p": "Uma tempestade extrema atingiu Tupanciretã, na região central do Rio Grande do Sul, na madrugada desta sexta-feira (20), provocando destruição, destelhando mais de 8 mil casas e deixando moradores sem energia elétrica e abastecimento de água. O temporal também causou mortes, deixou feridos e mobilizou equipes de…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/tempestade-extrema-em-tupancireta-destelha-8-mil-casas-e-deixa-rs-em-alerta/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:19",
+"t": "Prefeitura tem 15 dias para explicar megashow na Avenida Paulista",
+"p": "Evento deve fazer parte do pré-Carnaval paulistano; apresentação de documentos faz parte de acordo assinado com MPSP em fevereiro deste ano",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-tem-15-dias-para-explicar-megashow-na-avenida-paulista",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:15",
+"t": "Secretaria da Educação de SP abre concurso público para vagas de professores",
+"p": "Serão 692 vagas para região de Rio Preto. As inscrições estarão abertas das 16h do dia 26 de novembro de 2026 até as 16h do dia 15 de fevereiro de 2027, com provas objetiva e discursiva previstas para 25 de abril de 2027",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/secretaria-da-educacao-de-sp-abre-concurso-publico-para-vagas-de-professores/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:13",
+"t": "Saída para o feriado tem excesso de veículos na Mogi-Bertioga",
+"p": "Trânsito é mais intenso entre os quilômetros 56 e 76, no sentido litoral; na SP-088, há excesso de veículos em trecho de Mogi das Cruzes",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/saida-para-o-feriado-tem-excesso-de-veiculos-na-mogi-bertioga/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "12:06",
+"t": "Acidente na Campinas-Mogi deixa duas vítimas em estado grave; Águia foi acionado",
+"p": "Uma das vítimas do acidente foi socorrida pelo helicóptero Águia e levada ao Hospital de Clínicas da Unicamp",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/acidente-na-campinas-mogi-deixa-duas-vitimas-em-estado-grave-aguia-foi-acionado/",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "12:00",
@@ -54939,141 +55076,6 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/economia/ibge-abre-27-mil-vagas-com-salario-fixo-produtividade-e-auxilio-alimentacao-de-r-11-mil/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:00",
-"t": "Leilão de obras de arte e almoço especial arrecadam recursos para o Hospital GACC Vale em evento neste sábado em Campos do Jordão",
-"p": "O Campos do Jordão Design Festival (CJDF) promove neste sábado (7/11), a partir das 12h, o evento beneficente “Entre Traços e Sabores”, em Campos do Jordão, no interior de São Paulo. A programação terá almoço gastronômico e leilão de obras de arte, com a renda revertida para o Hospital GACC Vale, de São José dos […]",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Campos do Jordão"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/leilao-de-obras-de-arte-e-almoco-especial-arrecadam-recursos-para-o-hospital-gacc-vale-em-evento-neste-sabado-em-campos-do-jordao/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:00",
-"t": "Ciesp Santo André promove curso sobre recuperação de créditos com inadimplentes",
-"p": "Capacitação será realizada nos dias 10 e 11 de novembro e apresentará estratégias para aprimorar a gestão de cobranças e recuperar valores em aberto e negociar",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367100/ciesp-santo-andre-promove-curso-sobre-recuperacao-de-creditos-com-inadimplentes",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:00",
-"t": "Fila por urologista cai quase pela metade em Diadema; veja ações",
-"p": "Número de pacientes à espera de consulta caiu de 1.029 para 528; programação do Novembro Azul inclui testes rápidos, palestras e atividades nas UBSs",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367103/fila-por-urologista-cai-quase-pela-metade-em-diadema-veja-acoes",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:00",
-"t": "Sabesp Praia Grande Vôlei estreia em casa na Superliga B 2026/2027",
-"p": "Fred Casagrande/Prefeitura de Praia Grande A Sabesp Praia Grande Vôlei estreia em casa na competição diante da Apan Blumenau, no dia 8 de dezembro, no Ginásio Rodrigão.",
-"tema": "Saneamento",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/praiagrande/sabesp-praia-grande-volei-estreia-em-casa-na-superliga-b-2026-2027/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:00",
-"t": "Santos faz mapeamento inédito da drenagem nos morros para prevenir alagamentos",
-"p": "Marcella Biasi/Divulgação Prefeitura de Santos Diante dos impactos das mudanças climáticas e da necessidade de ampliar as ações preventivas, Santos iniciou um levantamento inédito dos sistemas de drenagem dos Morros. A primeira etapa, realizada na Nova Cintra, identificou 485 dispositivos de drenagem, distribuídos…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/santos-faz-mapeamento-inedito-da-drenagem-nos-morros-para-prevenir-alagamentos/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:00",
-"t": "Rodovia Presidente Dutra registra 29 km de lentidão em quatro trechos; veja locais",
-"p": "Motoristas encontram lentidão em Guarulhos e Santa Isabel, no sentido São Paulo; obras na pista e tráfego intenso afetam circulação",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Santa Isabel",
-"Guarulhos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-29-km-de-lentidao-em-quatro-trechos-veja-locais.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:58",
-"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal nesta quinta (5)",
-"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-nesta-quinta-5.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:57",
-"t": "Cubatão vira refém dos caminhões: congestionamentos ameaçam a rotina dos moradores e levam autoridades a discutir medidas para frear o caos",
-"p": "O trânsito de caminhões em Cubatão entrou na pauta de uma reunião entre autoridades, representantes do setor portuário e lideranças comunitárias nesta quarta-feira (4). O encontro discutiu alternativas para reduzir os congestionamentos e minimizar os impactos dos veículos pesados na mobilidade urbana da Baixada…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Cubatão"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/cubatao-vira-refem-dos-caminhoes-congestionamentos-ameacam-a-rotina-dos-moradores-e-levam-autoridades-a-discutir-medidas-para-frear-o-caos/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:52",
-"t": "Litoral de SP tem alerta de vento, chuva e frio no fim de semana; veja previsão do tempo",
-"p": "Baixada Santista e litoral norte podem registrar temporais e rajadas de vento; Inmet também prevê queda de temperatura no domingo (8)",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/clima/litoral-de-sp-tem-alerta-de-vento-chuva-e-frio-no-fim-de-semana-veja-previsao-do-tempo.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "15:45",
-"t": "Elon Musk anuncia megaprojeto de R$ 105 bilhões para criar fábrica de chips de inteligência artificial do tamanho de 1,3 mil Maracanãs",
-"p": "O bilionário Elon Musk anunciou um projeto ambicioso para ampliar a produção de semicondutores nos Estados Unidos. Batizada de Terafab, a iniciativa prevê a construção de uma fábrica de chips voltada à inteligência artificial (IA) no Texas, com investimento estimado em US$ 20 bilhões, o equivalente a cerca de R$…",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/elon-musk-anuncia-megaprojeto-de-r-105-bilhoes-para-criar-fabrica-de-chips-de-inteligencia-artificial-do-tamanho-de-13-mil-maracanas/",
 "auto": true
 }
 ]
