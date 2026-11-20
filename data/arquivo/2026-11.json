@@ -3,6 +3,101 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "16:07",
+"t": "Veja como será o cálculo da hora extra com a escala de trabalho 5×2",
+"p": "Decreto prevê redução gradual da jornada semanal de 44 para 40 horas, sem diminuir salários, e muda o cálculo das horas extras a partir de dezembro de 2026",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/veja-como-sera-o-calculo-da-hora-extra-com-a-escala-de-trabalho-5x2/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-20",
+"h": "16:05",
+"t": "IBGE tem nove vagas na área de Guaratinguetá; inscrição vai até 25 de novembro",
+"p": "Seleção exige ensino fundamental e abrange também Aparecida, Lagoinha, Potim e Roseira; edital retificado muda orientação para pagamento por GRU.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guaratinguetá"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/ibge-recenseador-nove-vagas-guaratingueta-inscricoes-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:49",
+"t": "Luciano Hang se junta a prefeito de município com 510 mil moradores e emociona com ação antes de abertura nova unidade da Havan",
+"p": "Diante da inauguração da nova unidade da Havan em Vila Velha, município com 510.512 pessoas no Espírito Santos, o empresário Luciano Hang se uniu com o prefeito do município, Arnaldinho Borgo, para pintar alguns muros pichados na frente da loja. “Eu sempre digo que não basta reclamar dos problemas. Precisamos fazer…",
+"tema": "Política",
+"s": "entregue",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/luciano-hang-se-junta-a-prefeito-de-municipio-e-emocionam-a-populacao-com-decisao-antes-de-abertura-nova-unidade-da-havan/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:33",
+"t": "Aos 86 anos, idosa volta ao Enem após passar mal em prova anterior, estuda até de madrugada e mantém vivo o sonho de cursar Direito para ser delegada",
+"p": "Aos 86 anos, Sebastiana Firmino dos Santos voltou a prestar o Exame Nacional do Ensino Médio (Enem) com um objetivo que acompanha sua vida há décadas: cursar Direito e se tornar delegada. Natural de São Miguel dos Campos, em Alagoas, ela se prepara para a prova em um cursinho popular gratuito e também estuda em […]",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/aos-86-anos-idosa-volta-ao-enem-apos-passar-mal-em-prova-anterior-estuda-ate-de-madrugada-e-mantem-vivo-o-sonho-de-cursar-direito-para-ser-delegada/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:32",
+"t": "Trânsito em Poá tem alteração a partir deste domingo (22) com liberação de novo acesso à SP-066",
+"p": "Alterações acontecem para garantir a continuidade das obras do Complexo Viário do Alto Tietê, segundo a concessionária responsável",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Poá"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/transito-em-poa-tem-alteracao-a-partir-deste-domingo-22-com-liberacao-de-novo-acesso-a-sp-066/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:30",
+"t": "Sorocaba adere à Semana Nacional de Combate ao Aedes Aegypti",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), aderiu à mobilização das Semana Nacional de Combate ao Aedes Aegypti. As ações para prevenção e controle de arboviroses, que perduram o ano todo, serão intensificadas pelas equipes da Zoonoses, entre segunda (23) e sexta-feira (27), em diversos pontos…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-adere-a-semana-nacional-de-combate-ao-aedes-aegypti/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:21",
+"t": "Santo André acerta contratação do atacante Vitinho para 2027",
+"p": "Campeão paranaense pelo Londrina e brasileiro da Série D pelo Barra-SC, atacante de 26 anos chega ao Ramalhão com contrato válido até outubro de 2027",
+"tema": "Geral",
+"s": "obra",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369912/-santo-andre-acerta-contratacao-do-atacante-vitinho-para-2027",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "14:56",
 "t": "Suspeito de matar namorada a facadas no PR é preso em rodovia de São Paulo",
 "p": "Ao ser abordado pelos policiais, o suspeito passou a danificar intencionalmente um aparelho celular",
@@ -13,6 +108,20 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/suspeito-de-matar-namorada-a-facadas-no-pr-e-preso-em-rodovia-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "14:55",
+"t": "Frente fria avança e estado de SP tem previsão de chuva forte no sábado e domingo",
+"p": "Frente fria avança e traz risco de chuva forte neste sábado (21) e domingo (22)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-avanca-e-estado-de-sp-tem-previsao-de-chuva-forte-no-sabado-e-domingo/",
 "auto": true
 },
 {
@@ -65,6 +174,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/homem-sobrevive-apos-faca-atravessar-o-pescoco-em-ataque-esposa-e-presa-suspeita-de-envolvimento-no-crime/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "14:28",
+"t": "Cachorrinha que passou por duas cirurgias volta a sofrer com complicações renais, luta pela vida internada e tutor cria vakinha para tratamento",
+"p": "A cachorrinha Janete, que já enfrentou duas cirurgias, voltou a apresentar complicações de saúde e está internada sob cuidados veterinários intensivos. Desta vez, a principal preocupação é o funcionamento dos rins, que apresentam alterações significativas. Diante da gravidade do quadro e dos custos do tratamento,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/cachorrinha-que-passou-por-duas-cirurgias-volta-a-sofrer-com-complicacoes-renais-luta-pela-vida-internada-e-tutor-cria-vakinha-para-tratamento/",
 "auto": true
 },
 {

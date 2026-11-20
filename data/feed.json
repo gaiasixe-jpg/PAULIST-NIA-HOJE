@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T15:04:08-03:00",
-"novos_nesta_coleta": 22,
+"atualizado": "2026-11-20T16:08:28-03:00",
+"novos_nesta_coleta": 18,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -15,6 +15,7 @@
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
 "Gazeta de Rio Preto",
+"Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
@@ -44,15 +45,106 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Diário de Votuporanga",
-"erro": "HTTP Error 404: Not Found"
-},
-{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "16:07",
+"t": "Veja como será o cálculo da hora extra com a escala de trabalho 5×2",
+"p": "Decreto prevê redução gradual da jornada semanal de 44 para 40 horas, sem diminuir salários, e muda o cálculo das horas extras a partir de dezembro de 2026",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/veja-como-sera-o-calculo-da-hora-extra-com-a-escala-de-trabalho-5x2/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-20",
+"h": "16:05",
+"t": "IBGE tem nove vagas na área de Guaratinguetá; inscrição vai até 25 de novembro",
+"p": "Seleção exige ensino fundamental e abrange também Aparecida, Lagoinha, Potim e Roseira; edital retificado muda orientação para pagamento por GRU.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guaratinguetá"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/ibge-recenseador-nove-vagas-guaratingueta-inscricoes-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:49",
+"t": "Luciano Hang se junta a prefeito de município com 510 mil moradores e emociona com ação antes de abertura nova unidade da Havan",
+"p": "Diante da inauguração da nova unidade da Havan em Vila Velha, município com 510.512 pessoas no Espírito Santos, o empresário Luciano Hang se uniu com o prefeito do município, Arnaldinho Borgo, para pintar alguns muros pichados na frente da loja. “Eu sempre digo que não basta reclamar dos problemas. Precisamos fazer…",
+"tema": "Política",
+"s": "entregue",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/luciano-hang-se-junta-a-prefeito-de-municipio-e-emocionam-a-populacao-com-decisao-antes-de-abertura-nova-unidade-da-havan/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:33",
+"t": "Aos 86 anos, idosa volta ao Enem após passar mal em prova anterior, estuda até de madrugada e mantém vivo o sonho de cursar Direito para ser delegada",
+"p": "Aos 86 anos, Sebastiana Firmino dos Santos voltou a prestar o Exame Nacional do Ensino Médio (Enem) com um objetivo que acompanha sua vida há décadas: cursar Direito e se tornar delegada. Natural de São Miguel dos Campos, em Alagoas, ela se prepara para a prova em um cursinho popular gratuito e também estuda em […]",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/aos-86-anos-idosa-volta-ao-enem-apos-passar-mal-em-prova-anterior-estuda-ate-de-madrugada-e-mantem-vivo-o-sonho-de-cursar-direito-para-ser-delegada/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:32",
+"t": "Trânsito em Poá tem alteração a partir deste domingo (22) com liberação de novo acesso à SP-066",
+"p": "Alterações acontecem para garantir a continuidade das obras do Complexo Viário do Alto Tietê, segundo a concessionária responsável",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Poá"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/transito-em-poa-tem-alteracao-a-partir-deste-domingo-22-com-liberacao-de-novo-acesso-a-sp-066/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:30",
+"t": "Sorocaba adere à Semana Nacional de Combate ao Aedes Aegypti",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), aderiu à mobilização das Semana Nacional de Combate ao Aedes Aegypti. As ações para prevenção e controle de arboviroses, que perduram o ano todo, serão intensificadas pelas equipes da Zoonoses, entre segunda (23) e sexta-feira (27), em diversos pontos…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/sorocaba-adere-a-semana-nacional-de-combate-ao-aedes-aegypti/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "15:21",
+"t": "Santo André acerta contratação do atacante Vitinho para 2027",
+"p": "Campeão paranaense pelo Londrina e brasileiro da Série D pelo Barra-SC, atacante de 26 anos chega ao Ramalhão com contrato válido até outubro de 2027",
+"tema": "Geral",
+"s": "obra",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369912/-santo-andre-acerta-contratacao-do-atacante-vitinho-para-2027",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "14:56",
@@ -65,6 +157,20 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/suspeito-de-matar-namorada-a-facadas-no-pr-e-preso-em-rodovia-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "14:55",
+"t": "Frente fria avança e estado de SP tem previsão de chuva forte no sábado e domingo",
+"p": "Frente fria avança e traz risco de chuva forte neste sábado (21) e domingo (22)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-avanca-e-estado-de-sp-tem-previsao-de-chuva-forte-no-sabado-e-domingo/",
 "auto": true
 },
 {
@@ -117,6 +223,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/homem-sobrevive-apos-faca-atravessar-o-pescoco-em-ataque-esposa-e-presa-suspeita-de-envolvimento-no-crime/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "14:28",
+"t": "Cachorrinha que passou por duas cirurgias volta a sofrer com complicações renais, luta pela vida internada e tutor cria vakinha para tratamento",
+"p": "A cachorrinha Janete, que já enfrentou duas cirurgias, voltou a apresentar complicações de saúde e está internada sob cuidados veterinários intensivos. Desta vez, a principal preocupação é o funcionamento dos rins, que apresentam alterações significativas. Diante da gravidade do quadro e dos custos do tratamento,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/cachorrinha-que-passou-por-duas-cirurgias-volta-a-sofrer-com-complicacoes-renais-luta-pela-vida-internada-e-tutor-cria-vakinha-para-tratamento/",
 "auto": true
 },
 {
@@ -54941,130 +55059,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367096/feirao-em-sao-bernardo-tera-4-500-vagas-e-salarios-de-ate-rs-7-500",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:00",
-"t": "Santo André terá R$ 1,85 milhão para arborização e combate ao calor",
-"p": "Município está entre dez cidades selecionadas pelo governo federal; recursos serão destinados ao plantio de árvores e à elaboração de plano de enfrentamento ao calor urbano",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367109/santo-andre-tera-rs-1-85-milhao-para-arborizacao-e-combate-ao-calor",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:00",
-"t": "Câmara de São Caetano aprova antecipação de reajuste de 25% à GCM",
-"p": "Redação prevê benefício já em dezembro e organiza escala de trabalho dos agentes",
-"tema": "Segurança",
-"s": "anunciado",
-"c": [
-"São Caetano do Sul"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367117/camara-de-sao-caetano-aprova-antecipacao-de-reajuste-de-25-a-gcm",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "17:00",
-"t": "Concurso PM SP 2026: 2 mil vagas e salário de R$ 5,4 mil",
-"p": "Inscrições começam na segunda-feira (9) e seguem até 22 de dezembro; candidatos devem ter entre 17 e 30 anos e atender aos requisitos do edital",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367119/concurso-pm-sp-2026-2-mil-vagas-e-salario-de-rs-5-4-mil",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:59",
-"t": "Jovem cria projeto aos 14 anos, visita 26 escolas e transforma iniciativa em negócio que reúne oito livros e atividades em 14 estados brasileiros",
-"p": "A ideia começou na adolescência e entrou nas escolas antes de virar empresa. Em 2015, aos 14 anos, Anna Luiza Calixto criou o Projeto Bem Me Quer e percorreu 26 escolas municipais de Atibaia para conversar sobre direitos de crianças e adolescentes. Em 2018, a iniciativa se tornou microempresa. Segundo reportagem de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Atibaia"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/jovem-cria-projeto-aos-14-anos-visita-26-escolas-e-transforma-iniciativa-em-negocio-que-reune-oito-livros-e-atividades-em-14-estados-brasileiros-nn/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:59",
-"t": "Jardim Zaíra, em Mauá, terá novo ponto dos Correios; veja endereço",
-"p": "Novo ponto de atendimento será instalado na Avenida Presidente Castelo Branco, 2.069, e oferecerá serviços postais de menor complexidade",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367121/jardim-zaira-em-maua-tera-novo-ponto-dos-correios-veja-endereco",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:53",
-"t": "Carro capota após batida traseira na Rodovia Santos Dumont",
-"p": "Acidente aconteceu no km 54 em Indaiatuba e deixou uma vítima com ferimentos moderados",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Indaiatuba"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/carro-capota-apos-batida-traseira-na-rodovia-santos-dumont/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:43",
-"t": "Helicóptero Águia da PM faz buscas por procurado da Justiça em Campinas",
-"p": "Suspeito fugiu de abordagem policial e pulou por telhados de casas no bairro São Gabriel",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/helicoptero-aguia-da-pm-faz-buscas-por-procurado-da-justica-em-campinas/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:38",
-"t": "Tooro Nagashi reúne mais de 25 mil pessoas e movimenta mais de R$ 1 milhão em Registro",
-"p": "cultura",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/tooro-nagashi-reune-mais-de-25-mil-pessoas-e-movimenta-mais-de-r-1-milhao-em-registro/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "16:38",
-"t": "‘Não vamos recuar nem um centímetro’: deputada eleita Eduarda Campopiano prevê embates na Alesp e revela desafio de atender cidades de SP",
-"p": "A deputada estadual eleita Eduarda Campopiano (PL) espera um mandato marcado por embates políticos na Assembleia Legislativa de São Paulo (Alesp). Em entrevista publicada no Instagram da Casa, ela afirmou que o crescimento das bancadas do PL e da esquerda deve intensificar as disputas no Legislativo paulista. “Eu…",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/nao-vamos-recuar-nem-um-centimetro-deputada-eleita-eduarda-campopiano-preve-embates-na-alesp-e-revela-desafio-de-atender-cidades-de-sp/",
 "auto": true
 }
 ]
