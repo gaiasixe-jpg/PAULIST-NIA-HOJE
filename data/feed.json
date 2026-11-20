@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T02:09:50-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-20T03:14:32-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,32 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "02:30",
+"t": "Metrô para cegos em São Paulo: “Uma caverna escura com um dragão lá dentro”",
+"p": "Bombeira aposentada, Sueli Amaral conta os desafios do transporte público de SP para pessoas cegas. \"O metrô é uma caverna escura\", diz",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/metro-para-cegos-em-sao-paulo-uma-caverna-escura-com-um-dragao-la-dentro",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "02:20",
+"t": "Caetano, Tattoo Week, Tasha & Tracie: o feriadão da Consciência Negra em SP",
+"p": "Fim de semana do feriadão da Consciência Negra tem shows de Caetano, Fresno, Matuê e Tasha & Tracie, além de outros eventos na programação",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/caetano-tattoo-feriado-sp",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "01:30",
@@ -54930,32 +54956,6 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/pm-de-sp-abre-concurso-para-aluno-soldado-com-salario-inicial-de-r-54-mil",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:16",
-"t": "Lagarto teiú é atropelado em praça no centro de São Vicente e recebe socorro da GCM",
-"p": "Lagarto foi encontrado ferido na praça 22 de Janeiro, na terça-feira (3); GCM orienta a população a evitar contato com animais silvestres e ligar 153",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/mundoanimal/lagarto-teiu-e-atropelado-em-praca-no-centro-de-sao-vicente-e-recebe-socorro-da-gcm.html",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "11:15",
-"t": "Fábrica de bilionários, WEG desembolsa R$ 44 milhões para comprar terreno na Índia; país conta com 2 mil trabalhadores da multinacional",
-"p": "A WEG, multinacional brasileira conhecida por tornar os seus herdeiros bilionários, anunciou a aquisição de um novo terreno na Índia nessa quarta-feira (4/11). Com o investimento, a companhia precisou desembolsar R$ 44 milhões para comprar um novo espaço no país em que já emprega 2 mil trabalhadores. Ao todo, a WEG…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/fabrica-de-bilionarios-weg-desembolsa-r-44-milhoes-para-comprar-terreno-na-india-pais-conta-com-2-mil-trabalhadores-da-multinacional/",
 "auto": true
 }
 ]
