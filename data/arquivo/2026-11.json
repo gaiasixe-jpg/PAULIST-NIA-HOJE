@@ -3,6 +3,88 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "16:45",
+"t": "Justiça mantém condenação de professor por ataque à filha de Roberto Justus",
+"p": "O Tribunal de Justiça do Estado de São Paulo (TJSP) confirmou, em segunda instância, a condenação do professor aposentado da Universidade Federal do Rio de Janeiro (UFRJ) Marcos Dantas por danos morais após ele sugerir o uso de guilhotina em uma publicação envolvendo Vicky Justus, filha caçula do empresário Roberto…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-mantem-condenacao-de-professor-por-ataque-a-filha-de-roberto-justus/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "16:41",
+"t": "Operação da Polícia Civil prende três pessoas por tráfico de drogas",
+"p": "A Polícia Civil, por meio da Delegacia de Investigações Gerais (DIG) de Assis, deflagrou na última quinta-feira (19) a Operação “Átropos” para desarticular uma organização criminosa envolvida com o tráfico de drogas no município. A ofensiva policial resultou na prisão de dois homens e uma mulher, além do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Assis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-da-policia-civil-prende-tres-pessoas-por-trafico-de-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "16:37",
+"t": "Polícia Militar prende homem após furto em comércio em Mauá",
+"p": "Indivíduo tentou entrar à força em um veículo ocupado por uma motorista para fugir",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369930/policia-militar-prende-homem-apos-furto-em-comercio-em-maua",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "16:32",
+"t": "Operação policial prende dois suspeitos por tráfico de drogas em Ouroeste",
+"p": "Duas pessoas foram presas em flagrante por suspeita de tráfico de drogas durante uma operação conjunta das forças de segurança realizada nesta quinta-feira (19), em Ouroeste. A ofensiva foi coordenada pela Polícia Civil para o cumprimento de mandados judiciais de busca e apreensão e contou com o apoio operacional…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-policial-prende-dois-suspeitos-por-trafico-de-drogas-em-ouroeste/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "16:25",
+"t": "Força Tática prende homem por tráfico e apreende mais de 150 porções de drogas",
+"p": "Uma operação da Força Tática da Polícia Militar terminou com a prisão em flagrante de um homem por tráfico de drogas na noite desta quinta-feira (19), no bairro Cohab, em Buritama. A ação ocorreu durante um patrulhamento direcionado para averiguar denúncias de comercialização de entorpecentes na região. De acordo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Buritama"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/forca-tatica-prende-homem-por-trafico-e-apreende-mais-de-150-porcoes-de-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "16:21",
+"t": "Após perseguição, menores em moto furtada são apreendidos na Grande SP",
+"p": "Os dois adolescentes disseram à polícia que compraram a moto por R$ 1 mil em um site de vendas. Veículo foi furtado de uma agência em Suzano",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Suzano"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/apos-perseguicao-menores-em-moto-furtada-sao-apreendidos-na-grande-sp",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "16:07",
 "t": "Veja como será o cálculo da hora extra com a escala de trabalho 5×2",
 "p": "Decreto prevê redução gradual da jornada semanal de 44 para 40 horas, sem diminuir salários, e muda o cálculo das horas extras a partir de dezembro de 2026",
