@@ -3,6 +3,116 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "18:44",
+"t": "Homem é preso por violência doméstica após PM encontrar armas e drogas em residência",
+"p": "Um homem foi preso em flagrante pela Polícia Militar em Ilha Solteira, no noroeste paulista, durante o atendimento a uma ocorrência de violência doméstica no bairro Nova Ilha que culminou na apreensão de armamentos, munições e entorpecentes. Equipes da 2ª Companhia da PM foram acionadas via telefone 190 para…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ilha Solteira"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-preso-por-violencia-domestica-apos-pm-encontrar-armas-e-drogas-em-residencia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "18:44",
+"t": "Homem é preso em Auriflama após tentar vender ferramentas furtadas de residências",
+"p": "Um homem foi preso em flagrante pela Polícia Militar em Auriflama, no noroeste paulista, após ser flagrado comercializando ferramentas e equipamentos de construção civil furtados de diferentes imóveis da cidade. A captura ocorreu depois que a equipe policial recebeu denúncias anônimas informando que um suspeito…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Auriflama"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-preso-em-auriflama-apos-tentar-vender-ferramentas-furtadas-de-residencias/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "18:44",
+"t": "Temporal derruba portal de entrada de Santa Fé do Sul e provoca estragos na região",
+"p": "Uma forte tempestade acompanhada de rajadas de vento e intensa atividade elétrica atingiu municípios do noroeste paulista durante a madrugada deste sábado (21), causando danos estruturais e transtornos no trânsito. O cenário mais crítico foi registrado em Santa Fé do Sul, cidade localizada a cerca de 70 quilômetros…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santa Fé do Sul"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/temporal-derruba-portal-de-entrada-de-santa-fe-do-sul-e-provoca-estragos-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "18:44",
+"t": "Defesa Civil mantém alerta de chuvas até domingo após temporais provocarem estragos em diversas cidades",
+"p": "A Defesa Civil do Estado de São Paulo mantém em vigor até este domingo (22) um alerta preventivo para a ocorrência de chuvas em todo o território paulista, após temporais atingirem diversas regiões entre a sexta-feira (20) e a manhã deste sábado (21). Somente na sexta-feira foram disparados 47 avisos de emergência…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-mantem-alerta-de-chuvas-ate-domingo-apos-temporais-provocarem-estragos-em-diversas-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "18:10",
+"t": "Cidade no interior de SP registra tremores e estrondos durante madrugada",
+"p": "Segundo a Prefeitura de Barretos, quatro ocorrências foram registradas em menos de cinco horas. Razão dos tremores ainda é incerta",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Barretos"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cidade-no-interior-de-sp-registra-tremores-e-estrondos-durante-madrugada",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "18:06",
+"t": "Socorrista do Samu é mordido por paciente durante atendimento em Rio Preto",
+"p": "Um profissional do Serviço de Atendimento Móvel de Urgência (Samu) foi mordido por um paciente durante um atendimento em Rio Preto. A agressão ocorreu enquanto a equipe socorria um homem ferido por arma branca e o transportava para a Unidade de Pronto Atendimento (UPA) Tangará. Segundo o boletim de ocorrência, o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/socorrista-do-samu-e-mordido-por-paciente-durante-atendimento-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "18:04",
+"t": "Campinas quer facilitar construções e mudar cobrança para prédios; entenda",
+"p": "A nova proposta foi apresentada depois que a Prefeitura identificou problemas técnicos e jurídicos no texto anteriormente aprovado pela Câmara de Campinas",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/campinas-quer-facilitar-construcoes-e-mudar-cobranca-para-predios-entenda/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "18:00",
+"t": "Criança é socorrida após inalar fumaça durante incêndio em Cubatão",
+"p": "Divulgação/Governo Federal Uma criança precisou ser encaminhada ao pronto-socorro após inalar fumaça durante um incêndio em um apartamento em Cubatão.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/crianca-e-socorrida-apos-inalar-fumaca-durante-incendio-em-cubatao/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "17:35",
 "t": "Carro capota na Rodovia Luiz de Queiroz e deixa vítima ferida",
 "p": "Capotamento de carro interditou o acostamento da Rodovia Luiz de Queiroz, mas não provocou congestionamento no trecho",
