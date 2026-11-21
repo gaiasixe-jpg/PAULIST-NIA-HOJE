@@ -3,6 +3,151 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "11:48",
+"t": "Chuva causa desabamentos, queda de árvores e alagamentos em cidades de SP",
+"p": "Municípios estão sob alerta da Defesa Civil até este domingo (22/11). Ao menos 11 avisos SMS foram emitidos neste sábado (21/11)",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-causa-desabamentos-queda-de-arvores-e-alagamentos-em-cidades-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:33",
+"t": "Defesa Civil monitora ocorrências provocadas por chuvas em municípios paulistas no feriado e emite 11 alertas neste sábado (21)",
+"p": "A Defesa Civil do Estado monitora as ocorrências registradas em municípios paulistas em decorrência das chuvas que atingiram diferentes regiões na sexta-feira (20) e mantém alerta vigente até domingo (22), com previsão de chuvas em todo o território paulista. Na sexta-feira (20), foram emitidos 47 alertas à…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-monitora-ocorrencias-provocadas-por-chuvas-em-municipios-paulistas-no-feriado-e-emite-11-alertas-neste-sabado-21/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:33",
+"t": "Estado de São Paulo cria quase 500 mil novas empresas no ano",
+"p": "Estudo da Fundação Seade, com base nos dados do CNPJ, da Receita Federal, aponta a criação de 42.074 empresas em setembro de 2026. Já entre janeiro e setembro, o Estado de São Paulo registrou a abertura de 481.360 empresas. O setor de serviços concentrou a maior parte dos novos empreendimentos, com 335.886…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/estado-de-sao-paulo-cria-quase-500-mil-novas-empresas-no-ano/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:33",
+"t": "Defesa Civil de SP mobiliza equipes para apoiar Aparecida após fortes chuvas; alerta para o estado vai até domingo (22)",
+"p": "A Defesa Civil do Estado de São Paulo mobilizou equipes para apoiar o município de Aparecida após as fortes chuvas que atingiram a cidade na sexta-feira (20). O temporal provocou alagamentos em diversas vias e residências, quedas de árvores e danos em estruturas. Uma família ficou desalojada após a interdição…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-de-sp-mobiliza-equipes-para-apoiar-aparecida-apos-fortes-chuvas-alerta-para-o-estado-vai-ate-domingo-22/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:32",
+"t": "Cavalos soltos em rodovia são atropelados por três veículos",
+"p": "Animais foram atingidos por dois carros e um caminhão na rodovia Santos Dumont, em Indaiatuba",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Indaiatuba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/cavalos-soltos-em-rodovia-sao-atropelados-por-tres-veiculos/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:30",
+"t": "Provas esportivas alteram trânsito e ônibus na orla de Santos no domingo (22)",
+"p": "Duatlo e corrida 5 km provocam bloqueios e mudanças de itinerário na cidade; motoristas devem redobrar atenção para evitar acidentes",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/provas-esportivas-alteram-transito-e-onibus-na-orla-de-santos-no-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:28",
+"t": "Praia do Guarujá tem cachoeira que deságua diretamente no mar; conheça o refúgio",
+"p": "Cercada pela Mata Atlântica, Praia de Iporanga tem 800 metros de extensão, acesso controlado e uma queda-d’água que chama a atenção dos visitantes",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Iporanga",
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/praia-do-guaruja-tem-cachoeira-que-desagua-diretamente-no-mar-conheca-o-refugio.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:21",
+"t": "Safra de 30 mil toneladas marca contagem regressiva para a Festa da Uva de Jundiaí 2027",
+"p": "Foto: Prefeitura de Jundiaí Festa da Uva de Jundiaí 2027 começa em 14 de janeiro, com entrada gratuita e expectativa de safra de 30 mil toneladas de uvas.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/festa-uva-jundiai-2027-safra/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:21",
+"t": "Mais de 10 mil mulheres já receberam auxílio-aluguel em SP; veja como funciona",
+"p": "Programa está presente em 596 municípios paulistas e prevê pagamento mensal de R$500 por até 12 meses para mulheres que atendem aos critérios",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/mais-de-10-mil-mulheres-ja-receberam-auxilio-aluguel-em-sp-veja-como-funciona.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:09",
+"t": "Dengue já soma 45 mortes em SP; estado prepara semana de combate ao mosquito",
+"p": "Mobilização ocorre de 23 a 28 de novembro, com webinário, ações de prevenção e Dia D para eliminar criadouros do Aedes aegypti",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/dengue-ja-soma-45-mortes-em-sp-estado-prepara-semana-de-combate-ao-mosquito.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:08",
+"t": "GCM detém mulher por tráfico de drogas em Brigadeiro Tobias",
+"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba deteve, na noite de quinta-feira (19), uma mulher, de 31 anos, por tráfico de drogas em Brigadeiro Tobias, Zona Leste da cidade. O caso ocorreu durante patrulhamento preventivo pelo bairro. Na ocasiao, a avistou a mulher próxima a um veículo estacionado. Ao…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-detem-mulher-por-trafico-de-drogas-em-brigadeiro-tobias/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "11:06",
 "t": "Ação conjunta da GCM, “HumanizAção” e Fiscalização resulta em prisão por tráfico de drogas na região central",
 "p": "Fotos: GCM Uma ação conjunta da Guarda Civil Municipal (GCM), das equipes do programa “HumanizAção” e da Fiscalização dr Posturas, ligada à Secretaria de Planejamento e Desenvolvimento Urbano (Seplan), resultou na prisão de um homem de 33 anos por tráfico de drogas. A ação ocorreu na quinta-feira (19), na região…",
@@ -27,6 +172,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/canal/viver-bem/coceira-em-cachorro-e-normal-veja-quando-pode-ser-sintoma-de-dermatite-atopica/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:58",
+"t": "Festas religiosas movimentam paróquias de Guarujá; veja a programação",
+"p": "Celebrações em homenagem a Cristo Rei e Nossa Senhora das Graças incluem missas, procissões, carreata e quermesses até 28 de novembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/festas-religiosas-movimentam-paroquias-de-guaruja-veja-a-programacao.html",
 "auto": true
 },
 {
