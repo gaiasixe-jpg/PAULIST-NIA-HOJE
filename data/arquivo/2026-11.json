@@ -3,6 +3,104 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "17:35",
+"t": "Carro capota na Rodovia Luiz de Queiroz e deixa vítima ferida",
+"p": "Capotamento de carro interditou o acostamento da Rodovia Luiz de Queiroz, mas não provocou congestionamento no trecho",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Queiroz"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/carro-capota-na-rodovia-luiz-de-queiroz-e-deixa-vitima-ferida/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "17:35",
+"t": "Doença pulmonar obstrutiva crônica: entenda as causas e os riscos",
+"p": "A doença pulmonar obstrutiva crônica (DPOC) costuma apresentar poucos sintomas, e leves, nas fases iniciais. Porém, é um quadro grave e progressivo. Segundo especialistas do Instituto de Assistência Médica ao Servidor Público Estadual (Iamspe) de São Paulo, depois de uma crise que leva à internação, quase metade…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/doenca-pulmonar-obstrutiva-cronica-entenda-as-causas-e-os-riscos/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "17:35",
+"t": "Ouro nas Olimpíadas da Juventude, Pyetro Henrico tem os Jogos Escolares do Estado de SP como ponto de partida",
+"p": "Uma participação nos Jogos Escolares do Estado de São Paulo (Jeesp) mudou os rumos da vida de Pyetro Henrique. Foi depois de disputar as finais de 2023 da competição organizada pela Secretaria Estadual de Esportes (Sesp), na Praia Grande, que o jovem atleta decidiu que vingaria no esporte de alto rendimento. Pyetro…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/ouro-nas-olimpiadas-da-juventude-pyetro-henrico-tem-os-jogos-escolares-do-estado-de-sp-como-ponto-de-partida/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "17:35",
+"t": "Defesa Civil reforça alerta para chuva forte em todo o estado de SP entre domingo (22) e terça-feira (24)",
+"p": "A Defesa Civil do Estado de São Paulo reforça o alerta para a ocorrência de chuvas em todo o território paulista entre domingo (22) e terça-feira (24) de novembro. As regiões de Itapeva, Sorocaba, Campinas, Registro, Região Metropolitana de São Paulo e São José dos Campos estão em alerta para condições de chuva…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José dos Campos",
+"São Paulo",
+"Campinas",
+"Sorocaba",
+"Itapeva"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-reforca-alerta-para-chuva-forte-em-todo-o-estado-de-sp-entre-domingo-22-e-terca-feira-24/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "17:09",
+"t": "Ciclista é atingido por SUV e morre na Campinas-Mogi",
+"p": "Ciclista cruzava a rodovia quando foi atingido transversalmente por um veículo SUV",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/ciclista-e-atingido-por-suv-e-morre-na-campinas-mogi/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "17:07",
+"t": "Missão Empreendedora em Jundiaí capacita 26 empresários em parceria com o Sebrae",
+"p": "Foto: Prefeitura de Jundiaí Programa oferece orientações sobre vendas, gestão e planejamento para fortalecer pequenos negócios e impulsionar o empreendedorismo local.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/missao-empreendedora-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "17:00",
+"t": "Rodovia Padre Manoel da Nóbrega registra tráfego normal na tarde deste domingo (21)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-registra-trafego-normal-na-tarde-deste-domingo-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "16:50",
 "t": "Rodovia Presidente Dutra registra tráfego normal neste domingo (21)",
 "p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 16h30",
@@ -11,6 +109,32 @@
 "c": [],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-domingo-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:48",
+"t": "Chuva ganha força em SP no domingo (22) com frente fria; veja previsão",
+"p": "Chuva ganha força neste domingo (22), com avanço de frente fria pelo litoral",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-ganha-forca-em-sp-no-domingo-22-com-frente-fria-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:40",
+"t": "Alice Wegmann diz que família e amigos torcem por namoro com Humberto Carrão: ‘Todo mundo quer, menos a gente’",
+"p": "A atriz Alice Wegmann abriu o jogo sobre a relação com Humberto Carrão e revelou que os fãs e até familiares torciam por um romance entre eles. Em entrevista ao programa “Foquinha Entrevista”, a artista relembrou a forte química construída nos bastidores do remake de Vale Tudo, onde interpretaram o casal Solange e…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/alice-wegmann-diz-que-familia-e-amigos-torcem-por-namoro-com-humberto-carrao-todo-mundo-quer-menos-a-gente/",
 "auto": true
 },
 {
@@ -68,6 +192,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/lagoa-do-taquaral-tera-mudancas-no-transito-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:59",
+"t": "Rompimento de tubulação da Sabesp deixa moradores de São Bernardo sem água",
+"p": "O bairro Royal Park enfrenta interrupção do fornecimento desde quinta-feira (19), de acordo com relatos",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370042/rompimento-de-tubulacao-da-sabesp-deixa-moradores-de-sao-bernardo-sem-agua",
 "auto": true
 },
 {
