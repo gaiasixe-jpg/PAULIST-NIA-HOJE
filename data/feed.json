@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-20T22:19:34-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-20T23:55:50-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,60 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-20",
+"h": "23:48",
+"t": "PF diz que não há conversas de Mendonça com Vorcaro",
+"p": "A Polícia Federal (PF) informou ao Supremo Tribunal Federal (STF) que não foram encontrados registros de conversas entre o ex-banqueiro Daniel Vorcaro e o ministro André Mendonça. A conclusão consta no relatório entregue nesta semana ao presidente do STF, Edson Fachin, relator do caso Master. Mais cedo, o sigilo do…",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Mendonça"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "23:28",
+"t": "Defesa Civil monitora chuvas em SP após envio de 33 alertas; temporais atingem quatro cidades do Vale do Ribeira",
+"p": "A Defesa Civil do Estado de São Paulo mantém o monitoramento das condições meteorológicas nesta sexta-feira (20) em todo o território paulista após emitir 33 alertas preventivos para chuvas intensas. Até o momento, os principais impactos se concentram na região do Vale do Ribeira, onde quatro municípios registraram…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-monitora-chuvas-em-sp-apos-envio-de-33-alertas-temporais-atingem-quatro-cidades-do-vale-do-ribeira/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "23:14",
+"t": "Médica é encontrada morta em hospital na zona leste; causa é desconhecida",
+"p": "Médica de 49 anos estava em horário de trabalho e foi encontrada morta dentro de uma sala de hospital no bairro da Mooca",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/medica-e-encontrada-morta-em-hospital-na-zona-leste-causa-e-desconhecida",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "22:41",
+"t": "Ribeirão Pires celebra Dia da Consciência Negra com valorização da ancestralidade",
+"p": "Programação no Complexo Ayrton Senna reuniu lideranças religiosas, música, expositores e ação solidária em benefício da Casa de Acolhida",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369974/ribeirao-pires-celebra-dia-da-consciencia-negra-com-valorizacao-da-ancestralidade-",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "22:12",
@@ -484,6 +544,20 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4369942/-nao-deixe-ninguem-limitar-seus-sonhos-declara-vilma-marcelino",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "17:55",
+"t": "Nova rodoviária de Cubatão abre em fase de testes no dia 1º de dezembro; veja o que muda",
+"p": "Estrutura recebeu R$ 13 milhões em contrapartida ferroviária e conta com piso tátil, portas automáticas e áreas separadas para ônibus urbanos, rodoviários e táxis",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/nova-rodoviaria-de-cubatao-abre-em-fase-de-testes-no-dia-1-de-dezembro-veja-o-que-muda.html",
 "auto": true
 },
 {
@@ -54976,75 +55050,6 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/policia/policia-militar-desarticula-desmanche-de-veiculos-e-prende-dois-suspeitos-em-suzano/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:34",
-"t": "PM de SP apreende mais de 100 celulares escondidos em cintas modeladoras durante operação no Brás, centro da capital",
-"p": "A Polícia Militar apreendeu 114 aparelhos celulares, avaliados em R$ 350 mil, durante a Operação Depósito Brás, nesta quinta-feira (5), no bairro do Brás, região central de São Paulo. Os dispositivos eram transportados por duas passageiras de um ônibus procedente de Foz do Iguaçu (PR), com destino à capital…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/pm-de-sp-apreende-mais-de-100-celulares-escondidos-em-cintas-modeladoras-durante-operacao-no-bras-centro-da-capital/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:34",
-"t": "Governo de SP investe R$ 23,8 milhões em obras de prevenção de riscos em 36 municípios",
-"p": "O governador Tarcísio de Freitas formalizou, nesta quinta-feira (5), 25 novos convênios para ações de prevenção e mitigação de riscos em municípios paulistas, com investimentos de R$ 16,8 milhões. Na mesma cerimônia, realizada no Palácio dos Bandeirantes, foram entregues 11 intervenções concluídas, que receberam R$…",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/governo-de-sp-investe-r-238-milhoes-em-obras-de-prevencao-de-riscos-em-36-municipios/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:33",
-"t": "STJ autoriza seguro de vida coletivo a ficar mais caro conforme a idade do cliente, mas estabelece 3 condições para permitir reajustes",
-"p": "O valor pago por um seguro de vida coletivo pode aumentar conforme o segurado envelhece. A possibilidade foi reconhecida pelo Superior Tribunal de Justiça (STJ), que estabeleceu critérios para a aplicação de reajustes por faixa etária nesses contratos. A decisão pode afetar consumidores que mantêm esse tipo de…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/stj-autoriza-seguro-de-vida-coletivo-a-ficar-mais-caro-conforme-a-idade-do-cliente-mas-estabelece-3-condicoes-para-permitir-reajustes/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:33",
-"t": "Obras do Sistema Paiva Castro avançam com 15 frentes de trabalho e 239 profissionais mobilizados",
-"p": "Com 15 frentes de trabalho e 239 profissionais mobilizados, a Sabesp está implantação uma nova estrutura de abastecimento de água para Campo Limpo Paulista e Várzea Paulista. O Sistema Paiva Castro prevê a construção de uma adutora de 25,5 quilômetros para transportar água da represa de mesmo nome, em Franco da…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campo Limpo Paulista",
-"Várzea Paulista"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/obras-do-sistema-paiva-castro-avancam-com-15-frentes-de-trabalho-e-239-profissionais-mobilizados/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:33",
-"t": "Defesa Civil registra rajadas de vento de até 80 km/h e quedas de árvores em municípios paulistas",
-"p": "O Centro de Gerenciamento de Emergências (CGE) da Defesa Civil de São Paulo registrou fortes rajadas de vento em diferentes regiões paulistas nesta quinta-feira (5), em meio ao avanço das instabilidades previstas para o estado. A maior velocidade foi registrada em Paulínia, com 80,5 km/h, seguida por Osasco, com…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo",
-"Paulínia",
-"Osasco"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/defesa-civil-registra-rajadas-de-vento-de-ate-80-km-h-e-quedas-de-arvores-em-municipios-paulistas/",
 "auto": true
 }
 ]
