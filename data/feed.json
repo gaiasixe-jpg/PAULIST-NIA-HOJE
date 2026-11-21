@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T15:56:09-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-21T16:53:21-03:00",
+"novos_nesta_coleta": 17,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,103 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "16:50",
+"t": "Rodovia Presidente Dutra registra tráfego normal neste domingo (21)",
+"p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 16h30",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-domingo-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:37",
+"t": "Consultas e exames em Várzea Paulista somam quase 22 mil vagas ofertadas no Hospital e Maternidade",
+"p": "Foto: Prefeitura de Várzea Paulista Unidade oferece atendimento em 14 especialidades médicas e diversos exames, ampliando o acesso da população aos serviços de saúde.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/consultas-exames-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:25",
+"t": "Clínica clandestina de idosos: polícia investiga morte de homem em Campo Limpo Paulista",
+"p": "Foto: Polícia Militar/Divulgação Dois idosos foram socorridos em imóvel com condições insalubres no bairro Pau Arcado; responsável pelo espaço acabou preso.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campo Limpo Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/clinica-clandestina-idosos-campo-limpo-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:25",
+"t": "Tiroteio na madrugada deixa um morto e 14 feridos em Caraguatatuba",
+"p": "Disparos ocorreram na madrugada deste sábado (21), no bairro Olaria, após evento em comércio; prefeitura informa que GCM esteve no local",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/tiroteio-na-madrugada-deixa-um-morto-e-14-feridos-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:03",
+"t": "Lagoa do Taquaral terá mudanças no trânsito neste domingo",
+"p": "Bloqueios na Lagoa do Taquaral, em Campinas, começam às 5h para corrida com percursos de 5 km e 10 km",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas",
+"Taquaral"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/lagoa-do-taquaral-tera-mudancas-no-transito-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:45",
+"t": "São Bernardo realiza ação de prevenção ao câncer bucal no centro",
+"p": "Serão disponibilizadas também vacinas contra Covid-19, gripe, febre amarela, difteria e tétano, hepatite B e sarampo",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370037/sao-bernardo-realiza-acao-de-prevencao-ao-cancer-bucal-no-centro",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:39",
+"t": "Pintor que estava em Bertioga a trabalho é encontrado morto na praia",
+"p": "Vítima de 33 anos foi localizada na manhã deste sábado (21), na faixa de areia da praia; Polícia Civil de Bertioga investiga o caso",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/pintor-que-estava-em-bertioga-a-trabalho-e-encontrado-morto-na-praia.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "15:37",
 "t": "São José dos Campos anuncia contratação de 24 novos Guardas Municipais",
 "p": "Posse dos novos agentes está prevista para o início de 2027, seguida de seis meses de curso preparatório. Efetivo passa a somar 381 integrantes",
@@ -74,6 +171,20 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/entretenimento/ivete-sangalo-alok-e-luisa-sonza-lideram-programacao-do-reveillon-2027-em-fortaleza-com-festa-descentralizada-na-capital/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:30",
+"t": "Moeda Verde já recebeu 2,7 mil toneladas de recicláveis em Santo André",
+"p": "Programa está presente em 36 pontos de troca e já distribuiu mais de 541 toneladas de hortifrúti; iniciativa une sustentabilidade, reciclagem e segurança alimentar",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370032/moeda-verde-ja-recebeu-2-7-mil-toneladas-de-reciclaveis-em-santo-andre",
 "auto": true
 },
 {
@@ -148,6 +259,20 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/socorrista-do-samu-e-mordido-por-paciente-durante-atendimento-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "14:56",
+"t": "Mauá cria Cadin e abre negociação de débitos antes de ação judicial",
+"p": "Texto de autoria do Executivo já foi aprovado; Assuntos Jurídicos diz que lei vai garantir opção mais conveniente para o contribuinte devedor",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370027/maua-cria-cadin-e-abre-negociacao-de-debitos-antes-de-acao-judicial",
 "auto": true
 },
 {
@@ -54910,133 +55035,6 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/policia/motorista-registra-manobra-perigosa-em-trecho-do-contorno-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:47",
-"t": "Condenado a 20 anos por estupro de vulnerável é preso em Itaquaquecetuba",
-"p": "Homem foi localizado pela Polícia Militar no bairro Piratininga; mandado de prisão é definitivo e tem validade até 2046",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itaquaquecetuba",
-"Piratininga"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/policia/condenado-a-20-anos-por-estupro-de-vulneravel-e-preso-em-itaquaquecetuba/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:44",
-"t": "Homem invade casa da ex, ameaça matá-la com faca e acaba preso em Caraguatatuba",
-"p": "Suspeito estava armado quando foi localizado pela Polícia Militar; ele também descumpriu medida protetiva expedida em favor da ex-companheira",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Caraguatatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/homem-invade-casa-da-ex-ameaca-mata-la-com-faca-e-acaba-preso-em-caraguatatuba.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:40",
-"t": "Distrito de Arabá realiza Cavalgada Mirim para celebrar a cultura sertaneja",
-"p": "O distrito de Arabá, pertencente ao município de Ouroeste, promove nesta sexta-feira (6) a edição da Cavalgada Mirim. Organizado pelo Governo Municipal por meio da Secretaria Municipal da Educação, o evento tem como objetivo fortalecer os costumes locais e incentivar a preservação das tradições sertanejas entre as…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Ouroeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/distrito-de-araba-realiza-cavalgada-mirim-para-celebrar-a-cultura-sertaneja/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:39",
-"t": "Roubos de veículos caem pela metade em São José dos Campos em 2026, segundo a SSP",
-"p": "Foram 33 casos de janeiro a setembro, contra 68 no mesmo período de 2025; prefeitura compara outros crimes com 2016, antes do programa São José Unida",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/roubos-de-veiculos-caem-pela-metade-em-sao-jose-dos-campos-em-2026-segundo-a-ssp.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:32",
-"t": "Falso padre condenado por estelionato é encontrado morto dentro de casa",
-"p": "Marcos Rodrigues Fontana foi condenado, em 2009, após se passar por padre e cobrar até R$ 450 por missas em São Paulo",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/falso-padre-condenado-por-estelionato-e-encontrado-morto-dentro-de-casa",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:31",
-"t": "Resultado da Mega-Sena: apostas do interior de SP são premiadas; veja os números",
-"p": "Concurso 3081 da Mega-Sena foi sorteado nesta quarta-feira (4); confira o resultado",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/resultado-da-mega-sena-apostas-do-interior-de-sp-sao-premiadas-veja-os-numeros/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:30",
-"t": "Campinas tem falta de água hoje; veja região afetada e quando volta",
-"p": "Reparo emergencial na rede de abastecimento deve afetar moradores até a tarde desta sexta-feira (6); veja quando a água volta",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-falta-de-agua-hoje-veja-regiao-afetada-e-quando-volta/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:30",
-"t": "Polícia investiga morte suspeita de mulher de 49 anos em Rio Preto",
-"p": "Mulher passou mal dentro de casa e morreu antes da chegada do socorro",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/policia-investiga-morte-suspeita-de-mulher-de-49-anos-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:24",
-"t": "Censo de pessoas com deficiência em Mauá recebe respostas até dezembro",
-"p": "Levantamento iniciado em setembro reúne informações sobre saúde, mobilidade, educação e emprego; moradores podem responder pela internet ou presencialmente",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367214/censo-de-pessoas-com-deficiencia-em-maua-recebe-respostas-ate-dezembro",
 "auto": true
 }
 ]

@@ -3,6 +3,103 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "16:50",
+"t": "Rodovia Presidente Dutra registra tráfego normal neste domingo (21)",
+"p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 16h30",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-domingo-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:37",
+"t": "Consultas e exames em Várzea Paulista somam quase 22 mil vagas ofertadas no Hospital e Maternidade",
+"p": "Foto: Prefeitura de Várzea Paulista Unidade oferece atendimento em 14 especialidades médicas e diversos exames, ampliando o acesso da população aos serviços de saúde.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/consultas-exames-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:25",
+"t": "Clínica clandestina de idosos: polícia investiga morte de homem em Campo Limpo Paulista",
+"p": "Foto: Polícia Militar/Divulgação Dois idosos foram socorridos em imóvel com condições insalubres no bairro Pau Arcado; responsável pelo espaço acabou preso.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campo Limpo Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/clinica-clandestina-idosos-campo-limpo-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:25",
+"t": "Tiroteio na madrugada deixa um morto e 14 feridos em Caraguatatuba",
+"p": "Disparos ocorreram na madrugada deste sábado (21), no bairro Olaria, após evento em comércio; prefeitura informa que GCM esteve no local",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/tiroteio-na-madrugada-deixa-um-morto-e-14-feridos-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:03",
+"t": "Lagoa do Taquaral terá mudanças no trânsito neste domingo",
+"p": "Bloqueios na Lagoa do Taquaral, em Campinas, começam às 5h para corrida com percursos de 5 km e 10 km",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas",
+"Taquaral"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/lagoa-do-taquaral-tera-mudancas-no-transito-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:45",
+"t": "São Bernardo realiza ação de prevenção ao câncer bucal no centro",
+"p": "Serão disponibilizadas também vacinas contra Covid-19, gripe, febre amarela, difteria e tétano, hepatite B e sarampo",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370037/sao-bernardo-realiza-acao-de-prevencao-ao-cancer-bucal-no-centro",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:39",
+"t": "Pintor que estava em Bertioga a trabalho é encontrado morto na praia",
+"p": "Vítima de 33 anos foi localizada na manhã deste sábado (21), na faixa de areia da praia; Polícia Civil de Bertioga investiga o caso",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/pintor-que-estava-em-bertioga-a-trabalho-e-encontrado-morto-na-praia.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "15:37",
 "t": "São José dos Campos anuncia contratação de 24 novos Guardas Municipais",
 "p": "Posse dos novos agentes está prevista para o início de 2027, seguida de seis meses de curso preparatório. Efetivo passa a somar 381 integrantes",
@@ -25,6 +122,20 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/entretenimento/ivete-sangalo-alok-e-luisa-sonza-lideram-programacao-do-reveillon-2027-em-fortaleza-com-festa-descentralizada-na-capital/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:30",
+"t": "Moeda Verde já recebeu 2,7 mil toneladas de recicláveis em Santo André",
+"p": "Programa está presente em 36 pontos de troca e já distribuiu mais de 541 toneladas de hortifrúti; iniciativa une sustentabilidade, reciclagem e segurança alimentar",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370032/moeda-verde-ja-recebeu-2-7-mil-toneladas-de-reciclaveis-em-santo-andre",
 "auto": true
 },
 {
@@ -99,6 +210,20 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/socorrista-do-samu-e-mordido-por-paciente-durante-atendimento-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "14:56",
+"t": "Mauá cria Cadin e abre negociação de débitos antes de ação judicial",
+"p": "Texto de autoria do Executivo já foi aprovado; Assuntos Jurídicos diz que lei vai garantir opção mais conveniente para o contribuinte devedor",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370027/maua-cria-cadin-e-abre-negociacao-de-debitos-antes-de-acao-judicial",
 "auto": true
 },
 {
