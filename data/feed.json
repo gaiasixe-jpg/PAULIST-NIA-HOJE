@@ -1,22 +1,19 @@
 {
-"atualizado": "2026-11-21T08:52:17-03:00",
-"novos_nesta_coleta": 34,
+"atualizado": "2026-11-21T10:03:57-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
-"Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
@@ -29,9 +26,13 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 84 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -41,8 +42,16 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Diário do Litoral",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Informa Noroeste",
+"erro": "<urlopen error timed out>"
 },
 {
 "fonte": "Boqnews",
@@ -50,6 +59,158 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "09:52",
+"t": "Bolsonaro pode passar por nova cirurgia após piora no estado de saúde, diz Carlos",
+"p": "Carlos Bolsonaro relatou que o pai apresentou episódios de vômito, distensão abdominal e dores intensas durante a madrugada",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/bolsonaro-pode-passar-por-nova-cirurgia-apos-piora-no-estado-de-saude-diz-carlos/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:49",
+"t": "Feiras gratuitas reúnem artesanato, gastronomia e chegada do Papai Noel em Santos",
+"p": "Programação deste fim de semana inclui Festival Brasilidades na Ponta da Praia, Pré-Natal no Emissário, Feira de Francisco e Clara e feiras fixas",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/feiras-gratuitas-reunem-artesanato-gastronomia-e-chegada-do-papai-noel-em-santos.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:30",
+"t": "Jovem é preso após furtar chocolates e ser flagrado com 28 munições em São Sebastião",
+"p": "Suspeito de 19 anos afirmou que pretendia utilizar os projéteis para cometer assaltos na região, segundo informações da polícia",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/jovem-e-preso-apos-furtar-chocolates-e-ser-flagrado-com-28-municoes-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:26",
+"t": "Wet’n Wild abre 82 vagas de emprego em Itupeva; veja como se candidatar",
+"p": "Foto: Divulgação/Wet’n Wild Oportunidades abrangem oito funções, incluindo atendimento, segurança, limpeza e operações. Currículos podem ser enviados por WhatsApp.",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/vagas-emprego-wet-n-wild-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:25",
+"t": "Água jorra em obra na Vila Romana, na zona oeste de São Paulo",
+"p": "",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369996/agua-jorra-em-obra-na-vila-romana-na-zona-oeste-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:22",
+"t": "Largo do Rosário, em Mogi, recebe Dia D do Novembro Azul com exame de PSA na segunda-feira",
+"p": "Ação será das 10h às 14h; além do PSA, terá testagem de ISTs, vacinação e aferição da pressão arterial",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/saude/largo-do-rosario-em-mogi-recebe-dia-d-do-novembro-azul-com-exame-de-psa-na-segunda-feira/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:14",
+"t": "Alunos do 5º ano da rede municipal participam do Saresp 2026 em São Bernardo",
+"p": "Avaliação anual do Governo do Estado para medir o nível de aprendizagem vai ser aplicada para 8.471 estudantes",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369995/alunos-do-5-ano-da-rede-municipal-participam-do-saresp-2026-em-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:06",
+"t": "Homem de 27 anos perde controle de skate e morre ao bater em ônibus",
+"p": "Acidente aconteceu na manhã de sexta-feira (20/11) na Avenida do Rio Pequeno, zona oeste. Segundo a SSP, vítima se desequilibrou",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-de-27-anos-perde-controle-de-skate-e-morre-ao-bater-em-onibus",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:02",
+"t": "Tarot do dia: previsão para os 12 signos em 21/11/2026",
+"p": "O tarot revela que o sábado será marcado por novas possibilidades, encontros afetivos e reflexões sobre aquilo que realmente merece atenção. Enquanto alguns signos poderão experimentar momentos de romantismo, celebrar conquistas e receber notícias inesperadas, outros precisarão lidar com inseguranças, desgastes…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/tarot-do-dia-previsao-para-os-12-signos-em-21-11-2026/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:57",
+"t": "Homem é ferido com chave de fenda após discussão por dívida em Gália",
+"p": "Suspeito foi preso pela Polícia Militar Jovem foi levado ao hospital com ferimentos e homem de 43 anos também relatou ter sido agredido durante o desentendimento.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Gália"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-e-ferido-com-chave-de-fenda-apos-discussao-por-divida-em-galia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:53",
+"t": "Homem é preso com cocaína durante operação em Garça",
+"p": "Polícia Militar apreendeu droga, balança de precisão e R$ 512 em dinheiro durante abordagem no bairro José Ribeiro.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Garça"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-e-preso-com-cocaina-durante-operacao-em-garca/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "08:39",
@@ -231,6 +392,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-sabado-21-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "07:12",
+"t": "Feira Orgulho Nerd, em SP, tem cinema, oficinas e games",
+"p": "Começa neste fim de semana a segunda edição da feira Orgulho Nerd SP, na Mercado Livre Arena Pacaembu. A programação gratuita reúne sessões de cinema, shows musicais, oficinas, campeonatos de games e concursos de cosplay. A abertura oficial acontece no sábado (21), às 15h, com painéis e bate-papos com artistas e…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Pacaembu"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/feira-orgulho-nerd-em-sp-tem-cinema-oficinas-e-games",
 "auto": true
 },
 {
@@ -54963,162 +55138,6 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/policia/justica-condena-homem-por-roubo-em-sorveteria-de-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "05:00",
-"t": "Praia Grande tem musical e concerto com tributo a Queen e Coldplay à luz de velas",
-"p": "Reprodução/Prefeitura de Praia Grande A noite desta sexta-feira (6) movimenta a cena cultural de Praia Grande com duas atrações de peso para públicos variados.",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/1077-fm/musical-heathers-e-concerto-starlight-apresentam-em-praia-grande/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "05:00",
-"t": "Guarujá publica lei para prevenir e punir casos de assédio no serviço público",
-"p": "Divulgação/PMG Guarujá passa a contar com uma legislação específica para prevenir e combater o assédio moral e sexual na administração pública.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/guaruja-publica-lei-para-prevenir-e-punir-casos-de-assedio-no-servico-publico/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "04:30",
-"t": "Resumo de ‘Por Você’ desta sexta (6): Vanessa descobre que Junqueira encomendou atentado contra Gabriel e decide contratar Zé",
-"p": "O capítulo de Por Você desta sexta-feira (6/11) será marcado por novas descobertas sobre o acidente de Gabriel. Vanessa descobrirá que Junqueira foi quem encomendou o atentado contra o médico e, diante da ameaça, decidirá agir contra o empresário. Enquanto isso, a polícia começa a investigar as circunstâncias do…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-sexta-6-vanessa-descobre-que-junqueira-encomendou-atentado-contra-gabriel-e-decide-contratar-ze/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "04:28",
-"t": "‘Por Você’: Vanessa manda Zé roubar celular de Junqueira e Juarez descobre crime no capítulo de sábado (07)",
-"p": "Neste sábado (7), em Por Você, a guerra interna na diretoria do hospital fica ainda mais perigosa. Determinada a se blindar e derrubar o rival de uma vez por todas, Vanessa ordena que Zé roube o aparelho de Junqueira e apague todos os registros, com o objetivo de eliminar qualquer rastro que a incrimine e […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-vanessa-manda-ze-roubar-celular-de-junqueira-e-juarez-descobre-crime-no-capitulo-de-sabado-07/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "02:45",
-"t": "Iza, João Gomes, Matuê, festival de cinema e evento geek: o que fazer em SP",
-"p": "Programação do final de semana conta com shows de Iza, João Gomes, Matuê, Daniel e mais. Agenda também tem humor, teatro e cinema",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/iza-joao-gomes-matue-geek-sp",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "02:28",
-"t": "Polícia de SP e Cruz Vermelha firmam acordo para identificar 300 ossadas no IML",
-"p": "A Polícia Técnico-Científica do Estado de São Paulo e o Comitê Internacional da Cruz Vermelha (CICV) assinaram, nesta quinta-feira (5), um termo de cooperação técnica para atuar na identificação de 300 ossadas sob custódia do Instituto Médico Legal (IML) paulista. A iniciativa visa ampliar a capacidade de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-de-sp-e-cruz-vermelha-firmam-acordo-para-identificar-300-ossadas-no-iml/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "02:26",
-"t": "Lua Minguante traz momento ideal para encerrar cobranças em silêncio e fortalecer relações com o Hierofante",
-"p": "A fase da Lua Minguante atua no firmamento de 1 de novembro de 2026, às 17h30min, até ao dia 9 de novembro de 2026, às 04h02min, momento em que o zodíaco abraça a Lua Nova. A atmosfera deste período reflete-se de modo contundente nos laços afetivos e nas dinâmicas de parceria. Esta fase convida os […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/lua-minguante-traz-momento-ideal-para-encerrar-cobrancas-em-silencio-e-fortalecer-relacoes-com-o-hierofante/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "02:03",
-"t": "Vereador quer promoção para GCMs que exerceram cargos de comando",
-"p": "Um projeto de lei apresentado pelo vereador Klebinho Kizumba (PL) pode abrir caminho para que guardas municipais de Rio Preto que já exerceram funções de comando na corporação avancem na carreira e cheguem ao cargo de inspetor. A proposta estabelece que servidores que tenham trabalhado como comandante ou…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/vereador-quer-promocao-para-gcms-que-exerceram-cargos-de-comando/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "02:00",
-"t": "Cotista alvo de racismo na infância perde vaga na USP após decisão judicial",
-"p": "Rebecca Vieira foi desligada da Faculdade de Direito da Universidade de São Paulo (USP) depois de mais de dois anos de batalha na Justiça",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/cotista-alvo-de-racismo-na-infancia-perde-vaga-na-usp-apos-decisao-judicial",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "01:35",
-"t": "Polícia de SP apreende 576 quilos de drogas e captura procurado durante operação nas rodovias paulistas",
-"p": "A Polícia Militar do Estado de São Paulo realiza, entre quarta-feira (4) e quinta-feira (5), a Operação Impacto – Canil Integrado para combater o tráfico de drogas e outros crimes nas principais rodovias do estado. Até a noite desta quinta, a ação já resultou na apreensão de 576 quilos de drogas, com 1.099 pessoas…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-de-sp-apreende-576-quilos-de-drogas-e-captura-procurado-durante-operacao-nas-rodovias-paulistas/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:03",
-"t": "Vereador quer promoção para GCMs que exerceram cargos de comando",
-"p": "Servidores que tenham sido comandantes ou subcomandantes por pelo menos dois anos poderão chegar à função de inspetor, desde que cumpram outros requisitos",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/vereador-quer-promocao-para-gcms-que-exerceram-cargos-de-comando/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Levantamento aponta “risco de surto” para transmissão da dengue",
-"p": "",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67712",
 "auto": true
 }
 ]
