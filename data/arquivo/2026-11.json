@@ -3,6 +3,62 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "05:00",
+"t": "HBU promove conscientização sobre prematuridade e assistência neonatal",
+"p": "Programação reuniu médicos e profissionais de Enfermagem para discutir os cuidados com bebês e familiares.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/hbu-promove-conscientizacao-sobre-prematuridade-e-assistencia-neonatal/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "05:00",
+"t": "Prefeitura abre licitação de R$ 365,3 mil para pavimentar acesso a Dirceu",
+"p": "Concorrência prevê fornecimento de materiais e mão de obra para pavimentação da Estrada MAR-010.",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-abre-licitacao-de-r-3653-mil-para-pavimentar-acesso-a-dirceu/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "05:00",
+"t": "Quintana inaugura ampliação de unidade de saúde e entrega uniformes a servidores",
+"p": "Quintana entrega ampliação de sala para agentes de saúde e novos uniformes à rede Melhorias foram apresentadas durante cerimônia com autoridades municipais e profissionais da saúde.",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Quintana"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/quintana-inaugura-ampliacao-de-unidade-de-saude-e-entrega-uniformes-a-servidores/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "05:00",
+"t": "Alunos de escolas municipais participam de campeonato de robótica em Marília",
+"p": "Competição contou com duas etapas e teve participação de estudantes da rede municipal.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/alunos-de-escolas-municipais-participam-de-campeonato-de-robotica-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "02:00",
 "t": "Com encerramento de parceria, pontos de ônibus em São Paulo ficam sem Wi-Fi",
 "p": "Serviço nos pontos de ônibus foi encerrado em outubro a pedido da empresa responsável pelo fornecimento de internet",

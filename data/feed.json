@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-21T04:18:24-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-21T05:56:14-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,62 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "05:00",
+"t": "HBU promove conscientização sobre prematuridade e assistência neonatal",
+"p": "Programação reuniu médicos e profissionais de Enfermagem para discutir os cuidados com bebês e familiares.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/hbu-promove-conscientizacao-sobre-prematuridade-e-assistencia-neonatal/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "05:00",
+"t": "Prefeitura abre licitação de R$ 365,3 mil para pavimentar acesso a Dirceu",
+"p": "Concorrência prevê fornecimento de materiais e mão de obra para pavimentação da Estrada MAR-010.",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-abre-licitacao-de-r-3653-mil-para-pavimentar-acesso-a-dirceu/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "05:00",
+"t": "Quintana inaugura ampliação de unidade de saúde e entrega uniformes a servidores",
+"p": "Quintana entrega ampliação de sala para agentes de saúde e novos uniformes à rede Melhorias foram apresentadas durante cerimônia com autoridades municipais e profissionais da saúde.",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Quintana"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/quintana-inaugura-ampliacao-de-unidade-de-saude-e-entrega-uniformes-a-servidores/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "05:00",
+"t": "Alunos de escolas municipais participam de campeonato de robótica em Marília",
+"p": "Competição contou com duas etapas e teve participação de estudantes da rede municipal.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/alunos-de-escolas-municipais-participam-de-campeonato-de-robotica-em-marilia/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "02:00",
@@ -54986,63 +55048,6 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/santos-baixada/policia-investiga-suspeito-de-aplicar-golpe-do-aparelho-auditivo-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:25",
-"t": "Motorista é condenado a 20 anos de prisão por matar jovem após briga de trânsito",
-"p": "Raul de Oliveira, 42 anos, atirou na cabeça de Patrik Brito, 22, em São Bernardo, em abril de 2025; defesa vai recorrer",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367160/motorista-e-condenado-a-20-anos-de-prisao-por-matar-jovem-apos-briga-de-transito-",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:23",
-"t": "Operação Impacto apreende mais de meia tonelada de drogas e captura foragido",
-"p": "Uma ação ostensiva da Polícia Militar de São Paulo resultou na apreensão de 576 quilos de drogas e na captura de um procurado da Justiça entre a quarta (4) e esta quinta-feira (5). Denominada Operação Impacto – Canil Integrado, a ofensiva mobilizou equipes da Polícia Rodoviária e do Policiamento de Choque com o…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/operacao-impacto-apreende-mais-de-meia-tonelada-de-drogas-e-captura-foragido/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:21",
-"t": "Rajadas de vento de até 80 km/h derrubam árvores e atingem cidades do interior de SP",
-"p": "O avanço de uma frente fria trouxe fortes rajadas de vento e instabilidades para diversas regiões do estado de São Paulo ao longo desta quinta-feira (5). De acordo com o Centro de Gerenciamento de Emergências (CGE) da Defesa Civil estadual, as maiores velocidades foram apuradas em Paulínia (80,5 km/h), Osasco (78,1…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Paulínia",
-"Osasco"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/rajadas-de-vento-de-ate-80-km-h-derrubam-arvores-e-atingem-cidades-do-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:18",
-"t": "Auxiliar de cozinha é preso após esfaquear chapeiro por divergência política",
-"p": "A Justiça manteve a prisão preventiva de Fabio Luis Rosa Pedão, de 48 anos, em audiência de custódia realizada nesta quinta-feira (5). O auxiliar de cozinha é investigado pela tentativa de homicídio contra um chapeiro de 33 anos dentro da padaria onde trabalhavam, no município de Araçatuba. O crime ocorreu no dia…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araçatuba"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/auxiliar-de-cozinha-e-preso-apos-esfaquear-chapeiro-por-divergencia-politica/",
 "auto": true
 }
 ]
