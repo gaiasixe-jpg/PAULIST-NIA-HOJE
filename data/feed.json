@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-20T20:55:04-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-20T22:19:34-03:00",
+"novos_nesta_coleta": 17,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 76 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -52,6 +52,100 @@
 "itens": [
 {
 "d": "2026-11-20",
+"h": "22:12",
+"t": "Temporal no Vale do Paraíba alaga Santa Casa de Aparecida",
+"p": "Vídeo mostra corredor da Santa Casa de Aparecida alagado em meio a pacientes e funcionários. Hospital disse que atendimentos foram mantidos",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Aparecida"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/temporal-no-vale-do-paraiba-alaga-santa-casa-de-aparecida",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "21:22",
+"t": "Defesa Civil emite 33 alertas e monitora estragos causados por temporais no Estado",
+"p": "A Defesa Civil do Estado de São Paulo mantém o acompanhamento permanente das condições climáticas em todo o território paulista nesta sexta-feira (20) após disparar 33 alertas preventivos para o risco de chuvas intensas. Até o momento, os principais transtornos concentram-se na região do Vale do Ribeira, onde…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-emite-33-alertas-e-monitora-estragos-causados-por-temporais-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "21:11",
+"t": "Mãe e filha morrem em grave colisão frontal na BR-153 em José Bonifácio",
+"p": "Uma mulher de 28 anos e sua filha, uma menina de 12 anos, morreram na tarde desta sexta-feira (20) após uma colisão frontal envolvendo uma caminhonete e um veículo utilitário na Rodovia Transbrasiliana (BR-153), no trecho que passa pelo município de José Bonifácio (SP). A batida violenta deixou ainda outros dois…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"José Bonifácio"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mae-e-filha-morrem-em-grave-colisao-frontal-na-br-153-em-jose-bonifacio/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "21:09",
+"t": "Exame aponta obstrução quase total no intestino do ex-presidente Jair Bolsonaro e equipe avalia nova cirurgia",
+"p": "O médico Brasil Caiado afirmou nesta sexta-feira (20/11) que uma tomografia identificou uma obstrução “quase total” do intestino delgado do ex-presidente Jair Bolsonaro (PL). Internado no hospital DF Star, em Brasília, após apresentar dores abdominais, o ex-mandatário passará a noite em observação, sem previsão de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/exame-aponta-obstrucao-quase-total-no-intestino-do-ex-presidente-jair-bolsonaro-e-equipe-avalia-nova-cirurgia/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "21:01",
+"t": "Guto Volpi marca presença em fórum internacional de cannabis medicinal",
+"p": "Presidente do Consórcio Intermunicipal e também prefeito de Ribeirão Pires palestra no evento que acontece até domingo na Capital",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369963/guto-volpi-marca-presenca-em-forum-internacional-de-cannabis-medicinal",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "21:00",
+"t": "Projeto das férias de 30 dias úteis proposto por deputadas do PSOL muda conta do descanso e altera valor da venda de dias",
+"p": "Quem trabalha com carteira assinada no Brasil pode passar a contar apenas dias úteis no descanso anual e ter uma nova regra de cálculo para vender parte das férias. Protocolado na segunda-feira (16/11) na Câmara dos Deputados pelas deputadas Sâmia Bomfim (PSOL-SP) e Duda Salabert (PSOL-MG), o PL 5.858/2026 propõe…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/projeto-das-ferias-de-30-dias-uteis-proposto-por-deputadas-do-psol-muda-conta-do-descanso-e-altera-valor-da-venda-de-dias/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "20:54",
+"t": "Senac Jundiaí promove atividades gratuitas sobre inclusão e diversidade a partir de segunda-feira (23)",
+"p": "Foto: Reprodução / Senac Jundiaí Programação faz parte da Jornada Senac de Inclusão e Diversidade 2026 e inclui rodas de conversa sobre maternidade atípica, saúde mental, direitos das famílias e redes de apoio.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/senac-jundiai-atividades-gratuitas-inclusao-diversidade/",
+"auto": true
+},
+{
+"d": "2026-11-20",
 "h": "20:45",
 "t": "Após incidente cibernético, Porto de Santos eleva nível de segurança; novos credenciamentos estão suspensos",
 "p": "Medidas de contingência implantadas pela Autoridade Portuária acompanham elevação do nível de proteção determinada pela Cesportos/SP",
@@ -63,6 +157,22 @@
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/porto/apos-incidente-cibernetico-porto-de-santos-eleva-nivel-de-seguranca-novos-credenciamentos-estao-suspensos.html",
 "auto": true
+},
+{
+"d": "2026-11-20",
+"h": "20:33",
+"t": "Decreto que simplifica a exportação de cosméticos favorece empresas",
+"p": "Diadema possui polo que reúne 68 indústrias ligadas ao segmento da beleza; Mauá organiza, desde 2021, grupo produtor com 13 firmas",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Diadema",
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4369957/decreto-que-simplifica-a-exportacao-de-cosmeticos-favorece-empresas-",
+"auto": true,
+"org": "Prefeitura"
 },
 {
 "d": "2026-11-20",
@@ -54935,114 +55045,6 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/defesa-civil-registra-rajadas-de-vento-de-ate-80-km-h-e-quedas-de-arvores-em-municipios-paulistas/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:29",
-"t": "Após mais de um século, Vila Carvalho começa a receber pavimentação asfáltica",
-"p": "Obras de R$ 1,7 milhão já estão em andamento e atendem uma reivindicação histórica dos moradores do povoado mais antigo de Votuporanga. Uma espera de mais de 100 anos começa a chegar ao fim para os moradores da Vila Carvalho, considerada o povoado mais antigo de Votuporanga. A Prefeitura iniciou as obras de…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/apos-mais-de-um-seculo-vila-carvalho-comeca-a-receber-pavimentacao-asfaltica/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:28",
-"t": "Base aliada de Nunes protocola texto para nomear GCM como Polícia Municipal",
-"p": "Nesta semana, o prefeito de SP anunciou que faria troca da nomenclatura da Guarda Civil Metropolitana, após a aprovação da PEC da Segurança",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/base-aliada-de-nunes-protocola-texto-que-renomeia-gcm-como-policia-municipal",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:27",
-"t": "Entre gols, memórias e paixão: livro eterniza a história do Votuporanguense",
-"p": "“Pantera Alvinegra – O Guia Completo do Clube Atlético Votuporanguense” traz 440 fichas de partidas, depoimentos de ídolos, treinadores e imagens históricas. A obra dos Memorialistas se transforma no mais completo registro já produzido sobre a Pantera Alvinegra. Jorge Honorio jorgehonoriojornalista@gmail.com No dia…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/entre-gols-memorias-e-paixao-livro-eterniza-a-historia-do-votuporanguense/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:24",
-"t": "Tarcísio deve nomear ex-ministro Ricardo Salles como secretário da Justiça",
-"p": "Ex-ministro de Jair Bolsonaro, Ricardo Salles desistiu de concorrer a vaga no Senado após articulação do governador por André do Prado (PL) e Guilherme Derrite (PP). O governador reeleito de São Paulo, Tarcísio de Freitas (Republicanos), deve nomear o ex-ministro Ricardo Salles (Novo) como secretário da Justiça e…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/tarcisio-deve-nomear-ex-ministro-ricardo-salles-como-secretario-da-justica/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:22",
-"t": "Árvore cai e esmaga carro com motorista e passageira durante temporal em Bady Bassit",
-"p": "Caso foi registrado na manhã desta quinta-feira (5); vítimas tiveram apenas ferimentos leves. Em Piacatu/SP também registrou quedas de árvores por conta da chuva. Uma árvore esmagou um carro ao cair em cima dele na avenida principal, durante um forte temporal em Bady Bassit/SP, na manhã desta quinta-feira (5.nov).…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Piacatu"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/arvore-cai-e-esmaga-carro-com-motorista-e-passageira-durante-temporal-em-bady-bassit/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:11",
-"t": "Guardiões da memória",
-"p": "Projeto piloto aproxima estudantes da história de Votuporanga por meio da leitura e de atividades interativas; iniciativa começa em duas escolas municipais e deverá chegar a toda a rede de Ensino Fundamental em 2027. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/guardioes-da-memoria/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:10",
-"t": "Único trilionário do mundo, Elon Musk perde mais de 200 de bilhões de dólares após derrota eleitoral de aliados de Trump nas urnas",
-"p": "O empresário Elon Musk,primeiro e único trilionário no mundo, registrou uma perda bilionária em sua fortuna pessoal logo no primeiro dia de negociações após os resultados das eleições legislativas nos Estados Unidos (midterms). O movimento refletiu a reação imediata do mercado financeiro à vitória expressiva do…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/unico-trilionario-do-mundo-elon-musk-perde-mais-de-200-de-bilhoes-de-dolares-apos-derrota-eleitoral-de-aliados-de-trump-nas-urnas/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:08",
-"t": "Câmara aprova mudanças nas regras do prêmio “Professor Nota 1000”",
-"p": "Resolução atualiza critérios da homenagem, amplia participação das universidades e flexibiliza a data de entrega dos títulos. A Câmara de Votuporanga aprovou, durante a 39ª sessão ordinária realizada nesta terça-feira (3.nov), alterações na resolução que regulamenta o prêmio “Professor Nota 1000”, homenagem…",
-"tema": "Educação",
-"s": "entregue",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/camara-aprova-mudancas-nas-regras-do-premio-professor-nota-1000/",
 "auto": true
 }
 ]
