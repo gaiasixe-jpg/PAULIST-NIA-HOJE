@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T13:54:19-03:00",
-"novos_nesta_coleta": 18,
+"atualizado": "2026-11-21T14:50:36-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 84 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,78 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "14:29",
+"t": "Produção de mexilhões da Fazenda Marinha da Cocanha passa por inspeção e está liberada para o verão em Caraguatatuba",
+"p": "Laudo quinzenal da Defesa Agropecuária do Estado de São Paulo não detectou bactérias nem toxinas nas amostras coletadas no local",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/producao-de-mexilhoes-da-fazenda-marinha-da-cocanha-passa-por-inspecao-e-esta-liberada-para-o-verao-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "14:28",
+"t": "Cabeleireiro e influenciador é preso por injúria racial e ameaça após confusão em shopping de Jundiaí",
+"p": "Foto: Tribuna de Jundiaí Discussão dentro de uma loja em um shopping terminou em agressões e mobilizou a Polícia Militar na noite de sexta-feira (20).",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/cabeleireiro-preso-injuria-racial-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "14:22",
+"t": "Bolsonaro é internado na UTI após fortes dores abdominais e recebe diagnóstico de obstrução intestinal",
+"p": "O ex-presidente Jair Bolsonaro permanece internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, após apresentar dores abdominais na tarde desta sexta-feira (20). A equipe médica identificou um quadro de abdômen agudo obstrutivo, conforme informou a unidade hospitalar. Em boletim divulgado…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/bolsonaro-e-internado-na-uti-apos-fortes-dores-abdominais-e-recebe-diagnostico-de-obstrucao-intestinal/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "14:20",
+"t": "Rodovia Mogi-Bertioga registra tráfego normal neste sábado (21)",
+"p": "Tráfego segue normal nos trechos monitorados entre Mogi das Cruzes e Bertioga; litoral tem céu encoberto e serra, céu parcialmente nublado",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/rodovia-mogi-bertioga-registra-trafego-normal-neste-sabado-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "13:51",
+"t": "Conmebol deve mandar Copa América aos EUA novamente",
+"p": "Reprodução / Instagram @alejandrodominguezws As negociações envolvem o governo dos Estados Unidos e a Concacaf, seguindo o modelo adotado nas edições de 2016 e 2024",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/conmebol-deve-mandar-copa-america-aos-eua-novamente/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "13:44",
@@ -54977,78 +55043,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/justica-de-santa-fe-do-sul-condena-homem-por-trafico-de-drogas/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:44",
-"t": "Vai sair no fim de semana? Jundiaí terá chuva forte e queda na temperatura",
-"p": "Foto: Prefeitura de Jundiaí INMET emite alerta amarelo para tempestade no sábado (7), com possibilidade de vento forte; domingo (8) terá queda na temperatura e chuva.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-alerta-temporal-frio/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:43",
-"t": "Colisão entre dois caminhões mobiliza equipes de resgate na Rodovia Euclides da Cunha em Votuporanga",
-"p": "Um acidente envolvendo dois caminhões movimentou o tráfego na Rodovia Euclides da Cunha (SP-320), no trecho de Votuporanga, por volta das 22h10 desta quinta-feira (5). A colisão traseira entre os veículos ocorreu na pista no sentido a Fernandópolis, nas imediações do Clube Social do Rotary Club e da Krik Eventos.…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Fernandópolis",
-"Votuporanga",
-"Cunha"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/colisao-entre-dois-caminhoes-mobiliza-equipes-de-resgate-na-rodovia-euclides-da-cunha-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:41",
-"t": "Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox",
-"p": "A mpox é uma doença viral zoonótica anteriormente conhecida como varíola dos macacos. Os sintomas costumam durar de duas a quatro semanas e incluem erupções cutâneas, febre, dor de cabeça, dores musculares, calafrios e fraqueza.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/vida/ministerio-da-saude-vai-comprar-ate-20-mil-doses-da-vacina-contra-mpox/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:40",
-"t": "Votuporanga avança na implantação de concessionária da BYD com previsão de entrega para 2027",
-"p": "As obras da futura concessionária da BYD em Votuporanga receberam, nesta quinta-feira (5), a visita de investidores e executivos para o acompanhamento do cronograma de construção. O empreendimento da fabricante de veículos elétricos e híbridos está sendo instalado na Avenida Ângelo Bimbato, com previsão de abertura…",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Votuporanga"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/votuporanga-avanca-na-implantacao-de-concessionaria-da-byd-com-previsao-de-entrega-para-2027/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:36",
-"t": "Governo define minerais críticos prioritários para investimentos",
-"p": "O objetivo é criar uma nova indústria no país para processar esses minerais e transformá-los em produtos prontos, como baterias de carros elétricos, e tirar o Brasil do papel de mero exportador de matéria-prima.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/governo-define-minerais-criticos-para-investimentos/",
 "auto": true
 }
 ]

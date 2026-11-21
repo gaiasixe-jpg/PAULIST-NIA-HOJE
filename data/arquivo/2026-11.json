@@ -3,6 +3,75 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "14:29",
+"t": "Produção de mexilhões da Fazenda Marinha da Cocanha passa por inspeção e está liberada para o verão em Caraguatatuba",
+"p": "Laudo quinzenal da Defesa Agropecuária do Estado de São Paulo não detectou bactérias nem toxinas nas amostras coletadas no local",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/producao-de-mexilhoes-da-fazenda-marinha-da-cocanha-passa-por-inspecao-e-esta-liberada-para-o-verao-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "14:28",
+"t": "Cabeleireiro e influenciador é preso por injúria racial e ameaça após confusão em shopping de Jundiaí",
+"p": "Foto: Tribuna de Jundiaí Discussão dentro de uma loja em um shopping terminou em agressões e mobilizou a Polícia Militar na noite de sexta-feira (20).",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/cabeleireiro-preso-injuria-racial-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "14:22",
+"t": "Bolsonaro é internado na UTI após fortes dores abdominais e recebe diagnóstico de obstrução intestinal",
+"p": "O ex-presidente Jair Bolsonaro permanece internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, após apresentar dores abdominais na tarde desta sexta-feira (20). A equipe médica identificou um quadro de abdômen agudo obstrutivo, conforme informou a unidade hospitalar. Em boletim divulgado…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/bolsonaro-e-internado-na-uti-apos-fortes-dores-abdominais-e-recebe-diagnostico-de-obstrucao-intestinal/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "14:20",
+"t": "Rodovia Mogi-Bertioga registra tráfego normal neste sábado (21)",
+"p": "Tráfego segue normal nos trechos monitorados entre Mogi das Cruzes e Bertioga; litoral tem céu encoberto e serra, céu parcialmente nublado",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/rodovia-mogi-bertioga-registra-trafego-normal-neste-sabado-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "13:51",
+"t": "Conmebol deve mandar Copa América aos EUA novamente",
+"p": "Reprodução / Instagram @alejandrodominguezws As negociações envolvem o governo dos Estados Unidos e a Concacaf, seguindo o modelo adotado nas edições de 2016 e 2024",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/conmebol-deve-mandar-copa-america-aos-eua-novamente/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "13:44",
 "t": "Água doce à beira-mar: conheça a Lagoa Azul na praia do Capricórnio, em Caraguatatuba",
 "p": "Formada na foz do Rio Jetuba, a lagoa é separada do oceano por bancos de areia branca e oferece um cenário diferente no litoral norte",
