@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T11:57:25-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-21T12:53:23-03:00",
+"novos_nesta_coleta": 28,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,244 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "12:43",
+"t": "Defesa Civil mobiliza equipes em Aparecida após temporal deixar feridos e família desalojada",
+"p": "A Defesa Civil do Estado de São Paulo enviou equipes de apoio ao município de Aparecida após o forte temporal registrado nesta sexta-feira (20) provocar alagamentos, quedas de árvores e danos estruturais em diferentes pontos da cidade. No bairro Santa Rita, uma residência teve sua estrutura comprometida pela chuva…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-mobiliza-equipes-em-aparecida-apos-temporal-deixar-feridos-e-familia-desalojada/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:43",
+"t": "Homem é socorrido com ferimento no pescoço após briga doméstica",
+"p": "Um homem foi encontrado ferido com um golpe no pescoço dentro de uma residência no bairro Jardim das Oliveiras, em São José do Rio Preto, nesta sexta-feira (20). O caso, registrado inicialmente como ocorrência de violência doméstica, mobilizou equipes de resgate e agora está sob investigação da Polícia Civil.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-socorrido-com-ferimento-no-pescoco-apos-briga-domestica/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:41",
+"t": "Pedestre morre atropelado ao atravessar na faixa na SP-055, em Itanhaém, na noite desta sexta (20)",
+"p": "Atropelamento ocorreu na altura do km 318,6, sob chuva; vítima foi projetada por quase 30 metros e quatro ocupantes do carro envolvido saíram ilesos",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/pedestre-morre-atropelado-ao-atravessar-na-faixa-na-sp-055-em-itanhaem-na-noite-desta-sexta-20.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:33",
+"t": "Temporal arranca cobertura de escola, derruba árvores e deixa cidade sem água e luz no noroeste de SP",
+"p": "Temporal arranca cobertura de Etec, derruba portal e árvores em Santa Fé do Sul (SP) Um temporal provocou estragos em Santa Fé do Sul e em outras cidades da região noroeste paulista durante a madrugada deste sábado (21). Em Santa Fé do Sul, o portal de entrada da cidade caiu, árvores foram derrubadas e a […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santa Fé do Sul"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/temporal-arranca-cobertura-de-escola-derruba-arvores-e-deixa-cidade-sem-agua-e-luz-no-noroeste-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Matrículas de novos alunos em Caraguatatuba seguem até 30 de novembro",
+"p": "Etapa contempla Educação Infantil, Ensino Fundamental e EJA; falta de documento não impede o registro inicial.",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Caraguatatuba"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/caraguatatuba-matriculas-novos-alunos-30-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Taubaté lança portal que reúne atrativos e serviços de turismo",
+"p": "Plataforma foi apresentada em fórum municipal; empresários com Cadastur podem solicitar inclusão de estabelecimentos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Taubaté"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/taubate-novo-portal-turismo-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Champion Fest abre ao meio-dia hoje na orla de Ubatuba",
+"p": "Festival reúne gastronomia e música na Praça de Eventos João Terra; programação retorna também no próximo fim de semana.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/champion-fest-ubatuba-21-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Festival de Hip Hop terá entrada gratuita amanhã no Teatro Galpão",
+"p": "Programação começa às 14h e reúne DJs, dança urbana e apresentações de rap em Pindamonhangaba.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Pindamonhangaba"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/festival-hip-hop-pindamonhangaba-22-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Fat Family e Tasha & Tracie fazem shows gratuitos hoje em São Sebastião",
+"p": "Apresentações serão simultâneas, às 22h, no Centro Histórico e em Boiçucanga; programação cultural começa à tarde.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/fat-family-tasha-tracie-sao-sebastiao-21-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Ponte da Estrada do Ronda terá interdição de 24 a 27 de novembro",
+"p": "Obras estão previstas para Eugênio de Melo; desvio pela Fazenda Yu Takanashi será exclusivo para veículos de passeio.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/ponte-estrada-ronda-interdicao-24-27-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:24",
+"t": "Itupeva terá mais de 1,2 mil câmeras nas escolas municipais até 2027",
+"p": "Foto: Prefeitura de Itupeva Sistema terá monitoramento 24 horas por dia, inclusive nas salas de aula, e porteiro eletrônico com reconhecimento facial.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/cameras-escolas-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:04",
+"t": "Guarda Municipal de Jundiaí reforça segurança no Fazenda Grande contra tráfico e poluição sonora",
+"p": "Foto: Prefeitura de Jundiaí Guarda Municipal de Jundiaí realiza operação no Fazenda Grande contra tráfico de drogas e poluição sonora, com apoio do Canil.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/guarda-municipal-jundiai-fazenda-grande/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:03",
+"t": "Após dias de forte calor, chuva volta a cair em Rio Preto neste sábado",
+"p": "Depois de dias marcados pelo calor intenso, a chuva voltou a cair em Rio Preto na manhã deste sábado (21). A mudança no tempo trouxe céu mais carregado e alívio momentâneo das altas temperaturas que predominaram ao longo da semana. Apesar da chuva, o calor deve continuar. A previsão indica máxima de 34°C neste…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/apos-dias-de-forte-calor-chuva-volta-a-cair-em-rio-preto-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:03",
+"t": "Homem é encontrado ferido com perfuração no pescoço em Rio Preto",
+"p": "Um homem foi encontrado ferido com uma perfuração no pescoço dentro de uma residência, no bairro Jardim das Oliveiras, em Rio Preto. O caso foi registrado nesta sexta-feira (20) e está sendo investigado. A vítima foi socorrida e encaminhada ao Hospital de Base (HB). Segundo o boletim de ocorrência, a Polícia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-encontrado-ferido-com-perfuracao-no-pescoco-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:00",
+"t": "Provas esportivas alteram o trânsito na orla de Santos neste domingo",
+"p": "Carlos Nogueira Duas provas esportivas vão alterar o trânsito e o transporte coletivo na região da orla de Santos neste domingo (22).",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/provas-esportivas-alteram-o-transito-na-orla-de-santos-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:00",
+"t": "PM faz cerco e resgata casal vítima de sequestro em Guarujá",
+"p": "Reprodução Um casal sequestrado durante um roubo de veículo foi resgatado após uma operação da Polícia Militar em Guarujá.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/pm-faz-cerco-e-resgata-casal-vitima-de-sequestro-em-guaruja/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:50",
+"t": "Temporais provocam alagamentos e danos em imóveis no estado de SP",
+"p": "Fortes chuvas atingiram o município de Aparecida (SP), nesta sexta-feira (20), provocando alagamentos em diversas vias e residências, quedas de árvores e danos em estruturas. Uma família ficou desalojada após a interdição preventiva de um imóvel, e cinco hóspedes foram atingidos pelo desabamento parcial do teto de…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporais-provocam-alagamentos-e-danos-em-imoveis-no-estado-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "11:48",
 "t": "Chuva causa desabamentos, queda de árvores e alagamentos em cidades de SP",
 "p": "Municípios estão sob alerta da Defesa Civil até este domingo (22/11). Ao menos 11 avisos SMS foram emitidos neste sábado (21/11)",
@@ -60,6 +298,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/chuva-causa-desabamentos-queda-de-arvores-e-alagamentos-em-cidades-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:45",
+"t": "Ponte de quase 30 km sobre o mar terá trens a 350 km/h, já ultrapassou 90% das obras e deve bater recorde mundial de extensão na China em 2027",
+"p": "Uma gigantesca obra de engenharia está prestes a mudar o transporte ferroviário no leste da China. A Ponte Ferroviária Transoceânica da Baía de Hangzhou terá 29,2 quilômetros de extensão e permitirá a passagem de trens de alta velocidade. Quando estiver concluída, a estrutura será considerada a maior ponte…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/ponte-de-quase-30-km-sobre-o-mar-tera-trens-a-350-km-h-ja-ultrapassou-90-das-obras-e-deve-bater-recorde-mundial-de-extensao-na-china-em-2027/",
 "auto": true
 },
 {
@@ -171,6 +421,18 @@
 },
 {
 "d": "2026-11-21",
+"h": "11:10",
+"t": "Feira Orgulho Nerd, em SP, tem cinema, oficinas e games neste fim de semana",
+"p": "A programação gratuita reúne sessões de cinema, shows musicais, oficinas, campeonatos de games e concursos de cosplay",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370004/feira-orgulho-nerd-em-sp-tem-cinema-oficinas-e-games-neste-fim-de-semana",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "11:09",
 "t": "Dengue já soma 45 mortes em SP; estado prepara semana de combate ao mosquito",
 "p": "Mobilização ocorre de 23 a 28 de novembro, com webinário, ações de prevenção e Dia D para eliminar criadouros do Aedes aegypti",
@@ -179,6 +441,20 @@
 "c": [],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/dengue-ja-soma-45-mortes-em-sp-estado-prepara-semana-de-combate-ao-mosquito.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:09",
+"t": "Médica de 49 anos é encontrada morta dentro de hospital em São Paulo",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370006/medica-de-49-anos-e-encontrada-morta-dentro-de-hospital-em-sao-paulo",
 "auto": true
 },
 {
@@ -54770,288 +55046,6 @@
 ],
 "src": "Jornal Ita News",
 "u": "https://jornalitanews.com.br/estamos-de-olho-1417/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:22",
-"t": "Justiça condena motorista por embriaguez ao volante em Santa Fé do Sul",
-"p": "O juiz Felipe Ferreira Pimenta, da 2ª Vara de Santa Fé do Sul, condenou Vando Quiareto da Silveira pela prática do crime de embriaguez ao volante, previsto no artigo 306 do Código de Trânsito Brasileiro. A pena fixada foi de 8 meses e 5 dias de detenção, em regime inicial semiaberto, além do pagamento de […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Santa Fé do Sul"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/justica-condena-motorista-por-embriaguez-ao-volante-em-santa-fe-do-sul/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:19",
-"t": "Homem é agredido com golpes de enxada em obra",
-"p": "Vítima foi atingida na cabeça e em um dos braços por colega de trabalho",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/homem-e-agredido-com-golpes-de-enxada-em-obra/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:17",
-"t": "Editorial – Água em Itapeva: o problema persiste, a preocupação também",
-"p": "A crise da água em Itapeva continua longe de uma solução definitiva. E os novos resultados laboratoriais divulgados nesta semana reforçam que a população ainda tem motivos para se preocupar. O que deveria ser um serviço básico, essencial e garantido a todos se transformou em motivo de insegurança para milhares de…",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/editorial-1417/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:14",
-"t": "Cobra de espécie que pode passar de 1,5 metro invade casa pelo encanamento e mobiliza GCM em cidade do litoral de SP",
-"p": "Uma moradora de São Vicente, no litoral de São Paulo, teve uma surpresa inusitada na manhã de quarta-feira (4). Uma cobra-d’água, espécie que pode chegar a ultrapassar o 1,5 m, apareceu dentro da residência, no bairro Parque Continental, depois de entrar pelo encanamento do imóvel. A situação mobilizou agentes da…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Vicente",
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/cobra-de-especie-que-pode-passar-de-15-metro-invade-casa-pelo-encanamento-e-mobiliza-gcm-em-cidade-do-litoral-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:12",
-"t": "Governo federal libera R$ 81,9 milhões para reformar terminais em São Paulo",
-"p": "Novo PAC selecionou proposta de para requalificar 13 terminais de ônibus e 6 estações do Expresso Tiradentes, na zona leste da capital",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/governo-federal-libera-r-819-milhoes-para-reformar-terminais-em-sao-paulo",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:09",
-"t": "Ciclista morre após ser atropelado em alça de acesso da SP-294",
-"p": "Um ciclista morreu após ser atropelado por um carro no trevo de acesso entre a Rodovia Comandante João Ribeiro de Barros (SP-294) e a Rodovia Lourenço Lozano (SP-293), em Duartina (SP), na noite desta quarta-feira (4). Segundo o registro feito pela concessionária que administra o trecho, o motorista do carro…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Duartina"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/ciclista-morre-apos-ser-atropelado-em-alca-de-acesso-da-sp-294/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:03",
-"t": "Sexta-feira começa com chuva e 639 km de lentidão em São Paulo enquanto motoristas enfrentam atrasos em avenidas e rodovias",
-"p": "O trânsito na cidade de São Paulo registra 639 quilômetros de lentidão na manhã desta sexta-feira (6/11), com congestionamentos espalhados pelas cinco regiões da capital paulista. O Rodízio Municipal de Veículos já está valendo para carros com placas final 9 e 0. Os automóveis não podem circular em todo centro…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/sexta-feira-comeca-com-chuva-e-639-km-de-lentidao-em-sao-paulo-enquanto-motoristas-enfrentam-atrasos-em-avenidas-e-rodovias/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:03",
-"t": "Três pessoas são presas com mais de 30 kg de ‘supermaconha’ em Mirante do Paranapanema",
-"p": "Três pessoas foram presas transportando mais de 30 kg de drogas na Rodovia Olímpio Ferreira da Silva (SP-272), em Mirante do Paranapanema (SP), na tarde de quarta-feira (4). Segundo a Polícia Civil, um veículo foi abordado próximo ao km 27 por fazer ultrapassagens perigosas. Na vistoria, 31,8 kg de skunk, droga…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Mirante do Paranapanema",
-"Paranapanema"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/tres-pessoas-sao-presas-com-mais-de-30-kg-de-supermaconha-em-mirante-do-paranapanema/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:01",
-"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta sexta (6)",
-"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campos do Jordão",
-"Taubaté"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-sexta-6.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:01",
-"t": "Homem é preso suspeito de estuprar a enteada de 8 anos em Dracena",
-"p": "Um homem de 40 anos foi preso pela Polícia Civil nesta quinta-feira (5) suspeito de estupro de vulnerável contra a própria enteada, uma criança de oito anos, em Dracena (SP). Segundo a Polícia Civil, o caso foi registrado na terça-feira (3), após a mãe da vítima denunciar o caso ao Conselho Tutelar. A mãe da […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Dracena"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/homem-e-preso-suspeito-de-estuprar-a-enteada-de-8-anos-em-dracena/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:00",
-"t": "Campinas tem previsão de chuva e temporais nesta sexta-feira; veja horários",
-"p": "Defesa Civil alerta para instabilidade na região até sábado (7), com possibilidade de raios, rajadas de vento e granizo isolado; temperaturas podem chegar aos 30 °C",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tem-previsao-de-chuva-e-temporais-nesta-sexta-feira-veja-horarios/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "07:41",
-"t": "Maior ponte do Estado recebe obra de R$ 400 milhões para duplicação, conecta duas cidades em minutos, flutua sobre rio e está 98% pronta",
-"p": "A obra de duplicação da maior ponte do Estado de São Paulo finalmente chega à reta final. A expectativa é que os trabalhos sejam concluídos até o fim de 2026. Com 2,4 quilômetros de extensão, a ponte Engenheiro Gilberto Paim Pamplona liga os municípios de Novo Horizonte e Pongaí, a cerca de 400 quilômetros da […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Novo Horizonte",
-"Pongaí"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/maior-ponte-do-estado-recebe-obra-de-r-400-milhoes-para-duplicacao-conecta-duas-cidades-em-minutos-flutua-sobre-rio-e-esta-98-pronta/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "07:36",
-"t": "Revelando SP: festival divulga programação completa para a edição da capital paulista",
-"p": "O Revelando SP, maior celebração da cultura tradicional do estado de São Paulo, divulgou a programação completa para a edição da capital paulista. Com entrada gratuita, o evento acontece entre os dias 12 e 15 de novembro, no Parque do Trote, na zona norte, iniciando às 10h todos os dias. Realizado pela Secretaria…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/revelando-sp-festival-divulga-programacao-completa-para-a-edicao-da-capital-paulista/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "07:36",
-"t": "Novo Centro Administrativo transforma o Campos Elíseos com arquitetura sustentável e requalificação do Parque Princesa Isabel",
-"p": "O projeto do Novo Centro Administrativo do Governo de São Paulo combina a centralização de estruturas da administração estadual com a requalificação urbana da região dos Campos Elíseos, no centro da capital. Os edifícios terão certificação LEED Gold, reconhecimento que atesta alto desempenho ambiental e eficiência…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/novo-centro-administrativo-transforma-o-campos-eliseos-com-arquitetura-sustentavel-e-requalificacao-do-parque-princesa-isabel/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "07:35",
-"t": "Santos vai renovar com Neymar? Entenda o cenário com as eleições",
-"p": "Fotos: Raul Baretta/ Santos FC. O craque e seu staff compreendem a situação e não pressionam para um acerto antes do pleito",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/esportes/santos-vai-renovar-com-neymar-entenda-o-cenario-com-as-eleicoes/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "07:02",
-"t": "Tarot do dia: previsão para os 12 signos em 06/11/2026",
-"p": "Segundo o tarot, a sexta-feira será marcada por emoções intensas, oportunidades de realização e decisões que poderão influenciar os próximos dias. Enquanto alguns signos encontrarão motivos para celebrar conquistas, fortalecer relacionamentos e fazer planos, outros precisarão lidar com inseguranças, conflitos e…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/tarot-do-dia-previsao-para-os-12-signos-em-06-11-2026/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "07:00",
-"t": "Dupla de SP fatura mais de R$ 1,4 milhão cada na Lotofácil, divide prêmio com gaúcho e concurso volta a pagar R$ 2 milhões",
-"p": "O concurso 3822 da Lotofácil premiou uma dupla de São Paulo com R$ 1.433.853,15 para cada apostador na noite da última quinta-feira (5). Além deles, um morador de São Gabriel, no Rio Grande do Sul, também conquistou o mesmo prêmio. Agora, a Lotofácil volta a sortear nesta sexta-feira (6), com uma premiação estimada…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/dupla-de-sp-fatura-mais-de-r-14-milhao-cada-na-lotofacil-divide-premio-com-gaucho-e-concurso-volta-a-pagar-r-2-milhoes/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "06:29",
-"t": "Mega-Sena 3082 sorteia R$ 55 milhões nesta sexta-feira (06/11); veja horário e como apostar",
-"p": "Foto: Depositphotos Prêmio está acumulado após quatro concursos sem ganhador na faixa principal. Aposta simples custa R$ 6 e sorteio está previsto para as 21h.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/sorteio-mega-sena-concurso-3082/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "06:24",
-"t": "Resultados das loterias de quinta-feira (05/11): Lotofácil, Quina, Timemania e Dia de Sorte",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Confira os números sorteados, ganhadores e premiações dos quatro concursos realizados em 5 de novembro de 2026; três modalidades acumularam.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultados-loterias-5-novembro-2026/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "06:21",
-"t": "Resultado do Dia de Sorte 1340: prêmio acumula para R$ 2,8 milhões; veja os números e o Mês da Sorte",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso realizado na quinta-feira (05/11) não teve ganhador com sete acertos; 60 apostas receberão R$ 2.755,02 cada na segunda faixa.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-dia-de-sorte-concurso-1340/",
 "auto": true
 }
 ]

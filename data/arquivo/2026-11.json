@@ -3,6 +3,244 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "12:43",
+"t": "Defesa Civil mobiliza equipes em Aparecida após temporal deixar feridos e família desalojada",
+"p": "A Defesa Civil do Estado de São Paulo enviou equipes de apoio ao município de Aparecida após o forte temporal registrado nesta sexta-feira (20) provocar alagamentos, quedas de árvores e danos estruturais em diferentes pontos da cidade. No bairro Santa Rita, uma residência teve sua estrutura comprometida pela chuva…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-mobiliza-equipes-em-aparecida-apos-temporal-deixar-feridos-e-familia-desalojada/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:43",
+"t": "Homem é socorrido com ferimento no pescoço após briga doméstica",
+"p": "Um homem foi encontrado ferido com um golpe no pescoço dentro de uma residência no bairro Jardim das Oliveiras, em São José do Rio Preto, nesta sexta-feira (20). O caso, registrado inicialmente como ocorrência de violência doméstica, mobilizou equipes de resgate e agora está sob investigação da Polícia Civil.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-socorrido-com-ferimento-no-pescoco-apos-briga-domestica/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:41",
+"t": "Pedestre morre atropelado ao atravessar na faixa na SP-055, em Itanhaém, na noite desta sexta (20)",
+"p": "Atropelamento ocorreu na altura do km 318,6, sob chuva; vítima foi projetada por quase 30 metros e quatro ocupantes do carro envolvido saíram ilesos",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/pedestre-morre-atropelado-ao-atravessar-na-faixa-na-sp-055-em-itanhaem-na-noite-desta-sexta-20.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:33",
+"t": "Temporal arranca cobertura de escola, derruba árvores e deixa cidade sem água e luz no noroeste de SP",
+"p": "Temporal arranca cobertura de Etec, derruba portal e árvores em Santa Fé do Sul (SP) Um temporal provocou estragos em Santa Fé do Sul e em outras cidades da região noroeste paulista durante a madrugada deste sábado (21). Em Santa Fé do Sul, o portal de entrada da cidade caiu, árvores foram derrubadas e a […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santa Fé do Sul"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/temporal-arranca-cobertura-de-escola-derruba-arvores-e-deixa-cidade-sem-agua-e-luz-no-noroeste-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Matrículas de novos alunos em Caraguatatuba seguem até 30 de novembro",
+"p": "Etapa contempla Educação Infantil, Ensino Fundamental e EJA; falta de documento não impede o registro inicial.",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Caraguatatuba"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/caraguatatuba-matriculas-novos-alunos-30-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Taubaté lança portal que reúne atrativos e serviços de turismo",
+"p": "Plataforma foi apresentada em fórum municipal; empresários com Cadastur podem solicitar inclusão de estabelecimentos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Taubaté"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/taubate-novo-portal-turismo-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Champion Fest abre ao meio-dia hoje na orla de Ubatuba",
+"p": "Festival reúne gastronomia e música na Praça de Eventos João Terra; programação retorna também no próximo fim de semana.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/champion-fest-ubatuba-21-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Festival de Hip Hop terá entrada gratuita amanhã no Teatro Galpão",
+"p": "Programação começa às 14h e reúne DJs, dança urbana e apresentações de rap em Pindamonhangaba.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Pindamonhangaba"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/festival-hip-hop-pindamonhangaba-22-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Fat Family e Tasha & Tracie fazem shows gratuitos hoje em São Sebastião",
+"p": "Apresentações serão simultâneas, às 22h, no Centro Histórico e em Boiçucanga; programação cultural começa à tarde.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/fat-family-tasha-tracie-sao-sebastiao-21-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:32",
+"t": "Ponte da Estrada do Ronda terá interdição de 24 a 27 de novembro",
+"p": "Obras estão previstas para Eugênio de Melo; desvio pela Fazenda Yu Takanashi será exclusivo para veículos de passeio.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/ponte-estrada-ronda-interdicao-24-27-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:24",
+"t": "Itupeva terá mais de 1,2 mil câmeras nas escolas municipais até 2027",
+"p": "Foto: Prefeitura de Itupeva Sistema terá monitoramento 24 horas por dia, inclusive nas salas de aula, e porteiro eletrônico com reconhecimento facial.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/cameras-escolas-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:04",
+"t": "Guarda Municipal de Jundiaí reforça segurança no Fazenda Grande contra tráfico e poluição sonora",
+"p": "Foto: Prefeitura de Jundiaí Guarda Municipal de Jundiaí realiza operação no Fazenda Grande contra tráfico de drogas e poluição sonora, com apoio do Canil.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/guarda-municipal-jundiai-fazenda-grande/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:03",
+"t": "Após dias de forte calor, chuva volta a cair em Rio Preto neste sábado",
+"p": "Depois de dias marcados pelo calor intenso, a chuva voltou a cair em Rio Preto na manhã deste sábado (21). A mudança no tempo trouxe céu mais carregado e alívio momentâneo das altas temperaturas que predominaram ao longo da semana. Apesar da chuva, o calor deve continuar. A previsão indica máxima de 34°C neste…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/apos-dias-de-forte-calor-chuva-volta-a-cair-em-rio-preto-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:03",
+"t": "Homem é encontrado ferido com perfuração no pescoço em Rio Preto",
+"p": "Um homem foi encontrado ferido com uma perfuração no pescoço dentro de uma residência, no bairro Jardim das Oliveiras, em Rio Preto. O caso foi registrado nesta sexta-feira (20) e está sendo investigado. A vítima foi socorrida e encaminhada ao Hospital de Base (HB). Segundo o boletim de ocorrência, a Polícia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-encontrado-ferido-com-perfuracao-no-pescoco-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:00",
+"t": "Provas esportivas alteram o trânsito na orla de Santos neste domingo",
+"p": "Carlos Nogueira Duas provas esportivas vão alterar o trânsito e o transporte coletivo na região da orla de Santos neste domingo (22).",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/provas-esportivas-alteram-o-transito-na-orla-de-santos-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:00",
+"t": "PM faz cerco e resgata casal vítima de sequestro em Guarujá",
+"p": "Reprodução Um casal sequestrado durante um roubo de veículo foi resgatado após uma operação da Polícia Militar em Guarujá.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/pm-faz-cerco-e-resgata-casal-vitima-de-sequestro-em-guaruja/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:50",
+"t": "Temporais provocam alagamentos e danos em imóveis no estado de SP",
+"p": "Fortes chuvas atingiram o município de Aparecida (SP), nesta sexta-feira (20), provocando alagamentos em diversas vias e residências, quedas de árvores e danos em estruturas. Uma família ficou desalojada após a interdição preventiva de um imóvel, e cinco hóspedes foram atingidos pelo desabamento parcial do teto de…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporais-provocam-alagamentos-e-danos-em-imoveis-no-estado-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "11:48",
 "t": "Chuva causa desabamentos, queda de árvores e alagamentos em cidades de SP",
 "p": "Municípios estão sob alerta da Defesa Civil até este domingo (22/11). Ao menos 11 avisos SMS foram emitidos neste sábado (21/11)",
@@ -11,6 +249,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/chuva-causa-desabamentos-queda-de-arvores-e-alagamentos-em-cidades-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:45",
+"t": "Ponte de quase 30 km sobre o mar terá trens a 350 km/h, já ultrapassou 90% das obras e deve bater recorde mundial de extensão na China em 2027",
+"p": "Uma gigantesca obra de engenharia está prestes a mudar o transporte ferroviário no leste da China. A Ponte Ferroviária Transoceânica da Baía de Hangzhou terá 29,2 quilômetros de extensão e permitirá a passagem de trens de alta velocidade. Quando estiver concluída, a estrutura será considerada a maior ponte…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/ponte-de-quase-30-km-sobre-o-mar-tera-trens-a-350-km-h-ja-ultrapassou-90-das-obras-e-deve-bater-recorde-mundial-de-extensao-na-china-em-2027/",
 "auto": true
 },
 {
@@ -122,6 +372,18 @@
 },
 {
 "d": "2026-11-21",
+"h": "11:10",
+"t": "Feira Orgulho Nerd, em SP, tem cinema, oficinas e games neste fim de semana",
+"p": "A programação gratuita reúne sessões de cinema, shows musicais, oficinas, campeonatos de games e concursos de cosplay",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370004/feira-orgulho-nerd-em-sp-tem-cinema-oficinas-e-games-neste-fim-de-semana",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "11:09",
 "t": "Dengue já soma 45 mortes em SP; estado prepara semana de combate ao mosquito",
 "p": "Mobilização ocorre de 23 a 28 de novembro, com webinário, ações de prevenção e Dia D para eliminar criadouros do Aedes aegypti",
@@ -130,6 +392,20 @@
 "c": [],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/dengue-ja-soma-45-mortes-em-sp-estado-prepara-semana-de-combate-ao-mosquito.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:09",
+"t": "Médica de 49 anos é encontrada morta dentro de hospital em São Paulo",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370006/medica-de-49-anos-e-encontrada-morta-dentro-de-hospital-em-sao-paulo",
 "auto": true
 },
 {
