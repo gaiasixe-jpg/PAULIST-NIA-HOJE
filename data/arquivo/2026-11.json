@@ -3,6 +3,106 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "15:37",
+"t": "São José dos Campos anuncia contratação de 24 novos Guardas Municipais",
+"p": "Posse dos novos agentes está prevista para o início de 2027, seguida de seis meses de curso preparatório. Efetivo passa a somar 381 integrantes",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"São José dos Campos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/vale-do-paraiba/sao-jose-dos-campos-anuncia-contratacao-de-24-novos-guardas-municipais.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:30",
+"t": "Ivete Sangalo, Alok e Luísa Sonza lideram programação do Réveillon 2027 em Fortaleza com festa descentralizada na capital",
+"p": "Fortaleza já tem atrações confirmadas para o Réveillon 2027. A Prefeitura anunciou uma programação com nomes como Ivete Sangalo, Alok, Luísa Sonza, Alceu Valença, Diogo Nogueira e Martinho da Vila, além de artistas regionais. A proposta deste ano inclui a descentralização das apresentações na véspera da virada, com…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/ivete-sangalo-alok-e-luisa-sonza-lideram-programacao-do-reveillon-2027-em-fortaleza-com-festa-descentralizada-na-capital/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:28",
+"t": "Tarcísio diz estar em oração por Jair Bolsonaro: \"Que o Senhor traga cura\"",
+"p": "Governador de São Paulo usou as redes sociais para mandar mensagem de força ao ex-presidente",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tarcisio-diz-estar-em-oracao-por-jair-bolsonaro-que-o-senhor-traga-cura",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:28",
+"t": "Jair Bolsonaro é internado em UTI no Distrito Federal após diagnóstico de obstrução intestinal, diz boletim médico",
+"p": "O ex-presidente Jair Bolsonaro está internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, com diagnóstico de abdômen agudo obstrutivo. A informação consta no boletim médico divulgado pela instituição neste sábado (21/11). Segundo a equipe médica, Bolsonaro encontra-se clinicamente…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/jair-bolsonaro-e-internado-em-uti-no-distrito-federal-apos-diagnostico-de-obstrucao-intestinal-diz-boletim-medico/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:16",
+"t": "Corpo de homem que foi mantido em cativeiro é encontrado na zona sul de SP",
+"p": "Companheira da vítima segue desaparecida. Polícia Civil instaurou inquérito para apurar os crimes de homicídio qualificado e tortura",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/corpo-de-homem-que-foi-mantido-em-cativeiro-e-encontrado-na-zona-sul-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:07",
+"t": "Bolsonaro no hospital tem visitas diárias dos filhos autorizadas por Moraes, mas decisão impõe restrições durante a internação em Brasília",
+"p": "Decisão judicial estabelece condições específicas para os encontros familiares e proíbe o uso de aparelhos que registrem imagens ou áudios",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/bolsonaro-no-hospital-tem-visitas-diarias-dos-filhos-autorizadas-por-moraes-mas-decisao-impoe-restricoes-durante-a-internacao-em-brasilia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:05",
+"t": "Bolsonaro é internado às pressas e poderá receber os filhos, mas Moraes proíbe uso de celulares durante visitas",
+"p": "O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — visitem o ex-presidente diariamente durante sua internação no Hospital DF Star, em Brasília. Bolsonaro foi hospitalizado na tarde desta sexta-feira (20),…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/bolsonaro-e-internado-as-pressas-e-podera-receber-os-filhos-mas-moraes-proibe-uso-de-celulares-durante-visitas/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:00",
+"t": "Socorrista do Samu é mordido por paciente durante atendimento em Rio Preto",
+"p": "Profissional foi atacado no braço direito durante o transporte de um homem ferido por arma branca para a UPA Tangará",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/socorrista-do-samu-e-mordido-por-paciente-durante-atendimento-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "14:29",
 "t": "Produção de mexilhões da Fazenda Marinha da Cocanha passa por inspeção e está liberada para o verão em Caraguatatuba",
 "p": "Laudo quinzenal da Defesa Agropecuária do Estado de São Paulo não detectou bactérias nem toxinas nas amostras coletadas no local",

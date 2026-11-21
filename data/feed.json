@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T14:50:36-03:00",
-"novos_nesta_coleta": 13,
+"atualizado": "2026-11-21T15:56:09-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 84 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -50,6 +50,106 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "15:37",
+"t": "São José dos Campos anuncia contratação de 24 novos Guardas Municipais",
+"p": "Posse dos novos agentes está prevista para o início de 2027, seguida de seis meses de curso preparatório. Efetivo passa a somar 381 integrantes",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"São José dos Campos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/vale-do-paraiba/sao-jose-dos-campos-anuncia-contratacao-de-24-novos-guardas-municipais.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:30",
+"t": "Ivete Sangalo, Alok e Luísa Sonza lideram programação do Réveillon 2027 em Fortaleza com festa descentralizada na capital",
+"p": "Fortaleza já tem atrações confirmadas para o Réveillon 2027. A Prefeitura anunciou uma programação com nomes como Ivete Sangalo, Alok, Luísa Sonza, Alceu Valença, Diogo Nogueira e Martinho da Vila, além de artistas regionais. A proposta deste ano inclui a descentralização das apresentações na véspera da virada, com…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/ivete-sangalo-alok-e-luisa-sonza-lideram-programacao-do-reveillon-2027-em-fortaleza-com-festa-descentralizada-na-capital/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:28",
+"t": "Tarcísio diz estar em oração por Jair Bolsonaro: \"Que o Senhor traga cura\"",
+"p": "Governador de São Paulo usou as redes sociais para mandar mensagem de força ao ex-presidente",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tarcisio-diz-estar-em-oracao-por-jair-bolsonaro-que-o-senhor-traga-cura",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:28",
+"t": "Jair Bolsonaro é internado em UTI no Distrito Federal após diagnóstico de obstrução intestinal, diz boletim médico",
+"p": "O ex-presidente Jair Bolsonaro está internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, com diagnóstico de abdômen agudo obstrutivo. A informação consta no boletim médico divulgado pela instituição neste sábado (21/11). Segundo a equipe médica, Bolsonaro encontra-se clinicamente…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/jair-bolsonaro-e-internado-em-uti-no-distrito-federal-apos-diagnostico-de-obstrucao-intestinal-diz-boletim-medico/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:16",
+"t": "Corpo de homem que foi mantido em cativeiro é encontrado na zona sul de SP",
+"p": "Companheira da vítima segue desaparecida. Polícia Civil instaurou inquérito para apurar os crimes de homicídio qualificado e tortura",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/corpo-de-homem-que-foi-mantido-em-cativeiro-e-encontrado-na-zona-sul-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:07",
+"t": "Bolsonaro no hospital tem visitas diárias dos filhos autorizadas por Moraes, mas decisão impõe restrições durante a internação em Brasília",
+"p": "Decisão judicial estabelece condições específicas para os encontros familiares e proíbe o uso de aparelhos que registrem imagens ou áudios",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/bolsonaro-no-hospital-tem-visitas-diarias-dos-filhos-autorizadas-por-moraes-mas-decisao-impoe-restricoes-durante-a-internacao-em-brasilia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:05",
+"t": "Bolsonaro é internado às pressas e poderá receber os filhos, mas Moraes proíbe uso de celulares durante visitas",
+"p": "O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — visitem o ex-presidente diariamente durante sua internação no Hospital DF Star, em Brasília. Bolsonaro foi hospitalizado na tarde desta sexta-feira (20),…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/bolsonaro-e-internado-as-pressas-e-podera-receber-os-filhos-mas-moraes-proibe-uso-de-celulares-durante-visitas/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "15:00",
+"t": "Socorrista do Samu é mordido por paciente durante atendimento em Rio Preto",
+"p": "Profissional foi atacado no braço direito durante o transporte de um homem ferido por arma branca para a UPA Tangará",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/socorrista-do-samu-e-mordido-por-paciente-durante-atendimento-em-rio-preto/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "14:29",
@@ -54937,112 +55037,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367214/censo-de-pessoas-com-deficiencia-em-maua-recebe-respostas-ate-dezembro",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:21",
-"t": "Engenheiro químico revela por que usa bicarbonato de sódio misturado com água para limpar paredes e tênis e ensina como fazer em casa",
-"p": "Aprenda a preparar uma solução caseira com ingredientes simples e veja os cuidados necessários antes de aplicá-la em diferentes superfícies",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/estilo-de-vida/engenheiro-quimico-revela-por-que-usa-bicarbonato-de-sodio-misturado-com-agua-para-limpar-paredes-e-tenis-e-ensina-como-fazer-em-casa/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:21",
-"t": "Bairros da zona Norte de Ribeirão Preto podem ficar sem água até o fim da noite; Veja quais",
-"p": "Bairros da zona Norte da cidade têm alerta para falta d'água nesta sexta (6), devido à troca emergencial de bomba em poço",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/bairros-da-zona-norte-de-ribeirao-preto-podem-ficar-sem-agua-ate-o-fim-da-noite-veja-quais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:15",
-"t": "Nova fábrica de 10 mil m² da Britânia no interior do Brasil deve entrar em operação em 2028 e abrir espaço para mais de 700 vagas de emprego",
-"p": "Uma nova fábrica de 10 mil metros quadrados da Britânia, gigante dos eletrodomésticos, deve entrar em operação a partir de 2028. Joinville, no Norte de Santa Catarina, foi a cidade escolhida para abrigar a nova unidade da marca. O valor do investimento não foi comunicado. A cidade catarinense já possui uma planta…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/nova-fabrica-de-10-mil-m%c2%b2-da-britania-no-interior-do-brasil-deve-entrar-em-operacao-em-2028-e-abrir-espaco-para-mais-de-700-vagas-de-emprego/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:09",
-"t": "Polícia apreende sexto adolescente suspeito de envolvimento na morte de engenheiro",
-"p": "Vítima, de 28 anos, foi agredida e roubada na Vila Mathias, em 24 de outubro, e morreu em decorrência dos ferimentos; investigação aponta nove envolvidos no caso.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/policia-apreende-sexto-adolescente-suspeito-de-envolvimento-na-morte-de-engenheiro/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:07",
-"t": "Obituário | Falecimentos registrados nesta sexta-feira (6/11) em Marília e região",
-"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta sexta-feira, dia 6 de novembro.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-sexta-feira-6-11-em-marilia-e-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "09:01",
-"t": "Operação Shylock: forças de segurança miram quadrilha de agiotagem e extorsão",
-"p": "Uma ação integrada entre a Polícia Civil, a Polícia Militar e o Ministério Público do Estado de São Paulo (MPSP) cumpre mandados judiciais na manhã desta sexta-feira (6) no âmbito da Operação Shylock. A força-tarefa visa desarticular uma organização criminosa investigada por agiotagem, extorsão, falsidade…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/operacao-shylock-forcas-de-seguranca-miram-quadrilha-de-agiotagem-e-extorsao/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:56",
-"t": "Desvios na previdência de Itanhaém: Justiça manda afastar 2 servidores",
-"p": "Os 2 servidores são investigados pelo MPSP por participarem de esquema que desviou R$ 25 milhões da previdência social de Itanhaém",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Itanhaém"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/desvios-na-previdencia-de-itanhaem-justica-manda-afastar-2-servidores",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "08:45",
-"t": "Justiça de Santa Fé do Sul condena homem por tráfico de drogas",
-"p": "O juiz Felipe Ferreira Pimenta, da 2ª Vara de Santa Fé do Sul, condenou Tiago Espozetti Gonçalves pela prática do crime de tráfico de drogas, tipificado no artigo 33, caput, da Lei nº 11.343/2006. O réu recebeu a pena de 5 anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa. A […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Santa Fé do Sul"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/justica-de-santa-fe-do-sul-condena-homem-por-trafico-de-drogas/",
 "auto": true
 }
 ]
