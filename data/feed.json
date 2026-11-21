@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T06:55:13-03:00",
-"novos_nesta_coleta": 19,
+"atualizado": "2026-11-21T07:55:10-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,41 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "07:50",
+"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste sábado (21)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-sabado-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "07:16",
+"t": "Obituário | Falecimentos registrados neste sábado (21/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região neste sábado, dia 21 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-sabado-21-11-em-marilia-e-regiao/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "06:36",
@@ -55014,32 +55045,6 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/em-2026-cidade-de-sp-tem-segundo-outubro-mais-chuvoso-desde-1995-diz-cge",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "21:32",
-"t": "TJ-SP libera retomada de instrução da comissão contra vereador de S.Caetano",
-"p": "Decisão mantém suspensa análise final do caso de Getúlio Filho em plenário até deliberação da Justiça",
-"tema": "Política",
-"s": "alerta",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367173/tj-sp-libera-retomada-de-instrucao-da-comissao-contra-vereador-de-s-caetano",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "21:31",
-"t": "Mauá anuncia projeto de reforma do Teatro Municipal",
-"p": "Com investimento estadual de R$ 4 mi, obra inicia em janeiro de 2027 e termina em março de 2028",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367172/maua-anuncia-projeto-de-reforma-do-teatro-municipal-",
 "auto": true
 }
 ]

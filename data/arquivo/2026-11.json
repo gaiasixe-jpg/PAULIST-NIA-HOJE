@@ -3,6 +3,34 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "07:50",
+"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste sábado (21)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-sabado-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "07:16",
+"t": "Obituário | Falecimentos registrados neste sábado (21/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região neste sábado, dia 21 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-sabado-21-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "06:36",
 "t": "Polícia Militar Rodoviária reforça fiscalização nas estradas paulistas durante a Operação El Niño",
 "p": "A Polícia Militar Rodoviária intensificou o patrulhamento e o monitoramento nas estradas do estado de São Paulo como parte da Operação El Niño, iniciativa lançada pelo Governo Estadual em 15 de outubro para prevenir acidentes e responder rapidamente a emergências provocadas por eventos climáticos extremos. O…",
