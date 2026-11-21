@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T00:58:58-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-21T02:02:08-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,20 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "01:02",
+"t": "Tropeços e tontura frequentes: saiba o que pode estar afetando seu equilíbrio",
+"p": "Tropeçar com frequência, sentir insegurança ao caminhar ou precisar se apoiar em móveis para manter a estabilidade são situações que podem indicar alterações no equilíbrio corporal. Embora episódios isolados possam acontecer, principalmente em terrenos irregulares ou durante momentos de distração, dificuldades…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/tropecos-e-tontura-frequentes-saiba-o-que-pode-estar-afetando-seu-equilibrio/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "00:33",
 "t": "Defesa Civil emite 33 alertas e monitora estragos causados por temporais no Estado",
 "p": "A Defesa Civil do Estado de São Paulo mantém o acompanhamento permanente das condições climáticas em todo o território paulista nesta sexta-feira (20) após disparar 33 alertas preventivos para o risco de chuvas intensas. Até o momento, os principais transtornos concentram-se na região do Vale do Ribeira, onde…",
@@ -62,6 +76,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/defesa-civil-emite-33-alertas-e-monitora-estragos-causados-por-temporais-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "00:32",
+"t": "Nova escova de dentes produz a própria eletricidade sem usar bateria e elimina até 78% das bactérias ligadas a problemas na gengiva; entenda",
+"p": "Uma escova de dentes que produz a própria eletricidade durante a escovação pode se tornar uma nova aliada da saúde bucal. Desenvolvida por pesquisadores da Universidade de Pequim, na China, a invenção utiliza o movimento das cerdas para gerar cargas elétricas capazes de combater bactérias associadas à placa…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/estilo-de-vida/nova-escova-de-dentes-produz-a-propria-eletricidade-sem-usar-bateria-e-elimina-ate-78-das-bacterias-ligadas-a-problemas-na-gengiva-entenda/",
 "auto": true
 },
 {
@@ -55020,32 +55046,6 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/brasil-e-mundo/tse-admite-acao-do-novo-contra-a-chapa-lula-alckmin-por-abuso-de-poder-politico/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:10",
-"t": "Ação em memória às vítimas de acidentes de trânsito é destaque no calendário educativo da Semob para novembro",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Mobilidade (Semob), iniciou na terça-feira (3) sua programação na área de Educação no Trânsito para o mês de novembro. Entre as 42 atividades programadas até o próximo dia 30 estão, inclusive, ações inéditas de conscientização alusivas ao Dia Mundial em Memória às…",
-"tema": "Educação",
-"s": "alerta",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/acao-em-memoria-as-vitimas-de-acidentes-de-transito-e-destaque-no-calendario-educativo-da-semob-para-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:05",
-"t": "Morangos que seriam jogados fora por causa da aparência viram bebida fermentada e gomas nas mãos de 3 adolescentes de 16 anos que conquistam prêmio",
-"p": "Existem morangos que nunca chegaram à ser comercializados. As vezes, podem não estar nem estragados e nem podres, no entanto, podem não atender aos padrões desejados pelas lojas ou feirantes. Uma dúvida sobre o que fazer com elas foi o ponto de partida para três estudantes de 16 anos da Escola Pumahue Curauma, em…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/morangos-que-seriam-jogados-fora-por-causa-da-aparencia-viram-bebida-fermentada-e-gomas-nas-maos-de-3-adolescentes-de-16-anos-que-conquistam-premio/",
 "auto": true
 }
 ]
