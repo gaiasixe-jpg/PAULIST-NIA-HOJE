@@ -3,6 +3,136 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "06:36",
+"t": "Polícia Militar Rodoviária reforça fiscalização nas estradas paulistas durante a Operação El Niño",
+"p": "A Polícia Militar Rodoviária intensificou o patrulhamento e o monitoramento nas estradas do estado de São Paulo como parte da Operação El Niño, iniciativa lançada pelo Governo Estadual em 15 de outubro para prevenir acidentes e responder rapidamente a emergências provocadas por eventos climáticos extremos. O…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-militar-rodoviaria-reforca-fiscalizacao-nas-estradas-paulistas-durante-a-operacao-el-nino/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "06:36",
+"t": "Auxílio-Aluguel já atendeu mais de 10,6 mil mulheres vítimas de violência doméstica",
+"p": "O programa estadual Auxílio-Aluguel para Mulheres Vítimas de Violência já alcançou 596 municípios paulistas — o equivalente a 92,4% das cidades do estado — e beneficiou mais de 10,6 mil mulheres desde sua implantação, em fevereiro de 2025. Mantida pelo Governo de São Paulo por meio da Secretaria de Desenvolvimento…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/auxilio-aluguel-ja-atendeu-mais-de-106-mil-mulheres-vitimas-de-violencia-domestica/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "06:36",
+"t": "Prefeito em exercício Rodrigo Marcomini cumpre agenda em Brasília para captar recursos e apresentar demandas",
+"p": "O prefeito em exercício de Macedônia, Rodrigo Marcomini, esteve em Brasília (DF) ao longo desta semana para cumprir uma série de compromissos oficiais junto a ministérios do Governo Federal e parlamentares do Congresso Nacional. O objetivo da viagem foi estreitar o relacionamento institucional, apresentar as…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeito-em-exercicio-rodrigo-marcomini-cumpre-agenda-em-brasilia-para-captar-recursos-e-apresentar-demandas/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "06:01",
+"t": "Prefeito em exercício Rodrigo Marcomini cumpre agenda em Brasília para captar recursos e apresentar demandas",
+"p": "O prefeito em exercício de Macedônia, Rodrigo Marcomini, esteve em Brasília (DF) ao longo desta semana para cumprir uma série de compromissos oficiais junto a ministérios do Governo Federal e parlamentares do Congresso Nacional. O objetivo da viagem foi estreitar o relacionamento institucional, apresentar as…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeito-em-exercicio-rodrigo-marcomini-cumpre-agenda-em-brasilia-para-captar-recursos-e-apresentar-demandas/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "06:00",
+"t": "Mulher é presa com 67 quadros de motos ligados a roubos e furtos em São Vicente",
+"p": "Divulgação/PM Uma mulher foi presa por receptação qualificada após a Polícia Militar localizar 67 quadros de motocicletas roubados.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/mulher-e-presa-com-67-quadros-de-motos-ligados-a-roubos-e-furtos-em-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "06:00",
+"t": "Porto de Santos reforça fiscalização após ataque cibernético",
+"p": "Divulgação/APS A APS reforçou as medidas de segurança no Porto de Santos após o ataque cibernético registrado no início de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/porto-e-negocios/porto-de-santos-reforca-fiscalizacao-apos-ataque-cibernetico/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "06:00",
+"t": "Suspeita de homicídio brutal em Alagoas é presa em Praia Grande",
+"p": "Divulgação/Polícia Civil de Alagoas Uma mulher de 21 anos foi presa em Praia Grande, suspeita de envolvimento em um homicídio qualificado e ocultação de cadáver.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/suspeita-de-homicidio-brutal-em-alagoas-e-presa-em-praia-grande/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "06:00",
+"t": "Auxílio-Aluguel já atendeu mais de 10,6 mil mulheres vítimas de violência doméstica",
+"p": "O programa estadual Auxílio-Aluguel para Mulheres Vítimas de Violência já alcançou 596 municípios paulistas — o equivalente a 92,4% das cidades do estado — e beneficiou mais de 10,6 mil mulheres desde sua implantação, em fevereiro de 2025. Mantida pelo Governo de São Paulo por meio da Secretaria de Desenvolvimento…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/auxilio-aluguel-ja-atendeu-mais-de-106-mil-mulheres-vitimas-de-violencia-domestica/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "06:00",
+"t": "Polícia Militar Rodoviária reforça fiscalização nas estradas paulistas durante a Operação El Niño",
+"p": "A Polícia Militar Rodoviária intensificou o patrulhamento e o monitoramento nas estradas do estado de São Paulo como parte da Operação El Niño, iniciativa lançada pelo Governo Estadual em 15 de outubro para prevenir acidentes e responder rapidamente a emergências provocadas por eventos climáticos extremos. O…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-rodoviaria-reforca-fiscalizacao-nas-estradas-paulistas-durante-a-operacao-el-nino/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "05:01",
+"t": "‘Por Você’: Junqueira deixa a prisão e Zé aborda Glorinha a mando de Vanessa no capítulo de segunda (23)",
+"p": "Nesta segunda-feira (23), em Por Você, o clima esquenta nos corredores do hospital. Leandra age rápido e salva um bebê engasgado, recebendo elogios sinceros de Vitor. No entanto, Vanessa discute feio com a filha por não aceitar sua escolha profissional. Além disso, a vilã sonda Ítalo sobre os irmãos e orienta Zé a…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-junqueira-deixa-a-prisao-e-ze-aborda-glorinha-a-mando-de-vanessa-no-capitulo-de-segunda-23/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "05:00",
 "t": "HBU promove conscientização sobre prematuridade e assistência neonatal",
 "p": "Programação reuniu médicos e profissionais de Enfermagem para discutir os cuidados com bebês e familiares.",
