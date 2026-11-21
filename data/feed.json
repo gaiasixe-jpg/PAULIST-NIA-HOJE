@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T02:02:08-03:00",
+"atualizado": "2026-11-21T03:01:33-03:00",
 "novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
@@ -50,6 +50,32 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "02:00",
+"t": "Com encerramento de parceria, pontos de ônibus em São Paulo ficam sem Wi-Fi",
+"p": "Serviço nos pontos de ônibus foi encerrado em outubro a pedido da empresa responsável pelo fornecimento de internet",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/com-encerramento-de-contrato-pontos-de-onibus-em-sao-paulo-ficam-sem-wi-fi",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "01:30",
+"t": "‘Roque Santeiro’: Mocinha pede demissão por reabertura da boate, Lulu confessa desejo ao padre e Zé das Medalhas cede à creche neste sábado (21)",
+"p": "No capítulo deste sábado (21), em ‘Roque Santeiro’, a liberação da casa noturna provoca baixas na política local, movimenta o confessionário da igreja e agita os bastidores do poder na Asa Branca. Indignada com os rumores morais da cidade, a beata toma uma atitude radical contra a decisão da administração…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-mocinha-pede-demissao-por-reabertura-da-boate-lulu-confessa-desejo-ao-padre-e-ze-das-medalhas-cede-a-creche-neste-sabado-21/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "01:02",
@@ -55017,35 +55043,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/auxiliar-de-cozinha-e-preso-apos-esfaquear-chapeiro-por-divergencia-politica/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:17",
-"t": "Gaeco denuncia ex-presidente da Câmara de Catanduva e aliados por lavagem de dinheiro",
-"p": "O Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), do Ministério Público de São Paulo, denunciou o ex-presidente da Câmara Municipal de Catanduva, Marcos Aparecido Ferreira (PT), seu filho e outros integrantes de seu grupo político pelos crimes de lavagem de dinheiro e ocultação de patrimônio. A…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Catanduva",
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/gaeco-denuncia-ex-presidente-da-camara-de-catanduva-e-aliados-por-lavagem-de-dinheiro/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:13",
-"t": "TSE admite ação do Novo contra a chapa Lula-Alckmin por abuso de poder político",
-"p": "Partido alega que o governo Lula adotou medidas de apelo popular para beneficiar o presidente durante a campanha eleitoral",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/tse-admite-acao-do-novo-contra-a-chapa-lula-alckmin-por-abuso-de-poder-politico/",
 "auto": true
 }
 ]

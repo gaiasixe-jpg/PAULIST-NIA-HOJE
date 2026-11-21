@@ -3,6 +3,32 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "02:00",
+"t": "Com encerramento de parceria, pontos de ônibus em São Paulo ficam sem Wi-Fi",
+"p": "Serviço nos pontos de ônibus foi encerrado em outubro a pedido da empresa responsável pelo fornecimento de internet",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/com-encerramento-de-contrato-pontos-de-onibus-em-sao-paulo-ficam-sem-wi-fi",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "01:30",
+"t": "‘Roque Santeiro’: Mocinha pede demissão por reabertura da boate, Lulu confessa desejo ao padre e Zé das Medalhas cede à creche neste sábado (21)",
+"p": "No capítulo deste sábado (21), em ‘Roque Santeiro’, a liberação da casa noturna provoca baixas na política local, movimenta o confessionário da igreja e agita os bastidores do poder na Asa Branca. Indignada com os rumores morais da cidade, a beata toma uma atitude radical contra a decisão da administração…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-mocinha-pede-demissao-por-reabertura-da-boate-lulu-confessa-desejo-ao-padre-e-ze-das-medalhas-cede-a-creche-neste-sabado-21/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "01:02",
 "t": "Tropeços e tontura frequentes: saiba o que pode estar afetando seu equilíbrio",
 "p": "Tropeçar com frequência, sentir insegurança ao caminhar ou precisar se apoiar em móveis para manter a estabilidade são situações que podem indicar alterações no equilíbrio corporal. Embora episódios isolados possam acontecer, principalmente em terrenos irregulares ou durante momentos de distração, dificuldades…",
