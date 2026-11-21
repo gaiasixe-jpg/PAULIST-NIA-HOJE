@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T18:49:46-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-21T19:49:54-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,39 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "19:14",
+"t": "Erika Hilton vai acionar Ministério Público do Trabalho e MP após caso de blackface em clínica de bronzeamento em SP",
+"p": "A deputada federal Erika Hilton (PSOL-SP) anunciou neste sábado (21/11) que vai acionar o Ministério Público do Trabalho (MPT) e o Ministério Público contra uma clínica de bronzeamento artificial em Leme, no interior de São Paulo. A medida ocorre após o estabelecimento publicar fotos e vídeos de funcionárias com os…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Leme"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/erika-hilton-vai-acionar-ministerio-publico-do-trabalho-e-mp-apos-caso-de-blackface-em-clinica-de-bronzeamento-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "19:07",
+"t": "Super El Niño atrasa chuvas na Amazônia, deixa rios em níveis preocupantes e acende alerta para seca que pode se prolongar até fevereiro de 2027",
+"p": "A chuva começa a voltar à Amazônia, mas o alívio esperado por milhares de moradores pode demorar mais do que o normal. Mesmo com a chegada do período chuvoso, rios importantes da região continuam apresentando níveis preocupantes, enquanto a influência do fenômeno El Niño ameaça prolongar a estiagem em determinadas…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/super-el-nino-atrasa-chuvas-na-amazonia-deixa-rios-em-niveis-preocupantes-e-acende-alerta-para-seca-que-pode-se-prolongar-ate-fevereiro-de-2027/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "18:44",
@@ -55004,34 +55033,6 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/seguranca/mp-sp-faz-operacao-contra-suspeita-de-desvio-milionario-da-previdencia-de-itanhaem.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:24",
-"t": "Assalto termina com reféns agredidos, tiro dentro de casa e R$ 400 mil levados em Garça",
-"p": "Quadrilha armada agrediu e ameaçou três pessoas durante o crime; Polícia Civil tenta descobrir autoria.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Garça"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/assalto-de-r-400-mil-termina-com-refens-agredidos-e-tiro-dentro-de-casa-em-garca/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:24",
-"t": "Troca emergencial de bomba pode deixar 6 bairros de Ribeirão Preto sem água até sábado",
-"p": "Manutenção emergencial em poço pode afetar abastecimento entre esta sexta (6) e sábado (7)",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/troca-emergencial-de-bomba-pode-deixar-6-bairros-de-ribeirao-preto-sem-agua-ate-sabado/",
 "auto": true
 }
 ]
