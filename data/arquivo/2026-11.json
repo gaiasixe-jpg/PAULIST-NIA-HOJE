@@ -3,6 +3,130 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "13:44",
+"t": "Água doce à beira-mar: conheça a Lagoa Azul na praia do Capricórnio, em Caraguatatuba",
+"p": "Formada na foz do Rio Jetuba, a lagoa é separada do oceano por bancos de areia branca e oferece um cenário diferente no litoral norte",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/turismo/agua-doce-a-beira-mar-conheca-a-lagoa-azul-na-praia-do-capricornio-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "13:39",
+"t": "Unesp 2027: 1ª fase do vestibular acontece neste domingo; veja orientações",
+"p": "Mais de 65 mil candidatos disputam 5.850 vagas em 137 cursos de ensino superior; portões fecham às 12h30 e provas começam às 13h",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/unesp-2027-1a-fase-do-vestibular-acontece-neste-domingo-veja-orientacoes",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "13:33",
+"t": "Temporal arranca cobertura de escola, derruba árvores e deixa cidade sem água e energia no Noroeste Paulista",
+"p": "(Foto Reprodução G1) – Temporal arranca cobertura de Etec, derruba portal e árvores em Santa Fé do Sul Chuva acompanhada de fortes ventos e descargas elétricas provocou estragos na madrugada deste sábado (21); Santa Fé do Sul, Rubineia, Nhandeara e outros municípios foram atingidos Um forte temporal atingiu…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santa Fé do Sul",
+"Nhandeara"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/temporal-arranca-cobertura-de-escola-derruba-arvores-e-deixa-cidade-sem-agua-e-energia-no-noroeste-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "13:23",
+"t": "Menina atropelada em Votuporanga é internada na UTI e passa por cirurgia em Rio Preto",
+"p": "Laura Helena Bronzati Martins foi atingida por uma motocicleta na quinta-feira (19); criança sofreu ferimentos graves e foi transferida para atendimento especializado no Hospital da Criança e Maternidade Uma menina identificada como Laura Helena Bronzati Martins sofreu ferimentos graves após ser atropelada por uma…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga",
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/menina-atropelada-em-votuporanga-e-internada-na-uti-e-passa-por-cirurgia-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "13:09",
+"t": "Um refúgio em meio à floresta: conheça a cachoeira com piscina natural em Caraguatatuba",
+"p": "Com percurso que leva de 30 a 40 minutos e atravessa a floresta até uma queda d'água cercada por rochas e vegetação nativa",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/turismo/um-refugio-em-meio-a-floresta-conheca-a-cachoeira-com-piscina-natural-em-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "13:02",
+"t": "Bairro terá falta de água na próxima semana; veja ruas afetadas",
+"p": "Sanasa fará manutenção na rede de abastecimento e orienta moradores a reservar água antes da interrupção programada",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/bairro-tera-falta-de-agua-na-proxima-semana-veja-ruas-afetadas/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "13:02",
+"t": "Samu reverte parada cardíaca dentro de ambulância e salva homem que caiu de telhado em São Sebastião",
+"p": "Vítima de 59 anos sofreu acidente no Canto do Mar; equipes do Samu conseguiram restabelecer a circulação e a encaminharam ao hospital",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saosebastiao/samu-reverte-parada-cardiaca-dentro-de-ambulancia-e-salva-homem-que-caiu-de-telhado-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:58",
+"t": "Novo estrondo assusta moradores de Barretos e amplia mistério sobre tremores na cidade",
+"p": "Barulho registrado na noite de sexta-feira foi sentido em diversos bairros; equipes da USP e da Defesa Civil investigam a origem do fenômeno, que preocupa a população desde o início de novembro Um novo e forte estrondo voltou a assustar moradores de Barretos na noite de sexta-feira (20), por volta das 21h20. O…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Barretos"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/novo-estrondo-assusta-moradores-de-barretos-e-amplia-misterio-sobre-tremores-na-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:56",
+"t": "Projeto na Câmara Municipal quer suspender concessão do Vale do Anhangabaú",
+"p": "Caducidade do contrato está em análise pela Prefeitura; concessionária descumpriu 22 obrigações do contrato, segundo SP Regula",
+"tema": "Política",
+"s": "obra",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/projeto-na-camara-municipal-quer-suspender-concessao-do-vale-do-anhangabau",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "12:43",
 "t": "Defesa Civil mobiliza equipes em Aparecida após temporal deixar feridos e família desalojada",
 "p": "A Defesa Civil do Estado de São Paulo enviou equipes de apoio ao município de Aparecida após o forte temporal registrado nesta sexta-feira (20) provocar alagamentos, quedas de árvores e danos estruturais em diferentes pontos da cidade. No bairro Santa Rita, uma residência teve sua estrutura comprometida pela chuva…",
@@ -153,6 +277,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/itupeva/cameras-escolas-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "12:15",
+"t": "Santo André promove 1ª Bienal de Arte e Educação no Paço Municipal",
+"p": "Exposição, com visitação de 23 a 27 de novembro, conta com trabalhos de alunos da rede municipal abordando diferentes eixos pedagógicos",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370012/santo-andre-promove-1-bienal-de-arte-e-educacao-no-paco-municipal",
 "auto": true
 },
 {
