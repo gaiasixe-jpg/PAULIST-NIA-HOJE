@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T07:55:10-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-21T08:52:17-03:00",
+"novos_nesta_coleta": 34,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 84 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,164 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "08:39",
+"t": "Motociclista morre e jovem fica ferida após acidente em Marília",
+"p": "Acidente de trânsito com morte foi registrado na Via Expressa da avenida Sampaio Vidal e tirou a vida de gerente de 26 anos.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/motociclista-morre-e-jovem-fica-ferida-apos-acidente-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:35",
+"t": "Após congestionamentos de até 50 km, Anchieta e Imigrantes surpreendem motoristas com mudança no trânsito neste sábado de feriado",
+"p": "Depois de enfrentar congestionamentos que chegaram a somar 50 quilômetros na descida para o litoral de São Paulo, os motoristas encontram um cenário bem diferente na manhã deste sábado (21). As rodovias Anchieta e Imigrantes, principais ligações entre a capital paulista e a Baixada Santista, apresentam trânsito…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/apos-congestionamentos-de-ate-50-km-anchieta-e-imigrantes-surpreendem-motoristas-com-mudanca-no-transito-neste-sabado-de-feriado/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:20",
+"t": "Caixa com 30 quilos de salmão é furtada de caminhão na BR-153",
+"p": "Caso está sendo investigado pela Polícia Civil de Marília Motorista de Marília faria entrega em Uberlândia e percebeu a falta da mercadoria após ficar quatro horas parado no trânsito.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/caixa-com-30-quilos-de-salmao-e-furtada-de-caminhao-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:18",
+"t": "Após dias de forte calor, chuva volta a cair em Rio Preto neste sábado",
+"p": "Mudança no tempo trouxe chuva durante a manhã; previsão indica pancadas nos próximos dias, mas temperaturas continuam elevadas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/apos-dias-de-forte-calor-chuva-volta-a-cair-em-rio-preto-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:15",
+"t": "Ofensa a mulher termina com idoso agredido a golpes de capacete em Marília",
+"p": "Caso foi registrado na CPJ de Marília Ocorrência foi registrada na Central de Polícia Judiciária e está sendo investigada pela Polícia Civil de Marília.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/ofensa-a-mulher-termina-com-idoso-agredido-a-golpes-de-capacete-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:05",
+"t": "Dia de Sorte 1353 sorteia R$ 2,1 milhões neste domingo (22); veja prêmio e horário",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso será realizado às 11h, em São Paulo; aposta mínima custa R$ 2,50 e inclui sete números e um Mês de Sorte.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-dia-de-sorte-concurso-1353/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:04",
+"t": "Duas provas esportivas vão fechar importantes avenidas de Santos neste domingo e provocar mudanças no trânsito e em linhas de ônibus com bloqueios de até dez horas",
+"p": "Quem pretende aproveitar o domingo (22) para passear pela orla de Santos, ir à praia ou simplesmente circular pela cidade precisará ficar atento. Duas competições esportivas vão transformar importantes avenidas do município em pistas de corrida e ciclismo, provocando interdições no trânsito, desvios de ônibus e…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/duas-provas-esportivas-vao-fechar-importantes-avenidas-de-santos-neste-domingo-e-provocar-mudancas-no-transito-e-em-linhas-de-onibus-com-bloqueios-de-ate-dez-horas/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:03",
+"t": "Timemania 2471 sorteia R$ 29,6 milhões neste domingo (22); veja horário e como jogar",
+"p": "Foto: Depositphotos Concurso será realizado às 11h; modalidade combina a escolha de dez números com um Time do Coração e tem aposta de R$ 3,50.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-timemania-concurso-2471/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:01",
+"t": "Confira a previsão do tempo para Marília neste sábado (21/11)",
+"p": "Após chuva na madrugada, temperaturas sobem em Marília, com períodos de sol entre nuvens e possibilidade de pancadas isoladas.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-neste-sabado-21-11/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "07:59",
+"t": "Ribeirão Preto oferece bolsa de R$ 1.943 para profissionais da saúde; inscrições vão até 27 de novembro",
+"p": "São 10 vagas para sete cursos superiores, com cadastro gratuito e presencial no Poupatempo até 27 de novembro; seleção exige graduação concluída a partir de junho de 2024 ou prevista até janeiro de 2027",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/ribeirao-preto-oferece-bolsa-de-r-1-943-para-profissionais-da-saude-inscricoes-vao-ate-27-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "07:58",
+"t": "Mega-Sena 3089 sorteia R$ 45 milhões neste domingo (22); veja horário e prazo para apostar",
+"p": "Foto: Depositphotos Concurso será realizado às 11h, em São Paulo; apostas simples podem ser registradas até as 22h deste sábado, enquanto bolões digitais têm prazo diferente.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-mega-sena-concurso-3089/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "07:50",
@@ -7054,6 +7206,276 @@
 "auto": true,
 "org": "Prefeitura",
 "num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Avaré: Dispõe sobre a homologação do enquadramento funcional e remuneratório dos servidores no cargo de Professor de Desenvolvimento Infantil – PDI, nos termos das Leis Complementares Municipais nº…",
+"p": "Decreto nº 8.937, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Avaré"
+],
+"src": "Diário Oficial de Avaré",
+"u": "https://data.queridodiario.ok.org.br/3504503/2026-11-19/7ceaed2d34838decabcb0a453f474bbb9e49b87b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.937",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Botucatu: Altera o Decreto nº 14.030/26, que regulamenta o processo de Atribuição de Classes para professores de Educação Infantil e Ensino Fundamental Anos Iniciais (1º ao 5º ano) da Rede Municipal de Ensino",
+"p": "Decreto nº 14.039, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-19/ad16fcabb5ec2a9b97f28fc9ae85a3e59059aeb7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.039",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Botucatu: Altera o Decreto nº 14.031/26, que regulamenta o processo de At r i bu i ção de Au las pa ra p r",
+"p": "Decreto nº 14.040, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-19/ad16fcabb5ec2a9b97f28fc9ae85a3e59059aeb7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.040",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Botucatu: Altera o Decreto nº 14.032/26, que regulamenta o processo de Atribuição de Classes para professores",
+"p": "Decreto nº 14.041, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-19/ad16fcabb5ec2a9b97f28fc9ae85a3e59059aeb7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.041",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Jundiaí: Estabelece diretrizes para a distribuição voluntária e não onerosa de refeições prontas para consumo imediato no Município de Jundiaí e institui o Cadastro Municipal de Iniciativas Solidárias de…",
+"p": "Decreto nº 36.909, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Jundiaí"
+],
+"src": "Diário Oficial de Jundiaí",
+"u": "https://data.queridodiario.ok.org.br/3525904/2026-11-19/d5008a06402f982eaf312f85bb624d59a3c96328.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 36.909",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "João Ramalho: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"João Ramalho"
+],
+"src": "Diário Oficial de João Ramalho",
+"u": "https://data.queridodiario.ok.org.br/3525607/2026-11-19/42f9fd79c3bff25322418cc63ef4bcbdc63e4a6d.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Jaú: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Jaú"
+],
+"src": "Diário Oficial de Jaú",
+"u": "https://data.queridodiario.ok.org.br/3525300/2026-11-19/e545008f45363f0d8845b4164c1398f9640eaa1e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Itápolis: Dispõe sobre a suplementação de verbas do orçamento em vigor",
+"p": "Decreto nº 6.781, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-19/eea8edcb60454cb419a80a8cf987cd9dc2f01506.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.781",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Monte Mor: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-11-19/c2d9ac1e51d2950361acbccadd84e21e0747fcab.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Macaubal: Dispõe sobre a nomeação dos membros do Conselho Municipal de Turismo",
+"p": "Decreto nº 648, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Macaubal"
+],
+"src": "Diário Oficial de Macaubal",
+"u": "https://data.queridodiario.ok.org.br/3528106/2026-11-19/df33456f72abf26c2b185d4e49620f8049c1a014.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 648",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Ourinhos: Dispõe sobre a fixação da tarifa de remuneração excepcional referente ao subsídio financeiro ao serviço público de transporte coletivo",
+"p": "Decreto nº 8.253, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ourinhos"
+],
+"src": "Diário Oficial de Ourinhos",
+"u": "https://data.queridodiario.ok.org.br/3534708/2026-11-19/16da91b0187fac3b9bcadbc57118230d6acd418b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.253",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Porangaba: Dispõe sobre alteração orçamentária conforme Lei nº 313 de 19/11/2026",
+"p": "Decreto nº 56, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Porangaba"
+],
+"src": "Diário Oficial de Porangaba",
+"u": "https://data.queridodiario.ok.org.br/3540507/2026-11-19/ec4143bc8435b669c624c38c53717594981d58a0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 56",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Pontes Gestal: Dispõe sobre a designação de servidor para exercer as funções de Controle Interno do Fundo de Previdência Municipal de Pontes Gestal – GESTALPREV",
+"p": "Decreto nº 4.534, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Pontes Gestal"
+],
+"src": "Diário Oficial de Pontes Gestal",
+"u": "https://data.queridodiario.ok.org.br/3540309/2026-11-19/e514146b5638c095669264cd257301d322dda7ac.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4.534",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Penápolis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-19/fb36611b0a2f2e6a09bd6f271f677156fe0862db.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "São Manuel: Estabelece procedimentos de avaliação dos registros de produtos enviados ao Serviço de Inspeção Municipal – SIM do Município de São Manuel - SP",
+"p": "Decreto nº 4513, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Manuel"
+],
+"src": "Diário Oficial de São Manuel",
+"u": "https://data.queridodiario.ok.org.br/3550100/2026-11-19/ae033a27b4335f0eb4b7031e015421c80de70fb8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4513",
 "qd": true,
 "mun": true
 },
@@ -54697,354 +55119,6 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67712",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Membros do Plano Municipal pela Primeira Infância se reúnem para apresentação de minuta",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67714",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Salim Farah Maluf é parcialmente interditada para obras preparatórias de recape",
-"p": "",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67713",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Candidatos têm até 10 de novembro para efetuar inscrição no concurso público da Prudenprev",
-"p": "",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67717",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "2º Festival do Livro é aberto e segue com programação até 26 de novembro no IBC",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67716",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Prefeitura capacita Central de Ambulâncias e do Transporte Social para implantação do SAMU",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67715",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Prudente recebe representantes do Exército para alinhar retomada integral dos serviços",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67718",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Ratifica convênio celebrado nos termos da Lei Complementar federal nº 24, de 7 de janeiro de 1975.",
-"p": "Decreto estadual nº 70.961, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Investimentos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.961",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213081",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando o levantamento do Balanço Geral do Estado do exercício de 2026 e dá prov…",
-"p": "Decreto estadual nº 70.959, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.959",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213090",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2027, o percentual de desconto para pagamento integral e dá outras providên…",
-"p": "Decreto estadual nº 70.960, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.960",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213080",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Dispõe sobre a gratuidade no sistema metropolitano de transportes públicos de passageiros das Regiões Metropolitanas do Estado de São Paulo nas datas de 8 e 15 de novembro de 2026.",
-"p": "Decreto estadual nº 70.958, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.958",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213089",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Dispõe sobre a classificação institucional da Secretaria de Meio Ambiente, Infraestrutura e Logística nos Sistemas de Administração Financeira e Orçamentária do Estado e dá providências correlatas.",
-"p": "Decreto estadual nº 70.962, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.962",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213082",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado.",
-"p": "Decreto estadual nº 70.963, de 06/11/2026, publicado no Diário Oficial do Estado. O texto completo está na base de legislação da Alesp.",
-"tema": "Decretos",
-"s": "decreto",
-"org": "Estado",
-"num": "Decreto nº 70.963",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213083",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "00:00",
-"t": "5 decretos de crédito suplementar no Orçamento do Estado (06/11)",
-"p": "Reforço de verbas (crédito suplementar) para: Instituto de Pesquisas Tecnológicas Estadual - IPT; Secretaria de Meio Ambiente; Secretaria da Saúde; Centro Estatual de Educação Tecnológica Paula Souza - CEETEPS; Secretaria de Parcerias em Investimentos. Decretos nº 70.964, 70.965, 70.966, 70.967, 70.968.",
-"tema": "Contas públicas",
-"s": "decreto",
-"org": "Estado",
-"num": "Nº 70.964 a 70.968",
-"c": [],
-"src": "Diário Oficial (via Alesp)",
-"u": "https://www.al.sp.gov.br/norma/213084",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "23:34",
-"t": "Batida entre carro e moto deixa ferido no Campus Universitário",
-"p": "Vítima sendo socorrida após acidente em Marília Vítima foi encaminhada por uma equipe do Samu para o HC de Marília, após acidente de trânsito na zona oeste da cidade.",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/batida-entre-carro-e-moto-deixa-ferido-no-campus-universitario/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "23:25",
-"t": "Dorme oito horas e ainda acorda cansado? Entenda por que isso acontece e quais problemas de saúde podem estar por trás",
-"p": "Você dorme sete, oito ou até nove horas, mas, quando o despertador toca, parece que não descansou nada? Os olhos continuam pesados, levantar da cama exige esforço e a vontade de voltar a dormir acompanha boa parte da manhã. Embora seja comum, essa sensação pode indicar que algo está prejudicando a qualidade do…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/dorme-oito-horas-e-ainda-acorda-cansado-entenda-por-que-isso-acontece-e-quais-problemas-de-saude-podem-estar-por-tras/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "22:57",
-"t": "Professora de 42 anos deixa cidade grande e constrói casa hexagonal de barro com 30 m² nas montanhas; detalhe curioso é que seu filho nasceu ali mesmo",
-"p": "Uma professora argentina de 42 anos trocou a vida na região metropolitana de Buenos Aires por uma pequena casa de barro construída com as próprias mãos nas montanhas de Córdoba. A moradia tem apenas 30 metros quadrados, formato hexagonal e utiliza materiais naturais encontrados na região. A protagonista é Jésica…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/professora-de-42-anos-deixa-cidade-grande-e-constroi-casa-hexagonal-de-barro-com-30-m%c2%b2-nas-montanhas-detalhe-curioso-e-que-seu-filho-nasceu-ali-mesmo-nn/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "22:51",
-"t": "Procurado da Justiça morre após troca de tiros com o Baep em Santo André",
-"p": "Homem foi localizado em sótão de apartamento na Vila Guiomar; segundo a PM, ele estava armado com uma pistola de numeração suprimida e reagiu à abordagem.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367182/procurado-da-justica-morre-apos-troca-de-tiros-com-o-baep-em-santo-andre",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "22:30",
-"t": "Kim Kataguiri propõe trava sobre aumento de benefícios sociais durante ano eleitoral em Projeto de Lei",
-"p": "A proibição expressa do aumento de benefícios sociais e de despesas com pessoal em anos eleitorais pode passar a ser formalizada no País através do Projeto de Lei Complementar (PLP) 279/2026. De autoria do deputado federal Kim Kataguiri, o texto propõe alterar a Lei de Responsabilidade Fiscal e a Lei das Eleições…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/kim-kataguiri-propoe-trava-sobre-aumento-de-beneficios-sociais-durante-ano-eleitoral-em-projeto-de-lei/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "22:30",
-"t": "A Coreia do Norte testou uma arma tão poderosa que pode destruir 60 mil metros quadrados com um único ataque",
-"p": "Coreia do Norte testou míssil de cruzeiro com ogiva de fragmentação capaz de atingir até 60 mil metros quadrados, segundo o governo.",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/a-coreia-do-norte-testou-uma-arma-tao-poderosa-que-pode-destruir-60-mil-metros-quadrados-com-um-unico-ataque/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "22:13",
-"t": "Engenheiro morto em ato pró-Lula: 6º adolescente é apreendido pela polícia",
-"p": "Marcelo de Oliveira foi agredido durante um roubo enquanto participava de um ato pró-Lula no litoral e morreu em decorrência dos ferimentos",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/engenheiro-morto-em-ato-pro-lula-6o-adolescente-e-apreendido-pela-policia",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "21:58",
-"t": "Trabalhadores da CET fazem acordo com Prefeitura de SP após ameaçarem greve",
-"p": "Funcionários da Companhia de Engenharia de Tráfego iam paralizar durante período da Fórmula 1 para conquistar reajuste salarial",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/trabalhadores-da-cet-fazem-acordo-com-prefeitura-de-sp-apos-ameacarem-greve",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "21:58",
-"t": "Números da Dia de Sorte 1340 hoje (05/11); veja resultado",
-"p": "O concurso 1340 do Dia de Sorte foi realizado nesta quinta-feira, 5 de novembro de 2026, com prêmio estimado em R$ 2,3 milhões. O sorteio ocorreu no Espaço da Sorte, em São Paulo (SP), e os apostadores já podem conferir as dezenas extraídas e o Mês da Sorte. A modalidade das Loterias Caixa premia quem […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/numeros-da-dia-de-sorte-1340-hoje-05-11-veja-resultado/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "21:54",
-"t": "Polícia de SP e Cruz Vermelha firmam acordo para identificar 300 ossadas no IML",
-"p": "A Polícia Técnico-Científica do Estado de São Paulo e o Comitê Internacional da Cruz Vermelha (CICV) assinaram, nesta quinta-feira (5), um termo de cooperação técnica para atuar na identificação de 300 ossadas sob custódia do Instituto Médico Legal (IML) paulista. A iniciativa visa ampliar a capacidade de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-de-sp-e-cruz-vermelha-firmam-acordo-para-identificar-300-ossadas-no-iml/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "21:52",
-"t": "Mulher diz ter perdido R$ 26 mil em golpe após romance em app e denuncia suspeito à polícia",
-"p": "Mulher diz que suspeito se apresentou como agrônomo e fazendeiro; outras cinco vítimas também registraram ocorrência",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/mulher-diz-ter-perdido-r-26-mil-em-golpe-apos-romance-em-app-e-denuncia-suspeito-a-policia/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "21:44",
-"t": "Mulher de 41 anos deixa lar de idosos após 18 meses e vai morar em residência adequada à sua idade; falta de vagas explica toda a espera",
-"p": "Uma mulher de 41 anos finalmente conseguiu deixar uma casa de repouso para idosos depois de passar aproximadamente um ano e meio vivendo em uma instituição que não correspondia à sua faixa etária. O caso aconteceu na Alemanha e chamou atenção para a dificuldade de encontrar moradias assistidas para adultos que…",
-"tema": "Habitação",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/saude/mulher-de-41-anos-deixa-lar-de-idosos-apos-18-meses-e-vai-morar-em-residencia-adequada-a-sua-idade-falta-de-vagas-explica-toda-a-espera-nn/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "21:35",
-"t": "Em 2026, cidade de SP tem segundo outubro mais chuvoso desde 1995, diz CGE",
-"p": "Capital paulista registrou 220,3 mm de precipitação, volume 96,7% superior à média esperada. Mês teve 26 dias com chuva",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/em-2026-cidade-de-sp-tem-segundo-outubro-mais-chuvoso-desde-1995-diz-cge",
 "auto": true
 }
 ]

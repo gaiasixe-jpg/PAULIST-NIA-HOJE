@@ -3,6 +3,161 @@
 "itens": [
 {
 "d": "2026-11-21",
+"h": "08:39",
+"t": "Motociclista morre e jovem fica ferida após acidente em Marília",
+"p": "Acidente de trânsito com morte foi registrado na Via Expressa da avenida Sampaio Vidal e tirou a vida de gerente de 26 anos.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/motociclista-morre-e-jovem-fica-ferida-apos-acidente-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:35",
+"t": "Após congestionamentos de até 50 km, Anchieta e Imigrantes surpreendem motoristas com mudança no trânsito neste sábado de feriado",
+"p": "Depois de enfrentar congestionamentos que chegaram a somar 50 quilômetros na descida para o litoral de São Paulo, os motoristas encontram um cenário bem diferente na manhã deste sábado (21). As rodovias Anchieta e Imigrantes, principais ligações entre a capital paulista e a Baixada Santista, apresentam trânsito…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/apos-congestionamentos-de-ate-50-km-anchieta-e-imigrantes-surpreendem-motoristas-com-mudanca-no-transito-neste-sabado-de-feriado/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:20",
+"t": "Caixa com 30 quilos de salmão é furtada de caminhão na BR-153",
+"p": "Caso está sendo investigado pela Polícia Civil de Marília Motorista de Marília faria entrega em Uberlândia e percebeu a falta da mercadoria após ficar quatro horas parado no trânsito.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/caixa-com-30-quilos-de-salmao-e-furtada-de-caminhao-na-br-153/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:18",
+"t": "Após dias de forte calor, chuva volta a cair em Rio Preto neste sábado",
+"p": "Mudança no tempo trouxe chuva durante a manhã; previsão indica pancadas nos próximos dias, mas temperaturas continuam elevadas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/apos-dias-de-forte-calor-chuva-volta-a-cair-em-rio-preto-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:15",
+"t": "Ofensa a mulher termina com idoso agredido a golpes de capacete em Marília",
+"p": "Caso foi registrado na CPJ de Marília Ocorrência foi registrada na Central de Polícia Judiciária e está sendo investigada pela Polícia Civil de Marília.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/ofensa-a-mulher-termina-com-idoso-agredido-a-golpes-de-capacete-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:05",
+"t": "Dia de Sorte 1353 sorteia R$ 2,1 milhões neste domingo (22); veja prêmio e horário",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso será realizado às 11h, em São Paulo; aposta mínima custa R$ 2,50 e inclui sete números e um Mês de Sorte.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-dia-de-sorte-concurso-1353/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:04",
+"t": "Duas provas esportivas vão fechar importantes avenidas de Santos neste domingo e provocar mudanças no trânsito e em linhas de ônibus com bloqueios de até dez horas",
+"p": "Quem pretende aproveitar o domingo (22) para passear pela orla de Santos, ir à praia ou simplesmente circular pela cidade precisará ficar atento. Duas competições esportivas vão transformar importantes avenidas do município em pistas de corrida e ciclismo, provocando interdições no trânsito, desvios de ônibus e…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/duas-provas-esportivas-vao-fechar-importantes-avenidas-de-santos-neste-domingo-e-provocar-mudancas-no-transito-e-em-linhas-de-onibus-com-bloqueios-de-ate-dez-horas/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:03",
+"t": "Timemania 2471 sorteia R$ 29,6 milhões neste domingo (22); veja horário e como jogar",
+"p": "Foto: Depositphotos Concurso será realizado às 11h; modalidade combina a escolha de dez números com um Time do Coração e tem aposta de R$ 3,50.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-timemania-concurso-2471/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:01",
+"t": "Confira a previsão do tempo para Marília neste sábado (21/11)",
+"p": "Após chuva na madrugada, temperaturas sobem em Marília, com períodos de sol entre nuvens e possibilidade de pancadas isoladas.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-neste-sabado-21-11/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "07:59",
+"t": "Ribeirão Preto oferece bolsa de R$ 1.943 para profissionais da saúde; inscrições vão até 27 de novembro",
+"p": "São 10 vagas para sete cursos superiores, com cadastro gratuito e presencial no Poupatempo até 27 de novembro; seleção exige graduação concluída a partir de junho de 2024 ou prevista até janeiro de 2027",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/ribeirao-preto-oferece-bolsa-de-r-1-943-para-profissionais-da-saude-inscricoes-vao-ate-27-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "07:58",
+"t": "Mega-Sena 3089 sorteia R$ 45 milhões neste domingo (22); veja horário e prazo para apostar",
+"p": "Foto: Depositphotos Concurso será realizado às 11h, em São Paulo; apostas simples podem ser registradas até as 22h deste sábado, enquanto bolões digitais têm prazo diferente.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/sorteio-mega-sena-concurso-3089/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "07:50",
 "t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste sábado (21)",
 "p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
@@ -7002,6 +7157,276 @@
 "auto": true,
 "org": "Prefeitura",
 "num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Avaré: Dispõe sobre a homologação do enquadramento funcional e remuneratório dos servidores no cargo de Professor de Desenvolvimento Infantil – PDI, nos termos das Leis Complementares Municipais nº…",
+"p": "Decreto nº 8.937, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Avaré"
+],
+"src": "Diário Oficial de Avaré",
+"u": "https://data.queridodiario.ok.org.br/3504503/2026-11-19/7ceaed2d34838decabcb0a453f474bbb9e49b87b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.937",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Botucatu: Altera o Decreto nº 14.030/26, que regulamenta o processo de Atribuição de Classes para professores de Educação Infantil e Ensino Fundamental Anos Iniciais (1º ao 5º ano) da Rede Municipal de Ensino",
+"p": "Decreto nº 14.039, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-19/ad16fcabb5ec2a9b97f28fc9ae85a3e59059aeb7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.039",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Botucatu: Altera o Decreto nº 14.031/26, que regulamenta o processo de At r i bu i ção de Au las pa ra p r",
+"p": "Decreto nº 14.040, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-19/ad16fcabb5ec2a9b97f28fc9ae85a3e59059aeb7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.040",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Botucatu: Altera o Decreto nº 14.032/26, que regulamenta o processo de Atribuição de Classes para professores",
+"p": "Decreto nº 14.041, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Botucatu"
+],
+"src": "Diário Oficial de Botucatu",
+"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-19/ad16fcabb5ec2a9b97f28fc9ae85a3e59059aeb7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 14.041",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Jundiaí: Estabelece diretrizes para a distribuição voluntária e não onerosa de refeições prontas para consumo imediato no Município de Jundiaí e institui o Cadastro Municipal de Iniciativas Solidárias de…",
+"p": "Decreto nº 36.909, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Jundiaí"
+],
+"src": "Diário Oficial de Jundiaí",
+"u": "https://data.queridodiario.ok.org.br/3525904/2026-11-19/d5008a06402f982eaf312f85bb624d59a3c96328.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 36.909",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "João Ramalho: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"João Ramalho"
+],
+"src": "Diário Oficial de João Ramalho",
+"u": "https://data.queridodiario.ok.org.br/3525607/2026-11-19/42f9fd79c3bff25322418cc63ef4bcbdc63e4a6d.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Jaú: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Jaú"
+],
+"src": "Diário Oficial de Jaú",
+"u": "https://data.queridodiario.ok.org.br/3525300/2026-11-19/e545008f45363f0d8845b4164c1398f9640eaa1e.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Itápolis: Dispõe sobre a suplementação de verbas do orçamento em vigor",
+"p": "Decreto nº 6.781, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Itápolis"
+],
+"src": "Diário Oficial de Itápolis",
+"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-19/eea8edcb60454cb419a80a8cf987cd9dc2f01506.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 6.781",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Monte Mor: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Monte Mor"
+],
+"src": "Diário Oficial de Monte Mor",
+"u": "https://data.queridodiario.ok.org.br/3531803/2026-11-19/c2d9ac1e51d2950361acbccadd84e21e0747fcab.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Macaubal: Dispõe sobre a nomeação dos membros do Conselho Municipal de Turismo",
+"p": "Decreto nº 648, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Macaubal"
+],
+"src": "Diário Oficial de Macaubal",
+"u": "https://data.queridodiario.ok.org.br/3528106/2026-11-19/df33456f72abf26c2b185d4e49620f8049c1a014.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 648",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Ourinhos: Dispõe sobre a fixação da tarifa de remuneração excepcional referente ao subsídio financeiro ao serviço público de transporte coletivo",
+"p": "Decreto nº 8.253, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ourinhos"
+],
+"src": "Diário Oficial de Ourinhos",
+"u": "https://data.queridodiario.ok.org.br/3534708/2026-11-19/16da91b0187fac3b9bcadbc57118230d6acd418b.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8.253",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Porangaba: Dispõe sobre alteração orçamentária conforme Lei nº 313 de 19/11/2026",
+"p": "Decreto nº 56, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Porangaba"
+],
+"src": "Diário Oficial de Porangaba",
+"u": "https://data.queridodiario.ok.org.br/3540507/2026-11-19/ec4143bc8435b669c624c38c53717594981d58a0.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 56",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Pontes Gestal: Dispõe sobre a designação de servidor para exercer as funções de Controle Interno do Fundo de Previdência Municipal de Pontes Gestal – GESTALPREV",
+"p": "Decreto nº 4.534, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Pontes Gestal"
+],
+"src": "Diário Oficial de Pontes Gestal",
+"u": "https://data.queridodiario.ok.org.br/3540309/2026-11-19/e514146b5638c095669264cd257301d322dda7ac.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4.534",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "Penápolis: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 19/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-19/fb36611b0a2f2e6a09bd6f271f677156fe0862db.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 19/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-19",
+"h": "06:00",
+"t": "São Manuel: Estabelece procedimentos de avaliação dos registros de produtos enviados ao Serviço de Inspeção Municipal – SIM do Município de São Manuel - SP",
+"p": "Decreto nº 4513, publicado no Diário Oficial do município em 19/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Manuel"
+],
+"src": "Diário Oficial de São Manuel",
+"u": "https://data.queridodiario.ok.org.br/3550100/2026-11-19/ae033a27b4335f0eb4b7031e015421c80de70fb8.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4513",
 "qd": true,
 "mun": true
 },
