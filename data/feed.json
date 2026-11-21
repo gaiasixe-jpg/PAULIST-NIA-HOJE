@@ -1,19 +1,22 @@
 {
-"atualizado": "2026-11-21T10:03:57-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-21T11:06:23-03:00",
+"novos_nesta_coleta": 24,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
+"Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
@@ -30,10 +33,6 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
@@ -42,16 +41,8 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Diário do Litoral",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Informa Noroeste",
-"erro": "<urlopen error timed out>"
 },
 {
 "fonte": "Boqnews",
@@ -59,6 +50,197 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "11:06",
+"t": "Ação conjunta da GCM, “HumanizAção” e Fiscalização resulta em prisão por tráfico de drogas na região central",
+"p": "Fotos: GCM Uma ação conjunta da Guarda Civil Municipal (GCM), das equipes do programa “HumanizAção” e da Fiscalização dr Posturas, ligada à Secretaria de Planejamento e Desenvolvimento Urbano (Seplan), resultou na prisão de um homem de 33 anos por tráfico de drogas. A ação ocorreu na quinta-feira (19), na região…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/acao-conjunta-da-gcm-humanizacao-e-fiscalizacao-resulta-em-prisao-por-trafico-de-drogas-na-regiao-central/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "11:02",
+"t": "Coceira em cachorro é normal? Veja quando pode ser sintoma de dermatite atópica",
+"p": "Embora seja comum observar o cachorro se coçando de vez em quando, quando esse comportamento se torna frequente e intenso, pode indicar que algo não está bem com a saúde do animal. A coceira persistente pode estar relacionada a diferentes problemas dermatológicos, como a dermatite atópica, uma doença inflamatória…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/coceira-em-cachorro-e-normal-veja-quando-pode-ser-sintoma-de-dermatite-atopica/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:47",
+"t": "Programa ‘Óculos do Futuro’ beneficia 160 alunos da rede municipal de Itupeva",
+"p": "Foto: Prefeitura de Itupeva Parceria entre Educação e Saúde oferece exames oftalmológicos e permite que famílias escolham as armações dos estudantes.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/programa-oculos-futuro-160-alunos-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:47",
+"t": "Homem é socorrido com ferimento no pescoço após briga doméstica",
+"p": "Um homem foi encontrado ferido com um golpe no pescoço dentro de uma residência no bairro Jardim das Oliveiras, em São José do Rio Preto, nesta sexta-feira (20). O caso, registrado inicialmente como ocorrência de violência doméstica, mobilizou equipes de resgate e agora está sob investigação da Polícia Civil.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-socorrido-com-ferimento-no-pescoco-apos-briga-domestica/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:40",
+"t": "Defesa Civil mobiliza equipes em Aparecida após temporal deixar feridos e família desalojada",
+"p": "A Defesa Civil do Estado de São Paulo enviou equipes de apoio ao município de Aparecida após o forte temporal registrado nesta sexta-feira (20) provocar alagamentos, quedas de árvores e danos estruturais em diferentes pontos da cidade. No bairro Santa Rita, uma residência teve sua estrutura comprometida pela chuva…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-mobiliza-equipes-em-aparecida-apos-temporal-deixar-feridos-e-familia-desalojada/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:37",
+"t": "Defesa Civil mantém alerta de chuvas até domingo após temporais provocarem estragos em diversas cidades",
+"p": "A Defesa Civil do Estado de São Paulo mantém em vigor até este domingo (22) um alerta preventivo para a ocorrência de chuvas em todo o território paulista, após temporais atingirem diversas regiões entre a sexta-feira (20) e a manhã deste sábado (21). Somente na sexta-feira foram disparados 47 avisos de emergência…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-mantem-alerta-de-chuvas-ate-domingo-apos-temporais-provocarem-estragos-em-diversas-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:30",
+"t": "Temporal derruba portal de entrada de Santa Fé do Sul e provoca estragos na região",
+"p": "Uma forte tempestade acompanhada de rajadas de vento e intensa atividade elétrica atingiu municípios do noroeste paulista durante a madrugada deste sábado (21), causando danos estruturais e transtornos no trânsito. O cenário mais crítico foi registrado em Santa Fé do Sul, cidade localizada a cerca de 70 quilômetros…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santa Fé do Sul"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/temporal-derruba-portal-de-entrada-de-santa-fe-do-sul-e-provoca-estragos-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:24",
+"t": "Homem é preso em Auriflama após tentar vender ferramentas furtadas de residências",
+"p": "Um homem foi preso em flagrante pela Polícia Militar em Auriflama, no noroeste paulista, após ser flagrado comercializando ferramentas e equipamentos de construção civil furtados de diferentes imóveis da cidade. A captura ocorreu depois que a equipe policial recebeu denúncias anônimas informando que um suspeito…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Auriflama"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-em-auriflama-apos-tentar-vender-ferramentas-furtadas-de-residencias/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:23",
+"t": "Homem é preso por violência doméstica após PM encontrar armas e drogas em residência",
+"p": "Um homem foi preso em flagrante pela Polícia Militar em Ilha Solteira, no noroeste paulista, durante o atendimento a uma ocorrência de violência doméstica no bairro Nova Ilha que culminou na apreensão de armamentos, munições e entorpecentes. Equipes da 2ª Companhia da PM foram acionadas via telefone 190 para…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ilha Solteira"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-por-violencia-domestica-apos-pm-encontrar-armas-e-drogas-em-residencia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:08",
+"t": "Moradores de sobrado são socorridos pela sacada após incêndio na madrugada",
+"p": "Segundo o Corpo de Bombeiros, cinco pessoas foram retiradas pela sacada da residência com auxílio de escada. Ninguém se feriu",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/moradores-de-sobrado-sao-socorridos-pela-sacada-apos-incendio-na-madrugada",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:06",
+"t": "Homem é encontrado ferido com perfuração no pescoço em Rio Preto",
+"p": "Vítima foi socorrida pelo Samu e encaminhada ao Hospital de Base; faca encontrada na residência foi recolhida para perícia",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-encontrado-ferido-com-perfuracao-no-pescoco-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:05",
+"t": "Feira Crespa completa 12 anos celebrando o dia da Consciência Negra com shows e produtos artesanais",
+"p": "A Prefeitura de Sorocaba, por meio da Coordenadoria da Igualdade Racial da Secretaria da Cidadania (Secid) e pela Secretaria de Cultura (Secult), com o apoio do SESC, Maratona de Sorocaba, promoveu, na sexta-feira (20), a Feira Crespa que movimentou o Parque das Águas, como parte das celebrações do dia da…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/feira-crespa-completa-12-anos-celebrando-o-dia-da-consciencia-negra-com-shows-e-produtos-artesanais/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "10:01",
+"t": "Gato desaparece por 23 dias e é encontrado morto dentro de caixa d’água fechada em prédio de SP; tutora suspeita de crime",
+"p": "Reservatório ficava em uma área de difícil acesso e possuía tampa rosqueável com vedação de borracha",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/gato-desaparece-por-23-dias-e-e-encontrado-morto-dentro-de-caixa-dagua-fechada-em-predio-de-sp-tutora-suspeita-de-crime/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "09:59",
+"t": "Vôlei feminino Sub-19 de Jundiaí conquista bronze no Campeonato Estadual",
+"p": "Foto: Prefeitura de Jundiaí Vôlei feminino Sub-19 de Jundiaí conquista bronze no Estadual após vencer Vinhedo por 3 sets a 1 e encerra temporada com três pódios.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí",
+"Vinhedo"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/volei-feminino-sub-19-jundiai-bronze-estadual/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "09:52",
@@ -185,6 +367,18 @@
 },
 {
 "d": "2026-11-21",
+"h": "09:00",
+"t": "Bolsonaro tem quase um litro de resíduos retirados do estômago após complicações durante madrugada, enfrenta obstrução intestinal e pode precisar de nova cirurgia",
+"p": "Uma nova internação, fortes dores abdominais e a possibilidade de enfrentar mais uma cirurgia. O estado de saúde do ex-presidente Jair Bolsonaro (PL), de 71 anos, voltou a preocupar familiares na madrugada deste sábado (21), após complicações intestinais exigirem um procedimento de descompressão gástrica no…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/bolsonaro-tem-quase-um-litro-de-residuos-retirados-do-estomago-apos-complicacoes-durante-madrugada-enfrenta-obstrucao-intestinal-e-pode-precisar-de-nova-cirurgia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "08:57",
 "t": "Homem é ferido com chave de fenda após discussão por dívida em Gália",
 "p": "Suspeito foi preso pela Polícia Militar Jovem foi levado ao hospital com ferimentos e homem de 43 anos também relatou ter sido agredido durante o desentendimento.",
@@ -279,6 +473,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/policia/ofensa-a-mulher-termina-com-idoso-agredido-a-golpes-de-capacete-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "08:10",
+"t": "Duas pessoas são feitas reféns durante roubo de carro no Guarujá",
+"p": "Criminosos abandonaram as vítimas, enquanto polícia fazia buscas nos bairros Vila Zilda e Morrinhos 4 e conseguiram fugir; ninguém ficou ferido",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/duas-pessoas-sao-feitas-refens-durante-roubo-de-carro-no-guaruja.html",
 "auto": true
 },
 {
@@ -54862,283 +55070,6 @@
 "num": "Créditos 06/11",
 "qd": true,
 "mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Barbosa: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Barbosa"
-],
-"src": "Diário Oficial de Barbosa",
-"u": "https://data.queridodiario.ok.org.br/3505104/2026-11-06/5ebd9be656775f6614f16d100fa7b273a8ff54a6.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 06/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Avaré: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Avaré"
-],
-"src": "Diário Oficial de Avaré",
-"u": "https://data.queridodiario.ok.org.br/3504503/2026-11-06/8c1f3f0dce47e1b1c51d78a00d4428c05aa77fbe.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 06/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Bragança Paulista: Autoriza, em caráter específico e sob condições resolutivas, a implantação de atividade industrial de relevante interesse público, classificada no nível 6 (ZI-6), no imóvel resultante da…",
-"p": "Decreto nº 5.080, publicado no Diário Oficial do município em 06/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Bragança Paulista"
-],
-"src": "Diário Oficial de Bragança Paulista",
-"u": "https://data.queridodiario.ok.org.br/3507605/2026-11-06/6a7d76d9e32191dac473f44e81ecfaa84681a126.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 5.080",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Botucatu: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Botucatu"
-],
-"src": "Diário Oficial de Botucatu",
-"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-06/a50fe2c3356dab6eb13243f110281a518d62cee5.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 06/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Dirce Reis: Aprova o Plano Municipal de Alfabetização do Município de Dirce Reis, para o período de 2027 a 2030, e dá outras providências)",
-"p": "Decreto nº 2.384, publicado no Diário Oficial do município em 06/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Dirce Reis"
-],
-"src": "Diário Oficial de Dirce Reis",
-"u": "https://data.queridodiario.ok.org.br/3513850/2026-11-06/8e7d8cd49601a38f94080833ed34a91c0c006a1a.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 2.384",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Parisi: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Parisi"
-],
-"src": "Diário Oficial de Parisi",
-"u": "https://data.queridodiario.ok.org.br/3536257/2026-11-06/973bdaffde1770ce0efe1081248dfba25bafc7f4.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 06/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Ourinhos: Dispõe sobre a revogação do Decreto nº 8.140, de 3 de fevereiro de 2026",
-"p": "Decreto nº 8.231, publicado no Diário Oficial do município em 06/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Ourinhos"
-],
-"src": "Diário Oficial de Ourinhos",
-"u": "https://data.queridodiario.ok.org.br/3534708/2026-11-06/0a90caff405dce51ae97766fa63178a57221980f.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 8.231",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Salto: Dispõe sobre movimentação orçamentária no valor de R$ 95.629,06 e dá outras providências",
-"p": "Decreto nº 411, publicado no Diário Oficial do município em 06/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Salto"
-],
-"src": "Diário Oficial de Salto",
-"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-06/f99e4a48ad41b0d9115bcc2cf3ce4d583d5f6e98.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 411",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Salto: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Salto"
-],
-"src": "Diário Oficial de Salto",
-"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-06/f99e4a48ad41b0d9115bcc2cf3ce4d583d5f6e98.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 06/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Tapiraí: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Tapiraí"
-],
-"src": "Diário Oficial de Tapiraí",
-"u": "https://data.queridodiario.ok.org.br/3553500/2026-11-06/59ecc60d347bf247f979ce4b8225cef7b6b4a098.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 06/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Sarutaiá: Declara Situação de Emergência em todo Município de Sarutaiá , afetados por desastre classificado como Chuvas Intensas – COBRADE 1.3.2.1.4, e dá outras providências",
-"p": "Decreto nº 60, publicado no Diário Oficial do município em 06/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Sarutaiá"
-],
-"src": "Diário Oficial de Sarutaiá",
-"u": "https://data.queridodiario.ok.org.br/3551207/2026-11-06/f85b282777e690574e54cf1f89d8181294d15ac2.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 60",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Valinhos: Altera e acresce dispositivos ao Decreto nº 13.082/2026, que regulamenta os procedimentos operacionais, contábeis e administrativos",
-"p": "Decreto nº 13.161, publicado no Diário Oficial do município em 06/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Valinhos"
-],
-"src": "Diário Oficial de Valinhos",
-"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-06/3c64188a0dc53217cc642b223fd8b6cbe2d0dadb.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 13.161",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "06:00",
-"t": "Valinhos: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 06/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Valinhos"
-],
-"src": "Diário Oficial de Valinhos",
-"u": "https://data.queridodiario.ok.org.br/3556206/2026-11-06/3c64188a0dc53217cc642b223fd8b6cbe2d0dadb.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 06/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-06",
-"h": "05:22",
-"t": "SP deve indenizar autista que lambeu chão de escola por promessa de dinheiro em Santos",
-"p": "Reprodução Durante bullying no pátio da Escola Estadual Professora Alzira Martins Lichti, no Morro da Nova Cintra, o garoto foi humilhado por dois colegas mais velhos.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/sp-deve-indenizar-autista-que-lambeu-chao-de-escola-por-promessa-de-dinheiro-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "05:00",
-"t": "Exposição reúne obras de artistas da Apae na Galeria Municipal de Marília",
-"p": "Mostra 'Cores Inclusivas', dos alunos da Apae, será aberta em 7 de novembro e terá visitação gratuita até 5 de dezembro.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/exposicao-reune-obras-de-artistas-da-apae-na-galeria-municipal-de-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "05:00",
-"t": "Justiça condena homem por roubo em sorveteria de Marília",
-"p": "Laudo comprovou que menor não matou o pai adotivo em Marília e Justiça determinou desinternação Crime foi registrado na noite do dia 16 de abril de 2022, por volta das 23h30, em uma sorveteria na avenida João Ramalho.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"João Ramalho",
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/justica-condena-homem-por-roubo-em-sorveteria-de-marilia/",
-"auto": true
 }
 ]
 }
