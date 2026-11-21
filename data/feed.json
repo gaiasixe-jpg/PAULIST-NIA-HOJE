@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-20T23:55:50-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-21T00:58:58-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +50,78 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "00:33",
+"t": "Defesa Civil emite 33 alertas e monitora estragos causados por temporais no Estado",
+"p": "A Defesa Civil do Estado de São Paulo mantém o acompanhamento permanente das condições climáticas em todo o território paulista nesta sexta-feira (20) após disparar 33 alertas preventivos para o risco de chuvas intensas. Até o momento, os principais transtornos concentram-se na região do Vale do Ribeira, onde…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-emite-33-alertas-e-monitora-estragos-causados-por-temporais-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "00:28",
+"t": "Mãe e filha morrem em batida frontal entre caminhonete e veículo utilitário na BR-153 no interior de SP",
+"p": "Mãe e filha morrem em batida frontal entre caminhonete e veículo utilitário na BR-153 Uma criança de 12 anos e a mãe, uma mulher de 28 anos, morreram e outros dois homens ficaram gravemente feridos após uma batida frontal entre duas caminhonetes na Rodovia Transbrasiliana (BR-153) em José Bonifácio (SP) nesta…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"José Bonifácio"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mae-e-filha-morrem-em-batida-frontal-entre-caminhonete-e-veiculo-utilitario-na-br-153-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "00:28",
+"t": "Pinheiro natural na decoração de Natal exige luminosidade moderada e rega equilibrada; veja como cuidar",
+"p": "Especialista orienta sobre cuidados para manter o pinheiro de Natal saudável Substituir a tradicional árvore artificial por um pinheiro natural na decoração de fim de ano é uma boa opção para quem quer celebrar o Natal, mas exige atenção redobrada em algumas cidades da região de São José do Rio Preto, no interior…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pinheiro-natural-na-decoracao-de-natal-exige-luminosidade-moderada-e-rega-equilibrada-veja-como-cuidar/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "00:28",
+"t": "Defesa Civil alerta para chuvas fortes no interior de SP durante o feriado prolongado",
+"p": "Mudança de tempo, com possibilidade pancadas fortes de chuva para Presidente Prudente: Defesa Civil coloca em alerta várias regiões do interior de SP Beatriz Jarins/g1 Chuvas fortes durante o feriado prologando podem atingir as regiões de Presidente Prudente, Bauru, Itapetininga, São José do Rio Preto e Sorocaba, a…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Presidente Prudente",
+"Itapetininga",
+"Sorocaba",
+"Bauru"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-alerta-para-chuvas-fortes-no-interior-de-sp-durante-o-feriado-prolongado/",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "23:58",
+"t": "23ª Marcha da Consciência Negra pede indicação de ministra negra ao STF",
+"p": "Manifestantes ocuparam a Avenida Paulista para lutar contra o racismo e cobrar de Lula a indicação de uma mulher negra ao STF",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/23a-marcha-da-consciencia-negra-pede-indicacao-de-ministra-negra-ao-stf",
+"auto": true
+},
 {
 "d": "2026-11-20",
 "h": "23:48",
@@ -108,6 +174,18 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4369974/ribeirao-pires-celebra-dia-da-consciencia-negra-com-valorizacao-da-ancestralidade-",
+"auto": true
+},
+{
+"d": "2026-11-20",
+"h": "22:35",
+"t": "Com 1.465 casos confirmados em humanos, doença transmitida por gatos já supera os números de 2025; veja a lista das cidades com mais diagnósticos",
+"p": "O Rio Grande do Sul já contabiliza 1.465 casos confirmados de esporotricose em humanos em 2026. O número foi divulgado pela Secretaria Estadual da Saúde (SES) e representa uma parcela expressiva dos 1.960 registros positivos contabilizados durante todo o ano passado. Entre os municípios com mais diagnósticos,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/com-1-465-casos-confirmados-em-humanos-doenca-transmitida-por-gatos-ja-supera-os-numeros-de-2025-veja-a-lista-das-cidades-com-mais-diagnosticos/",
 "auto": true
 },
 {
@@ -54968,88 +55046,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/mundo/morangos-que-seriam-jogados-fora-por-causa-da-aparencia-viram-bebida-fermentada-e-gomas-nas-maos-de-3-adolescentes-de-16-anos-que-conquistam-premio/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:02",
-"t": "Motorista envolvido em acidente que matou mulher Campinas-Monte Mor se apresentou à Polícia",
-"p": "Homem afirma que não se lembra do que aconteceu antes da batida e negou participação em racha; investigação analisa imagens de câmera da rodovia",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/motorista-envolvido-em-acidente-que-matou-mulher-campinas-monte-mor-se-apresentou-a-policia/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:02",
-"t": "Motorista envolvido em acidente que matou mulher Campinas-Monte Mor se apresenta à Polícia",
-"p": "Homem afirma que não se lembra do que aconteceu antes da batida e negou participação em racha; investigação analisa imagens de câmera da rodovia",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/motorista-envolvido-em-acidente-que-matou-mulher-campinas-monte-mor-se-apresenta-a-policia/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "20:00",
-"t": "Homem é preso com canivete após tentar roubar estudante perto de escola em Itanhaém",
-"p": "Rerpodução Suspeito abordou aluno na área externa da unidade, foi localizado perto da orla com um canivete e reconhecido por outra vítima de roubo.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itanhaém"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/homem-e-preso-com-canivete-apos-tentar-roubar-estudante-perto-de-escola-em-itanhaem/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:50",
-"t": "País europeu coloca 11 raças de cães em ‘lista negra’, proíbe criação e reprodução e impõe novas restrições para animais que já vivem no território",
-"p": "Um país europeu decidiu endurecer suas regras de proteção animal e segurança pública ao incluir 11 raças e categorias de cães em uma lista de restrições. A medida foi aprovada na Moldávia, no Leste Europeu, e proibirá a criação e a reprodução desses animais a partir de 6 de setembro de 2027, além de estabelecer […]",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/pais-europeu-coloca-11-racas-de-caes-em-lista-negra-proibe-criacao-e-reproducao-e-impoe-novas-restricoes-para-animais-que-ja-vivem-no-territorio/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:46",
-"t": "Tarifa zero em Ribeirão Preto: ônibus serão gratuitos para toda a população no Enem",
-"p": "Tarifa Zero será válida nos dias 8 e 15 de novembro em Ribeirão Preto; medida será liberada para todos os usuários",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/tarifa-zero-em-ribeirao-preto-onibus-serao-gratuitos-para-toda-a-populacao-no-enem/",
-"auto": true
-},
-{
-"d": "2026-11-05",
-"h": "19:34",
-"t": "Polícia Militar desarticula desmanche de veículos e prende dois suspeitos em Suzano",
-"p": "Agentes também apreenderam 118 peças de veículos",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Suzano"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/policia/policia-militar-desarticula-desmanche-de-veiculos-e-prende-dois-suspeitos-em-suzano/",
 "auto": true
 }
 ]
