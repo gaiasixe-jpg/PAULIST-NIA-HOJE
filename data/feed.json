@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T19:49:54-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-21T20:46:37-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 84 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,64 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "20:23",
+"t": "Mulher de 47 anos é encontrada morta dentro de piscina em fazenda",
+"p": "A Polícia Civil investiga as circunstâncias da morte de Ednatal Gomes, de 47 anos, encontrada submersa dentro de uma piscina em uma propriedade rural de Birigui na tarde desta sexta-feira (20). O caso foi registrado no Plantão Policial do município como morte suspeita e aguarda laudos periciais para esclarecer o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mulher-de-47-anos-e-encontrada-morta-dentro-de-piscina-em-fazenda/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "20:22",
+"t": "Mãe e filha mortas em grave acidente na BR-153 serão sepultadas juntas",
+"p": "Bruna Gonçalves Silva Machado, de 28 anos, e sua filha, Nayara Gabriely Silva, de 12 anos, vítimas fatais de uma violenta colisão frontal registrada na Rodovia Transbrasiliana (BR-153), em José Bonifácio, na sexta-feira (20), serão veladas e sepultadas juntas na cidade de Promissão, onde residiam. Segundo…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"José Bonifácio",
+"Promissão"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mae-e-filha-mortas-em-grave-acidente-na-br-153-serao-sepultadas-juntas/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "19:52",
+"t": "Idoso é preso suspeito de abusar de crianças em piscina de prédio de SP",
+"p": "Caso aconteceu nesta sexta-feira (20/11) e foi registrado pela Polícia Militar como suspeita de estupro de vulnerável",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/idoso-e-preso-suspeito-de-abusar-de-criancas-em-piscina-de-predio-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "19:30",
+"t": "Vereador cobra clareza na distribuição de vagas na saúde do Grande ABC",
+"p": "Renatinho Santiago, de Santo André, pede reunião com secretário de Saúde do Estado para esclarecer porque pacientes aguardam tantos anos por tratamento",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370066/vereador-cobra-clareza-na-distribuicao-de-vagas-na-saude-do-grande-abc",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "19:14",
@@ -249,6 +301,20 @@
 },
 {
 "d": "2026-11-21",
+"h": "17:16",
+"t": "São Bernardo executa 30% das obras do Viaduto Estaiado do Paço",
+"p": "",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370060/sao-bernardo-executa-30-das-obras-do-viaduto-estaiado-do-paco-",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "17:09",
 "t": "Ciclista é atingido por SUV e morre na Campinas-Mogi",
 "p": "Ciclista cruzava a rodovia quando foi atingido transversalmente por um veículo SUV",
@@ -289,6 +355,18 @@
 },
 {
 "d": "2026-11-21",
+"h": "17:00",
+"t": "Rodovia Padre Manoel da Nóbrega registra tráfego normal na tarde deste sábado (21)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-registra-trafego-normal-na-tarde-deste-sabado-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
 "h": "16:50",
 "t": "Rodovia Presidente Dutra registra tráfego normal neste domingo (21)",
 "p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 16h30",
@@ -297,6 +375,18 @@
 "c": [],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-domingo-21.html",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "16:50",
+"t": "Rodovia Presidente Dutra registra tráfego normal neste sabado (21)",
+"p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 16h30",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-neste-sabado-21.html",
 "auto": true
 },
 {
@@ -54934,105 +55024,6 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-universitario-de-jundiai-novo-centro-cirurgico-obras-70-porc/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:54",
-"t": "Uma viagem pela história de Jundiaí: caminhada gratuita explora patrimônios do Centro neste sábado (7)",
-"p": "Foto: Prefeitura de Jundiaí Participação é gratuita, mediante inscrição on-line; roteiro aborda a importância dos patrimônios culturais de Jundiaí",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/caminhada-gratuita-centro-historico-jundiai-patrimonios-culturais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:43",
-"t": "Secretaria da Mulher promove atividade física gratuita com foco na saúde preventiva de mulheres a partir dos 40 anos de idade",
-"p": "Fotos: Rose Campos/Secom Com o objetivo de promover acolhimento, saúde e bem-estar, a Prefeitura de Sorocaba, por meio da Secretaria da Mulher (Semul), vem desenvolvendo vários projetos voltados ao público feminino, no Espaço Mulher 40+, no Centro da cidade. Criado especialmente para acolher e atender mulheres na…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-promove-atividade-fisica-gratuita-com-foco-na-saude-preventiva-de-mulheres-a-partir-dos-40-anos-de-idade/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:31",
-"t": "Ação no TSE questiona 35 decretos e programas da gestão Lula em ano eleitoral",
-"p": "Foto: Ricardo Stuckert/PR Partido Novo aponta uso de benefícios sociais para alavancar reeleição; Justiça manda notificar a chapa",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/acao-no-tse-questiona-35-decretos-e-programas-da-gestao-lula-em-ano-eleitoral/",
-"auto": true,
-"org": "Prefeitura"
-},
-{
-"d": "2026-11-06",
-"h": "10:30",
-"t": "Riopreto Shopping abre temporada de Natal neste domingo (8)",
-"p": "Programação reúne atrações artísticas, experiências para toda a família, iniciativas sociais e culturais e decoração exclusiva",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/riopreto-shopping-abre-temporada-de-natal-neste-domingo-8/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:28",
-"t": "GCM localiza motocicleta com sinais de adulteração no bairro Nova Esperança",
-"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba localizou, manhã de quinta-feira (5), uma motocicleta com sinais de adulteração nos elementos identificadores, no bairro Nova Esperança, Zona Oeste da cidade. O caso ocorreu durante patrulhamento preventivo pelas adjacências. A equipe identificou o veículo…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-localiza-motocicleta-com-sinais-de-adulteracao-no-bairro-nova-esperanca/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:28",
-"t": "Patrão entrega funcionário por suspeita de tráfico de drogas",
-"p": "Polícia apreendeu cocaína, balança de precisão e materiais usados para fracionar a droga na empresa",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/patrao-entrega-funcionario-por-suspeita-de-trafico-de-drogas/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:25",
-"t": "MP-SP faz operação contra desvio de R$ 24,9 milhões da previdência municipal de Itanhaém",
-"p": "Recursos teriam sido transferidos para contas de pessoas sem vínculo com a autarquia e repassados, em sua maioria, a servidores municipais",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Itanhaém"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/mp-sp-faz-operacao-contra-suspeita-de-desvio-milionario-da-previdencia-de-itanhaem.html",
 "auto": true
 }
 ]
