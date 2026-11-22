@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-22T08:51:03-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-22T10:02:04-03:00",
+"novos_nesta_coleta": 17,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -27,23 +29,15 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 79 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
-{
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +50,118 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "09:52",
+"t": "Polícia Civil investiga furto de gado em sítio no distrito de Rosália",
+"p": "Fachada CPJ - Maycon Oliveira/Marília Notícia Proprietário de 78 anos encontrou cerca cortada durante vistoria na propriedade e sentiu a falta dos animais.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/policia-civil-investiga-furto-de-gado-em-sitio-no-distrito-de-rosalia/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:52",
+"t": "Calor e frente fria aumentam risco de chuva em Ribeirão neste domingo; Veja previsão",
+"p": "Chuva pode ganhar força ao longo do domingo (22), com possibilidade de trovoadas e temporal durante a noite em Ribeirão Preto",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/calor-e-frente-fria-aumentam-risco-de-chuva-em-ribeirao-preto-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:39",
+"t": "Domingo de calor e temporal em Jundiaí: máxima chega a 29°C, mas chuva pode atrapalhar passeios",
+"p": "Foto: Prefeitura de Jundiaí Aviso do INMET prevê chuva de até 50 milímetros por dia, rajadas de vento entre 40 e 60 km/h e possibilidade de granizo.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-22-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:21",
+"t": "Em plena tarde, ladrão esvazia vitrine de celulares em shopping de Marília",
+"p": "Caso está sendo investigado pela Polícia Civil de Marília Suspeito entrou acompanhado de outros dois homens em loja de Marília e aproveitou descuido no atendimento para esvaziar expositor.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/em-plena-tarde-ladrao-esvazia-vitrine-de-celulares-em-shopping-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:00",
+"t": "Câncer de próstata: ex-técnico de enfermagem compartilha sua história de diagnóstico e superação",
+"p": "Alcebíades encarou a notícia com tranquilidade, fez o tratamento e reforçou hábitos saudáveis - Foto: Arquivo pessoal Após 35 anos dedicados à área da saúde, Alcebíades da Rocha viveu uma experiência diferente no Hospital São Vicente: a de paciente. Diagnosticado com câncer de próstata, ele passou por 20 sessões de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/cancer-de-prostata-historia-paciente-hospital-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:00",
+"t": "Biblioteca de Campinas guarda relíquias da literatura brasileira e livro medieval do século 13",
+"p": "Espaço da Unicamp reúne obras raras, livros autografados e materiais que ajudam a preservar a história de importantes nomes da literatura brasileira",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/biblioteca-de-campinas-guarda-reliquias-da-literatura-brasileira-e-livro-medieval-do-seculo-13/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:00",
+"t": "Homem é agredido e baleado em Rio Preto",
+"p": "O caso foi registrado na madrugada deste domingo (22) no bairro João Paulo II. A vítima foi socorrida por um familiar até a Unidade de Pronto Atendimento (UPA) Jaguaré",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-agredido-e-baleado-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:00",
+"t": "Escola de período integral em São Vicente receberá nome da jornalista Glória Maria",
+"p": "Unidade na Área Continental está em construção e atenderá mais de 200 alunos do 1º ao 5º ano, com atividades pedagógicas, culturais e esportivas",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/escola-de-periodo-integral-em-sao-vicente-recebera-nome-da-jornalista-gloria-maria.html",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "08:45",
@@ -82,6 +188,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/seguranca/colisao-frontal-entre-dois-carros-deixa-tres-feridos-na-mogi-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "08:00",
+"t": "Após três anos de obras e R$ 13 milhões investidos, nova rodoviária no litoral de SP finalmente tem data para abrir e promete facilitar viagens para São Paulo e outras cidades",
+"p": "Quem depende do transporte público para trabalhar, estudar ou viajar entre o litoral e a capital paulista terá uma nova opção de embarque e desembarque a partir de dezembro. Depois de um investimento de R$ 13 milhões e de uma espera que gerou questionamentos entre moradores, o novo Terminal Rodoviário Municipal de…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/apos-tres-anos-de-obras-e-r-13-milhoes-investidos-nova-rodoviaria-no-litoral-de-sp-finalmente-tem-data-para-abrir-e-promete-facilitar-viagens-para-sao-paulo-e-outras-cidades/",
 "auto": true
 },
 {
@@ -54908,131 +55028,6 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/homem-mata-companheira-com-golpes-de-enxada-na-cabeca-e-confessa-crime-a-dono-de-bar-em-sao-paulo-justica-fixa-pena-em-24-anos-de-prisao/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:44",
-"t": "Marília participa de encontro nacional sobre assistência social em Brasília",
-"p": "Tereza Machado participou de debates sobre a participação dos usuários e o fortalecimento da assistência social no Brasil.",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-participa-de-encontro-nacional-sobre-assistencia-social-em-brasilia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:40",
-"t": "Prefeitura de Fernandópolis notifica moradores sobre atualização cadastral de imóveis",
-"p": "Proprietários de imóveis em Fernandópolis começaram a receber notificações da Prefeitura sobre a atualização de seus dados cadastrais. A medida é fruto de um mapeamento aéreo por georreferenciamento realizado em 2023 com o uso de drones, que identificou divergências entre as metragens registradas no sistema…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-notifica-moradores-sobre-atualizacao-cadastral-de-imoveis/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:39",
-"t": "Prefeitura abre inscrições para Torneio de Basquete 3×3 no CEU das Artes do Laranjeiras",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav) e da Secretaria da Cultura (Secult), promove um Torneio de Basquete 3×3 no Centro de Artes e Esportes Unificados “Professor Flávio Vespasiano Di Giorgi” (CEU das Artes), no Parque das Laranjeiras. A competição é gratuita e está…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-abre-inscricoes-para-torneio-de-basquete-3x3-no-ceu-das-artes-do-laranjeiras/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:37",
-"t": "Única praia de SP com Bandeira Azul, Praia do Tombo celebra 17 anos de certificação",
-"p": "A Praia do Tombo, em Guarujá, no litoral de São Paulo, conquistou pela 17ª vez consecutiva a certificação internacional Bandeira Azul. O reconhecimento, válido para a temporada 2026/2027, mantém o destino como a única praia do continente a receber o selo por tantos anos seguidos, segundo a Prefeitura. A cerimônia…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo",
-"Guarujá"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/turismo/unica-praia-de-sp-com-bandeira-azul-praia-do-tombo-celebra-17-anos-de-certificacao/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:37",
-"t": "Edição do programa Saúde na Represa abre ações do Novembro Azul em Fernandópolis",
-"p": "Uma ação alusiva à campanha Novembro Azul abriu a programação de conscientização sobre a saúde do homem em Fernandópolis durante a tarde de quinta-feira (5). O evento, realizado por meio do programa Saúde na Represa, reuniu homens e mulheres para promover a prevenção de doenças e incentivar cuidados com o bem-estar…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/edicao-do-programa-saude-na-represa-abre-acoes-do-novembro-azul-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:35",
-"t": "Prefeitura de Fernandópolis contempla projetos de teatro, audiovisual e macramê por meio da Lei Aldir Blanc",
-"p": "A Prefeitura de Fernandópolis, por meio da Secretaria Municipal de Cultura e Turismo, oficializou o repasse de recursos da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB) para três iniciativas artísticas locais contempladas no Edital nº 01/2026. Os projetos abrangem desde apresentações circenses e…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-contempla-projetos-de-teatro-audiovisual-e-macrame-por-meio-da-lei-aldir-blanc/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:34",
-"t": "Bolsa Família terá pagamentos antecipados em novembro e dezembro em Registro",
-"p": "Assistência Social",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/bolsa-familia-tera-pagamentos-antecipados-em-novembro-e-dezembro-em-registro/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:33",
-"t": "Prefeitura de Ouroeste intensifica fiscalização diária de terrenos para reforçar limpeza e segurança urbana",
-"p": "A Secretaria Municipal de Meio Ambiente de Ouroeste mantém ações diárias de fiscalização em lotes urbanos para garantir a limpeza, a organização e a segurança da cidade. Com o mapeamento de cerca de 3 mil terrenos não edificados no município, a administração municipal já notificou aproximadamente 500 proprietários…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ouroeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-intensifica-fiscalizacao-diaria-de-terrenos-para-reforcar-limpeza-e-seguranca-urbana/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:32",
-"t": "Pai de santo é preso suspeito de abuso sexual contra fiéis em templo",
-"p": "A polícia já identificou 10 vítimas, incluindo dois adolescentes. O Pai Ailton, como é conhecido, foi preso em uma operação policial em SP",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/pai-de-santo-e-preso-suspeito-de-abuso-sexual-contra-fieis-em-templo",
 "auto": true
 }
 ]

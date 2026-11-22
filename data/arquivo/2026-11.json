@@ -3,6 +3,118 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "09:52",
+"t": "Polícia Civil investiga furto de gado em sítio no distrito de Rosália",
+"p": "Fachada CPJ - Maycon Oliveira/Marília Notícia Proprietário de 78 anos encontrou cerca cortada durante vistoria na propriedade e sentiu a falta dos animais.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/policia-civil-investiga-furto-de-gado-em-sitio-no-distrito-de-rosalia/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:52",
+"t": "Calor e frente fria aumentam risco de chuva em Ribeirão neste domingo; Veja previsão",
+"p": "Chuva pode ganhar força ao longo do domingo (22), com possibilidade de trovoadas e temporal durante a noite em Ribeirão Preto",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/calor-e-frente-fria-aumentam-risco-de-chuva-em-ribeirao-preto-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:39",
+"t": "Domingo de calor e temporal em Jundiaí: máxima chega a 29°C, mas chuva pode atrapalhar passeios",
+"p": "Foto: Prefeitura de Jundiaí Aviso do INMET prevê chuva de até 50 milímetros por dia, rajadas de vento entre 40 e 60 km/h e possibilidade de granizo.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/alerta-tempestade-jundiai-22-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:21",
+"t": "Em plena tarde, ladrão esvazia vitrine de celulares em shopping de Marília",
+"p": "Caso está sendo investigado pela Polícia Civil de Marília Suspeito entrou acompanhado de outros dois homens em loja de Marília e aproveitou descuido no atendimento para esvaziar expositor.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/em-plena-tarde-ladrao-esvazia-vitrine-de-celulares-em-shopping-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:00",
+"t": "Câncer de próstata: ex-técnico de enfermagem compartilha sua história de diagnóstico e superação",
+"p": "Alcebíades encarou a notícia com tranquilidade, fez o tratamento e reforçou hábitos saudáveis - Foto: Arquivo pessoal Após 35 anos dedicados à área da saúde, Alcebíades da Rocha viveu uma experiência diferente no Hospital São Vicente: a de paciente. Diagnosticado com câncer de próstata, ele passou por 20 sessões de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/cancer-de-prostata-historia-paciente-hospital-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:00",
+"t": "Biblioteca de Campinas guarda relíquias da literatura brasileira e livro medieval do século 13",
+"p": "Espaço da Unicamp reúne obras raras, livros autografados e materiais que ajudam a preservar a história de importantes nomes da literatura brasileira",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/biblioteca-de-campinas-guarda-reliquias-da-literatura-brasileira-e-livro-medieval-do-seculo-13/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:00",
+"t": "Homem é agredido e baleado em Rio Preto",
+"p": "O caso foi registrado na madrugada deste domingo (22) no bairro João Paulo II. A vítima foi socorrida por um familiar até a Unidade de Pronto Atendimento (UPA) Jaguaré",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-agredido-e-baleado-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "09:00",
+"t": "Escola de período integral em São Vicente receberá nome da jornalista Glória Maria",
+"p": "Unidade na Área Continental está em construção e atenderá mais de 200 alunos do 1º ao 5º ano, com atividades pedagógicas, culturais e esportivas",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/escola-de-periodo-integral-em-sao-vicente-recebera-nome-da-jornalista-gloria-maria.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "08:45",
 "t": "Ubatuba promove palestra sobre El Niño e perspectivas climáticas para 2026 e 2027",
 "p": "Palestra abordará os possíveis impactos do fenômeno nos padrões de chuva e temperatura e sua relação com os riscos climáticos no município",
@@ -27,6 +139,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/seguranca/colisao-frontal-entre-dois-carros-deixa-tres-feridos-na-mogi-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "08:00",
+"t": "Após três anos de obras e R$ 13 milhões investidos, nova rodoviária no litoral de SP finalmente tem data para abrir e promete facilitar viagens para São Paulo e outras cidades",
+"p": "Quem depende do transporte público para trabalhar, estudar ou viajar entre o litoral e a capital paulista terá uma nova opção de embarque e desembarque a partir de dezembro. Depois de um investimento de R$ 13 milhões e de uma espera que gerou questionamentos entre moradores, o novo Terminal Rodoviário Municipal de…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/apos-tres-anos-de-obras-e-r-13-milhoes-investidos-nova-rodoviaria-no-litoral-de-sp-finalmente-tem-data-para-abrir-e-promete-facilitar-viagens-para-sao-paulo-e-outras-cidades/",
 "auto": true
 },
 {
