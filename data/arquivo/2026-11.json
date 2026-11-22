@@ -3,6 +3,84 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "06:48",
+"t": "Mortes no trânsito crescem na Região Noroeste e chegam a 243 vítimas nos primeiros dez meses do ano",
+"p": "O número de mortes provocadas por acidentes nas ruas e rodovias do noroeste paulista registrou aumento neste ano na comparação com o mesmo período de 2025. De acordo com levantamento do Infosiga, sistema do Governo do Estado de São Paulo que monitora a segurança viária, foram contabilizados 243 óbitos entre janeiro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mortes-no-transito-crescem-na-regiao-noroeste-e-chegam-a-243-vitimas-nos-primeiros-dez-meses-do-ano/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "06:02",
+"t": "Mortes no trânsito crescem na Região Noroeste e chegam a 243 vítimas nos primeiros dez meses do ano",
+"p": "O número de mortes provocadas por acidentes nas ruas e rodovias do noroeste paulista registrou aumento neste ano na comparação com o mesmo período de 2025. De acordo com levantamento do Infosiga, sistema do Governo do Estado de São Paulo que monitora a segurança viária, foram contabilizados 243 óbitos entre janeiro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mortes-no-transito-crescem-na-regiao-noroeste-e-chegam-a-243-vitimas-nos-primeiros-dez-meses-do-ano/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "06:00",
+"t": "Pedestre morre após ser atropelado e projetado a quase 30 metros em Itanhaém",
+"p": "Divulgação/Portal CCM - ARTESP Um pedestre morreu após ser atropelado por um carro na noite desta sexta-feira (20), na Rodovia Padre Manoel da Nóbrega, em Itanhaém.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/pedestre-morre-apos-ser-atropelado-e-projetado-a-quase-30-metros-em-itanhaem/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "06:00",
+"t": "Defesa Civil alerta para chuva forte e risco de alagamentos em SP até terça",
+"p": "Divulgação/Governo de SP A Defesa Civil do Estado de São Paulo alerta para a ocorrência de chuvas em todo o território paulista entre domingo (22) e terça-feira (24).",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/defesa-civil-alerta-para-chuva-forte-e-risco-de-alagamentos-em-sp-ate-terca/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "06:00",
+"t": "Guarujá realiza operação de trânsito para facilitar saída de veículos neste domingo",
+"p": "Divulgação/PMG Guarujá realiza neste domingo (22), das 17h às 20h, a Operação Bom Retorno, com intervenções no trânsito para facilitar a saída de veículos.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/guaruja-realiza-operacao-de-transito-para-facilitar-saida-de-veiculos-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "05:40",
+"t": "Projeto obriga condomínio a ter cadeiras de evacuação em Diadema",
+"p": "Proposta do vereador Boquinha estabelece regras para o resgate seguro em casos de incêndio ou desastres",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370082/projeto-obriga-condominio-a-ter-cadeiras-de-evacuacao-em-diadema",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "02:00",
 "t": "ONS permite data center em Atibaia apesar de risco na geração de energia",
 "p": "Contrato de 2025 permitiu expansão de subestação local para atender projeto de data center. Decisão preocupa moradores de Atibaia",

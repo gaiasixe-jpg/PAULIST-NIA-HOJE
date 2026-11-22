@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-22T05:55:37-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-22T06:55:02-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,84 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "06:48",
+"t": "Mortes no trânsito crescem na Região Noroeste e chegam a 243 vítimas nos primeiros dez meses do ano",
+"p": "O número de mortes provocadas por acidentes nas ruas e rodovias do noroeste paulista registrou aumento neste ano na comparação com o mesmo período de 2025. De acordo com levantamento do Infosiga, sistema do Governo do Estado de São Paulo que monitora a segurança viária, foram contabilizados 243 óbitos entre janeiro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mortes-no-transito-crescem-na-regiao-noroeste-e-chegam-a-243-vitimas-nos-primeiros-dez-meses-do-ano/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "06:02",
+"t": "Mortes no trânsito crescem na Região Noroeste e chegam a 243 vítimas nos primeiros dez meses do ano",
+"p": "O número de mortes provocadas por acidentes nas ruas e rodovias do noroeste paulista registrou aumento neste ano na comparação com o mesmo período de 2025. De acordo com levantamento do Infosiga, sistema do Governo do Estado de São Paulo que monitora a segurança viária, foram contabilizados 243 óbitos entre janeiro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mortes-no-transito-crescem-na-regiao-noroeste-e-chegam-a-243-vitimas-nos-primeiros-dez-meses-do-ano/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "06:00",
+"t": "Pedestre morre após ser atropelado e projetado a quase 30 metros em Itanhaém",
+"p": "Divulgação/Portal CCM - ARTESP Um pedestre morreu após ser atropelado por um carro na noite desta sexta-feira (20), na Rodovia Padre Manoel da Nóbrega, em Itanhaém.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/pedestre-morre-apos-ser-atropelado-e-projetado-a-quase-30-metros-em-itanhaem/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "06:00",
+"t": "Defesa Civil alerta para chuva forte e risco de alagamentos em SP até terça",
+"p": "Divulgação/Governo de SP A Defesa Civil do Estado de São Paulo alerta para a ocorrência de chuvas em todo o território paulista entre domingo (22) e terça-feira (24).",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/defesa-civil-alerta-para-chuva-forte-e-risco-de-alagamentos-em-sp-ate-terca/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "06:00",
+"t": "Guarujá realiza operação de trânsito para facilitar saída de veículos neste domingo",
+"p": "Divulgação/PMG Guarujá realiza neste domingo (22), das 17h às 20h, a Operação Bom Retorno, com intervenções no trânsito para facilitar a saída de veículos.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/guaruja-realiza-operacao-de-transito-para-facilitar-saida-de-veiculos-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "05:40",
+"t": "Projeto obriga condomínio a ter cadeiras de evacuação em Diadema",
+"p": "Proposta do vereador Boquinha estabelece regras para o resgate seguro em casos de incêndio ou desastres",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370082/projeto-obriga-condominio-a-ter-cadeiras-de-evacuacao-em-diadema",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "02:00",
@@ -54942,88 +55026,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/cotidiano/museu-do-seringal-vila-paraiso/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:22",
-"t": "Fundação Santo André oferece serviços de saúde e orientação jurídica grátis; confira",
-"p": "Evento aberto à população terá exames básicos de saúde, plantão psicológico, orientação jurídica e oficinas educativas a partir das 8h",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367259/fundacao-santo-andre-oferece-servicos-de-saude-e-orientacao-juridica-gratis-confira",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:21",
-"t": "Avanço do mar ameaça devorar praias famosas do Litoral de SP e coloca quatro em risco muito alto de desaparecer em breve",
-"p": "O avanço do mar é uma realidade na Baixada Santista. A região tem quatro áreas classificadas com risco muito alto de erosão costeira. O levantamento faz parte do Mapa de Risco à Erosão Costeira do Estado de São Paulo, elaborado pelo Instituto de Pesquisas Ambientais (IPA), vinculado ao Governo do Estado. Em resumo,…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/avanco-do-mar-ameaca-devorar-praias-famosas-do-litoral-de-sp-e-coloca-quatro-em-risco-muito-alto-de-desaparecer-em-breve/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:20",
-"t": "Pedreiro é agredido com golpes de enxada por colega de trabalho em obra",
-"p": "Um homem de 41 anos foi vítima de uma tentativa de agressão grave na manhã de quinta-feira (5), no Residencial Jardim Antonieta, em São José do Rio Preto. O trabalhador foi atingido por golpes de enxada no momento em que chegava à obra onde presta serviços. Segundo declarações da vítima à Polícia Militar, o autor […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/pedreiro-e-agredido-com-golpes-de-enxada-por-colega-de-trabalho-em-obra/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:20",
-"t": "Homem é preso em flagrante após furtar luminária de restaurante",
-"p": "Um homem desempregado, de 39 anos, foi preso em flagrante pela Polícia Militar na tarde de quinta-feira (5), após furtar uma luminária de um imóvel onde opera um restaurante japonês, no centro de São José do Rio Preto. A prisão foi ratificada pela Polícia Civil, que já representou à Justiça pela conversão da…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-e-preso-em-flagrante-apos-furtar-luminaria-de-restaurante/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:16",
-"t": "Erika Hilton confirma interesse em disputar Prefeitura de São Paulo",
-"p": "Deputada federal mais votada na história, Erika Hilton (PSol) confirmou interesse em concorrer à vaga de prefeita nas eleições de 2028",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/erika-hilton-confirma-interesse-em-disputar-prefeitura-de-sao-paulo",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:15",
-"t": "Escola cívico-militar abre inscrições para Ensino Fundamental",
-"p": "Inscrições para o ano letivo de 2027 serão realizadas de 9 a 27 de novembro",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/escola-civico-militar-abre-inscricoes-para-ensino-fundamental/",
 "auto": true
 }
 ]
