@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T01:00:12-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-22T02:05:46-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -22,6 +22,7 @@
 "Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
+"Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
@@ -46,13 +47,23 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Região Noroeste",
-"erro": "The read operation timed out"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "02:00",
+"t": "ONS permite data center em Atibaia apesar de risco na geração de energia",
+"p": "Contrato de 2025 permitiu expansão de subestação local para atender projeto de data center. Decisão preocupa moradores de Atibaia",
+"tema": "Geral",
+"s": "obra",
+"c": [
+"Atibaia"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ons-viabiliza-data-center-em-atibaia-apesar-de-risco-na-geracao-de-energia",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "00:33",
@@ -55013,20 +55024,6 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/escola-civico-militar-abre-inscricoes-para-ensino-fundamental/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:15",
-"t": "Polícia Militar prende homem por tráfico de drogas em Capão Bonito",
-"p": "Um homem foi preso por tráfico de drogas na quinta-feira (5), durante uma ação conjunta da Força Tática da Polícia Militar e da Polícia Civil, em Capão Bonito. Segundo informações da Polícia Militar, a abordagem ocorreu nas proximidades de um posto de combustíveis, onde os policiais localizaram uma porção de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Capão Bonito"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/trafico-capao-bonito-5/",
 "auto": true
 }
 ]
