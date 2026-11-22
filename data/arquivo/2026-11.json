@@ -3,6 +3,48 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "07:45",
+"t": "Obituário | Falecimentos registrados neste domingo (22/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região neste domingo, dia 22 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-domingo-22-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "07:45",
+"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste domingo (22)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "07:15",
+"t": "Presidente da Câmara destaca inauguração do Sesc e impactos para Marília",
+"p": "Danilo da Saúde cita ampliação do acesso à cultura, esporte e lazer; ele ainda prevê reflexos na economia local.",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/presidente-da-camara-destaca-inauguracao-do-sesc-e-impactos-para-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "06:48",
 "t": "Mortes no trânsito crescem na Região Noroeste e chegam a 243 vítimas nos primeiros dez meses do ano",
 "p": "O número de mortes provocadas por acidentes nas ruas e rodovias do noroeste paulista registrou aumento neste ano na comparação com o mesmo período de 2025. De acordo com levantamento do Infosiga, sistema do Governo do Estado de São Paulo que monitora a segurança viária, foram contabilizados 243 óbitos entre janeiro…",

@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-22T06:55:02-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-22T07:54:05-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -26,14 +28,9 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
-{
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -43,19 +40,61 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Diário do Litoral",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "07:45",
+"t": "Obituário | Falecimentos registrados neste domingo (22/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região neste domingo, dia 22 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-domingo-22-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "07:45",
+"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste domingo (22)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "07:15",
+"t": "Presidente da Câmara destaca inauguração do Sesc e impactos para Marília",
+"p": "Danilo da Saúde cita ampliação do acesso à cultura, esporte e lazer; ele ainda prevê reflexos na economia local.",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/presidente-da-camara-destaca-inauguracao-do-sesc-e-impactos-para-marilia/",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "06:48",
@@ -54990,42 +55029,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/cotidiano/camera-flagra-professora-puxando-aluno-de-5-anos-pelo-agasalho-trt-2-mantem-justa-causa-e-nega-indenizacao-por-danos-morais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:23",
-"t": "Aos 70 anos, homem descobre quem matou sua esposa após gastar R$ 700 mil para manter cena do crime intacta por 26 anos",
-"p": "Um homem no Japão passou 26 anos pagando o aluguel do apartamento onde sua esposa foi assassinada, sem alterar as provas. A decisão custou mais de 23 milhões de ienes (aproximadamente R$ 700 mil) e acabou ajudando a polícia a desvendar um crime que parecia impossível de solucionar. A persistência de Satoru Takaba…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/aos-70-anos-homem-descobre-quem-matou-sua-esposa-apos-gastar-r-700-mil-para-manter-cena-do-crime-intacta-por-26-anos/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:22",
-"t": "Sua câmera de segurança pode estar filmando o vizinho; entenda quando isso vira problema e quais cuidados tomar",
-"p": "Instalar uma câmera de segurança em casa é uma das alternativas para aumentar a proteção contra furtos, invasões e outras ocorrências. No entanto, o equipamento que deveria trazer tranquilidade pode acabar provocando problemas com a vizinhança e até consequências legais. Isso acontece quando o sistema ultrapassa os…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/sua-camera-de-seguranca-pode-estar-filmando-o-vizinho-entenda-quando-isso-vira-problema-e-quais-cuidados-tomar/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:22",
-"t": "Uma viagem de barco leva a um lugar que parece parado no tempo: museu recria o luxo dos barões e a rotina dura dos antigos seringueiros",
-"p": "Uma embarcação deixa a região urbana de Manaus e avança pelas águas do rio Negro. Conforme o trajeto se aproxima do igarapé São João, a paisagem passa a ser dominada pela vegetação. À margem do curso d’água, construções de madeira remetem ao período em que a exploração da borracha transformou a economia amazônica.…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/museu-do-seringal-vila-paraiso/",
 "auto": true
 }
 ]
