@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T14:49:43-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-22T15:56:48-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,49 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "15:45",
+"t": "Escola de samba de São Paulo abre inscrições gratuitas para desfilar no Carnaval 2027, oferece fantasia sem custo e realiza ensaios em endereço mais acessível",
+"p": "A Estrela do Terceiro Milênio, escola de samba do Grajaú, na zona sul de São Paulo, está com inscrições abertas para uma nova ala que pretende facilitar a participação de foliões de outras regiões da capital no Carnaval 2027. A agremiação oferece inscrições e fantasias gratuitas, com ensaios aos domingos, às 15h,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/escola-de-samba-de-sao-paulo-abre-inscricoes-gratuitas-para-desfilar-no-carnaval-2027-oferece-fantasia-sem-custo-e-realiza-ensaios-em-endereco-mais-acessivel/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "15:18",
+"t": "Advogado é condenado por chamar porteiro de hospital de \"macaco\" e \"negão\"",
+"p": "Discussão começou após funcionário impedir que o advogado entrasse em hospital de Lins sem máscara e portando sacola com frutas",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Lins"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/advogado-e-condenado-por-chamar-porteiro-de-hospital-de-macaco-e-negao",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "15:00",
+"t": "Prefeita de Várzea Grande (PL-MT) manda pai ‘rezar para alguém morrer’ por vaga em UTI e ameaça processar denunciante",
+"p": "A prefeita de Várzea Grande (MT), Flávia Moretti (PL), gerou forte repercussão negativa ao relatar que orientou um pai em busca de vaga na Unidade de Terapia Intensiva (UTI) a “rezar para alguém morrer” ou receber alta. A declaração ocorreu em entrevista na quinta-feira (19/11), e o caso ganhou ainda mais…",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/prefeita-de-varzea-grande-pl-mt-manda-pai-rezar-para-alguem-morrer-por-vaga-em-uti-e-ameaca-processar-denunciante/",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "14:33",
@@ -132,6 +169,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/contrato-de-r-330-milhoes-com-comprador-nao-revelado-ganha-atencao-apos-avioes-militares-do-catar-fazerem-quatro-viagens-ao-brasil-em-60-dias/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:45",
+"t": "Aviões militares do Catar fazem 4 voos ao Viracopos em 60 dias e contrato de R$ 330 milhões com comprador não revelado chama atenção",
+"p": "Acordo da Mac Jee para fornecimento de munições a uma força aérea estrangeira desperta interesse após operações de cargueiros militares no aeroporto de Viracopos",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/avioes-militares-do-catar-fazem-4-voos-ao-viracopos-em-60-dias-e-contrato-de-r-330-milhoes-com-comprador-nao-revelado-chama-atencao/",
 "auto": true
 },
 {
@@ -54954,60 +55003,6 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/veiculo-da-prefeitura-de-cardoso-se-envolve-em-colisao-no-trevo-de-alvares-florence/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:36",
-"t": "Cerimônia no Teatro Municipal de Fernandópolis premia talentos do 21º Concurso Literário Filhos da Terra",
-"p": "A noite desta quinta-feira foi marcada pela entrega dos prêmios da primeira etapa do 21º Concurso Literário Filhos da Terra, realizada no Teatro Municipal de Fernandópolis. O evento reuniu autoridades locais, educadores, familiares e estudantes para celebrar a produção textual das escolas das redes pública e…",
-"tema": "Educação",
-"s": "entregue",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/cerimonia-no-teatro-municipal-de-fernandopolis-premia-talentos-do-21o-concurso-literario-filhos-da-terra/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:33",
-"t": "Shopping terá feirinha de Natal com artesanato, gastronomia e atrações gratuitas",
-"p": "Feirinha de Natal será realizado em seis dias de novembro, com opções de presentes, brinquedos infantis e programação especial para toda a família; veja as datas",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/shopping-tera-feirinha-de-natal-com-artesanato-gastronomia-e-atracoes-gratuitas/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:31",
-"t": "Obras na Padre Manoel da Nóbrega interditam marginal em Praia Grande",
-"p": "Recuperação de 10,8km de pavimento começa nesta sexta-feira (6), no bairro Samambaia, com bloqueios temporários em trechos da marginal",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Praia Grande"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/obras-na-padre-manoel-da-nobrega-interditam-marginal-em-praia-grande.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:30",
-"t": "Pé-de-Meia Universitário: estudantes poderão acumular R$ 10 mil e receber bolsa de R$ 700",
-"p": "Estudantes de baixa renda que ingressarem no ensino superior público poderão contar com um novo incentivo financeiro do Governo Federal a partir de 2027. O Ministério da Educação (MEC) anunciou a criação do Pé-de-Meia Universitário, modalidade que prevê o pagamento de uma bolsa de R$ 700 por mês e a formação de uma…",
-"tema": "Educação",
-"s": "anunciado",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/pe-de-meia-universitario-estudantes-poderao-acumular-r-10-mil-e-receber-bolsa-de-r-700/",
 "auto": true
 }
 ]

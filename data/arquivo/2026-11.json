@@ -3,6 +3,46 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "15:45",
+"t": "Escola de samba de São Paulo abre inscrições gratuitas para desfilar no Carnaval 2027, oferece fantasia sem custo e realiza ensaios em endereço mais acessível",
+"p": "A Estrela do Terceiro Milênio, escola de samba do Grajaú, na zona sul de São Paulo, está com inscrições abertas para uma nova ala que pretende facilitar a participação de foliões de outras regiões da capital no Carnaval 2027. A agremiação oferece inscrições e fantasias gratuitas, com ensaios aos domingos, às 15h,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/escola-de-samba-de-sao-paulo-abre-inscricoes-gratuitas-para-desfilar-no-carnaval-2027-oferece-fantasia-sem-custo-e-realiza-ensaios-em-endereco-mais-acessivel/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "15:18",
+"t": "Advogado é condenado por chamar porteiro de hospital de \"macaco\" e \"negão\"",
+"p": "Discussão começou após funcionário impedir que o advogado entrasse em hospital de Lins sem máscara e portando sacola com frutas",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Lins"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/advogado-e-condenado-por-chamar-porteiro-de-hospital-de-macaco-e-negao",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "15:00",
+"t": "Prefeita de Várzea Grande (PL-MT) manda pai ‘rezar para alguém morrer’ por vaga em UTI e ameaça processar denunciante",
+"p": "A prefeita de Várzea Grande (MT), Flávia Moretti (PL), gerou forte repercussão negativa ao relatar que orientou um pai em busca de vaga na Unidade de Terapia Intensiva (UTI) a “rezar para alguém morrer” ou receber alta. A declaração ocorreu em entrevista na quinta-feira (19/11), e o caso ganhou ainda mais…",
+"tema": "Política",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/prefeita-de-varzea-grande-pl-mt-manda-pai-rezar-para-alguem-morrer-por-vaga-em-uti-e-ameaca-processar-denunciante/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "14:33",
 "t": "Ensaios técnicos do Carnaval 2027 em São Paulo começam em dezembro no Anhembi com entrada gratuita; veja datas e horários das 32 escolas de samba",
 "p": "Faltam menos de 30 dias para o início dos ensaios técnicos do Carnaval 2027 em São Paulo. A programação começa em 19 de dezembro, no Sambódromo do Anhembi, na zona norte da Capital, e segue até 24 de janeiro, reunindo as 32 escolas de samba filiadas à Liga Independente das Escolas de Samba de São […]",
@@ -80,6 +120,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/contrato-de-r-330-milhoes-com-comprador-nao-revelado-ganha-atencao-apos-avioes-militares-do-catar-fazerem-quatro-viagens-ao-brasil-em-60-dias/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:45",
+"t": "Aviões militares do Catar fazem 4 voos ao Viracopos em 60 dias e contrato de R$ 330 milhões com comprador não revelado chama atenção",
+"p": "Acordo da Mac Jee para fornecimento de munições a uma força aérea estrangeira desperta interesse após operações de cargueiros militares no aeroporto de Viracopos",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/avioes-militares-do-catar-fazem-4-voos-ao-viracopos-em-60-dias-e-contrato-de-r-330-milhoes-com-comprador-nao-revelado-chama-atencao/",
 "auto": true
 },
 {
