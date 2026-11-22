@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T10:02:04-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-22T11:03:53-03:00",
+"novos_nesta_coleta": 21,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,173 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "11:00",
+"t": "Fuga de dupla em São Bernardo termina com um morto e outro ferido",
+"p": "Um agente de segurança da GCM (Guarda Civil Metropolitana) ficou ferido depois de ser atropelado na ocorrência",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370121/fuga-de-dupla-em-sao-bernardo-termina-com-um-morto-e-outro-ferido",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:59",
+"t": "Chuva forte em SP: Defesa Civil alerta para temporais até terça-feira (24)",
+"p": "Foto: Agência SP Chuva forte em SP coloca cidades em alerta até terça-feira (24). Previsão indica ventos de 60 km/h, raios, granizo e risco de alagamentos.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/chuva-forte-sp-alerta-defesa-civil/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:56",
+"t": "Chuvas e ventos causam estragos, feridos e interdições em Aparecida e outras cidades paulistas",
+"p": "A Defesa Civil do Estado de São Paulo enviou ajuda humanitária a Aparecida após o temporal acompanhado de fortes rajadas de vento que atingiu o município na sexta-feira (20). O mau tempo provocou pontos de alagamento, queda de árvores, deslizamentos de terra e danos em estruturas, deixando seis pessoas desalojadas…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/chuvas-e-ventos-causam-estragos-feridos-e-interdicoes-em-aparecida-e-outras-cidades-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:55",
+"t": "Homem é ferido na cabeça com golpe de faca após desentendimento",
+"p": "Vítima deu entrada na UPA Norte e foi encaminhada ao Hospital de Base; ocorrência foi registrada neste sábado (21) no bairro Solo Sagrado",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-ferido-na-cabeca-com-golpe-de-faca-apos-desentendimento-com-enteado-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:41",
+"t": "Palmeirense morre após importunar atendente de hotel e queimar segurança",
+"p": "Marco Aurélio Pereira foi empurrado e caiu com a cabeça no chão após discussão em hotel na zona oeste de São Paulo neste domingo (22/11)",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/palmeirense-morre-apos-importunar-atendente-de-hotel-e-queimar-seguranca",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:41",
+"t": "Ações da Polícia Militar resultam na prisão de três pessoas e apreensão de drogas",
+"p": "Três ocorrências distintas atendidas pela Polícia Militar no município de Guararapes, no noroeste paulista, resultaram na prisão de três suspeitos, na apreensão de grande quantidade de entorpecentes e na recuperação de um aparelho celular furtado. As ações policiais ocorreram em diferentes bairros da cidade. Em um…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guararapes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/acoes-da-policia-militar-resultam-na-prisao-de-tres-pessoas-e-apreensao-de-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:40",
+"t": "Homem é preso com revólver após fazer ameaças e atirar contra casa de familiar",
+"p": "Um homem foi preso em flagrante pela Polícia Militar no município de Castilho, no interior de São Paulo, após uma ocorrência marcada por ameaças de morte, disparos de arma de fogo e porte ilegal de armamento. A ação teve início quando os policiais foram acionados pelo telefone de emergência 190 para atender a um…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Castilho"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-com-revolver-apos-fazer-ameacas-e-atirar-contra-casa-de-familiar/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:40",
+"t": "Menina atropelada por moto em Votuporanga passa por cirurgia no cérebro em Rio Preto e tem evolução positiva",
+"p": "A pequena Laura Helena Bronzati Martins, de Votuporanga, passou com sucesso por uma cirurgia neurológica nesta sexta-feira (20), no Hospital da Criança e Maternidade (HCM), em São José do Rio Preto. A menina está internada em estado grave após ser atropelada por uma motocicleta na tarde de quinta-feira (19). De…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/menina-atropelada-por-moto-em-votuporanga-passa-por-cirurgia-no-cerebro-em-rio-preto-e-tem-evolucao-positiva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:37",
+"t": "Suspeito de furto entra em luta corporal com policial e tenta pegar arma em supermercado",
+"p": "Um homem foi preso pela Polícia Militar após tentar furtar produtos de um supermercado e entrar em luta corporal com um policial no bairro Jardim Mercedes, em Pereira Barreto, no interior de São Paulo. Durante a ação, o suspeito também foi flagrado com porções de droga e acabou autuado por furto, resistência e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Pereira Barreto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/suspeito-de-furto-entra-em-luta-corporal-com-policial-e-tenta-pegar-arma-em-supermercado/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:36",
+"t": "‘O sistema financeiro não vai me ensinar a dirigir o Brasil’, diz Lula",
+"p": "Foto: Ricardo Stuckert/PR Lula defende ajuste fiscal, rebate críticas do mercado financeiro e afirma que não haverá cortes em programas sociais. Veja o que muda.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/ajuste-fiscal-lula/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:35",
+"t": "Homem é preso por tráfico de drogas e violência doméstica após investir contra policiais",
+"p": "Um homem foi preso em flagrante pela Polícia Militar no município de Luiziânia, no interior de São Paulo, após protagonizar uma ocorrência que envolveu violência doméstica, tráfico de drogas, ameaças e resistência à abordagem policial. A equipe foi mobilizada para atender a um chamado de emergência relatando que o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Luiziânia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-por-trafico-de-drogas-e-violencia-domestica-apos-investir-contra-policiais/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:18",
+"t": "Após enfrentar dificuldades para transportar a sogra com Alzheimer, empreendedora virou motorista de app e criou um serviço especializado em mobilidade para pessoas idosas",
+"p": "Atendimento inclui deslocamentos para consultas médicas, compras e passeios, além de acompanhamento personalizado e profissionais capacitados",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/apos-enfrentar-dificuldades-para-transportar-a-sogra-com-alzheimer-empreendedora-virou-motorista-de-app-e-criou-um-servico-especializado-em-mobilidade-para-pessoas-idosas/",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "09:52",
@@ -174,6 +341,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/ubatuba/ubatuba-promove-palestra-sobre-el-nino-e-perspectivas-climaticas-para-2026-e-2027.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "08:38",
+"t": "Volta do feriadão já provoca mais de 20 km de lentidão na Anchieta e Imigrantes e motoristas devem enfrentar trânsito intenso até a meia-noite",
+"p": "O descanso do feriado prolongado da Consciência Negra está chegando ao fim, mas a volta para casa já exige paciência dos motoristas. Na manhã deste domingo (22), as rodovias Anchieta e Imigrantes somavam 21 quilômetros de lentidão no sentido São Paulo, enquanto a Interligação Planalto permanecia bloqueada nos dois…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/volta-do-feriadao-ja-provoca-mais-de-20-km-de-lentidao-na-anchieta-e-imigrantes-e-motoristas-devem-enfrentar-transito-intenso-ate-a-meia-noite/",
 "auto": true
 },
 {
@@ -54846,188 +55025,6 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/hbu-promove-capacitacao-em-oratoria-para-desenvolver-habilidades-de-lideranca/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "12:32",
-"t": "Quintana compartilha modelo de acolhimento familiar adotado no município",
-"p": "Município foi convidado a compartilhar metodologia de atendimento em evento realizado em Macatuba; programa registra 85% de retorno às famílias de origem.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Macatuba",
-"Quintana"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/quintana-compartilha-modelo-de-acolhimento-familiar-adotado-no-municipio/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "12:28",
-"t": "Consultório Veterinário Móvel atenderá no Jardim Maria Eugênia na próxima semana",
-"p": "Na próxima semana, de 9 a 13 de novembro, das 8h30 às 14h, o Consultório Veterinário Móvel atenderá cães e gatos de tutores de Sorocaba no Centro Esportivo “Francisco Lisboa”, localizado na Rua Dante Trevisan, 199, no Jardim Maria Eugênia. As vagas são limitadas e as inscrições devem ser feitas pelo link:…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/consultorio-veterinario-movel-atendera-no-jardim-maria-eugenia-na-proxima-semana/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "12:23",
-"t": "Mostra de saúde em São Bernardo reúne 88 trabalhos",
-"p": "Evento termina nesta sexta-feira (6), na Faculdade de Direito, com a premiação de dez iniciativas desenvolvidas por profissionais da rede municipal",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367277/mostra-de-saude-em-sao-bernardo-reune-88-trabalhos",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "12:20",
-"t": "Taubaté Expo Rodeo terá seis noites de shows e programação agropecuária",
-"p": "Shows acontecem de 20 a 22 e de 27 a 29 de novembro. A edição também prevê provas equestres e exposição de animais.",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"Taubaté"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/taubate-expo-rodeo-programacao-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "12:20",
-"t": "Cinco terminais terão frota extra de ônibus para o Enem neste domingo; veja quais",
-"p": "Emdec vai reforçar a frota de ônibus em cinco terminais da cidade neste domingo (8) e no próximo (15), para atender candidatos que farão o exame",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/cinco-terminais-terao-frota-extra-de-onibus-para-o-enem-neste-domingo-veja-quais-2/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "12:19",
-"t": "GCM de Sorocaba prende homem por tráfico de drogas no bairro Terras de Arieta",
-"p": "A Guarda Civil Municipal (GCM) de Sorocaba prendeu em flagrante um homem de 20 anos de idade, por tráfico de drogas, na manhã de quarta-feira (4), durante patrulhamento preventivo no bairro Terras de Arieta, Zona Leste da cidade. Com ele foram apreendidas 160 porções de entorpecentes. Por volta das 9h, nas…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-de-sorocaba-prende-homem-por-trafico-de-drogas-no-bairro-terras-de-arieta/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "12:06",
-"t": "Oficina de pintura com stencil é atração gratuita nas Bibliotecas Municipais",
-"p": "Os munícipes poderão participar da oficina de pintura com stencil nas Bibliotecas Municipais de Sorocaba. Na próxima quarta-feira (11), às 14h30, a atração será levada à Biblioteca Infantil Municipal “Renato Sêneca de Sá Fleury”. Já na sexta-feira (13), às 14h30, a programação acontecerá na Biblioteca Municipal…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/oficina-de-pintura-com-stencil-e-atracao-gratuita-nas-bibliotecas-municipais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "12:02",
-"t": "5 cuidados para evitar vendas perdidas por cartão recusado",
-"p": "As compras remotas com cartões movimentaram R$ 633 bilhões no primeiro semestre de 2026, alta de 18% em relação ao mesmo período do ano anterior, segundo a Associação Brasileira das Empresas de Cartões de Crédito e Serviços (Abecs). Com a expansão dessas operações, acompanhar o que acontece entre o aceite da…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/5-cuidados-para-evitar-vendas-perdidas-por-cartao-recusado/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:53",
-"t": "Bismarck é morto a tiros após discussão em bar de Natal; ex-meia do Fortaleza tinha 36 anos e contrato fechado para 2027",
-"p": "O jogador Bismarck, de 36 anos, morreu na madrugada desta sexta-feira (6/11), após ser alvo de tiros em um bar em Natal, no Rio Grande do Norte. Apesar de ter sido socorrido e levado ao Hospital Monsenhor Walfredo Gurgel, o atleta não resistiu aos graves ferimentos. O crime aconteceu no bairro Cidade Alta. Segundo…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/esportes/bismarck-e-morto-a-tiros-apos-discussao-em-bar-de-natal-ex-meia-do-fortaleza-tinha-36-anos-e-contrato-fechado-para-2027/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:53",
-"t": "Hotel em São Paulo entra no clima do GP com exposição sobre o automobilismo",
-"p": "Mostra no JW Marriott Hotel São Paulo reúne criações da SID Special Paint, fotografias de Zé Mário e obras do artista plástico Ricardo Barbour; visitação segue até 10 de novembro",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367266/hotel-em-sao-paulo-entra-no-clima-do-gp-com-exposicao-sobre-o-automobilismo",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:50",
-"t": "Governo de SP destina recursos para obras contra enchentes em 10 cidades da região",
-"p": "Na região, dez cidades terão novos convênios para obras de drenagem, pontes e contenção de encostas",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/governo-de-sp-destina-recursos-para-obras-contra-enchentes-em-10-cidades-da-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:48",
-"t": "Marília renova frota do Espaço Potencial com vans climatizadas para crianças",
-"p": "Veículos climatizados vão atender 260 crianças; nova frota substitui três ônibus e terá identificação numérica para facilitar a rotina dos atendidos.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-renova-frota-do-espaco-potencial-com-vans-climatizadas-para-criancas/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:45",
-"t": "Homem mata companheira com golpes de enxada na cabeça e confessa crime a dono de bar em São Paulo; Justiça fixa pena em 24 anos de prisão",
-"p": "Um homem foi condenado a 24 anos de prisão pelo feminicídio da companheira, em Leme, no interior de São Paulo. A decisão foi tomada pelo Tribunal do Júri, que estabeleceu o cumprimento da pena em regime inicial fechado. O réu não poderá recorrer em liberdade. Segundo os autos do processo, o casal vivia em união […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo",
-"Leme"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/homem-mata-companheira-com-golpes-de-enxada-na-cabeca-e-confessa-crime-a-dono-de-bar-em-sao-paulo-justica-fixa-pena-em-24-anos-de-prisao/",
 "auto": true
 }
 ]
