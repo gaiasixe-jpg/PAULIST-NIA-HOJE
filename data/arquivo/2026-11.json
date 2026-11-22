@@ -2,6 +2,48 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-22",
+"h": "00:33",
+"t": "Mãe e filha vítimas de acidente entre caminhonetes na BR-153 serão veladas e enterradas juntas",
+"p": "Mãe e filha que morreram em acidente na BR-153, no interior de SP, serão sepultadas no domingo (22) Polícia Rodoviária Federal/Redes Sociais/Reprodução O sepultamento de mãe e filha que morreram em uma batida frontal entre duas caminhonetes, na Rodovia Transbrasiliana (BR-153), em José Bonifácio, na sexta-feira…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"José Bonifácio"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mae-e-filha-vitimas-de-acidente-entre-caminhonetes-na-br-153-serao-veladas-e-enterradas-juntas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "00:33",
+"t": "Mulher é encontrada morta dentro de piscina em Birigui",
+"p": "Plantão Policial de Birigui (SP) TV TEM/Arquivo A Polícia Civil investiga a morte de uma mulher de 47 anos encontrada afogada dentro de uma piscina em uma fazenda em Birigui (SP), na tarde desta sexta-feira (20). A vítima foi identificada como Ednatal Gomes. De acordo com o boletim de ocorrência, a mulher estava na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-e-encontrada-morta-dentro-de-piscina-em-birigui/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "00:33",
+"t": "Aposentada perde mais de R$ 7 mil em golpe do falso cancelamento de cartão em Rio Preto",
+"p": "Central de Flagrantes de Rio Preto (SP) Madelyne Boer/TV TEM Uma aposentada de 56 anos perdeu R$ 7.366 em um golpe aplicado por telefone e aplicativo de mensagens em São José do Rio Preto (SP). O caso foi registrado como estelionato pela Polícia Civil na tarde da sexta-feira (20), cerca de um mês após as […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/aposentada-perde-mais-de-r-7-mil-em-golpe-do-falso-cancelamento-de-cartao-em-rio-preto/",
+"auto": true
+},
+{
 "d": "2026-11-21",
 "h": "22:51",
 "t": "Bicho-preguiça retorna à natureza um mês após resgate às margens de rodovia",

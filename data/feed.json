@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T23:20:00-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-22T01:00:12-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -22,7 +22,6 @@
 "Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
-"Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
@@ -47,9 +46,55 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Região Noroeste",
+"erro": "The read operation timed out"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "00:33",
+"t": "Mãe e filha vítimas de acidente entre caminhonetes na BR-153 serão veladas e enterradas juntas",
+"p": "Mãe e filha que morreram em acidente na BR-153, no interior de SP, serão sepultadas no domingo (22) Polícia Rodoviária Federal/Redes Sociais/Reprodução O sepultamento de mãe e filha que morreram em uma batida frontal entre duas caminhonetes, na Rodovia Transbrasiliana (BR-153), em José Bonifácio, na sexta-feira…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"José Bonifácio"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mae-e-filha-vitimas-de-acidente-entre-caminhonetes-na-br-153-serao-veladas-e-enterradas-juntas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "00:33",
+"t": "Mulher é encontrada morta dentro de piscina em Birigui",
+"p": "Plantão Policial de Birigui (SP) TV TEM/Arquivo A Polícia Civil investiga a morte de uma mulher de 47 anos encontrada afogada dentro de uma piscina em uma fazenda em Birigui (SP), na tarde desta sexta-feira (20). A vítima foi identificada como Ednatal Gomes. De acordo com o boletim de ocorrência, a mulher estava na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-e-encontrada-morta-dentro-de-piscina-em-birigui/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "00:33",
+"t": "Aposentada perde mais de R$ 7 mil em golpe do falso cancelamento de cartão em Rio Preto",
+"p": "Central de Flagrantes de Rio Preto (SP) Madelyne Boer/TV TEM Uma aposentada de 56 anos perdeu R$ 7.366 em um golpe aplicado por telefone e aplicativo de mensagens em São José do Rio Preto (SP). O caso foi registrado como estelionato pela Polícia Civil na tarde da sexta-feira (20), cerca de um mês após as […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/aposentada-perde-mais-de-r-7-mil-em-golpe-do-falso-cancelamento-de-cartao-em-rio-preto/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "22:51",
@@ -54982,46 +55027,6 @@
 ],
 "src": "Jornal Ita News",
 "u": "https://jornalitanews.com.br/trafico-capao-bonito-5/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:13",
-"t": "Por que o lago do Parque das Artes está passando por obras? Entenda o serviço",
-"p": "Serviço de desassoreamento do lago do Parque das Artes, em Ribeirão Preto, deve seguir até janeiro",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/por-que-o-lago-do-parque-das-artes-esta-passando-por-obras-entenda-o-servico/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:11",
-"t": "Operação Running: Polícia Civil prende cinco suspeitos de envolvimento em roubo e sequestro de vereador",
-"p": "A Polícia Civil do Estado de São Paulo deflagrou, na manhã desta sexta-feira (6), a Operação “Running”, com o objetivo de cumprir mandados judiciais e prender integrantes de um grupo criminoso investigado pelo roubo e sequestro de um vereador de Itapeva. A ação foi coordenada pela Delegacia de Investigações Gerais…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/operacao-running/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:11",
-"t": "Poluição por lixo plástico altera a cor da água do mar e cientistas alertam para riscos de contaminação em escala global",
-"p": "Uma vasta extensão de água ao largo da costa do Oceano Pacífico, entre o Havaí e a Califórnia, mudou de cor ao longo das últimas décadas e passou a exibir tons mais azuis e verdes. Segundo reportagem da CNN, cientistas descobriram que o aumento da poluição plástica pode ser a razão preocupante para essa mudança. […]",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/poluicao-por-lixo-plastico-altera-a-cor-da-agua-do-mar-e-cientistas-alertam-para-riscos-de-contaminacao-em-escala-global/",
 "auto": true
 }
 ]
