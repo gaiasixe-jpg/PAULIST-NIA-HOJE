@@ -3,6 +3,156 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "11:55",
+"t": "Ex-presidente Jair Bolsonaro segue internado no Distrito Federal",
+"p": "Segundo o boletim médico divulgado pelo hospital, foram iniciadas medidas clínicas como hidratação, manutenção do jejum oral com suporte nutricional e passagem de sonda gástrica",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/ex-presidente-jair-bolsonaro-segue-internado-no-df/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:48",
+"t": "109 mil estudantes do 5º ano do Ensino Fundamental fazem a prova do Saresp na segunda-feira (23)",
+"p": "Os 109 mil estudantes matriculados em 1.300 escolas que oferecem o 5º ano do Ensino Fundamental da rede estadual participam nesta segunda-feira (23) da prova do Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) 2026. A aplicação será no formato impresso e reunirá, em dia único, questões dos…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/109-mil-estudantes-do-5o-ano-do-ensino-fundamental-fazem-a-prova-do-saresp-na-segunda-feira-23/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:48",
+"t": "Ônibus SP Por Todas leva atendimento gratuito às mulheres de Flórida Paulista nesta semana",
+"p": "O Governo do Estado de São Paulo leva o Ônibus SP Por Todas à cidade de Flórida Paulista, no interior de São Paulo. O equipamento estará no município nos dias 23 e 24 de novembro, oferecendo atendimento gratuito às mulheres da região. Durante os dois dias, o público feminino terá acesso a acolhimento psicológico e […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Flórida Paulista"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/onibus-sp-por-todas-leva-atendimento-gratuito-as-mulheres-de-florida-paulista-nesta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:48",
+"t": "Árvores desenvolveram madeira mais densa com redução da poluição na pandemia, mostra estudo",
+"p": "A redução do trânsito de veículos durante a pandemia de Covid-19 deixou marcas nas árvores de São Paulo. Pesquisadores do Centro de Energia Nuclear na Agricultura (Cena), da USP e de outras instituições brasileiras e chilenas identificaram alterações na composição química e na densidade da madeira de árvores…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/arvores-desenvolveram-madeira-mais-densa-com-reducao-da-poluicao-na-pandemia-mostra-estudo/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:48",
+"t": "Defesa Civil de SP destina ajuda humanitária a Aparecida e monitora ocorrências das chuvas no estado",
+"p": "A Defesa Civil do Estado de São Paulo disponibilizou ajuda humanitária ao município de Aparecida após as fortes chuvas acompanhadas de rajadas de vento que atingiram a cidade na sexta-feira (20). Foram registrados pontos de alagamento, quedas de árvores e deslizamentos de terra, além de danos em estruturas. Seis…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-de-sp-destina-ajuda-humanitaria-a-aparecida-e-monitora-ocorrencias-das-chuvas-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:41",
+"t": "Clínica que postou vídeo de blackface será investigada por injúria racial",
+"p": "Polícia Civil de Leme, no interior de São Paulo, instaurou inquérito para apurar publicação nas redes sociais considerada racista",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Leme"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/clinica-que-postou-video-de-blackface-sera-investigada-por-injuria-racial",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:39",
+"t": "Abastecimento de água no Nove de Julho, em Mogi, será suspenso a partir de segunda (23) para manutenção do Semae",
+"p": "Serviço está previsto para terminar às 22h de quarta-feira (25), com normalização durante a madrugada e a manhã de quinta-feira (26)",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/abastecimento-de-agua-no-nove-de-julho-em-mogi-sera-suspenso-a-partir-de-segunda-23-para-manutencao-do-semae/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:25",
+"t": "Itupeva realiza 6º Concurso Miss Beleza Negra em noite de celebração à cultura afro-brasileira",
+"p": "Foto: Prefeitura de Itupeva Miss Beleza Negra 2026 em Itupeva elege Vanessa Faganeli e Rafaela Carvalho em evento com dez candidatas e atrações culturais.",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/miss-beleza-negra-2026-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:12",
+"t": "‘Cerveja na Barão’ deixa a Praça da Matriz e terá edição especial com atrações internacionais no Parque da Uva",
+"p": "Foto: Prefeitura de Jundiaí Evento terá shows da Banda Flash Beat e do grupo espanhol El Nido, além de cervejas artesanais, gastronomia e estacionamento no local.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/cerveja-na-barao-parque-da-uva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:11",
+"t": "Anchieta e Imigrantes têm quase 30 km de lentidão na volta do feriado",
+"p": "Cerca de 318 mil veículos são esperados pelas rodovias sob concessão da Ecovias Imigrantes; domingo (22/11) deve ser o dia mais movimentado",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/anchieta-e-imigrantes-tem-quase-30-km-de-lentidao-na-volta-do-feriado",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:07",
+"t": "Prefeitura de Ribeirão Preto abre inscrições para cadastro de atividades do Carnaval 2027",
+"p": "Inscrições para o cadastro de atividades do Carnaval 2027 em Ribeirão Preto vão até 13 de dezembro",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/prefeitura-de-ribeirao-preto-abre-inscricoes-para-cadastro-de-atividades-do-carnaval-2027/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "11:00",
 "t": "Fuga de dupla em São Bernardo termina com um morto e outro ferido",
 "p": "Um agente de segurança da GCM (Guarda Civil Metropolitana) ficou ferido depois de ser atropelado na ocorrência",
@@ -83,6 +233,20 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/acoes-da-policia-militar-resultam-na-prisao-de-tres-pessoas-e-apreensao-de-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:41",
+"t": "Torcedor morre após importunar atendente de hotel e queimar segurança",
+"p": "Marco Aurélio Pereira foi empurrado e caiu com a cabeça no chão após discussão em hotel na zona oeste de São Paulo neste domingo (22/11)",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/torcedor-morre-apos-importunar-atendente-de-hotel-e-queimar-seguranca",
 "auto": true
 },
 {
