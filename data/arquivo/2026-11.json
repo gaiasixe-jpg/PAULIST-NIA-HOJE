@@ -17,6 +17,91 @@
 },
 {
 "d": "2026-11-22",
+"h": "18:58",
+"t": "Homem é preso por tráfico de drogas e violência doméstica após investir contra policiais",
+"p": "Um homem foi preso em flagrante pela Polícia Militar no município de Luiziânia, no interior de São Paulo, após protagonizar uma ocorrência que envolveu violência doméstica, tráfico de drogas, ameaças e resistência à abordagem policial. A equipe foi mobilizada para atender a um chamado de emergência relatando que o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Luiziânia"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-preso-por-trafico-de-drogas-e-violencia-domestica-apos-investir-contra-policiais/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Suspeito de furto entra em luta corporal com policial e tenta pegar arma em supermercado",
+"p": "Um homem foi preso pela Polícia Militar após tentar furtar produtos de um supermercado e entrar em luta corporal com um policial no bairro Jardim Mercedes, em Pereira Barreto, no interior de São Paulo. Durante a ação, o suspeito também foi flagrado com porções de droga e acabou autuado por furto, resistência e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Pereira Barreto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/suspeito-de-furto-entra-em-luta-corporal-com-policial-e-tenta-pegar-arma-em-supermercado/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Menina atropelada por moto em Votuporanga passa por cirurgia no cérebro em Rio Preto e tem evolução positiva",
+"p": "A pequena Laura Helena Bronzati Martins, de Votuporanga, passou com sucesso por uma cirurgia neurológica nesta sexta-feira (20), no Hospital da Criança e Maternidade (HCM), em São José do Rio Preto. A menina está internada em estado grave após ser atropelada por uma motocicleta na tarde de quinta-feira (19). De…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Votuporanga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/menina-atropelada-por-moto-em-votuporanga-passa-por-cirurgia-no-cerebro-em-rio-preto-e-tem-evolucao-positiva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Homem é preso com revólver após fazer ameaças e atirar contra casa de familiar",
+"p": "Um homem foi preso em flagrante pela Polícia Militar no município de Castilho, no interior de São Paulo, após uma ocorrência marcada por ameaças de morte, disparos de arma de fogo e porte ilegal de armamento. A ação teve início quando os policiais foram acionados pelo telefone de emergência 190 para atender a um…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Castilho"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-preso-com-revolver-apos-fazer-ameacas-e-atirar-contra-casa-de-familiar/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Ações da Polícia Militar resultam na prisão de três pessoas e apreensão de drogas",
+"p": "Três ocorrências distintas atendidas pela Polícia Militar no município de Guararapes, no noroeste paulista, resultaram na prisão de três suspeitos, na apreensão de grande quantidade de entorpecentes e na recuperação de um aparelho celular furtado. As ações policiais ocorreram em diferentes bairros da cidade. Em um…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guararapes"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/acoes-da-policia-militar-resultam-na-prisao-de-tres-pessoas-e-apreensao-de-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:52",
+"t": "Defesa Civil emite alerta severo para chuva, raios e vento se espalhando pelas zonas central e leste de São Paulo neste domingo",
+"p": "A Defesa Civil emitiu neste domingo (22/11) um alerta severo para chuva forte se espalhando pelas zonas centra e leste de São Paulo. O aviso emergencial, disparado diretamente para os celulares da região, também abrange os municípios vizinhos da Grande SP. Segundo a mensagem oficial do órgão, o temporal vem…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/defesa-civil-emite-alerta-severo-para-chuva-raios-e-vento-se-espalhando-pelas-zonas-central-e-leste-de-sao-paulo-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "18:45",
 "t": "Alerta severo: Cidade de SP entra em estado de atenção para alagamentos",
 "p": "Celulares de várias áreas da capital receberam um \"alerta severo\" da Defesa Civil neste domingo (22/11) para chuvas com raios e granizo",

@@ -1,19 +1,22 @@
 {
-"atualizado": "2026-11-22T19:52:15-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-22T20:51:33-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
+"Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
@@ -25,13 +28,9 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
-{
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -41,24 +40,16 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Diário do Litoral",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Informa Noroeste",
-"erro": "<urlopen error timed out>"
 },
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
@@ -74,6 +65,91 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/motociclista-fica-gravemente-ferido-apos-queda-na-john-boyd-dunlop/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Homem é preso por tráfico de drogas e violência doméstica após investir contra policiais",
+"p": "Um homem foi preso em flagrante pela Polícia Militar no município de Luiziânia, no interior de São Paulo, após protagonizar uma ocorrência que envolveu violência doméstica, tráfico de drogas, ameaças e resistência à abordagem policial. A equipe foi mobilizada para atender a um chamado de emergência relatando que o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Luiziânia"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-preso-por-trafico-de-drogas-e-violencia-domestica-apos-investir-contra-policiais/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Suspeito de furto entra em luta corporal com policial e tenta pegar arma em supermercado",
+"p": "Um homem foi preso pela Polícia Militar após tentar furtar produtos de um supermercado e entrar em luta corporal com um policial no bairro Jardim Mercedes, em Pereira Barreto, no interior de São Paulo. Durante a ação, o suspeito também foi flagrado com porções de droga e acabou autuado por furto, resistência e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Pereira Barreto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/suspeito-de-furto-entra-em-luta-corporal-com-policial-e-tenta-pegar-arma-em-supermercado/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Menina atropelada por moto em Votuporanga passa por cirurgia no cérebro em Rio Preto e tem evolução positiva",
+"p": "A pequena Laura Helena Bronzati Martins, de Votuporanga, passou com sucesso por uma cirurgia neurológica nesta sexta-feira (20), no Hospital da Criança e Maternidade (HCM), em São José do Rio Preto. A menina está internada em estado grave após ser atropelada por uma motocicleta na tarde de quinta-feira (19). De…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Votuporanga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/menina-atropelada-por-moto-em-votuporanga-passa-por-cirurgia-no-cerebro-em-rio-preto-e-tem-evolucao-positiva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Homem é preso com revólver após fazer ameaças e atirar contra casa de familiar",
+"p": "Um homem foi preso em flagrante pela Polícia Militar no município de Castilho, no interior de São Paulo, após uma ocorrência marcada por ameaças de morte, disparos de arma de fogo e porte ilegal de armamento. A ação teve início quando os policiais foram acionados pelo telefone de emergência 190 para atender a um…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Castilho"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-preso-com-revolver-apos-fazer-ameacas-e-atirar-contra-casa-de-familiar/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:58",
+"t": "Ações da Polícia Militar resultam na prisão de três pessoas e apreensão de drogas",
+"p": "Três ocorrências distintas atendidas pela Polícia Militar no município de Guararapes, no noroeste paulista, resultaram na prisão de três suspeitos, na apreensão de grande quantidade de entorpecentes e na recuperação de um aparelho celular furtado. As ações policiais ocorreram em diferentes bairros da cidade. Em um…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guararapes"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/acoes-da-policia-militar-resultam-na-prisao-de-tres-pessoas-e-apreensao-de-drogas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:52",
+"t": "Defesa Civil emite alerta severo para chuva, raios e vento se espalhando pelas zonas central e leste de São Paulo neste domingo",
+"p": "A Defesa Civil emitiu neste domingo (22/11) um alerta severo para chuva forte se espalhando pelas zonas centra e leste de São Paulo. O aviso emergencial, disparado diretamente para os celulares da região, também abrange os municípios vizinhos da Grande SP. Segundo a mensagem oficial do órgão, o temporal vem…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/defesa-civil-emite-alerta-severo-para-chuva-raios-e-vento-se-espalhando-pelas-zonas-central-e-leste-de-sao-paulo-neste-domingo/",
 "auto": true
 },
 {
@@ -54924,90 +55000,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/mundo/milei-paraguaio-ex-senador-payo-cubas-e-expulso-por-manifestantes-durante-protesto-contra-o-governo-de-santiago-pena/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:00",
-"t": "Obras na Alemoa Industrial chegam a 98% e novo trecho é liberado",
-"p": "Divulgação Mais um trecho da Rua Augusto Scaraboto, na Alemoa Industrial, em Santos, foi liberado ao trânsito na terça-feira (3).",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/obras-na-alemoa-industrial-chegam-a-98-e-novo-trecho-e-liberado/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:00",
-"t": "Câmara de Mongaguá realiza audiência pública para discutir a Lei Orçamentária Anual de 2027",
-"p": "Divulgação A Câmara de Mongaguá realiza, na próxima quinta-feira (12), às 19 horas, uma Audiência Pública para apresentar e discutir a Lei Orçamentária Anual (LOA).",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Mongaguá"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/camara-de-mongagua-realiza-audiencia-publica-para-discutir-a-lei-orcamentaria-anual-de-2027/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:58",
-"t": "Guarda municipal é presa em operação contra venda irregular de medicamentos para emagrecer",
-"p": "Polícia Civil encontrou 15 ampolas de tirzepatida, substância presente no Mounjaro, além de produtos farmacêuticos de origem estrangeira e um revólver; Prefeitura de Amparo abriu sindicância para apurar o caso",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Amparo"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/guarda-municipal-e-presa-em-operacao-contra-venda-irregular-de-medicamentos-para-emagrecer/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:57",
-"t": "2º Festival da Pitanga acontece neste sábado (7) em Suzano; confira a programação",
-"p": "Evento tem entrada gratuita e reúne apresentações culturais, feira de artesanato e opções gastronômicas inspiradas na fruta",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Suzano"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/suzano/2o-festival-da-pitanga-acontece-neste-sabado-7-em-suzano-confira-a-programacao/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:45",
-"t": "Exposição “Criações e Reproduções – Impressões em Giz Pastel” está disponível no Pátio Cianê Shopping",
-"p": "Os munícipes já podem conferir a exposição “Criações e Reproduções – Impressões em Giz Pastel”, com obras da artista e escritora Rubiane Tegani, no Pátio Cianê Shopping. A mostra gratuita fica no Bloco B, Piso 2, até o dia 6 de dezembro. Realizada pela Secretaria de Cultura (Secult), da Prefeitura de Sorocaba, com…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/exposicao-criacoes-e-reproducoes-impressoes-em-giz-pastel-esta-disponivel-no-patio-ciane-shopping/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:30",
-"t": "Reforma do Centro de Saúde da Mulher avança em Bertioga",
-"p": "Intervenção de R$1 milhão na unidade do bairro Vista Linda inclui troca de telhado, piso, pintura e iluminação; previsão de entrega é para 2027",
-"tema": "Saúde",
-"s": "entregue",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/reforma-do-centro-de-saude-da-mulher-avanca-em-bertioga.html",
 "auto": true
 }
 ]
