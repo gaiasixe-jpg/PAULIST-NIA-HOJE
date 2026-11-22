@@ -3,6 +3,85 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "13:39",
+"t": "Estado de SP tem alerta para chuvas com vendaval e granizo até 3ª (24/11)",
+"p": "Defesa Civil reforça que tempestades são mais comuns no final da tarde e durante a noite e podem se formar mesmo em dias ensolarados",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/estado-de-sp-tem-alerta-para-chuvas-com-vendaval-e-granizo-ate-3a-24-11",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:36",
+"t": "Volta do feriadão tem mais de 20 km de lentidão na Anchieta e Imigrantes, e Operação Subida 2×8 muda o trânsito para quem retorna do litoral de SP",
+"p": "Esquema especial distribui oito faixas para os veículos que seguem em direção à capital paulista durante o retorno dos turistas",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/volta-do-feriadao-tem-mais-de-20-km-de-lentidao-na-anchieta-e-imigrantes-e-operacao-subida-2x8-muda-o-transito-para-quem-retorna-do-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:32",
+"t": "Projeto ‘Conhecendo Louveira’ leva 72 alunos a visitas educativas",
+"p": "Foto: Prefeitura de Louveira Iniciativa aproxima estudantes da agricultura de Louveira e oferece experiências práticas fora da sala de aula.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Louveira"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/louveira/projeto-conhecendo-louveira-alunos/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:15",
+"t": "Ponte de quase 30 km sobre o mar para trens de 350 km/h tem obras com mais de 90% de conclusão e pode bater recorde mundial na China em 2027",
+"p": "Ponte de quase 30 km na China",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/ponte-de-quase-30-km-sobre-o-mar-para-trens-de-350-km-h-tem-obras-com-mais-de-90-de-conclusao-e-pode-bater-recorde-mundial-na-china-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:09",
+"t": "Mogi-Bertioga tem tráfego normal, mas registra chuva na subida da serra na tarde deste domingo (22)",
+"p": "Fluxo segue normal nos trechos monitorados entre Mogi das Cruzes e Bertioga; tempo está nublado no litoral e tem pancadas de chuva na serra",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-trafego-normal-mas-registra-chuva-na-subida-da-serra-na-tarde-deste-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:00",
+"t": "Aposentadorias do INSS podem aumentar R$ 120 em 2027 com novo salário mínimo de R$ 1.741 e teto próximo de R$ 9 mil; veja quem terá direito",
+"p": "O ano de 2027 pode começar com uma boa notícia para milhões de aposentados e pensionistas brasileiros. Com a previsão de um novo reajuste do salário mínimo, os benefícios pagos pelo Instituto Nacional do Seguro Social (INSS) também deverão aumentar. A estimativa apresentada pelo governo federal indica que o piso…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/aposentadorias-do-inss-podem-aumentar-r-120-em-2027-com-novo-salario-minimo-de-r-1-741-e-teto-proximo-de-r-9-mil-veja-quem-tera-direito/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "12:51",
 "t": "Chuvas e ventos causam estragos, feridos e interdições em Aparecida e outras cidades paulistas",
 "p": "A Defesa Civil do Estado de São Paulo enviou ajuda humanitária a Aparecida após o temporal acompanhado de fortes rajadas de vento que atingiu o município na sexta-feira (20). O mau tempo provocou pontos de alagamento, queda de árvores, deslizamentos de terra e danos em estruturas, deixando seis pessoas desalojadas…",
@@ -99,6 +178,18 @@
 },
 {
 "d": "2026-11-22",
+"h": "12:30",
+"t": "Defesa Civil de SP reforça alerta para fortes chuvas até terça-feira (24)",
+"p": "As chuvas poderão ocorrer de forma irregular de forma leve, moderada e intensa na Região Metropolitana",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370122/defesa-civil-de-sp-reforca-alerta-para-fortes-chuvas-ate-terca-feira-24-",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "12:24",
 "t": "Resultado da Loteria Federal 6119-0: confira os bilhetes premiados deste domingo (22)",
 "p": "Concurso 6119-0 distribui R$1.596.102 em prêmios; bilhetes contemplados saíram em cidades de São Paulo e Minas Gerais",
@@ -109,6 +200,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/loterias/resultado-da-loteria-federal-6119-0-confira-os-bilhetes-premiados-deste-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:15",
+"t": "Hipopótamos de Pablo Escobar chegam a 260 na Colômbia, e governo mira eutanásia após animais se aproximarem de trajeto escolar das crianças",
+"p": "Hipopótamo de boca aberta",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/hipopotamos-de-pablo-escobar-chegam-a-260-na-colombia-e-governo-mira-eutanasia-apos-animais-se-aproximarem-de-trajeto-escolar-das-criancas/",
 "auto": true
 },
 {

@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T12:53:27-03:00",
-"novos_nesta_coleta": 26,
+"atualizado": "2026-11-22T13:55:06-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +46,92 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "13:39",
+"t": "Estado de SP tem alerta para chuvas com vendaval e granizo até 3ª (24/11)",
+"p": "Defesa Civil reforça que tempestades são mais comuns no final da tarde e durante a noite e podem se formar mesmo em dias ensolarados",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/estado-de-sp-tem-alerta-para-chuvas-com-vendaval-e-granizo-ate-3a-24-11",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:36",
+"t": "Volta do feriadão tem mais de 20 km de lentidão na Anchieta e Imigrantes, e Operação Subida 2×8 muda o trânsito para quem retorna do litoral de SP",
+"p": "Esquema especial distribui oito faixas para os veículos que seguem em direção à capital paulista durante o retorno dos turistas",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/volta-do-feriadao-tem-mais-de-20-km-de-lentidao-na-anchieta-e-imigrantes-e-operacao-subida-2x8-muda-o-transito-para-quem-retorna-do-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:32",
+"t": "Projeto ‘Conhecendo Louveira’ leva 72 alunos a visitas educativas",
+"p": "Foto: Prefeitura de Louveira Iniciativa aproxima estudantes da agricultura de Louveira e oferece experiências práticas fora da sala de aula.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Louveira"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/louveira/projeto-conhecendo-louveira-alunos/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:15",
+"t": "Ponte de quase 30 km sobre o mar para trens de 350 km/h tem obras com mais de 90% de conclusão e pode bater recorde mundial na China em 2027",
+"p": "Ponte de quase 30 km na China",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/ponte-de-quase-30-km-sobre-o-mar-para-trens-de-350-km-h-tem-obras-com-mais-de-90-de-conclusao-e-pode-bater-recorde-mundial-na-china-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:09",
+"t": "Mogi-Bertioga tem tráfego normal, mas registra chuva na subida da serra na tarde deste domingo (22)",
+"p": "Fluxo segue normal nos trechos monitorados entre Mogi das Cruzes e Bertioga; tempo está nublado no litoral e tem pancadas de chuva na serra",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-trafego-normal-mas-registra-chuva-na-subida-da-serra-na-tarde-deste-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:00",
+"t": "Aposentadorias do INSS podem aumentar R$ 120 em 2027 com novo salário mínimo de R$ 1.741 e teto próximo de R$ 9 mil; veja quem terá direito",
+"p": "O ano de 2027 pode começar com uma boa notícia para milhões de aposentados e pensionistas brasileiros. Com a previsão de um novo reajuste do salário mínimo, os benefícios pagos pelo Instituto Nacional do Seguro Social (INSS) também deverão aumentar. A estimativa apresentada pelo governo federal indica que o piso…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/aposentadorias-do-inss-podem-aumentar-r-120-em-2027-com-novo-salario-minimo-de-r-1-741-e-teto-proximo-de-r-9-mil-veja-quem-tera-direito/",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "12:51",
@@ -148,6 +230,18 @@
 },
 {
 "d": "2026-11-22",
+"h": "12:30",
+"t": "Defesa Civil de SP reforça alerta para fortes chuvas até terça-feira (24)",
+"p": "As chuvas poderão ocorrer de forma irregular de forma leve, moderada e intensa na Região Metropolitana",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370122/defesa-civil-de-sp-reforca-alerta-para-fortes-chuvas-ate-terca-feira-24-",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "12:24",
 "t": "Resultado da Loteria Federal 6119-0: confira os bilhetes premiados deste domingo (22)",
 "p": "Concurso 6119-0 distribui R$1.596.102 em prêmios; bilhetes contemplados saíram em cidades de São Paulo e Minas Gerais",
@@ -158,6 +252,18 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/loterias/resultado-da-loteria-federal-6119-0-confira-os-bilhetes-premiados-deste-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:15",
+"t": "Hipopótamos de Pablo Escobar chegam a 260 na Colômbia, e governo mira eutanásia após animais se aproximarem de trajeto escolar das crianças",
+"p": "Hipopótamo de boca aberta",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/hipopotamos-de-pablo-escobar-chegam-a-260-na-colombia-e-governo-mira-eutanasia-apos-animais-se-aproximarem-de-trajeto-escolar-das-criancas/",
 "auto": true
 },
 {
@@ -54902,119 +55008,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/policia-militar-apreende-adolescente-com-mandado-em-aberto-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:22",
-"t": "Acidente entre carro e caminhão mobiliza socorro na Rodovia Euclides da Cunha em Votuporanga",
-"p": "Um acidente envolvendo um carro de passeio e um caminhão que transportava um trator mobilizou equipes de resgate na manhã desta sexta-feira (6), na Rodovia Euclides da Cunha (SP-320), no trecho de Votuporanga. A colisão ocorreu por volta das 8h. Com a força do impacto, o automóvel foi arremessado para a canaleta de…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Votuporanga",
-"Cunha"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/acidente-entre-carro-e-caminhao-mobiliza-socorro-na-rodovia-euclides-da-cunha-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:20",
-"t": "Família busca por homem de 39 anos desaparecido há 20 dias em Mirassol",
-"p": "Familiares procuram por Natanael da Silva Marciano, de 39 anos, morador de Mirassol, que está desaparecido desde a noite de 18 de outubro. A ocorrência foi formalizada na Polícia Civil por seu irmão, Jeziel da Silva Marciano, após diversas tentativas frustradas de contato por telefone e aplicativos de mensagem. Sem…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Mirassol"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/familia-busca-por-homem-de-39-anos-desaparecido-ha-20-dias-em-mirassol/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:15",
-"t": "TCE suspende licitação de R$ 305 milhões da CDHU com obras na região de Marília",
-"p": "Edital foi questionado por três empresas; lote que contempla a região tem valor estimado em R$ 38 milhões.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/tce-suspende-licitacao-de-r-305-milhoes-da-cdhu-com-obras-na-regiao-de-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:12",
-"t": "Com estoques em situação crítica, Colsan recebe campanha de doação de sangue da Fatec Jundiaí",
-"p": "Foto: Reprodução/Instagram @sanguefatecano Organizada por estudantes da Fatec, a quinta edição do Sangue Fatecano será realizada na quinta-feira (12), com participação aberta à população",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/campanha-doacao-sangue-sangue-fatecano-colsan-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:09",
-"t": "Justiça autoriza volta do funcionamento de três bets no Brasil",
-"p": "AGU informa que vai recorrer da decisão",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/justica-autoriza-volta-do-funcionamento-de-tres-bets-no-brasil/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:09",
-"t": "São José dos Campos oferece 669 vagas de emprego em 58 funções",
-"p": "Oportunidades abrangem áreas como telemarketing, construção civil, comércio, limpeza, alimentação, transporte e serviços; há postos exclusivos para PCD",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/vale-do-paraiba/sao-jose-dos-campos-oferece-669-vagas-de-emprego-em-58-funcoes.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:04",
-"t": "Homem é encontrado parcialmente carbonizado em casa com marcas de sangue em Salto Grande",
-"p": "Incêndio atingiu um dos quartos da residência; Polícia Civil investiga as circunstâncias da morte.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Salto Grande"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/homem-e-encontrado-parcialmente-carbonizado-em-casa-com-marcas-de-sangue-em-salto-grande/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:02",
-"t": "Projeto Governo Presente chega ao bairro Monte Carlo",
-"p": "4ª edição será neste sábado, 07 de novembro, a partir das 09h, com diversos serviços públicos oferecidos à população",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/projeto-governo-presente-chega-ao-bairro-monte-carlo.html",
 "auto": true
 }
 ]
