@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T15:56:48-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-22T16:55:23-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,84 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "16:47",
+"t": "Prefeitura no interior de SP abre concurso com salários de até R$ 8,8 mil; Veja vagas",
+"p": "Inscrições para o concurso público da Prefeitura de Cândido Rodrigues podem ser feitas pela internet até o dia 4 de dezembro",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Cândido Rodrigues"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/prefeitura-no-interior-de-sp-abre-concurso-com-salarios-de-ate-r-88-mil-veja-vagas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "16:41",
+"t": "Fazenda histórica de SP deve receber R$ 63,2 milhões do governo",
+"p": "Governo Federal lança nesta segunda-feira (23/11) edital de programa que prevê concessão de patrimônios históricos à iniciativa privada",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/fazenda-historica-de-sp-deve-receber-r-632-milhoes-do-governo",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "16:37",
+"t": "Ônibus pega fogo em pesqueiro às margens de rodovia da região; veja vídeo",
+"p": "Incêndio em ônibus começou na manhã de sábado (21), no km 85 da Rodovia João Tosello; ninguém ficou ferido",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/onibus-pega-fogo-em-pesqueiro-as-margens-de-rodovia-da-regiao-veja-video/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "16:10",
+"t": "Michelle diz que Bolsonaro está bem após internação na UTI e aproveita para soltar indireta após post de Carlos: ‘Pessoas pessimistas e sem fé’",
+"p": "A senadora eleita Michelle Bolsonaro afirmou nas redes sociais que o ex-presidente Jair Bolsonaro (PL) apresenta boa aparência, não teve febre e evolui bem na recuperação no Hospital DF Star, em Brasília. Ao atualizar o estado de saúde do marido após retornar de viagem a Israel, ela aproveitou a publicação para…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/michelle-diz-que-bolsonaro-esta-bem-apos-internacao-na-uti-e-aproveita-para-soltar-indireta-apos-post-de-carlos-pessoas-pessimistas-e-sem-fe/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "16:03",
+"t": "Representantes do interior conquistam títulos de Miss e Mister São Paulo 2027 em final realizada em Ribeirão",
+"p": "Final do Miss e Mister São Paulo acontece na noite deste sábado (21), em Ribeirão Preto; representantes seguem para etapa nacional do concurso",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/giro-lazer-e-cultura/representantes-do-interior-conquistam-titulos-de-miss-e-mister-sao-paulo-2027-em-final-realizada-em-ribeirao/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "16:02",
+"t": "El Niño atrasa chuvas na Amazônia e deixa recuperação dos rios mais lenta até fevereiro de 2027, aponta boletim extraordinário",
+"p": "A vazante dos rios na região amazônica deve continuar nos próximos meses, principalmente nas bacias do Rio Branco, em Roraima, e do Rio Negro, no Amazonas. Segundo um boletim extraordinário do Serviço Geológico do Brasil (SGB), a previsão é que a redução dos níveis se intensifique até fevereiro de 2027. De acordo…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/el-nino-atrasa-chuvas-na-amazonia-e-deixa-recuperacao-dos-rios-mais-lenta-ate-fevereiro-de-2027-aponta-boletim-extraordinario/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "15:45",
 "t": "Escola de samba de São Paulo abre inscrições gratuitas para desfilar no Carnaval 2027, oferece fantasia sem custo e realiza ensaios em endereço mais acessível",
 "p": "A Estrela do Terceiro Milênio, escola de samba do Grajaú, na zona sul de São Paulo, está com inscrições abertas para uma nova ala que pretende facilitar a participação de foliões de outras regiões da capital no Carnaval 2027. A agremiação oferece inscrições e fantasias gratuitas, com ensaios aos domingos, às 15h,…",
@@ -62,6 +140,35 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/escola-de-samba-de-sao-paulo-abre-inscricoes-gratuitas-para-desfilar-no-carnaval-2027-oferece-fantasia-sem-custo-e-realiza-ensaios-em-endereco-mais-acessivel/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "15:30",
+"t": "Fábio Lopes aposta em parcerias para revitalizar Centro de Santo André",
+"p": "Recém-empossado na Habitação, secretário defende incentivos fiscais para preservação histórica",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370138/fabio-lopes-aposta-em-parcerias-para-revitalizar-centro-de-santo-andre",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "15:20",
+"t": "Polícia procura autor de feminicídio de jovem de Diadema",
+"p": "Celso Miranda de Souza Junior fugiu após matar a companheira Beatriz Borges Monteiro de Castro em Praia Grande",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande",
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370137/policia-procura-autor-de-feminicidio-de-jovem-de-diadema",
 "auto": true
 },
 {
@@ -54890,119 +54997,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/entretenimento/craque-neto-expoe-a-unica-condicao-para-que-aconteca-a-entrevista-entre-ele-e-neymar-em-programa-da-band-ja-avisa-pra-ele-e-pro-o-pai-dele/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:52",
-"t": "Criança de 4 anos encontra corpo da própria mãe vítima de feminicídio em SP",
-"p": "Suspeito de matar companheira a facadas em São Vicente, no litoral de SP, foi preso pela polícia. Criança comunicou o encontro do corpo",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Vicente"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/crianca-de-4-anos-encontra-corpo-da-propria-mae-vitima-de-feminicidio-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:51",
-"t": "Rodovia Presidente Dutra tem tráfego intenso em dois trechos nesta sexta (6)",
-"p": "Motoristas enfrentam lentidão em Itatiaia e Porto Real, no sentido São Paulo; tempo estimado para percorrer os trechos chega a 24 minutos",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-tem-trafego-intenso-em-dois-trechos-nesta-sexta-6.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:41",
-"t": "Papai Noel chega aos shoppings de Campinas com programação especial; veja datas e atrações",
-"p": "Shoppings da região de Campinas preparam eventos gratuitos, apresentações musicais, decoração temática e atividades para a chegada do Papai Noel e toda a família",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/papai-noel-chega-aos-shoppings-de-campinas-com-programacao-especial-veja-datas-e-atracoes/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:40",
-"t": "IBGE abre processo seletivo para Censo Agropecuário 2027 com vagas para Fernandópolis e região",
-"p": "O Instituto Brasileiro de Geografia e Estatística (IBGE) inicia nesta sexta-feira (6) as inscrições para o processo seletivo simplificado que visa a contratação de recenseadores para atuar no 12º Censo Agropecuário, Florestal e Aquícola de 2027. Para Fernandópolis e os municípios vizinhos de Estrela d’Oeste,…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Estrela d'Oeste",
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/ibge-abre-processo-seletivo-para-censo-agropecuario-2027-com-vagas-para-fernandopolis-e-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:39",
-"t": "Mulher procura UPA com dores, descobre gravidez e dá à luz a uma menina em Marília",
-"p": "Paciente procurou atendimento com dores abdominais e sangramento; bebê nasceu com cerca de 2,5 quilos e passa bem.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/mulher-procura-upa-com-dores-descobre-gravidez-e-da-a-luz-menina-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:36",
-"t": "Acidente entre carro e caminhão mobiliza socorro na Rodovia Euclides da Cunha em Votuporanga",
-"p": "Um acidente envolvendo um carro de passeio e um caminhão que transportava um trator mobilizou equipes de resgate na manhã desta sexta-feira (6), na Rodovia Euclides da Cunha (SP-320), no trecho de Votuporanga. A colisão ocorreu por volta das 8h. Com a força do impacto, o automóvel foi arremessado para a canaleta de…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Votuporanga",
-"Cunha"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/acidente-entre-carro-e-caminhao-mobiliza-socorro-na-rodovia-euclides-da-cunha-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:36",
-"t": "Polícia Militar apreende adolescente com mandado em aberto em Votuporanga",
-"p": "Um adolescente com mandado de busca e apreensão em aberto foi apreendido pela Polícia Militar na quinta-feira (5), no município de Votuporanga. A localização do jovem ocorreu durante um patrulhamento preventivo, após os agentes receberem informações sobre a ordem judicial pendente. Com base na denúncia, a equipe…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-militar-apreende-adolescente-com-mandado-em-aberto-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:36",
-"t": "Veículo da Prefeitura de Cardoso se envolve em colisão no trevo de Álvares Florence",
-"p": "Um automóvel pertencente à Prefeitura de Cardoso, que transportava dois pacientes para atendimento, envolveu-se em um acidente de trânsito na noite de quinta-feira (5), no trevo de acesso ao município de Álvares Florence, na Rodovia Péricles Belini. De acordo com as informações preliminares, o veículo municipal…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Álvares Florence",
-"Cardoso"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/veiculo-da-prefeitura-de-cardoso-se-envolve-em-colisao-no-trevo-de-alvares-florence/",
 "auto": true
 }
 ]
