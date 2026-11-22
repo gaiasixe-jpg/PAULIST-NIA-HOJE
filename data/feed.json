@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T22:15:45-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-21T23:20:00-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,32 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "22:51",
+"t": "Bicho-preguiça retorna à natureza um mês após resgate às margens de rodovia",
+"p": "Animal recebeu cuidados por cerca de um mês e, depois de passar por avaliação técnica, foi devolvido ao habitat natural",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bicho-preguica-retorna-a-natureza-um-mes-apos-resgate-as-margens-de-rodovia",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "22:45",
+"t": "DER suspende pare e siga na Floriano Rodrigues Pinheiro neste fim de semana",
+"p": "Obras de pavimentação continuam das 8h às 17h em 21 e 22 de novembro. Pare e siga será retomado na segunda-feira (23).",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José dos Campos"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/der-suspende-pare-siga-floriano-rodrigues-pinheiro-fim-de-semana.html",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "21:50",
@@ -54996,32 +55022,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/mundo/poluicao-por-lixo-plastico-altera-a-cor-da-agua-do-mar-e-cientistas-alertam-para-riscos-de-contaminacao-em-escala-global/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:10",
-"t": "Problemas técnicos suspendem atendimento do Procon no Campolim",
-"p": "Em razão de problemas técnicos, o Procon Sorocaba suspendeu nesta sexta-feira (6) os atendimentos presenciais em sua sede, localizada na Avenida Antônio Carlos Comitre, 331, Parque Campolim. Os serviços seguem normalmente no Procon Móvel, que permanece até as 13h na Praça Coronel Fernando prestes, no Centro; e nas…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/problemas-tecnicos-suspendem-atendimento-do-procon-no-campolim/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:09",
-"t": "PM de SP abre concurso com 2 mil vagas para aluno-soldado e salário de R$5.482,51",
-"p": "Inscrições vão de 9 de novembro a 22 de dezembro no site da Vunesp, com taxa de R$110; candidatos devem ter entre 17 e 30 anos",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/brasil/pm-de-sp-abre-concurso-com-2-mil-vagas-para-aluno-soldado-e-salario-de-r548251.html",
 "auto": true
 }
 ]
