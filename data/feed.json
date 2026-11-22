@@ -1,22 +1,19 @@
 {
-"atualizado": "2026-11-22T18:52:07-03:00",
-"novos_nesta_coleta": 13,
+"atualizado": "2026-11-22T19:52:15-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
 "Gazeta de Rio Preto",
 "Diário de Votuporanga",
-"Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
 "Portal Sorocaba.com",
@@ -28,10 +25,13 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -41,15 +41,41 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Diário do Litoral",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Informa Noroeste",
+"erro": "<urlopen error timed out>"
+},
+{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "19:03",
+"t": "Motociclista fica gravemente ferido após queda na John Boyd Dunlop",
+"p": "Motociclista foi encontrado inconsciente e com sangramento intenso; helicóptero Águia foi acionado para o resgate e fez o transporte até o HC da Unicamp.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motociclista-fica-gravemente-ferido-apos-queda-na-john-boyd-dunlop/",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "18:45",
@@ -54982,20 +55008,6 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/bertioga/reforma-do-centro-de-saude-da-mulher-avanca-em-bertioga.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:28",
-"t": "Vereador de Santo André promove ação no Centro em celebração à vitória de Lula",
-"p": "Atividade na Rua Coronel Oliveira Lima conta com personalização de camiseta e apresentações musicais",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367336/vereador-de-santo-andre-promove-acao-no-centro-em-celebracao-a-vitoria-de-lula",
 "auto": true
 }
 ]
