@@ -3,6 +3,170 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "12:51",
+"t": "Chuvas e ventos causam estragos, feridos e interdições em Aparecida e outras cidades paulistas",
+"p": "A Defesa Civil do Estado de São Paulo enviou ajuda humanitária a Aparecida após o temporal acompanhado de fortes rajadas de vento que atingiu o município na sexta-feira (20). O mau tempo provocou pontos de alagamento, queda de árvores, deslizamentos de terra e danos em estruturas, deixando seis pessoas desalojadas…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/chuvas-e-ventos-causam-estragos-feridos-e-interdicoes-em-aparecida-e-outras-cidades-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:42",
+"t": "Bancada Feminista do PSol deixa de ter mandato coletivo na Câmara de SP",
+"p": "Silvia Ferraro deve assumir exclusivamente o mandato no ano que vem; demais covereadoras continuarão ligadas à gestão",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bancada-feminista-do-psol-deixa-de-ter-mandato-coletivo-na-camara-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:36",
+"t": "Resultado da Mega-Sena: 5 cidades de São Paulo têm apostas premiadas",
+"p": "Concurso 3.089 da Mega-Sena foi sorteado neste domingo (22); ninguém acertou as seis dezenas e o prêmio acumulou em R$ 65 milhões",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/resultado-da-mega-sena-5-cidades-de-sao-paulo-tem-apostas-premiadas-na-quina/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:36",
+"t": "Programa de inseminação artificial acelera melhoria genética do gado em Cabreúva",
+"p": "Reprodução / TV TEM Produtores rurais de Cabreúva (SP) participam gratuitamente do projeto “Pró-Genética”, iniciativa da prefeitura voltada ao melhoramento genético do gado de corte e de leite. Com acompanhamento técnico de veterinários e inseminadores, o programa busca aumentar a produtividade nas fazendas e […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Cabreúva"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/programa-de-inseminacao-artificial-acelera-melhoria-genetica-do-gado-em-cabreuva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:36",
+"t": "Preço do tomate dispara no interior de SP após excesso de chuvas",
+"p": "Reprodução / TV TEM O preço do quilo do tomate subiu nos mercados e feiras do interior de São Paulo nas últimas semanas, impulsionado pelo excesso de chuvas nas lavouras. Em Sorocaba, o fruto já é encontrado por até R$ 26. Em São […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/preco-do-tomate-dispara-no-interior-de-sp-apos-excesso-de-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:35",
+"t": "Mulher denuncia motorista de app por xenofobia após discussão sobre escala 5×2 durante corrida em Rio Preto",
+"p": "Delegacia seccional de Rio Preto Reprodução/Google Street View Uma mulher de 43 anos registrou um boletim de ocorrência denunciando um motorista de transporte por aplicativo por preconceito e discriminação durante uma corrida em São José do Rio Preto (SP). O caso ocorreu na sexta-feira (20), por volta das 17h30, na…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-denuncia-motorista-de-app-por-xenofobia-apos-discussao-sobre-escala-5x2-durante-corrida-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:35",
+"t": "Batida frontal entre carros deixa duas mulheres feridas na BR-153 em Rio Preto",
+"p": "Reprodução Duas mulheres ficaram feridas após uma batida frontal entre dois carros na manhã deste domingo (22), no km 49 da Rodovia Transbrasiliana (BR-153), em São José do Rio Preto (SP). Segundo a Polícia Rodoviária Federal (PRF), o acidente ocorreu por volta […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/batida-frontal-entre-carros-deixa-duas-mulheres-feridas-na-br-153-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:24",
+"t": "Resultado da Loteria Federal 6119-0: confira os bilhetes premiados deste domingo (22)",
+"p": "Concurso 6119-0 distribui R$1.596.102 em prêmios; bilhetes contemplados saíram em cidades de São Paulo e Minas Gerais",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/loterias/resultado-da-loteria-federal-6119-0-confira-os-bilhetes-premiados-deste-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:07",
+"t": "Sabesp conclui manutenção no Cantareira, mas bairros seguem sem água",
+"p": "Trabalho afetou abastecimento de água em 10 municípios da Grande SP; segundo Companhia, a normalização pode levar até 72 horas",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sabesp-conclui-manutencao-no-cantareira-mas-bairros-seguem-sem-agua",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:04",
+"t": "Resultado da Lotofácil 3835: confira os números sorteados neste domingo (22)",
+"p": "Concurso 3835 teve dois ganhadores, com apostas em Manaus (AM) e São Roque (SP); próximo prêmio está estimado em R$ 2 milhões",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/loterias/clone-clone-resultado-da-lotofacil-3833-confira-os-numeros-sorteados-nesta-quarta-feira-18.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:00",
+"t": "MP investiga gastos de R$ 4,7 milhões com shows de artistas famosos no litoral de SP e apura possíveis irregularidades em contratos de festas e Réveillon",
+"p": "Milhões de reais gastos com shows de artistas famosos, festas de Réveillon e contratos firmados sem licitação competitiva colocaram a Prefeitura de Cubatão, no litoral de São Paulo, na mira do Ministério Público de São Paulo (MP-SP). O órgão instaurou dois inquéritos civis para investigar possíveis irregularidades…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Cubatão"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/mp-investiga-gastos-de-r-47-milhoes-com-shows-de-artistas-famosos-no-litoral-de-sp-e-apura-possiveis-irregularidades-em-contratos-de-festas-e-reveillon/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:00",
+"t": "Justiça decreta prisão preventiva de suspeito de matar companheira em Praia Grande",
+"p": "Reprodução A Justiça decretou a prisão preventiva de Celso Miranda de Souza Júnior, suspeito de matar a companheira, Beatriz Borges, em Praia Grande.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/noticias/justica-decreta-prisao-preventiva-de-suspeito-de-matar-companheira-em-praia-grande/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-22",
 "h": "11:55",
 "t": "Ex-presidente Jair Bolsonaro segue internado no Distrito Federal",
 "p": "Segundo o boletim médico divulgado pelo hospital, foram iniciadas medidas clínicas como hidratação, manutenção do jejum oral com suporte nutricional e passagem de sonda gástrica",
@@ -13,6 +177,18 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/ex-presidente-jair-bolsonaro-segue-internado-no-df/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:50",
+"t": "Moraes autoriza retirada da tornozeleira de Bolsonaro, mas determina que equipamento seja recolocado após alta hospitalar",
+"p": "O dispositivo deverá voltar a ser utilizado assim que o ex-presidente deixar o Hospital DF Star, em Brasília",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/moraes-autoriza-retirada-da-tornozeleira-de-bolsonaro-mas-determina-que-equipamento-seja-recolocado-apos-alta-hospitalar/",
 "auto": true
 },
 {
@@ -99,6 +275,33 @@
 },
 {
 "d": "2026-11-22",
+"h": "11:30",
+"t": "Atrações gratuitas de Natal: a 2 horas de São Paulo, cidade ganha 2,7 milhões de luzes natalinas e 109 atrações, como teleférico, montanhas e fontes de águas minerais",
+"p": "Natal em Serra Negra 2026 reúne 2,7 milhões de luzes, desfiles e 109 atrações. Veja a programação gratuita da cidade a 2h de São Paulo",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Serra Negra",
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/natal-serra-negra-2026-luzes-atracoes-gratuitas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:26",
+"t": "Saiu o resultado! Confira os números da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte deste domingo (22)",
+"p": "As Loterias da Caixa sortearam na manhã deste domingo (22), os prêmios de concursos da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte. Os sorteios do dia movimentaram jogadores em todo o país, com valores acumulados que atraem quem busca mudar de vida com uma única aposta. Veja os números sorteados da Mega…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-quina-lotofacil-timemania-e-dia-de-sorte-deste-domingo-22/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "11:25",
 "t": "Itupeva realiza 6º Concurso Miss Beleza Negra em noite de celebração à cultura afro-brasileira",
 "p": "Foto: Prefeitura de Itupeva Miss Beleza Negra 2026 em Itupeva elege Vanessa Faganeli e Rafaela Carvalho em evento com dez candidatas e atrações culturais.",
@@ -109,6 +312,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/itupeva/miss-beleza-negra-2026-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:18",
+"t": "Higor, estudante de 19 anos desaparecido em Guarulhos, teve trajeto alterado registrado por câmeras; família tenta descobrir o que aconteceu",
+"p": "Mensagem enviada pela manhã e ausência na escola levantaram novas dúvidas sobre o paradeiro do rapaz",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guarulhos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/higor-estudante-de-19-anos-desaparecido-em-guarulhos-teve-trajeto-alterado-registrado-por-cameras-familia-tenta-descobrir-o-que-aconteceu/",
 "auto": true
 },
 {
@@ -149,6 +366,18 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/prefeitura-de-ribeirao-preto-abre-inscricoes-para-cadastro-de-atividades-do-carnaval-2027/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:02",
+"t": "Defesa Civil de SP reforça alerta para fortes chuvas em todo o Estado até terça-feira",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370122/defesa-civil-de-sp-reforca-alerta-para-fortes-chuvas-em-todo-o-estado-ate-terca-feira",
 "auto": true
 },
 {
@@ -330,6 +559,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/apos-enfrentar-dificuldades-para-transportar-a-sogra-com-alzheimer-empreendedora-virou-motorista-de-app-e-criou-um-servico-especializado-em-mobilidade-para-pessoas-idosas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:18",
+"t": "Coelhos robóticos com calor, cheiro e câmeras de inteligência artificial ajudam a localizar cobras invasoras que podem atingir 6 metros em região que já retirou 19 mil serpentes",
+"p": "A Flórida, nos Estados Unidos, começou a utilizar coelhos robóticos para atrair e capturar pítons-birmanesas, uma espécie invasora que ameaça a fauna local. Enquanto isso, um novo estudo revelou detalhes sobre o comportamento desses animais e pode ajudar as equipes responsáveis pela remoção. A pesquisa analisou 346…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/coelhos-roboticos-com-calor-cheiro-e-cameras-de-inteligencia-artificial-ajudam-a-localizar-cobras-invasoras-que-podem-atingir-6-metros-em-regiao-que-ja-retirou-19-mil-serpentes/",
 "auto": true
 },
 {

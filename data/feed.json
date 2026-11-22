@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-22T11:56:13-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-22T12:53:27-03:00",
+"novos_nesta_coleta": 26,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -58,6 +52,170 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "12:51",
+"t": "Chuvas e ventos causam estragos, feridos e interdições em Aparecida e outras cidades paulistas",
+"p": "A Defesa Civil do Estado de São Paulo enviou ajuda humanitária a Aparecida após o temporal acompanhado de fortes rajadas de vento que atingiu o município na sexta-feira (20). O mau tempo provocou pontos de alagamento, queda de árvores, deslizamentos de terra e danos em estruturas, deixando seis pessoas desalojadas…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Aparecida"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/chuvas-e-ventos-causam-estragos-feridos-e-interdicoes-em-aparecida-e-outras-cidades-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:42",
+"t": "Bancada Feminista do PSol deixa de ter mandato coletivo na Câmara de SP",
+"p": "Silvia Ferraro deve assumir exclusivamente o mandato no ano que vem; demais covereadoras continuarão ligadas à gestão",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bancada-feminista-do-psol-deixa-de-ter-mandato-coletivo-na-camara-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:36",
+"t": "Resultado da Mega-Sena: 5 cidades de São Paulo têm apostas premiadas",
+"p": "Concurso 3.089 da Mega-Sena foi sorteado neste domingo (22); ninguém acertou as seis dezenas e o prêmio acumulou em R$ 65 milhões",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/resultado-da-mega-sena-5-cidades-de-sao-paulo-tem-apostas-premiadas-na-quina/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:36",
+"t": "Programa de inseminação artificial acelera melhoria genética do gado em Cabreúva",
+"p": "Reprodução / TV TEM Produtores rurais de Cabreúva (SP) participam gratuitamente do projeto “Pró-Genética”, iniciativa da prefeitura voltada ao melhoramento genético do gado de corte e de leite. Com acompanhamento técnico de veterinários e inseminadores, o programa busca aumentar a produtividade nas fazendas e […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Cabreúva"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/programa-de-inseminacao-artificial-acelera-melhoria-genetica-do-gado-em-cabreuva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:36",
+"t": "Preço do tomate dispara no interior de SP após excesso de chuvas",
+"p": "Reprodução / TV TEM O preço do quilo do tomate subiu nos mercados e feiras do interior de São Paulo nas últimas semanas, impulsionado pelo excesso de chuvas nas lavouras. Em Sorocaba, o fruto já é encontrado por até R$ 26. Em São […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/preco-do-tomate-dispara-no-interior-de-sp-apos-excesso-de-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:35",
+"t": "Mulher denuncia motorista de app por xenofobia após discussão sobre escala 5×2 durante corrida em Rio Preto",
+"p": "Delegacia seccional de Rio Preto Reprodução/Google Street View Uma mulher de 43 anos registrou um boletim de ocorrência denunciando um motorista de transporte por aplicativo por preconceito e discriminação durante uma corrida em São José do Rio Preto (SP). O caso ocorreu na sexta-feira (20), por volta das 17h30, na…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-denuncia-motorista-de-app-por-xenofobia-apos-discussao-sobre-escala-5x2-durante-corrida-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:35",
+"t": "Batida frontal entre carros deixa duas mulheres feridas na BR-153 em Rio Preto",
+"p": "Reprodução Duas mulheres ficaram feridas após uma batida frontal entre dois carros na manhã deste domingo (22), no km 49 da Rodovia Transbrasiliana (BR-153), em São José do Rio Preto (SP). Segundo a Polícia Rodoviária Federal (PRF), o acidente ocorreu por volta […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/batida-frontal-entre-carros-deixa-duas-mulheres-feridas-na-br-153-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:24",
+"t": "Resultado da Loteria Federal 6119-0: confira os bilhetes premiados deste domingo (22)",
+"p": "Concurso 6119-0 distribui R$1.596.102 em prêmios; bilhetes contemplados saíram em cidades de São Paulo e Minas Gerais",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/loterias/resultado-da-loteria-federal-6119-0-confira-os-bilhetes-premiados-deste-domingo-22.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:07",
+"t": "Sabesp conclui manutenção no Cantareira, mas bairros seguem sem água",
+"p": "Trabalho afetou abastecimento de água em 10 municípios da Grande SP; segundo Companhia, a normalização pode levar até 72 horas",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sabesp-conclui-manutencao-no-cantareira-mas-bairros-seguem-sem-agua",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:04",
+"t": "Resultado da Lotofácil 3835: confira os números sorteados neste domingo (22)",
+"p": "Concurso 3835 teve dois ganhadores, com apostas em Manaus (AM) e São Roque (SP); próximo prêmio está estimado em R$ 2 milhões",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/loterias/clone-clone-resultado-da-lotofacil-3833-confira-os-numeros-sorteados-nesta-quarta-feira-18.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:00",
+"t": "MP investiga gastos de R$ 4,7 milhões com shows de artistas famosos no litoral de SP e apura possíveis irregularidades em contratos de festas e Réveillon",
+"p": "Milhões de reais gastos com shows de artistas famosos, festas de Réveillon e contratos firmados sem licitação competitiva colocaram a Prefeitura de Cubatão, no litoral de São Paulo, na mira do Ministério Público de São Paulo (MP-SP). O órgão instaurou dois inquéritos civis para investigar possíveis irregularidades…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Cubatão"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/mp-investiga-gastos-de-r-47-milhoes-com-shows-de-artistas-famosos-no-litoral-de-sp-e-apura-possiveis-irregularidades-em-contratos-de-festas-e-reveillon/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "12:00",
+"t": "Justiça decreta prisão preventiva de suspeito de matar companheira em Praia Grande",
+"p": "Reprodução A Justiça decretou a prisão preventiva de Celso Miranda de Souza Júnior, suspeito de matar a companheira, Beatriz Borges, em Praia Grande.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/noticias/justica-decreta-prisao-preventiva-de-suspeito-de-matar-companheira-em-praia-grande/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-22",
 "h": "11:55",
 "t": "Ex-presidente Jair Bolsonaro segue internado no Distrito Federal",
 "p": "Segundo o boletim médico divulgado pelo hospital, foram iniciadas medidas clínicas como hidratação, manutenção do jejum oral com suporte nutricional e passagem de sonda gástrica",
@@ -68,6 +226,18 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/ex-presidente-jair-bolsonaro-segue-internado-no-df/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:50",
+"t": "Moraes autoriza retirada da tornozeleira de Bolsonaro, mas determina que equipamento seja recolocado após alta hospitalar",
+"p": "O dispositivo deverá voltar a ser utilizado assim que o ex-presidente deixar o Hospital DF Star, em Brasília",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/moraes-autoriza-retirada-da-tornozeleira-de-bolsonaro-mas-determina-que-equipamento-seja-recolocado-apos-alta-hospitalar/",
 "auto": true
 },
 {
@@ -154,6 +324,33 @@
 },
 {
 "d": "2026-11-22",
+"h": "11:30",
+"t": "Atrações gratuitas de Natal: a 2 horas de São Paulo, cidade ganha 2,7 milhões de luzes natalinas e 109 atrações, como teleférico, montanhas e fontes de águas minerais",
+"p": "Natal em Serra Negra 2026 reúne 2,7 milhões de luzes, desfiles e 109 atrações. Veja a programação gratuita da cidade a 2h de São Paulo",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Serra Negra",
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/natal-serra-negra-2026-luzes-atracoes-gratuitas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:26",
+"t": "Saiu o resultado! Confira os números da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte deste domingo (22)",
+"p": "As Loterias da Caixa sortearam na manhã deste domingo (22), os prêmios de concursos da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte. Os sorteios do dia movimentaram jogadores em todo o país, com valores acumulados que atraem quem busca mudar de vida com uma única aposta. Veja os números sorteados da Mega…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-quina-lotofacil-timemania-e-dia-de-sorte-deste-domingo-22/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "11:25",
 "t": "Itupeva realiza 6º Concurso Miss Beleza Negra em noite de celebração à cultura afro-brasileira",
 "p": "Foto: Prefeitura de Itupeva Miss Beleza Negra 2026 em Itupeva elege Vanessa Faganeli e Rafaela Carvalho em evento com dez candidatas e atrações culturais.",
@@ -164,6 +361,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/itupeva/miss-beleza-negra-2026-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:18",
+"t": "Higor, estudante de 19 anos desaparecido em Guarulhos, teve trajeto alterado registrado por câmeras; família tenta descobrir o que aconteceu",
+"p": "Mensagem enviada pela manhã e ausência na escola levantaram novas dúvidas sobre o paradeiro do rapaz",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guarulhos"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/higor-estudante-de-19-anos-desaparecido-em-guarulhos-teve-trajeto-alterado-registrado-por-cameras-familia-tenta-descobrir-o-que-aconteceu/",
 "auto": true
 },
 {
@@ -204,6 +415,18 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/prefeitura-de-ribeirao-preto-abre-inscricoes-para-cadastro-de-atividades-do-carnaval-2027/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "11:02",
+"t": "Defesa Civil de SP reforça alerta para fortes chuvas em todo o Estado até terça-feira",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370122/defesa-civil-de-sp-reforca-alerta-para-fortes-chuvas-em-todo-o-estado-ate-terca-feira",
 "auto": true
 },
 {
@@ -385,6 +608,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/apos-enfrentar-dificuldades-para-transportar-a-sogra-com-alzheimer-empreendedora-virou-motorista-de-app-e-criou-um-servico-especializado-em-mobilidade-para-pessoas-idosas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "10:18",
+"t": "Coelhos robóticos com calor, cheiro e câmeras de inteligência artificial ajudam a localizar cobras invasoras que podem atingir 6 metros em região que já retirou 19 mil serpentes",
+"p": "A Flórida, nos Estados Unidos, começou a utilizar coelhos robóticos para atrair e capturar pítons-birmanesas, uma espécie invasora que ameaça a fauna local. Enquanto isso, um novo estudo revelou detalhes sobre o comportamento desses animais e pode ajudar as equipes responsáveis pela remoção. A pesquisa analisou 346…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/coelhos-roboticos-com-calor-cheiro-e-cameras-de-inteligencia-artificial-ajudam-a-localizar-cobras-invasoras-que-podem-atingir-6-metros-em-regiao-que-ja-retirou-19-mil-serpentes/",
 "auto": true
 },
 {
@@ -54780,256 +55015,6 @@
 ],
 "src": "NetCampos",
 "u": "https://www.netcampos.com/noticias/2026/11/projeto-governo-presente-chega-ao-bairro-monte-carlo.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:00",
-"t": "Processo seletivo IBGE abre 27 mil vagas para recenseador com salários de até R$ 4,3 mil",
-"p": "Foto: Tânia Rêgo/Agência Brasil Inscrições vão até 25 de novembro de 2026. Seleção exige ensino fundamental completo e terá prova objetiva em janeiro de 2027.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/economia/concursos/processo-seletivo-ibge-recenseador-2026-copiar/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:00",
-"t": "Guarujá oferece transporte público gratuito para inscritos no Enem",
-"p": "Benefício vale nos dias 8 e 15 de novembro, em todas as linhas municipais; estudantes devem apresentar comprovante de inscrição e documento com foto",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/guaruja/guaruja-oferece-transporte-publico-gratuito-para-inscritos-no-enem.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:51",
-"t": "Mogi-Bertioga tem interdição parcial em dois trechos nesta sexta-feira (6)",
-"p": "Motoristas encontram obras entre os quilômetros 75 e 92 e também no segmento de Bertioga, entre os quilômetros 92 e 98,1",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicao-parcial-em-dois-trechos-nesta-sexta-feira-6.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:48",
-"t": "Vinis, brinquedos antigos e obras de arte movimentam o Centro de Jundiaí neste domingo (8)",
-"p": "Feira reúne artistas e colecionadores na Praça da Matriz, com obras de arte, antiguidades e peças de colecionismo - Foto: Prefeitura de Jundiaí Última edição de 2026 da Feira de Artes Plásticas e Antiguidades reúne artistas e colecionadores no Centro de Jundiaí, com opções para quem gosta de arte, antiguidades e…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/feira-artes-plasticas-antiguidades-jundiai-novembro-2026/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:46",
-"t": "TCE questiona edital e suspende licitação de R$ 1,8 milhão em Marília",
-"p": "Marília reformula Carta de Serviços e amplia opções de atendimento no portal oficial Pregão previa plataforma de gestão de processos administrativos; suspensão ocorreu por decisão cautelar da Corte de Contas.",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/tce-questiona-edital-e-suspende-licitacao-de-r-18-milhao-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:44",
-"t": "Operação da Polícia e MP de SP investiga desvio de R$ 24 milhões da Previdência de Itanhaém e cumpre cinco mandados",
-"p": "A Polícia Militar e o Ministério Público de São Paulo (MPSP) cumpriram cinco mandados de busca e apreensão nesta sexta-feira (6), em Itanhaém, no litoral paulista, durante uma operação que investiga o suposto desvio de aproximadamente R$ 24 milhões da Previdência dos Funcionários Públicos do município. Batizada de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo",
-"Itanhaém"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/operacao-da-policia-e-mp-de-sp-investiga-desvio-de-r-24-milhoes-da-previdencia-de-itanhaem-e-cumpre-cinco-mandados/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:44",
-"t": "PM de SP impede furto de uma tonelada de fios de cobre e prende três suspeitos",
-"p": "Três integrantes de uma quadrilha especializada em furto de fios foram presos na madrugada desta sexta-feira (6), após a Polícia Militar interromper um furto em andamento no bairro Jardim Jussara, na zona oeste de São Paulo. Cerca de uma tonelada de cabos de cobre foi recuperada durante a ação. Os suspeitos estavam…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/pm-de-sp-impede-furto-de-uma-tonelada-de-fios-de-cobre-e-prende-tres-suspeitos/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:44",
-"t": "Governo de SP inicia nova etapa das Travessias Litorâneas com R$ 2,5 bilhões em investimentos previstos e modernização da frota",
-"p": "O Governo de São Paulo inicia, na próxima segunda-feira (9), uma nova etapa na gestão e operação das Travessias Litorâneas, com a entrada da concessionária Acquavias, que passará a operar o sistema em regime de transição. O início da nova fase será acompanhado por um período de três meses de operação assistida,…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/governo-de-sp-inicia-nova-etapa-das-travessias-litoraneas-com-r-25-bilhoes-em-investimentos-previstos-e-modernizacao-da-frota/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:44",
-"t": "Rodovia Oswaldo Cruz registra tráfego intenso no trecho de serra nesta sexta-feira (6)",
-"p": "Fluxo é intenso nos dois sentidos da serra, enquanto os demais pontos monitorados entre Taubaté e Ubatuba apresentam tráfego normal",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Taubaté",
-"Ubatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-registra-trafego-intenso-no-trecho-de-serra-nesta-sexta-feira-6.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:44",
-"t": "“Vozes Negras” discute caminhos para uma educação antirracista",
-"p": "igualdade racial",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/vozes-negras-discute-caminhos-para-uma-educacao-antirracista/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:38",
-"t": "Itapeva: Sabesp anuncia medidas para reforçar tratamento e monitoramento da água, ampliar apoio à população e contribuir com o esclarecimento dos fatos",
-"p": "Como parte de sua atuação diante dos casos de gastroenterite registrados em Itapeva, a Sabesp anuncia, nesta quinta-feira (5/11), a adoção de seis novas medidas para reforçar o tratamento e o monitoramento da água, ampliar o suporte à população e contribuir para o esclarecimento dos fatos. A segurança da água e a…",
-"tema": "Saneamento",
-"s": "anunciado",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/tratamento-agua-itapeva/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:35",
-"t": "PT deve apoiar aliado de Nunes para presidência da Câmara Municipal de SP",
-"p": "Vereador João Jorge (MDB), que é da base governista, anunciou a candidatura à presidência da Casa nesta semana",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/pt-deve-apoiar-aliado-de-nunes-para-presidencia-da-camara-municipal-de-sp",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:35",
-"t": "Defesa Civil de Registro participa de capacitação para atuação no período de chuvas",
-"p": "gestão de riscos",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/defesa-civil-de-registro-participa-de-capacitacao-para-atuacao-no-periodo-de-chuvas/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:25",
-"t": "Zona Azul: regras de estacionamento mudam em Cubatão e motorista pode pagar R$ 30 por descuido; veja a nova tarifa e o prazo para escapar da multa",
-"p": "Motoristas que estacionam nas ruas de Cubatão, no litoral de São Paulo, terão de preparar o bolso para uma mudança na Zona Azul. A partir de 1º de janeiro de 2027, a tarifa do estacionamento rotativo será de R$ 3 por hora. O Decreto nº 12.384, publicado pela Prefeitura na quarta-feira (3), estabeleceu o novo […]",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"São Paulo",
-"Cubatão"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/zona-azul-regras-de-estacionamento-mudam-em-cubatao-e-motorista-pode-pagar-r-30-por-descuido-veja-a-nova-tarifa-e-o-prazo-para-escapar-da-multa/",
-"auto": true,
-"org": "Prefeitura"
-},
-{
-"d": "2026-11-06",
-"h": "13:23",
-"t": "Vereador Junior Féfin presta depoimento à Polícia Civil em Marília",
-"p": "Junior Féfin prestou depoimento para a Polícia Civil em Marília Parlamentar foi ouvido na manhã desta sexta-feira pelo delegado Mário Furlaneto Neto e evitou a imprensa na saída da Delegacia Seccional.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/vereador-junior-fefin-presta-depoimento-a-policia-civil-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:23",
-"t": "Justiça autoriza volta do funcionamento de três bets no Brasil",
-"p": "A decisão da desembargadora Adriana Pileggi libera a volta às atividades das plataformas Casa de Apostas, Betsul e Jogo Online, todas pertencentes à CDA Gaming.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/justica-autoriza-volta-do-funcionamento-de-tres-bets-no-brasil/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:14",
-"t": "Mãe coala luta para salvar filhote sufocado por uma das maiores cobras do mundo e recebe ajuda inesperada de mulher",
-"p": "Um passeio com o cachorro Pluto terminou em um resgate inesperado para a conservacionista Nell Giret, em Brisbane, na Austrália. Durante uma caminhada, ela ouviu pássaros fazendo barulho entre os arbustos e decidiu verificar o que estava acontecendo. Ao se aproximar, encontrou um filhote de coala preso pelas voltas…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/mae-coala-luta-para-salvar-filhote-sufocado-por-uma-das-maiores-cobras-do-mundo-e-recebe-ajuda-inesperada-de-mulher/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "13:13",
-"t": "Operação investiga desvio de R$ 24 milhões da Previdência de Itanhaém e cumpre cinco mandados",
-"p": "Polícia Militar e Gaeco realizaram buscas em quatro residências e na sede da instituição; eletrônicos, joias, dinheiro e um veículo foram apreendidos",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itanhaém"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/litoral/operacao-investiga-desvio-de-r-24-milhoes-da-previdencia-de-itanhaem/",
 "auto": true
 }
 ]
