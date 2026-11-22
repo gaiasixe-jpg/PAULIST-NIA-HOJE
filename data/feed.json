@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T17:52:31-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-22T18:52:07-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,60 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "18:45",
+"t": "Alerta severo: Cidade de SP entra em estado de atenção para alagamentos",
+"p": "Celulares de várias áreas da capital receberam um \"alerta severo\" da Defesa Civil neste domingo (22/11) para chuvas com raios e granizo",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/alerta-severo-cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:20",
+"t": "Com herança de mais de R$ 10 milhões, Andreas von Richthofen faz acordo após acumular dívidas de mais de R$ 428 mil em IPTU e encargos",
+"p": "Após receber uma herança avaliada à época em R$ 10 milhões, Andreas von Richthofen, de 39 anos, firmou um acordo com a Prefeitura de São Paulo para tentar regularizar parte das dívidas tributárias dos imóveis deixados por seus pais. Ao longo de 25 anos desde o assassinato de Manfred e Marísia von Richthofen, a…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/com-heranca-de-mais-de-r-10-milhoes-andreas-von-richthofen-faz-acordo-apos-acumular-dividas-de-mais-de-r-428-mil-em-iptu-e-encargos/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:11",
+"t": "Santos contrata diretor para trabalhar com Neymar Pai",
+"p": "Divulgação A indicação foi feita em conjunto pelo presidente Marcelo Teixeira e pelo novo CEO., Neymar Pai",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/santos-contrata-diretor-para-trabalhar-com-neymar-pai/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:04",
+"t": "Homem é preso pela GCM suspeito de furtar hidrantes na rodoviária de Ribeirão Preto",
+"p": "Homem suspeito de furtar hidrantes foi preso pela GCM neste domingo (22); com ele foram encontradas facas e produtos suspeitos de furto",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/homem-e-preso-pela-gcm-suspeito-de-furtar-hidrantes-na-rodoviaria-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "17:49",
 "t": "São Paulo lidera em sete modalidades na primeira semana das Paralimpíadas Escolares 2026",
 "p": "A delegação do Estado de São Paulo encerrou sua participação na primeira semana da Fase Nacional das Paralimpíadas Escolares 2026, realizada no Centro de Treinamento Paralímpico Brasileiro (CTPB) e no Estádio Ícaro de Castro Mello, na capital paulista, com um desempenho histórico. Os jovens atletas paulistas…",
@@ -90,6 +144,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/defesa-civil-de-sp-envia-25-alertas-de-chuvas-neste-domingo-22-para-o-estado-sirene-em-campos-do-jordao-e-acionada/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "17:42",
+"t": "Defesa Civil emite alerta urgente para temporal com raios e possibilidade de granizo no litoral de SP",
+"p": "A Defesa Civil emitiu um alerta neste domingo (22), por volta das 17h, para a chegada de uma área de chuva em direção a Santos, São Vicente, Praia Grande e Guarujá. O aviso aponta possibilidade de raios, ventos e até queda de granizo. A orientação é que os moradores procurem abrigo. A instabilidade já era […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/defesa-civil-emite-alerta-urgente-para-temporal-com-raios-e-possibilidade-de-granizo-no-litoral-de-sp/",
 "auto": true
 },
 {
@@ -54928,77 +54996,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367336/vereador-de-santo-andre-promove-acao-no-centro-em-celebracao-a-vitoria-de-lula",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:08",
-"t": "Polícia Civil prende líder religioso de 62 anos suspeito de crimes sexuais",
-"p": "A Polícia Civil deflagrou a Operação Guardião nesta quinta-feira (5) e cumpriu mandados judiciais no âmbito de uma investigação que apura a prática de crimes sexuais cometidos por um líder religioso de 62 anos. O suspeito foi preso temporariamente no município de Itapecerica da Serra, na Grande São Paulo, e…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Itapecerica da Serra"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-prende-lider-religioso-de-62-anos-suspeito-de-crimes-sexuais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:06",
-"t": "Polícia Militar interrompe furto de cabos e prende três suspeitos com 1 tonelada de fios de cobre",
-"p": "A Polícia Militar prendeu três homens em flagrante e recuperou cerca de uma tonelada de fios de cobre na madrugada desta sexta-feira (6), no bairro Jardim Jussara, na zona oeste da capital paulista. O grupo é suspeito de integrar uma quadrilha especializada no furto de cabeamento subterrâneo de telecomunicações.…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-militar-interrompe-furto-de-cabos-e-prende-tres-suspeitos-com-1-tonelada-de-fios-de-cobre/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:05",
-"t": "Operação do MPSP e Polícia Militar investiga desvio de R$ 24 milhões em previdência municipal",
-"p": "O Ministério Público de São Paulo (MPSP) e a Polícia Militar cumpriram cinco mandados de busca e apreensão nesta sexta-feira (6), em Itanhaém, no litoral paulista, durante uma ação contra o suposto desvio de aproximadamente R$ 24 milhões da Previdência dos Funcionários Públicos do município. Denominada “Buraco…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo",
-"Itanhaém"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/operacao-do-mpsp-e-policia-militar-investiga-desvio-de-r-24-milhoes-em-previdencia-municipal/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:02",
-"t": "Lei da Atração: aprenda mantras poderosos para atrair prosperidade, amor e boas oportunidades",
-"p": "As palavras exercem poder sobre a nossa vida. Aquilo que repetimos diariamente pode influenciar nossos pensamentos, nossas emoções e até a maneira como enxergamos as oportunidades ao redor. É justamente nessa ideia que se apoia a Lei da Atração, uma filosofia que defende que nossos pensamentos, sentimentos e…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/lei-da-atracao-aprenda-mantras-poderosos-para-atrair-prosperidade-amor-e-boas-oportunidades/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:00",
-"t": "Piscinão de São Caetano chega a 90% da estrutura concluída",
-"p": "Intervenção no Bairro Fundação avança na montagem da cobertura e faz parte de um conjunto de obras para ampliar a capacidade de drenagem do município",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Caetano do Sul"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367274/piscinao-de-sao-caetano-chega-a-90-da-estrutura-concluida",
 "auto": true
 }
 ]

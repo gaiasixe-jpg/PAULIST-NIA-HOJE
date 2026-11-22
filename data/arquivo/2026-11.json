@@ -3,6 +3,60 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "18:45",
+"t": "Alerta severo: Cidade de SP entra em estado de atenção para alagamentos",
+"p": "Celulares de várias áreas da capital receberam um \"alerta severo\" da Defesa Civil neste domingo (22/11) para chuvas com raios e granizo",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/alerta-severo-cidade-de-sp-entra-em-estado-de-atencao-para-alagamentos",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:20",
+"t": "Com herança de mais de R$ 10 milhões, Andreas von Richthofen faz acordo após acumular dívidas de mais de R$ 428 mil em IPTU e encargos",
+"p": "Após receber uma herança avaliada à época em R$ 10 milhões, Andreas von Richthofen, de 39 anos, firmou um acordo com a Prefeitura de São Paulo para tentar regularizar parte das dívidas tributárias dos imóveis deixados por seus pais. Ao longo de 25 anos desde o assassinato de Manfred e Marísia von Richthofen, a…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/com-heranca-de-mais-de-r-10-milhoes-andreas-von-richthofen-faz-acordo-apos-acumular-dividas-de-mais-de-r-428-mil-em-iptu-e-encargos/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:11",
+"t": "Santos contrata diretor para trabalhar com Neymar Pai",
+"p": "Divulgação A indicação foi feita em conjunto pelo presidente Marcelo Teixeira e pelo novo CEO., Neymar Pai",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/santos-contrata-diretor-para-trabalhar-com-neymar-pai/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "18:04",
+"t": "Homem é preso pela GCM suspeito de furtar hidrantes na rodoviária de Ribeirão Preto",
+"p": "Homem suspeito de furtar hidrantes foi preso pela GCM neste domingo (22); com ele foram encontradas facas e produtos suspeitos de furto",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/homem-e-preso-pela-gcm-suspeito-de-furtar-hidrantes-na-rodoviaria-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "17:49",
 "t": "São Paulo lidera em sete modalidades na primeira semana das Paralimpíadas Escolares 2026",
 "p": "A delegação do Estado de São Paulo encerrou sua participação na primeira semana da Fase Nacional das Paralimpíadas Escolares 2026, realizada no Centro de Treinamento Paralímpico Brasileiro (CTPB) e no Estádio Ícaro de Castro Mello, na capital paulista, com um desempenho histórico. Os jovens atletas paulistas…",
@@ -41,6 +95,20 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/defesa-civil-de-sp-envia-25-alertas-de-chuvas-neste-domingo-22-para-o-estado-sirene-em-campos-do-jordao-e-acionada/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "17:42",
+"t": "Defesa Civil emite alerta urgente para temporal com raios e possibilidade de granizo no litoral de SP",
+"p": "A Defesa Civil emitiu um alerta neste domingo (22), por volta das 17h, para a chegada de uma área de chuva em direção a Santos, São Vicente, Praia Grande e Guarujá. O aviso aponta possibilidade de raios, ventos e até queda de granizo. A orientação é que os moradores procurem abrigo. A instabilidade já era […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/defesa-civil-emite-alerta-urgente-para-temporal-com-raios-e-possibilidade-de-granizo-no-litoral-de-sp/",
 "auto": true
 },
 {
