@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T13:55:06-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-22T14:49:43-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,92 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "14:33",
+"t": "Ensaios técnicos do Carnaval 2027 em São Paulo começam em dezembro no Anhembi com entrada gratuita; veja datas e horários das 32 escolas de samba",
+"p": "Faltam menos de 30 dias para o início dos ensaios técnicos do Carnaval 2027 em São Paulo. A programação começa em 19 de dezembro, no Sambódromo do Anhembi, na zona norte da Capital, e segue até 24 de janeiro, reunindo as 32 escolas de samba filiadas à Liga Independente das Escolas de Samba de São […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo",
+"Anhembi"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/ensaios-tecnicos-do-carnaval-2027-em-sao-paulo-comecam-em-dezembro-no-anhembi-com-entrada-gratuita-veja-datas-e-horarios-das-32-escolas-de-samba/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "14:23",
+"t": "Michelle Bolsonaro atualiza estado de saúde de Jair Bolsonaro após noite sem dores e revela preocupação com possível procedimento",
+"p": "O ex-presidente Jair Bolsonaro passou a noite sem sentir dores e apresentou evolução no quadro clínico, segundo informou sua esposa, a ex-primeira-dama Michelle Bolsonaro, neste domingo (22). Internado na Unidade de Terapia Intensiva (UTI) do hospital DF Star, em Brasília, ele segue em tratamento para um quadro de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/michelle-bolsonaro-atualiza-estado-de-saude-de-jair-bolsonaro-apos-noite-sem-dores-e-revela-preocupacao-com-possivel-procedimento/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "14:22",
+"t": "Vorcaro planejou criar o WeBank com Virginia Fonseca e negociou campanha de R$ 25 milhões",
+"p": "Foto: Imagem Ilustrativa Projeto chamado WeBank foi inspirado na marca de cosméticos WePink e teve quatro pedidos de registro no INPI; influenciadora e Zé Felipe confirmaram negociações, mas negaram contrato e pagamento.",
+"tema": "Investimentos",
+"s": "obra",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/brasil/virginia-fonseca-banco-master-webank/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "14:01",
+"t": "Motociclista fica ferido ao bater de frente com carreta na Rodovia Santos Dumont",
+"p": "Acidente ocorreu na manhã deste domingo (22), próximo à cabeceira do Aeroporto de Viracopos; motociclista foi socorrida pelo helicóptero Águia ao HC da Unicamp",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/motociclista-fica-ferido-ao-bater-de-frente-com-carreta-na-rodovia-santos-dumont/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:55",
+"t": "“O sistema financeiro não vai me ensinar a dirigir o Brasil”, diz Lula",
+"p": "O presidente Luiz Inácio Lula da Silva defendeu durante live nas redes sociais, o projeto de ajuste fiscal do governo",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/159480-2/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "13:45",
+"t": "Contrato de R$ 330 milhões com comprador não revelado ganha atenção após aviões militares do Catar fazerem quatro viagens ao Brasil em 60 dias",
+"p": "Acordo da Mac Jee para fornecimento de munições a uma força aérea estrangeira desperta interesse após operações de cargueiros militares no aeroporto de Viracopos",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/contrato-de-r-330-milhoes-com-comprador-nao-revelado-ganha-atencao-apos-avioes-militares-do-catar-fazerem-quatro-viagens-ao-brasil-em-60-dias/",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "13:39",
@@ -54927,87 +55008,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/pe-de-meia-universitario-estudantes-poderao-acumular-r-10-mil-e-receber-bolsa-de-r-700/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:30",
-"t": "A caminho do altar, noiva faz parada em hospital para visitar madre que marcou sua vida",
-"p": "A poucos minutos de subir ao altar, Lorrane Thamires Moreira, de 30 anos, fez uma parada especial antes de encontrar o noivo. Já vestida de noiva e com o buquê nas mãos, ela foi ao Hospital Unimed Campo Grande, no Mato Grosso do Sul, visitar madre Elisabeth, que está internada para tratamento de saúde. A […]",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/estilo-de-vida/a-caminho-do-altar-noiva-faz-parada-em-hospital-para-visitar-madre-que-marcou-sua-vida/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:30",
-"t": "Balsas do litoral de SP começam a aceitar Pix e cartões na segunda-feira (9)",
-"p": "AcquaVias assume operação de 14 travessias com implantação gradual de novos pagamentos; contrato prevê R$2,5 bilhões em investimentos e renovação da frota",
-"tema": "Investimentos",
-"s": "obra",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/balsas/balsas-do-litoral-de-sp-comecam-a-aceitar-pix-e-cartoes-na-segunda-feira-9.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:27",
-"t": "Festa do Frango terá shows e encontro de carros antigos",
-"p": "Festa do Frango será realizado de sexta-feira a domingo, no Engenho Central, com entrada gratuita e opções gastronômicas; veja a programação",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/piracicaba/festa-do-frango-tera-shows-atracoes-culturais-e-encontro-de-carros-antigos/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:24",
-"t": "Rodovia Padre Manoel da Nóbrega tem interdição no sentido Praia Grande",
-"p": "Bloqueio ocorre entre os quilômetros 359 e 356 da rodovia, com operação reversível por causa de obras; tráfego segue normal no sentido Miracatu",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Miracatu"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-interdicao-no-sentido-praia-grande.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:24",
-"t": "Veículo da Prefeitura de Cardoso se envolve em colisão no trevo de Álvares Florence",
-"p": "Um automóvel pertencente à Prefeitura de Cardoso, que transportava dois pacientes para atendimento, envolveu-se em um acidente de trânsito na noite de quinta-feira (5), no trevo de acesso ao município de Álvares Florence, na Rodovia Péricles Belini. De acordo com as informações preliminares, o veículo municipal…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Álvares Florence",
-"Cardoso"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/veiculo-da-prefeitura-de-cardoso-se-envolve-em-colisao-no-trevo-de-alvares-florence/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:23",
-"t": "Polícia Militar apreende adolescente com mandado em aberto em Votuporanga",
-"p": "Um adolescente com mandado de busca e apreensão em aberto foi apreendido pela Polícia Militar na quinta-feira (5), no município de Votuporanga. A localização do jovem ocorreu durante um patrulhamento preventivo, após os agentes receberem informações sobre a ordem judicial pendente. Com base na denúncia, a equipe…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-militar-apreende-adolescente-com-mandado-em-aberto-em-votuporanga/",
 "auto": true
 }
 ]
