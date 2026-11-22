@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T16:55:23-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-22T17:52:31-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,62 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "17:49",
+"t": "São Paulo lidera em sete modalidades na primeira semana das Paralimpíadas Escolares 2026",
+"p": "A delegação do Estado de São Paulo encerrou sua participação na primeira semana da Fase Nacional das Paralimpíadas Escolares 2026, realizada no Centro de Treinamento Paralímpico Brasileiro (CTPB) e no Estádio Ícaro de Castro Mello, na capital paulista, com um desempenho histórico. Os jovens atletas paulistas…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sao-paulo-lidera-em-sete-modalidades-na-primeira-semana-das-paralimpiadas-escolares-2026/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "17:48",
+"t": "PM de SP apreende mais de 1,3 tonelada de drogas e prende duas pessoas em Mairiporã",
+"p": "A Polícia Militar, por meio da Força Tática do 26º BPM/M, apreendeu 1,37 tonelada de drogas e localizou uma estrutura utilizada para o preparo e refino de entorpecentes durante uma ação, na noite de sábado (21), em Mairiporã, na Grande São Paulo. A equipe policial recebeu uma denúncia de moradores, que alegaram uma…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mairiporã"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-de-sp-apreende-mais-de-13-tonelada-de-drogas-e-prende-duas-pessoas-em-mairipora/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "17:48",
+"t": "Defesa Civil de SP envia 25 alertas de chuvas neste domingo (22) para o estado; sirene em Campos do Jordão é acionada",
+"p": "A Defesa Civil do Estado de São Paulo enviou 25 alertas por causa das fortes chuvas registradas neste domingo (22). Do total, nove foram por meio do sistema Cell Broadcast (CBC) e 16 por meio de envio de SMS até as 16h38. LEIA TAMBÉM: Defesa Civil de SP destina ajuda humanitária com mais de 500 […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-de-sp-envia-25-alertas-de-chuvas-neste-domingo-22-para-o-estado-sirene-em-campos-do-jordao-e-acionada/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "17:07",
+"t": "Nunes manifesta apoio a Bolsonaro após internação na UTI: \"Oração\"",
+"p": "Prefeito de São Paulo Ricardo Nunes (MDB) publicou mensagem de apoio ao ex-presidente nas redes sociais dele neste domingo",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/nunes-manifesta-apoio-a-bolsonaro-apos-internacao-na-uti-oracao",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "16:47",
@@ -54943,60 +54999,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367274/piscinao-de-sao-caetano-chega-a-90-da-estrutura-concluida",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:00",
-"t": "MPSP investiga desvio de R$ 24,9 milhões da previdência municipal de Itanhaém",
-"p": "Reprodução/Canal5 Web TV Segundo o MP, os recursos teriam sido desviados entre 2023 e 2026, por transferências para contas de pessoas sem vínculo com o Itanhaém Prev.",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Itanhaém"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/mpsp-investiga-desvio-de-r-249-milhoes-da-previdencia-municipal-de-itanhaem/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "15:00",
-"t": "Justiça Federal concede liminar e autoriza retorno de três casas de apostas no país",
-"p": "O Tribunal Regional Federal da 3ª Região (TRF-3), com sede em São Paulo, autorizou o retorno das atividades de três plataformas de apostas esportivas, conhecidas como bets. A decisão liminar, proferida pela desembargadora Adriana Pileggi, contempla os sites Casa de Apostas, Betsul e Jogo Online, todos geridos pela…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/justica-federal-concede-liminar-e-autoriza-retorno-de-tres-casas-de-apostas-no-pais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:55",
-"t": "Ave de peito vermelho e canto potente é encontrada no quintal de casa e mobiliza GCM em cidade do litoral de SP",
-"p": "A Guarda Civil Municipal (GCM) Ambiental de São Vicente resgatou um trinca-ferro (Saltator similis) no último domingo (1º), no bairro Vila Ema. A ave foi encontrada no quintal de uma residência, após um morador acionar a corporação. Uma equipe da Inspetoria Ambiental foi enviada ao local e constatou que o animal…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/ave-de-peito-vermelho-e-canto-potente-e-encontrada-no-quintal-de-casa-e-mobiliza-gcm-em-cidade-do-litoral-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "14:55",
-"t": "Craque Neto expõe a única condição para que aconteça a entrevista com Neymar em programa da Band: “Já avisa pra ele e pro o pai dele”",
-"p": "Nas últimas semanas, o encontro entre Neymar e Neto foi constantemente citado pelo apresentador do programa Os Donos da Bola. Além da entrevista concedida à atração da Band, Neto afirmou que visitará o Instituto Neymar Jr., o CT Rei Pelé e o acervo pessoal do jogador. Durante conversa na Rádio Craque Neto, no…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/craque-neto-expoe-a-unica-condicao-para-que-aconteca-a-entrevista-entre-ele-e-neymar-em-programa-da-band-ja-avisa-pra-ele-e-pro-o-pai-dele/",
 "auto": true
 }
 ]
