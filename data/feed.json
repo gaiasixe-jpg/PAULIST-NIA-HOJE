@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-22T07:54:05-03:00",
+"atualizado": "2026-11-22T08:51:03-03:00",
 "novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -28,9 +26,14 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 79 cidades com edição recente)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -40,19 +43,61 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Diário do Litoral",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "08:45",
+"t": "Ubatuba promove palestra sobre El Niño e perspectivas climáticas para 2026 e 2027",
+"p": "Palestra abordará os possíveis impactos do fenômeno nos padrões de chuva e temperatura e sua relação com os riscos climáticos no município",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ubatuba/ubatuba-promove-palestra-sobre-el-nino-e-perspectivas-climaticas-para-2026-e-2027.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "08:10",
+"t": "Colisão frontal entre dois carros deixa três feridos na Mogi-Bertioga",
+"p": "Batida ocorreu na madrugada deste domingo (22), em Biritiba-Mirim; todas as faixas da rodovia chegaram a ficar interditadas, mas não houve congestionamento",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Biritiba-Mirim"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/colisao-frontal-entre-dois-carros-deixa-tres-feridos-na-mogi-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "07:53",
+"t": "Confira a previsão do tempo para Marília neste domingo (22/11)",
+"p": "Temperaturas chegam a 32°C, com possibilidade de chuva a partir da tarde e precipitação no período noturno.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-neste-domingo-22-11/",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "07:45",
@@ -54988,47 +55033,6 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/pai-de-santo-e-preso-suspeito-de-abuso-sexual-contra-fieis-em-templo",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:25",
-"t": "Homem fica gravemente ferido após sofrer espancamento e pedir socorro em motel",
-"p": "Um homem de 32 anos deu entrada em estado grave em uma unidade de saúde após ser brutalmente espancado e buscar abrigo em um motel no bairro Jardim Itapema, em São José do Rio Preto. O caso ocorreu na tarde de quinta-feira (5). Testemunhas relataram ter visto dois suspeitos armados com barras de ferro nas […]",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-fica-gravemente-ferido-apos-sofrer-espancamento-e-pedir-socorro-em-motel/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:24",
-"t": "Polícia Civil investiga morte de recicladora de 49 anos em Rio Preto",
-"p": "A Polícia Civil de São José do Rio Preto apura as causas da morte de Luciana Marquiori, recicladora de 49 anos, ocorrida na madrugada desta sexta-feira (6), no bairro Jardim Brejo Alegre. O caso foi registrado na Polícia Militar como morte suspeita, sem causas aparentes imediatas. Segundo informações do boletim de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto",
-"Brejo Alegre"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-investiga-morte-de-recicladora-de-49-anos-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:23",
-"t": "Câmera flagra professora puxando aluno de 5 anos pelo agasalho: TRT-2 mantém justa causa e nega indenização por danos morais",
-"p": "A câmera de segurança do refeitório da escola registrou o momento em que uma professora de educação infantil puxou bruscamente um aluno de cinco anos pelo agasalho. Depois do episódio, a escola demitiu a profissional por justa causa. A professora recorreu da decisão e pediu a reversão da penalidade. Alegou que a…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/camera-flagra-professora-puxando-aluno-de-5-anos-pelo-agasalho-trt-2-mantem-justa-causa-e-nega-indenizacao-por-danos-morais/",
 "auto": true
 }
 ]

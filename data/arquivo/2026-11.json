@@ -3,6 +3,48 @@
 "itens": [
 {
 "d": "2026-11-22",
+"h": "08:45",
+"t": "Ubatuba promove palestra sobre El Niño e perspectivas climáticas para 2026 e 2027",
+"p": "Palestra abordará os possíveis impactos do fenômeno nos padrões de chuva e temperatura e sua relação com os riscos climáticos no município",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ubatuba/ubatuba-promove-palestra-sobre-el-nino-e-perspectivas-climaticas-para-2026-e-2027.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "08:10",
+"t": "Colisão frontal entre dois carros deixa três feridos na Mogi-Bertioga",
+"p": "Batida ocorreu na madrugada deste domingo (22), em Biritiba-Mirim; todas as faixas da rodovia chegaram a ficar interditadas, mas não houve congestionamento",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Biritiba-Mirim"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/colisao-frontal-entre-dois-carros-deixa-tres-feridos-na-mogi-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "07:53",
+"t": "Confira a previsão do tempo para Marília neste domingo (22/11)",
+"p": "Temperaturas chegam a 32°C, com possibilidade de chuva a partir da tarde e precipitação no período noturno.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-neste-domingo-22-11/",
+"auto": true
+},
+{
+"d": "2026-11-22",
 "h": "07:45",
 "t": "Obituário | Falecimentos registrados neste domingo (22/11) em Marília e região",
 "p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região neste domingo, dia 22 de novembro.",
