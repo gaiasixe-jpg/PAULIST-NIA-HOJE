@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-21T20:46:37-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-21T22:15:45-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 84 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -50,6 +50,58 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-21",
+"h": "21:50",
+"t": "Férias escolares na Copa do Mundo Feminina de 2027 não serão mais obrigatórias em todo o País",
+"p": "Os sistemas de ensino públicos e privados terão liberdade para escolher se mudam ou não a data das férias escolares durante a Copa do Mundo Feminina de 2027, que será disputada no Brasil entre 24 de junho e 25 de julho. A decisão vem do Projeto de Lei 3.481/2026, aprovado pelo Senado nesta quarta-feira (18/11), […]",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/esportes/ferias-escolares-na-copa-do-mundo-feminina-de-2027-nao-serao-mais-obrigatorias-em-todo-o-pais/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "21:14",
+"t": "Claudia Raia mostra mansão de R$ 50 milhões e 1.600 m² com obras de Tarsila do Amaral e móveis assinados por Oscar Niemeyer",
+"p": "A atriz Claudia Raia, de 59 anos, voltou a mostrar detalhes de sua casa de campo em Bragança Paulista, no interior de São Paulo. Em um vídeo publicado pela revista Casa Vogue no fim de outubro, a artista apresentou ambientes da propriedade que divide com o marido, o ator Jarbas Homem de Mello, e revelou […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Bragança Paulista"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/claudia-raia-mostra-mansao-de-r-50-milhoes-e-1-600-m%c2%b2-com-obras-de-tarsila-do-amaral-e-moveis-assinados-por-oscar-niemeyer/",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "21:05",
+"t": "Tiroteio após evento deixa um morto e 14 feridos no litoral de São Paulo",
+"p": "Dos 14 feridos, três chegaram à unidade de saúde em estado grave. Tiroteio teria acontecido após briga entre criminosos de dois bairros",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tiroteio-apos-evento-deixa-um-morto-e-14-feridos-no-litoral-de-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-21",
+"h": "20:43",
+"t": "Menino negro de 9 anos enfrenta polícia ao tentar levar livros de ciência de biblioteca, vira astronauta da NASA e é homenageado no mesmo prédio décadas depois",
+"p": "Em 1959, um menino negro de apenas 9 anos entrou em uma biblioteca pública nos Estados Unidos procurando livros de ciência. O que deveria ser uma visita comum terminou com a presença da polícia e de sua mãe, chamada pelos funcionários depois que a criança insistiu em levar os livros para casa. O episódio aconteceu […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/menino-negro-de-9-anos-enfrenta-policia-ao-tentar-levar-livros-de-ciencia-de-biblioteca-vira-astronauta-da-nasa-e-e-homenageado-no-mesmo-predio-decadas-depois/",
+"auto": true
+},
 {
 "d": "2026-11-21",
 "h": "20:23",
@@ -54970,60 +55022,6 @@
 "c": [],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/brasil/pm-de-sp-abre-concurso-com-2-mil-vagas-para-aluno-soldado-e-salario-de-r548251.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:05",
-"t": "São Bernardo recebe Primavera Pet com feira de adoção e desfile neste domingo (8)",
-"p": "Evento será realizado no Rudge Ramos com cãominhada, distribuição de brindes e sorteios; programação ocorre em espaço coberto",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367251/sao-bernardo-recebe-primavera-pet-com-feira-de-adocao-e-desfile-neste-domingo-8-",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:02",
-"t": "Entulho de obras viram móveis funcionais e peças de decoração com nova tecnologia que impulsiona a economia e a sustentabilidade",
-"p": "Os resíduos gerados por reformas e demolições costumam provocar graves impasses urbanos em diversas cidades. Para enfrentar esse desafio de descarte, uma nova solução desenvolvida na Colômbia permite processar restos de obras e transformá-los em peças decorativas, estruturas arquitetônicas e mobílias funcionais. O…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/entulho-de-obras-viram-moveis-funcionais-e-pecas-de-decoracao-com-nova-tecnologia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "11:00",
-"t": "Cobra-d’água entra em casa pela tubulação e é resgatada pela GCM em São Vicente",
-"p": "Divulgação Uma cobra-d’água entrou em uma residência pela tubulação e surpreendeu uma moradora em São Vicente, na manhã de quarta-feira (4).",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/cobra-dagua-entra-em-casa-pela-tubulacao-e-e-resgatada-pela-gcm-em-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "10:56",
-"t": "Obras em 70%: Hospital Universitário de Jundiaí vai ganhar 3 mil m² de estrutura e novo Centro Cirúrgico",
-"p": "Foto: Prefeitura de Jundiaí Com investimento de R$ 70 milhões, unidade terá seis salas cirúrgicas, espaços para parto natural e mudanças nas acomodações de mães e bebês. Confira.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-universitario-de-jundiai-novo-centro-cirurgico-obras-70-porc/",
 "auto": true
 }
 ]
