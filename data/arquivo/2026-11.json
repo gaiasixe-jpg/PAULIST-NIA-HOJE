@@ -3,6 +3,228 @@
 "itens": [
 {
 "d": "2026-11-23",
+"h": "09:06",
+"t": "Acidente deixa duas mulheres feridas na BR-153 em Rio Preto",
+"p": "Colisão ocorreu na neste domingo (22), no km 49. Um dos motoristas fugiu do local e as duas vítimas foram socorridas ao Hospital de Base",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/acidente-deixa-duas-mulheres-feridas-na-br-153-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:04",
+"t": "Prefeitura de Fernandópolis firma termo da PNAB para espetáculo circense de prevenção ao abuso infantil",
+"p": "A Prefeitura de Fernandópolis, por meio da Secretaria Municipal de Cultura e Turismo, oficializou no dia 17 de novembro a assinatura de mais um Termo de Execução Cultural referente à Política Nacional Aldir Blanc (PNAB). Desta vez, a profissional contemplada foi a cantora, compositora e musicoterapeuta Bárbara…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-firma-termo-da-pnab-para-espetaculo-circense-de-prevencao-ao-abuso-infantil/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:03",
+"t": "Ouroeste recebe espetáculo gratuito de dança “Mundo Animado” nesta sexta-feira (27)",
+"p": "O Centro de Eventos José Nubiato Filho, em Ouroeste, será palco nesta sexta-feira (27), a partir das 19h, do espetáculo de dança “Mundo Animado”. Promovida pelo Governo Municipal por meio da Secretaria Municipal de Turismo, a apresentação tem como objetivo valorizar a arte local e destacar o talento e a dedicação…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ouroeste-recebe-espetaculo-gratuito-de-danca-mundo-animado-nesta-sexta-feira-27/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:02",
+"t": "Santa Casa de Fernandópolis e Moto Clube realizam ação gratuita de exames pelo Novembro Azul",
+"p": "A Santa Casa de Fernandópolis, em parceria com o Moto Clube Veritas Suprema, promoveu neste domingo (22) uma campanha especial voltada à conscientização sobre a saúde do homem. A iniciativa integrou as atividades do Novembro Azul e reuniu motociclistas e moradores da comunidade para incentivar o autocuidado e o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-e-moto-clube-realizam-acao-gratuita-de-exames-pelo-novembro-azul/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:00",
+"t": "Psicóloga morre em grave acidente na região; morte causa comoção em Icém",
+"p": "A população de Icém está em luto após o falecimento da psicóloga Leninha Frederico, moradora da cidade que morreu vítima de um grave acidente de trânsito ocorrido na noite deste domingo (22), no município vizinho de Altair. A confirmação do óbito gerou forte comoção e tristeza entre familiares, amigos e moradores…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Altair",
+"Icém"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/psicologa-morre-em-grave-acidente-na-regiao-morte-causa-comocao-em-icem/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:53",
+"t": "Polícia Militar prende homem por tráfico de drogas e apreende crack e réplica de arma",
+"p": "Um homem foi preso em flagrante pela Polícia Militar sob suspeita de tráfico de drogas em Castilho. A ação policial começou após a corporação receber uma denúncia anônima indicando que um suspeito estaria vendendo entorpecentes em um imóvel na Rua Bento da Cruz, ponto conhecido na região como “Castelinho”, onde…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Castilho"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-prende-homem-por-trafico-de-drogas-e-apreende-crack-e-replica-de-arma/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:52",
+"t": "Oito cidades do litoral de SP estão entre as dez mais chuvosas do estado nas últimas 12 horas",
+"p": "Números são da Defesa Civil do Estado, que informou que foram coletados às 6h40 desta segunda (23); alerta de chuva está em vigor até terça (24)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/clima/oito-cidades-do-litoral-de-sp-estao-entre-as-dez-mais-chuvosas-do-estado-nas-ultimas-12-horas.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:50",
+"t": "Homem é preso em flagrante por adulteração de motor de motocicleta",
+"p": "Um homem de 31 anos foi preso em flagrante pela Polícia Militar em Pereira Barreto sob suspeita de adulteração de sinal identificador de veículo automotor. O flagrante ocorreu durante um patrulhamento preventivo pela região central do município, quando os agentes decidiram fiscalizar uma motocicleta Honda CG 125…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Pereira Barreto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-preso-em-flagrante-por-adulteracao-de-motor-de-motocicleta/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:49",
+"t": "Do calor ao frio: Jundiaí terá temporais e temperatura pode cair 8°C; confira a previsão",
+"p": "Foto: Prefeitura de Jundiaí Semana começa abafada, com previsão de temporal nesta segunda-feira (23), e terá queda acentuada nos termômetros a partir de quinta (26).",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-chuva-frio-5/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:48",
+"t": "Ônibus perde controle, bate em carro de PM, bike e casa; 7 ficaram feridos",
+"p": "Segundo os bombeiros, uma das vítimas precisou ser socorrida pelo helicóptero Águia da PM e foi levada aos Hospital das Clínicas",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/onibus-perde-controle-e-bate-em-carro-de-pm-bike-e-casa-feridos",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:47",
+"t": "Homem é atingido por tiro na testa durante discussão em Rio Preto",
+"p": "A vítima estava em um bar, as margens da rodovia Délcio Custódio da Silva, quando foi atingida pelo disparo. Ele foi socorrido pelo Samu a Hospital de Base",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-atingido-por-tiro-na-testa-durante-discussao-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:45",
+"t": "Polícia Militar apreende pistola calibre .38 transportada fora da rota autorizada",
+"p": "Uma pistola calibre .38 e dois carregadores municiados foram apreendidos pela Polícia Militar durante uma operação de fiscalização realizada no quilômetro 2 da estrada vicinal CTH-230, nas proximidades do aeroporto de Castilho. Durante a abordagem a uma caminhonete Toyota Hilux, os agentes realizaram busca pessoal…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Castilho"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-militar-apreende-pistola-calibre-38-transportada-fora-da-rota-autorizada/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:33",
+"t": "Protesto de motoristas e monitoras paralisa do transporte escolar e afeta mil alunos em Campinas",
+"p": "Protesto de trabalhadores cobra reajuste salarial, pagamento de PLR e regularização de empréstimos consignados; pelo menos 40 ônibus deixaram de circular nesta segunda-feira (23)",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/protesto-de-motoristas-e-monitoras-paralisa-do-transporte-escolar-e-afeta-mil-alunos-em-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:25",
+"t": "Maré baixa impede embarque de veículos pesados na balsa de Ilhabela nesta segunda (23)",
+"p": "Espera é de 30 minutos nos dois sentidos, com cinco embarcações em operação; veja tarifas, horários e regras para caminhões",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/balsas/ilhabela/mare-baixa-impede-embarque-de-veiculos-pesados-na-balsa-de-ilhabela-nesta-segunda-23.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:15",
+"t": "Mulher morre após ser atingida por linha com cerol",
+"p": "Mulher de 28 anos seguia com o marido pela Rodovia Hermínio Petrin, entre Charqueada e Piracicaba, quando foi atingida no pescoço pela linha; Polícia Civil investiga o caso",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Charqueada",
+"Piracicaba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/mulher-morre-apos-ser-atingida-por-linha-com-cerol/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:15",
+"t": "Batida frontal entre carros deixa duas mulheres feridas na BR-153 em Rio Preto",
+"p": "Duas mulheres ficaram feridas após uma batida frontal entre dois carros na manhã deste domingo (22), no km 49 da Rodovia Transbrasiliana (BR-153), em São José do Rio Preto (SP). Segundo a Polícia Rodoviária Federal (PRF), o acidente ocorreu por volta das 5h. A motorista de um dos veículos, de 25 anos, sofreu…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/batida-frontal-entre-carros-deixa-duas-mulheres-feridas-na-br-153-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "08:13",
 "t": "Justiça de Votuporanga condena homem a 10 anos de prisão por receptação e uso de caminhonete “dublê” avaliada em R$ 140 mil",
 "p": "A 2ª Vara Criminal e da Infância e Juventude da Comarca de Votuporanga condenou Cleo Junior Neves à pena de 10 anos de reclusão, em regime inicial fechado, além do pagamento de 40 dias-multa, pelos crimes de receptação dolosa e adulteração de sinal identificador de veículo automotor em concurso material. A…",
@@ -13,6 +235,66 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/justica-de-votuporanga-condena-homem-a-10-anos-de-prisao-por-receptacao-e-uso-de-caminhonete-duble-avaliada-em-r-140-mil/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:13",
+"t": "Homem tem celular travado após clicar em falso anúncio de tag de pedágio e perde R$ 15 mil em Rio Preto",
+"p": "Um representante comercial de 60 anos teve um prejuízo de R$ 15 mil após cair em um golpe envolvendo um falso anúncio de tag de pedágio nas redes sociais, em São José do Rio Preto (SP). O boletim de ocorrência foi registrado como estelionato na manhã deste sábado (21), no Plantão Policial. De acordo com […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/homem-tem-celular-travado-apos-clicar-em-falso-anuncio-de-tag-de-pedagio-e-perde-r-15-mil-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:12",
+"t": "Bebê de 7 dias é socorrida por bombeiros após se engasgar durante alimentação em Teodoro Sampaio",
+"p": "Uma recém-nascida de apenas sete dias de vida foi socorrida por bombeiros após se engasgar durante a alimentação com mamadeira, na tarde da quinta-feira (19), em Teodoro Sampaio (SP). A família levou a bebê até a Estação de Bombeiros do município, onde uma policial militar aplicou a manobra de desengasgo e…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Teodoro Sampaio"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/bebe-de-7-dias-e-socorrida-por-bombeiros-apos-se-engasgar-durante-alimentacao-em-teodoro-sampaio/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:10",
+"t": "Concursos públicos têm vagas abertas com salários de até R$ 6,4 mil na região de Presidente Prudente",
+"p": "Moradores da região de Presidente Prudente (SP) que buscam estabilidade financeira e empregos no setor público podem se candidatar a diversas oportunidades de concurso público com inscrições abertas. As oportunidades são para cidades de Pirapozinho, Tupi Paulista, Sandovalina, Mirante do Paranapanema, Rosana,…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Mirante do Paranapanema",
+"Presidente Prudente",
+"Tupi Paulista",
+"Pirapozinho",
+"Sandovalina"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/concursos-publicos-tem-vagas-abertas-com-salarios-de-ate-r-64-mil-na-regiao-de-presidente-prudente/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:08",
+"t": "Maioria das cidades do Oeste Paulista não tem estrutura para prevenir desastres climáticos, aponta IBGE",
+"p": "A seca, as queimadas e os estragos provocados pelas chuvas, principalmente neste período de ação do El Niño, fazem parte da realidade de boa parte dos municípios do Oeste Paulista, na região de Presidente Prudente (SP). Levantamento do Instituto Brasileiro de Geografia e Estatística (IBGE) mostra que, entre 2021 e…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/maioria-das-cidades-do-oeste-paulista-nao-tem-estrutura-para-prevenir-desastres-climaticos-aponta-ibge/",
 "auto": true
 },
 {
