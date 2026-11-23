@@ -3,6 +3,227 @@
 "itens": [
 {
 "d": "2026-11-23",
+"h": "19:56",
+"t": "Padre Manoel da Nóbrega tem trânsito normal nesta segunda (23)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-nesta-segunda-23.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:55",
+"t": "Cascata a céu aberto: chuva alaga rua de Perdizes, na zona oeste de SP",
+"p": "Alagamento arrasta saco de lixo, cavalete de trânsito e faz bueiro entrar em colapso após chuva nesta segunda-feira (23/11)",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cascata-a-ceu-aberto-chuva-alaga-rua-de-perdizes-na-zona-oeste-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:51",
+"t": "Professor é preso suspeito de abusar de aluna de 9 anos em Ribeirão Preto",
+"p": "Professor de escola estadual suspeito de abusar de aluna preso foi afastado das funções nesta segunda-feira (23); ele nega as acusações",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/professor-e-preso-suspeito-de-abusar-de-aluna-de-9-anos-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:39",
+"t": "Queda de barreira interdita trecho da rodovia Presidente Dutra",
+"p": "Monitoramento da RioSP aponta interdição na pista expressa, no sentido São Paulo, além de pontos de tráfego intenso e alagamento na rodovia",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/queda-de-barreira-interdita-trecho-da-rodovia-presidente-dutra.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:38",
+"t": "Encontro promovido pelo curso de Medicina Unifev debate espiritualidade no cuidado em saúde",
+"p": "Evento no Espaço Unifev Saúde reuniu o palestrante Prof. Me. Lindomar Coutinho e docentes da Instituição para abordar a dimensão humana na prática clínica. Promovido pelo curso de Medicina da Unifev, o encontro “Saúde e Espiritualidade” contou com a participação de estudantes e docentes na manhã da última…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/encontro-promovido-pelo-curso-de-medicina-unifev-debate-espiritualidade-no-cuidado-em-saude/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:38",
+"t": "Homem morre em acidente entre carro e caminhão de bois em rodovia em Turmalina",
+"p": "Acidente aconteceu na noite deste domingo (22); motorista do carro morreu no local e circunstâncias da invasão de pista serão investigadas pela Polícia Civil. Um homem de 57 anos morreu na noite deste domingo (22.nov) após uma grave colisão frontal entre um automóvel e uma carreta carregada de bois na Rodovia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Turmalina"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/homem-morre-em-acidente-entre-carro-e-caminhao-de-bois-em-rodovia-em-turmalina/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:31",
+"t": "Apagão que não veio: boato de 17 de novembro confundiu prevenção com alerta de crise",
+"p": "Uma recomendação preventiva da Defesa Civil, um teste de emergência nos Estados Unidos e uma cena de desenho animado foram reunidos em publicações virais que anunciaram um colapso mundial sem apresentar evidências; autoridades dizem que o kit de 72 horas continua útil para situações reais de risco. Leidiane…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/apagao-que-nao-veio-boato-de-17-de-novembro-confundiu-prevencao-com-alerta-de-crise/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:24",
+"t": "Transporte coletivo: Prefeitura abre nova pesquisa para avaliar serviço em Votuporanga",
+"p": "Questionário disponível no site busca conhecer a opinião dos usuários e identificar oportunidades de melhoria; acesso também está disponível no aplicativo Conecta Votuporanga. A Secretaria Municipal de Trânsito, Transporte e Segurança de Votuporanga, disponibiliza uma pesquisa para conhecer a opinião da população…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/transporte-coletivo-prefeitura-abre-nova-pesquisa-para-avaliar-servico-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:22",
+"t": "Mãe e filha morrem em colisão frontal na BR-153; veículos ficaram destruídos",
+"p": "Bruna Gonçalves Silva Machado, de 28 anos, e a filha Nayara Gabriely Silva, de 12, morreram após uma violenta batida entre uma caminhonete e um veículo utilitário em José Bonifácio; outras duas pessoas ficaram gravemente feridas. Uma tragédia marcou a noite da última sexta-feira (20.nov) na Rodovia Transbrasiliana…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"José Bonifácio"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mae-e-filha-morrem-em-colisao-frontal-na-br-153-veiculos-ficaram-destruidos/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:19",
+"t": "Cultura afro-brasileira ocupa o Parque da Cultura durante semana especial",
+"p": "Programação gratuita em Votuporanga reuniu música, dança, capoeira, oficinas, literatura, cinema e feira de artesanato. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com O Parque da Cultura de Votuporanga recebeu, entre os dias 17 e 22 de novembro, a Semana da Consciência…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/cultura-afro-brasileira-ocupa-o-parque-da-cultura-durante-semana-especial/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:14",
+"t": "Mogi registra pontos de alagamento, transbordamento de córregos e interdição de rua; veja vídeo",
+"p": "Sirenes das praças da Bandeira e dos Enfartados foram acionadas durante o temporal para alertar os moradores sobre o acúmulo de água na região",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-registra-pontos-de-alagamento-transbordamento-de-corregos-e-interdicao-de-rua-veja-video/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:13",
+"t": "Vereadora de Votuporanga critica fechamento de supermercados aos domingos após fazer compras em Fernandópolis",
+"p": "A vereadora Débora Romani (PL) gerou repercussão nas redes sociais neste domingo (22) ao publicar um vídeo questionando o fechamento dos supermercados em Votuporanga durante os períodos da tarde e da noite. Na gravação, a parlamentar relatou que precisou parar em Fernandópolis para comprar carne para o jantar da…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis",
+"Votuporanga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/vereadora-de-votuporanga-critica-fechamento-de-supermercados-aos-domingos-apos-fazer-compras-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:07",
+"t": "GCM de São Bernardo soma 60 prisões por violência contra a mulher em 2026",
+"p": "Três flagrantes mais recentes ocorreram na sexta-feira (20), no Batistini, Ferrazópolis e Baeta Neves; em um deles, mulher com medida protetiva pediu ajuda à Guardiã Maria da Penha",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370356/-gcm-de-sao-bernardo-soma-60-prisoes-por-violencia-contra-a-mulher-em-2026",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:02",
+"t": "Mulher morre após ser atingida por linha com cerol em garupa de moto",
+"p": "Flávia Cantarini Zani, de 28 anos, era sobrinha do prefeito de Piracicaba, Helinho Zanatta (PSD). Ele lamentou a morte nas redes sociais",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Piracicaba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mulher-morre-apos-ser-atingida-por-linha-com-cerol-em-garupa-de-moto",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:00",
+"t": "São Bernardo abriga maior polo EAD do Grupo Ânima no País",
+"p": "O reitor da Universidade São Judas no Grande ABC destacou o perfil dos alunos da instituição e os investimentos em cooperação com o poder público e empresas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370358/sao-bernardo-abriga-maior-polo-ead-do-grupo-anima-no-pais",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:00",
+"t": "Guarujá tem 199 famílias sob risco de perder desconto na conta de luz",
+"p": "Neoenergia Elektro orienta beneficiários a verificar o CadÚnico para manter o acesso à Tarifa Social de Energia Elétrica",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/geral/guaruja-tem-199-familias-sob-risco-de-perder-desconto-na-conta-de-luz.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "18:50",
 "t": "Teatros Municipal e de Arena de Ribeirão Preto seguem fechados à espera de recursos para obras",
 "p": "Teatros foram danificados pelo vendaval de 24 de julho e dependem de repasses estaduais e federais para a realização das obras de recuperação",

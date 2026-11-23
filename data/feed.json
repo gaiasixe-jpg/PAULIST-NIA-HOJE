@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-23T18:59:09-03:00",
-"novos_nesta_coleta": 27,
+"atualizado": "2026-11-23T20:00:23-03:00",
+"novos_nesta_coleta": 24,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -29,15 +27,23 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 62 cidades com edição recente)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -50,6 +56,227 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-23",
+"h": "19:56",
+"t": "Padre Manoel da Nóbrega tem trânsito normal nesta segunda (23)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-nesta-segunda-23.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:55",
+"t": "Cascata a céu aberto: chuva alaga rua de Perdizes, na zona oeste de SP",
+"p": "Alagamento arrasta saco de lixo, cavalete de trânsito e faz bueiro entrar em colapso após chuva nesta segunda-feira (23/11)",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/cascata-a-ceu-aberto-chuva-alaga-rua-de-perdizes-na-zona-oeste-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:51",
+"t": "Professor é preso suspeito de abusar de aluna de 9 anos em Ribeirão Preto",
+"p": "Professor de escola estadual suspeito de abusar de aluna preso foi afastado das funções nesta segunda-feira (23); ele nega as acusações",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/professor-e-preso-suspeito-de-abusar-de-aluna-de-9-anos-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:39",
+"t": "Queda de barreira interdita trecho da rodovia Presidente Dutra",
+"p": "Monitoramento da RioSP aponta interdição na pista expressa, no sentido São Paulo, além de pontos de tráfego intenso e alagamento na rodovia",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/queda-de-barreira-interdita-trecho-da-rodovia-presidente-dutra.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:38",
+"t": "Encontro promovido pelo curso de Medicina Unifev debate espiritualidade no cuidado em saúde",
+"p": "Evento no Espaço Unifev Saúde reuniu o palestrante Prof. Me. Lindomar Coutinho e docentes da Instituição para abordar a dimensão humana na prática clínica. Promovido pelo curso de Medicina da Unifev, o encontro “Saúde e Espiritualidade” contou com a participação de estudantes e docentes na manhã da última…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/encontro-promovido-pelo-curso-de-medicina-unifev-debate-espiritualidade-no-cuidado-em-saude/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:38",
+"t": "Homem morre em acidente entre carro e caminhão de bois em rodovia em Turmalina",
+"p": "Acidente aconteceu na noite deste domingo (22); motorista do carro morreu no local e circunstâncias da invasão de pista serão investigadas pela Polícia Civil. Um homem de 57 anos morreu na noite deste domingo (22.nov) após uma grave colisão frontal entre um automóvel e uma carreta carregada de bois na Rodovia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Turmalina"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/homem-morre-em-acidente-entre-carro-e-caminhao-de-bois-em-rodovia-em-turmalina/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:31",
+"t": "Apagão que não veio: boato de 17 de novembro confundiu prevenção com alerta de crise",
+"p": "Uma recomendação preventiva da Defesa Civil, um teste de emergência nos Estados Unidos e uma cena de desenho animado foram reunidos em publicações virais que anunciaram um colapso mundial sem apresentar evidências; autoridades dizem que o kit de 72 horas continua útil para situações reais de risco. Leidiane…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/apagao-que-nao-veio-boato-de-17-de-novembro-confundiu-prevencao-com-alerta-de-crise/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:24",
+"t": "Transporte coletivo: Prefeitura abre nova pesquisa para avaliar serviço em Votuporanga",
+"p": "Questionário disponível no site busca conhecer a opinião dos usuários e identificar oportunidades de melhoria; acesso também está disponível no aplicativo Conecta Votuporanga. A Secretaria Municipal de Trânsito, Transporte e Segurança de Votuporanga, disponibiliza uma pesquisa para conhecer a opinião da população…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/transporte-coletivo-prefeitura-abre-nova-pesquisa-para-avaliar-servico-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:22",
+"t": "Mãe e filha morrem em colisão frontal na BR-153; veículos ficaram destruídos",
+"p": "Bruna Gonçalves Silva Machado, de 28 anos, e a filha Nayara Gabriely Silva, de 12, morreram após uma violenta batida entre uma caminhonete e um veículo utilitário em José Bonifácio; outras duas pessoas ficaram gravemente feridas. Uma tragédia marcou a noite da última sexta-feira (20.nov) na Rodovia Transbrasiliana…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"José Bonifácio"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mae-e-filha-morrem-em-colisao-frontal-na-br-153-veiculos-ficaram-destruidos/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:19",
+"t": "Cultura afro-brasileira ocupa o Parque da Cultura durante semana especial",
+"p": "Programação gratuita em Votuporanga reuniu música, dança, capoeira, oficinas, literatura, cinema e feira de artesanato. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com O Parque da Cultura de Votuporanga recebeu, entre os dias 17 e 22 de novembro, a Semana da Consciência…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/cultura-afro-brasileira-ocupa-o-parque-da-cultura-durante-semana-especial/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:14",
+"t": "Mogi registra pontos de alagamento, transbordamento de córregos e interdição de rua; veja vídeo",
+"p": "Sirenes das praças da Bandeira e dos Enfartados foram acionadas durante o temporal para alertar os moradores sobre o acúmulo de água na região",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-registra-pontos-de-alagamento-transbordamento-de-corregos-e-interdicao-de-rua-veja-video/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:13",
+"t": "Vereadora de Votuporanga critica fechamento de supermercados aos domingos após fazer compras em Fernandópolis",
+"p": "A vereadora Débora Romani (PL) gerou repercussão nas redes sociais neste domingo (22) ao publicar um vídeo questionando o fechamento dos supermercados em Votuporanga durante os períodos da tarde e da noite. Na gravação, a parlamentar relatou que precisou parar em Fernandópolis para comprar carne para o jantar da…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis",
+"Votuporanga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/vereadora-de-votuporanga-critica-fechamento-de-supermercados-aos-domingos-apos-fazer-compras-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:07",
+"t": "GCM de São Bernardo soma 60 prisões por violência contra a mulher em 2026",
+"p": "Três flagrantes mais recentes ocorreram na sexta-feira (20), no Batistini, Ferrazópolis e Baeta Neves; em um deles, mulher com medida protetiva pediu ajuda à Guardiã Maria da Penha",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370356/-gcm-de-sao-bernardo-soma-60-prisoes-por-violencia-contra-a-mulher-em-2026",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:02",
+"t": "Mulher morre após ser atingida por linha com cerol em garupa de moto",
+"p": "Flávia Cantarini Zani, de 28 anos, era sobrinha do prefeito de Piracicaba, Helinho Zanatta (PSD). Ele lamentou a morte nas redes sociais",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Piracicaba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mulher-morre-apos-ser-atingida-por-linha-com-cerol-em-garupa-de-moto",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:00",
+"t": "São Bernardo abriga maior polo EAD do Grupo Ânima no País",
+"p": "O reitor da Universidade São Judas no Grande ABC destacou o perfil dos alunos da instituição e os investimentos em cooperação com o poder público e empresas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370358/sao-bernardo-abriga-maior-polo-ead-do-grupo-anima-no-pais",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "19:00",
+"t": "Guarujá tem 199 famílias sob risco de perder desconto na conta de luz",
+"p": "Neoenergia Elektro orienta beneficiários a verificar o CadÚnico para manter o acesso à Tarifa Social de Energia Elétrica",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/geral/guaruja-tem-199-familias-sob-risco-de-perder-desconto-na-conta-de-luz.html",
+"auto": true
+},
 {
 "d": "2026-11-23",
 "h": "18:50",
@@ -54816,221 +55043,6 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/temporal-derruba-arvores-e-bloqueia-transito-entre-marilia-e-vera-cruz/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:34",
-"t": "Chuva forte derruba árvores, arranca telhados e provoca danos à rede elétrica",
-"p": "Ocorrências foram registradas em diferentes pontos de Guariba neste sábado (7), após chuva forte acompanhada de ventos intensos",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Guariba"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-forte-derruba-arvores-arranca-telhados-e-provoca-danos-a-rede-eletrica/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:29",
-"t": "Elo com PCC: Polícia Civil indicia e pede prisão preventiva de Milton Leite",
-"p": "Polícia Civil aponta envolvimento com o PCC, indicia e pede prisão preventiva de ex-vereador Milton Leite e mais 15 envolvidos em operação",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/elo-com-pcc-policia-civil-indicia-e-pede-prisao-preventiva-de-milton-leite",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:18",
-"t": "Prefeitura de Sorocaba mantém atendimentos a ocorrências causadas pelas fortes chuvas deste sábado (7)",
-"p": "A Prefeitura de Sorocaba mantém em andamento o atendimento às ocorrências decorrentes das chuvas intensas deste sábado (7), em especial, ações de limpeza e desobstrução das vias. Equipes da Defesa Civil, das Secretarias de Mobilidade (Semob) e de Serviços Públicos e Obras (Serpo) e Saae/Sorocaba, além dos demais…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-mantem-atendimentos-a-ocorrencias-causadas-pelas-fortes-chuvas-deste-sabado-7/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:00",
-"t": "Tempestade com granizo destelha centenas de casas na Serra Gaúcha, mobiliza moradores e provoca filas por lonas em Bento Gonçalves",
-"p": "Impacto da chuva em Bento Gonçalves",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/tempestade-com-granizo-destelha-centenas-de-casas-na-serra-gaucha-mobiliza-moradores-e-provoca-filas-por-lonas-em-bento-goncalves/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:00",
-"t": "VLT e ônibus intermunicipais terão gratuidade nos dias de provas do Enem",
-"p": "Divulgação O transporte municipal das cidades de Santos e Praia Grande - VLT e intermunicipal - terão gratuidade de passagem nos dois próximos domingos.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/vlt-e-onibus-intermunicipais-terao-gratuidade-nos-dias-de-provas-do-enem/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:00",
-"t": "Santos mobiliza moradores na limpeza e preservação do manguezal no São Manoel",
-"p": "Raimundo Rosa/Divulgação Prefeitura de Santos Moradores e voluntários participaram do mutirão de limpeza no manguezal do Bairro São Manoel, na Zona Noroeste de Santos.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/santos-mobiliza-moradores-na-limpeza-e-preservacao-do-manguezal-no-sao-manoel/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:00",
-"t": "Homem em situação de rua é socorrido com hipotermia em ponto de ônibus em Santos",
-"p": "Reprodução/Google Street View Um homem em situação de rua, de 50 anos, foi resgatado com ferimentos e quadro de hipotermia em um ponto de ônibus neste sábado (7) em Santos.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/homem-em-situacao-de-rua-e-socorrido-com-hipotermia-em-ponto-de-onibus-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "17:50",
-"t": "F-1: veja o grid de largada do GP de SP com Norris na pole, Câmara em 11º e Bortoleto em 19º",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367498/f-1-veja-o-grid-de-largada-do-gp-de-sp-com-norris-na-pole-camara-em-11-e-bortoleto-em-19-",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "17:40",
-"t": "Nuvem prateleira chama atenção em Viracopos, que recebe voos desviados durante temporal",
-"p": "Aeroporto de Campinas operou pousos e decolagens por instrumentos durante a chuva, mas não registrou impactos nas operações; seis voos desviados tinham Congonhas como destino",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/nuvem-prateleira-chama-atencao-em-viracopos-que-recebe-voos-desviados-durante-temporal/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "17:33",
-"t": "Hospital abre processo seletivo para diferentes vagas e salários de até R$ 7,3 mil",
-"p": "Edital do Hospital Santa Lydia prevê oportunidades para candidatos de níveis médio e superior, além de formação de cadastro reserva; inscrições seguem até 16 de novembro",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/hospital-abre-processo-seletivo-para-diferentes-vagas-e-salarios-de-ate-r-73-mil/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "17:06",
-"t": "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras",
-"p": "A TV Brasil exibe neste domingo (8) o jogo de volta da semifinal entre Ferroviária e São Paulo pelo Paulista F Sub-20 Petrobras. A transmissão na emissora pública da Empresa Brasil de Comunicação (EBC) tem início às 9h45. A partida acontece na cidade de Araraquara (SP). No jogo de ida, disputado na noite de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araraquara"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/tv-brasil-transmite-jogo-entre-ferroviaria-e-paulista-sub-20-petrobras",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "17:02",
-"t": "Há risco de desastre em SP? Entenda orientação da Defesa Civil sobre kit de sobrevivência para 72 horas",
-"p": "Recomendação da Defesa Civil tem caráter preventivo e busca preparar moradores para situações em que o atendimento das equipes de emergência pode demorar a chegar",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/ha-risco-de-desastre-em-sp-entenda-orientacao-da-defesa-civil-sobre-kit-de-sobrevivencia-para-72-horas/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "16:50",
-"t": "Quatro irmãos são presos por tráfico de drogas em Ilhabela",
-"p": "Operação Laços de Sangue ocorreu no bairro Barra Velha, após investigação iniciada em janeiro; Polícia Civil aponta divisão de tarefas entre suspeitos",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ilhabela"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/quatro-irmaos-sao-presos-por-trafico-de-drogas-em-ilhabela.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "16:47",
-"t": "Árvore cai sobre carro durante temporal e casas ficam destelhadas na região",
-"p": "Chuva forte atingiu a região na tarde deste sábado (7); Piracicaba registrou ventos fortes e Hortolândia teve pontos com grande volume de água",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Hortolândia",
-"Piracicaba"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/arvore-cai-sobre-carro-durante-temporal-e-casas-ficam-destelhadas-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "16:40",
-"t": "Defesa Civil interdita 2 imóveis vizinhos ao prédio que desabou no Brás",
-"p": "Perícia foi feita no local neste sábado (7/11). Bombeiros passaram o dia trabalhando na retirada de escombros do desabamento",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/defesa-civil-interdita-2-imoveis-vizinhos-ao-predio-que-desabou-no-bras",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "16:33",
-"t": "Mulher de 40 anos não precisa esperar aparecer um caroço para pedir mamografia pelo SUS; entenda por que a rotina começa somente aos 50 anos",
-"p": "Uma mulher de 40 anos pode procurar o Sistema Único de Saúde (SUS) para realizar uma mamografia mesmo sem sentir dor, perceber um caroço ou apresentar qualquer outro sinal de câncer de mama. Essa possibilidade faz parte das orientações do Ministério da Saúde, mas existe uma diferença importante entre ter acesso ao…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/saude/mulher-de-40-anos-nao-precisa-esperar-aparecer-um-caroco-para-pedir-mamografia-pelo-sus-entenda-por-que-a-rotina-comeca-somente-aos-50-anos/",
 "auto": true
 }
 ]
