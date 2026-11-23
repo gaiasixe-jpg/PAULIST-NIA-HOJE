@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-23T17:11:21-03:00",
-"novos_nesta_coleta": 32,
+"atualizado": "2026-11-23T17:59:21-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,74 @@
 "itens": [
 {
 "d": "2026-11-23",
+"h": "17:49",
+"t": "GCM detém homem em flagrante por violência doméstica, ameaça e injúria no Pq. das Laranjeiras",
+"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba deteve em flagrante, na manhã de domingo (22), um homem de 25 anos, por violência doméstica, ameaça e injúria contra a ex-companheira, de 26 anos, no Parque das Laranjeiras, Zona Norte da cidade. A equipe foi acionada pelo Centro de Controle Operacional Integrado…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-detem-homem-em-flagrante-por-violencia-domestica-ameaca-e-injuria-no-pq-das-laranjeiras/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "17:44",
+"t": "Governo regulamenta fiscalização da escala 5×2 com prazo de 90 dias para adequação de empresas",
+"p": "Foto: Valter Campanato/Agência Brasil Regra publicada pelo Ministério do Trabalho prevê duas visitas dos auditores antes de multas; redução gradual de horas começa em 16 de dezembro de 2026",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/governo-regulamenta-fiscalizacao-escala-5x2-prazo-90-dias/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "17:25",
+"t": "Mulher é achada morta dentro de rio em Ubatuba após ser levada pela chuva",
+"p": "Segundo a Defesa Civil do Estado, a vítima tentou atravessar de moto uma ponte de acesso ao bairro Casanga, quando foi levada pela enxurrada",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mulher-e-achada-morta-dentro-de-rio-em-ubatuba-apos-ser-levada-pela-chuva",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "17:24",
+"t": "Caso Peretto: Justiça nega liberdade e adia júri de irmã ré por homicídio",
+"p": "Marcelly Peretto, presa pelo homicídio do irmão, tem prisão preventiva mantida enquanto espera nova data para júri",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/caso-peretto-justica-nega-liberdade-e-adia-juri-de-irma-re-por-homicidio",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "17:16",
+"t": "Etec Benedito Storani realiza 4º Encontro Técnico sobre Cultivo Protegido e homenageia professora Isabel Harder",
+"p": "Foto: Divulgação Evento em Jundiaí reúne empresas do agronegócio, produtores, agrônomos e estudantes em Dia de Campo com estações técnicas; edição de 2026 tem participação inédita de alunos do Ensino Médio integrado ao Técnico em Agropecuária",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/encontro-tecnico-cultivo-protegido-etec-jundiai-2026/",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "17:10",
 "t": "Homem disse à polícia que usou coleira de choque para \"adestrar\" cachorro",
 "p": "Tutor, um morador de Presidente Prudente, foi autuado por maus-tratos e multado em R$ 3 mil pela Polícia Militar Ambiental",
@@ -62,6 +130,32 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/homem-disse-a-policia-que-usou-coleira-de-choque-para-adestrar-cachorro",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "17:10",
+"t": "Casal é multado em mais de 11 mil por galos de lata de 1,8 m no jardim e leva cidade à Justiça nos EUA",
+"p": "Créditos: WMTW via CNN Newsource Donos de restaurante em Ogunquit, no Maine, processam a prefeitura após multas por dois galos de lata no jardim de casa. A família alega violação da Primeira Emenda.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/casal-e-multado-em-mais-de-11-mil-por-galos-de-lata-de-18-m-no-jardim-e-leva-cidade-a-justica-nos-eua/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "17:00",
+"t": "Cine Comunidade Santos anuncia terceira temporada com sessões gratuitas e programação cultural em dezembro",
+"p": "O Cine Comunidade Santos realizará sua terceira temporada entre os dias 5 e 9 de dezembro, com atividades gratuitas em diferentes lugares do município. A edição acontece sem patrocínio ou recursos de incentivos públicos, viabilizada por parcerias e apoios. A abertura será no sábado (5), às 10h30, na Concha…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/cine-comunidade-santos-anuncia-terceira-temporada-com-sessoes-gratuitas-e-programacao-cultural-em-dezembro/",
 "auto": true
 },
 {
@@ -231,6 +325,18 @@
 },
 {
 "d": "2026-11-23",
+"h": "16:22",
+"t": "Tarcísio defende discussão de limites de decisões monocráticas do STF",
+"p": "Governador também defendeu debate sobre as competências do Supremo Tribunal Federal e o alcance das decisões tomadas individualmente por ministros",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370314/tarcisio-defende-discussao-de-limites-de-decisoes-monocraticas-do-stf",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "16:20",
 "t": "13º salário terá primeira parcela paga até segunda-feira (30) e isenção de Imposto de Renda para quem ganha até R$ 5 mil; veja como calcular",
 "p": "Trabalhadores com carteira assinada e servidores públicos devem receber a primeira parcela do 13º salário até a próxima segunda-feira (30). O benefício, também conhecido como gratificação natalina, pode ser dividido em duas partes: a primeira deve ser depositada entre fevereiro e novembro, enquanto a segunda tem…",
@@ -239,6 +345,22 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/brasil/13o-salario-tera-primeira-parcela-paga-ate-segunda-feira-30-e-isencao-de-imposto-de-renda-para-quem-ganha-ate-r-5-mil-veja-como-calcular/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "16:18",
+"t": "Forte chuva provoca alagamento na divisa entre Santo André e Mauá",
+"p": "Transbordamento do Rio Itrapoa interditou parcialmente a Avenida João Ramalho nesta segunda (23), em frente à fábrica da Magneti Marelli, durante alerta da Defesa Civil para temporais na região",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"João Ramalho",
+"Santo André",
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370315/forte-chuva-provoca-alagamento-na-divisa-entre-santo-andre-e-maua-",
 "auto": true
 },
 {
@@ -2710,6 +2832,48 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67790",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "00:00",
+"t": "Brasil Novo conquista título do Amador de Prudente diante de mais de 2 mil torcedores",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67796",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "00:00",
+"t": "Prefeito revoga suspensão e libera pagamento de licença-prêmio a cerca de mil servidores",
+"p": "",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67795",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "00:00",
+"t": "Prefeitura conclui recape da rotatória do Sam’s Club; trabalho segue na ‘Ponte do Bordon’",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67794",
 "auto": true
 },
 {
@@ -54856,172 +55020,6 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/praiagrande/guarda-civil-municipal-de-praia-grande-prende-grupo-especializado-em-furtar-bicicletas-de-alto-valor.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:31",
-"t": "Casos de Covid-19 crescem há seis semanas em 19 estados, aponta Ministério da Saúde",
-"p": "Aumento é observado em todas as faixas etárias; apesar da alta, o órgão classifica como baixo o nível de atividade da doença em todos os estados",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/saude/casos-de-covid-19-crescem-ha-seis-semanas-em-19-estados-aponta-ministerio-da-saude/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:30",
-"t": "Abandonado aos 8 anos, homem revela como foi adotado por Zezé Motta após encontro inesperado em casamento no Rio",
-"p": "A história de Robson Motta, adotado pela atriz Zezé Motta depois de passar parte da infância vivendo nas ruas do Rio de Janeiro, emocionou o público do programa “Avisa Lá Que Eu Vou”, do GNT. Aos 45 anos, ele relembrou ao apresentador Paulo Vieira o abandono aos 8 anos, os anos na Central do Brasil […]",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/estilo-de-vida/abandonado-aos-8-anos-homem-revela-como-foi-adotado-por-zeze-motta-apos-encontro-inesperado-em-casamento-no-rio/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:20",
-"t": "Frente fria muda o tempo na região no fim de semana do Enem",
-"p": "O fim de semana será marcado por mudanças no tempo em Rio Preto. A chegada de uma frente fria deve provocar pancadas de chuva, possibilidade de temporais e queda nas temperaturas entre sábado (7) e domingo (8), quando será aplicado o primeiro dia do Exame Nacional do Ensino Médio (Enem) 2026. Neste sábado, o calor […]",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/frente-fria-muda-o-tempo-na-regiao-no-fim-de-semana-do-enem/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:20",
-"t": "Polícia prende dois e apreende mais de 2kg de drogas em São Vicente e Praia Grande",
-"p": "Operação Monte Castelo cumpriu cinco mandados de busca em São Vicente e Praia Grande; ação resultou na apreensão de 2.051 porções de entorpecentes",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Monte Castelo",
-"São Vicente"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/policia-prende-dois-e-apreende-mais-de-2kg-de-drogas-em-sao-vicente-e-praia-grande.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:16",
-"t": "Porte de arma e táticas de tiro: GCM de Cubatão passa por qualificação profissional",
-"p": "Capacitação anual dividida em duas etapas cumpre exigências da Polícia Federal e aborda a Lei de Abuso de Autoridade e procedimentos em delegacia",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Cubatão"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/cubatao/porte-de-arma-e-taticas-de-tiro-gcm-de-cubatao-passa-por-qualificacao-profissional.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "13:58",
-"t": "Veja como as passagens de fauna nas rodovias concedidas de SP garantem segurança viária e proteção aos animais",
-"p": "De capivaras, tatus, cotias a onças e até lobos-guarás, além de animais silvestres, podem ser avistados cruzando o percurso das rodovias paulistas concedidas. Apesar de ser um momento que pode gerar contemplação, é comum motoristas terem dúvidas sobre como agir nessas situações. A preservação da fauna silvestre é…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/veja-como-as-passagens-de-fauna-nas-rodovias-concedidas-de-sp-garantem-seguranca-viaria-e-protecao-aos-animais/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "13:58",
-"t": "Banco de Sangue do Hospital do Servidor Público Estadual funciona com 18% do estoque ideal; saiba como doar",
-"p": "O Banco de Sangue do Hospital do Servidor Público Estadual (HSPE) de São Paulo funciona com 18% do estoque. A reserva ideal é de mil bolsas do insumo e atualmente conta com 180. O diretor da unidade, Fábio Lino, explica que essa quantidade é insuficiente para manter o volume de segurança nos níveis padrão, pois […]",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/banco-de-sangue-do-hospital-do-servidor-publico-estadual-funciona-com-18-do-estoque-ideal-saiba-como-doar/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "13:58",
-"t": "Governo de SP leva 10 startups paulistas ao Web Summit Lisboa 2026",
-"p": "A Secretaria de Ciência, Tecnologia e Inovação do Estado de São Paulo irá liderar uma comitiva composta por representantes de 10 startups paulistas, que embarcam durante este final de semana para Lisboa (Portugal) para participar do Web Summit 2026, considerado o maior evento de tecnologia e inovação do mundo. Ao…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/governo-de-sp-leva-10-startups-paulistas-ao-web-summit-lisboa-2026/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "13:58",
-"t": "Orgulho Nerd SP anuncia Supercombo, Miura Jam e Arena Medieval como as primeiras atrações da edição 2026",
-"p": "O mundo dos games, animes, quadrinhos e da cultura pop/nerd vão invadir a Mercado Livre Arena Pacaembu, pela primeira vez, com o Orgulho Nerd SP, nos dias 21 e 22 de novembro (sábado e domingo). Gratuito, o evento é realizado pela Secretaria da Cultura, Economia e Indústria Criativas do Governo do Estado de São…",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"Pacaembu"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/orgulho-nerd-sp-anuncia-supercombo-miura-jam-e-arena-medieval-como-as-primeiras-atracoes-da-edicao-2026/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "13:52",
-"t": "Mogi-Bertioga tem tráfego normal apesar da chuva neste sábado (7)",
-"p": "Trechos monitorados entre Mogi das Cruzes e Bertioga não apresentam lentidão, mas há pancadas de chuva no litoral e chuva fraca com trovoadas na serra",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Mogi das Cruzes",
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-trafego-normal-apesar-da-chuva-neste-sabado-7.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "13:43",
-"t": "Rodovia Oswaldo Cruz tem tráfego normal entre Taubaté e Ubatuba neste sábado (7)",
-"p": "Tempo está bom e a visibilidade é boa nos trechos monitorados, mas motoristas devem ficar atentos à possibilidade de neblina na serra",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Taubaté",
-"Ubatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-tem-trafego-normal-entre-taubate-e-ubatuba-neste-sabado-7.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "13:36",
-"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal neste sábado (7)",
-"p": "Motoristas encontram tempo bom e boa visibilidade entre Taubaté e Campos do Jordão, mas devem ficar atentos à possibilidade de neblina na serra",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campos do Jordão",
-"Taubaté"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-neste-sabado-7.html",
 "auto": true
 }
 ]
