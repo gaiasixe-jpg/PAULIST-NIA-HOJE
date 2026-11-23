@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-23T20:00:23-03:00",
-"novos_nesta_coleta": 24,
+"atualizado": "2026-11-23T20:57:28-03:00",
+"novos_nesta_coleta": 26,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -26,8 +26,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 62 cidades com edição recente)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -53,9 +52,262 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "The read operation timed out | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503:"
 }
 ],
 "itens": [
+{
+"d": "2026-11-23",
+"h": "20:57",
+"t": "Motociclista de 49 anos morre após carro atravessar canteiro central na Rodovia Marechal Rondon",
+"p": "Um motociclista de 49 anos morreu na tarde desta segunda-feira (23) depois de ter a moto atingida de frente por um carro que cruzou o canteiro central da Rodovia Marechal Rondon (SP-300), em Birigui. A batida ocorreu por volta das 14h20, na altura do quilômetro 525,4. Segundo o registro da Polícia Rodoviária, a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motociclista-de-49-anos-morre-apos-carro-atravessar-canteiro-central-na-rodovia-marechal-rondon/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:56",
+"t": "Terça-feira terá chuvas fortes, raios e risco de granizo em todo o estado de São Paulo",
+"p": "As condições de instabilidade climática permanecem em todo o território paulista nesta terça-feira (24), influenciadas pela atuação de um cavado meteorológico . De acordo com a previsão meteorológica, há expectativa de pancadas de chuva de forte intensidade acompanhadas por descargas elétricas, rajadas pontuais de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/terca-feira-tera-chuvas-fortes-raios-e-risco-de-granizo-em-todo-o-estado-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:53",
+"t": "Homem usa prancha e martelo para resgatar idoso em carro submerso",
+"p": "Veículo ficou parcialmente coberto pela água após uma forte chuva nesta segunda-feira (23/11) em Mogi das Cruzes",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-usa-prancha-e-martelo-para-resgatar-idoso-em-carro-submerso",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:50",
+"t": "Saúde alerta para golpe envolvendo oferta de exame de PSA mediante pagamento",
+"p": "Moradores relatam ligações oferecendo PSA mediante pagamento em nome da campanha Novembro Azul. A Secretaria Municipal da Saúde de Votuporanga alerta a população sobre possíveis golpes envolvendo ligações telefônicas em nome da campanha Novembro Azul. Moradores relataram ter recebido contatos oferecendo a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/saude-alerta-para-golpe-envolvendo-oferta-de-exame-de-psa-mediante-pagamento/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:50",
+"t": "Deputada estadual de SP é barrada em Israel ao tentar seguir para a Cisjordânia",
+"p": "A deputada estadual Monica Seixas (PSOL-SP) teve a entrada negada pelo governo de Israel ao desembarcar no Aeroporto Internacional de Ben-Gurion neste domingo (22). A parlamentar paulista integrava uma comitiva internacional de legisladores que tinha como destino a Cisjordânia, onde acompanharia a tradicional…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/deputada-estadual-de-sp-e-barrada-em-israel-ao-tentar-seguir-para-a-cisjordania/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:49",
+"t": "Sequência de acidentes deixa motociclistas feridos e acende alerta para o trânsito em Votuporanga",
+"p": "Quatro colisões envolvendo motocicletas foram registradas durante o feriado prolongado em diferentes regiões da cidade; dados do Infosiga apontam que metade das mortes no trânsito neste ano envolve motociclistas. O feriado prolongado foi marcado por uma sequência de acidentes de trânsito em Votuporanga/SP, todos…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/sequencia-de-acidentes-deixa-motociclistas-feridos-e-acende-alerta-para-o-transito-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:48",
+"t": "Fim da 6×1: governo publica regras para compensação de folgas; veja o que vai valer",
+"p": "O Ministério do Trabalho publicou, nesta segunda-feira (23), a portaria que estabelece as regras para a implementação do fim da escala 6x1",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/fim-da-6x1-governo-publica-regras-para-compensacao-de-folgas-veja-o-que-vai-valer/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:47",
+"t": "IPTU 2027: Prefeitura de Votuporanga define calendário de pagamento com opção de parcelamento em até 10 vezes",
+"p": "Decreto publicado pelo prefeito Jorge Augusto Seba (PSD) estabelece vencimentos a partir de março e mantém alternativa de pagamento em cota única para os contribuintes. A Prefeitura de Votuporanga publicou o Decreto nº 20.693, que regulamenta os prazos para pagamento do Imposto Predial e Territorial Urbano (IPTU)…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/iptu-2027-prefeitura-de-votuporanga-define-calendario-de-pagamento-com-opcao-de-parcelamento-em-ate-10-vezes/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-23",
+"h": "20:32",
+"t": "Chuva provoca rompimento de tubulação e acúmulo de água na Maternidade de Mogi das Cruzes",
+"p": "Segundo a Prefeitura, nenhum paciente se machucou ou deixou de receber atendimento",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/chuva-provoca-rompimento-de-tubulacao-e-acumulo-de-agua-na-maternidade-de-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:27",
+"t": "PM apreende três simulacros de fuzil usados para fotos na zona norte de SP",
+"p": "Quatro suspeitos foram identificados por câmeras de segurança e conduzidos à delegacia. Dois deles têm registros criminais",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pm-apreende-tres-simulacros-de-fuzil-usados-para-fotos-na-zona-norte-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:17",
+"t": "Homem é esfaqueado no pescoço após briga doméstica em Rio Preto",
+"p": "Polícia Civil investiga o caso como homicídio tentado. Companheira não estava no local na chegada dos PMs. Um metalúrgico de 37 anos foi socorrido ao Hospital de Base (HB) de São José do Rio Preto/SP na noite da última sexta-feira (20.nov) após ser atingido por um golpe de faca no pescoço durante uma ocorrência…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/homem-e-esfaqueado-no-pescoco-apos-briga-domestica-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:16",
+"t": "Mulher morta por linha de pipa em garupa de moto era sobrinha de prefeito",
+"p": "Flávia Cantarini Zani, de 28 anos, morreu nesse domingo (22/11) após ser atingida por uma linha com cerol em uma rodovia, em Piracicaba",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Piracicaba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mulher-morta-por-linha-de-pipa-em-garupa-de-moto-era-sobrinha-de-prefeito",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:13",
+"t": "Reforma do Camprev: Prefeitura pede votação urgente e servidores protestam",
+"p": "Pedido de urgência na tramitação do projeto de mudanças no Camprev foi protocolado nesta segunda-feira; servidores realizam protesto em frente à Prefeitura e na Câmara",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/reforma-do-camprev-prefeitura-pede-votacao-urgente-e-servidores-protestam/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:12",
+"t": "Temporal alaga ruas de Valinhos e transforma avenidas em rios",
+"p": "Chuva acumulou 22,9 milímetros em uma hora e provocou alagamentos em diferentes regiões da cidade; não há registro de vítimas",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Valinhos"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/temporal-alaga-ruas-de-valinhos-e-transforma-avenidas-em-rios/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:03",
+"t": "Mulher é morta a facadas pelo ex-marido em Jales; filha fica ferida ao tentar salvar a mãe",
+"p": "Vítima possuía medida protetiva contra o agressor e estava em processo de separação. Suspeito invadiu a residência, matou a ex-companheira e fugiu de motocicleta. Um crime brutal chocou moradores de Jales na manhã da última sexta-feira (20.nov). A auxiliar de serviços gerais Maria Eduarda Garcia Belarmino, de 55…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mulher-e-morta-a-facadas-pelo-ex-marido-em-jales-filha-fica-ferida-ao-tentar-salvar-a-mae/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:00",
+"t": "Alagamentos atingem bairros e rodovias durante temporal na Baixada Santista; VÍDEO",
+"p": "Fonte: Portal CCM – ARTESP (ccm.artesp.sp.gov.br) e reprodução Cidades como Cubatão, Itanhaém, Mongaguá, Santos e São Vicente tiveram pontos atingidos pelo acúmulo de água.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Itanhaém",
+"Mongaguá",
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/alagamentos-atingem-bairros-e-rodovias-durante-temporal-na-baixada-santista-video/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:00",
+"t": "Fortes chuvas fazem nova cratera se abrir em frente a prédio em São Vicente",
+"p": "Reprodução Ocorrência foi registrada na esquina da Avenida Marechal Deodoro com a Rua Pero Lopes de Souza.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/fortes-chuvas-fazem-nova-cratera-se-abrir-em-frente-a-predio-em-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:00",
+"t": "Veículo cai em canal após rua ficar encoberta pela água em São Vicente; VÍDEO",
+"p": "Créditos: @marcelorickyoficial Motorista conseguiu sair do veículo antes da chegada dos Bombeiros.",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/veiculo-cai-em-canal-apos-rua-ficar-encoberta-pela-agua-em-sao-vicente-video/",
+"auto": true
+},
 {
 "d": "2026-11-23",
 "h": "19:56",
@@ -54800,249 +55052,6 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/homem-agride-mulher-em-bar-e-e-contido-pelo-prefeito-em-itaquaquecetuba",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:07",
-"t": "Chuva provoca desabamento do telhado de supermercado em Barueri",
-"p": "Duas viaturas dos bombeiros foram deslocadas para atender à ocorrência registrada por volta das 13h30",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Barueri"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/chuva-provoca-desabamento-de-telhado-de-supermercado-em-barueri",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:07",
-"t": "Fisiculturista de 23 anos morre após colidir motocicleta contra árvore",
-"p": "O fisiculturista Guilherme Vieira da Silva de Souza, de 23 anos, morreu após sofrer um acidente de trânsito na madrugada deste sábado (7), no bairro Jardim Gisete, em São José do Rio Preto. O jovem pilotava uma motocicleta pela Rua James Moore quando perdeu o controle do veículo e colidiu violentamente contra uma…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/fisiculturista-de-23-anos-morre-apos-colidir-motocicleta-contra-arvore/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:03",
-"t": "Desabamento no Brás: Defesa Civil interdita dois imóveis; trabalho dos bombeiros continua",
-"p": "O Corpo de Bombeiros trabalha desde as 6h30 deste sábado (7) na retirada dos escombros do imóvel que desabou na Rua Maria Joaquina, 192, no Brás, região central de São Paulo, na noite de sexta-feira (6). Dois imóveis vizinhos do que desabou precisaram ser interditados pela Defesa Civil por segurança, enquanto as…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/desabamento-no-bras-defesa-civil-interdita-dois-imoveis-trabalho-dos-bombeiros-continua/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:03",
-"t": "Defesa Civil de SP emite mais de 40 alertas de chuva e mantém gabinete de crise em todo o estado neste final de semana",
-"p": "A Defesa Civil do Estado de São Paulo enviou 45 alertas preventivos desde as 11h30 deste sábado (7) (41 por SMS e quatro por meio de Cell Broadcast) em razão das chuvas que atingiram diferentes regiões paulistas. Até o momento, não há relatos de ocorrências graves. As mensagens alertaram para chuvas fortes,…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/defesa-civil-de-sp-emite-mais-de-40-alertas-de-chuva-e-mantem-gabinete-de-crise-em-todo-o-estado-neste-final-de-semana/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:03",
-"t": "Cachoeira Paulista registra rajadas de vento de 126,7 km/h neste sábado (7)",
-"p": "Cachoeira Paulista, no Vale do Paraíba, registrou rajadas de vento de 126,7 km/h na tarde deste sábado (7). No município, também houve registros de destelhamentos de residências e quedas de árvores sobre vias públicas, principalmente nos bairros São José, Vila Carmem e São João. Ao longo do dia, a Defesa Civil…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Cachoeira Paulista"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/cachoeira-paulista-registra-rajadas-de-vento-de-1267-km-h-neste-sabado-7/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:03",
-"t": "Museu Republicano de Itu oferece programação cultural gratuita em novembro",
-"p": "O Museu Republicano de Itu, órgão ligado ao Museu Paulista da USP, oferece, em novembro, uma programação cultural gratuita com música, literatura e ações educativas. Entre as atrações estão o recital de violão sete cordas com Guilherme Lamas, a apresentação da maquete tátil do Jardim das Quatro Estações e o…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Itu"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/museu-republicano-de-itu-oferece-programacao-cultural-gratuita-em-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:03",
-"t": "Estado de SP registra 72 alertas de chuva; Cachoeira Paulista tem microexplosão atmosférica",
-"p": "Diante do cenário de instabilidade em todo o estado, a Defesa Civil de São Paulo emitiu 72 alertas de chuva para celulares ao longo deste sábado (7), por meio dos sistemas SMS e Cell Broadcast. O Centro de Gerenciamento de Emergências (CGE) classificou como microexplosão atmosférica o fenômeno registrado em…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Cachoeira Paulista",
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/estado-de-sp-registra-72-alertas-de-chuva-cachoeira-paulista-tem-microexplosao-atmosferica/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:03",
-"t": "Microexplosão atmosférica causa estragos em dia de 72 alertas de chuva no Estado de SP",
-"p": "A passagem de instabilidades extremas pelo Estado de São Paulo neste sábado (7) mobilizou a Defesa Civil Estadual a emitir 72 alertas preventivos via SMS e Cell Broadcast. O caso mais severo foi registrado em Cachoeira Paulista, no Vale do Paraíba, onde o Centro de Gerenciamento de Emergências (CGE) confirmou a…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Cachoeira Paulista"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/microexplosao-atmosferica-causa-estragos-em-dia-de-72-alertas-de-chuva-no-estado-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:01",
-"t": "Defesa Civil de SP emite mais de 40 alertas de tempestade e mantém gabinete de crise ativo no Estado",
-"p": "A Defesa Civil do Estado de São Paulo emitiu 45 alertas preventivos neste sábado (7) devido ao avanço de tempestades por diversas regiões paulistas. Do total de avisos enviados por SMS e pelo sistema de transmissão emergencial, quatro tiveram como alvo a capital paulista, colocada em estado de atenção para…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/defesa-civil-de-sp-emite-mais-de-40-alertas-de-tempestade-e-mantem-gabinete-de-crise-ativo-no-estado/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "20:00",
-"t": "Nike lança Air Force 1 com tecnologias para enfrentar o El Niño e suas condições extremas",
-"p": "Nike apresenta Air Force 1 com proteção contra água e sola de maior aderência; modelo integra coleção internacional de outono e inverno",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/nike-lanca-air-force-1-com-tecnologias-para-enfrentar-o-el-nino-e-suas-condicoes-extremas/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "19:59",
-"t": "Polícia Militar descobre esquema de clonagem de cartões em Diadema",
-"p": "Homem foi flagrado com 293 cartões bancários, nove máquinas de pagamento e dois veículos; suspeito confessou utilizar equipamentos adulterados para aplicar golpes após corridas de transporte de passageiros.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367512/policia-militar-descobre-esquema-de-clonagem-de-cartoes-em-diadema",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "19:36",
-"t": "Temporal com ventos de 96,1 km/h provoca queda de árvores e estragos em Piracicaba",
-"p": "Rajadas de vento chegaram a 96,1 km/h; chuva também causou interrupções de energia e pode afetar o abastecimento de água em diferentes regiões da cidade",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Piracicaba"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/piracicaba/temporal-com-ventos-de-961-km-h-provoca-queda-de-arvores-e-estragos-em-piracicaba/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "19:06",
-"t": "Rafael Câmara se diz “tranquilo” para correr após batida durante qualy",
-"p": "Câmara prendeu roda durante o Q2 e bateu contra o muro. Desempenho no qualy e punições de outros pilotos rendeu ao recifense o 11º lugar",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/rafael-camara-se-diz-tranquilo-para-correr-apos-batida-durante-qualy",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "19:00",
-"t": "Show de Natanzinho Lima é adiado em SP após PM apontar falta de segurança",
-"p": "Natanzinho Lima alega que público \"acima do esperado\" não estava nos planos do esquema de segurança e show será remarcado",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/show-de-natanzinho-lima-e-adiado-em-sp-apos-pm-apontar-falta-de-seguranca",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "19:00",
-"t": "PM impede que Natanzinho Lima faça show por falta de segurança",
-"p": "Natanzinho Lima alega que público \"acima do esperado\" não estava nos planos do esquema de segurança e show será remarcado",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/pm-impede-que-natanzinho-lima-faca-show-por-falta-de-seguranca",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:50",
-"t": "São Bernardo recebe Torneio GRBrasil de Ginástica Rítmica com 1.900 atletas",
-"p": "Cidade será representada por 388 alunas das escolas de esporte da prefeitura; competição acontece no Ginásio Poliesportivo, com entrada gratuita",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367496/sao-bernardo-recebe-torneio-grbrasil-de-ginastica-ritmica-com-1-900-atletas",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:46",
-"t": "VLT e ônibus terão acesso gratuito aos domingos em razão do Enem",
-"p": "No sistema de transporte metropolitano, que inclui o VLT e os ônibus intermunicipais, a gratuidade será válida das 9h às 21h. Em Guarujá, alunos devem apresentar os comprovantes de inscrição do ENEM.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/litoral/vlt-e-onibus-gratis-aos-domingos-enem/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "18:42",
-"t": "Temporal derruba árvores e bloqueia trânsito entre Marília e Vera Cruz",
-"p": "Chuva forte atingiu a região na tarde deste sábado (7); queda de árvore interrompeu passagem de veículos nas proximidades do Espaço T.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/temporal-derruba-arvores-e-bloqueia-transito-entre-marilia-e-vera-cruz/",
 "auto": true
 }
 ]
