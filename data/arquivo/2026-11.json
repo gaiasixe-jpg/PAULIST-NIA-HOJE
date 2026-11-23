@@ -3,6 +3,231 @@
 "itens": [
 {
 "d": "2026-11-23",
+"h": "16:10",
+"t": "Fazenda de Campinas é finalista em duas categorias de concurso que elege melhores cafés de SP",
+"p": "Fazenda Guariroba concorre nas categorias cereja descascado e orgânico; competição recebeu 395 amostras de 80 municípios paulistas",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/fazenda-de-campinas-e-finalista-em-duas-categorias-de-concurso-que-elege-melhores-cafes-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "16:06",
+"t": "Conferência Municipal dos Direitos da Criança e do Adolescente acontece nos dias 25 e 26 de novembro",
+"p": "Infância e Adolescência",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/conferencia-municipal-dos-direitos-da-crianca-e-do-adolescente-acontece-nos-dias-25-e-26-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "16:00",
+"t": "Quina Friday especial terá prêmio de R$ 50 milhões no domingo (29); loteria não terá sorteios ao longo desta semana",
+"p": "A Caixa Econômica Federal lançou a Quina Friday, concurso especial de número 7.173 que vai pagar um prêmio estimado em R$ 50 milhões no próximo domingo (29/11), às 11h, no Espaço da Sorte, em São Paulo. Por conta da comercialização exclusiva para a edição temática inspirada na Black Friday, a loteria não terá…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/quina-friday-especial-tera-premio-de-r-50-milhoes-no-domingo-29-loteria-nao-tera-sorteios-ao-longo-desta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "16:00",
+"t": "Campinas elimina transmissão de HIV e hepatite B de mãe para filho",
+"p": "Campinas conquistou a certificação do Ministério da Saúde pela eliminação da transmissão vertical do HIV e da hepatite B",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/saude/campinas-elimina-transmissao-de-hiv-e-hepatite-b-de-mae-para-filho/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "16:00",
+"t": "Nova lei abre prazo para regularização de obras particulares em Mongaguá",
+"p": "Dyego Gonçalves/Divulgação Prefeitura de Mongaguá A partir de 1º de dezembro, começa a valer a nova lei que estabelece regras e prazos para a regularização e conservação de obras particulares em Mongaguá.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/nova-lei-abre-prazo-para-regularizacao-de-obras-particulares-em-mongagua/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "16:00",
+"t": "USC Saúde assume gestão de serviço especializado no CAISM Philippe Pinel, em SP",
+"p": "Divulgação A USC Saúde iniciou a gestão do serviço especializado no atendimento a pessoas com TEA no CAISM Philippe Pinel, em SP.",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/usc-saude-assume-gestao-de-servico-especializado-no-caism-philippe-pinel-em-sp/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "16:00",
+"t": "Ônibus intermunicipal sofre princípio de incêndio em Praia Grande",
+"p": "Reprodução Um ônibus intermunicipal da linha 912 apresentou uma falha elétrica na manhã desta segunda-feira (23), em Praia Grande.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/onibus-intermunicipal-sofre-principio-de-incendio-em-praia-grande/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:59",
+"t": "Deputada do PSol diz que governo de Israel barrou sua entrada na Palestina",
+"p": "Mônica Seixas (PSol) afirma que foi interrogada no Aeroporto de Ben-Gurion, em Israel. Após sete horas de espera, foi impedida seguir viagem",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Palestina"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/deputada-do-psol-diz-que-governo-de-israel-barrou-sua-entrada-na-palestina",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:55",
+"t": "Dez cães são resgatados em casa com lixo e sujeira; outro animal foi achado morto",
+"p": "Cães estavam sem água e comida no bairro Santa Rita; caso é investigado como suspeita de maus-tratos",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/dez-caes-sao-resgatados-em-casa-com-lixo-e-sujeira-outro-animal-foi-achado-morto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:45",
+"t": "Jundiaí leva consultas e cuidados em saúde mental de pessoas em dependência química às ruas com novo Consultório na Rua",
+"p": "Foto: Prefeitura de Jundiaí Unidade móvel reforçará atendimentos em diferentes regiões da cidade, com consultas, vacinação, apoio psicológico e serviços especializados.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/consultorio-na-rua-jundiai-atendimento-dependencia-quimica/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:33",
+"t": "OMS monitora variante PJ.2.1 após avanço de casos de Covid no Rio",
+"p": "Arquivo/Prefeitura de Santos O estado do Rio de Janeiro é o único do país com incidência de síndrome respiratória aguda grave em nível de alerta",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/oms-monitora-variante-pj-2-1-apos-avanco-de-casos-de-covid-no-rio/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:25",
+"t": "Ribeirão Preto alerta para alta da covid-19 no fim de ano e pede reforço na vacinação de idosos",
+"p": "Prefeitura aponta que pessoas acima de 60 anos concentram 74% dos casos graves de covid-19 na cidade em 2026; vacina está disponível em 39 postos antes das festas e férias.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/ribeirao-preto-alerta-para-alta-da-covid-19-no-fim-de-ano-e-pede-reforco-na-vacinacao-de-idosos/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:14",
+"t": "Escolas estaduais abrem inscrições para almoço de alunos nas férias",
+"p": "O almoço será fornecido entre os dias 4 de janeiro e 5 de fevereiro em escolas estaduais de SP. Veja como se inscrever",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/escolas-estaduais-abrem-inscricoes-para-almoco-de-alunos-nas-ferias",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:12",
+"t": "Câmara de Rio Preto vota criação do Dia dos Legendários",
+"p": "Pauta também tem isenção de IPTU para imóveis em ruas sem asfalto e empréstimo de quase R$ 50 milhões para a Saúde",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/camara-de-rio-preto-vota-criacao-do-dia-dos-legendarios/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:10",
+"t": "Hospital São Vicente mais que dobra captação de órgãos em Jundiaí em 2026",
+"p": "Foto: Prefeitura de Jundiaí Hospital de Jundiaí contabiliza 65 órgãos captados neste ano, contra 30 em todo o ano de 2025; número de doadores efetivos cresceu 150%.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-sao-vicente-doacao-orgaos-jundiai-2026-2/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "15:04",
+"t": "Forte temporal causa diversos transtornos na tarde desta segunda-feira (23) em diferentes cidades do litoral de São Paulo",
+"p": "O forte temporal tarde desta segunda-feira (23) causou diversos transtornos nas cidades do litoral de São Paulo. A chuva atingiu as cidades de São Vicente, Santos, Guarujá, Praia Grande, Guarujá, Bertioga, Peruíbe e Mongaguá. Em São Vicente foram registrados pontos de alagamento na Rua Padre Anchieta e na Avenida…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Vicente",
+"São Paulo",
+"Bertioga",
+"Mongaguá",
+"Guarujá",
+"Peruíbe"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/forte-temporal-causa-diversos-transtornos-na-manha-desta-segunda-feira-23-em-diferentes-cidades-do-litoral-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "15:00",
 "t": "Duas pessoas morrem afogadas na região durante o feriado prolongado",
 "p": "Praia da Itaquitanduva | Crédito: Prefeitura de São Vicente Um adolescente de 17 anos e um homem de 32 anos morreram após se afogarem em praias de São Vicente e de Guarujá.",
@@ -42,6 +267,18 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mntv/fefin-depoe-a-portas-fechadas-e-cp-avanca-para-fase-final/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "14:45",
+"t": "Pagamento do 13º salário não pode ter desconto de empréstimo do Crédito do Trabalhador; detalhe mostra como identificar a cobrança e o que fazer",
+"p": "Com a proximidade do pagamento do 13º salário, trabalhadores que contrataram empréstimos consignados pelo programa Crédito do Trabalhador precisam ficar atentos aos descontos na folha. Isso porque as parcelas desse tipo de financiamento não podem ser abatidas diretamente do valor do décimo terceiro, conforme…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/pagamento-do-13o-salario-nao-pode-ter-desconto-de-emprestimo-do-credito-do-trabalhador-detalhe-mostra-como-identificar-a-cobranca-e-o-que-fazer/",
 "auto": true
 },
 {
