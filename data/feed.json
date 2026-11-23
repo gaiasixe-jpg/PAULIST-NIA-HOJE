@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-23T06:32:35-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-23T08:15:37-03:00",
+"novos_nesta_coleta": 19,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -28,10 +26,13 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -41,15 +42,164 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Diário do Litoral",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 520: <none> | The read operation timed out | HTTP Error 520: <none> | The read operation timed out | HTTP Error 503: Service Unavailable | HTTP Error"
 }
 ],
 "itens": [
+{
+"d": "2026-11-23",
+"h": "08:13",
+"t": "Justiça de Votuporanga condena homem a 10 anos de prisão por receptação e uso de caminhonete “dublê” avaliada em R$ 140 mil",
+"p": "A 2ª Vara Criminal e da Infância e Juventude da Comarca de Votuporanga condenou Cleo Junior Neves à pena de 10 anos de reclusão, em regime inicial fechado, além do pagamento de 40 dias-multa, pelos crimes de receptação dolosa e adulteração de sinal identificador de veículo automotor em concurso material. A…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-votuporanga-condena-homem-a-10-anos-de-prisao-por-receptacao-e-uso-de-caminhonete-duble-avaliada-em-r-140-mil/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:00",
+"t": "Chuva forte e queda de temperatura: veja a previsão do tempo para Campinas nesta segunda",
+"p": "Defesa Civil mantém alerta para chuvas fortes em São Paulo até terça-feira (24); em Campinas, máxima prevista é de 27°C",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo",
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/chuva-forte-e-queda-de-temperatura-veja-a-previsao-do-tempo-para-campinas-nesta-segunda/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:56",
+"t": "Bombeiros retomam busca por desaparecido em rio durante chuvas de domingo",
+"p": "Homem desapareceu após temporal desta domingo (23/11) na capital paulista; alerta para chuvas segue nesta segunda",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/bombeiros-retomam-busca-por-desaparecido-em-rio-durante-chuvas-de-domingo",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:52",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta segunda (23)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-segunda-23.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:43",
+"t": "Acidente deixa 2 mortos e 3 feridos na rodovia Cândido Portinari",
+"p": "Acidente deixou 2 mortos e 3 feridos na noite deste domingo (22), na rodovia Cândido Portinari, em Jardinópolis, na região de Ribeirão Preto.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Ribeirão Preto",
+"Jardinópolis"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/acidente-deixa-2-mortos-e-3-feridos-na-rodovia-candido-portinari/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:40",
+"t": "Vereadores cobram explicações sobre atrasos salariais de médicos do SAMU em Fernandópolis",
+"p": "A Comissão de Educação, Saúde, Bem-Estar Social e Direitos Humanos da Câmara Municipal de Fernandópolis formalizou um pedido de esclarecimentos à Prefeitura e ao Consórcio Intermunicipal de Saúde da Região de Fernandópolis (CISARF) diante dos atrasos nos pagamentos dos médicos que atuam no Serviço de Atendimento…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vereadores-cobram-explicacoes-sobre-atrasos-salariais-de-medicos-do-samu-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:36",
+"t": "Jovem perde olho direito após ser roubada e agredida com capacete pelo ex",
+"p": "Polícia Civil investiga e procura suspeito de roubar e agredir a jovem de 23 anos; ele chegou a atirar com arma de fogo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/jovem-perde-olho-direito-apos-ser-roubada-e-agredida-com-capacete-pelo-ex",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:28",
+"t": "Teto de shopping cai em praça de alimentação durante chuvas em São Bernardo do Campo",
+"p": "",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370190/teto-de-shopping-cai-em-praca-de-alimentacao-durante-chuvas-em-sao-bernardo-do-campo",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:03",
+"t": "Prefeitura de Ouroeste convida moradores a participarem de pesquisa sobre o turismo na cidade",
+"p": "A Prefeitura de Ouroeste, por meio da Secretaria de Turismo, Desporto e Lazer, está convocando a população local para responder a um levantamento sobre a percepção dos moradores em relação ao setor turístico no município e na região. A iniciativa integra uma pesquisa estadual desenvolvida em parceria com a…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-ouroeste-convida-moradores-a-participarem-de-pesquisa-sobre-o-turismo-na-cidade/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:03",
+"t": "Prefeitura de Ouroeste define regras para a presença de acompanhantes no transporte de pacientes",
+"p": "A Prefeitura de Ouroeste, por meio da Secretaria Municipal de Transporte, divulgou um comunicado oficial estabelecendo os critérios para o embarque de acompanhantes nos veículos utilizados para levar moradores a consultas médicas. O objetivo da medida é organizar a logística do serviço público e assegurar que as…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-ouroeste-define-regras-para-a-presenca-de-acompanhantes-no-transporte-de-pacientes/",
+"auto": true
+},
 {
 "d": "2026-11-23",
 "h": "06:29",
@@ -219,6 +369,20 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-roberto-leva-tiro-e-e-transferido-para-o-rio-enquanto-beato-salu-entra-em-coma-apos-envenenamento-nesta-segunda-23/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "00:59",
+"t": "Golpe com falso anúncio de tag de pedágio causa prejuízo de R$ 15 mil a morador de Rio Preto",
+"p": "Um representante comercial de 60 anos sofreu um prejuízo financeiro de aproximadamente R$ 15 mil após cair em um golpe aplicado por meio de um falso anúncio de tag de pedágio nas redes sociais, em São José do Rio Preto. O caso foi registrado como estelionato na manhã deste sábado (21), no Plantão Policial do […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/golpe-com-falso-anuncio-de-tag-de-pedagio-causa-prejuizo-de-r-15-mil-a-morador-de-rio-preto/",
 "auto": true
 },
 {
@@ -54855,156 +55019,6 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/colegio-divino-salvador-leva-alunos-de-jundiai-a-nasa-e-planeja-ampliar-intercambio-em-2027/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:49",
-"t": "Parque da Biquinha recebe evento de adoção de cães do Canil Municipal de Sorocaba neste sábado (7)",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema), realizará, neste sábado (7), das 9h às 13h, o evento de adoção de cães do Canil Municipal no Parque da Biquinha, localizado na Av. Comendador Pereira Inácio, 1.112, no Jardim Emília. O evento faz parte da…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/parque-da-biquinha-recebe-evento-de-adocao-de-caes-do-canil-municipal-de-sorocaba-neste-sabado-7/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:48",
-"t": "Sindicatos apontam desafios para implantação da escala 5×2",
-"p": "A redução da jornada de trabalho e a adoção da escala 5x2 devem provocar mudanças na organização de empresas e instituições. Representantes do comércio, setor imobiliário, porto e área da saúde apontam desafios relacionados aos custos, à contratação de funcionários e à manutenção dos serviços.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/setores-apontam-desafios-para-implantacao-da-escala-5x2/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:48",
-"t": "Prefeitura de Sorocaba abre inscrições para oficina gratuita de horta orgânica no Parque da Água Vermelha",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema), realizará no dia 14 de novembro, sábado, das 9h às 11h, a oficina gratuita de horta orgânica, no Parque da Água Vermelha ‘João Câncio Pereira’. As vagas são limitadas e as inscrições podem ser feitas pelo link:…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-abre-inscricoes-para-oficina-gratuita-de-horta-organica-no-parque-da-agua-vermelha/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:45",
-"t": "Confira a agenda do ‘Médico na Praça’ da próxima semana",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), segue com o “Médico na Praça”. O atendimento iniciará a semana, na segunda-feira (9), das 8h às 12h, na Praça da Bandeira, no Centro. Na terça-feira (10), das 9h às 13h, o veículo estará no Quintais do Imperador, na Rua José Carlos do Nascimento, […]",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/confira-a-agenda-do-medico-na-praca-da-proxima-semana-3/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:45",
-"t": "Brasil desacelera contratações e registra menor saldo de vagas em setembro desde 2020, durante a pandemia",
-"p": "O mercado de trabalho formal no Brasil encerrou o mês de setembro com uma redução no ritmo de abertura de novos postos de trabalho. As estatísticas do Cadastro Geral de Empregados e Desempregados (Caged), divulgadas pelo Ministério do Trabalho e Emprego, mostram a criação líquida de 121,3 mil empregos formais no…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/brasil-desacelera-contratacoes-e-registra-menor-saldo-de-vagas-em-setembro-desde-2020-durante-a-pandemia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:44",
-"t": "DAE inicia construção de reservatório com capacidade para 5 milhões de litros no Jardim Planalto",
-"p": "Foto: DAE Jundiaí Com investimento de R$ 11,5 milhões, estrutura vai reforçar o abastecimento de água para cerca de 16 mil famílias; DAE também prevê outros três reservatórios na cidade",
-"tema": "Água",
-"s": "anunciado",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/dae-construcao-reservatorio-5-milhoes-litros-jardim-planalto/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:43",
-"t": "Ribeirão Preto convoca mais de 53 mil pessoas com diabetes para exames e consultas em postos de saúde",
-"p": "Ação Conexão Glicada vai até 30 de novembro em 31 unidades básicas de Ribeirão Preto; medida antecipa idade de rastreio da diabetes para 35 anos",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/saude/ribeirao-preto-convoca-mais-de-53-mil-pessoas-com-diabetes-para-exames-e-consultas-em-postos-de-saude/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:40",
-"t": "Superesportivo elétrico da BYD supera 503 km/h em pista fechada e bate recorde mundial de velocidade para carros de produção",
-"p": "O superesportivo elétrico Yangwang U9 Xtreme superou a velocidade de 503,17 km/h. Com esse feito, o modelo estabeleceu um novo recorde mundial para carros de produção. A façanha histórica ocorreu em uma rodovia fechada em Abu Dhabi, nos Emirados Árabes Unidos. A divisão de ultraluxo da fabricante BYD bateu o seu…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/superesportivo-eletrico-da-byd-supera-503-km-h-em-pista-fechada-e-bate-recorde/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:32",
-"t": "Suspeito de matar dono de adega em São Bernardo é preso",
-"p": "Crime ocorreu em setembro, após discussão sobre valor cobrado em máquina de cartão",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367364/suspeito-de-matar-dono-de-adega-em-sao-bernardo-e-preso",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:31",
-"t": "‘Treinão’ comemora 39 anos da GCM Sorocaba neste domingo (8)",
-"p": "O ‘Treinão 39 anos GCM Sorocaba’ comemora neste domingo (8), a partir das 7h30, o 39.º aniversário de fundação da Guarda Civil Municipal (GCM). Aberta ao público de todas as idades, a programação prevê aula de alongamento, corrida e caminhada, com início e encerramento na altura do n.º 59 da Avenida São Paulo, no […]",
-"tema": "Segurança",
-"s": "anunciado",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/treinao-comemora-39-anos-da-gcm-sorocaba-neste-domingo-8/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "17:24",
-"t": "UBS Rodrigo promove oficina alusiva ao Mês da Consciência Negra",
-"p": "A UBS Rodrigo realizou, nesta sexta-feira (6), três oficinas abordando os temas Letramento Racial e Saúde da População Negra para profissionais da unidade. A iniciativa é alusiva ao Mês da Consciência Negra. Os encontros contaram com o apoio do psicólogo residente Ruan Kaique Alves Ferreira, que conduziu os…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/ubs-rodrigo-promove-oficina-alusiva-ao-mes-da-consciencia-negra/",
 "auto": true
 }
 ]
