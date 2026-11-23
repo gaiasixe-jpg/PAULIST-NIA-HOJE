@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T20:51:33-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-22T22:23:05-03:00",
+"novos_nesta_coleta": 17,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,115 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "21:41",
+"t": "Golpe com falso anúncio de tag de pedágio causa prejuízo de R$ 15 mil a morador de Rio Preto",
+"p": "Um representante comercial de 60 anos sofreu um prejuízo financeiro de aproximadamente R$ 15 mil após cair em um golpe aplicado por meio de um falso anúncio de tag de pedágio nas redes sociais, em São José do Rio Preto. O caso foi registrado como estelionato na manhã deste sábado (21), no Plantão Policial do […]",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/golpe-com-falso-anuncio-de-tag-de-pedagio-causa-prejuizo-de-r-15-mil-a-morador-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "21:40",
+"t": "Polícia Civil investiga motorista de aplicativo por ataques xenofóbicos contra passageira baiana em Rio Preto",
+"p": "A Polícia Civil de São José do Rio Preto abriu investigação para apurar um caso de xenofobia praticado por um motorista de aplicativo contra a passageira Elizabeth Arruda de Jesus Batista, de 43 anos, natural da Bahia, durante uma corrida realizada na última sexta-feira (20). O episódio foi registrado em vídeo pelo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-investiga-motorista-de-aplicativo-por-ataques-xenofobicos-contra-passageira-baiana-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "21:35",
+"t": "El Niño ameaça lavouras de soja na próxima safra e coloca cinco nutrientes no radar dos produtores diante de extremos climáticos",
+"p": "A influência do El Niño sobre a safra 2026/2027 de soja aumenta a preocupação com o manejo nutricional das lavouras. Tanto a falta quanto o excesso de chuva podem prejudicar o desenvolvimento das plantas e comprometer a formação dos grãos. As condições climáticas exigem atenção diferente conforme a região do País.…",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/el-nino-ameaca-lavouras-de-soja-na-proxima-safra-e-coloca-cinco-nutrientes-no-radar-dos-produtores-diante-de-extremos-climaticos/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "21:35",
+"t": "Colisão frontal na BR-153 deixa duas mulheres feridas em Rio Preto",
+"p": "Duas mulheres ficaram feridas em uma batida frontal envolvendo dois automóveis na manhã deste domingo (22), no quilômetro 49 da Rodovia Transbrasiliana (BR-153), em São José do Rio Preto. De acordo com informações da Polícia Rodoviária Federal (PRF), o acidente foi registrado por volta das 5h. Em um dos carros…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/colisao-frontal-na-br-153-deixa-duas-mulheres-feridas-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "21:32",
+"t": "Defesa Civil emite 41 alertas neste domingo e mantém estado de atenção para chuvas até terça-feira",
+"p": "A Defesa Civil do Estado de São Paulo emitiu 41 alertas meteorológicos ao longo deste domingo (22) em decorrência das fortes chuvas registradas em diversas regiões paulistas, sendo 18 disparados pelo sistema Cell Broadcast — que envia notificações diretamente na tela dos celulares — e 23 por mensagens de SMS. Os…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-emite-41-alertas-neste-domingo-e-mantem-estado-de-atencao-para-chuvas-ate-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "21:30",
+"t": "Helicóptero Águia e guarda-vidas salvam banhista em perigo no mar do Guarujá",
+"p": "Um banhista que enfrentava dificuldades para voltar à areia foi resgatado na tarde de sexta-feira (20) na Praia da Enseada, no Guarujá, no litoral paulista, em uma operação conjunta envolvendo o Comando de Aviação da Polícia Militar e guarda-vidas. A ocorrência foi percebida durante um voo de patrulhamento…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/helicoptero-aguia-e-guarda-vidas-salvam-banhista-em-perigo-no-mar-do-guaruja/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "21:05",
+"t": "Chuva em SP deixa 3 pessoas afogadas e provoca queda de teto em shopping",
+"p": "Defesa Civil enviou uma notificação de alerta severo e apontou para a possibilidade de raios, vento forte e queda de granizo.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-em-sp-deixa-3-pessoas-afogadas-e-provoca-queda-de-teto-em-shopping",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "21:00",
+"t": "Escolas vão receber robôs humanoides fabricados no Brasil a partir de 2027",
+"p": "A empresa brasileira AMZ AI Robotics vai inaugurar uma cadeia nacional de robótica educacional na Amazônia em 2027. O Laboratório Avançus na Universidade do Estado do Amazonas (UEA), vai abrigar uma fábrica de robôs humanoides na Zona Franca de Manaus em junho e entregar as primeiras 50 unidades em julho.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Franca"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/escolas-vao-receber-robos-humanoides-fabricados-no-brasil-a-partir-de-2027/",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "19:03",
@@ -65,6 +168,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/motociclista-fica-gravemente-ferido-apos-queda-na-john-boyd-dunlop/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "19:02",
+"t": "Chuva forte provoca queda de parte do forro do São Bernardo Plaza",
+"p": "Prefeito Marcelo Lima alerta para o risco de temporais e coloca equipes da Defesa Civil em prontidão",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370159/chuva-forte-provoca-queda-de-parte-do-forro-do-sao-bernardo-plaza",
 "auto": true
 },
 {
@@ -54883,123 +55000,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/economia/imposto-do-pecado-muda-preco-dos-carros-em-2027-diesel-pode-pagar-ate-30-enquanto-modelos-pcd-taxis-e-sustentaveis-ficam-isentos/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:40",
-"t": "Programação – Cinema",
-"p": "Confira a programação dos cinemas da Baixada Santista entre os dias 7 e 10 de novembro",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/agende-se/programacao-cinema-308/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:33",
-"t": "Homem é preso e moto furtada é recuperada pela PM após perseguição",
-"p": "Uma ação da Polícia Militar resultou na prisão de um homem e na recuperação de uma motocicleta furtada na manhã de quinta-feira (5), em Monte Aprazível. O veículo, uma Honda CG 160 Fan, havia sido levado durante a madrugada no município vizinho de Bálsamo. A intervenção ocorreu durante um patrulhamento de rotina,…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Monte Aprazível",
-"Bálsamo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-e-preso-e-moto-furtada-e-recuperada-pela-pm-apos-perseguicao/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:31",
-"t": "Cobra venenosa é encontrada na entrada de escola infantil no litoral de SP",
-"p": "Serpente peçonhenta foi localizada em grade de escola no bairro Getuba, na manhã desta sexta-feira (6), e resgatada pelo Corpo de Bombeiros",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/cobra-venenosa-e-encontrada-na-entrada-de-escola-infantil-no-litoral-de-sp.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:30",
-"t": "Acompanhamento de saúde: regra nacional exige vacinação e peso em dia de crianças e gestantes para manter o Bolsa Família",
-"p": "O acompanhamento periódico da saúde de crianças e gestantes é uma condicionalidade obrigatória do programa Bolsa Família em todo o território nacional. Determinado pelo Governo Federal e operacionalizado pelo Ministério da Saúde em conjunto com o Ministério do Desenvolvimento e Assistência Social, Família e Combate…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/acompanhamento-de-saude-regra-nacional-exige-vacinacao-e-peso-em-dia-de-criancas-e-gestantes-para-manter-o-bolsa-familia/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:20",
-"t": "MP atribui a ex-juiz de tribunal de impostos elo com propinas de fiscais da Fazenda de SP",
-"p": "",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367348/mp-atribui-a-ex-juiz-de-tribunal-de-impostos-elo-com-propinas-de-fiscais-da-fazenda-de-sp",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:19",
-"t": "Piscinão do Bairro Fundação atinge 90% da estrutura concluída",
-"p": "Reservatório passa pela instalação de peças pré-moldadas que darão sustentação à futura laje de cobertura; obra integra o programa Drenar São Caetano",
-"tema": "Água",
-"s": "fato",
-"c": [
-"São Caetano do Sul"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367344/piscinao-do-bairro-fundacao-atinge-90-da-estrutura-concluida",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:19",
-"t": "Astronautas voltam ao mundo normal após NASA mantê-los isolados por 378 dias em ‘Marte simulado’ em experimento que levará humanos ao planeta vermelho",
-"p": "Depois de 378 dias vivendo como se estivessem em Marte, quatro voluntários finalmente deixaram o confinamento imposto pela NASA. A missão terminou no último sábado (31), no Centro Espacial Johnson, em Houston, nos Estados Unidos. Durante mais de um ano, os participantes permaneceram em uma instalação de apenas 158…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/astronautas-voltam-ao-mundo-normal-apos-nasa-mante-los-isolados-por-378-dias-em-marte-simulado-em-experimento-que-levara-humanos-ao-planeta-vermelho/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:02",
-"t": "Citronela, alecrim e manjericão afastam mosquitos? Entenda os limites e os cuidados necessários",
-"p": "Com a chegada do período chuvoso, a atenção com os ambientes externos e internos da casa precisa ser redobrada. Vasos, canteiros e pequenos espaços do quintal passam a exigir mais cuidados, especialmente com o aumento da umidade e a presença de mosquitos. Nesse cenário, algumas plantas aromáticas despertam o…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/citronela-alecrim-e-manjericao-afastam-mosquitos-entenda-os-limites-e-os-cuidados-necessarios/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:00",
-"t": "‘Milei paraguaio’, ex-senador Payo Cubas é expulso por manifestantes durante protesto contra o governo de Santiago Peña",
-"p": "O ex-senador e ex-candidato à Presidência do Paraguai Payo Cubas viveu momentos de forte tensão na madrugada desta sexta-feira (6/11) ao ser expulso por manifestantes durante um protesto contra o governo do Presidente Santiago Peña. O episódio ocorreu no centro de Assunção, onde milhares de cidadãos se reuniram…",
-"tema": "Eleições",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/milei-paraguaio-ex-senador-payo-cubas-e-expulso-por-manifestantes-durante-protesto-contra-o-governo-de-santiago-pena/",
 "auto": true
 }
 ]
