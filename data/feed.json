@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-22T22:23:05-03:00",
-"novos_nesta_coleta": 17,
+"atualizado": "2026-11-23T00:03:54-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,78 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-22",
+"h": "23:51",
+"t": "Helicóptero Águia da PM e Bombeiros resgatam banhista em perigo no mar do Guarujá",
+"p": "A Polícia Militar resgatou um banhista que estava com dificuldades para sair do mar, na tarde de sexta-feira (20), na Praia da Enseada, no Guarujá, litoral de São Paulo. Durante patrulhamento preventivo pela orla, a tripulação do helicóptero Águia 7, do Comando de Aviação da PM, identificou a situação de risco e…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo",
+"Guarujá"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/helicoptero-aguia-da-pm-e-bombeiros-resgatam-banhista-em-perigo-no-mar-do-guaruja/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "23:51",
+"t": "PM de SP tira de circulação carro de luxo com mais de R$ 530 mil em débitos e 363 multas",
+"p": "Automóvel estava com licenciamento vencido desde 2017 e foi abordado pelo Policiamento de Trânsito durante fiscalização na zona sul da capital Agência SP Publicado em 22/11/2026 – 18:58 Ouvir a matéria Segurança Pública Diante das […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pm-de-sp-tira-de-circulacao-carro-de-luxo-com-mais-de-r-530-mil-em-debitos-e-363-multas/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "23:51",
+"t": "Defesa Civil monitora ocorrências provocadas por chuvas em municípios de SP e emite 41 alertas neste domingo (22)",
+"p": "A Defesa Civil do Estado monitora as ocorrências registradas em municípios de São Paulo em decorrência das chuvas fortes que atingem diferentes regiões neste domingo (22) e mantém alerta vigente até terça-feira (24), com previsão de mais precipitações em todo o território paulista. Neste domingo, foram emitidos 41…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-monitora-ocorrencias-provocadas-por-chuvas-em-municipios-de-sp-e-emite-41-alertas-neste-domingo-22/",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "22:49",
+"t": "Defesa Civil emite alerta para municípios do Grande ABC",
+"p": "Os avisos foram enviados a Santo André, São Bernardo, Diadema e Mauá e são vigentes até terça-feira (24)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santo André",
+"Diadema",
+"Mauá",
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370180/defesa-civil-emite-alerta-para-municipios-do-grande-abc",
+"auto": true
+},
+{
+"d": "2026-11-22",
+"h": "22:27",
+"t": "Prefeitura de São Bernardo dá início à regularização fundiária na Vila Lulaldo",
+"p": "Durante reunião com moradores do núcleo, técnicos apresentaram as etapas do processo, que garantirá o título de propriedade dos imóveis",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370175/prefeitura-de-sao-bernardo-da-inicio-a-regularizacao-fundiaria-na-vila-lulaldo",
+"auto": true
+},
 {
 "d": "2026-11-22",
 "h": "21:41",
@@ -54938,68 +55010,6 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-exportacoes-investimentos-mercado-internacional/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:47",
-"t": "Dia Municipal do... Telecatch? Eleitores questionam vereadora autora de lei",
-"p": "Nova data comemorativa será comemorada no dia 18 de outubro, em homenagem ao dia de nascimento de Ted Boy Marino, grande nome do telecatch",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/dia-municipal-do-telecatch-eleitores-questionam-vereadora-autora-de-lei",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:46",
-"t": "Estudantes da 3ª série do Ensino Médio realizam avaliação do Saresp nas escolas estaduais",
-"p": "Logo após enfrentarem a maratona de dois dias de provas do Provão Paulista Seriado, cerca de 322 mil estudantes da 3ª série do Ensino Médio da rede estadual paulista passam por mais uma etapa importante nesta sexta-feira (6). Os alunos realizam o Saresp (Sistema de Avaliação de Rendimento Escolar do Estado de São…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/estudantes-da-3a-serie-do-ensino-medio-realizam-avaliacao-do-saresp-nas-escolas-estaduais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:45",
-"t": "Mogi Shopping abre Natal com espetáculo inspirado na Broadway e decoração que terá árvore gigante de mais de 8,5 metros",
-"p": "O Mogi Shopping abre a programação de Natal no dia 11 de novembro, às 20h, com o espetáculo “The Christmas Show”, do Estúdio Broadway, sob direção artística de Fernanda Chamma. A apresentação será gratuita e aberta ao público, na Praça de Eventos, e marcará a inauguração da decoração natalina “Acordes de Natal”.…",
-"tema": "Geral",
-"s": "entregue",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/mogi-shopping-abre-natal-com-espetaculo-inspirado-na-broadway-e-decoracao-que-tera-arvore-gigante-de-mais-de-85-metros/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:45",
-"t": "Mulher é morta a facadas na frente do filho em São Vicente; companheiro é preso",
-"p": "Vítima de 38 anos foi encontrada morta no apartamento; companheiro dela confessou o crime e foi detido pela GCM após procurar agentes",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Vicente"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/mulher-e-morta-a-facadas-na-frente-do-filho-em-sao-vicente-companheiro-e-preso.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:41",
-"t": "Imposto do pecado muda preço dos carros em 2027: diesel pode pagar até 30%, enquanto modelos PcD, táxis e sustentáveis ficam isentos",
-"p": "O Imposto Seletivo, conhecido como “imposto do pecado”, vai mudar a tributação dos carros no Brasil a partir de 2 de fevereiro de 2027. Os veículos a gasolina e diesel tendem a pagar mais do que modelos flex e elétricos. A medida provisória que estabelece as alíquotas do novo tributo transfere para o Imposto…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/economia/imposto-do-pecado-muda-preco-dos-carros-em-2027-diesel-pode-pagar-ate-30-enquanto-modelos-pcd-taxis-e-sustentaveis-ficam-isentos/",
 "auto": true
 }
 ]
