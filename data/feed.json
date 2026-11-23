@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T01:16:17-03:00",
+"atualizado": "2026-11-23T02:33:04-03:00",
 "novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
@@ -50,6 +50,18 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-23",
+"h": "01:30",
+"t": "‘Roque Santeiro’: Roberto leva tiro e é transferido para o Rio, enquanto Beato Salu entra em coma após envenenamento nesta segunda (23)",
+"p": "No capítulo desta segunda-feira (23), em ‘Roque Santeiro’, uma tentativa de homicídio e um crime no hospital mergulharam Asa Branca em pânico absoluto. Após o atentado que deixa a galã gravemente ferida, uma testemunha chave surge para apontar a autora do tiro, pois Mocinha conta que viu uma mulher atirando em…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-roberto-leva-tiro-e-e-transferido-para-o-rio-enquanto-beato-salu-entra-em-coma-apos-envenenamento-nesta-segunda-23/",
+"auto": true
+},
 {
 "d": "2026-11-23",
 "h": "00:36",
@@ -54998,18 +55010,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367351/criminosos-abrem-buraco-em-banco-e-levam-ate-rs-400-mil-em-sao-bernardo",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "16:50",
-"t": "Quem era o falso padre condenado por estelionato encontrado morto no centro",
-"p": "Marcos Rodrigues Fontana tinha 65 anos e um histórico de crimes patrimoniais. Ele se passava por padre e cobrava para rezar missas",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/quem-era-o-falso-padre-condenado-por-estelionato-encontrado-morto-no-centro",
 "auto": true
 }
 ]
