@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-23T12:14:22-03:00",
-"novos_nesta_coleta": 35,
+"atualizado": "2026-11-23T13:19:27-03:00",
+"novos_nesta_coleta": 28,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -26,14 +28,9 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
-{
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -43,19 +40,194 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Diário do Litoral",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-23",
+"h": "13:10",
+"t": "Black Friday tem desconto de verdade? Procon-SP ensina a identificar ofertas falsas",
+"p": "Programação on-line inclui encontro sobre compras seguras nesta segunda-feira (23) e atividades virtuais e presenciais em dezembro, com inscrições gratuitas",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/black-friday-tem-desconto-de-verdade-procon-sp-ensina-a-identificar-ofertas-falsas.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "13:08",
+"t": "Campinas reúne 51 cidades em simulado para enfrentar temporais e tornados",
+"p": "Defesa Civil reúne 51 cidades em Campinas para treinamento contra temporais e tornados. Operação mobilizou 155 profissionais, drones e geradores",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-reune-51-cidades-em-simulado-para-enfrentar-temporais-e-tornados/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "13:07",
+"t": "Danilo Campetti entrega 11 fuzis ao BAEP de Rio Preto",
+"p": "Emenda parlamentar de R$ 160 mil foi indicada após Campetti assumir uma cadeira na Alesp, em 2024",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/danilo-campetti-entrega-fuzis-ao-baep-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "13:06",
+"t": "Instituto de Pesquisas Ambientais abre concurso com 98 vagas e salário inicial de R$ 9 mil",
+"p": "O Instituto de Pesquisas Ambientais (IPA), órgão vinculado à Secretaria de Meio Ambiente, Infraestrutura e Logística (Semil) do Estado de São Paulo, abriu concurso público para o preenchimento de 98 vagas no cargo de Pesquisador Científico I. A seleção exige formação de nível superior em diversas áreas do…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/instituto-de-pesquisas-ambientais-abre-concurso-com-98-vagas-e-salario-inicial-de-r-9-mil/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "13:02",
+"t": "Implante dentário: 7 cuidados essenciais para aumentar a durabilidade do tratamento",
+"p": "O implante dentário é uma alternativa duradoura e segura para substituir dentes perdidos, e os cuidados do paciente no dia a dia são indispensáveis para preservar seus resultados. Hábitos como negligenciar a higiene bucal, fumar e deixar de comparecer às consultas de manutenção podem comprometer a saúde dos tecidos…",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/implante-dentario-7-cuidados-essenciais-para-aumentar-a-durabilidade-do-tratamento/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:52",
+"t": "Suspeita de bomba em prédio na Vila Olímpia é descartada pelo Gate",
+"p": "O prédio foi evacuado após uma funcionária encontrar uma caixa suspeita de conter um explosivo. O caso será investigado pela Polícia Civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/suspeita-de-bomba-em-predio-na-vila-olimpia-e-descartada-pelo-gate",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:45",
+"t": "Obras de revitalização na Avenida Presidente Wilson começam nesta segunda e interditam trechos em Santos",
+"p": "Começou nesta segunda-feira (23) o maior projeto da Prefeitura de Santos para revitalização de cinco dos principais eixos de circulação da área insular pela Avenida Presidente Wilson. Nessa primeira etapa, as obras estão previstas para acontecer no trecho entre a Avenida Pinheiro Machado (Canal 1) e a Rua Olavo…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/obras-de-revitalizacao-na-avenida-presidente-wilson-comecam-nesta-segunda-e-interditam-trechos-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:43",
+"t": "Instituto de Pesquisas Ambientais abre concurso público com 98 vagas e salário de R$ 9 mil",
+"p": "Oportunidades são para Pesquisador Científico I, com exigência de nível superior; inscrições seguem até 22 de dezembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/instituto-de-pesquisas-ambientais-abre-concurso-publico-com-98-vagas-e-salario-de-r-9-mil/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:33",
+"t": "Ubatuba tem 140 mm de chuva nesta segunda (23/11), 66% do previsto no mês",
+"p": "Segundo a Defesa Civil, o município de Ubatuba teve mais de 140 mm de chuva nas últimas 12 horas. A prefeitura previa 210 para todo o mês",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ubatuba-tem-140-mm-de-chuva-nesta-segunda-23-11-66-do-previsto-no-mes",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:30",
+"t": "Quem era a jovem morta por linha de cerol? Mulher começaria novo emprego hoje",
+"p": "Flávia Cantarini Zani, jovem de 28 anos, foi atingida no pescoço enquanto estava na garupa de uma moto na Rodovia Hermínio Petrin, entre Charqueada e Piracicaba",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Charqueada",
+"Piracicaba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/quem-era-a-jovem-morta-por-linha-de-cerol-mulher-comecaria-novo-emprego-hoje/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:25",
+"t": "Hospital em Ribeirão Preto abre 200 vagas gratuitas para exame de próstata neste sábado (28)",
+"p": "Ação do Hospital São Lucas integra a campanha Novembro Azul e atende homens a partir de 50 anos com consulta médica e teste de PSA; veja como agendar",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/hospital-em-ribeirao-preto-abre-200-vagas-gratuitas-para-exame-de-prostata-neste-sabado-28/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:20",
+"t": "Câmara vota hoje orçamento de R$ 12,69 bilhões para 2027; veja áreas e valores",
+"p": "Câmara de Campinas vota nesta segunda o orçamento de 2027, que prevê R$ 12,69 bilhões. Veja quanto será destinado à Saúde, Educação e outras áreas",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/camara-vota-hoje-orcamento-de-r-1269-bilhoes-para-2027-veja-areas-e-valores/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:18",
+"t": "Instituto de Pesquisas Ambientais abre concurso com 98 vagas e salário inicial de R$ 9 mil",
+"p": "O Instituto de Pesquisas Ambientais (IPA), órgão vinculado à Secretaria de Meio Ambiente, Infraestrutura e Logística (Semil) do Estado de São Paulo, abriu concurso público para o preenchimento de 98 vagas no cargo de Pesquisador Científico I. A seleção exige formação de nível superior em diversas áreas do…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/instituto-de-pesquisas-ambientais-abre-concurso-com-98-vagas-e-salario-inicial-de-r-9-mil/",
+"auto": true
+},
 {
 "d": "2026-11-23",
 "h": "12:12",
@@ -112,6 +284,32 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/lazer-e-cultura/papai-noel-chega-em-shopping-neste-final-de-semana-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:03",
+"t": "Alerta vermelho da Defesa Civil: o que significa o aviso e o que fazer durante uma tempestade",
+"p": "Você provavelmente já recebeu alertas de tempestades severas, vendavais e granizo no seu celular, com mensagens que detalham se o risco é baixo, elevado ou extremo, separado por cores. Quando a Defesa Civil emite um alerta vermelho, a recomendação é levar a situação a sério, procurar abrigo e seguir as orientações…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/alerta-vermelho-da-defesa-civil-o-que-significa-o-aviso-e-o-que-fazer-durante-uma-tempestade/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:02",
+"t": "Ônibus perde freio, bate em carro e atinge pai e filho de bicicleta; acidente deixa sete feridos na zona norte de São Paulo",
+"p": "Um grave acidente envolvendo um ônibus deixou sete pessoas feridas na manhã desta segunda-feira (23/11), no Jardim Peri, na zona norte de São Paulo. Uma das vítimas ficou em estado gravíssimo após o coletivo perder o freio, atingir um carro e bater no muro de uma residência. O acidente aconteceu na rua Ministro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/onibus-perde-freio-bate-em-carro-e-atinge-pai-e-filho-de-bicicleta-acidente-deixa-sete-feridos-na-zona-norte-de-sao-paulo/",
 "auto": true
 },
 {
@@ -178,6 +376,20 @@
 },
 {
 "d": "2026-11-23",
+"h": "11:52",
+"t": "Chuvas deixam 34 desalojados e um desaparecido em São Paulo",
+"p": "A cidade de São Paulo foi atingida por fortes chuvas na noite deste domingo (22) e madrugada de segunda-feira (23). Por volta das 18h, houve uma precipitação pluviométrica que causou alagamentos em vias públicas e residências. De acordo com a Defesa Civil do estado, 34 pessoas ficaram desalojadas no bairro da…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/chuvas-deixam-34-desalojados-e-um-desaparecido-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "11:47",
 "t": "Câmara de Marília vota hoje reestruturação de secretarias e criação de duas pastas",
 "p": "Câmara de Marília vota mudanças no transporte e regras para atendimento veterinário Proposta reorganiza atribuições de órgãos municipais e será votada em primeira discussão nesta segunda-feira.",
@@ -230,6 +442,21 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/cras-movel-oferece-atendimentos-gratuitos-no-caguacu-nesta-quarta-feira-25/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "11:40",
+"t": "Ubatuba registra maior chuva do Brasil em 24h, deixa carros submersos e famílias fora de casa",
+"p": "Ubatuba, no Litoral Norte de São Paulo, enfrenta os impactos de um forte temporal que atingiu a cidade entre a noite de domingo (22) e a madrugada desta segunda-feira (23). Ver esse post no Instagram Um post compartilhado por Prefeitura de Ubatuba (@ubatubapref) A chuva provocou alagamentos, transbordamento de…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Ubatuba"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/ubatuba-registra-maior-chuva-do-brasil-em-24h-deixa-carros-submersos-e-familias-fora-de-casa/",
 "auto": true
 },
 {
@@ -333,6 +560,20 @@
 },
 {
 "d": "2026-11-23",
+"h": "11:18",
+"t": "Festival asiático em Embu das Artes terá mais de 200 pratos, K-pop e concursos de cosplay",
+"p": "Embu das Artes recebe, entre sexta-feira (27) e domingo (29), o Festival da Gastronomia e Cultura Coreana (Mundo Asiático). O evento terá mais de 200 opções de pratos, apresentações de K-pop, concursos de cosplay, workshops de dança e shows musicais. A entrada será gratuita. Ver esse post no Instagram Um post…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Embu das Artes"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/festival-asiatico-em-embu-das-artes-tera-mais-de-200-pratos-k-pop-e-concursos-de-cosplay/",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "11:09",
 "t": "Ônibus sem freios atinge carro e bicicleta e deixa sete feridos em SP",
 "p": "Acidente ocorreu no Jardim Peri, na zona norte da capital; ciclista de 50 anos foi levado em estado gravíssimo ao Hospital das Clínicas",
@@ -341,6 +582,18 @@
 "c": [],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4370237/onibus-sem-freios-atinge-carro-e-bicicleta-e-deixa-sete-feridos-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "11:09",
+"t": "Márcio Vieira, diretor cênico da Beija-Flor, morre um mês após aniversário de 51 anos e recebe homenagens de artistas nas redes sociais",
+"p": "O diretor cênico da Beija-Flor de Nilópolis, Márcio Vieira, morreu aos 51 anos, no domingo (22/11), exatamente um mês após o seu aniversário. A morte foi comunicada pela família do artista em uma publicação nas redes sociais. A causa não foi divulgada. A notícia mobilizou a escola de samba e artistas que conviveram…",
+"tema": "Educação",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/marcio-vieira-diretor-cenico-da-beija-flor-morre-um-mes-apos-aniversario-de-51-anos-e-recebe-homenagens-de-artistas-nas-redes-sociais/",
 "auto": true
 },
 {
@@ -386,6 +639,20 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/chuvas-afetam-abastecimento-de-agua-em-cinco-cidades-da-baixada-santista/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "11:00",
+"t": "RIC Ambiental faz manutenção em fonte do Planalto II e suspende água no local",
+"p": "Serviço inclui a limpeza da estrutura e provoca a interrupção temporária do fornecimento de água no local.",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Planalto"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/ric-ambiental-faz-manutencao-em-fonte-do-planalto-ii-e-suspende-agua-no-local/",
 "auto": true
 },
 {
@@ -54764,276 +55031,6 @@
 ],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/lotofacil-3823-premia-40-apostas-de-sp-com-ganhadores-no-litoral-interior-e-grande-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "09:07",
-"t": "Desabamento no Brás: prédio não tinha alvará de funcionamento da prefeitura",
-"p": "Prédio comercial desabou na noite dessa sexta (6/11), deixando 27 pessoas levemente feridas. Bombeiros atuam no local neste sábado (7/11)",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/desabamento-no-bras-predio-nao-tinha-alvara-de-funcionamento-da-prefeitura",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "09:04",
-"t": "Brasil registra menor número de casos de malária em 47 anos e reduz mortes em 30%; veja os sintomas que exigem atendimento após viagem à Amazônia",
-"p": "O Brasil registrou em 2025 o menor número de casos de malária contraídos no território nacional desde 1978. Foram 118.037 infecções, uma redução de 14,8% em comparação com o ano anterior, segundo o Ministério da Saúde. O avanço também apareceu no número de mortes. Em 2024, a doença provocou 56 óbitos no país. Em…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/saude/brasil-registra-menor-numero-de-casos-de-malaria-em-47-anos-e-reduz-mortes-em-30-veja-os-sintomas-que-exigem-atendimento-apos-viagem-a-amazonia/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "09:00",
-"t": "Prédio que desabou no Brás não tinha Auto de Vistoria do Corpo de Bombeiros e deixa quatro feridos",
-"p": "O prédio de quatro andares que desabou no Brás, na região central de São Paulo, na noite de sexta-feira (6/11), não tinha o Auto de Vistoria do Corpo de Bombeiros (AVCB). O documento é exigido para comprovar que uma edificação segue as normas de segurança contra incêndios e situações de pânico. O desabamento…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/predio-que-desabou-no-bras-nao-tinha-auto-de-vistoria-do-corpo-de-bombeiros-e-deixa-quatro-feridos/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:50",
-"t": "Mais de 58 mil câmeras e dados de 6 mil agentes expostos: o que se sabe sobre a falha de segurança do Smart Sampa em São Paulo",
-"p": "Um sistema criado para ajudar a polícia a localizar criminosos pode ter aberto uma janela para que criminosos espionassem a própria polícia. O sistema Smart Sampa teve dados sensíveis expostos na internet e permitiu acesso indevido a mais de 58 mil câmeras. O caso ganhou ainda mais força porque as imagens não se…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/mais-de-58-mil-cameras-e-dados-de-6-mil-agentes-expostos-o-que-se-sabe-sobre-a-falha-de-seguranca-do-smart-sampa-em-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:48",
-"t": "Prefeitura de Ouroeste faz alerta e reforça denúncias contra suspeita de envenenamento de gatos",
-"p": "A Coordenadoria de Bem-Estar Animal da Prefeitura de Ouroeste emitiu um alerta à população sobre casos de maus-tratos e mortes de felinos por suspeita de envenenamento no bairro do Bosque. A situação acendeu o sinal de aviso na comunidade local, que costuma cuidar e alimentar gatos comunitários na região. A…",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"Ouroeste"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/prefeitura-de-ouroeste-faz-alerta-e-reforca-denuncias-contra-suspeita-de-envenenamento-de-gatos/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:48",
-"t": "Ganha Tempo de Macedônia passa a contar com Ponto de Atendimento Virtual da Receita Federal",
-"p": "A Prefeitura de Macedônia anunciou a implantação de um Ponto de Atendimento Virtual (PAV) da Receita Federal na unidade do Ganha Tempo do município. A novidade passa a funcionar a partir desta segunda-feira e busca facilitar o acesso dos cidadãos a orientações e serviços fiscais sem a necessidade de deslocamento…",
-"tema": "Política",
-"s": "entregue",
-"c": [
-"Macedônia"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/ganha-tempo-de-macedonia-passa-a-contar-com-ponto-de-atendimento-virtual-da-receita-federal/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:48",
-"t": "Prefeitura de Jales capacita profissionais de saúde para notificação e combate à violência interpessoal e autoprovocada",
-"p": "A Prefeitura de Jales, por meio da Secretaria Municipal de Saúde, promoveu um treinamento especializado no Ambulatório Médico de Especialidades (AME) voltado à identificação, acolhimento e notificação de casos de violência interpessoal e autoprovocada. A capacitação reuniu equipes multidisciplinares, profissionais…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jales"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/prefeitura-de-jales-capacita-profissionais-de-saude-para-notificacao-e-combate-a-violencia-interpessoal-e-autoprovocada/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:46",
-"t": "Uma dívida de até R$ 45 milhões por pessoa pode sair com desconto de 70%; um detalhe impede abatimento no valor do trabalhador",
-"p": "Empregadores com dívidas de Fundo de Garantia do Tempo de Serviço (FGTS) podem aproveitar uma nova oportunidade para regularizar valores atrasados. A Procuradoria-Geral da Fazenda Nacional (PGFN) abriu uma negociação que permite descontos de até 70% e parcelamentos que, em determinadas situações, chegam a 133…",
-"tema": "Contas públicas",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/uma-divida-de-ate-r-45-milhoes-por-pessoa-pode-sair-com-desconto-de-70-um-detalhe-impede-abatimento-no-valor-do-trabalhador/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:41",
-"t": "Ilhabela retoma concurso da Corte Carnavalesca após período sem escolha de representantes",
-"p": "Inscrições para Rei Momo, Rainha e Princesa do Carnaval 2027 começam na segunda-feira (9); premiação chega a R$ 8 mil",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ilhabela"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-retoma-concurso-da-corte-carnavalesca-apos-periodo-sem-escolha-de-representantes.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:38",
-"t": "Balsa de Ilhabela opera com quatro embarcações nesta manhã de sábado (7)",
-"p": "Maré baixa impede o transporte de veículos pesados entre São Sebastião e Ilhabela; fila é de 30 minutos em ambas as margens",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ilhabela"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/balsas/ilhabela/balsa-de-ilhabela-opera-com-quatro-embarcacoes-nesta-manha-de-sabado-7.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:27",
-"t": "Homem tenta esfaquear funcionária de farmácia durante assalto em Ubatuba",
-"p": "Câmeras de segurança registraram a ação; vítima usou um cabo de rodo para se defender das agressões do criminoso, que fugiu levando dinheiro do caixa",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Ubatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/homem-tenta-esfaquear-funcionaria-de-farmacia-durante-assalto-em-ubatuba.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:17",
-"t": "Guaratinguetá abre inscrições para rodada de negócios com grandes indústrias",
-"p": "Encontro gratuito do Sebrae e da Prefeitura será em 12 de novembro, na FEG Unesp. Inscrições seguem até dia 11.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Guaratinguetá"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/guara-compra-guara-rodada-negocios-exportacao-12-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:17",
-"t": "Sabores de Rua tem shows, brechós e programação pet em Pindamonhangaba",
-"p": "Festival gratuito ocupa o Bosque da Princesa neste sábado e domingo. Desfile pet recebe inscrições no local, com doação de alimento ou ração.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Pindamonhangaba"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/sabores-de-rua-bosque-princesa-pinda-7-8-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:15",
-"t": "Enem terá transporte metropolitano gratuito em SP das 9h às 21h",
-"p": "Medida vale em 8 e 15 de novembro para os sistemas indicados pelo governo estadual. Não será exigido comprovante de escolaridade.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/enem-2026-transporte-metropolitano-gratuito-sp-8-15-novembro.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "08:15",
-"t": "Tamoios passa a fiscalizar cinto e celular com câmeras neste sábado",
-"p": "Imagens serão encaminhadas à Polícia Militar Rodoviária, responsável pela autuação. A fiscalização inclui passageiros do banco traseiro.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/tamoios-fiscalizacao-cinto-celular-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "07:47",
-"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste sábado (7)",
-"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas segundo informações das concessionárias Ecovias e CNL",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Ribeira"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-sabado-7.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "07:45",
-"t": "Ferrovia de 1.360 km promete ligar Brasília ao litoral do Espírito Santo com investimento bilionário e rota por 38 municípios no País",
-"p": "Ferrovia de Brasília a Espírito Santo",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/turismo/ferrovia-de-1-360-km-promete-ligar-brasilia-ao-litoral-do-espirito-santo-com-investimento-bilionario-e-rota-por-38-municipios-no-pais/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "07:15",
-"t": "MELHOR ESTUDANTE: Talentos que encontram oportunidades",
-"p": "O Melhor Estudante de Votuporanga do Rotary Club 8 de Agosto chega à 24ª edição com 116 estudantes inscritos de 10 escolas públicas; concurso já proporcionou mais de 100 bolsas integrais para o Ensino Médio e terá prova final neste domingo (8), no IFSP Marcos Garcia, integrante do Rotary Club 8 de Agosto (à…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/talentos-que-encontram-oportunidades-2/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "07:00",
-"t": "Bolsa Família pode ser bloqueado; saiba quem corre risco",
-"p": "O Programa Bolsa Família, gerido pelo Governo Federal por meio do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) em conjunto com as pastas da Saúde e da Educação, conta com diretrizes unificadas em todo o território nacional. Para garantir a permanência no programa de…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/bolsa-familia-pode-ser-bloqueado-saiba-quem-corre-risco/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "06:02",
-"t": "Orquestra de Violeiros e Prefeitura de Fernandópolis assinam convênio para projeto de resgate da música sertaneja",
-"p": "A Prefeitura de Fernandópolis, por meio da Secretaria Municipal de Cultura e Turismo, oficializou nesta sexta-feira (6) a assinatura do Termo de Execução Cultural com a Associação Cultural João de Barro — Centro de Tradições Caipiras. A parceria destina R$ 17.019,68, com recursos provenientes da Política Nacional…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/orquestra-de-violeiros-e-prefeitura-de-fernandopolis-assinam-convenio-para-projeto-de-resgate-da-musica-sertaneja/",
 "auto": true
 }
 ]

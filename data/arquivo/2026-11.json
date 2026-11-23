@@ -3,6 +3,181 @@
 "itens": [
 {
 "d": "2026-11-23",
+"h": "13:10",
+"t": "Black Friday tem desconto de verdade? Procon-SP ensina a identificar ofertas falsas",
+"p": "Programação on-line inclui encontro sobre compras seguras nesta segunda-feira (23) e atividades virtuais e presenciais em dezembro, com inscrições gratuitas",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/black-friday-tem-desconto-de-verdade-procon-sp-ensina-a-identificar-ofertas-falsas.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "13:08",
+"t": "Campinas reúne 51 cidades em simulado para enfrentar temporais e tornados",
+"p": "Defesa Civil reúne 51 cidades em Campinas para treinamento contra temporais e tornados. Operação mobilizou 155 profissionais, drones e geradores",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-reune-51-cidades-em-simulado-para-enfrentar-temporais-e-tornados/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "13:07",
+"t": "Danilo Campetti entrega 11 fuzis ao BAEP de Rio Preto",
+"p": "Emenda parlamentar de R$ 160 mil foi indicada após Campetti assumir uma cadeira na Alesp, em 2024",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/danilo-campetti-entrega-fuzis-ao-baep-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "13:06",
+"t": "Instituto de Pesquisas Ambientais abre concurso com 98 vagas e salário inicial de R$ 9 mil",
+"p": "O Instituto de Pesquisas Ambientais (IPA), órgão vinculado à Secretaria de Meio Ambiente, Infraestrutura e Logística (Semil) do Estado de São Paulo, abriu concurso público para o preenchimento de 98 vagas no cargo de Pesquisador Científico I. A seleção exige formação de nível superior em diversas áreas do…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/instituto-de-pesquisas-ambientais-abre-concurso-com-98-vagas-e-salario-inicial-de-r-9-mil/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "13:02",
+"t": "Implante dentário: 7 cuidados essenciais para aumentar a durabilidade do tratamento",
+"p": "O implante dentário é uma alternativa duradoura e segura para substituir dentes perdidos, e os cuidados do paciente no dia a dia são indispensáveis para preservar seus resultados. Hábitos como negligenciar a higiene bucal, fumar e deixar de comparecer às consultas de manutenção podem comprometer a saúde dos tecidos…",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/implante-dentario-7-cuidados-essenciais-para-aumentar-a-durabilidade-do-tratamento/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:52",
+"t": "Suspeita de bomba em prédio na Vila Olímpia é descartada pelo Gate",
+"p": "O prédio foi evacuado após uma funcionária encontrar uma caixa suspeita de conter um explosivo. O caso será investigado pela Polícia Civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/suspeita-de-bomba-em-predio-na-vila-olimpia-e-descartada-pelo-gate",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:45",
+"t": "Obras de revitalização na Avenida Presidente Wilson começam nesta segunda e interditam trechos em Santos",
+"p": "Começou nesta segunda-feira (23) o maior projeto da Prefeitura de Santos para revitalização de cinco dos principais eixos de circulação da área insular pela Avenida Presidente Wilson. Nessa primeira etapa, as obras estão previstas para acontecer no trecho entre a Avenida Pinheiro Machado (Canal 1) e a Rua Olavo…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/obras-de-revitalizacao-na-avenida-presidente-wilson-comecam-nesta-segunda-e-interditam-trechos-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:43",
+"t": "Instituto de Pesquisas Ambientais abre concurso público com 98 vagas e salário de R$ 9 mil",
+"p": "Oportunidades são para Pesquisador Científico I, com exigência de nível superior; inscrições seguem até 22 de dezembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/instituto-de-pesquisas-ambientais-abre-concurso-publico-com-98-vagas-e-salario-de-r-9-mil/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:33",
+"t": "Ubatuba tem 140 mm de chuva nesta segunda (23/11), 66% do previsto no mês",
+"p": "Segundo a Defesa Civil, o município de Ubatuba teve mais de 140 mm de chuva nas últimas 12 horas. A prefeitura previa 210 para todo o mês",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ubatuba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ubatuba-tem-140-mm-de-chuva-nesta-segunda-23-11-66-do-previsto-no-mes",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:30",
+"t": "Quem era a jovem morta por linha de cerol? Mulher começaria novo emprego hoje",
+"p": "Flávia Cantarini Zani, jovem de 28 anos, foi atingida no pescoço enquanto estava na garupa de uma moto na Rodovia Hermínio Petrin, entre Charqueada e Piracicaba",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Charqueada",
+"Piracicaba"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/piracicaba/quem-era-a-jovem-morta-por-linha-de-cerol-mulher-comecaria-novo-emprego-hoje/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:25",
+"t": "Hospital em Ribeirão Preto abre 200 vagas gratuitas para exame de próstata neste sábado (28)",
+"p": "Ação do Hospital São Lucas integra a campanha Novembro Azul e atende homens a partir de 50 anos com consulta médica e teste de PSA; veja como agendar",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/saude/hospital-em-ribeirao-preto-abre-200-vagas-gratuitas-para-exame-de-prostata-neste-sabado-28/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:20",
+"t": "Câmara vota hoje orçamento de R$ 12,69 bilhões para 2027; veja áreas e valores",
+"p": "Câmara de Campinas vota nesta segunda o orçamento de 2027, que prevê R$ 12,69 bilhões. Veja quanto será destinado à Saúde, Educação e outras áreas",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/camara-vota-hoje-orcamento-de-r-1269-bilhoes-para-2027-veja-areas-e-valores/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:18",
+"t": "Instituto de Pesquisas Ambientais abre concurso com 98 vagas e salário inicial de R$ 9 mil",
+"p": "O Instituto de Pesquisas Ambientais (IPA), órgão vinculado à Secretaria de Meio Ambiente, Infraestrutura e Logística (Semil) do Estado de São Paulo, abriu concurso público para o preenchimento de 98 vagas no cargo de Pesquisador Científico I. A seleção exige formação de nível superior em diversas áreas do…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/instituto-de-pesquisas-ambientais-abre-concurso-com-98-vagas-e-salario-inicial-de-r-9-mil/",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "12:12",
 "t": "Sipat Unifev 2026 envolve colaboradores em quatro dias de debates sobre saúde, prevenção e rotina de trabalho",
 "p": "Programação alternou encontros presenciais e transmissões ao vivo entre os dois câmpus, com foco em autocuidado, saúde integral e convivência. A Semana Interna de Prevenção de Acidentes do Trabalho (Sipat) Unifev 2026 reuniu colaboradores entre os dias 16 e 19 de novembro em uma agenda voltada à prevenção de…",
@@ -57,6 +232,32 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/lazer-e-cultura/papai-noel-chega-em-shopping-neste-final-de-semana-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:03",
+"t": "Alerta vermelho da Defesa Civil: o que significa o aviso e o que fazer durante uma tempestade",
+"p": "Você provavelmente já recebeu alertas de tempestades severas, vendavais e granizo no seu celular, com mensagens que detalham se o risco é baixo, elevado ou extremo, separado por cores. Quando a Defesa Civil emite um alerta vermelho, a recomendação é levar a situação a sério, procurar abrigo e seguir as orientações…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/alerta-vermelho-da-defesa-civil-o-que-significa-o-aviso-e-o-que-fazer-durante-uma-tempestade/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "12:02",
+"t": "Ônibus perde freio, bate em carro e atinge pai e filho de bicicleta; acidente deixa sete feridos na zona norte de São Paulo",
+"p": "Um grave acidente envolvendo um ônibus deixou sete pessoas feridas na manhã desta segunda-feira (23/11), no Jardim Peri, na zona norte de São Paulo. Uma das vítimas ficou em estado gravíssimo após o coletivo perder o freio, atingir um carro e bater no muro de uma residência. O acidente aconteceu na rua Ministro…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/onibus-perde-freio-bate-em-carro-e-atinge-pai-e-filho-de-bicicleta-acidente-deixa-sete-feridos-na-zona-norte-de-sao-paulo/",
 "auto": true
 },
 {
@@ -123,6 +324,20 @@
 },
 {
 "d": "2026-11-23",
+"h": "11:52",
+"t": "Chuvas deixam 34 desalojados e um desaparecido em São Paulo",
+"p": "A cidade de São Paulo foi atingida por fortes chuvas na noite deste domingo (22) e madrugada de segunda-feira (23). Por volta das 18h, houve uma precipitação pluviométrica que causou alagamentos em vias públicas e residências. De acordo com a Defesa Civil do estado, 34 pessoas ficaram desalojadas no bairro da…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/chuvas-deixam-34-desalojados-e-um-desaparecido-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "11:47",
 "t": "Câmara de Marília vota hoje reestruturação de secretarias e criação de duas pastas",
 "p": "Câmara de Marília vota mudanças no transporte e regras para atendimento veterinário Proposta reorganiza atribuições de órgãos municipais e será votada em primeira discussão nesta segunda-feira.",
@@ -175,6 +390,21 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/cras-movel-oferece-atendimentos-gratuitos-no-caguacu-nesta-quarta-feira-25/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "11:40",
+"t": "Ubatuba registra maior chuva do Brasil em 24h, deixa carros submersos e famílias fora de casa",
+"p": "Ubatuba, no Litoral Norte de São Paulo, enfrenta os impactos de um forte temporal que atingiu a cidade entre a noite de domingo (22) e a madrugada desta segunda-feira (23). Ver esse post no Instagram Um post compartilhado por Prefeitura de Ubatuba (@ubatubapref) A chuva provocou alagamentos, transbordamento de…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Ubatuba"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/ubatuba-registra-maior-chuva-do-brasil-em-24h-deixa-carros-submersos-e-familias-fora-de-casa/",
 "auto": true
 },
 {
@@ -278,6 +508,20 @@
 },
 {
 "d": "2026-11-23",
+"h": "11:18",
+"t": "Festival asiático em Embu das Artes terá mais de 200 pratos, K-pop e concursos de cosplay",
+"p": "Embu das Artes recebe, entre sexta-feira (27) e domingo (29), o Festival da Gastronomia e Cultura Coreana (Mundo Asiático). O evento terá mais de 200 opções de pratos, apresentações de K-pop, concursos de cosplay, workshops de dança e shows musicais. A entrada será gratuita. Ver esse post no Instagram Um post…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Embu das Artes"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/festival-asiatico-em-embu-das-artes-tera-mais-de-200-pratos-k-pop-e-concursos-de-cosplay/",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "11:09",
 "t": "Ônibus sem freios atinge carro e bicicleta e deixa sete feridos em SP",
 "p": "Acidente ocorreu no Jardim Peri, na zona norte da capital; ciclista de 50 anos foi levado em estado gravíssimo ao Hospital das Clínicas",
@@ -286,6 +530,18 @@
 "c": [],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4370237/onibus-sem-freios-atinge-carro-e-bicicleta-e-deixa-sete-feridos-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "11:09",
+"t": "Márcio Vieira, diretor cênico da Beija-Flor, morre um mês após aniversário de 51 anos e recebe homenagens de artistas nas redes sociais",
+"p": "O diretor cênico da Beija-Flor de Nilópolis, Márcio Vieira, morreu aos 51 anos, no domingo (22/11), exatamente um mês após o seu aniversário. A morte foi comunicada pela família do artista em uma publicação nas redes sociais. A causa não foi divulgada. A notícia mobilizou a escola de samba e artistas que conviveram…",
+"tema": "Educação",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/marcio-vieira-diretor-cenico-da-beija-flor-morre-um-mes-apos-aniversario-de-51-anos-e-recebe-homenagens-de-artistas-nas-redes-sociais/",
 "auto": true
 },
 {
@@ -331,6 +587,20 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/chuvas-afetam-abastecimento-de-agua-em-cinco-cidades-da-baixada-santista/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "11:00",
+"t": "RIC Ambiental faz manutenção em fonte do Planalto II e suspende água no local",
+"p": "Serviço inclui a limpeza da estrutura e provoca a interrupção temporária do fornecimento de água no local.",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Planalto"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/ric-ambiental-faz-manutencao-em-fonte-do-planalto-ii-e-suspende-agua-no-local/",
 "auto": true
 },
 {
