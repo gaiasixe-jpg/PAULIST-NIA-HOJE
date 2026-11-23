@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-23T09:08:52-03:00",
-"novos_nesta_coleta": 28,
+"atualizado": "2026-11-23T10:29:34-03:00",
+"novos_nesta_coleta": 39,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,19 +33,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +50,344 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-23",
+"h": "10:24",
+"t": "Bandidos invadem casa, rendem idosos, bebem vinho e roubam carro em Marília",
+"p": "Caso foi atendido pela Polícia Militar em Marília Dupla encapuzada e armada com faca permaneceu cerca de duas horas na residência; outros objetos também foram levados na ação.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/bandidos-invadem-casa-rendem-idosos-bebem-vinho-e-roubam-carro-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "10:17",
+"t": "Aposentado é atingido por vários golpes de faca em Marília",
+"p": "Vítima foi socorrida pelo Samu e encaminhada para o HC de Marília Polícia Militar foi acionada para atender a uma denúncia de agressão com faca na entrada da comunidade o Argollo Ferrão.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/aposentado-e-atingido-por-varios-golpes-de-faca-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "10:11",
+"t": "Jundiaí tem mais de 2,3 mil vagas de emprego abertas nesta segunda-feira (23); confira",
+"p": "Foto: Prefeitura de Jundiaí Empresas como Kalunga, Penske Logistics e Foxconn oferecem oportunidades em diferentes áreas, com inscrições até dezembro.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/economia/empregos/vagas-emprego-jundiai-2336-oportunidades/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "10:10",
+"t": "Temporais oferecem riscos mesmo após as chuvas; Samu faz alerta",
+"p": "Choques elétricos, ferimentos e contato com água de enchentes exigem cuidados; saiba quando acionar o 192 ou procurar atendimento médico.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/temporais-oferecem-riscos-mesmo-apos-as-chuvas-samu-faz-alerta/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "10:00",
+"t": "UPA de R$ 14,7 milhões está pronta desde janeiro, mas só vai abrir com ajuda de doação de Luciano Hang e outros empresários",
+"p": "A construção da nova Unidade de Pronto Atendimento (UPA) 24 horas de Barra Velha, no Litoral Norte de Santa Catarina, levou mais de três anos e recebeu investimento superior a R$ 14,6 milhões. Mesmo com o prédio concluído, a estrutura ainda precisa de equipamentos para começar a receber pacientes. A etapa de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/upa-de-r-147-milhoes-esta-pronta-desde-janeiro-mas-so-vai-abrir-com-ajuda-de-doacao-de-luciano-hang-e-outros-empresarios/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "10:00",
+"t": "PM resgata criança de 9 anos após homem ameaçar explodir casa em Peruíbe",
+"p": "Divulgação/PM Uma criança de 9 anos foi resgatada pela Polícia Militar após um homem armado com uma faca ameaçar provocar uma explosão com gás.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Peruíbe"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/peruibe-baixada/pm-resgata-crianca-de-9-anos-apos-homem-ameacar-explodir-casa-em-peruibe/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "10:00",
+"t": "Suspeito de feminicídio em Praia Grande se apresenta à polícia",
+"p": "Reprodução Celso Miranda de Souza Júnior, suspeito de matar a companheira Beatriz Borges Monteiro de Castro, de 20 anos, se apresentou à polícia.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/suspeito-de-feminicidio-em-praia-grande-se-apresenta-a-policia/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "10:00",
+"t": "Polícia Militar prende homem por adulteração de motocicleta e porte de drogas em Itararé",
+"p": "Um homem foi preso pela Polícia Militar neste domingo (22), no Distrito Industrial, em Itararé, suspeito de adulteração de sinal identificador de veículo e porte de drogas. De acordo com informações da Polícia Militar, durante patrulhamento, os policiais abordaram o condutor de uma motocicleta que apresentava uma…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Itararé"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/adulteracao-motocicleta/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:56",
+"t": "Centro de Jundiaí ganha 17 novos negócios; outros seis devem abrir em breve",
+"p": "Novas lojas e empresas fortalecem a diversidade de atividades e contribuem para a renovação do comércio na região central - Foto: Prefeitura de Jundiaí Programa Centro da Gente busca fortalecer a região central e atrair empreendedores; entre os novos estabelecimentos estão lojas, empresas e opções de alimentação",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/novos-negocios-centro-jundiai-17-aberturas/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:50",
+"t": "Mongaguá sanciona lei e cria o ‘Programa Recomeço’ com 50 vagas e auxílio mensal de R$ 1,2 mil para moradores desempregados",
+"p": "A Prefeitura de Mongaguá sancionou, na última quarta-feira (18), a Lei nº 3.531/2026, que institui oficialmente o Programa Recomeço. A nova política pública busca promover a qualificação profissional e a geração de renda. O objetivo é reinserir moradores em situação de vulnerabilidade social no mercado de trabalho.…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/mongagua-sanciona-lei-e-cria-o-programa-recomeco-com-50-vagas-e-auxilio-mensal-de-r-12-mil-para-moradores-desempregados/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:45",
+"t": "Justiça de Jales anula busca domiciliar sem mandado, absolve acusado de tráfico e determina expedição de alvará de soltura",
+"p": "A 1ª Vara Criminal da Comarca de Jales absolveu J. C. M. S. da acusação de tráfico de drogas por insuficiência de provas lícitas, após reconhecer a nulidade da busca domiciliar realizada sem mandado judicial ou autorização comprovada. A sentença, assinada pelo juiz Fábio Antonio Camargo Dantas e disponibilizada…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-jales-anula-busca-domiciliar-sem-mandado-absolve-acusado-de-trafico-e-determina-expedicao-de-alvara-de-soltura/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:38",
+"t": "Motorista é preso por dirigir bêbado e invadir maratona em Sorocaba",
+"p": "Segundo a GCM de Sorocaba, um passageiro do veículo conduzido pelo motorista embriagado ainda deu uma garrafada em uma pessoa na maratona",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/motorista-e-preso-por-dirigir-bebado-e-invadir-maratona-em-sorocaba",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:38",
+"t": "Kelvin Pré-Vestibular abre inscrições para Concurso de Bolsas 2027 em Rio Preto",
+"p": "Prova gratuita será realizada no dia 28 de novembro e oferecerá oportunidades de bolsas de estudos para quem deseja se preparar para os vestibulares",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/kelvin-pre-vestibular-abre-inscricoes-para-concurso-de-bolsas-2027-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:38",
+"t": "Chuva de 83mm provoca alagamentos e desabamento de muro em Ilhabela",
+"p": "Balanço da Defesa Civil, até as 7h42 desta segunda-feira (23), registra ocorrências nos bairros Itaquanduba, Barra Velha, Reino e Morro do Cantagalo",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/chuva-de-83mm-provoca-alagamentos-e-desabamento-de-muro-em-ilhabela.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:38",
+"t": "Justiça de Jales condena mulher a mais de 3 anos de prisão em regime fechado por furto mediante fraude em supermercado",
+"p": "A 2ª Vara Criminal da Comarca de Jales condenou Deise Adriana Alves da Silva à pena de três anos, um mês e 10 dias de reclusão, em regime inicial fechado, além do pagamento de 14 dias-multa, pelo crime de furto qualificado mediante fraude. A sentença, assinada pelo juiz Fabrício Augusto Dias e disponibilizada nesta…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-jales-condena-mulher-a-mais-de-3-anos-de-prisao-em-regime-fechado-por-furto-mediante-fraude-em-supermercado/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:37",
+"t": "Câmara de Fernandópolis cancela sessões solenes após morte do pai do presidente Daniel Arroio",
+"p": "A Câmara Municipal de Fernandópolis anunciou o cancelamento das sessões solenes programadas para esta segunda-feira (23) e terça-feira (24) em decorrência do falecimento de Israel Tridico Arroio, pai do presidente do Legislativo municipal, vereador Daniel Arroio. Conforme o comunicado oficial divulgado pelo órgão,…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/camara-de-fernandopolis-cancela-sessoes-solenes-apos-morte-do-pai-do-presidente-daniel-arroio/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:36",
+"t": "Motociclista fica gravemente ferido em acidente na Assis Chateaubriand",
+"p": "Colisão entre carro e moto ocorreu neste domingo (22), próximo ao condomínio Monte Carlo, em Rio Preto. Vítima foi encaminhada ao Hospital de Base",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/motociclista-fica-gravemente-ferido-em-acidente-na-rodovia-assis-chateaubriand/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:33",
+"t": "SP começa distribuição da vacina contra Mpox; estado lidera casos no Brasil",
+"p": "Estado de SP recebe mil novas doses de vacina contra a Mpox. Distribuição começa nesta segunda-feira (23/11)",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sp-comeca-distribuicao-da-vacina-contra-mpox-estado-lidera-casos-no-brasil",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:33",
+"t": "Caminhão atinge mureta de concreto e causa interdição em rodovia",
+"p": "Caminhão bateu em mureta de concreto na manhã desta segunda (23), na rodovia Carlos Tonanni, em Barrinha",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Barrinha"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/caminhao-atinge-mureta-de-concreto-e-causa-interdicao-em-rodovia/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:30",
+"t": "Menino de 3 anos é morto com tiro na cabeça enquanto dormia durante conflito em terra indígena no Rio Grande do Sul",
+"p": "Um menino de 3 anos foi morto na Terra Indígena Ligeiro, localizada no município de Charrua, no Norte do Rio Grande do Sul. A criança foi atingida por um disparo de arma de fogo durante a madrugada deste domingo (22/11). O caso é investigado pela Polícia Federal (PF). Segundo informações da corporação, o menino foi […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/menino-de-3-anos-e-morto-com-tiro-na-cabeca-enquanto-dormia-durante-conflito-em-terra-indigena-no-rio-grande-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:21",
+"t": "Confira as ofertas de emprego no PAT Marília nesta segunda-feira (23/11)",
+"p": "Vagas são destinadas a profissionais com diferentes níveis de escolaridade e experiência.-Oportunidades incluem vagas para auxiliar de embalagem, cozinheira, eletricista e motorista; maior salário informado é de R$ 5.181,26.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-segunda-feira-23-11/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:20",
+"t": "Chuvas deixam desalojados, provocam resgates em rios e mantêm Estado em alerta até terça-feira",
+"p": "A Defesa Civil do Estado de São Paulo mantém ativo um alerta de atenção para chuvas em todo o território paulista até terça-feira (24), após temporais provocarem alagamentos, quedas de árvores, desabamentos e resgates dramáticos entre a noite de domingo (22) e a madrugada desta segunda-feira (23). Somente até as…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/chuvas-deixam-desalojados-provocam-resgates-em-rios-e-mantem-estado-em-alerta-ate-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:18",
+"t": "Mãe socorre filha atropelada em faixa de pedestres por motorista que fugiu",
+"p": "Mãe de mulher atropelada foi avisada por vizinhos e correu para socorrer filha; estado de saúde da vítima é considerado grave",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mae-socorre-filha-atropelada-em-faixa-de-pedrestres-por-motorista-que-fugiu",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:15",
+"t": "Confira a previsão do tempo para Marília nesta segunda-feira (23/11)",
+"p": "Segundo o Instituto Nacional de Meteorologia (Inmet), há previsão de pancadas de chuva, trovoadas isoladas e queda nas temperaturas - Temperaturas variam com previsão de chuva em diferentes períodos do dia.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-segunda-feira-23-11/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:11",
+"t": "Churrasco pode ficar ainda mais caro após boi gordo atingir patamar próximo de recorde histórico no Brasil e previsão de queda na produção de carne acender alerta para 2027",
+"p": "O churrasco do fim de semana pode pesar ainda mais no bolso dos brasileiros nos próximos meses. O preço do boi gordo voltou a subir e já se aproxima de R$ 410 por arroba no mercado futuro, um dos maiores valores registrados para o contrato com vencimento em dezembro de 2026. A valorização acontece em […]",
+"tema": "Geral",
+"s": "obra",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/churrasco-pode-ficar-ainda-mais-caro-apos-boi-gordo-atingir-patamar-proximo-de-recorde-historico-no-brasil-e-previsao-de-queda-na-producao-de-carne-acender-alerta-para-2027/",
+"auto": true
+},
 {
 "d": "2026-11-23",
 "h": "09:06",
@@ -125,6 +457,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/psicologa-morre-em-grave-acidente-na-regiao-morte-causa-comocao-em-icem/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "09:00",
+"t": "Trabalhadores que recebem de R$ 5 mil a R$ 10 mil terão descontos diferentes de Imposto de Renda no 13º salário após mudança na tabela",
+"p": "O pagamento do décimo terceiro salário em 2026 terá uma mudança importante no cálculo do Imposto de Renda (IR). Com a ampliação da faixa de isenção, trabalhadores que recebem até R$ 5 mil por mês não terão desconto do tributo sobre o benefício. A nova regra também prevê uma redução gradual para quem recebe entre […]",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/trabalhadores-que-recebem-de-r-5-mil-a-r-10-mil-terao-descontos-diferentes-de-imposto-de-renda-no-13o-salario-apos-mudanca-na-tabela/",
 "auto": true
 },
 {
@@ -209,6 +553,20 @@
 },
 {
 "d": "2026-11-23",
+"h": "08:47",
+"t": "Mulher é atingida por tiro na testa durante discussão em Rio Preto",
+"p": "A vítima estava em um bar, as margens da rodovia Délcio Custódio da Silva, quando foi atingida pelo disparo. Ela foi socorrido pelo Samu a Hospital de Base",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mulher-e-atingido-por-tiro-na-testa-durante-discussao-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "08:45",
 "t": "Polícia Militar apreende pistola calibre .38 transportada fora da rota autorizada",
 "p": "Uma pistola calibre .38 e dois carregadores municiados foram apreendidos pela Polícia Militar durante uma operação de fiscalização realizada no quilômetro 2 da estrada vicinal CTH-230, nas proximidades do aeroporto de Castilho. Durante a abordagem a uma caminhonete Toyota Hilux, os agentes realizaram busca pessoal…",
@@ -237,6 +595,21 @@
 },
 {
 "d": "2026-11-23",
+"h": "08:32",
+"t": "São Vicente anuncia que nova escola municipal vai receber o nome da jornalista Glória Maria",
+"p": "Na última sexta-feira (20), Dia da Consciência Negra, a Prefeitura de São Vicente anunciou que o Ambiente Municipal de Educação Integral (AMEI) Rio Branco passará a ter o nome da jornalista Glória Maria. A medida acontece por meio do Decreto nº 7.302/2026. O anúncio foi feito pelo prefeito Kayo Amado (Podemos) em…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sao-vicente-anuncia-que-escola-municipal-de-ensino-integral-no-rio-branco-vai-receber-o-nome-da-jornalista-gloria-maria/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-23",
 "h": "08:25",
 "t": "Maré baixa impede embarque de veículos pesados na balsa de Ilhabela nesta segunda (23)",
 "p": "Espera é de 30 minutos nos dois sentidos, com cinco embarcações em operação; veja tarifas, horários e regras para caminhões",
@@ -247,6 +620,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/balsas/ilhabela/mare-baixa-impede-embarque-de-veiculos-pesados-na-balsa-de-ilhabela-nesta-segunda-23.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:25",
+"t": "Temporal na madrugada desta segunda alaga ambos os sentidos da Avenida Nossa Senhora de Fátima, em Santos",
+"p": "As fortes chuvas na madrugada desta segunda-feira (23) alagaram ambos os sentidos da Avenida Nossa Senhora de Fátima, em Santos. O trecho afetado fica um pouco antes do Viaduto Prefeito Paulo Gomes Barbosa. Vale lembrar que o mesmo trecho também ficou debaixo d’água no último dia 5 de setembro, durante fortes…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/temporal-na-madrugada-desta-segunda-alaga-ambos-os-sentidos-da-avenida-nossa-senhora-de-fatima/",
 "auto": true
 },
 {
@@ -365,6 +752,32 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/chuva-forte-e-queda-de-temperatura-veja-a-previsao-do-tempo-para-campinas-nesta-segunda/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "08:00",
+"t": "São Paulo terá virada no tempo após calor de 32°C, com chuva forte e queda brusca na temperatura de até 12°C durante a semana",
+"p": "O estado de São Paulo deve enfrentar uma mudança significativa no tempo ao longo desta semana. Depois de dias de calor, com temperaturas próximas dos 32°C, a previsão indica pancadas de chuva, temporais e uma queda acentuada nos termômetros a partir de quinta-feira (26/11). A mudança será mais perceptível na…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/sao-paulo-tera-virada-no-tempo-apos-calor-de-32c-com-chuva-forte-e-queda-brusca-na-temperatura-de-ate-12c-durante-a-semana/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "07:57",
+"t": "Acidente com ônibus atinge casa na zona norte de São Paulo, deixa três feridos e mobiliza helicóptero dos bombeiros",
+"p": "Um ônibus bateu contra uma casa na rua Ministro Lins de Barro, no bairro do Jardim Peri, na zona norte de São Paulo, na manhã desta segunda-feira (23). Três pessoas ficaram feridas e foram encaminhadas ao hospital. O estado de saúde delas não foi informado. Segundo o Corpo de Bombeiros, o chamado aconteceu por…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/acidente-com-onibus-atinge-casa-na-zona-norte-de-sao-paulo-deixa-tres-feridos-e-mobiliza-helicoptero-dos-bombeiros/",
 "auto": true
 },
 {
@@ -54606,422 +55019,6 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "22:21",
-"t": "Nunes e Tarcísio se pronunciam sobre desabamento de prédio no Brás",
-"p": "Prefeito e governador reforçaram a mobilização de equipes e afirmaram estar monitorando o caso para eventuais desdobramentos",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/nunes-e-tarcisio-se-pronunciam-sobre-desabamento-de-predio-no-bras",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "22:15",
-"t": "SBT perde recurso sobre Ratinho e decisão explica o que a classificação indicativa permite na TV",
-"p": "O encerramento da discussão administrativa sobre a classificação indicativa do Programa do Ratinho traz à tona os limites jurídicos da atuação do governo na televisão aberta. Ao rejeitar o recurso do SBT, o Ministério da Justiça e Segurança Pública manteve o selo de 12 anos, mas esbarra em barreiras constitucionais…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/sbt-perde-recurso-sobre-ratinho-e-decisao-explica-o-que-a-classificacao-indicativa-permite-na-tv/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "22:10",
-"t": "Sorteio da Dupla Sena 3029 revelou os números na noite desta sexta-feira (6); Confira",
-"p": "Concurso desta rodada, em São Paulo, movimentou as apostas para o prêmio milionário de R$ 11,3 milhões da Dupla Sena",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/loterias/sorteio-da-dupla-sena-3029-revelou-os-numeros-na-noite-desta-sexta-feira-6-confira.html",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "22:00",
-"t": "TV 3.0 com sinal 4K e de graça: beneficiários do Bolsa família serão contemplados nesta primeira etapa do programa",
-"p": "A destinação de R$ 1,28 bilhão pela Agência Nacional de Telecomunicações (Anatel) assegura o fornecimento e a instalação de conversores de TV 3.0 para lares de baixa renda nas regiões metropolitanas de São Paulo, Rio de Janeiro e no Distrito Federal. A aplicação de verbas remanescentes do leilão do 5G garante…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/tv-3-0-com-sinal-4k-e-de-graca-beneficiarios-do-bolsa-familia-serao-contemplados-nesta-primeira-etapa-do-programa/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:56",
-"t": "Teto de loja desaba e mobiliza forças de segurança para resgate de vítimas",
-"p": "Equipes do Corpo de Bombeiros, da Polícia Militar e da Defesa Civil de São Paulo atuam no resgate de vítimas após o desabamento do teto de um estabelecimento comercial na Rua Maria Joaquina, no bairro do Brás, região central da capital. A ocorrência envolve um prédio de quatro pavimentos onde funciona uma loja de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/teto-de-loja-desaba-e-mobiliza-forcas-de-seguranca-para-resgate-de-vitimas/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:52",
-"t": "Polícia Civil prende suspeito de tentar matar homem durante roubo de aliança",
-"p": "A Polícia Civil prendeu, nesta sexta-feira (6), um homem de 26 anos investigado por tentativa de latrocínio na Avenida Francisco Matarazzo, localizada no bairro da Água Branca, na Zona Oeste de São Paulo. O suspeito foi localizado por agentes da 3ª Central Especializada de Repressão a Crimes e Ocorrências Diversas…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-prende-suspeito-de-tentar-matar-homem-durante-roubo-de-alianca/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:51",
-"t": "Justiça suspende decisão que liberou o funcionamento de três bets",
-"p": "A segunda instância da Justiça Federal em São Paulo derrubou nesta sexta-feira (6) a liminar que autorizou o funcionamento de três casas de apostas online. A decisão de liberar as bets foi proferida pelo Tribunal Regional Federal da 3ª Região (TRF3), após um recurso apresentado pela Advocacia-Geral da União (AGU).…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/justica-suspende-decisao-que-liberou-o-funcionamento-de-tres-bets/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:49",
-"t": "Microplásticos de garrafa d’água e potes de comida são encontrados no órgão genital masculino e cientistas investigam como partículas foram parar lá",
-"p": "Um estudo publicado no periódico científico International Journal of Impotence Research identificou microplásticos em tecidos do pênis humano. A pesquisa detectou sete tipos de polímeros sintéticos em quatro das cinco amostras analisadas, coletadas de pacientes submetidos a cirurgias para implante de próteses…",
-"tema": "Educação",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/microplasticos-de-garrafa-dagua-e-potes-de-comida-sao-encontrados-no-orgao-genital-masculino-e-cientistas-investigam-como-particulas-foram-parar-la/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:40",
-"t": "Justiça de Jales condena jovem a 5 anos de prisão por tráfico de drogas",
-"p": "A juíza Laise Souza Cestari de Jesus, da 2ª Vara Criminal de Jales, condenou Cauã Henrique Montanari Carvalho pelo crime de tráfico de drogas, tipificado no artigo 33, caput, da Lei nº 11.343/2006. A pena fixada foi de 5 anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 dias-multa no valor…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jales"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/justica-de-jales-condena-jovem-a-5-anos-de-prisao-por-trafico-de-drogas/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:33",
-"t": "Defesa Civil alerta para risco de pancadas de chuva e ventos de até 60 km/h",
-"p": "A Defesa Civil do Estado de São Paulo emitiu um alerta meteorológico prevendo pancadas de chuva moderadas a fortes, acompanhadas de descargas elétricas e rajadas de vento que podem atingir 60 km/h neste domingo (8). A oscilação do tempo deve atingir com maior intensidade as regiões leste, norte e central do estado,…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/defesa-civil-alerta-para-risco-de-pancadas-de-chuva-e-ventos-de-ate-60-km-h/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:25",
-"t": "Mega-Sena sorteia prêmio de R$ 53,8 milhões nesta sexta-feira; confira os números e resultados",
-"p": "A Caixa Econômica Federal sorteou na noite desta sexta-feira (6/11) as seis dezenas do concurso 3082 da Mega-Sena, que poderá pagar um prêmio de R$ 53,8 milhões para quem acertar todas os números. Confira os números sorteados: 04-16-23-24-38-44. Como apostar na Mega-Sena A Mega-Sena é a principal loteria do país e…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/mega-sena-sorteia-premio-de-r-538-milhoes-nesta-sexta-feira-confira-os-numeros-e-resultados/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:20",
-"t": "Ex-funcionária de banco confessa desvio de dinheiro de idosos no interior de SP",
-"p": "Ex-bancária de Miguelópolis disse à polícia que a pressão por metas motivou o desvio do dinheiro",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Miguelópolis"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/ex-funcionaria-de-banco-confessa-desvio-de-dinheiro-de-idosos-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "21:15",
-"t": "Teto de loja de roupas desaba no Brás, em São Paulo",
-"p": "O teto de uma loja de roupas desabou no Brás, na capital paulista, na noite desta sexta-feira (6). O estabelecimento fica na Rua Maria Joaquina, número 192. Equipes da Polícia Militar, do Corpo de Bombeiros e da Defesa Civil de São Paulo atuam no atendimento da ocorrência. Ao todo, 17 viaturas e 51 bombeiros foram…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:50",
-"t": "Hello Kitty no Natal 2026: São Paulo terá encontros gratuitos, oficinas, decoração gigante e atrações especiais nos shoppings",
-"p": "Quem é fã da Hello Kitty terá um motivo especial para visitar dois shoppings de São Paulo neste Natal. A personagem japonesa será protagonista de uma programação temática do Complexo Tatuapé, que reúne encontros presenciais, oficinas gratuitas e cenários inspirados no universo da Sanrio. A iniciativa acontece nos…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/estilo-de-vida/hello-kitty-no-natal-2026-sao-paulo-tera-encontros-gratuitos-oficinas-decoracao-gigante-e-atracoes-especiais-nos-shoppings/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:42",
-"t": "Ambulantes de Guarujá podem perder licença em 2027 se não cumprirem prazo; veja até quando renovar e quais documentos apresentar à Prefeitura",
-"p": "Os ambulantes de Guarujá, no litoral de São Paulo, têm até 4 de dezembro para renovar as licenças e os alvarás de funcionamento para 2027. A Prefeitura iniciou o atendimento na quarta-feira (4) e alerta que quem perder o prazo poderá ter a autorização encerrada. A renovação contempla todas as modalidades de…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo",
-"Guarujá"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/ambulantes-de-guaruja-podem-perder-licenca-em-2027-se-nao-cumprirem-prazo-veja-ate-quando-renovar-e-quais-documentos-apresentar-a-prefeitura/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:39",
-"t": "Justiça suspende decisão que liberou o funcionamento de três bets",
-"p": "A segunda instância da Justiça Federal em São Paulo derrubou nesta sexta-feira (6) a liminar que autorizou o funcionamento de três casas de apostas online . A decisão de liberar as bets foi proferida pelo Tribunal Regional Federal da 3ª Região (TRF3), após um recurso apresentado pela Advocacia-Geral da União (AGU).…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-decisao-que-liberou-o-funcionamento-de-tres-bets",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:35",
-"t": "Morre Nilton Travesso, lendário diretor e pioneiro da televisão brasileira, aos 92 anos",
-"p": "O diretor de televisão Nilton Travesso morreu nesta sexta-feira (6), aos 92 anos. Com mais de sete décadas de carreira, o profissional acompanhou diferentes fases da televisão brasileira e participou da criação de atrações que se tornaram referência na programação nacional. O velório de Travesso será realizado…",
-"tema": "Geral",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/morre-nilton-travesso-lendario-diretor-e-pioneiro-da-televisao-brasileira-aos-92-anos/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:30",
-"t": "Imposto Seletivo: veja quais carros ficam isentos a partir de 2027",
-"p": "A isenção do Imposto Seletivo para modelos populares de entrada, pessoas com deficiência (PcD) e taxistas passa a vigorar em 2027 a partir da regulamentação da Medida Provisória nº 1.399/2026. Editado no contexto da reforma tributária, o texto institui o mecanismo de tributação sustentável no setor automotivo com a…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/imposto-seletivo-veja-quais-carros-ficam-isentos-a-partir-de-2027/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:19",
-"t": "Santiago Peña é preso no Paraguai após colapso de banco digital Ueno e crise no setor financeiro do país",
-"p": "O ex-presidente do Paraguai Santiago Peña foi preso nesta sexta-feira (6/11), após a conclusão da votação da perda de seu mandato pelo Senado do país sul-americano. A ordem foi emitida por quatro promotores do Ministério Público do país responsáveis pelo caso. Em seguida, a Polícia Federal local foi a casa de Peña,…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/santiago-pena-e-preso-no-paraguai-apos-colapso-de-banco-digital-ueno-e-crise-no-setor-financeiro-do-pais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:06",
-"t": "Maravilha natural do Brasil conquista 1º lugar entre as melhores cachoeiras do mundo em ranking de 2026 que reúne atrações de 142 países",
-"p": "As Cataratas do Iguaçu estão entre os grandes destaques de um novo levantamento internacional que reúne alguns dos lugares mais impressionantes do planeta. O destino brasileiro, conhecido por suas quedas d’água monumentais e paisagens naturais, conquistou o primeiro lugar na categoria de cachoeiras em uma das…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/turismo/maravilha-natural-do-brasil-conquista-1o-lugar-entre-as-melhores-cachoeiras-do-mundo-em-ranking-de-2026-que-reune-atracoes-de-142-paises/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:00",
-"t": "Falsa biomédica é indiciada por realizar procedimentos em Santos e Cubatão; VÍDEO",
-"p": "Divulgação/Polícia Civil Uma mulher foi indiciada nesta sexta-feira (6) por trabalhar como biomédica sem ter qualificação para tal na Baixada Santista.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Cubatão",
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/falsa-biomedica-e-indiciada-por-realizar-procedimentos-em-santos-e-cubatao-video/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "20:00",
-"t": "Frente fria traz maré alta, ondas de até 3m e ventos de mais de 80 km/h à Baixada",
-"p": "Arquivo/Divulgação Prefeitura de Santos Uma frente fria trará mudanças drásticas à Baixada Santista a partir deste sábado (7), com previsão de chuvas fortes, ventos e mar agitado.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/frente-fria-traz-mare-alta-ondas-de-ate-3m-e-ventos-de-mais-de-80-km-h-a-baixada-santista/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "19:30",
-"t": "Coca-Cola investe R$ 75 milhões em novo centro de distribuição que deve gerar 400 empregos no interior de SP",
-"p": "A Coca-Cola FEMSA Brasil anunciou a construção de um novo centro de distribuição em Limeira, no interior de São Paulo, com investimento estimado em R$ 75 milhões. A unidade será instalada às margens da rodovia Deputado Laércio Corte, conhecida como Limeira-Piracicaba, e terá capacidade para atender 22 municípios da…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Limeira"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/coca-cola-investe-r-75-milhoes-em-novo-centro-de-distribuicao-que-deve-gerar-400-empregos-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "19:28",
-"t": "Justiça de Campinas proíbe multinacional de RH de realizar exames médicos por telemedicina em todo o Brasil",
-"p": "Decisão atende a pedido do Ministério Público do Trabalho, que identificou mais de 18 mil exames ocupacionais remotos realizados pela GI Group; empresa terá 60 dias para cumprir determinação",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/justica-de-campinas-proibe-multinacional-de-rh-de-realizar-exames-medicos-por-telemedicina-em-todo-o-brasil/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "19:15",
-"t": "Risco de roubo de veículos em SP se concentra em anel de cidades no entorno da capital, aponta estudo; Itapecerica da Serra lidera ranking",
-"p": "O Estado de São Paulo atingiu o menor patamar de roubos de veículos da série histórica recente. De janeiro a julho, a Secretaria da Segurança Pública (SSP-SP) contabilizou 9.951 ocorrências do tipo, quando o condutor é rendido sob ameaça, número muito distante dos 60.297 registros computados no mesmo período de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Itapecerica da Serra"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/risco-de-roubo-de-veiculos-em-sp-se-concentra-em-anel-de-cidades-no-entorno-da-capital-aponta-estudo-itapecerica-da-serra-lidera-ranking/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "19:03",
-"t": "Hospital abre seleção para residência médica com vagas em quatro especialidades",
-"p": "Inscrições para residência no Hospital São Lucas, em Ribeirão Preto, acontecem até o dia 13 de dezembro",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/saude/hospital-abre-selecao-para-residencia-medica-com-vagas-em-quatro-especialidades/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "19:01",
-"t": "Câmera de segurança flagra homem roubando mãe que buscava filhas na escola",
-"p": "Mulher buscava filhas pequenas em escola na zona oeste de São Paulo quando homem abriu carro e roubou bolsa sem ser visto",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/camera-de-seguranca-flagra-homem-roubando-mae-que-buscava-filhas-na-escola",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "19:00",
-"t": "Festa do Imigrante reúne mais de 50 países em SP com música, gastronomia e entrada gratuita",
-"p": "A Festa do Imigrante chega à sua 30ª edição no próximo sábado (14/11) e domingo (15/11), no Museu da Imigração, no Brás, em São Paulo. Com entrada gratuita mediante a doação de 1 kg de alimento não perecível, exceto sal, o evento reunirá representantes de mais de 50 países e regiões em uma programação com […]",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/festa-do-imigrante-reune-mais-de-50-paises-em-sp-com-musica-gastronomia-e-entrada-gratuita/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "18:54",
-"t": "Luiz Gustavo é o novo reforço do CAV para a temporada 2027",
-"p": "Zagueiro de 23 anos chega ao Votuporanguense após conquistar o acesso à elite do futebol paulista com o Juventus-SP. Na tarde desta sexta-feira (6.nov), a diretoria do Clube Atlético Votuporanguense confirmou a contratação do zagueiro Luiz Gustavo, de 23 anos, como novo reforço da Pantera Alvinegra para a temporada…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/luiz-gustavo-e-o-novo-reforco-do-cav-para-a-temporada-2027/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "18:52",
-"t": "Modernizar os portos exige olhar além do cais",
-"p": "Quando se fala em modernização portuária, é natural pensar em grandes obras: canais mais profundos, novos berços de atracação, guindastes de última geração e terminais com capacidade crescente de movimentação. Tudo isso é indispensável para que o Brasil acompanhe as transformações do comércio internacional. Mas há…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/artigo/modernizar-os-portos-exige-olhar-alem-do-cais/",
-"auto": true
-},
-{
-"d": "2026-11-06",
-"h": "18:48",
-"t": "Câmara vota três projetos de denominação de vias e área de lazer na segunda-feira",
-"p": "Propostas em pauta na 40ª sessão ordinária homenageiam moradores com a denominação de rua e sistema de lazer em loteamentos de Votuporanga. A Câmara Municipal de Votuporanga realiza na próxima segunda-feira (9.nov), às 18h, a 40ª sessão ordinária de 2026. Na Ordem do Dia, os vereadores deverão analisar três…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/camara-vota-tres-projetos-de-denominacao-de-vias-e-area-de-lazer-na-segunda-feira/",
 "auto": true
 }
 ]
