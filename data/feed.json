@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-23T17:59:21-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-23T18:59:09-03:00",
+"novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,231 @@
 "itens": [
 {
 "d": "2026-11-23",
+"h": "18:50",
+"t": "Teatros Municipal e de Arena de Ribeirão Preto seguem fechados à espera de recursos para obras",
+"p": "Teatros foram danificados pelo vendaval de 24 de julho e dependem de repasses estaduais e federais para a realização das obras de recuperação",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/teatros-municipal-e-de-arena-de-ribeirao-preto-seguem-fechados-a-espera-de-recursos-para-obras/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:49",
+"t": "Trivia reassume na quinta (26) controle total de linhas da CPTM após falhas",
+"p": "Esta é a segunda tentativa de transferência do serviço à Trivia Trens, desde a concessão das linhas 11-Coral, 12-Safira e 13-Jade",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/trivia-reassume-na-quinta-26-controle-total-de-linhas-da-cptm-apos-falhas",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:44",
+"t": "Câmara de Rio Preto vota criação do Dia dos Legendários",
+"p": "A criação do Dia dos Legendários em Rio Preto está entre os projetos que serão votados pela Câmara Municipal na próxima terça-feira (24). A proposta, de autoria do vereador Jean Dornelas (MDB), estabelece 23 de julho como data comemorativa anual e prevê sua inclusão no Calendário Oficial do Município. O projeto de…",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/camara-de-rio-preto-vota-criacao-do-dia-dos-legendarios/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:43",
+"t": "Rio Preto recebe 30 doses da vacina contra a Mpox",
+"p": "Rio Preto receberá 30 doses da vacina contra a Mpox, dentro de uma nova remessa de mil imunizantes encaminhada pelo Ministério da Saúde à Secretaria de Estado da Saúde de São Paulo. A distribuição para os municípios começa na segunda-feira (23), por meio dos Grupos de Vigilância Epidemiológica (GVEs). As doses…",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"São Paulo",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/rio-preto-recebe-30-doses-da-vacina-contra-a-mpox/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:37",
+"t": "Defesa Civil emite alerta severo de chuva forte, raios e risco de granizo na região de Campinas",
+"p": "Aviso da Defesa Civil foi enviado no fim da tarde desta segunda-feira (23) e cita Campinas, Indaiatuba e Jaguariúna",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Indaiatuba",
+"Jaguariúna",
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/defesa-civil-emite-alerta-severo-de-chuva-forte-raios-e-risco-de-granizo-na-regiao-de-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:27",
+"t": "Ribeirão Preto regulamenta lei contra vício em apostas e oferece apoio no Procon para renegociar dívidas",
+"p": "Decreto publicado nesta segunda-feira (23) estabelece atendimento na rede de saúde, apoio para renegociar dívidas no Procon e ações nas escolas de Ribeirão Preto",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/ribeirao-preto-regulamenta-lei-contra-vicio-em-apostas-e-oferece-apoio-no-procon-para-renegociar-dividas/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-23",
+"h": "18:26",
+"t": "Ação popular pede liminar para barrar obras de data center em Atibaia",
+"p": "Ação popular foi resultado de reportagens publicadas pelo Metrópoles. Entre as exigências está a suspensão de possíveis licenças concedidas",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Atibaia"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/acao-popular-pede-liminar-para-barrar-obras-de-data-center-em-atibaia",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:23",
+"t": "Bertioga tem 91 famílias que podem perder desconto na conta de luz",
+"p": "Beneficiários da Tarifa Social devem conferir os dados do CadÚnico até 31 de dezembro para não perder o desconto na conta de luz",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-tem-91-familias-que-podem-perder-desconto-na-conta-de-luz.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:14",
+"t": "Deputada de SP tem entrada na Cisjordânia negada por governo de Israel",
+"p": "A deputada estadual Monica Seixas (PSOL-SP) foi impedida de entrar em território palestino quando desembarcou no Aeroporto Internacional de Ben-Gurion, em Israel, nesse domingo (22). A parlamentar tinha como destino final a Cisjordânia, onde iria acompanhar a colheita das azeitonas na região junto com uma comitiva…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/deputada-de-sp-tem-entrada-na-cisjordania-negada-por-governo-de-israel",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:08",
+"t": "São Paulo soma mais de 1.000 km de trânsito em meio a risco de alagamentos e zona leste concentra a maior lentidão nas vias da Capital",
+"p": "A cidade de São Paulo registra 1.032 quilômetros de lentidão no trânsito, segundo dados da Companhia de Engenharia de Tráfego (CET-SP), em parceria com o Waze. As informações são atualizadas a cada 30 minutos. O cenário ocorre em meio a um alerta de chuva forte nas zonas oeste, sul e central de São Paulo nesta […]",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/sao-paulo-soma-mais-de-1-000-km-de-transitoo-em-meio-a-risco-de-alagamentos-e-zona-leste-concentra-a-maior-lentidao-nas-vias-da-capital/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:06",
+"t": "Transporte escolar será retomado nesta terça após paralisação que afetou mais de mil alunos em Campinas",
+"p": "Empresa responsável pelo serviço no Campo Belo confirmou retorno após decisão da Justiça do Trabalho; cerca de 40 ônibus deixaram de circular nesta segunda-feira (23)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/transporte-escolar-sera-retomado-nesta-terca-apos-paralisacao-que-afetou-mais-de-mil-alunos-em-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:05",
+"t": "Rodovia Padre Manoel da Nóbrega terá novos bloqueios para obras nesta semana",
+"p": "Interdições entre terça (24) e quinta-feira (26) afetam acessos em Itanhaém e Mongaguá; obras também avançam em Praia Grande e Peruíbe",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Praia Grande",
+"Itanhaém",
+"Mongaguá",
+"Peruíbe"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tera-novos-bloqueios-para-obras-nesta-semana.html",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:04",
+"t": "Corpo de Bombeiros de SP divulga lista de 339 candidatos classificados para atuar como guarda-vidas no litoral",
+"p": "O Corpo de Bombeiros da Polícia Militar do Estado de São Paulo divulgou a lista de candidatos aprovados e classificados no processo seletivo simplificado para contratação de Guarda-Vidas por Tempo Determinado. O resultado foi publicado no Diário Oficial do Estado (DOE) desta segunda-feira (23). LEIA TAMBÉM: Governo…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/corpo-de-bombeiros-de-sp-divulga-lista-de-339-candidatos-classificados-para-atuar-como-guarda-vidas-no-litoral/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:04",
+"t": "Governo de SP apresenta crédito emergencial de R$ 2 milhões e amplia diálogo com produtores rurais de Mogi das Cruzes",
+"p": "O Governo de São Paulo reuniu-se nesta segunda-feira (23), em Mogi das Cruzes, com representantes do setor produtivo para apresentar as condições de acesso à linha de crédito emergencial de R$ 2 milhões destinada aos agricultores afetados pelas fortes chuvas e discutir novas iniciativas para fortalecer a produção…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-apresenta-credito-emergencial-de-r-2-milhoes-e-amplia-dialogo-com-produtores-rurais-de-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:02",
+"t": "Corredor de umidade provoca chuva forte em várias regiões de SP; entenda",
+"p": "Mesmo com previsão de muita chuva, a maioria do estado de SP terá períodos com sol e ar abafado",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/corredor-de-umidade-provoca-chuva-forte-em-varias-regioes-de-sp-entenda/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "18:02",
+"t": "Prefeitura credencia novas empresas para prestação de serviços de bicicletas e patinetes elétricos",
+"p": "A Prefeitura de Sorocaba, por meio da Urbes, iniciou credenciamento de novas empresas interessadas em prestar serviços de bicicletas e patinetes elétricos no município. Para realizar o procedimento, basta acessar o site da Urbes (https://www.urbes.com.br/) e enviar a documentação necessária. Cada solicitação será…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-credencia-novas-empresas-para-prestacao-de-servicos-de-bicicletas-e-patinetes-eletricos/",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "17:49",
 "t": "GCM detém homem em flagrante por violência doméstica, ameaça e injúria no Pq. das Laranjeiras",
 "p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba deteve em flagrante, na manhã de domingo (22), um homem de 25 anos, por violência doméstica, ameaça e injúria contra a ex-companheira, de 26 anos, no Parque das Laranjeiras, Zona Norte da cidade. A equipe foi acionada pelo Centro de Controle Operacional Integrado…",
@@ -66,6 +291,20 @@
 },
 {
 "d": "2026-11-23",
+"h": "17:47",
+"t": "Manutenção da Sabesp pode afetar abastecimento em bairros de São Bernardo",
+"p": "Serviços serão realizados entre 24 e 29 de novembro no Poço Jussara; são atendidos pelo sistema residências do Jardim Jussara e da Vila Balneária",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370333/manutencao-da-sabesp-pode-afetar-abastecimento-em-bairros-de-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "17:44",
 "t": "Governo regulamenta fiscalização da escala 5×2 com prazo de 90 dias para adequação de empresas",
 "p": "Foto: Valter Campanato/Agência Brasil Regra publicada pelo Ministério do Trabalho prevê duas visitas dos auditores antes de multas; redução gradual de horas começa em 16 de dezembro de 2026",
@@ -76,6 +315,34 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/politica/governo-regulamenta-fiscalizacao-escala-5x2-prazo-90-dias/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "17:33",
+"t": "Mauá estima LOA superior a R$ 2,26 bilhões para 2027",
+"p": "A peça orçamentária a ser votada hoje na Câmara é 2,60% maior do que a deste ano",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370328/maua-estima-loa-superior-a-rs-2-26-bilhoes-para-2027",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "17:28",
+"t": "Vestibulinho das Etecs tem 15,8 mil inscritos para 4.400 vagas no Grande ABC",
+"p": "Mauá registra a maior concorrência das sete cidades, com 4,19 candidatos por vaga; no Estado, processo seletivo reúne mais de 255 mil candidatos",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mauá"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370324/vestibulinho-das-etecs-tem-15-8-mil-inscritos-para-4-400-vagas-no-grande-abc",
 "auto": true
 },
 {
@@ -54764,262 +55031,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/variedades/saude/mulher-de-40-anos-nao-precisa-esperar-aparecer-um-caroco-para-pedir-mamografia-pelo-sus-entenda-por-que-a-rotina-comeca-somente-aos-50-anos/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "16:32",
-"t": "Evento de adoção de cães do Canil Municipal ocorrerá no Parque Campolim neste domingo (8)",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema), realizará, neste domingo (8), das 9h às 12h, o evento de adoção de cães no Parque “Carlos Alberto de Souza”, no Parque Campolim. Todos os animais são vacinados, castrados e microchipados. A campanha municipal de…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/evento-de-adocao-de-caes-do-canil-municipal-ocorrera-no-parque-campolim-neste-domingo-8/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "16:26",
-"t": "Temporal provoca alagamentos e queda de árvores em Campinas; veja os estragos",
-"p": "Um forte temporal atingiu diferentes regiões de Campinas no começo da tarde deste sábado (7), provocando alagamentos em ruas, queda de galhos de árvores e transtornos no trânsito",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/temporal-provoca-alagamentos-e-queda-de-galhos-em-campinas-veja-os-estragos/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "16:19",
-"t": "Rodovia Padre Manoel da Nóbrega tem lentidão e interdição neste sábado (7)",
-"p": "Excesso de veículos provoca lentidão entre os quilômetros 271 e 274, enquanto obras exigem operação Pare e Siga no km 361, em Itariri",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Itariri"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-lentidao-e-interdicao-neste-sabado-7.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "16:10",
-"t": "“OAB da Medicina”: Lula sanciona lei de prova obrigatória para novos médicos",
-"p": "Foto: Pixelshot/Canva Sancionada nesta sexta-feira (6), legislação prevê três avaliações durante a graduação e estabelece regras de transição para estudantes já matriculados.",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/brasil/oab-da-medicina-lula-sanciona-lei-enamed-obrigatorio-para-novos-medicos/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "15:58",
-"t": "Devido às condições climáticas, as atividades de sábado (7) à tarde e do domingo (8) dos 50 anos do Parque da Biquinha foram suspensas",
-"p": "Devido às fortes chuvas ocorridas neste sábado e à previsão das condições climáticas para este domingo (8), as atividades que estavam programadas para acontecer ao longo desses dois dias, em celebração aos 50 anos do Parque da Biquinha, foram suspensas e serão reagendadas em breve, com divulgação pelos canais…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/devido-as-condicoes-climaticas-as-atividades-de-sabado-7-a-tarde-e-do-domingo-8-dos-50-anos-do-parque-da-biquinha-foram-suspensas/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "15:57",
-"t": "Defesa Civil envia 44 alertas de chuva forte para SP neste sábado (7/11)",
-"p": "Desde quinta (5/11), previsão de chuva forte mobiliza gabinete de crise da Defesa Civil. Em Interlagos, treino classificatório foi suspenso",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/defesa-civil-envia-44-alertas-de-chuva-forte-para-sp-neste-sabado-7-11",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "15:57",
-"t": "Espetáculo da Galinha Pintadinha é cancelado por causa da forte chuva",
-"p": "O espetáculo “TOP 10 da Galinha Pintadinha”, que seria apresentado na tarde deste sábado (7), em Campinas, foi cancelado devido às fortes chuvas",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/espetaculo-da-galinha-pintadinha-e-cancelado-por-causa-da-forte-chuva/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "15:54",
-"t": "Chuva forte e ventos de 90 km/h: frente fria avança e coloca 16 regiões de SP em alerta; Veja quais",
-"p": "Com a chegada de forte frente fria, Defesa Civil já enviou 44 alertas preventivos neste sábado (7), enquanto o Inmet mantém aviso de perigo potencial para temporais",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-forte-e-ventos-de-90-km-h-frente-fria-avanca-e-coloca-16-regioes-de-sp-em-alerta-veja-quais/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "15:46",
-"t": "Defesa Civil de SP emite mais de 40 alertas de tempestade e inclui Baixada Santista e cidades do litoral norte e Vale",
-"p": "Gabinete de crise estadual monitora risco de temporais com ventania e granizo no litoral paulista durante este fim de semana",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/clima/defesa-civil-de-sp-emite-mais-de-40-alertas-de-tempestade-e-inclui-baixada-santista-e-cidades-do-litoral-norte-e-vale.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "15:43",
-"t": "Marinha alerta para fortes ventos no litoral de SP",
-"p": "Rajadas de vento devem atingir a faixa costeira entre sábado (7) e domingo (8) segundo a Marinha; Defesa Civil ativa gabinete de crise",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/clima/marinha-alerta-para-fortes-ventos-no-litoral-de-sp.html",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "15:34",
-"t": "Nível do Rio Sorocaba sobe acima de 2 metros na Praça Lions e equipes da Prefeitura trabalham para atender as ocorrências decorrentes das fortes chuvas deste sábado (7)",
-"p": "Um dos pontos da cidade onde o nível do Rio Sorocaba chegou mais alto, neste sábado (7), foi próximo à Praça Lions, onde superou a marca de 2 metros e continua sendo monitorado. Até o momento não há registro de vítimas ou desalojados. A média histórica de chuvas para novembro todo em Sorocaba é de […]",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/nivel-do-rio-sorocaba-sobe-acima-de-2-metros-na-praca-lions-e-equipes-da-prefeitura-trabalham-para-atender-as-ocorrencias-decorrentes-das-fortes-chuvas-deste-sabado-7/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "15:04",
-"t": "Tudo sobre as novas regras do vale-refeição e alimentação que começam neste sábado",
-"p": "Entenda como as mudanças no vale-refeição e no vale-alimentação afetam o uso dos cartões, a aceitação nas maquininhas, as taxas cobradas e os prazos de pagamento",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/economia/tudo-sobre-as-novas-regras-do-vale-refeicao-e-alimentacao-que-comecam-neste-sabado/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:56",
-"t": "Prefeitura efetiva Lígia Cavassani como secretária de Saúde de Rio Preto",
-"p": "Servidora municipal há 20 anos, ela comandava a pasta interinamente desde setembro e já ocupou cargos de direção na rede pública",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/prefeitura-efetiva-ligia-cavassani-como-secretaria-de-saude-de-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:50",
-"t": "El Niño está muito mais forte do que o previsto e Pacífico aquece a +3,4 ºC; sua família está preparada para lidar com os efeitos do fenômeno?",
-"p": "O El Niño de 2026 bateu recorde histórico com anomalia de +3,4°C na região Niño 3.4, segundo a NOAA, superando o episódio de 2015. O fenômeno deve manter intensidade muito forte entre novembro e janeiro, com chuva acima da média no Sul e seca no Norte e Nordeste.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/el-nino-esta-muito-mais-forte-do-que-o-previsto-e-pacifico-aquece-a-34-oc-sua-familia-esta-preparada-para-lidar-com-os-efeitos-do-fenomeno/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:48",
-"t": "Frente fria chega hoje e vira o tempo no interior de SP",
-"p": "Mudança no tempo deve provocar queda nas temperaturas; região está sob alerta para chuva forte, raios, granizo e ventos de até 70 km/h",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/frente-fria-chega-hoje-e-vira-o-tempo-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:48",
-"t": "Polícia Militar mobiliza 7 mil agentes no Estado para segurança e escolta do Enem 2026",
-"p": "A Polícia Militar do Estado de São Paulo estruturou uma operação especial de segurança para garantir a integridade dos materiais sigilosos e a tranquilidade dos inscritos no Exame Nacional do Ensino Médio (Enem) de 2026. A ação contará com a mobilização diária de cerca de 7 mil policiais e 3,5 mil viaturas durante…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-militar-mobiliza-7-mil-agentes-no-estado-para-seguranca-e-escolta-do-enem-2026/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:39",
-"t": "Pesquisadora investiga cobertura televisiva da reforma trabalhista do governo Michel Temer",
-"p": "Resultado de uma pesquisa acadêmica adaptada para um público amplo, o livro investiga a cobertura televisiva da reforma trabalhista do governo Michel Temer e o espaço concedido — ou negado — às vozes do movimento sindical.",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/reforma-trabalhista-sob-otica-da-imprensa/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:39",
-"t": "Equipes da Prefeitura de Sorocaba estão mobilizadas para atender ocorrências relacionadas às chuvas deste sábado (7)",
-"p": "A Prefeitura de Sorocaba, por meio da Defesa Civil, das Secretarias de Mobilidade (Semob) e de Serviços Públicos e Obras (Serpo) e Saae/Sorocaba, além dos demais setores da Administração Municipal, mantém equipes mobilizadas para atuar em ocorrências relativas àschuvas intensas deste sábado (7) O nível do Rio…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/equipes-da-prefeitura-de-sorocaba-estao-mobilizadas-para-atender-ocorrencias-relacionadas-as-chuvas-deste-sabado-7/",
-"auto": true
-},
-{
-"d": "2026-11-07",
-"h": "14:39",
-"t": "Guarda Civil Municipal de Praia Grande prende grupo especializado em furtar bicicletas de alto valor",
-"p": "Operação no bairro Vila Sônia recupera cinco veículos no valor de até R$ 50 mil e encaminha suspeitos à Central de Polícia Judiciária",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/praiagrande/guarda-civil-municipal-de-praia-grande-prende-grupo-especializado-em-furtar-bicicletas-de-alto-valor.html",
 "auto": true
 }
 ]
