@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T02:16:35-03:00",
-"novos_nesta_coleta": 12,
+"atualizado": "2026-11-24T03:12:56-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -53,6 +53,18 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "01:30",
+"t": "‘Roque Santeiro’: Roque e Porcina dormem juntos e falso santo descobre que o pai está em coma nesta terça (24)",
+"p": "No capítulo desta terça-feira (24), em ‘Roque Santeiro’, o drama familiar e a paixão proibida atingem o ponto máximo em Asa Branca. Preocupado com o estado de saúde do patriarca após os últimos acontecimentos, o rapaz corre para a unidade médica em busca de notícias, pois Roque vai ao hospital e descobre que o pai […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-roque-e-porcina-dormem-juntos-e-falso-santo-descobre-que-o-pai-esta-em-coma-nesta-terca-24/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "01:18",
@@ -55013,20 +55025,6 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/politica/nevio-archibald/entidades-de-ribeirao-preto-protestam-contra-projeto-que-permite-votacoes-rapidas-na-camara/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "07:57",
-"t": "Frente fria influencia o tempo em Ribeirão Preto e mantém previsão de chuva nos próximos dias",
-"p": "Domingo (8) em Ribeirão Preto será de sol com possibilidade de chuva ao longo do dia e durante a noite",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-influencia-o-tempo-em-ribeirao-preto-e-mantem-previsao-de-chuva-nos-proximos-dias/",
 "auto": true
 }
 ]
