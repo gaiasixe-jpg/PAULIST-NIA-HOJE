@@ -3,6 +3,117 @@
 "itens": [
 {
 "d": "2026-11-24",
+"h": "18:00",
+"t": "Ministério Público aciona Prefeitura de Ferraz para realizar obras contra enchentes no Córrego Tanquinho",
+"p": "Em nota, a administração municipal informou que a obra de intervenção no Trecho 02 do córrego está prevista no planejamento orçamentário do município para 2027",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/ministerio-publico-aciona-prefeitura-de-ferraz-para-realizar-obras-contra-enchentes-no-corrego-tanquinho/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:59",
+"t": "PRF alerta sobre transporte irregular de canetas emagrecedoras após ação",
+"p": "Transporte irregular de canetas emagrecedoras pode alterar o funcionamento do medicamento e gerar riscos graves à saúde, segundo a PRF",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prf-alerta-sobre-transporte-irregular-de-canetas-emagrecedoras-apos-acao",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:50",
+"t": "Caraguatatuba terá mudanças em linhas de ônibus a partir de dezembro; veja quais",
+"p": "Mudanças começam em 1º de dezembro e contemplam sete bairros da região central, com novos itinerários e integração entre linhas",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/caraguatatuba-tera-mudancas-em-linhas-de-onibus-a-partir-de-dezembro-veja-quais.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:37",
+"t": "Adolescente que agrediu filhote de husky é encaminhado para Fundação Casa de Ribeirão Preto",
+"p": "Adolescente de 16 anos foi encaminhado à unidade após decisão da Justiça de Cajuru, que determinou a internação provisória por até 45 dias",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Cajuru"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/adolescente-que-agrediu-filhote-de-husky-e-encaminhado-para-fundacao-casa-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:30",
+"t": "Mauro Miaguti, Secretário de Desenvolvimento Econômico de São Bernardo | ABC da Economia",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370542/mauro-miaguti-secretario-de-desenvolvimento-economico-de-sao-bernardo-%7C-abc-da-economia",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:26",
+"t": "Escola da rede municipal transforma protocolo antirracista do Ministério da Educação em livro infantil ilustrado e faz do combate ao racismo um projeto permanente",
+"p": "Fotos: Eduarda Lopes/Secom Iniciativa da E.M. “Benedicto Cleto” capacitou toda a equipe escolar, traduziu protocolos do MEC para a linguagem infantil e envolve as famílias na autodeclaração racial de alunos e no letramento antirracista Muito além das atividades pontuais no mês da Consciência Negra, a Escola…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/escola-da-rede-municipal-transforma-protocolo-antirracista-do-ministerio-da-educacao-em-livro-infantil-ilustrado-e-faz-do-combate-ao-racismo-um-projeto-permanente/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:25",
+"t": "Justiça decreta prisão de homem que atropelou vítimas em Júlio Mesquita",
+"p": "Homem é acusado de jogar o carro deliberadamente contra o atual companheiro da ex-mulher e a irmã dele.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Júlio Mesquita"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/justica-decreta-prisao-de-homem-que-atropelou-vitimas-em-julio-mesquita/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:14",
+"t": "Cras Ana Paula Eleutério teve roda de conversa e oficinas em alusão ao Dia da Consciência Negra",
+"p": "O Centro de Referência em Assistência Social (Cras) Ana Paula Eleutério realizou, nesta terça-feira (24), uma roda de conversa e oficinas em alusão ao Dia da Consciência Negra (20 de novembro), proporcionando um momento especial de escuta, afeto, memória, aprendizado e potência coletiva entre as participantes.…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/cras-ana-paula-eleuterio-teve-roda-de-conversa-e-oficinas-em-alusao-ao-dia-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "17:08",
 "t": "Prefeitura de Rio Preto abre edital de R$ 570 mil para Carnaval 2027",
 "p": "Chamamento público prevê a seleção de até 15 propostas de blocos carnavalescos e Alas Show",
@@ -13,6 +124,20 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/prefeitura-de-rio-preto-abre-edital-de-r-570-mil-para-carnaval-2027/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:08",
+"t": "Pesquisa Badra aponta que 54,7% reprovam gestão de Felipe Bernardo em Peruíbe",
+"p": "Levantamento ouviu 1.060 moradores-eleitores; saúde, segurança e zeladoria urbana concentram as principais avaliações negativas da administração municipal",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Peruíbe"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/politica/pesquisa-badra-aponta-que-547-reprovam-gestao-de-felipe-bernardo-em-peruibe.html",
 "auto": true
 },
 {
@@ -3321,6 +3446,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67799",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "Cultura promove cinema, teatro e 2º Mega Bailão Prudente na programação da semana",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67806",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "Mulekada conquista título do Campeonato Amador Municipal de Futsal da Semepp/LZB Sport",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67805",
 "auto": true
 },
 {

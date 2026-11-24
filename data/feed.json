@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-24T17:10:30-03:00",
-"novos_nesta_coleta": 34,
+"atualizado": "2026-11-24T18:02:41-03:00",
+"novos_nesta_coleta": 18,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -33,11 +31,19 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -52,6 +58,117 @@
 "itens": [
 {
 "d": "2026-11-24",
+"h": "18:00",
+"t": "Ministério Público aciona Prefeitura de Ferraz para realizar obras contra enchentes no Córrego Tanquinho",
+"p": "Em nota, a administração municipal informou que a obra de intervenção no Trecho 02 do córrego está prevista no planejamento orçamentário do município para 2027",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/ministerio-publico-aciona-prefeitura-de-ferraz-para-realizar-obras-contra-enchentes-no-corrego-tanquinho/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:59",
+"t": "PRF alerta sobre transporte irregular de canetas emagrecedoras após ação",
+"p": "Transporte irregular de canetas emagrecedoras pode alterar o funcionamento do medicamento e gerar riscos graves à saúde, segundo a PRF",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prf-alerta-sobre-transporte-irregular-de-canetas-emagrecedoras-apos-acao",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:50",
+"t": "Caraguatatuba terá mudanças em linhas de ônibus a partir de dezembro; veja quais",
+"p": "Mudanças começam em 1º de dezembro e contemplam sete bairros da região central, com novos itinerários e integração entre linhas",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/caraguatatuba-tera-mudancas-em-linhas-de-onibus-a-partir-de-dezembro-veja-quais.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:37",
+"t": "Adolescente que agrediu filhote de husky é encaminhado para Fundação Casa de Ribeirão Preto",
+"p": "Adolescente de 16 anos foi encaminhado à unidade após decisão da Justiça de Cajuru, que determinou a internação provisória por até 45 dias",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Cajuru"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/adolescente-que-agrediu-filhote-de-husky-e-encaminhado-para-fundacao-casa-de-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:30",
+"t": "Mauro Miaguti, Secretário de Desenvolvimento Econômico de São Bernardo | ABC da Economia",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370542/mauro-miaguti-secretario-de-desenvolvimento-economico-de-sao-bernardo-%7C-abc-da-economia",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:26",
+"t": "Escola da rede municipal transforma protocolo antirracista do Ministério da Educação em livro infantil ilustrado e faz do combate ao racismo um projeto permanente",
+"p": "Fotos: Eduarda Lopes/Secom Iniciativa da E.M. “Benedicto Cleto” capacitou toda a equipe escolar, traduziu protocolos do MEC para a linguagem infantil e envolve as famílias na autodeclaração racial de alunos e no letramento antirracista Muito além das atividades pontuais no mês da Consciência Negra, a Escola…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/escola-da-rede-municipal-transforma-protocolo-antirracista-do-ministerio-da-educacao-em-livro-infantil-ilustrado-e-faz-do-combate-ao-racismo-um-projeto-permanente/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:25",
+"t": "Justiça decreta prisão de homem que atropelou vítimas em Júlio Mesquita",
+"p": "Homem é acusado de jogar o carro deliberadamente contra o atual companheiro da ex-mulher e a irmã dele.",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Júlio Mesquita"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/justica-decreta-prisao-de-homem-que-atropelou-vitimas-em-julio-mesquita/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:14",
+"t": "Cras Ana Paula Eleutério teve roda de conversa e oficinas em alusão ao Dia da Consciência Negra",
+"p": "O Centro de Referência em Assistência Social (Cras) Ana Paula Eleutério realizou, nesta terça-feira (24), uma roda de conversa e oficinas em alusão ao Dia da Consciência Negra (20 de novembro), proporcionando um momento especial de escuta, afeto, memória, aprendizado e potência coletiva entre as participantes.…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/cras-ana-paula-eleuterio-teve-roda-de-conversa-e-oficinas-em-alusao-ao-dia-da-consciencia-negra/",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "17:08",
 "t": "Prefeitura de Rio Preto abre edital de R$ 570 mil para Carnaval 2027",
 "p": "Chamamento público prevê a seleção de até 15 propostas de blocos carnavalescos e Alas Show",
@@ -62,6 +179,20 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/prefeitura-de-rio-preto-abre-edital-de-r-570-mil-para-carnaval-2027/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:08",
+"t": "Pesquisa Badra aponta que 54,7% reprovam gestão de Felipe Bernardo em Peruíbe",
+"p": "Levantamento ouviu 1.060 moradores-eleitores; saúde, segurança e zeladoria urbana concentram as principais avaliações negativas da administração municipal",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Peruíbe"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/politica/pesquisa-badra-aponta-que-547-reprovam-gestao-de-felipe-bernardo-em-peruibe.html",
 "auto": true
 },
 {
@@ -3370,6 +3501,34 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67799",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "Cultura promove cinema, teatro e 2º Mega Bailão Prudente na programação da semana",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67806",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "Mulekada conquista título do Campeonato Amador Municipal de Futsal da Semepp/LZB Sport",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67805",
 "auto": true
 },
 {
@@ -54834,156 +54993,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/prefeitura-de-jales-realiza-mutirao-com-265-castracoes-gratuitas-de-caes-e-gatos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:54",
-"t": "Prefeitura de Ouroeste promove palestra gratuita sobre turismo de experiência para empreendedores locais",
-"p": "A Prefeitura de Ouroeste, por meio da Secretaria Municipal de Turismo, realiza nesta terça-feira (10) a palestra “Potencialize seu Negócio com o Turismo de Experiência”. O evento é voltado para empresários, comerciantes, produtores rurais, artesãos e trabalhadores do setor turístico interessados em aprender…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ouroeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-promove-palestra-gratuita-sobre-turismo-de-experiencia-para-empreendedores-locais/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:53",
-"t": "Unifef abre processo seletivo para cadastro reserva de professores na área da Saúde em Fernandópolis",
-"p": "O Centro Universitário de Fernandópolis (Unifef) está com inscrições abertas para a formação de cadastro reserva de professores destinados ao Centro de Ciências da Saúde, conforme prevê o Edital nº 20/2026. O processo seletivo visa selecionar docentes para ministrar aulas nos cursos de Biomedicina, Estética e…",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/unifef-abre-processo-seletivo-para-cadastro-reserva-de-professores-na-area-da-saude-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:52",
-"t": "Novembro é o mês para olhar para o céu: duas chuvas de meteoros, superlua de 361 mil km e um marco que a Voyager 1 levou 49 anos para alcançar",
-"p": "Novembro de 2026 ainda reserva duas chuvas de meteoros: Táuridas do Norte no dia 12 e Leônidas no dia 17, com até 15 meteoros por hora. Também tem superlua no dia 24, a 361 mil quilômetros, e a Voyager 1 atingindo 1 dia-luz da Terra no dia 18.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/novembro-e-o-mes-para-olhar-para-o-ceu-duas-chuvas-de-meteoros-superlua-de-361-mil-km-e-um-marco-que-a-voyager-1-levou-49-anos-para-alcancar/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:43",
-"t": "GCM Sorocaba comemora 39º aniversário com ‘Treinão’ de corrida",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Segurança Urbana (Sesu), promoveu neste domingo (8) o ‘Treinão 39 anos GCM Sorocaba’, em comemoração ao 39º aniversário de fundação da Guarda Civil Municipal (GCM). A programação gratuita, que começou às 7h30, reuniu cerca de 200 participantes para uma aula de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-sorocaba-comemora-39o-aniversario-com-treinao-de-corrida/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:43",
-"t": "22 milhões de trabalhadores poderão usar vale-refeição em mais restaurantes após nova regra nas maquininhas",
-"p": "Milhões de trabalhadores brasileiros poderão ter mais opções para usar os cartões de vale-refeição e vale-alimentação. Uma nova regra, em vigor desde sábado (7), permite que os benefícios sejam aceitos em mais maquininhas de pagamento, sem a necessidade de os estabelecimentos manterem contratos e equipamentos…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/22-milhoes-de-trabalhadores-ganham-novidade-no-vale-refeicao-e-poderao-usar-cartoes-em-mais-estabelecimentos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:38",
-"t": "Vítimas de acidente em baile acusam Clube de Campo de Mogi das Cruzes de negar acordo de indenização",
-"p": "Uma quarta vítima disse que aguarda a liberação de exames para procurar a Justiça; em nota, o CCMC afirmou que não foi formalmente citado na ação até o momento, mas que adotou medidas institucionais de apoio e ressaltou que tratativas extrajudiciais não resultaram em acordo formalizado",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/vitimas-de-acidente-em-baile-acusam-clube-de-campo-de-mogi-das-cruzes-de-negar-acordo-de-indenizacao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:38",
-"t": "Veja quais são as 20 melhores rodovias de SP segundo ranking nacional da CNT",
-"p": "Estado lidera avaliação no país com 91% das rodovias em nível ótimo ou bom; região de Ribeirão Preto tem 5 trechos entre os 20 melhores",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/economia/veja-quais-sao-20-melhores-rodovias-de-sp-segundo-ranking-nacional-da-cnt/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:33",
-"t": "Senac Jundiaí oferece programação gratuita com palestras e oficinas sobre empreendedorismo",
-"p": "Foto: Senac Jundiaí Atividades acontecem entre 9 e 18 de novembro e abordam finanças, inovação, empreendedorismo feminino, tecnologia e cultura negra.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/empreendedorismo-senac-jundiai-eventos-gratuitos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:30",
-"t": "Grupo do CRAS Paulistano visita Quilombo Ivaporunduva no Mês da Consciência Negra",
-"p": "Assistência Social",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/grupo-do-cras-paulistano-visita-quilombo-ivaporunduva-no-mes-da-consciencia-negra/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:20",
-"t": "PIB paulista avança 1,5% no acumulado de 2026",
-"p": "Agropecuária e Serviços cresceram no período",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/pib-paulista-avanca-15-no-acumulado-de-2026/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:17",
-"t": "Governo de São Paulo divulga calendário de pagamento do IPVA 2027; veja as datas",
-"p": "Os vencimentos começam em 11 de janeiro, para veículos com placa final 1, e seguem até o dia 22, para placas com final 0",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/governo-de-sao-paulo-divulga-calendario-de-pagamento-do-ipva-2027-veja-as-datas/",
 "auto": true
 }
 ]
