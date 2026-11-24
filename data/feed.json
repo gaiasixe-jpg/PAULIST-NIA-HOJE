@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T06:16:24-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-24T07:23:58-03:00",
+"novos_nesta_coleta": 19,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -27,7 +27,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -50,9 +49,149 @@
 {
 "fonte": "Prefeitura de Presidente Prudente",
 "erro": "HTTP Error 500: Internal Server Error"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "07:21",
+"t": "Governo de SP mobiliza rede de proteção às mulheres e prevê DDM 24h em Votuporanga neste mês",
+"p": "O Governo de São Paulo intensificou as ações da rede estadual de proteção durante a campanha 21 Dias de Ativismo pelo Fim da Violência contra as Mulheres, que segue até 10 de dezembro. Coordenada pela Secretaria de Políticas para a Mulher dentro do movimento SP Por Todas, a mobilização integra diversos órgãos…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Votuporanga"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-mobiliza-rede-de-protecao-as-mulheres-e-preve-ddm-24h-em-votuporanga-neste-mes/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:21",
+"t": "Prefeitura de Macedônia realiza coleta de sangue em horário estendido para o Novembro Azul",
+"p": "A Prefeitura de Macedônia promoverá no próximo dia 26 de novembro uma ação especial de saúde voltada aos homens com mais de 40 anos, como parte das mobilizações da campanha Novembro Azul, dedicada à prevenção do câncer de próstata e ao cuidado integral com a saúde masculina. O atendimento será realizado na Unidade…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-macedonia-realiza-coleta-de-sangue-em-horario-estendido-para-o-novembro-azul/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:17",
+"t": "Buscas por mulher que caiu no Rio Tamanduateí após chuva entram no 3º dia",
+"p": "Vítima caiu no Rio Tamanduateí no domingo (22/11). Segundo testemunhas, a mulher tem a pele branca e usava um vestido roxo",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/buscas-por-mulher-que-caiu-no-rio-tamanduatei-apos-chuva-entram-no-3o-dia",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "06:56",
+"t": "Resultados das loterias de segunda-feira (23/11): Lotofácil, +Milionária, Loteca e mais",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Seis modalidades ficaram sem ganhadores na faixa principal, enquanto o concurso especial da Loteca premiou 111 apostas com 14 acertos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultados-loterias-23-11-2026/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "06:53",
+"t": "Resultado da Loteca 1284: 111 apostas ganham R$ 35.941,35 cada",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso especial também premiou 5.810 apostas que acertaram o resultado de 13 partidas de futebol.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-loteca-concurso-1284/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "06:52",
+"t": "Resultado da +Milionária 409: prêmio acumula para R$ 118 milhões",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Uma aposta acertou cinco dezenas e dois trevos no concurso desta segunda-feira (23) e receberá R$ 389.270,34.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-mais-milionaria-concurso-409/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "06:43",
+"t": "Resultado da Lotofácil 3836: prêmio acumula e vai a R$ 5 milhões",
+"p": "Foto: Depositphotos Concurso desta segunda-feira (23) premiou 218 apostas com 14 acertos; cada uma receberá R$ 1.962,92.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotofacil-concurso-3836/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "06:39",
+"t": "Obituário | Falecimentos registrados nesta terça-feira (24/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta terça-feira, dia 24 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-terca-feira-24-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "06:38",
+"t": "Ribeirão Preto pode ter chuva mesmo com temperatura de 33°C; veja previsão",
+"p": "Terça-feira (24) será de sol com algumas nuvens e pancadas rápidas de chuva durante o dia e à noite",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/ribeirao-preto-pode-ter-chuva-mesmo-com-temperatura-de-33c-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "06:20",
+"t": "Imagem do dia: pôr do sol transforma paisagem à beira-mar em cenário dourado e revela a beleza dos últimos instantes de luz",
+"p": "O encontro entre o céu, o mar e a vegetação cria um cenário de tranquilidade na imagem do dia desta terça-feira (24). A fotografia mostra uma paisagem costeira iluminada por tons dourados e alaranjados, enquanto a luz do sol se espalha sobre a água e transforma o horizonte em uma composição de cores impressionante.…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/imagem-do-dia-por-do-sol-transforma-paisagem-a-beira-mar-em-cenario-dourado-e-revela-a-beleza-dos-ultimos-instantes-de-luz/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "06:01",
@@ -671,6 +810,21 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/veiculo-cai-em-canal-apos-rua-ficar-encoberta-pela-agua-em-sao-vicente-video/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "20:00",
+"t": "Chuvas abrem cratera pela 2ª vez em nove meses em São Vicente",
+"p": "Reprodução Uma nova cratera se abriu nas proximidades do Edifício Solaris, em São Vicente, no litoral de São Paulo, durante as fortes chuvas.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Vicente",
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/chuvas-abrem-cratera-pela-2a-vez-em-nove-meses-em-sao-vicente/",
 "auto": true
 },
 {
@@ -54876,155 +55030,6 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/tatuador-tenta-contratar-acompanhante-em-site-e-acaba-sendo-extorquido/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:11",
-"t": "Hidratante perfumado ou neutro? Veja se fragrância faz mal à saúde da pele",
-"p": "Esses dias me perguntei se um hidratante corporal pode deixar a pele macia, ajudar a manter a hidratação e ainda funcionar como uma espécie de perfume para o dia a dia sem perder efetividade por conta do cheiro forte. Imaginei que produtos com fragrâncias intensas e duradouras poderiam não fazer tão bem à pele…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/estilo-de-vida/hidratante-perfumado-ou-neutro-veja-se-fragrancia-faz-mal-a-saude-da-pele/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:06",
-"t": "Avô acompanha neta em evento de cosplay, vira Mestre dos Magos, ganha concurso e recebe homenagem da Câmara Municipal ao completar 70 anos",
-"p": "O que começou como um simples gesto de carinho de um avô pela neta acabou transformando a vida de Wilson Ferreira da Silva. Ao acompanhá-la em um evento de cosplay, ele decidiu se vestir como o Mestre dos Magos, personagem do desenho animado Caverna do Dragão. A semelhança chamou tanta atenção que Wilson venceu um […]",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/avo-acompanha-neta-em-evento-de-cosplay-vira-mestre-dos-magos-ganha-concurso-e-recebe-homenagem-da-camara-municipal-ao-completar-70-anos/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:00",
-"t": "Roberto Justus alerta sobre golpe com inteligência artificial que usa rosto e voz do apresentador para divulgar falsos investimentos",
-"p": "O apresentador Roberto Justus, de 71 anos, alertou sobre um golpe que utiliza inteligência artificial para reproduzir a imagem e a voz do apresentador em um vídeo falso sobre investimentos. Segundo Justus, o conteúdo não foi gravado por ele e já teria levado pessoas a perder dinheiro. O empresário fez o alerta…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/roberto-justus-alerta-sobre-golpe-com-inteligencia-artificial-que-usa-rosto-e-voz-do-apresentador-para-divulgar-falsos-investimentos/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:00",
-"t": "PM da região recebe drone de alta tecnologia com câmera térmica para operações e resgates",
-"p": "A Polícia Militar da região de São José do Rio Preto, sob a circunscrição do Comando de Policiamento do Interior (CPI-5) — que engloba o 16º Batalhão com sede em Fernandópolis —, incorporou um drone de alta tecnologia à sua frota operacional. O equipamento é dotado de câmera térmica, sistema de captação de imagens…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/pm-da-regiao-recebe-drone-de-alta-tecnologia-com-camera-termica-para-operacoes-e-resgates/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:00",
-"t": "Artista de Fernandópolis é contemplado pela Lei Aldir Blanc com projeto que une arte metálica e sustentabilidade",
-"p": "O artista plástico fernandopolense Marcos Elvis Antolini foi contemplado pela Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), por meio do edital público promovido pela Secretaria Municipal de Cultura e Turismo de Fernandópolis. Com a conquista do recurso de R$ 4,2 mil, o escultor desenvolverá o projeto…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/artista-de-fernandopolis-e-contemplado-pela-lei-aldir-blanc-com-projeto-que-une-arte-metalica-e-sustentabilidade/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:00",
-"t": "Prefeitura de Fernandópolis sanciona lei que cria sessões de cinema e eventos culturais adaptados para autistas",
-"p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou a Lei Municipal nº 5.787, de 6 de novembro de 2026, que institui o programa “Cine Azul e Cultura Acessível”. A nova legislação altera a política municipal de proteção dos direitos das pessoas com Transtorno do Espectro Autista (TEA), transformando…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/prefeitura-de-fernandopolis-sanciona-lei-que-cria-sessoes-de-cinema-e-eventos-culturais-adaptados-para-autistas/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:00",
-"t": "Enem 2026 mobiliza mais de 2,2 mil estudantes em Fernandópolis neste domingo",
-"p": "Mais de 2,2 mil estudantes residentes em Fernandópolis iniciam neste domingo (8) a maratona de provas do Exame Nacional do Ensino Médio (Enem) de 2026. Ao todo, 2.289 candidatos locais foram alocados entre as salas de aplicação da Fundação Educacional de Fernandópolis (FEF) e da Escola Técnica Estadual (Etec) para…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/enem-2026-mobiliza-mais-de-22-mil-estudantes-em-fernandopolis-neste-domingo/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:00",
-"t": "Lagoa do Taquaral recebe “balanço” feito de carteiras escolares; veja a obra",
-"p": "Obra “Aula Suspensa” transforma carteiras de sala de aula em balanços interativos; saiba até quando a obra fica no Taquaral",
-"tema": "Educação",
-"s": "alerta",
-"c": [
-"Taquaral"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/lagoa-do-taquaral-recebe-balanco-feito-de-carteiras-escolares-veja-a-obra/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "08:54",
-"t": "Drone ajuda Polícia Ambiental a flagrar furto de diesel de trem na região",
-"p": "Suspeitos foram encontrados em Simonsen com cerca de 100 litros de combustível retirados de locomotivas",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/drone-ajuda-policia-ambiental-a-flagrar-furto-de-diesel-de-trem-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "08:36",
-"t": "Polícia Militar intensifica patrulhamento na zona rural de Votuporanga",
-"p": "Ações preventivas buscam reforçar a segurança de moradores e produtores rurais do município A Polícia Militar intensificou o patrulhamento na zona rural de Votuporanga, com o objetivo de prevenir crimes e ampliar a segurança dos moradores e proprietários de imóveis rurais. A iniciativa busca fortalecer a presença…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/policia-militar-intensifica-patrulhamento-na-zona-rural-de-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "08:05",
-"t": "Polícia Militar de SP abre inscrições de concurso com 2 mil vagas para aluno-soldado nesta segunda-feira (9)",
-"p": "A Polícia Militar de São Paulo abre nesta segunda-feira (9) as inscrições do concurso público para preencher 2 mil vagas de aluno-soldado. A seleção é destinada a homens e mulheres, e os aprovados terão remuneração inicial de R$ 5.482,51. Para participar, é necessário ter entre 17 e 30 anos, ensino médio completo e…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-militar-de-sp-abre-inscricoes-de-concurso-com-2-mil-vagas-para-aluno-soldado-nesta-segunda-feira-9/",
 "auto": true
 }
 ]
