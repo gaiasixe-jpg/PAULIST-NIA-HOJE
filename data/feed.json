@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T07:23:58-03:00",
-"novos_nesta_coleta": 19,
+"atualizado": "2026-11-24T09:06:19-03:00",
+"novos_nesta_coleta": 37,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -27,6 +27,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
+"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -49,13 +50,368 @@
 {
 "fonte": "Prefeitura de Presidente Prudente",
 "erro": "HTTP Error 500: Internal Server Error"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "09:06",
+"t": "Justiça condena homem a dois anos e meio de prisão por furto qualificado e destruição de escola em Cosmorama",
+"p": "A 1ª Vara da Comarca de Tanabi condenou Paulo César Custódio Zaccas às penas somadas de dois anos de reclusão e seis meses de detenção, em regime inicial aberto, além do pagamento de 20 dias-multa, pelos crimes de furto qualificado e dano ao patrimônio público. A sentença, assinada pelo juiz Tiago Octaviani e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Cosmorama",
+"Tanabi"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-condena-homem-a-dois-anos-e-meio-de-prisao-por-furto-qualificado-e-destruicao-de-escola-em-cosmorama/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:05",
+"t": "Qualifica SP abre 2.520 vagas em cursos gratuitos com inscrições até quarta-feira (25)",
+"p": "A Secretaria de Desenvolvimento Econômico (SDE) do Estado de São Paulo está com inscrições abertas para 2.520 vagas em cursos gratuitos de qualificação profissional pelo programa Qualifica SP, com prazo final nesta quarta-feira (25). As candidaturas devem ser feitas pelo portal Trampolim, no endereço eletrônico…",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/qualifica-sp-abre-2-520-vagas-em-cursos-gratuitos-com-inscricoes-ate-quarta-feira-25/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:03",
+"t": "Homem joga pedra contra vidro de ônibus e passageira fica ferida",
+"p": "Suspeito arremessou uma pedra contra o ônibus da linha 135 na manhã desta terça-feira (24); Guarda Municipal foi acionada e homem fugiu do local",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/homem-joga-pedra-contra-vidro-de-onibus-e-passageira-fica-ferida/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:00",
+"t": "Justiça de Rio Preto condena homem a mais de 7 anos de prisão em regime fechado por dois assaltos a ônibus cometidos em 2009",
+"p": "A 2ª Vara Criminal da Comarca de São José do Rio Preto condenou Wander Laureano Ferreira à pena de sete anos, três meses e três dias de reclusão, em regime inicial fechado, além do pagamento de 17 dias-multa, pela prática de dois roubos em continuidade delitiva contra coletivos da empresa Circular Santa Luzia Ltda.…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-a-mais-de-7-anos-de-prisao-em-regime-fechado-por-dois-assaltos-a-onibus-cometidos-em-2009/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:57",
+"t": "Em parceria com o Senai e Senac, Uniten lança 16 novos cursos gratuitos de qualificação profissional, com início ainda em 2026",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Relações do Trabalho e Qualificação Profissional (Sert), através da Universidade do Trabalhador, Empreendedor e Negócios (Uniten), em parceria com o Serviço Nacional de Aprendizagem Industrial (Senai) e o Serviço Nacional de Aprendizagem Comercial (Senac), oferece…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/em-parceria-com-o-senai-e-senac-uniten-lanca-16-novos-cursos-gratuitos-de-qualificacao-profissional-com-inicio-ainda-em-2026/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:56",
+"t": "Após reclamações de ‘clima tóxico’, polícia convoca xamã para livrar delegacia de ‘espíritos malignos’",
+"p": "Contra espíritos, armas e cassetetes não adiantam: policiais da Delegacia de Polícia de Lourdes, na França, tiveram que apelar para um xamã, na tentativa de “expulsar espíritos malignos” da estação. De acordo com o jornal francês Le Canard Enchaîné, a cerimônia aconteceu no dia 31 de outubro, após sugestão de um…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Lourdes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/apos-reclamacoes-de-clima-toxico-policia-convoca-xama-para-livrar-delegacia-de-espiritos-malignos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:55",
+"t": "Vendedor é esfaqueado e encontrado ferido em rua de Rio Preto",
+"p": "Homem de 42 anos foi socorrido pelo Corpo de Bombeiros e levado ao Hospital de Base",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vendedor-e-esfaqueado-e-encontrado-ferido-em-rua-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:42",
+"t": "Jundiaí terá máxima de 29°C e alerta laranja para tempestades nesta terça-feira (24)",
+"p": "Foto: Prefeitura de Jundiaí Terça será marcada pelo calor e risco de temporais, com possibilidade de granizo e ventos; temperaturas devem cair nos próximos dias.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-do-tempo-jundiai-29-graus-temporais/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:41",
+"t": "Santa Casa de Fernandópolis homenageia senador Marcos Pontes por repasse de emenda parlamentar",
+"p": "O senador Marcos Pontes (PL-SP) recebeu em seu gabinete em Brasília, na última quarta-feira (18), uma placa de prata entregue pelo provedor da Santa Casa de Fernandópolis, Marcus Chaer. A homenagem foi prestada em agradecimento pela destinação de uma emenda parlamentar voltada ao hospital, que atua como referência…",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-homenageia-senador-marcos-pontes-por-repasse-de-emenda-parlamentar/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:27",
+"t": "GCM de Suzano resgata jiboia de 2,13 metros de comprimento no Parque Santa Rosa",
+"p": "Resgate contou com apoio da Defesa Civil do município e animal foi encaminhado para o Centro de Triagem e Recuperação de Animais Silvestres de São Paulo",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo",
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/gcm-de-suzano-resgata-jiboia-de-213-metros-de-comprimento-no-parque-santa-rosa/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:25",
+"t": "Mulher desaparecida em Rio Preto é encontrada em casa de acolhimento",
+"p": "Maria da Paz Osternes de Araújo estava desaparecida desde quinta-feira (19); segundo a Deic, ela está em segurança",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mulher-desaparecida-em-rio-preto-e-encontrada-em-casa-de-acolhimento/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:22",
+"t": "Botucatu confirma primeiro caso de Mpox no centro-oeste paulista e investiga outra suspeita",
+"p": "Botucatu (SP) confirmou o primeiro caso de Mpox no centro-oeste paulista. De acordo com a Secretaria de Estado da Saúde (SES-SP), o paciente é um homem na faixa etária de 40 a 44 anos, que recebeu o diagnóstico após procurar atendimento médico, não precisou ser internado e segue em acompanhamento. Além do caso…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Botucatu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/botucatu-confirma-primeiro-caso-de-mpox-no-centro-oeste-paulista-e-investiga-outra-suspeita/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:20",
+"t": "Temporal provoca alagamento e interdita trecho da rodovia Raposo Tavares no centro-oeste paulista",
+"p": "A Rodovia Raposo Tavares (SP-270), trecho em Ipaussu, no centro-oeste paulista, foi totalmente interditada nos dois sentidos após o temporal da tarde desta segunda-feira (23). A via já foi liberada. Segundo a concessionária, a chuva forte provocou alagamento na pista, na altura do km 345, e o trânsito foi bloqueado…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Ipaussu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/temporal-provoca-alagamento-e-interdita-trecho-da-rodovia-raposo-tavares-no-centro-oeste-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:15",
+"t": "Acidente entre moto e caminhonete interdita totalmente a Anhanguera, deixa motociclista gravemente ferido e mobiliza helicóptero Águia",
+"p": "Um acidente com uma motocicleta deixou uma pessoa gravemente ferida e provocou a interdição total da rodovia Anhanguera (SP-330), na manhã desta terça-feira (24/11), em São Paulo. A ocorrência aconteceu por volta das 6h30, na altura do km 23, na região de Perus, pouco antes do Rodoanel Mário Covas, no sentido sul.…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/acidente-entre-moto-e-caminhonete-interdita-totalmente-a-anhanguera-deixa-motociclista-gravemente-ferido-e-mobiliza-helicoptero-aguia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:14",
+"t": "Homem encontrado parcialmente carbonizado tinha marcas de tiro e pode ter sido queimado vivo",
+"p": "O corpo do homem de 27 anos encontrado parcialmente carbonizado em Presidente Prudente (SP) apresentava marcas de tiros e pode ter sido queimado ainda vivo, segundo levantamentos preliminares da Polícia Civil divulgados nesta segunda-feira (23). A vítima havia desaparecido no sábado (21) após relatar a pessoas…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/homem-encontrado-parcialmente-carbonizado-tinha-marcas-de-tiro-e-pode-ter-sido-queimado-vivo/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:12",
+"t": "Mulher de 48 anos morre com suspeita de dengue em Martinópolis",
+"p": "Uma mulher de 48 anos morreu com suspeita de dengue em Martinópolis (SP). A informação foi confirmada pela prefeitura nesta segunda-feira (23). Conforme a prefeitura, a paciente havia dado entrada na Santa Casa da cidade na quarta-feira (18). Após avaliação clínica, ela foi transferida na quinta-feira (19) para um…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Martinópolis"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/mulher-de-48-anos-morre-com-suspeita-de-dengue-em-martinopolis/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:10",
+"t": "Santos Sunset reúne música ao vivo, cerveja artesanal e feira criativa na Ponta da Praia neste domingo com entrada gratuita",
+"p": "O Santos Sunset promete reunir moradores e turistas em uma tarde de lazer e diversão à beira-mar, com direito à passagem dos navios de passageiros pelo canal do Porto. Prevista para acontecer neste domingo (29), a programação conta com Lipão e Banda, das 15h30 às 20h, na Praça Luiz La Scala, na Ponta da Praia. […]",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/santos-sunset-reune-musica-ao-vivo-cerveja-artesanal-e-feira-criativa-na-ponta-da-praia-neste-domingo-com-entrada-gratuita/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:00",
+"t": "Região de Campinas tem alerta de chuva forte e risco de alagamentos nesta terça e quarta-feira",
+"p": "Previsão do Cepagri indica trovoadas e chuva de moderada a forte intensidade, principalmente na quarta-feira (25). Defesa Civil coloca região em estado de atenção.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/regiao-de-campinas-tem-alerta-de-chuva-forte-e-risco-de-alagamentos-nesta-terca-e-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:00",
+"t": "Campinas terá audiências públicas sobre mudanças na Previdência dos servidores",
+"p": "Audiências na Câmara Municipal serão realizadas nesta terça-feira (24) e vão debater alterações nas regras de aposentadoria e a reestruturação na Previdência",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/campinas-tera-audiencias-publicas-sobre-mudancas-na-previdencia-dos-servidores/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:54",
+"t": "TV Brasil transmite a abertura da Copinha F Petrobras 2026 nesta terça",
+"p": "Começa nesta terça-feira (24) a 4ª edição da Copa São Paulo de Futebol Júnior Feminino, a Copinha F Petrobras 2026. A TV Brasil transmite o duelo de abertura entre Palmeiras e Tarumã-AM, direto do Estádio Dr. Oswaldo Teixeira Duarte (Canindé), em São Paulo (SP), a partir das 21h15. As transmissões integram acordo…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/tv-brasil-transmite-abertura-da-copinha-f-petrobras-2026-nesta-terca",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:52",
+"t": "1ª cidade do Brasil vai ganhar parque infantil com escorregadores e áreas de convivência em praia que divide o litoral de SP",
+"p": "A Praia do Itararé, na divisa entre São Vicente e Santos, ganhará um novo parque voltado ao lazer e à convivência de crianças e famílias. O anúncio foi feito pelo prefeito Kayo Amado na manhã desta quinta-feira (19). A obra integra o projeto de reurbanização do eixo centro-praia. A proposta prevê a instalação de…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Itararé"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/1a-cidade-do-brasil-ganha-parque-infantil-com-escorregadores-e-areas-de-convivencia-em-praia-que-divide-o-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:47",
+"t": "Após temporal, SP terá novas pancadas de chuva nesta terça; veja previsão",
+"p": "Após as fortes chuvas que atingiram São Paulo na segunda-feira (23), a previsão para esta terça-feira (24) é de mais instabilidade. Segundo o Centro de Gerenciamento de Emergências Climáticas (CGE), a capital amanheceu com sol entre nuvens e temperaturas em elevação, mas o cenário deve mudar ao longo do dia. De…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/apos-temporal-sp-tera-novas-pancadas-de-chuva-nesta-terca-veja-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:38",
+"t": "SP tem novo alerta de perigo para tempestades nesta terça-feira (24/11)",
+"p": "Alerta do Inmet, válido até o fim desta terça, prevê possibilidade de chuva forte, vento de atpe 100 km/h e queda de granizo",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sp-tem-novo-alerta-de-perigo-para-tempestades-nesta-terca-feira-24-11",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:36",
+"t": "Após chuvas intensas, trânsito de São Paulo tem 455 km de lentidão nesta terça-feira",
+"p": "Após as fortes chuvas que atingiram São Paulo e a Região Metropolitana na segunda-feira (23), o trânsito apresenta lentidão em diferentes pontos na manhã desta terça-feira (24). Segundo o monitoramento da Companhia de Engenharia de Tráfego (CET), a capital paulista registra 455 km de lentidão, com a Zona Sul…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/apos-chuvas-intensas-transito-de-sao-paulo-tem-455-km-de-lentidao-nesta-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:36",
+"t": "Operação do Gaeco e PM mira quadrilha de furto de caminhonetes de luxo",
+"p": "Operação 'Caráter Geral' foi deflagrada nesta terça (24) contra grupo suspeito de atuar nas regiões de Ribeirão Preto e Franca",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Franca"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/operacao-do-gaeco-e-pm-mira-quadrilha-de-furto-de-caminhonetes-de-luxo/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:24",
+"t": "São Vicente quase ganha novo milionário na Lotofácil e próximo concurso tem prêmio estimado em R$ 5 milhões",
+"p": "O concurso 3836 da Lotofácil quase deixou um apostador de São Vicente milionário. O sorteio ocorreu na noite da última segunda-feira (23). Apesar de não acertar todas as dezenas, o jogador conseguiu uma premiação de R$ 1.962,92. Agora, a Lotofácil volta a movimentar os apostadores nesta terça-feira (24). O próximo…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sao-vicente-quase-ganha-novo-milionario-na-lotofacil-e-proximo-concurso-tem-premio-estimado-em-r-5-milhoes/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "07:21",
@@ -94,6 +450,44 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/buscas-por-mulher-que-caiu-no-rio-tamanduatei-apos-chuva-entram-no-3o-dia",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:02",
+"t": "Mega-Sena sorteia prêmio de R$ 65 milhões nesta terça-feira",
+"p": "A Mega-Sena sorteia nesta terça-feira (24) prêmio estimado em R$ 65 milhões. As seis dezenas do concurso 3.090 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) em casas lotéricas credenciadas pela Caixa em todo o…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-65-milhoes-nesta-terca-feira",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:00",
+"t": "Resumo de Por Você: Glorinha vê Aroldo na arquibancada durante campeonato de judô no capítulo de quarta (25)",
+"p": "Zé conta a Vanessa que encontrou o paradeiro de Aroldo. Leandra diz a Bela que está feliz por seu namoro com Gabriel, e Vanessa vê as duas juntas. Sabugo se interessa por um curso técnico no hospital, e Bela promete ajudá-lo. Tom-Tom questiona Bela sobre o pai de Samuca. Clemente sofre com a morte de […]",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-glorinha-ve-aroldo-na-arquibancada-durante-campeonato-de-judo-no-capitulo-de-quarta-25/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "07:00",
+"t": "Golpe do pedágio free flow já soma quase 500 sites falsos que imitam canais oficiais; aprenda como se proteger",
+"p": "A integração do pedágio eletrônico free flow ao aplicativo oficial CNH do Brasil acontece em meio a uma disparada de fraudes digitais contra motoristas no País. Um levantamento da empresa de cibersegurança Kaspersky identificou 480 sites falsos criados desde o início de 2026 até setembro para simular a cobrança…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/golpe-do-pedagio-free-flow-ja-soma-quase-500-sites-falsos-que-imitam-canais-oficiais-aprenda-como-se-proteger/",
 "auto": true
 },
 {
@@ -54630,406 +55024,6 @@
 "c": [],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/inscricoes-de-detentos-no-enem-ppl-crescem-96-no-estado-de-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:40",
-"t": "Colisão entre carro e carreta mata quatro pessoas na Rodovia Elyeser Montenegro Magalhães",
-"p": "Um grave acidente de trânsito resultou na morte de quatro pessoas na madrugada deste domingo (8), por volta das 5h30, no trecho da Rodovia Elyeser Montenegro Magalhães (SP-463) pertencente ao município de Santo Antônio do Aracanguá. A colisão envolveu um Chevrolet Corsa e uma carreta no trecho regional conhecido…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Santo Antônio do Aracanguá"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/colisao-entre-carro-e-carreta-mata-quatro-pessoas-na-rodovia-elyeser-montenegro-magalhaes/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:30",
-"t": "Moradora da região morre em hospital de Minas Gerais após sofrer grave acidente de trânsito",
-"p": "Morreu neste final de semana Kelly Cristina Ferro, de 42 anos, vítima de um grave acidente de trânsito registrado no Estado de Minas Gerais. A moradora, que residia no município de Parisi e possui laços familiares consolidados em Votuporanga, permaneceu internada por vários dias em estado crítico em uma unidade…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Votuporanga",
-"Parisi"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/moradora-da-regiao-morre-em-hospital-de-minas-gerais-apos-sofrer-grave-acidente-de-transito/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:26",
-"t": "Chuva em SP: jovem de 20 anos desaparece após ser arrastado por correnteza",
-"p": "Klaiver Peitoxo foi levado pela água em meio ao temporal que atingiu a zona sul da capital paulista nesse sábado (7/11)",
-"tema": "Água",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/chuva-em-sp-jovem-de-20-anos-desaparece-apos-ser-arrastado-por-correnteza",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:25",
-"t": "Colisão frontal entre carro e moto deixa um morto na vicinal entre Tanabi e Ibiporanga",
-"p": "Um grave acidente de trânsito ocorrido na noite de quinta-feira (5) resultou na morte de um motociclista no quilômetro 5 da Estrada Vicinal Henrique Alves, via que conecta o município de Tanabi ao distrito de Ibiporanga. O acidente provocou forte comoção entre os moradores da localidade, onde a vítima era bastante…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Tanabi"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/colisao-frontal-entre-carro-e-moto-deixa-um-morto-na-vicinal-entre-tanabi-e-ibiporanga/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:20",
-"t": "Concurso Público: 14 órgãos abrem inscrições para 5 mil vagas nesta segunda, 9",
-"p": "A próxima segunda-feira, 9 de novembro, marca o início das inscrições de 14 concursos públicos e processos seletivos em diferentes regiões do país. Ao todo, os novos editais dão o pontapé para tentar 5.157 vagas nos estados de Goiás, Mato Grosso, Minas Gerais, Rio Grande do Sul, São Paulo e Tocantins. Com chances…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/concurso-publico-14-orgaos-abrem-inscricoes-para-5-mil-vagas-nesta-segunda-9/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:16",
-"t": "Temporal em Campinas: cidade registra 51 ocorrências, entre quedas de árvores e alagamentos",
-"p": "Segundo o último levantamento da Defesa Civil, temporal deste sábado (7) provocou quedas de árvores, alagamentos em vias públicas e imóveis e queda de muro",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/temporal-em-campinas-cidade-registra-51-ocorrencias-entre-quedas-de-arvores-e-alagamentos/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:14",
-"t": "Hospital São Vicente registra crescimento de 5,3% de pacientes acompanhados por câncer de próstata; oncologista explica sinais de alerta",
-"p": "Oncologista clínico Dr. Breno Reiss, do Hospital de Caridade São Vicente de Paulo - Foto: Hospital São Vicente Hospital de Jundiaí acompanhou 1.183 pacientes pelo SUS entre janeiro e outubro de 2026. Especialista alerta que a doença pode evoluir sem sintomas e reforça a importância do diagnóstico precoce",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/saude/hsv-aumento-atendimentos-cancer-prostata-2026/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:05",
-"t": "Novo tornado no Brasil destrói empresa e arremessa trabalhador por 40 metros em Palmeira das Missões",
-"p": "Um tornado atingiu Palmeira das Missões, no Noroeste do Rio Grande do Sul, por volta das 2h15 deste sábado (7), destruiu uma empresa de mudas e arremessou um trabalhador por 40 metros. A Defesa Civil confirmou dois tornados na mesma madrugada e o estado chegou a três na semana.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/novo-tornado-no-brasil-destroi-empresa-e-arremessa-trabalhador-por-40-metros-em-palmeira-das-missoes/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:00",
-"t": "Jundiaí enfrenta domingo chuvoso, mas semana começa com mudança no tempo",
-"p": "Foto: Chalabala/Canva Com máxima de 20°C, domingo terá chuva e risco de rajadas de vento e granizo; temperaturas começam a subir a partir de terça-feira.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-8-novembro-2026/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:59",
-"t": "Ciclista morre após ser atropelado por carro em rodovia da região",
-"p": "Vítima morreu antes de ser socorrida",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/ciclista-morre-apos-ser-atropelado-por-carro-em-rodovia-da-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:58",
-"t": "INSS recebe 5,8 milhões de pedidos de auxílio por incapacidade em 2026 e benefício representa 46% das solicitações feitas ao instituto",
-"p": "Um benefício destinado a trabalhadores que precisam se afastar temporariamente de suas atividades por problemas de saúde se tornou o mais solicitado ao Instituto Nacional do Seguro Social (INSS) em 2026. Dos mais de 12 milhões de requerimentos recebidos pelo órgão no período divulgado, aproximadamente 5,8 milhões…",
-"tema": "Saúde",
-"s": "entregue",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/inss-recebe-58-milhoes-de-pedidos-de-auxilio-por-incapacidade-em-2026-e-beneficio-representa-46-das-solicitacoes-feitas-ao-instituto/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:57",
-"t": "Mongaguá oferta 130 vagas de ensino integral para educação infantil em novas creches",
-"p": "Oportunidades contemplam novas unidades no Itaguaí, Vila Atlântica e Centro; inscrições devem ser feitas diretamente nas secretarias escolares",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Mongaguá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/mongagua/mongagua-oferta-130-vagas-de-ensino-integral-para-educacao-infantil-em-novas-creches.html",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:53",
-"t": "Av. Paulista aberta para carros: veja alterações no trânsito em dia de Enem",
-"p": "CET recomenda que candidatos do Enem na região de Interlagos planejem o trajeto com antecedência por causa da realização do GP de F1",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/av-paulista-aberta-para-carros-veja-alteracoes-no-transito-em-dia-de-enem",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:50",
-"t": "Vídeo: prefeito de Itaquaquecetuba imobiliza homem que agrediu mulher durante saída de bar",
-"p": "Agressor for detido e encaminhado à Delegacia de Polícia após a chegada da GCM no local",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Itaquaquecetuba"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/video-prefeito-de-itaquaquecetuba-imobiliza-homem-que-agrediu-mulher-durante-saida-de-bar/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:49",
-"t": "Lotofácil 3824 tem sorteio de R$ 2 milhões neste domingo (8); veja horário e regras",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso será realizado às 11h e premia apostas com 11 a 15 acertos; jogo simples custa R$ 3,50.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/sorteio-lotofacil-concurso-3824/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:47",
-"t": "Casal agride motorista e rouba dinheiro de ônibus em Marília",
-"p": "Ocorrência foi registrada na CPJ de Marília Vítima foi atacada com socos e chutes após advertir que chamaria a polícia; acusados levaram cerca de R$ 70.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/casal-agride-motorista-e-rouba-dinheiro-de-onibus-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:45",
-"t": "Dia de Sorte 1342 sorteia R$ 3,2 milhões neste domingo (8); veja como jogar",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso das 11h vai sortear sete números e um Mês da Sorte; aposta mínima custa R$ 2,50.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/sorteio-dia-de-sorte-concurso-1342/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:43",
-"t": "Timemania 2465 sorteia R$ 25,8 milhões neste domingo (8); veja como funciona",
-"p": "Foto: Depositphotos Concurso será realizado às 11h e também vai definir o Time do Coração; aposta simples custa R$ 3,50.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/sorteio-timemania-concurso-2465/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:41",
-"t": "Mega-Sena 3083 sorteia R$ 60 milhões neste domingo (8); veja horário e regras",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso será realizado às 11h, com prêmio principal estimado em R$ 60 milhões; apostas simples foram encerradas no sábado.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/sorteio-mega-sena-concurso-3083/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:31",
-"t": "Inmet alerta cidades do estado de SP para chuva com granizo e ventos; Veja regiões afetadas",
-"p": "Inmet emitiu alerta para o risco de tempestade neste domigo (8) e áreas paulistas",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/inmet-alerta-cidades-do-estado-de-sp-para-chuva-com-granizo-e-ventos-veja-regioes-afetadas/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:27",
-"t": "Travessias de SP terão nova operação a partir de segunda, com tarifas mantidas",
-"p": "Acquavias inicia três meses de operação assistida em 9 de novembro. Pix e cartões serão implantados gradualmente; veja o que muda.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/travessias-acquavias-9-novembro-2026-tarifas-pix-cartoes.html",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:26",
-"t": "Domingo tem previsão de chuva após temporais causarem estragos no Vale",
-"p": "Defesa Civil confirma quedas de árvores em Guaratinguetá e ventos de 126,7 km/h em Cachoeira Paulista; domingo tem previsão de novas pancadas.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Cachoeira Paulista",
-"Guaratinguetá"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/chuvas-vale-paraiba-domingo-8-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:25",
-"t": "Idoso é encontrado morto em fazenda de Garça",
-"p": "Caso será investigado pela Polícia Civil de Marília Exames necroscópico e toxicológico foram solicitados após perícia; polícia aguarda laudo.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília",
-"Garça"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/idoso-e-encontrado-morto-em-fazenda-de-garca/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:25",
-"t": "Prefeitura de Sorocaba decreta situação de emergência em razão das fortes chuvas deste sábado (7)",
-"p": "A Prefeitura de Sorocaba decretou situação de emergência pública na cidade em decorrência das fortes chuvas registradas na cidade neste sábado (7). A medida mantém mobilizada a estrutura organizada pelo município para garantir a adoção de medidas imediatas e um pronto atendimento às ocorrências, assim como…",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-decreta-situacao-de-emergencia-em-razao-das-fortes-chuvas-deste-sabado-7/",
-"auto": true,
-"org": "Prefeitura"
-},
-{
-"d": "2026-11-08",
-"h": "09:21",
-"t": "PM abre inscrições de concurso com 2 mil vagas para aluno-soldado",
-"p": "Para participar, é necessário ter entre 17 e 30 anos, ensino médio completo e Carteira Nacional de Habilitação (CNH) nas categorias B a E",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/pm-abre-inscricoes-de-concurso-com-2-mil-vagas-para-aluno-soldado/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:16",
-"t": "Obituário | Falecimentos registrados neste domingo (8/11) em Marília e região",
-"p": "Velório Municipal de Marília Serviços funerários divulgaram informações sobre os velórios e sepultamentos de seis pessoas neste domingo, dia 8 de novembro.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-neste-domingo-8-11-em-marilia-e-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:14",
-"t": "Confira a previsão do tempo para Marília neste domingo (8/11)",
-"p": "Dia deve ser marcado por chuva, com máxima de 25°C e previsão de baixa precipitação durante a noite.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-neste-domingo-8-11/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:12",
-"t": "SP e litoral seguem com risco de temporal neste domingo de ENEM, com rajadas de 100 km/h",
-"p": "São Paulo e o litoral paulista seguem sob alerta de tempestade neste domingo (8), com chuva de até 100 mm por dia e rajadas de 100 km/h em 480 municípios. A Defesa Civil orienta candidatos do ENEM a sair cedo e ninguém deve atravessar ruas alagadas.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/sp-e-litoral-seguem-com-risco-de-temporal-neste-domingo-de-enem-com-rajadas-de-100-km-h/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "09:12",
-"t": "Tatuador tenta contratar acompanhante em site e acaba sendo extorquido",
-"p": "Vítima contou que passou a receber mensagens com ameaças de divulgação de informações constrangedoras",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/tatuador-tenta-contratar-acompanhante-em-site-e-acaba-sendo-extorquido/",
 "auto": true
 }
 ]
