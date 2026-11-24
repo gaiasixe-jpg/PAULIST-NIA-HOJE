@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T09:06:19-03:00",
-"novos_nesta_coleta": 37,
+"atualizado": "2026-11-24T10:26:18-03:00",
+"novos_nesta_coleta": 42,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -55,6 +55,447 @@
 "itens": [
 {
 "d": "2026-11-24",
+"h": "10:25",
+"t": "Carro a serviço de deputado bate em moto e deixa jovem em estado grave",
+"p": "Vítima de 20 anos sofreu duas paradas cardiorrespiratórias e foi encaminhada ao Hosítal de Base de Rio Preto",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/carro-a-servico-de-deputado-bate-em-moto-e-deixa-jovem-em-estado-grave/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:20",
+"t": "Autônomo capota carro em fuga da PRF e é preso com haxixe em Marília",
+"p": "Acusado disse que pegou a carga na fronteira com o Paraguai e receberia R$ 2 mil pelo transporte até Araraquara.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araraquara",
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/autonomo-capota-carro-em-fuga-da-prf-e-e-preso-com-haxixe-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:15",
+"t": "Temporal transforma pátio do Detran em ‘piscina’ em SP, deixa carros e motos submersos e espalha destruição pelo interior do estado",
+"p": "Um dia após as fortes chuvas atingirem a capital paulista e cidades do interior, os estragos continuam sendo contabilizados em São Paulo. Veículos apreendidos pelo Detran ficaram parcialmente submersos em um pátio da capital, enquanto municípios registraram alagamentos, deslizamentos, casas atingidas e famílias…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/temporal-transforma-patio-do-detran-em-piscina-em-sp-deixa-carros-e-motos-submersos-e-espalha-destruicao-pelo-interior-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:11",
+"t": "Confira as ofertas de emprego no PAT Marília nesta terça-feira (24/11)",
+"p": "Indústria, construção civil, transporte e setor de serviços concentram oportunidades de contratação.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-terca-feira-24-11/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:06",
+"t": "Confira a previsão do tempo para Marília nesta terça-feira (24/11)",
+"p": "Dia será marcado por calor, variação de nebulosidade e aumento das chances de chuva à noite.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-terca-feira-24-11/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:06",
+"t": "Caminhão bate na traseira de carro e tomba em rodovia",
+"p": "Acidente entre caminhão e carro deixou duas pessoas com ferimentos leves e provocou bloqueios de faixas nos dois sentidos da rodovia na manhã desta terça-feira (24)",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/caminhao-bate-na-traseira-de-carro-e-tomba-em-rodovia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:05",
+"t": "Câmara de Jundiaí volta a discutir mudança no horário das sessões; projeto propõe retorno às 9h",
+"p": "Foto: Tribuna de Jundiaí Proposta de Rodrigo Albino já foi protocolada; nos bastidores, há possibilidade de pedido de urgência para votação nesta terça-feira, mas vereador nega intenção de apresentar requerimento",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-jundiai-projeto-mudanca-horario-sessoes-9h/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:03",
+"t": "Mãe de 3 filhos é assassinada poucos dias após pedir medida protetiva; dados mostram falhas na rede contra feminicídio",
+"p": "A morte de Simone Maria Fernandes, de 49 anos, assassinada a facadas na Zona Leste de São Paulo, três dias após solicitar medidas protetivas contra o ex-companheiro, expõe a falta de capacidade do poder público de proteger mulheres que denunciam violência doméstica. Mãe de três filhos, ela procurou a polícia na…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/mae-de-3-filhos-e-assassinada-poucos-dias-apos-pedir-medida-protetiva-dados-mostram-falhas-na-rede-contra-feminicidio/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:01",
+"t": "Governo de São Paulo anuncia crédito emergencial de R$ 2 milhões para produtores rurais de Mogi das Cruzes",
+"p": "Crédito será destinado para agricultores que tiveram as produções afetadas pelas chuvas registradas nos últimos meses",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/governo-de-sao-paulo-anuncia-credito-emergencial-de-r-2-milhoes-para-produtores-rurais-de-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:00",
+"t": "Bad Bunny e Roger Waters são cotados para show da posse de Lula; Janja negocia outras atrações internacionais, diz jornal",
+"p": "O cantor porto-riquenho Bad Bunny e o músico Roger Waters, ex-integrante do Pink Floyd, estão confirmados no evento musical da posse do presidente Luiz Inácio Lula da Silva (PT), marcado para a noite de 5 de janeiro de 2027, em Brasília. A programação também pode reunir outros artistas internacionais. A informação…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/bad-bunny-e-roger-waters-sao-confirmados-em-show-da-posse-de-lula-janja-negocia-outras-atracoes-internacionais-diz-jornal/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:00",
+"t": "Jundiaí inicia produção de uniformes escolares para mais de 28 mil alunos",
+"p": "Foto: Prefeitura de Jundiaí Novo sistema de vouchers entra em vigor em 2027 e permitirá que famílias escolham as peças e os tamanhos nos comércios credenciados.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/uniformes-escolares-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:00",
+"t": "Três homens são abordados em carro roubado com drogas em Praia Grande",
+"p": "Imagens: Canal 5 Web TV Veículo foi interceptado pela GCM após suspeita de clonagem na Avenida Presidente Kennedy, no bairro Ocian.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/tres-homens-sao-abordados-em-carro-roubado-com-drogas-em-praia-grande/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "10:00",
+"t": "Mortes no trânsito da Baixada Santista crescem quase 28% em quatro anos",
+"p": "Divulgação/Prefeitura de Praia Grande Após atingir o menor número de mortes no trânsito em 2021, a região voltou a registrar aumento nos óbitos e acumulou uma alta de 27,7%.",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/rmortes-no-transito-da-baixada-santista-crescem-quase-28-em-quatro-anos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:56",
+"t": "Orquestra Sinfônica de Santos apresenta obras clássicas das Américas nesta quinta-feira (26)",
+"p": "Apresentação sob regência do maestro José Consani ocorre nesta quinta-feira (26), às 20h, no bairro Aparecida; ingressos podem ser retirados a partir das 18 horas",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/orquestra-sinfonica-de-santos-apresenta-obras-classicas-das-americas-nesta-quinta-feira-26.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:52",
+"t": "Ribeirão Preto quer pagar auxílio de R$ 1.200 para vítimas de vendaval",
+"p": "Projeto de lei enviado pelo prefeito Ricardo Silva (PSD) já está na Câmara de Ribeirão Preto e usa verba de R$ 628,4 mil repassada pelo Governo de São Paulo",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/politica/ribeirao-preto-quer-pagar-auxilio-de-1-200-para-vitimas-de-vendaval/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:45",
+"t": "Sob influência do El Niño, Estado de SP tem 10 mortes por chuvas em um mês",
+"p": "",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370434/sob-influencia-do-el-ni%C3%B1o-estado-de-sp-tem-10-mortes-por-chuvas-em-um-mes",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:42",
+"t": "Anvisa apreende água mineral Pura e proíbe comercialização após irregularidades sanitárias",
+"p": "Fiscalização constatou condições higiênico-sanitárias insatisfatórias nas etapas de fabricação, envase e comercialização dos produtos",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/saude/anvisa-apreende-agua-mineral-pura-apos-irregularidades-sanitarias/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:41",
+"t": "Ecovias Noroeste Paulista divulga cronograma de obras nas rodovias da região até domingo (29)",
+"p": "A concessionária Ecovias Noroeste Paulista divulgou a programação semanal de obras, intervenções e serviços de manutenção previstos entre os dias 23 e 29 de novembro nas rodovias Washington Luís (SP-310), Brigadeiro Faria Lima (SP-326), Carlos Tonanni, Nemésio Cadetti, Laurentino Mascari e Dr. Mário Gentil…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ecovias-noroeste-paulista-divulga-cronograma-de-obras-nas-rodovias-da-regiao-ate-domingo-29/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:39",
+"t": "Creche municipal de Mira Estrela celebra chegada do Natal com acender das luzes e visita do Papai Noel",
+"p": "A Escola Municipal de Educação Infantil (EMEI) Elias Cândido da Silveira, em Mira Estrela, promoveu na noite do último dia 18, a partir das 19h30, uma celebração especial para marcar o acender das luzes de Natal da unidade. O evento iluminou o espaço escolar e reuniu a comunidade em um momento de confraternização…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/creche-municipal-de-mira-estrela-celebra-chegada-do-natal-com-acender-das-luzes-e-visita-do-papai-noel/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:38",
+"t": "Rodovia dos Tamoios tem bloqueio de retorno e fechamento de túneis nesta terça (24)",
+"p": "Obras de pavimentação interditam retorno do km 33 em Paraibuna, das 7h às 19h; manutenção noturna afeta serra nova e contorno sul nesta semana",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Paraibuna"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/rodovia-dos-tamoios-tem-bloqueio-de-retorno-e-fechamento-de-tuneis-nesta-terca-24.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:37",
+"t": "UBS de Macedônia realiza coleta noturna de exame preventivo nesta terça-feira",
+"p": "A Prefeitura de Macedônia, por meio da Secretaria Municipal de Saúde, promove nesta terça-feira (24) uma ação especial voltada à saúde da mulher com horário estendido na Unidade Básica de Saúde (UBS) do município. Das 18h às 21h, a equipe de enfermagem estará disponível para realizar a coleta do exame preventivo…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/ubs-de-macedonia-realiza-coleta-noturna-de-exame-preventivo-nesta-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:36",
+"t": "Prefeitura de Macedônia abre inscrições para edital cultural da Política Nacional Aldir Blanc",
+"p": "A Prefeitura de Macedônia está com inscrições abertas para o Edital 003/2026, voltado ao fomento de projetos culturais no município por meio do Ciclo 2 da Política Nacional Aldir Blanc (PNAB). A iniciativa, realizada em parceria com o Ministério da Cultura e o Governo Federal, tem como objetivo apoiar e incentivar…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-macedonia-abre-inscricoes-para-edital-cultural-da-politica-nacional-aldir-blanc/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:35",
+"t": "Carretas derrubam passarela e interditam pista da Rodovia Régis Bittencourt",
+"p": "Carretas atingiram passarela na altura de Juquiá, interior de SP. Rodovia registra mais de 27 km de congestionamento nesta terça (24/11)",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Juquiá"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/carretas-derrubam-passarela-e-interditam-pista-da-rodovia-regis-bittencourt",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:34",
+"t": "Prefeitura de Guarani d’Oeste inaugura iluminação natalina e transforma Praça da Matriz em ponto de encontro para famílias",
+"p": "A Administração Municipal de Guarani d’Oeste inaugurou oficialmente a iluminação especial de Natal, transformando a Praça da Matriz no principal cenário das celebrações de fim de ano da cidade. Com um projeto marcado por luzes e enfeites temáticos, o espaço público foi preparado para receber eventos culturais e…",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Guarani d'Oeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-guarani-doeste-inaugura-iluminacao-natalina-e-transforma-praca-da-matriz-em-ponto-de-encontro-para-familias/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:33",
+"t": "Prefeitura de São João das Duas Pontes promove ação noturna de saúde pelo Novembro Azul",
+"p": "A Prefeitura de São João das Duas Pontes, por meio da Secretaria Municipal de Saúde, promoveu no dia 17 de novembro uma mobilização especial dedicada ao público masculino na Unidade Básica de Saúde (UBS) III. A atividade integrou a programação da campanha Novembro Azul e ofereceu atendimento em horário estendido,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-sao-joao-das-duas-pontes-promove-acao-noturna-de-saude-pelo-novembro-azul/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:32",
+"t": "UNIFEF passa a oferecer graduação presencial em Biomedicina também no período da manhã",
+"p": "O Centro Universitário de Fernandópolis (UNIFEF) ampliou as opções de horário para quem deseja ingressar na área da saúde e passou a ofertar o curso de graduação em Biomedicina também no período matutino. A novidade busca facilitar a organização da rotina dos estudantes, permitindo que escolham o turno mais…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/unifef-passa-a-oferecer-graduacao-presencial-em-biomedicina-tambem-no-periodo-da-manha/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:29",
+"t": "Justiça de Rio Preto condena homem a quase sete anos de prisão em regime fechado por tráfico de cocaína e maconha no Jardim Marajó",
+"p": "A 2ª Vara Criminal da Comarca de São José do Rio Preto condenou Júlio Cézar Camargo da Silva à pena de seis anos, nove meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 680 dias-multa, pelo crime de tráfico de drogas. A sentença, assinada pelo juiz Vinicius Nunes Abbud e […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-a-quase-sete-anos-de-prisao-em-regime-fechado-por-trafico-de-cocaina-e-maconha-no-jardim-marajo/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:26",
+"t": "Balsa de Ilhabela opera com seis embarcações nesta terça-feira (24)",
+"p": "Espera é de 30 minutos nos dois terminais e maré baixa impede o transporte de veículos pesados; condições podem mudar ao longo do dia",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/balsas/ilhabela/balsa-de-ilhabela-opera-com-seis-embarcacoes-nesta-terca-feira-24.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:25",
+"t": "Ajuste fiscal de R$ 56 bilhões é aprovado pela câmara: veja quem pode ser afetado pelas medidas aprovadas",
+"p": "A Câmara dos Deputados aprovou o projeto de ajuste fiscal do governo federal que prevê medidas para economizar até R$ 56 bilhões em 2027. A proposta busca ajudar o governo do presidente Luiz Inácio Lula da Silva (PT) a cumprir a meta fiscal e altera regras sobre benefícios tributários, despesas públicas, recursos…",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/ajuste-fiscal-de-r-56-bilhoes-e-aprovado-pela-camara-veja-quem-pode-ser-afetado-pelas-medidas-aprovadas/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:22",
+"t": "Coren-SP realiza palestra sobre registros de enfermagem em Jundiaí",
+"p": "Foto: Divulgação/ Coren-SP Atividade no Hospital São Vicente de Paulo abordou ética profissional, boas práticas assistenciais e educação continuada.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/coren-sp-registros-de-enfermagem-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:18",
+"t": "Prefeitura encerra negociações com a Santa Casa por WhatsApp e UPA deve ir para a Central de Saúde",
+"p": "As negociações entre a Prefeitura de Fernandópolis e a Santa Casa para a instalação da Unidade de Pronto Atendimento (UPA) na Unidade II do hospital chegaram ao fim sem acordo nesta segunda-feira (23). A direção da entidade hospitalar foi comunicada oficialmente sobre o encerramento das tratativas por meio de uma…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-encerra-negociacoes-com-a-santa-casa-por-whatsapp-e-upa-deve-ir-para-a-central-de-saude/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:15",
+"t": "Ônibus articulado quebra ao meio durante trajeto e assusta passageiros",
+"p": "Ônibus da linha 210 teve a parte sanfonada partida na avenida John Boyd Dunlop; passageiros precisaram ser transferidos para outro ônibus",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/onibus-articulado-quebra-ao-meio-durante-trajeto-e-assusta-passageiros/",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "09:06",
 "t": "Justiça condena homem a dois anos e meio de prisão por furto qualificado e destruição de escola em Cosmorama",
 "p": "A 1ª Vara da Comarca de Tanabi condenou Paulo César Custódio Zaccas às penas somadas de dois anos de reclusão e seis meses de detenção, em regime inicial aberto, além do pagamento de 20 dias-multa, pelos crimes de furto qualificado e dano ao patrimônio público. A sentença, assinada pelo juiz Tiago Octaviani e…",
@@ -92,6 +533,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/homem-joga-pedra-contra-vidro-de-onibus-e-passageira-fica-ferida/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "09:03",
+"t": "Vai para São Paulo? Veja como está o trânsito na Anchieta e Imigrantes nesta terça-feira (24)",
+"p": "Motoristas encontram retenções em dois pontos da Anchieta e em um trecho da Imigrantes, na direção da Capital, nesta terça-feira (24)",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370418/vai-para-sao-paulo-veja-como-esta-o-transito-na-anchieta-e-imigrantes-nesta-terca-feira-24-",
 "auto": true
 },
 {
@@ -148,6 +603,20 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/vendedor-e-esfaqueado-e-encontrado-ferido-em-rua-de-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "08:51",
+"t": "Inmet alerta para chuva com granizo e ventos no estado de SP; veja regiões afetadas",
+"p": "Inmet emitiu alertas amarelo e laranja para o risco de tempestade nesta terça (24)",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/inmet-alerta-para-chuva-com-granizo-e-ventos-no-estado-de-sp-veja-regioes-afetadas/",
 "auto": true
 },
 {
@@ -54557,473 +55026,6 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/tatuador-tenta-contratar-acompanhante-em-site-e-acaba-sendo-extorquido/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:33",
-"t": "PM abre inscrições de concurso com 2 mil vagas para aluno-soldado",
-"p": "A Polícia Militar de São Paulo abre nesta segunda-feira (9) as inscrições do concurso público para preencher 2 mil vagas de aluno-soldado. A seleção é destinada a homens e mulheres, e os aprovados terão remuneração inicial de R$ 5.482,51. Para participar, é necessário ter entre 17 e 30 anos, ensino médio completo e…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/pm-abre-inscricoes-de-concurso-com-2-mil-vagas-para-aluno-soldado/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:33",
-"t": "Ciclista morre após ser atropelado por carro em rodovia da região",
-"p": "Um ciclista morreu após ser atropelado por um carro na madrugada de sábado (7), na Rodovia Maurício Goulart (SP-355), em Adolfo, na região de Rio Preto. De acordo com informações da Polícia Militar Rodoviária, o acidente aconteceu por volta das 2h40, na altura do quilômetro 41,5. O motorista seguia no sentido de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Adolfo",
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/ciclista-morre-apos-ser-atropelado-por-carro-em-rodovia-da-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:33",
-"t": "Enem 2026 aborda valorização do SUS como direito universal e leva candidatos a discutir os principais desafios da saúde pública brasileira",
-"p": "Sistema Único de Saúde (SUS)",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/enem-2026-aborda-valorizacao-do-sus-como-direito-universal-e-leva-candidatos-a-discutir-os-principais-desafios-da-saude-publica-brasileira/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:27",
-"t": "Prefeitura de Sorocaba intensifica mutirão de limpeza e manutenção de toda cidade, após as fortes chuvas desse sábado (7)",
-"p": "A Prefeitura de Sorocaba reforçou neste domingo (8) um mutirão para limpeza, manutenção e desobstrução as vias públicas de toda a cidade em decorrência das intensas chuvas deste sábado (7). A força-tarefa envolve equipes da Defesa Civil, das Secretarias de Serviços Públicos e Obras (Serpo) e de Mobilidade (Semob),…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/%f0%9d%97%a3%f0%9d%97%bf%f0%9d%97%b2%f0%9d%97%b3%f0%9d%97%b2%f0%9d%97%b6%f0%9d%98%81%f0%9d%98%82%f0%9d%97%bf%f0%9d%97%ae-%f0%9d%97%b1%f0%9d%97%b2-%f0%9d%97%a6%f0%9d%97%bc%f0%9d%97%bf%f0%9d%97%bc/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:21",
-"t": "Resultado da Mega-Sena: apostas de Campinas são premiadas e levam bolada",
-"p": "Sorteio do concurso 3.083 da Mega-Sena aconteceu na manhã deste domingo (8); confira o resultado",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/resultado-da-mega-sena-apostas-de-campinas-sao-premiadas-e-levam-bolada/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:06",
-"t": "Defesa Civil e Fundo Social de SP enviam ajuda humanitária a municípios afetados por fortes ventos; veja ocorrências no estado",
-"p": "A Defesa Civil do Estado de São Paulo e o Fundo Social de São Paulo (FUSSP) mobilizaram ajuda humanitária para os municípios de Santa Isabel, Cachoeira Paulista, Queluz e Itápolis, após os danos provocados pelas fortes rajadas de vento registradas no sábado (7). A iniciativa busca garantir assistência às famílias…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Cachoeira Paulista",
-"Santa Isabel",
-"São Paulo",
-"Itápolis"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/defesa-civil-e-fundo-social-de-sp-enviam-ajuda-humanitaria-a-municipios-afetados-por-fortes-ventos-veja-ocorrencias-no-estado/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:06",
-"t": "Defesa Civil de SP confirma morte de pescador após naufrágio de duas embarcações em Lins",
-"p": "A Defesa Civil do Estado de São Paulo confirmou na manhã deste domingo (8) a morte de um pescador de aproximadamente 50 anos que estava desaparecido após o tombamento de duas embarcações no Rio Dourado, na região da Pousada das Garças, em Lins. A ocorrência teve início na noite de sábado (7), por volta das […]",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Lins"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/defesa-civil-de-sp-confirma-morte-de-pescador-apos-naufragio-de-duas-embarcacoes-em-lins/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:06",
-"t": "Pacientes do Instituto do Câncer desfilam nesta segunda-feira (9) para celebrar os laços afetivos fortalecidos durante o tratamento",
-"p": "O Instituto do Câncer do Estado de São Paulo (Icesp), unidade que integra o Hospital das Clínicas da Faculdade de Medicina da USP e está ligada à Secretaria de Estado da Saúde de São Paulo (SES-SP), realizará mais uma edição do seu tradicional Desfile de Pacientes, na segunda-feira, 9 de novembro. A cerimônia, que…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/pacientes-do-instituto-do-cancer-desfilam-nesta-segunda-feira-9-para-celebrar-os-lacos-afetivos-fortalecidos-durante-o-tratamento/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "14:05",
-"t": "Tema da redação do Enem 2026 é ‘A valorização do Sistema Único de Saúde (SUS) como direito universal‘",
-"p": "No Alto Tietê, pelo menos 32.550 estudantes estão inscritos no exame, conforme dados divulgados pelo Inep",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "13:31",
-"t": "Árvores de grande porte caem e bloqueiam avenida em Ilhabela",
-"p": "Duas árvores caíram na avenida Mário Covas Júnior, no bairro São Pedro, no sábado (7); Bombeiros e Defesa Civil atuaram na remoção",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ilhabela"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/arvores-de-grande-porte-caem-e-bloqueiam-avenida-em-ilhabela.html",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "13:30",
-"t": "Kit de emergência para 72 horas viraliza e Defesa Civil esclarece motivo da recomendação às famílias",
-"p": "A Defesa Civil Nacional esclareceu a recomendação para que famílias mantenham um kit de emergência preparado para até 72 horas após uma publicação sobre o assunto viralizar nas redes sociais. O órgão reforçou que a orientação tem caráter preventivo e não significa que exista algum risco iminente. A recomendação foi…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/kit-de-emergencia-para-72-horas-chama-atencao-nas-redes-e-defesa-civil-explica-o-que-motivou-a-recomendacao-as-familias/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "13:29",
-"t": "Pescador que desapareceu após chuva no interior de SP é encontrado morto",
-"p": "Vítima estava em embarcação que tombou contra outra, durante chuva forte em Lins. Cinco pessoas que também estavam nos barcos sobreviveram",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Lins"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/pescador-que-desapareceu-apos-chuva-no-interior-de-sp-e-encontrado-morto",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "13:27",
-"t": "Mogi-Bertioga tem tráfego normal, mas chuva exige atenção neste domingo (8)",
-"p": "Chuva atinge os dois sentidos da rodovia; temperaturas são de 21°C no trecho de Bertioga e 17°C na região de Mogi das Cruzes",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Mogi das Cruzes",
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-trafego-normal-mas-chuva-exige-atencao-neste-domingo-8.html",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "13:26",
-"t": "Entidade distribui abraços para aliviar tensão em local de aplicação do Enem do Grande ABC",
-"p": "Projeto de saúde mental promove ajuda aos participantes do Centro Universitário Fundação Santo André",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367549/entidade-distribui-abracos-para-aliviar-tensao-em-local-de-aplicacao-do-enem-do-grande-abc",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "13:16",
-"t": "Rodovia Oswaldo Cruz tem tráfego intenso na serra no sentido Taubaté neste domingo (8)",
-"p": "Tempo instável em pontos isolados e visibilidade reduzida exigem cuidado dos motoristas na ligação entre o Vale do Paraíba e Ubatuba",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Taubaté",
-"Ubatuba"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/sp-125-oswaldo-cruz/rodovia-oswaldo-cruz-tem-trafego-intenso-na-serra-no-sentido-taubate-neste-domingo-8.html",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "12:55",
-"t": "Jardim Santa Gertrudes recebe mutirão de empregos e serviços gratuitos nesta semana",
-"p": "Foto: cifotart/Canva Ação acontece no sábado (14), na EMEB Luiz Biela de Souza, com oportunidades de trabalho e atendimentos de diferentes órgãos públicos.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santa Gertrudes"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/jardim-santa-gertrudes-recebe-mutirao-de-empregos-e-servicos-gratuitos-nesta-semana/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "12:38",
-"t": "Entrega do Skyline marca novo patamar da verticalização em Marília",
-"p": "Com 91 metros de altura e 28 andares, edifício da Tack passa a ser o mais alto da cidade; Skyline integra obras entregues pela incorporadora.",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/conteudopatrocinado/entrega-do-skyline-marca-novo-patamar-da-verticalizacao-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "12:37",
-"t": "Menina aprende a ler sozinha aos 2 anos, surpreende pais ao reconhecer palavras em inglês e chega ao segundo ano do ensino fundamental aos 4",
-"p": "Enquanto muitas crianças de dois anos ainda estão ampliando o vocabulário e aprendendo a formar frases, Catarina Ritter já surpreendia os pais com uma habilidade inesperada. Sem ter frequentado a escola ou passado por um processo formal de alfabetização, a menina de Redenção, no sudeste do Pará, começou a ler…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/menina-aprende-a-ler-sozinha-aos-2-anos-surpreende-pais-ao-reconhecer-palavras-em-ingles-e-chega-ao-segundo-ano-do-ensino-fundamental-aos-4/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "12:36",
-"t": "Shows são cancelados no Rio e no interior de SP por causa da chuva",
-"p": "Paulo Pinto/Agência Brasil Promovido pela rádio FM O Dia, a Maratona da Alegria foi cancelada por causa da chuva forte e da ventania que atingiram o Rio de Janeiro.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/shows-sao-cancelados-no-rio-e-no-interior-de-sp-por-causa-da-chuva/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "12:13",
-"t": "Animais soltos em Cemitério são recolhidos em Fernandópolis",
-"p": "Dois cavalos foram recolhidos pela empresa prestadora de serviços ao município na manhã deste domingo, dia 8, após serem flagrados no interior do Cemitério da Consolação, em Fernandópolis. A ação ocorreu depois que populares que estavam no local notaram a presença dos animais vagando entre os túmulos. Diante da…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/animais-soltos-em-cemiterio-sao-recolhidos-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "12:00",
-"t": "Rosas laranjas feitas à mão vão simbolizar fim da violência contra mulheres em Santos",
-"p": "Raimundo Rosa/Divulgação Prefeitura de Santos Uma oficina de artesanato reuniu participantes na confecção de rosas laranjas que serão distribuídas durante uma mobilização do Novembro Laranja.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/rosas-laranjas-feitas-a-mao-vao-simbolizar-fim-da-violencia-contra-mulheres-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "12:00",
-"t": "Operação em Bertioga prende suspeitos de tráfico e lavagem de dinheiro",
-"p": "Divulgação/Delegacia Seccional de Santos A Polícia Civil deflagrou a operação, na última sexta-feira (6), cumprindo dois mandados de prisão preventiva.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Bertioga",
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/bertioga-baixada/operacao-em-bertioga-prende-suspeitos-de-trafico-e-lavagem-de-dinheiro/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "11:57",
-"t": "Uma golden retriever tão exausta que tinha dificuldade para se movimentar passou por uma cesárea de emergência e deu à luz 14 filhotes de uma só vez; nove semanas depois, todos os filhotes retornaram vivos e saudáveis à ",
-"p": "Foto: Clinique Vétérinaire Dokhora Cadela passou por uma cesariana de emergência, e o que mais emocionou a profissional não foi o número de nascimentos, mas o estado de saúde dos animais dois meses depois.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/mundo-pet/golden-retriever-14-filhotes-cesarea-emergencia/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "11:55",
-"t": "Inscrições para programa de jovem aprendiz da Prefeitura de Campinas começam amanhã",
-"p": "Programa de jovem aprendiz oferece 148 vagas para jovens de 16 a 18 anos, com salário de R$ 1.621 e benefícios",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/inscricoes-para-programa-de-jovem-aprendiz-da-prefeitura-de-campinas-comecam-amanha/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "11:53",
-"t": "Prazo apertado para planejar 2027 pode favorecer permanência de Dorival",
-"p": "Rubens Chiri / saopaulofc.net Com eleição prevista para dezembro e posse em janeiro, novo presidente terá pouco tempo para definir treinador e diretor de futebol",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/esportes/prazo-apertado-para-planejar-2027-pode-favorecer-permanencia-de-dorival/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "11:52",
-"t": "Saiu o resultado! Confira os números da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte deste domingo (8)",
-"p": "As Loterias da Caixa sortearam na manga deste domingo (8), os prêmios de concursos da Mega Sena, Quina, Lotofácil, Timemania e Dia de Sorte.",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-quina-lotofacil-timemania-e-dia-de-sorte-deste-domingo-8/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "11:45",
-"t": "Mega-Sena sorteia prêmio de R$ 60 milhões neste domingo; confira os números e resultados",
-"p": "A Caixa Econômica Federal sorteou neste domingo (8/11) as seis dezenas do concurso 3083 da Mega-Sena, que poderá pagar um prêmio de R$ 60 milhões para quem acertar todos os números. Confira os números sorteados: 22 – 25 – 29 – 37 – 46 – 54. Como apostar na Mega-Sena A Mega-Sena é a principal […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/mega-sena-sorteia-premio-de-r-60-milhoes-neste-domingo-confira-os-numeros-e-resultados/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "11:24",
-"t": "Danilo da Saúde propõe documento para identificar mães atípicas em Marília",
-"p": "Requerimento prevê identificação para facilitar o acesso a serviços e direitos de responsáveis por pessoas com deficiência e transtornos.",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/danilo-da-saude-propoe-documento-para-identificar-maes-atipicas-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "11:10",
-"t": "Consumo consciente: a responsabilidade pela água começa dentro de casa",
-"p": "Acompanhar o hidrômetro e adotar hábitos simples ajudam a evitar desperdícios e reduzir o consumo de água.",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/colunistas/consumo-consciente-a-responsabilidade-pela-agua-comeca-dentro-de-casa/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:58",
-"t": "Falta de água afeta bairro nesta semana; veja data e região afetada",
-"p": "Intervenção na rede de abastecimento vai exigir a suspensão temporária do fornecimento de água para a execução dos trabalhos",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-agua-afeta-bairro-nesta-semana-veja-data-e-regiao-afetada/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:57",
-"t": "Prefeitura de Mogi das Cruzes entrega revitalização do CEU das Artes da Vila Nova União",
-"p": "Complexo recebeu R$ 469,5 mil em melhorias na na quadra poliesportiva, auditório, playground, Cozinha Comunitária e CRAS",
-"tema": "Assistência social",
-"s": "entregue",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/prefeitura-de-mogi-das-cruzes-entrega-revitalizacao-do-ceu-das-artes-da-vila-nova-uniao/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:54",
-"t": "Câmara vota projeto sobre direitos de pacientes com câncer nesta segunda-feira",
-"p": "Pauta inclui propostas voltadas à inclusão de pessoas com deficiência e à criação de datas no calendário municipal.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/camara-de-marilia-vota-projeto-que-preve-prioridade-a-pacientes-com-cancer-nesta-segunda-feira/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:44",
-"t": "Tempestades provocam destelhamentos, quedas de árvores e alagamentos no Estado",
-"p": "A passagem de uma frente fria acompanhada de temporais causou estragos em dezenas de municípios do Estado de São Paulo entre o sábado (7) e o domingo (8). O monitoramento meteorológico da Defesa Civil estadual resultou no disparo de 92 alertas de emergência via celular para orientar a população sobre o risco de…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/tempestades-provocam-destelhamentos-quedas-de-arvores-e-alagamentos-no-estado/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "10:43",
-"t": "Inscrições de detentos no Enem PPL crescem 9,6% no Estado de São Paulo",
-"p": "A participação de pessoas privadas de liberdade no Exame Nacional do Ensino Médio (Enem PPL) registrou um aumento de 9,64% nas penitenciárias do Estado de São Paulo este ano. Ao todo, a Polícia Penal contabilizou 24.601 inscritos distribuídos por 175 unidades prisionais, superando as 22.439 adesões registradas em…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/inscricoes-de-detentos-no-enem-ppl-crescem-96-no-estado-de-sao-paulo/",
 "auto": true
 }
 ]
