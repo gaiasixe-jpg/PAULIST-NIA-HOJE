@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T01:07:59-03:00",
-"novos_nesta_coleta": 11,
+"atualizado": "2026-11-24T02:16:35-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -55,6 +55,46 @@
 "itens": [
 {
 "d": "2026-11-24",
+"h": "01:18",
+"t": "Motociclista de 49 anos morre após carro atravessar canteiro central na Rodovia Marechal Rondon",
+"p": "Um motociclista de 49 anos morreu na tarde desta segunda-feira (23) depois de ter a moto atingida de frente por um carro que cruzou o canteiro central da Rodovia Marechal Rondon (SP-300), em Birigui. A batida ocorreu por volta das 14h20, na altura do quilômetro 525,4. Segundo o registro da Polícia Rodoviária, a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/motociclista-de-49-anos-morre-apos-carro-atravessar-canteiro-central-na-rodovia-marechal-rondon/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "01:18",
+"t": "Donos de creche são condenados a indenizar família de menino autista após denúncia em mamadeira",
+"p": "A Justiça de São José do Rio Preto condenou dois responsáveis por uma creche irregular a pagar R$ 10 mil de indenização por danos morais à família de um menino de dois anos diagnosticado com Transtorno do Espectro Autista (TEA) nível dois. O caso ganhou repercussão após uma ex-funcionária da unidade esconder um…",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/donos-de-creche-sao-condenados-a-indenizar-familia-de-menino-autista-apos-denuncia-em-mamadeira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "01:18",
+"t": "Tarcísio defende debate no Congresso sobre limites às decisões monocráticas do STF",
+"p": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), defendeu nesta segunda-feira (23) que o novo Congresso Nacional debata restrições às decisões individuais de magistrados e revise as atribuições do Supremo Tribunal Federal (STF). Durante participação no evento Itaú BBA Macro Vision 2026, realizado na…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/tarcisio-defende-debate-no-congresso-sobre-limites-as-decisoes-monocraticas-do-stf/",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "00:49",
 "t": "Semana na região tem alerta de tempestade e queda nas temperaturas",
 "p": "Os moradores de Rio Preto e região devem se preparar para uma semana de instabilidade climática. O Instituto Nacional de Meteorologia (Inmet) emitiu alertas amarelos de tempestade para terça-feira (24) e quarta-feira (25), com previsão de chuvas intensas, rajadas de vento e possibilidade de queda de granizo. Além…",
@@ -93,6 +133,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/donos-de-creche-investigada-por-maus-tratos-apos-bilhete-em-mamadeira-sao-condenados-a-pagar-indenizacao/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:35",
+"t": "Atualização da madrugada: estado de saúde do ex-presidente Jair Bolsonaro após nova complicação durante internação no hospital é estável",
+"p": "Jair Bolsonaro permanece na UTI após diagnóstico de pneumonia, mas apresenta quadro estável, segundo a equipe médica.",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/atualizacao-da-madrugada-estado-de-saude-do-ex-presidente-jair-bolsonaro-apos-nova-complicacao-durante-internacao-no-hospital-e-estavel/",
 "auto": true
 },
 {
@@ -54975,63 +55027,6 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/frente-fria-influencia-o-tempo-em-ribeirao-preto-e-mantem-previsao-de-chuva-nos-proximos-dias/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "07:46",
-"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste domingo (8)",
-"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas segundo informações das concessionárias Ecovias e CNL",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Ribeira"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-domingo-8.html",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "07:28",
-"t": "6º Festival de Aves Costeiras do Litoral Paulista reúne mais de 30 entidades ambientais em Peruíbe",
-"p": "Reconhecida como a primeira Cidade das Aves do Brasil, Peruíbe vai sediar a 6º edição do Festival de Aves Costeiras do Litoral Paulista entre os dias 12 e 15 deste mês. O evento vai acontecer na Praça da Matriz e na Câmara Municipal. Com o tema “Cidade Cidadã, o evento é gratuito e reúne mais […]",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Peruíbe"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/6o-festival-de-aves-costeiras-do-litoral-paulista-reune-mais-de-30-entidades-ambientais-em-peruibe/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "07:00",
-"t": "Estado prevê R$ 260 milhões para construir piscinões no eixo Tamanduateí",
-"p": "Semil diz que obras em Santo André e Mauá estão na fase de licenciamento ambiental e de disponibilização das áreas para as intervenções",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [
-"Santo André",
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367500/estado-preve-rs-260-milhoes-para-construir-piscinoes-no-eixo-tamanduatei",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "06:04",
-"t": "Enem 2026 mobiliza mais de 2,2 mil estudantes em Fernandópolis neste domingo",
-"p": "Mais de 2,2 mil estudantes residentes em Fernandópolis iniciam neste domingo (8) a maratona de provas do Exame Nacional do Ensino Médio (Enem) de 2026. Ao todo, 2.289 candidatos locais foram alocados entre as salas de aplicação da Fundação Educacional de Fernandópolis (FEF) e da Escola Técnica Estadual (Etec) para…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/enem-2026-mobiliza-mais-de-22-mil-estudantes-em-fernandopolis-neste-domingo/",
 "auto": true
 }
 ]
