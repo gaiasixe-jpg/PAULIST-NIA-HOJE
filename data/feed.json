@@ -1,13 +1,15 @@
 {
-"atualizado": "2026-11-24T04:30:25-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-24T06:16:24-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -30,19 +32,11 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -59,6 +53,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "06:01",
+"t": "Prefeitura de Macedônia realiza coleta de sangue em horário estendido para o Novembro Azul",
+"p": "A Prefeitura de Macedônia promoverá no próximo dia 26 de novembro uma ação especial de saúde voltada aos homens com mais de 40 anos, como parte das mobilizações da campanha Novembro Azul, dedicada à prevenção do câncer de próstata e ao cuidado integral com a saúde masculina. O atendimento será realizado na Unidade…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-macedonia-realiza-coleta-de-sangue-em-horario-estendido-para-o-novembro-azul/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "06:00",
+"t": "Governo de SP mobiliza rede de proteção às mulheres e prevê DDM 24h em Votuporanga neste mês",
+"p": "O Governo de São Paulo intensificou as ações da rede estadual de proteção durante a campanha 21 Dias de Ativismo pelo Fim da Violência contra as Mulheres, que segue até 10 de dezembro. Coordenada pela Secretaria de Políticas para a Mulher dentro do movimento SP Por Todas, a mobilização integra diversos órgãos…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-mobiliza-rede-de-protecao-as-mulheres-e-preve-ddm-24h-em-votuporanga-neste-mes/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "01:30",
@@ -55003,34 +55025,6 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/policia-militar-de-sp-abre-inscricoes-de-concurso-com-2-mil-vagas-para-aluno-soldado-nesta-segunda-feira-9/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "08:00",
-"t": "Para onde vão os estudantes de Jundiaí depois do ensino médio? Jovens revelam planos e sonhos",
-"p": "Foto: Arquivo Pessoal Entre faculdade, trabalho e empreendedorismo, quatro jovens contam suas expectativas e preocupações sobre o futuro.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/estudantes-jundiai-apos-ensino-medio-enem-2026/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "07:57",
-"t": "Entidades de Ribeirão Preto protestam contra projeto que permite votações rápidas na Câmara",
-"p": "Texto de vereador retira regra criada em 2020 para impedir votações-relâmpago sobre funcionalismo público; autor defende autonomia do plenário e entidades contestam",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/politica/nevio-archibald/entidades-de-ribeirao-preto-protestam-contra-projeto-que-permite-votacoes-rapidas-na-camara/",
 "auto": true
 }
 ]
