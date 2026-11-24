@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T20:05:28-03:00",
-"novos_nesta_coleta": 28,
+"atualizado": "2026-11-24T20:55:54-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 9 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -46,13 +47,99 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "The read operation timed out | HTTP Error 503: Service Unavailable | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "20:42",
+"t": "Bruna Biancardi aciona Justiça contra Luana Piovani por injúria e pede indenização",
+"p": "A influenciadora digital Bruna Biancardi protocolou uma queixa-crime na Justiça de São Paulo contra a atriz Luana Piovani, acusando-a do crime de injúria e solicitando indenização por danos morais no valor mínimo de R$ 50 mil. Apresentada no dia 16 deste mês, a ação judicial tem como base uma publicação feita pela…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/bruna-biancardi-aciona-justica-contra-luana-piovani-por-injuria-e-pede-indenizacao/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "20:35",
+"t": "Defesa Civil mobiliza Gabinete Especial para monitorar chuvas intensas nesta quarta e quinta-feira",
+"p": "A Defesa Civil do Estado de São Paulo ativa nesta quarta-feira (25) e quinta-feira (26) o Gabinete Especial da Operação El Niño para acompanhar o avanço de sistemas meteorológicos e coordenar ações preventivas e de resposta rápida diante da previsão de temporais. Os boletins apontam chuvas persistentes, de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-mobiliza-gabinete-especial-para-monitorar-chuvas-intensas-nesta-quarta-e-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "20:32",
+"t": "Previsão do tempo aponta continuidade de instabilidades e risco de temporais nesta quarta-feira (25)",
+"p": "O tempo segue instável em grande parte do Estado de São Paulo nesta quarta-feira (25), devido à atuação de sistemas meteorológicos que favorecem a ocorrência de pancadas de chuva de moderada a forte intensidade, períodos de precipitação contínua e temporais. Segundo os órgãos estaduais de monitoramento, o cenário…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/previsao-do-tempo-aponta-continuidade-de-instabilidades-e-risco-de-temporais-nesta-quarta-feira-25/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "20:30",
+"t": "Nova cratera não afeta estrutura do Edifício Solaris, diz relatório do Estado",
+"p": "Divulgação/Prefeitura de São Vicente Mesmo com a abertura de uma nova cratera em frente ao Edifício Solaris, a estrutura do prédio segue os padrões exigidos para o funcionamento.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/nova-cratera-nao-afeta-estrutura-do-edificio-solaris-diz-relatorio-do-estado/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "20:25",
+"t": "El Niño preocupa produtores de leite no sul do Brasil: excesso de chuva pode prejudicar pastagens, alimentação do rebanho e reduzir produtividade",
+"p": "O avanço do El Niño acendeu um alerta para a pecuária leiteira do Rio Grande do Sul. A previsão de chuvas acima da média e temperaturas elevadas pode dificultar o manejo das propriedades e comprometer a produtividade dos rebanhos nos próximos meses. Os possíveis impactos vão desde problemas nas pastagens até…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/el-nino-preocupa-produtores-de-leite-no-sul-do-brasil-excesso-de-chuva-pode-prejudicar-pastagens-alimentacao-do-rebanho-e-reduzir-produtividade/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "20:21",
+"t": "Queda de árvore em escola estadual deixa cinco feridos",
+"p": "A queda de uma árvore atingiu sete pessoas na tarde desta terça-feira (24) dentro da Escola Estadual Professora Maria da Conceição Oliveira Costa, localizada em Itaquera, na zona leste da capital paulista. Do total de atingidos, cinco ficaram feridos — todos conscientes e orientados — e dois escaparam sem lesões.…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/queda-de-arvore-em-escola-estadual-deixa-cinco-feridos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "20:01",
+"t": "Sem ninguém ao volante, carro elétrico passa a madrugada tentando estacionar sozinho e registra 868 manobras sozinho em garagem subterrânea",
+"p": "Um carro elétrico sem motorista passou parte da madrugada avançando e dando ré em uma garagem subterrânea na província de Anhui, no leste da China. Câmeras de segurança registraram o veículo se aproximando da vaga, recuando e voltando a se mover, sempre com o banco do motorista vazio. De acordo com os relatos que…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/automotor/sem-ninguem-ao-volante-carro-eletrico-passa-a-madrugada-tentando-estacionar-e-registra-868-manobras-sozinho/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "20:00",
@@ -54886,98 +54973,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367736/tce-sp-fiscaliza-atendimento-a-mulher-vitima-de-violencia-na-regiao",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:25",
-"t": "Homem que filmou apartamento de FHC é companheiro de amigo da família",
-"p": "Polícia vai investigar imagens publicadas por Wesley Oliveira que mostram o ex-presidente FHC e detalhes do apartamento dele em SP",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/homem-que-filmou-apartamento-de-fhc-e-companheiro-de-amigo-da-familia",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:25",
-"t": "Ribeirão Pires terá audiência sobre Plano Municipal de Educação",
-"p": "Encontro será realizado na terça-feira (17), às 19h, na Câmara Municipal; moradores poderão apresentar sugestões para as políticas educacionais da próxima década",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367730/ribeirao-pires-tera-audiencia-sobre-plano-municipal-de-educacao",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:24",
-"t": "Rodovia Padre Manoel da Nóbrega terá bloqueio de 30 minutos em Mongaguá nesta segunda (9)",
-"p": "Interdição no km 311 começa às 21h para obras em passarela em construção; motoristas serão desviados para vias marginais",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Mongaguá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tera-bloqueio-de-30-minutos-em-mongagua-nesta-segunda-9.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:13",
-"t": "Restaurante em Sousas é multado por transformar área de preservação em estacionamento",
-"p": "Fiscalização identificou intervenção em 397 m² de terreno protegido às margens do Ribeirão das Cabras; segundo a Prefeitura, local foi nivelado e recebeu brita, prejudicando a regeneração da vegetação",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/restaurante-em-sousas-e-multado-por-transformar-area-de-preservacao-em-estacionamento/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:08",
-"t": "62% dos brasileiros consideram erro a ida de Flávio Bolsonaro para os EUA, diz Quaest",
-"p": "Foto: Lula Marques/Agência Brasil Levantamento mostra que a maioria da população associa a viagem a uma tentativa de desviar da Justiça; direita não bolsonarista aparece dividida sobre a atitude",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/quaest-62-por-cento-errou-flavio-bolsonaro-estados-unidos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:59",
-"t": "IPVA 2027 em SP terá desconto de 3% em janeiro e parcelamento em até cinco vezes",
-"p": "Calendário começa em 11 de janeiro e segue o final da placa; proprietários também poderão pagar o imposto à vista em fevereiro, sem desconto",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/ipva-2027-em-sp-tera-desconto-de-3-em-janeiro-e-parcelamento-em-ate-cinco-vezes.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:58",
-"t": "Após derrota, Trump admite que sua política de deportações foi “dura demais”",
-"p": "O presidente dos Estados Unidos, Donald Trump, admitiu que sua política de deportação em massa de imigrantes foi excessivamente rigorosa. A declaração foi feita neste domingo (8), durante entrevista à emissora CBS, poucos dias após a derrota do Partido Republicano nas eleições legislativas de meio de mandato.…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/apos-derrota-trump-admite-que-sua-politica-de-deportacoes-foi-dura-demais/",
 "auto": true
 }
 ]
