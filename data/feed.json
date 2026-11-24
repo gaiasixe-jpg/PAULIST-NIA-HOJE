@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-23T22:19:49-03:00",
-"novos_nesta_coleta": 21,
+"atualizado": "2026-11-23T23:59:24-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -55,6 +55,99 @@
 "itens": [
 {
 "d": "2026-11-23",
+"h": "23:28",
+"t": "Justiça torna ré mulher que causou acidente por ciúme e matou uma pessoa",
+"p": "Em depoimento, a motorista afirmou que a ré ficou com ciúmes de uma interação que ela teve com Letícia Souza Santos, passageira que morreu",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-torna-re-mulher-que-causou-acidente-por-ciume-e-matou-uma-pessoa",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "23:22",
+"t": "Next e Artesp dialogam enquanto obras de implementação do BRT-ABC prosseguem",
+"p": "Empresa quer operar trecho concluído de 10 km de São Bernardo a São Caetano; agência reguladora pediu rompimento do contrato após atrasos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo",
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370395/next-e-artesp-dialogam-enquanto-obras-de-implementacao-do-brt-abc-prosseguem",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "23:09",
+"t": "Vídeo: homem usa martelo e prancha de surfe para resgatar idoso preso em alagamento em Mogi das Cruzes",
+"p": "Idoso ficou preso em um veículo após as chuvas registradas nesta segunda-feira (23)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/video-homem-usa-martelo-e-prancha-de-surfe-para-resgatar-idoso-preso-em-alagamento-em-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "22:59",
+"t": "Morre aos 90 anos padre João Benedito Vellani, referência na assistência religiosa aos policiais militares de São Paulo",
+"p": "A Arquidiocese de São Paulo comunicou o falecimento do padre João Benedito Vellani, ocorrido na sexta-feira, 20 de novembro de 2026, aos 90 anos. Com 64 anos de ministério sacerdotal, ele construiu uma trajetória marcada pela assistência religiosa aos integrantes da Polícia Militar do Estado de São Paulo, pela…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/morre-aos-90-anos-padre-joao-benedito-vellani-referencia-na-assistencia-religiosa-aos-policiais-militares-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "22:44",
+"t": "Sorveteira Gelato Express da Tramontina detecta o ponto do sorvete sozinha, prepara 3 tipos de doce e mantém a sobremesa gelada por até 3 horas",
+"p": "A sorveteira Gelato Express, da linha Tramontina by Breville, aparecia por R$ 3.267 à vista no Pix ou boleto na Via Inox nesta segunda-feira (23). O preço se refere à versão de 220 V. Já o modelo de 127 V estava anunciado por R$ 3.448,50 nas mesmas condições. A máquina prepara gelato, sorvete, sorbet de […]",
+"tema": "Educação",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sorveteira-gelato-express-da-tramontina-detecta-o-ponto-do-sorvete-sozinha/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "22:30",
+"t": "Ranking elege os melhores países para se aposentar em 2026; vizinho do Brasil lidera",
+"p": "O Uruguai lidera um levantamento global sobre os melhores países para se aposentar em 2026, conduzido pela consultoria Global Citizen Solutions, que destaca o mercado sul-americano está entre as principais opções de residência internacional. O estudo analisa programas de imigração e custo de vida nas Américas,…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/ranking-elege-os-melhores-paises-para-se-aposentar-em-2026-vizinho-do-brasil-lidera/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "22:07",
+"t": "Atropelamento em São Bernardo deixa uma mulher ferida",
+"p": "Acidente ocorreu na Avenida Água Funda, no bairro Taboão na noite desta segunda-feira (23)",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370386/atropelamento-em-sao-bernardo-deixa-uma-mulher-ferida",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "22:00",
 "t": "Daniel Vorcaro queria Virginia e Zé Felipe como rostos de banco digital em contrato de R$ 25 milhões",
 "p": "Detido em Brasília por ordem do Supremo Tribunal Federal (STF) após o colapso do Banco Master, o ex-banqueiro Daniel Vorcaro planejou lançar em 2024 um banco digital chamado Webank tendo Virginia Fonseca como principal garota-propaganda. O nome escolhido fazia alusão direta à WePink, empresa de cosméticos da qual a…",
@@ -63,6 +156,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/daniel-vorcaro-queria-virginia-e-ze-felipe-como-rostos-de-banco-digital-em-contrato-de-r-25-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "21:59",
+"t": "Após 31 anos da morte de Mussum, Justiça reconhece novo filho por exame de DNA e disputa por herança estimada em R$ 10 milhões ganha outro capítulo",
+"p": "A fortuna estimada em R$ 10 milhões deixada por Mussum continua despertando interesse mais de três décadas depois da morte do humorista. Conhecido por seu trabalho em “Os Trapalhões”, Antônio Carlos Bernardes Gomes teve o patrimônio envolvido em uma disputa familiar que ganhou novos capítulos após o reconhecimento…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/apos-31-anos-da-morte-de-mussum-justica-reconhece-novo-filho-por-exame-de-dna-e-disputa-por-heranca-estimada-em-r-10-milhoes-ganha-outro-capitulo/",
 "auto": true
 },
 {
@@ -54928,115 +55033,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/pm-da-regiao-recebe-drone-de-alta-tecnologia-com-camera-termica-para-operacoes-e-resgates/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "06:00",
-"t": "Tuim de asa azul é resgatado de telhado de prédio em São Vicente",
-"p": "Divulgação/Prefeitura de São Vicente Um tuim de asa azul (Forpus xanthopterygius) foi resgatado na manhã desta sexta-feira (6), no Centro de São Vicente, pela GCM.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/tuim-de-asa-azul-e-resgatado-de-telhado-de-predio-em-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "06:00",
-"t": "Guarujá abre período para renovação de licenças do comércio ambulante para 2027",
-"p": "Divulgação/Prefeitura de Guarujá A Prefeitura de Guarujá, no litoral de São Paulo, iniciou na última quarta-feira (4) o período de renovação das licenças e alvarás para os profissionais do comércio ambulante que desejam exercer suas atividades em 2027. O prazo segue até o dia 4 de dezembro. A medida contempla todas…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo",
-"Guarujá"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/guaruja-abre-periodo-para-renovacao-de-licencas-do-comercio-ambulante-para-2027/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "05:00",
-"t": "UBS São Judas promove reunião com moradores para discutir organização da unidade",
-"p": "Encontro tem como objetivo esclarecer dúvidas dos usuários e orientar os moradores sobre a organização da UBS.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/ubs-sao-judas-promove-reuniao-com-moradores-para-discutir-organizacao-da-unidade/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "04:53",
-"t": "‘Por Você’; veja o resumo dos capítulos de 09 a 14 de novembro",
-"p": "Depois de despertar do coma, Gabriel recebe alta hospitalar e retoma a investigação contra Junqueira. Com a ajuda de Vanessa, que lhe entrega provas reunidas contra o empresário, o advogado decide denunciá-lo. O delegado Macedo, porém, recomenda que ele consiga evidências mais contundentes antes de formalizar a…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/por-voce-veja-o-resumo-dos-capitulos-de-09-a-14-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "03:35",
-"t": "‘Lá na Minha Terra’: Aluísio usa suborno e cortejos para tentar dominar terras e dobrar Rosenda; veja o resumo de 09 a 14 de novembro",
-"p": "O ator Gustavo Vaz atua na novela da Globo",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/la-na-minha-terra-aluisio-usa-suborno-e-cortejos-para-tentar-dominar-terras-e-dobrar-rosenda-veja-o-resumo-de-09-a-14-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "02:58",
-"t": "Defesa Civil de SP emite mais de 40 alertas de tempestade e mantém gabinete de crise ativo no Estado",
-"p": "A Defesa Civil do Estado de São Paulo emitiu 45 alertas preventivos neste sábado (7) devido ao avanço de tempestades por diversas regiões paulistas. Do total de avisos enviados por SMS e pelo sistema de transmissão emergencial, quatro tiveram como alvo a capital paulista, colocada em estado de atenção para…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/defesa-civil-de-sp-emite-mais-de-40-alertas-de-tempestade-e-mantem-gabinete-de-crise-ativo-no-estado/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "02:28",
-"t": "Amaê Festival é cancelado após fortes ventos danificarem estrutura do evento",
-"p": "O Amaê Festival 2026, realizado neste sábado (7), no Recinto de Exposições de São José do Rio Preto, precisou ser cancelado após o início de sua programação devido às fortes chuvas e rajadas de vento que atingiram a cidade. As condições climáticas extremas provocaram danos severos à estrutura montada para o evento,…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/amae-festival-e-cancelado-apos-fortes-ventos-danificarem-estrutura-do-evento/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "02:28",
-"t": "Temporal provoca 80 ocorrências em Rio Preto e região",
-"p": "O forte temporal que atingiu São José do Rio Preto e cidades da região no início da noite deste sábado (7) provocou uma série de transtornos e mobilizou equipes do Corpo de Bombeiros. Até o momento, foram registradas 80 ocorrências relacionadas às chuvas intensas e às fortes rajadas de vento. De acordo com o 13º […]",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/temporal-provoca-80-ocorrencias-em-rio-preto-e-regiao/",
 "auto": true
 }
 ]

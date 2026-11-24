@@ -3,6 +3,99 @@
 "itens": [
 {
 "d": "2026-11-23",
+"h": "23:28",
+"t": "Justiça torna ré mulher que causou acidente por ciúme e matou uma pessoa",
+"p": "Em depoimento, a motorista afirmou que a ré ficou com ciúmes de uma interação que ela teve com Letícia Souza Santos, passageira que morreu",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-torna-re-mulher-que-causou-acidente-por-ciume-e-matou-uma-pessoa",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "23:22",
+"t": "Next e Artesp dialogam enquanto obras de implementação do BRT-ABC prosseguem",
+"p": "Empresa quer operar trecho concluído de 10 km de São Bernardo a São Caetano; agência reguladora pediu rompimento do contrato após atrasos",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo",
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370395/next-e-artesp-dialogam-enquanto-obras-de-implementacao-do-brt-abc-prosseguem",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "23:09",
+"t": "Vídeo: homem usa martelo e prancha de surfe para resgatar idoso preso em alagamento em Mogi das Cruzes",
+"p": "Idoso ficou preso em um veículo após as chuvas registradas nesta segunda-feira (23)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/video-homem-usa-martelo-e-prancha-de-surfe-para-resgatar-idoso-preso-em-alagamento-em-mogi-das-cruzes/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "22:59",
+"t": "Morre aos 90 anos padre João Benedito Vellani, referência na assistência religiosa aos policiais militares de São Paulo",
+"p": "A Arquidiocese de São Paulo comunicou o falecimento do padre João Benedito Vellani, ocorrido na sexta-feira, 20 de novembro de 2026, aos 90 anos. Com 64 anos de ministério sacerdotal, ele construiu uma trajetória marcada pela assistência religiosa aos integrantes da Polícia Militar do Estado de São Paulo, pela…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/morre-aos-90-anos-padre-joao-benedito-vellani-referencia-na-assistencia-religiosa-aos-policiais-militares-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "22:44",
+"t": "Sorveteira Gelato Express da Tramontina detecta o ponto do sorvete sozinha, prepara 3 tipos de doce e mantém a sobremesa gelada por até 3 horas",
+"p": "A sorveteira Gelato Express, da linha Tramontina by Breville, aparecia por R$ 3.267 à vista no Pix ou boleto na Via Inox nesta segunda-feira (23). O preço se refere à versão de 220 V. Já o modelo de 127 V estava anunciado por R$ 3.448,50 nas mesmas condições. A máquina prepara gelato, sorvete, sorbet de […]",
+"tema": "Educação",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sorveteira-gelato-express-da-tramontina-detecta-o-ponto-do-sorvete-sozinha/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "22:30",
+"t": "Ranking elege os melhores países para se aposentar em 2026; vizinho do Brasil lidera",
+"p": "O Uruguai lidera um levantamento global sobre os melhores países para se aposentar em 2026, conduzido pela consultoria Global Citizen Solutions, que destaca o mercado sul-americano está entre as principais opções de residência internacional. O estudo analisa programas de imigração e custo de vida nas Américas,…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/ranking-elege-os-melhores-paises-para-se-aposentar-em-2026-vizinho-do-brasil-lidera/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "22:07",
+"t": "Atropelamento em São Bernardo deixa uma mulher ferida",
+"p": "Acidente ocorreu na Avenida Água Funda, no bairro Taboão na noite desta segunda-feira (23)",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370386/atropelamento-em-sao-bernardo-deixa-uma-mulher-ferida",
+"auto": true
+},
+{
+"d": "2026-11-23",
 "h": "22:00",
 "t": "Daniel Vorcaro queria Virginia e Zé Felipe como rostos de banco digital em contrato de R$ 25 milhões",
 "p": "Detido em Brasília por ordem do Supremo Tribunal Federal (STF) após o colapso do Banco Master, o ex-banqueiro Daniel Vorcaro planejou lançar em 2024 um banco digital chamado Webank tendo Virginia Fonseca como principal garota-propaganda. O nome escolhido fazia alusão direta à WePink, empresa de cosméticos da qual a…",
@@ -11,6 +104,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/daniel-vorcaro-queria-virginia-e-ze-felipe-como-rostos-de-banco-digital-em-contrato-de-r-25-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-23",
+"h": "21:59",
+"t": "Após 31 anos da morte de Mussum, Justiça reconhece novo filho por exame de DNA e disputa por herança estimada em R$ 10 milhões ganha outro capítulo",
+"p": "A fortuna estimada em R$ 10 milhões deixada por Mussum continua despertando interesse mais de três décadas depois da morte do humorista. Conhecido por seu trabalho em “Os Trapalhões”, Antônio Carlos Bernardes Gomes teve o patrimônio envolvido em uma disputa familiar que ganhou novos capítulos após o reconhecimento…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/apos-31-anos-da-morte-de-mussum-justica-reconhece-novo-filho-por-exame-de-dna-e-disputa-por-heranca-estimada-em-r-10-milhoes-ganha-outro-capitulo/",
 "auto": true
 },
 {
