@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T13:21:07-03:00",
-"novos_nesta_coleta": 29,
+"atualizado": "2026-11-24T14:59:42-03:00",
+"novos_nesta_coleta": 48,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -19,6 +19,7 @@
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
+"Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
@@ -27,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -47,15 +48,515 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Portal Sorocaba.com",
-"erro": "The read operation timed out"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "14:58",
+"t": "Transferência de idosos para Guarulhos acirra cobrança por vagas em Rio Preto",
+"p": "Debate na Câmara abordou transferência de pacientes para Guarulhos e descumprimento de medidas determinadas pela Justiça",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Guarulhos",
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/transferencia-de-idosos-para-guarulhos-acirra-cobranca-por-vagas-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:55",
+"t": "Fotógrafa de Bertioga lança livro sobre 24 teatros históricos de São Paulo",
+"p": "Obra bilíngue reúne registros de Milena Queiroz e textos de Gabriela d'Ávila; lançamento gratuito ocorre neste sábado (28), na capital",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/fotografa-de-bertioga-lanca-livro-sobre-24-teatros-historicos-de-sao-paulo.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:54",
+"t": "Itaberá enfrenta temporal e mais de 70 famílias deixam suas casas",
+"p": "A chuva intensa registrada na tarde desta segunda-feira (23) causou alagamentos em diferentes pontos de Itaberá (SP), atingindo a região central e outros quatro bairros. Mais de 70 famílias tiveram que deixar suas residências. Uma pessoa ficou ferida após ser levada pela força da água. Imagens aéreas registradas…",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Itaberá"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/temporal-itabera/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:53",
+"t": "Clínica investigada por blackface fez post simulando agressão a funcionária",
+"p": "Polícia Civil de Leme, no interior paulista, investiga crime de racismo após postagem com funcionárias brancas com o rosto pintado de preto",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Leme"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/clinica-investigada-por-blackface-fez-post-simulando-agressao-a-funcionaria",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:44",
+"t": "Setur abre inscrições para o City Tour deste fim de semana (28 e 29)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Turismo (Setur), promove, neste sábado (28) e domingo (29), mais uma edição do City Tour, passeio turístico gratuito que convida moradores e visitantes a conhecerem um pouco mais da história, da cultura e dos principais atrativos da cidade. Os interessados já…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/setur-abre-inscricoes-para-o-city-tour-deste-fim-de-semana-28-e-29/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:43",
+"t": "Vai comprar na Black Friday? Procon Móvel estará no Centro de Jundiaí para orientar consumidores",
+"p": "Foto: Prefeitura de Jundiaí Consumidores poderão esclarecer dúvidas sobre seus direitos e receber orientações antes de aproveitar as promoções",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/procon-movel-jundiai-orienta-consumidores-black-friday/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:34",
+"t": "Câmara de Mirassol aprova legalidade do aumento do número de vereadores",
+"p": "Projeto foi incluído de última hora na pauta e recebeu 11 votos favoráveis",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mirassol"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/camara-de-mirassol-aprova-legalidade-do-aumento-do-numero-de-vereadores/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:30",
+"t": "Operação da PM e do Gaeco prende 12 pessoas contra quadrilha de roubo de caminhonetes",
+"p": "A Polícia Militar, em ação conjunta com o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público de São Paulo, prendeu 12 suspeitos na manhã desta terça-feira (24) durante a Operação Caráter Geral. A ofensiva mira desmantelar uma quadrilha especializada em furtos e roubos de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-da-pm-e-do-gaeco-prende-12-pessoas-contra-quadrilha-de-roubo-de-caminhonetes/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:30",
+"t": "Defesa Civil emite 178 alertas após temporais e mantém aviso para novas chuvas nesta terça-feira",
+"p": "A Defesa Civil de São Paulo disparou 178 avisos à população desde sábado (21) em razão das chuvas intensas que atingiram o estado, e alerta que o tempo segue instável nesta terça-feira (24), com previsão de pancadas entre a tarde e o início da noite acompanhadas de raios, rajadas de vento e eventual queda de […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/defesa-civil-emite-178-alertas-apos-temporais-e-mantem-aviso-para-novas-chuvas-nesta-terca-feira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:26",
+"t": "Estado de São Paulo encerra surto de sarampo após 12 semanas sem novos registros",
+"p": "A Secretaria de Estado da Saúde de São Paulo (SES-SP) declarou o encerramento do surto de sarampo no território paulista após completar 12 semanas consecutivas sem novas infecções vinculadas às cadeias de transmissão acompanhadas. Segundo o Centro de Vigilância Epidemiológica “Prof. Alexandre Vranjac” (CVE-SP), o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/estado-de-sao-paulo-encerra-surto-de-sarampo-apos-12-semanas-sem-novos-registros/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:25",
+"t": "Escorpiões invadem casas e preocupam moradores de bairros de Marília",
+"p": "Famílias do Firenze I e Jardim Domingos de Léo relatam aparecimento de animais dentro de casa; Prefeitura afirma que realizou vistorias nos bairros.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/escorpioes-invadem-casas-e-preocupam-moradores-de-bairros-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:25",
+"t": "Extremo norte de Bertioga recebe R$7,65 milhões para retomada das obras em Boraceia",
+"p": "Iniciadas em 2023, as obras na orla marítima estavam suspensas para regularização de trâmites junto ao governo do estado; primeira fase abrange 1,3 quilômetro de extensão",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/extremo-norte-de-bertioga-recebe-r765-milhoes-para-retomada-das-obras-em-boraceia.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:25",
+"t": "Polícia Rodoviária apreende 1,2 tonelada de maconha escondida em caminhão",
+"p": "A Polícia Militar Rodoviária apreendeu mais de 1,2 tonelada de maconha escondida em um caminhão na madrugada de segunda-feira (23), na Rodovia Presidente Castello Branco, em Santana de Parnaíba, na Grande São Paulo. O motorista do veículo, um homem de 32 anos, foi preso em flagrante durante a ação. De acordo com a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santana de Parnaíba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-rodoviaria-apreende-12-tonelada-de-maconha-escondida-em-caminhao/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:24",
+"t": "Guarda Municipal de Jundiaí completa 77 anos com novas tecnologias e formação de novos agentes",
+"p": "Torre instalada no Eloy Chaves - Foto: Prefeitura de Jundiaí Corporação conta com torres de monitoramento em 16 regiões, renovação da frota e previsão de conclusão do curso de formação de novos guardas em janeiro de 2027.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/guarda-municipal-jundiai-77-anos-investimentos-seguranca/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:20",
+"t": "Prefeitura anuncia edição 2026 do evento Aviva Ouroeste para o dia 12 de dezembro",
+"p": "O Governo Municipal de Ouroeste anunciou a realização do Aviva Ouroeste 2026 para o dia 12 de dezembro, em uma programação noturna voltada à música, à fé e à integração da comunidade. Segundo a divulgação oficial da Prefeitura, o evento busca reunir moradores em um momento de celebração e confraternização no…",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-anuncia-edicao-2026-do-evento-aviva-ouroeste-para-o-dia-12-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:19",
+"t": "GCM apreende 730 porções de entorpecentes e detém homem e adolescente em Sorocaba",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba prendeu um homem de 45 anos de idade e apreendeu um adolescente de 16 anos, durante ação de combate ao tráfico de drogas na tarde do último sábado (21), no bairro Júlio de Mesquita Filho, na Zona Oeste da cidade. Na ocasião, 730 porções de entorpecentes foram […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-730-porcoes-de-entorpecentes-e-detem-homem-e-adolescente-em-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:15",
+"t": "Homem é condenado a oito anos de prisão por furtar celular de motoboy após acidente",
+"p": "A Justiça de São José do Rio Preto condenou neste mês de novembro Vítor Alexandre Chimit de Carvalho, de 32 anos, a oito anos de prisão pelo furto do telefone celular de um motoboy de 20 anos logo após um acidente de trânsito ocorrido em maio, na Rua Jales, no bairro Eldorado. Na ocasião, o […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/homem-e-condenado-a-oito-anos-de-prisao-por-furtar-celular-de-motoboy-apos-acidente/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:10",
+"t": "Adolescente de 17 anos é agredido com socos, chutes e taco de madeira",
+"p": "Um adolescente de 17 anos procurou a Polícia Civil na segunda-feira (23) para registrar um boletim de ocorrência por lesão corporal após relatar ter sido agredido por dois homens na manhã de sábado (21), na casa do avô, no distrito de Engenheiro Schmitt, em São José do Rio Preto. Conforme o registro policial, o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/adolescente-de-17-anos-e-agredido-com-socos-chutes-e-taco-de-madeira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:02",
+"t": "Feira de fornecedores para hotéis terá visitação gratuita em Campos do Jordão",
+"p": "Hospitality Expo Campos abre nos dias 29 e 30 de novembro, no Quebra-Noz. Acesso à exposição independe da inscrição nas palestras do Turismo no Luxo.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/hospitality-expo-campos-feira-gratuita-hotelaria-novembro-2026.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:00",
+"t": "Água mineral de marca Pura tem todos os lotes apreendidos pela Anvisa após inspeção identificar irregularidades na fabricação e no envase",
+"p": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou a apreensão de todos os lotes da água mineral natural da marca Pura – Fonte Estrela da Manhã. A decisão também proíbe a comercialização, a distribuição, a propaganda e o uso do produto. A resolução foi publicada nesta terça-feira (24/11) no Diário…",
+"tema": "Água",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/agua-mineral-de-marca-pura-tem-todos-os-lotes-apreendidos-pela-anvisa-apos-inspecao-identificar-irregularidades-na-fabricacao-e-no-envase/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "14:00",
+"t": "GCM de Sorocaba prende homem por descumprimento de medida protetiva em Aparecidinha",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba prendeu um homem de 54 anos de idade, na madrugada desta terça-feira (24), por descumprimento de medida protetiva de urgência. A ocorrência de violência doméstica aconteceu no bairro Aparecidinha, na Zona Leste da cidade. A equipe foi acionada pelo Centro de Controle…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-de-sorocaba-prende-homem-por-descumprimento-de-medida-protetiva-em-aparecidinha/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:56",
+"t": "“O maior mamífero terrestre da América do Sul”: filhote de anta nasce em parque de Buenos Aires e vira esperança para espécie ameaçada",
+"p": "O Ecoparque da Cidade de Buenos Aires anunciou o nascimento de \"Yunga\", uma fêmea de anta americana (fotos e vídeos: Ecoparque / Laura Tobon - Guadalupe Paz) Filhote de anta-brasileira nasceu em 8 de novembro no Ecoparque de Buenos Aires, ganhou o nome de Yunga e integra programa de conservação da espécie na Argentina.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo-pet/o-maior-mamifero-terrestre-da-america-do-sul-filhote-de-anta-nasce-em-parque-de-buenos-aires-e-vira-esperanca-para-especie-ameacada/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:51",
+"t": "MEC autoriza novo curso de Enfermagem na Fundação Santo André com nota máxima",
+"p": "Bacharelado foi autorizado com avaliação máxima pelo Ministério da Educação e terá formação integrada entre teoria e prática, com atividades desde os primeiros semestres",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370484/mec-autoriza-novo-curso-de-enfermagem-na-fundacao-santo-andre-com-nota-maxima-",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:48",
+"t": "Filhote de jaguatirica achado em propriedade rural de Bela Vista (MS) é resgatado pelos Bombeiros e entregue à Polícia Ambiental",
+"p": "Créditos: Divulgação Filhote de jaguatirica encontrado em propriedade rural de Bela Vista (MS) foi resgatado pelos bombeiros e entregue à Polícia Militar Ambiental, que acompanha a ocorrência.",
+"tema": "Segurança",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/filhote-de-jaguatirica-achado-em-propriedade-rural-de-bela-vista-ms-e-resgatado-pelos-bombeiros-e-entregue-a-policia-ambiental/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:46",
+"t": "Despachante é alvo de nova denúncia de estelionato e acumula dezenas de casos",
+"p": "Caso é investigado pela Polícia Civil em Marília Diversas ocorrências semelhantes envolvendo o mesmo autor e estabelecimento já foram registradas em Marília.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/despachante-e-alvo-de-nova-denuncia-de-estelionato-e-acumula-dezenas-de-casos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:34",
+"t": "Black Friday abre programação de fim de ano com atrações no comércio de Marília",
+"p": "Rua São Luiz recebeu grande movimentação Calendário divulgado pela Acim prevê desfile natalino, caravana da Coca-Cola e atividades gratuitas.",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/black-friday-abre-programacao-de-fim-de-ano-com-atracoes-no-comercio-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:32",
+"t": "Prefeitura vai alugar 68 ônibus após novas falhas e quebra de veículo articulado",
+"p": "Medida prevê substituir 63 ônibus que ultrapassaram o limite de idade contratual e acrescentar outros cinco à frota; na operação da Itajaí, 11 articulados serão trocados por 16 convencionais em Campinas",
+"tema": "Transporte",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/prefeitura-vai-alugar-68-onibus-apos-novas-falhas-com-quebra-de-veiculo-articulado/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:30",
+"t": "Diários inéditos revelam que papa Francisco dizia ter visto o diabo e enfrentou uma crise espiritual ligada ao poder no Vaticano em seus últimos anos",
+"p": "Anotações pessoais do papa Francisco, publicadas em livro nesta terça-feira (24/11), revelam detalhes de uma crise espiritual enfrentada pelo pontífice entre 2021 e 2022. Nos registros, ele relatou experiências que interpretava como encontros com o diabo e descreveu o medo de ser seduzido pelo poder. A obra também…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/diarios-ineditos-revelam-que-papa-francisco-dizia-ter-visto-o-diabo-e-enfrentou-uma-crise-espiritual-ligada-ao-poder-no-vaticano-em-seus-ultimos-anos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:30",
+"t": "Transmissão de casos importados de sarampo é encerrada em São Paulo",
+"p": "Ministério da Saúde afirma que vacinação foi principal estratégia",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370479/transmissao-de-casos-importados-de-sarampo-e-encerrada-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:30",
+"t": "Bertioga inicia maior obra de saneamento básico da história no extremo norte",
+"p": "Ordem de serviço foi assinada em Boraceia; projeto prevê melhorias no abastecimento de água, coleta e tratamento de esgoto",
+"tema": "Transporte",
+"s": "obra",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-inicia-maior-obra-de-saneamento-basico-da-historia-no-extremo-norte.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:28",
+"t": "Jovem é reanimado após duas paradas cardíacas em acidente de trânsito em Rio Preto",
+"p": "David Wesley Alexandre, de 20 anos, foi socorrido em estado gravíssimo e permanece sob cuidados médicos no Hospital de Base; caso será investigado. Um grave acidente registrado na tarde desta segunda-feira (23.nov) deixou o motociclista David Wesley Alexandre, de 20 anos, em estado gravíssimo em São José do Rio…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/jovem-e-reanimado-apos-duas-paradas-cardiacas-em-acidente-de-transito-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:28",
+"t": "Prefeitura de Ouroeste alerta produtores sobre prazo até 30 de novembro para atualizar rebanhos",
+"p": "Produtores rurais de Ouroeste têm até o dia 30 de novembro para fazer a declaração obrigatória da Campanha de Atualização dos Rebanhos referente ao segundo semestre de 2026. O período de atualização começou em 1º de novembro e abrange todas as espécies de animais. De acordo com o alerta divulgado pelo Governo…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-ouroeste-alerta-produtores-sobre-prazo-ate-30-de-novembro-para-atualizar-rebanhos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:28",
+"t": "Projeto em Macedônia reúne 362 kg de recicláveis para o Hospital do Amor e premia turma com cinema",
+"p": "A pesagem oficial do projeto Ações que Curam, realizada na segunda-feira (23) no CEMEI em Macedônia, marcou o encerramento da arrecadação feita ao longo do ano com a participação de alunos, famílias e profissionais da unidade escolar. Ao todo, foram somados 362 kg de materiais recicláveis, incluindo tampinhas…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/projeto-em-macedonia-reune-362-kg-de-reciclaveis-para-o-hospital-do-amor-e-premia-turma-com-cinema/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:28",
+"t": "Judô de Jales reúne 187 crianças e adolescentes em festival",
+"p": "O mês de novembro movimentou o judô em Jales com dois eventos locais organizados pela Associação de Judô Jalesense e a participação da equipe em um torneio em São José do Rio Preto, com apoio da Prefeitura de Jales, por meio da Secretaria Municipal de Esportes e Lazer. A agenda começou em 7 de novembro […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/judo-de-jales-reune-187-criancas-e-adolescentes-em-festival/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:28",
+"t": "Prefeitura de Fernandópolis convida população para participar da produção do Presépio Vivo",
+"p": "Com os preparativos para o Fernatal em andamento, o Coletivo Ciatria, encarregado de montar o Presépio Vivo, abriu convite aos moradores para participarem da produção da encenação natalina deste ano, que traz o tema “Uma Luz na Manjedoura”. A reunião preparatória está marcada para esta quarta-feira (25), às 19h, no…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-fernandopolis-convida-populacao-para-participar-da-producao-do-presepio-vivo/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:26",
+"t": "Mais de 170 famílias em Votuporanga precisam atualizar desconto na conta de luz",
+"p": "Beneficiários devem verificar a situação do Cadastro Único junto ao CRAS para garantir a continuidade do desconto na conta de energia. Mais de 170 famílias em Votuporanga podem perder o benefício da Tarifa Social de Energia Elétrica (TSEE), que garante desconto e até a isenção do pagamento da conta de luz, por…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mais-de-170-familias-em-votuporanga-precisam-atualizar-desconto-na-conta-de-luz/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "13:20",
@@ -83,6 +584,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/falece-aluska-cristina-silva-souto-colaboradora-do-nucleo-de-atencao-a-saude-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:16",
+"t": "Projeto em Jundiaí prepara futuros pais para a chegada do bebê com visita à maternidade",
+"p": "Foto: Divulgação/Hospital Universitário Iniciativa “Papai Tá Aqui” promove encontro no Hospital Universitário no dia 28 de novembro, com orientações sobre o parto e a participação dos pais nos primeiros momentos de vida da criança",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/projeto-papai-ta-aqui-jundiai-prepara-futuros-pais/",
 "auto": true
 },
 {
@@ -121,6 +636,20 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/iate-de-luciano-huck-e-apreendido-pela-pf-entenda-o-caso-e-por-que-apresentador-virou-assunto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:03",
+"t": "Cidade de São Paulo encerra transmissão de casos importados de sarampo",
+"p": "Após três meses sem novos episódios de sarampo na cidade de São Paulo, a transmissão de casos importados da doença foi considerada encerrada em 2026. A confirmação foi feita pelas gestões federal, estadual e municipal, nesta segunda-feira (23). Segundo o Ministério da Saúde, o resultado reflete a atuação coordenada…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/cidade-de-sao-paulo-encerra-transmissao-de-casos-importados-de-sarampo",
 "auto": true
 },
 {
@@ -165,6 +694,34 @@
 },
 {
 "d": "2026-11-24",
+"h": "13:00",
+"t": "Carro a serviço de deputado bate em moto e deixa jovem em estado grave",
+"p": "Um motociclista de 20 anos ficou gravemente ferido após uma colisão com um carro na tarde de segunda-feira (23/11), na avenida Doutor Ernani Pires Domingues, na zona norte de Rio Preto. O jovem foi socorrido inconsciente pelo Serviço de Atendimento Móvel de Urgência (Samu) e encaminhado ao Hospital de Base. Segundo…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/carro-a-servico-de-deputado-bate-em-moto-e-deixa-jovem-em-estado-grave/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:00",
+"t": "Jovem é ameaçado após programa sexual não realizado em Rio Preto",
+"p": "Um operador de 26 anos registrou um boletim de ocorrência por ameaça após receber mensagens pelo WhatsApp de uma pessoa desconhecida que exigia o pagamento de uma quantia em dinheiro. O caso foi comunicado à Polícia Civil na tarde de segunda-feira (23/11), em Rio Preto. Segundo o relato da vítima, o autor das…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/jovem-e-ameacado-apos-programa-sexual-nao-realizado-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "12:59",
 "t": "Auxiliar de serviços gerais é rendido com ‘gravata’ e roubado em Marília",
 "p": "Crime foi praticado por dois homens desconhecidos, que imobilizaram a vítima e fugiram levando dinheiro e documento.",
@@ -175,6 +732,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/policia/auxiliar-de-servicos-gerais-e-rendido-com-gravata-e-roubado-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:59",
+"t": "Adolescente é agredido com socos, chutes e taco de madeira em Rio Preto",
+"p": "Um adolescente de 17 anos registrou um boletim de ocorrência por lesão corporal após relatar ter sido agredido por dois homens na manhã do último sábado (21/11), na casa do avô, no distrito de Engenheiro Schmitt, em Rio Preto. O caso foi comunicado à Polícia Civil na segunda-feira (23). Segundo o registro policial,…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/adolescente-e-agredido-com-socos-chutes-e-taco-de-madeira-em-rio-preto/",
 "auto": true
 },
 {
@@ -54430,610 +55001,6 @@
 ],
 "src": "Portal Regional (Dracena)",
 "u": "https://portalregional.net.br/2026/11/temporal-deixa-um-morto-e-causa-estragos-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "08:11",
-"t": "Mulher de 52 anos condenada por estupro de vulnerável é presa em Caiabu",
-"p": "Uma mulher de 52 anos foi presa na noite de sexta-feira (6), em Caiabu (SP), após ter a prisão definitiva decretada pela Justiça pelo crime de estupro de vulnerável. Segundo a Polícia Civil, a equipe da Polícia Militar localizou a condenada em um imóvel da cidade após receber a ordem judicial de prisão emitida pela […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Caiabu"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/mulher-de-52-anos-condenada-por-estupro-de-vulneravel-e-presa-em-caiabu/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "08:10",
-"t": "Dengue mais de 3,5 mil adultos precisam tomar 2ª dose para fechar esquema vacinal em Prudente",
-"p": "Mais de 3,5 mil moradores de Presidente Prudente (SP) que receberam a primeira dose da vacina contra a dengue ainda precisam completar o esquema vacinal. A segunda aplicação está disponível para adultos imunizados em julho e agosto com doses de um lote que estava próximo do vencimento. Segundo balanço da Secretaria…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/dengue-mais-de-35-mil-adultos-precisam-tomar-2a-dose-para-fechar-esquema-vacinal-em-prudente/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "08:02",
-"t": "Belutti deixou local de acidente com Porsche antes de chegada dos bombeiros",
-"p": "Cantor sertanejo da dupla Marcos & Belutti foi levado ao hospital por testemunha do acidente. Ele foi liberado após atendimento médico",
-"tema": "Saúde",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/belutti-deixou-local-de-acidente-com-porsche-antes-de-chegada-dos-bombeiros",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "08:00",
-"t": "Câmera com inteligência artificial aumenta em 28 vezes média de multas na Rodovia Dom Pedro I",
-"p": "Equipamento registrou 3,1 mil infrações em cinco meses, contra 281 em todo o ano passado no mesmo ponto; uso irregular da faixa da esquerda por caminhões e falta do cinto de segurança lideram as autuações",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/camera-com-inteligencia-artificial-aumenta-em-28-vezes-media-de-multas-na-rodovia-dom-pedro-i/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "07:51",
-"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta segunda (9)",
-"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campos do Jordão",
-"Taubaté"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-segunda-9.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "07:49",
-"t": "Jacaré de espécie que chega a quase 3,5 metros e faz inveja aos dinossauros aparece sobre colchão em ciclovia, surpreende moradores e ‘trava’ trânsito no litoral de SP",
-"p": "Uma cena que parece ter saído de um desenho animado surpreendeu moradores e pessoas que passavam pelo bairro de Morrinhos, em Guarujá. Um jacaré foi encontrado sobre um colchão na ciclovia da Avenida Vereador Lydio Martins. O susto foi tão grande que a situação chegou a interromper o trânsito por alguns minutos e…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/jacare-de-especie-que-chega-a-quase-35-metros-e-faz-inveja-aos-dinossauros-aparece-sobre-colchao-em-ciclovia-surpreende-moradores-e-trava-transito-no-litoral-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "07:32",
-"t": "Governo de SP divulga calendário do IPVA 2027; veja as datas de vencimento",
-"p": "Vencimento do IPVA é de acordo com o final de cada placa; calendário foi publicado nesta segunda-feira (9/11) no Diário Oficial",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/governo-de-sp-divulga-calendario-do-ipva-2027-veja-as-datas-de-vencimento",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "07:30",
-"t": "Frio marca início da semana em Jundiaí, mas temperaturas voltam a subir; veja a previsão",
-"p": "Foto: Prefeitura de Jundiaí Com mínima de 14°C e céu carregado de nuvens, segunda-feira terá tempo firme. Temperaturas sobem nos próximos dias, mas a chuva também deve retornar.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-9-novembro-2026/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "07:25",
-"t": "Novo terminal de ônibus de São Vicente oferece viagens para 13 cidades paulistas e destinos interestaduais no Centro; veja quais",
-"p": "A Prefeitura de São Vicente inaugurou a nova rodoviária do município no último domingo (8), na Praça Bernardino de Campos, no Centro. O equipamento opera linhas intermunicipais e interestaduais para diversos destinos do Estado de São Paulo e outras regiões do país. Para orientar os passageiros, a administração…",
-"tema": "Transporte",
-"s": "entregue",
-"c": [
-"São Vicente"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/novo-terminal-de-onibus-de-sao-vicente-oferece-viagens-para-13-cidades-paulistas-e-destinos-interestaduais-no-centro-veja-quais/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "07:03",
-"t": "Fazenda de rosas se preparou para chuvas históricas, mas agora tem 40% de flores sobrando por dia; após 72 horas, elas vão para o lixo",
-"p": "Uma das maiores fazendas de rosas do Quênia passou semanas se preparando para enfrentar chuvas intensas provocadas pelo El Niño. Estufas foram reforçadas, sistemas de drenagem receberam melhorias e equipamentos de emergência foram comprados. Mas, quando o período de instabilidade se aproximou, os produtores…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/fazenda-de-rosas-se-preparou-para-chuvas-historicas-mas-agora-tem-40-de-flores-sobrando-por-dia-apos-72-horas-elas-vao-para-o-lixo/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "07:00",
-"t": "MP instaura Inquérito Civil para apurar suspeita de fraude em licitações em Meridiano",
-"p": "A 5ª Promotoria de Justiça de Fernandópolis converteu um procedimento preparatório em Inquérito Civil para apurar possíveis irregularidades e favorecimento em processos licitatórios no Município de Meridiano. As investigações têm como alvos o servidor público Augusto Caetano de Souza e a empresa ADP Engenharia &…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis",
-"Meridiano"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/mp-instaura-inquerito-civil-para-apurar-suspeita-de-fraude-em-licitacoes-em-meridiano/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:50",
-"t": "Dez municípios da Região Noroeste recebem novos investimentos do Estado para obras de prevenção a desastres",
-"p": "Macedônia e Pedranópolis estão entre os dez municípios do Noroeste Paulista contemplados por novos convênios estaduais; pacote de R$ 16,8 milhões prevê obras de pontes, drenagem e contenção de áreas de risco em todo o Estado",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [
-"Pedranópolis",
-"Macedônia"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/dez-municipios-do-noroeste-paulista-recebem-novos-investimentos-do-estado-para-obras-de-prevencao-a-desastres/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:49",
-"t": "Motoristas enfrentam quilômetros de congestionamento na Anchieta e Imigrantes na manhã desta segunda-feira",
-"p": "Na manhã desta segunda-feira (9), os motoristas encontram pontos de congestionamento nas rodovias Anchieta e Imigrantes, no sentido da Capital. As lentidões ocorrem devido ao excesso de veículos, conforme informações da Ecovias Imigrantes. Na Rodovia Anchieta (SP-150), há dois trechos congestionados. O primeiro…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/motoristas-enfrentam-quilometros-de-congestionamento-na-anchieta-e-imigrantes-na-manha-desta-segunda-feira/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:20",
-"t": "Resultado do Dia de Sorte 1342: prêmio acumula para R$ 3,7 milhões; confira as dezenas",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso deste domingo (08/11/2026) teve Janeiro como Mês da Sorte e 88 apostas premiadas na faixa de seis acertos.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-dia-de-sorte-concurso-1342/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:20",
-"t": "Resultado da Mega-Sena 3083: aposta de Goiânia ganha R$ 59,5 milhões; veja as seis dezenas",
-"p": "Foto: Depositphotos Concurso realizado neste domingo (08/11/2026) premiou uma aposta simples de Goiânia (GO); outras 61 acertaram a quina.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-mega-sena-concurso-3083/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:02",
-"t": "Santa Casa de Fernandópolis mantém atendimento de urgência e emergência 24 horas por dia",
-"p": "O Pronto Atendimento da Santa Casa de Fernandópolis opera em regime contínuo de 24 horas diárias, incluindo finais de semana e feriados, para assegurar a assistência médica de prontidão aos moradores do município e da região. O serviço estrutura-se para garantir suporte imediato à população em momentos de…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-mantem-atendimento-de-urgencia-e-emergencia-24-horas-por-dia/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:01",
-"t": "Guarani d’Oeste apresenta projetos pedagógicos de destaque em seminário de educação em Araçatuba",
-"p": "O município de Guarani d’Oeste teve sua rede municipal de ensino representada no 3º Seminário de Boas Práticas do programa Alfabetiza Juntos SP, realizado na última quinta-feira (5), no Polo 7 em Araçatuba. Durante o encontro pedagógico, a equipe da Escola Municipal de Ensino Fundamental Professora Alzira do Carmo…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Guarani d'Oeste",
-"Araçatuba"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/guarani-doeste-apresenta-projetos-pedagogicos-de-destaque-em-seminario-de-educacao-em-aracatuba/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:01",
-"t": "Saúde de Guarani d’Oeste alcança 2º lugar no Estado de São Paulo e 11º no ranking nacional",
-"p": "A área da saúde de Guarani d’Oeste obteve uma marca expressiva ao ser contemplada no Troféu de Boas Práticas, referente ao segundo quadrimestre de 2026. O município alcançou a 11ª colocação no ranking nacional de desempenho e conquistou a 2ª posição no Estado de São Paulo, destacando a eficiência dos serviços…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Guarani d'Oeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/saude-de-guarani-doeste-alcanca-2o-lugar-no-estado-de-sao-paulo-e-11o-no-ranking-nacional/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Polícia Militar abre inscrições nesta segunda para concurso com 2 mil vagas de aluno-soldado",
-"p": "A Polícia Militar do Estado de São Paulo abre, a partir das 10h desta segunda-feira (9), o período de inscrições para o concurso público que visa ao preenchimento de 2 mil vagas no cargo de aluno-soldado. O certame é voltado a candidatos de ambos os sexos e oferece remuneração inicial de R$ 5.482,51. Os…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-militar-abre-inscricoes-nesta-segunda-para-concurso-com-2-mil-vagas-de-aluno-soldado/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Campinas: Declara de utilidade pública e autoriza a desapropriação de imóveis destinados à instalação do Centro de Distribuição da Rede Municipal Dr",
-"p": "Decreto nº 24.721, publicado no Diário Oficial do município em 09/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Campinas"
-],
-"src": "Diário Oficial de Campinas",
-"u": "https://data.queridodiario.ok.org.br/3509502/2026-11-09/6051c2c6cb8706f7225c18b604a7b6d5530f1438.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 24.721",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Monte Mor: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 09/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Monte Mor"
-],
-"src": "Diário Oficial de Monte Mor",
-"u": "https://data.queridodiario.ok.org.br/3531803/2026-11-09/f485b2b2ace4defeb450fa59fe620df87b284739.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 09/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Alto Alegre: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 09/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Alto Alegre"
-],
-"src": "Diário Oficial de Alto Alegre",
-"u": "https://data.queridodiario.ok.org.br/3501103/2026-11-09/09d3bf7532a7924175c081f221099bb35cba4f9a.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 09/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Botucatu: Regulamenta o processo de Atribuição de Classes para professores de Educação Infantil e Ensino Fundamental Anos Iniciais (1º ao 5º ano) da Rede Municipal de Ensino",
-"p": "Decreto nº 14.030, publicado no Diário Oficial do município em 09/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Botucatu"
-],
-"src": "Diário Oficial de Botucatu",
-"u": "https://data.queridodiario.ok.org.br/3507506/2026-11-09/5d394bff5028a14d8fb4b213354601e83036487f.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 14.030",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Itápolis: Dispõe sobre a denominação da Unidade Básica de Saúde localizada no Residencial Garieri Renesto, em homenagem à memória de Regina Célia Fanti Garcia Próspero",
-"p": "Decreto nº 6.767, publicado no Diário Oficial do município em 09/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Itápolis"
-],
-"src": "Diário Oficial de Itápolis",
-"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-09/dc963db592c6fa1c43af2c306268e6c240364359.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 6.767",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Itápolis: Declara Luto Oficial por três dias em razão do falecimento do Sr",
-"p": "Decreto nº 6.768, publicado no Diário Oficial do município em 09/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Itápolis"
-],
-"src": "Diário Oficial de Itápolis",
-"u": "https://data.queridodiario.ok.org.br/3522703/2026-11-09/dc963db592c6fa1c43af2c306268e6c240364359.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 6.768",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Itobi: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 09/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Itobi"
-],
-"src": "Diário Oficial de Itobi",
-"u": "https://data.queridodiario.ok.org.br/3523800/2026-11-09/83d9942fffee8da21db013fe335b8b1e6daa80ee.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 09/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Penápolis: Dispõe sobre a nomeação dos membros do Conselho Municipal de Turismo – COMTUR, para o biênio 2026/2028, e dá outras providências",
-"p": "Decreto nº 8753, publicado no Diário Oficial do município em 09/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Penápolis"
-],
-"src": "Diário Oficial de Penápolis",
-"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-09/aac1279e271ed6258ee5cb0448c0c518d874122d.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 8753",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Rio Claro: prefeitura abre créditos suplementares no orçamento",
-"p": "O Diário Oficial do município de 09/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
-"tema": "Contas públicas",
-"s": "decreto",
-"c": [
-"Rio Claro"
-],
-"src": "Diário Oficial de Rio Claro",
-"u": "https://data.queridodiario.ok.org.br/3543907/2026-11-09/cf54737195ad4f78b35a10f928b46def4e712795.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Créditos 09/11",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "06:00",
-"t": "Taubaté: Dispõe sobre a instituição da Banca de Seleção do Programa de Incubação de Startups do HITT – Hub de Inovação Tecnológica de Taubaté, e dá providências correlatas",
-"p": "Decreto nº 16.519, publicado no Diário Oficial do município em 09/11/2026.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"Taubaté"
-],
-"src": "Diário Oficial de Taubaté",
-"u": "https://data.queridodiario.ok.org.br/3554102/2026-11-09/9d37a88d51dce4259e7e8fa525bada5e7c4e5559.pdf",
-"auto": true,
-"org": "Prefeitura",
-"num": "Nº 16.519",
-"qd": true,
-"mun": true
-},
-{
-"d": "2026-11-09",
-"h": "05:05",
-"t": "Obituário | Falecimentos registrados nesta segunda-feira em Marília e região",
-"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta segunda-feira, dia 9 de novembro.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-segunda-feira-em-marilia-e-regiao-8/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "05:00",
-"t": "Confira as ofertas de emprego no PAT Marília nesta segunda-feira (9/11)",
-"p": "Oportunidades somam 95 vagas em 17 funções, com opções para diferentes níveis de escolaridade e pessoas com deficiência.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-segunda-feira-9-11/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "05:00",
-"t": "Festejos de Iemanjá de Praia Grande têm inscrições reabertas até terça",
-"p": "Fred Casagrande/Arquivo Prefeitura de Praia Grande Devotos, templos, terreiros, tendas e demais entidades podem fazer o cadastro pelo portal oficial dos Festejos de Iemanjá.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/festejos-de-iemanja-de-praia-grande-inscricoes-reabertas-ate-terca/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "04:00",
-"t": "Resumo de ‘Quem Ama Cuida’ desta segunda-feira: após a separação de Tom, Pilar se aproxima para usá-lo em seus planos",
-"p": "A novela ‘Quem Ama Cuida’ desta segunda-feira (09/11) terá Adriana (Letícia Colin) prometendo pensar no pedido de Ulisses (Alexandre Borges) de não fazer a denúncia dele à polícia. Pedro (Chay Suede) não revela a Ademir (Dan Stulbach) que sabe quem foi o autor do atentado que sofreu. Adriana abriga Elenice (Mariana…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-quem-ama-cuida-desta-segunda-feira-apos-a-separacao-de-tom-pilar-se-aproxima-para-usa-lo-em-seus-planos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "03:06",
-"t": "Defesa Civil e Fundo Social enviam ajuda humanitária a municípios atingidos por vendavais no interior de SP",
-"p": "A Defesa Civil do Estado de São Paulo e o Fundo Social de São Paulo (FUSSP) estruturaram uma força-tarefa de ajuda humanitária para atender municípios paulistas impactados pelos fortes vendavais e temporais registrados no último sábado (7). As ações contemplam a distribuição emergencial de cestas básicas, kits de…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/defesa-civil-e-fundo-social-enviam-ajuda-humanitaria-a-municipios-atingidos-por-vendavais-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "03:06",
-"t": "Investigado por lavar dinheiro do tráfico é preso em shopping de luxo",
-"p": "Um homem de 45 anos, conhecido pelo apelido de “Rei da Sucata”, foi preso na noite do último sábado (7) dentro de um estabelecimento comercial no Shopping Cidade Jardim, localizado na zona oeste de São Paulo. O investigado é apontado pela Polícia Civil como peça-chave em um esquema de lavagem de capitais a serviço…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/investigado-por-lavar-dinheiro-do-trafico-e-preso-em-shopping-de-luxo/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "03:06",
-"t": "Carro na contramão colide de frente com ônibus escolar na BR-153",
-"p": "Um carro de passeio invadiu a pista contrária e colidiu frontalmente com um ônibus que transportava alunos e professores de São José do Rio Preto (SP), na madrugada deste domingo (8), no trecho da Rodovia Transbrasiliana (BR-153) pertencente ao município de José Bonifácio (SP). De acordo com a Secretaria Municipal…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"José Bonifácio"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/carro-na-contramao-colide-de-frente-com-onibus-escolar-na-br-153/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "03:06",
-"t": "Quatro jovens morrem em colisão frontal entre carro e caminhão na Rodovia Elyeser Montenegro Magalhães",
-"p": "Quatro moradores de Santo Antônio do Aracanguá morreram na madrugada deste domingo (8) após o carro em que estavam colidir de frente com um caminhão na Rodovia Elyeser Montenegro Magalhães (SP-463), no trecho entre o município e o distrito de Lourdes. As vítimas foram identificadas como Marcelo da Silva Amaral, de…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Santo Antônio do Aracanguá",
-"Lourdes"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/quatro-jovens-morrem-em-colisao-frontal-entre-carro-e-caminhao-na-rodovia-elyeser-montenegro-magalhaes/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "02:00",
-"t": "\"E aí criminalidade\": olheiros digitais usavam WhatsApp para atuar pelo PCC",
-"p": "\"Olheiros digitais\" monitoravam ininterruptamente movimentação da polícia e trocavam informações por meio de grupo de WhatsApp",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/e-ai-criminalidade-olheiros-digitais-usavam-whatsapp-para-atuar-pelo-pcc",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "01:30",
-"t": "‘Roque Santeiro’: Lulu busca ajuda de Padre Albano para se libertar de Zé das Medalhas; veja resumo de segunda (09)",
-"p": "No capítulo desta segunda-feira (09), em ‘Roque Santeiro’, a rotina sufocante dentro de casa atinge o limite do desespero e acende o alerta no povoado. Submetida ao controle rígido e ao isolamento impostos pelo negociante, a dona de casa enfrenta um forte sofrimento psicológico no lar, pois Lulu vive momentos de…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-lulu-busca-ajuda-de-padre-albano-para-se-libertar-de-ze-das-medalhas-veja-resumo-de-segunda-09/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "00:00",
-"t": "Feira Meu Primeiro Emprego soma 306 jovens atendidos",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67719",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "00:00",
-"t": "Programa de saúde bucal de Prudente é retratado em websérie da Rede ColaboraAPS",
-"p": "",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67721",
 "auto": true
 }
 ]
