@@ -2,6 +2,48 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-24",
+"h": "00:49",
+"t": "Semana na região tem alerta de tempestade e queda nas temperaturas",
+"p": "Os moradores de Rio Preto e região devem se preparar para uma semana de instabilidade climática. O Instituto Nacional de Meteorologia (Inmet) emitiu alertas amarelos de tempestade para terça-feira (24) e quarta-feira (25), com previsão de chuvas intensas, rajadas de vento e possibilidade de queda de granizo. Além…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/semana-na-regiao-tem-alerta-de-tempestade-e-queda-nas-temperaturas/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:43",
+"t": "Motociclista morre após carro cruzar canteiro central e atingir moto na SP-300",
+"p": "Motocicleta foi atingida por carro que atravessou o canteiro central, matando o piloto, na tarde desta segunda (23), na Rodovia Marechal Rondon, em Birigui (SP) Lucas Fonseca/TV TEM Um motociclista morreu após um carro cruzar o canteiro central da Rodovia Marechal Rondon (SP-300) e atingir a moto de frente, na…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/motociclista-morre-apos-carro-cruzar-canteiro-central-e-atingir-moto-na-sp-300/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:43",
+"t": "Donos de creche investigada por maus-tratos após bilhete em mamadeira são condenados a pagar indenização",
+"p": "Criança é deixada sozinha em sala vazia e sem refrigeração em Rio Preto A Justiça de São José do Rio Preto (SP) condenou dois donos da creche investigados por maus-tratos a crianças, a pagar R$ 10 mil de indenização por danos morais à família do menino, de dois anos, diagnosticado com Transtorno do Espectro Autista […]",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/donos-de-creche-investigada-por-maus-tratos-apos-bilhete-em-mamadeira-sao-condenados-a-pagar-indenizacao/",
+"auto": true
+},
+{
 "d": "2026-11-23",
 "h": "23:28",
 "t": "Justiça torna ré mulher que causou acidente por ciúme e matou uma pessoa",

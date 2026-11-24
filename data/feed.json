@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-23T23:59:24-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-24T01:07:59-03:00",
+"novos_nesta_coleta": 11,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -53,6 +53,48 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "00:49",
+"t": "Semana na região tem alerta de tempestade e queda nas temperaturas",
+"p": "Os moradores de Rio Preto e região devem se preparar para uma semana de instabilidade climática. O Instituto Nacional de Meteorologia (Inmet) emitiu alertas amarelos de tempestade para terça-feira (24) e quarta-feira (25), com previsão de chuvas intensas, rajadas de vento e possibilidade de queda de granizo. Além…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/semana-na-regiao-tem-alerta-de-tempestade-e-queda-nas-temperaturas/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:43",
+"t": "Motociclista morre após carro cruzar canteiro central e atingir moto na SP-300",
+"p": "Motocicleta foi atingida por carro que atravessou o canteiro central, matando o piloto, na tarde desta segunda (23), na Rodovia Marechal Rondon, em Birigui (SP) Lucas Fonseca/TV TEM Um motociclista morreu após um carro cruzar o canteiro central da Rodovia Marechal Rondon (SP-300) e atingir a moto de frente, na…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/motociclista-morre-apos-carro-cruzar-canteiro-central-e-atingir-moto-na-sp-300/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:43",
+"t": "Donos de creche investigada por maus-tratos após bilhete em mamadeira são condenados a pagar indenização",
+"p": "Criança é deixada sozinha em sala vazia e sem refrigeração em Rio Preto A Justiça de São José do Rio Preto (SP) condenou dois donos da creche investigados por maus-tratos a crianças, a pagar R$ 10 mil de indenização por danos morais à família do menino, de dois anos, diagnosticado com Transtorno do Espectro Autista […]",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/donos-de-creche-investigada-por-maus-tratos-apos-bilhete-em-mamadeira-sao-condenados-a-pagar-indenizacao/",
+"auto": true
+},
 {
 "d": "2026-11-23",
 "h": "23:28",
@@ -54990,49 +55032,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/enem-2026-mobiliza-mais-de-22-mil-estudantes-em-fernandopolis-neste-domingo/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "06:03",
-"t": "Prefeitura de Fernandópolis sanciona lei que cria sessões de cinema e eventos culturais adaptados para autistas",
-"p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou a Lei Municipal nº 5.787, de 6 de novembro de 2026, que institui o programa “Cine Azul e Cultura Acessível”. A nova legislação altera a política municipal de proteção dos direitos das pessoas com Transtorno do Espectro Autista (TEA), transformando…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-sanciona-lei-que-cria-sessoes-de-cinema-e-eventos-culturais-adaptados-para-autistas/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "06:02",
-"t": "Artista de Fernandópolis é contemplado pela Lei Aldir Blanc com projeto que une arte metálica e sustentabilidade",
-"p": "O artista plástico fernandopolense Marcos Elvis Antolini foi contemplado pela Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), por meio do edital público promovido pela Secretaria Municipal de Cultura e Turismo de Fernandópolis. Com a conquista do recurso de R$ 4,2 mil, o escultor desenvolverá o projeto…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/artista-de-fernandopolis-e-contemplado-pela-lei-aldir-blanc-com-projeto-que-une-arte-metalica-e-sustentabilidade/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "06:01",
-"t": "PM da região recebe drone de alta tecnologia com câmera térmica para operações e resgates",
-"p": "A Polícia Militar da região de São José do Rio Preto, sob a circunscrição do Comando de Policiamento do Interior (CPI-5) — que engloba o 16º Batalhão com sede em Fernandópolis —, incorporou um drone de alta tecnologia à sua frota operacional. O equipamento é dotado de câmera térmica, sistema de captação de imagens…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/pm-da-regiao-recebe-drone-de-alta-tecnologia-com-camera-termica-para-operacoes-e-resgates/",
 "auto": true
 }
 ]
