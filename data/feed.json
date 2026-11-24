@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T19:06:14-03:00",
-"novos_nesta_coleta": 31,
+"atualizado": "2026-11-24T20:05:28-03:00",
+"novos_nesta_coleta": 28,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -28,7 +28,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -48,11 +48,273 @@
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "The read operation timed out | HTTP Error 503: Service Unavailable | curl: "
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "20:00",
+"t": "Mulher suspeita de participar de sequestro e morte de comerciante é presa em Mongaguá; VÍDEO",
+"p": "Divulgação/Polícia Militar Vítima de 75 anos foi sequestrada enquanto abria mercado em Pedro de Toledo e encontrada morta em Francisco Morato.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Francisco Morato",
+"Pedro de Toledo",
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/mulher-suspeita-de-participar-de-sequestro-e-morte-de-comerciante-e-presa-em-mongagua-video/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:56",
+"t": "Mogi das Cruzes realiza megamutirão de limpeza e recuperação dos pontos atingidos pela chuva",
+"p": "Trabalhos incluem limpeza de vias, desobstrução de córregos e bocas de lobo e atendimento aos moradores",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-realiza-megamutirao-de-limpeza-e-recuperacao-dos-pontos-atingidos-pela-chuva/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:42",
+"t": "Parque da Aclimação acorda com peixes mortos e moradores cobram prefeitura",
+"p": "Moradores reclamam de piora na administração do parque e pedem atenção da prefeitura para problemas no lago, pista de corrida e banheiros",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/parque-da-aclimacao-acorda-com-peixes-mortos-e-moradores-cobram-prefeitura",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:38",
+"t": "Temporal desvia cinco voos da Azul que seguiriam para Viracopos",
+"p": "Aeronaves foram direcionadas para Ribeirão Preto, Presidente Prudente e Galeão; nuvem prateleira registrada na região do aeroporto indica risco de chuva forte",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Presidente Prudente",
+"Ribeirão Preto"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/temporal-desvia-cinco-voos-da-azul-que-seguiriam-para-viracopos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:37",
+"t": "Cidade brasileira mais populosa que a própria capital ganha quase 160 mil moradores em apenas 16 anos e sanciona lei que pode transformar seu território",
+"p": "A cidade mais populosa de Santa Catarina e a terceira da região Sul do Brasil está prestes a passar por novas transformações urbanas. Com cerca de 674 mil habitantes, Joinville ganhou quase 160 mil moradores desde 2010, registrando um crescimento populacional de aproximadamente 31% em 16 anos. O avanço demográfico…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/cidade-brasileira-mais-populosa-que-a-propria-capital-ganha-quase-160-mil-moradores-em-apenas-16-anos-e-sanciona-lei-que-pode-transformar-seu-territorio/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:30",
+"t": "Queda de árvore em escola pública em SP deixa cinco pessoas feridas",
+"p": "A queda de uma árvore na Escola Professora Maria da Conceição Oliveira Costa, em Itaquera, zona leste de São Paulo, atingiu sete pessoas na tarde desta terça-feira (24). Todas as vítimas estão conscientes e orientadas: quatro com ferimentos leves e uma com fratura, encaminhada ao Hospital Santa Marcelina de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/queda-de-arvore-em-escola-publica-em-sp-deixa-cinco-pessoas-feridas",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:27",
+"t": "Sobrado desaba e causa fratura exposta em perna de mulher na zona norte",
+"p": "Uma mulher teve uma fratura exposta na perda por conta do desabamento e foi para o hospital. Prédio vizinho teve 30 apartamentos isolados",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sobrado-desaba-e-causa-fratura-exposta-em-perna-de-mulher-na-zona-norte",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:27",
+"t": "Com exames, consultas e orientações, Prefeitura intensifica ações do Novembro Azul",
+"p": "Ao longo desta semana, Consultórios Municipais contarão com programação especial, incluindo consultas, exames, testes rápidos, palestras e atividades de conscientização. Com uma programação que envolve os Consultórios Municipais, a Prefeitura de Votuporanga intensifica, nesta semana, as ações da campanha Novembro…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/com-exames-consultas-e-orientacoes-prefeitura-intensifica-acoes-do-novembro-azul/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:24",
+"t": "Participantes do Moeda Verde Digital concorrem a scooter elétrica em dezembro",
+"p": "Prêmio será entregue no dia 5 de dezembro, durante a programação de aniversário da autarquia, em Votuporanga. A Saev Ambiental realiza, na próxima terça-feira (1º.dez), às 8h30, no Auditório da Autarquia, o sorteio anual do Moeda Verde Digital, que terá como prêmio uma scooter elétrica. A iniciativa integra as…",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/participantes-do-moeda-verde-digital-concorrem-a-scooter-eletrica-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:23",
+"t": "Licitação de R$ 1,6 milhão para livros de educação física gera debate na Câmara",
+"p": "Projeto prevê livros, formação de professores e participação dos ex-lutadores Minotauro e Minotouro; vereadores questionam a prioridade do investimento e cobram melhorias na infraestrutura das escolas municipais. Jorge Honorio jorgehonoriojornalista@gmail.com A vereadora Débora Romani (PL) questionou, durante a 42ª…",
+"tema": "Educação",
+"s": "obra",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/licitacao-de-r-16-milhao-para-livros-de-educacao-fisica-gera-debate-na-camara/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:21",
+"t": "Servidores fecham avenida em frente à Câmara após ficarem fora de debate sobre Previdência",
+"p": "Servidores protestam contra reforma da Previdência enviada pela Prefeitura à Câmara; plenário ficou esvaziado por segurança, segundo vereador",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/servidores-fecham-avenida-em-frente-a-camara-apos-ficarem-fora-de-debate-sobre-previdencia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:20",
+"t": "Votuporanga realiza Conferência dos Direitos da Criança e do Adolescente nesta quarta-feira",
+"p": "Inscrições estão abertas e podem ser feitas no site da Prefeitura; encontro discutirá propostas de fortalecimento das políticas públicas voltadas à infância e à adolescência. Votuporanga recebe, nesta quarta-feira (25.nov), a XI Conferência Municipal dos Direitos da Criança e do Adolescente, que reunirá…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/votuporanga-realiza-conferencia-dos-direitos-da-crianca-e-do-adolescente-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:18",
+"t": "Polícia apreende mais de 20 kg de maconha e prende suspeito em Santa Fé do Sul",
+"p": "Investigação contou com troca de informações entre polícias de São Paulo e Mato Grosso do Sul; droga estava escondida em contêiner de obra no bairro Jardim Guanabara. Uma operação da Polícia Civil resultou na apreensão de aproximadamente 20,7 kg de maconha e na prisão em flagrante de um homem suspeito de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santa Fé do Sul",
+"São Paulo"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/policia-apreende-mais-de-20-kg-de-maconha-e-prende-suspeito-em-santa-fe-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:16",
+"t": "Pais e avós podem levar as crianças a parque a 80 km de São Paulo com mais de 180 espécies de animais, trilhas e experiências de contato com bichos",
+"p": "Com a chegada das férias escolares, encontrar passeios que tirem as crianças da rotina e ofereçam experiências diferentes pode ser um desafio para muitas famílias. Mas, eis que surge um parque. No interior de São Paulo, algumas atrações combinam lazer, contato com a natureza e aprendizado, criando oportunidades…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/turismo/pais-e-avos-podem-levar-as-criancas-a-parque-a-80-km-de-sao-paulo-com-mais-de-180-especies-de-animais-trilhas-e-experiencias-de-contato-com-bichos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:15",
+"t": "Homem invade joalheria e, rastejando, furta R$ 2 milhões no interior de SP",
+"p": "Criminoso levou cerca de 300 peças da loja, incluindo relógios e outras joias. Câmeras de segurança captaram a ação, na noite do sábado",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-invade-joalheria-e-rastejando-furta-r-2-milhoes-no-interior-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:13",
+"t": "Rede municipal de ensino de Votuporanga realiza aplicação das provas do Saresp 2026",
+"p": "Avaliações envolvem estudantes dos 2º e 5º anos do Ensino Fundamental nesta semana; município busca manter os bons resultados nos indicadores de alfabetização, após superar a meta estabelecida em 2025. A Secretaria Municipal da Educação de Votuporanga realiza, nesta semana, a aplicação das provas do Sistema de…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/rede-municipal-de-ensino-de-votuporanga-realiza-aplicacao-das-provas-do-saresp-2026/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:10",
+"t": "Operação Dark Crypto mira grupo suspeito de golpe milionário com criptomoedas e lavagem de dinheiro",
+"p": "Investigação da Deic de São José do Rio Preto apura esquema de falso investimento que teria causado prejuízo superior a R$ 500 mil; mandados foram cumpridos no litoral paulista. A Polícia Civil deflagrou nesta terça-feira (24.nov) a segunda fase da Operação Dark Crypto, que investiga uma organização criminosa…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/operacao-dark-crypto-mira-grupo-suspeito-de-golpe-milionario-com-criptomoedas-e-lavagem-de-dinheiro/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:08",
+"t": "Alerta de temporal faz SP ativar gabinete de crise; confira a previsão para Ribeirão Preto",
+"p": "Estado mobiliza gabinete especial para enfrentar temporais; em Ribeirão Preto, previsão aponta 14 mm de chuva nesta quarta-feira (25) e queda nos termômetros na quinta (26)",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/alerta-de-temporal-faz-sp-ativar-gabinete-de-crise-confira-a-previsao-para-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:08",
+"t": "Votuporanga avança em indicadores e fica a um passo do Selo Diamante da Caixa",
+"p": "Município amplia pontuação, renova Selo Safira de Gestão Sustentável e se consolida entre as cidades com melhor desempenho em saúde, educação, meio ambiente e responsabilidade fiscal. Votuporanga renovou o Selo Caixa Gestão Sustentável, na categoria Safira, certificação concedida pela Caixa Econômica Federal a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/votuporanga-avanca-em-indicadores-e-fica-a-um-passo-do-selo-diamante-da-caixa/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "19:04",
@@ -65,6 +327,21 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/motociclista-morre-apos-carro-atravessar-canteiro-central-e-invadir-pista-contraria-na-rodovia-marechal-rondon/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:04",
+"t": "Obras na orla de Santos são retomadas após temporal e bloqueiam trecho entre canal 1 e Ponta da Praia; veja rotas alternativas e desvios",
+"p": "As obras de revitalização da orla de Santos, no litoral de São Paulo, foram retomadas às 10h30 desta terça-feira (24), após uma interrupção provocada pelo temporal que atingiu a região na segunda-feira (23). Os trabalhos ocorrem no trecho entre a Avenida Senador Pinheiro Machado, conhecida como canal 1, e a Rua…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo",
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/obras-na-orla-de-santos-sao-retomadas-apos-temporal-e-bloqueiam-trecho-entre-canal-1-e-ponta-da-praia-veja-rotas-alternativas-e-desvios/",
 "auto": true
 },
 {
@@ -107,6 +384,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/26a-semana-da-musica-tera-audicoes-de-alunos-do-projeto-guri-e-da-escola-municipal-de-artes/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:00",
+"t": "Miaguti defende nova política industrial para liderar eletromobilidade no Grande ABC",
+"p": "Titular da pasta econômica de São Bernardo aponta desafios para preencher vagas formais e anuncia projeto que levará estudantes do Ensino Médio às fábricas da região",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370567/miaguti-defende-nova-politica-industrial-para-liderar-eletromobilidade-no-grande-abc",
 "auto": true
 },
 {
@@ -54687,298 +54978,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/mundo/apos-derrota-trump-admite-que-sua-politica-de-deportacoes-foi-dura-demais/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:56",
-"t": "TJ nega recurso do Estado e mantém ordem para recuperar CDHU em Marília",
-"p": "Decisão preserva obrigação de recuperar o conjunto Paulo Lúcio Nogueira ou oferecer novas moradias, sob pena de multa diária de R$ 500 mil.",
-"tema": "Habitação",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/tj-nega-recurso-do-estado-e-mantem-ordem-para-recuperar-cdhu-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:44",
-"t": "Festival Bem-Estar & Sabores reúne gastronomia, cultura e sustentabilidade com programação gratuita em São José dos Campos neste fim de semana",
-"p": "Por: Vanessa Dias com colaboração de Poliana Presses Unir bem-estar, gastronomia, cultura e sustentabilidade em um só lugar. Essa é a proposta do Festival Bem-Estar & Sabores, que será realizado nos dias 14 e 15 de novembro, no Parque Vicentina Aranha, em São José dos Campos. Com uma programação que inclui…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/festival-bem-estar-sabores-reune-gastronomia-cultura-e-sustentabilidade-com-programacao-gratuita-em-sao-jose-dos-campos-neste-fim-de-semana/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:40",
-"t": "Mongaguá abre 90 vagas na Educação com salários de até R$1,9 mil",
-"p": "Processo seletivo oferece oportunidades para candidatos com ensino Médio completo; inscrições são gratuitas e devem ser feitas entre 10 e 19 de novembro",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Mongaguá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/mongagua/mongagua-abre-90-vagas-na-educacao-com-salarios-de-ate-r-19-mil.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:38",
-"t": "Justiça derruba liminares e libera ações contra casal investigado por furto de vírus na Unicamp",
-"p": "Soledad Palameta Miller e Michael Edward Miller são investigados pelo furto de cepas de vírus do Laboratório de Virologia do Instituto de Biologia da Unicamp",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/justica-derruba-liminares-e-libera-acoes-contra-casal-investigado-por-furto-de-virus-na-unicamp/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:35",
-"t": "Fundação Bradesco abre inscrições gratuitas para EJA em Marília",
-"p": "Oportunidade é destinada a jovens, adultos e idosos que não concluíram o Ensino Fundamental ou Médio; aulas são presenciais e realizadas à noite.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/fundacao-bradesco-abre-inscricoes-gratuitas-para-eja-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:30",
-"t": "Lula faz primeiro pronunciamento após vencer as eleições e reafirma compromisso com responsabilidade fiscal",
-"p": "O presidente Luiz Inácio Lula da Silva (PT) fez neste domingo (8) seu primeiro pronunciamento em rede nacional de rádio e televisão após ser reeleito, em 25 de outubro, na disputa presidencial contra Flávio Bolsonaro (PL). Durante a mensagem, que durou cerca de sete minutos, o petista agradeceu aos eleitores, falou…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/lula-faz-primeiro-pronunciamento-apos-vencer-as-eleicoes-e-reafirma-compromisso-com-responsabilidade-fiscal/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:26",
-"t": "Polícia investiga divulgação de imagens de apartamento do ex-presidente FHC",
-"p": "BO foi registrado pela esposa de FHC, Patrícia Kundrát, que afirmou ter liberado entrada de homem, mas não sabia sobre gravação de imagens",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/policia-investiga-divulgacao-de-imagens-de-apartamento-do-ex-presidente-fhc",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:24",
-"t": "Alunos de escola em Ribeirão Preto são dispensados após incêndio em prédio vizinho",
-"p": "Escola no Jardim Sumaré adotou medida preventiva nesta segunda-feira (9) devido à fumaça",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Ribeirão Preto",
-"Sumaré"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/alunos-de-escola-em-ribeirao-preto-sao-dispensados-apos-incendio-em-predio-vizinho/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:23",
-"t": "Homem de 56 anos morre em bar após suspeita de engasgamento em Marília",
-"p": "Equipes do Samu realizaram manobras de reanimação, mas o óbito foi constado no local; exames devem esclarecer a causa do óbito.",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/homem-de-56-anos-morre-em-bar-apos-suspeita-de-engasgamento-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:22",
-"t": "Obras milionárias de R$ 112,5 milhões prometem atingir mais de 13 mil moradores e prevê melhorias na coleta de esgoto em cidade no litoral de SP",
-"p": "Um investimento de R$ 112,5 milhões está sendo destinado à ampliação do sistema de coleta de esgoto em Guarujá, no litoral de São Paulo. As obras, que já estão em andamento, devem beneficiar cerca de 13 mil moradores de cinco bairros do município, com a implantação de novas redes coletoras e melhorias na…",
-"tema": "Saneamento",
-"s": "anunciado",
-"c": [
-"São Paulo",
-"Guarujá"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/obras-milionarias-de-r-1125-milhoes-prometem-atingir-mais-de-13-mil-moradores-e-preve-melhorias-na-coleta-de-esgoto-em-cidade-no-litoral-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:20",
-"t": "Caminhão da Coca-Cola de Natal chega ao Grande ABC nesta terça-feira (10)",
-"p": "São Caetano abre a programação regional a partir das 17h30, com saída do Atacadão e passagem por avenidas e ruas da cidade; Santo André e São Bernardo recebem o desfile na quarta-feira (11)",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santo André",
-"São Bernardo do Campo",
-"São Caetano do Sul"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367715/caminhao-da-coca-cola-de-natal-chega-ao-grande-abc-nesta-terca-feira-10-",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:17",
-"t": "Campinas reduz prazo para reabertura de comércios autuados; entenda",
-"p": "Segundo a Prefeitura de Campinas, mudança vale para estabelecimentos autuados que regularizarem as pendências e tiverem o pedido aprovado",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-reduz-prazo-para-reabertura-de-comercios-autuados-entenda/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:17",
-"t": "Polícia identifica homem morto a tiros dentro de carro na Região Norte",
-"p": "Corpo foi encontrado no banco do motorista, com marcas de disparos na cabeça e no braço, no Jardim Itapema",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/policia-identifica-homem-morto-a-tiros-dentro-de-carro-na-regiao-norte/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:15",
-"t": "Camarão a partir de R$ 36,99 é o destaque de festival no Mercado de Peixes de Santos",
-"p": "A iniciativa encerra a programação de festivais do Mercado de Peixes neste ano e reforça a valorização dos produtos comercializados no espaço",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/camarao-a-partir-de-r-3699-e-o-destaque-de-festival-no-mercado-de-peixes-de-santos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:15",
-"t": "Cubatão oferece 20 vagas em concursos públicos; salários chegam a R$5,5 mil",
-"p": "Seleções contemplam cargos de níveis Médio e Superior, com oportunidades nas áreas jurídica, administrativa e da saúde; inscrições seguem até 3 de dezembro",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Cubatão"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/cubatao/cubatao-oferece-20-vagas-em-concursos-publicos-salarios-chegam-a-r-55-mil.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:12",
-"t": "Marcha para Jesus vai percorrer avenidas de Jundiaí neste sábado (14)",
-"p": "Foto: Divulgação Marcha para Jesus Jundiaí 2026 acontece em 14 de novembro, a partir das 15h. Confira o percurso e a programação.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/marcha-para-jesus-2026-jundiai-percurso-horario/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:04",
-"t": "Santos Brasil propõe novo ciclo de investimentos de cerca de R$ 3,5 bilhões no Porto de Santos",
-"p": "Divulgação A Santos Brasil, referência em operações portuárias e logística, apresentou à APS (Autoridade Portuária de Santos) um plano de investimentos",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/porto-e-negocios/santos-brasil-propoe-novo-ciclo-de-investimentos-de-cerca-de-r-35-bilhoes-no-porto-de-santos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "13:01",
-"t": "Com mais de 400 internações em UTI, SP registra alta de casos de Covid-19",
-"p": "Em 2026, mais de 1 milhão de doses da vacina contra Covid foram aplicadas. A Secretaria de Estado da Saúde alerta para os grupos de risco",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/com-mais-de-400-internacoes-em-uti-sp-registra-alta-de-casos-de-covid-19",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "12:57",
-"t": "Confira o calendário de pagamento do IPVA de 2027 em São Paulo",
-"p": "O Governo do Estado de São Paulo divulgou nesta segunda-feira (9) o calendário de pagamento do Imposto sobre a Propriedade de Veículos Automotores (IPVA) de 2027. Em janeiro, os contribuintes poderão quitar o imposto em cota única, com 3% de desconto , ou optar pelo parcelamento em até cinco vezes, a depender do…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/confira-o-calendario-de-pagamento-do-ipva-de-2027-em-sao-paulo",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "12:53",
-"t": "Prefeitura de Sorocaba recebe inscrições para vagas do Conselho Municipal de Proteção e Bem-Estar Animal",
-"p": "As Organizações Não Governamentais (ONGs) relacionadas aos direitos e defesa dos animais e as instituições de instituição de Ensino Superior com curso de graduação em Medicina Veterinária interessadas em participar do processo de eleição do Conselho Municipal de Proteção e Bem-Estar Animal (CMPBEA), para o biênio…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-recebe-inscricoes-para-vagas-do-conselho-municipal-de-protecao-e-bem-estar-animal/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "12:52",
-"t": "Polícia Militar de SP abre inscrições de concurso com 2 mil vagas para aluno-soldado",
-"p": "Para participar, é necessário ter entre 17 e 30 anos, ensino médio completo e Carteira Nacional de Habilitação (CNH) nas categorias B a E",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/policia-militar-de-sp-abre-inscricoes-de-concurso-com-2-mil-vagas-para-aluno-soldado/",
 "auto": true
 }
 ]

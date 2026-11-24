@@ -3,6 +3,268 @@
 "itens": [
 {
 "d": "2026-11-24",
+"h": "20:00",
+"t": "Mulher suspeita de participar de sequestro e morte de comerciante é presa em Mongaguá; VÍDEO",
+"p": "Divulgação/Polícia Militar Vítima de 75 anos foi sequestrada enquanto abria mercado em Pedro de Toledo e encontrada morta em Francisco Morato.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Francisco Morato",
+"Pedro de Toledo",
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/mulher-suspeita-de-participar-de-sequestro-e-morte-de-comerciante-e-presa-em-mongagua-video/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:56",
+"t": "Mogi das Cruzes realiza megamutirão de limpeza e recuperação dos pontos atingidos pela chuva",
+"p": "Trabalhos incluem limpeza de vias, desobstrução de córregos e bocas de lobo e atendimento aos moradores",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/mogi-das-cruzes-realiza-megamutirao-de-limpeza-e-recuperacao-dos-pontos-atingidos-pela-chuva/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:42",
+"t": "Parque da Aclimação acorda com peixes mortos e moradores cobram prefeitura",
+"p": "Moradores reclamam de piora na administração do parque e pedem atenção da prefeitura para problemas no lago, pista de corrida e banheiros",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/parque-da-aclimacao-acorda-com-peixes-mortos-e-moradores-cobram-prefeitura",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:38",
+"t": "Temporal desvia cinco voos da Azul que seguiriam para Viracopos",
+"p": "Aeronaves foram direcionadas para Ribeirão Preto, Presidente Prudente e Galeão; nuvem prateleira registrada na região do aeroporto indica risco de chuva forte",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Presidente Prudente",
+"Ribeirão Preto"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/temporal-desvia-cinco-voos-da-azul-que-seguiriam-para-viracopos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:37",
+"t": "Cidade brasileira mais populosa que a própria capital ganha quase 160 mil moradores em apenas 16 anos e sanciona lei que pode transformar seu território",
+"p": "A cidade mais populosa de Santa Catarina e a terceira da região Sul do Brasil está prestes a passar por novas transformações urbanas. Com cerca de 674 mil habitantes, Joinville ganhou quase 160 mil moradores desde 2010, registrando um crescimento populacional de aproximadamente 31% em 16 anos. O avanço demográfico…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/cidade-brasileira-mais-populosa-que-a-propria-capital-ganha-quase-160-mil-moradores-em-apenas-16-anos-e-sanciona-lei-que-pode-transformar-seu-territorio/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:30",
+"t": "Queda de árvore em escola pública em SP deixa cinco pessoas feridas",
+"p": "A queda de uma árvore na Escola Professora Maria da Conceição Oliveira Costa, em Itaquera, zona leste de São Paulo, atingiu sete pessoas na tarde desta terça-feira (24). Todas as vítimas estão conscientes e orientadas: quatro com ferimentos leves e uma com fratura, encaminhada ao Hospital Santa Marcelina de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/queda-de-arvore-em-escola-publica-em-sp-deixa-cinco-pessoas-feridas",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:27",
+"t": "Sobrado desaba e causa fratura exposta em perna de mulher na zona norte",
+"p": "Uma mulher teve uma fratura exposta na perda por conta do desabamento e foi para o hospital. Prédio vizinho teve 30 apartamentos isolados",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sobrado-desaba-e-causa-fratura-exposta-em-perna-de-mulher-na-zona-norte",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:27",
+"t": "Com exames, consultas e orientações, Prefeitura intensifica ações do Novembro Azul",
+"p": "Ao longo desta semana, Consultórios Municipais contarão com programação especial, incluindo consultas, exames, testes rápidos, palestras e atividades de conscientização. Com uma programação que envolve os Consultórios Municipais, a Prefeitura de Votuporanga intensifica, nesta semana, as ações da campanha Novembro…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/com-exames-consultas-e-orientacoes-prefeitura-intensifica-acoes-do-novembro-azul/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:24",
+"t": "Participantes do Moeda Verde Digital concorrem a scooter elétrica em dezembro",
+"p": "Prêmio será entregue no dia 5 de dezembro, durante a programação de aniversário da autarquia, em Votuporanga. A Saev Ambiental realiza, na próxima terça-feira (1º.dez), às 8h30, no Auditório da Autarquia, o sorteio anual do Moeda Verde Digital, que terá como prêmio uma scooter elétrica. A iniciativa integra as…",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/participantes-do-moeda-verde-digital-concorrem-a-scooter-eletrica-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:23",
+"t": "Licitação de R$ 1,6 milhão para livros de educação física gera debate na Câmara",
+"p": "Projeto prevê livros, formação de professores e participação dos ex-lutadores Minotauro e Minotouro; vereadores questionam a prioridade do investimento e cobram melhorias na infraestrutura das escolas municipais. Jorge Honorio jorgehonoriojornalista@gmail.com A vereadora Débora Romani (PL) questionou, durante a 42ª…",
+"tema": "Educação",
+"s": "obra",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/licitacao-de-r-16-milhao-para-livros-de-educacao-fisica-gera-debate-na-camara/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:21",
+"t": "Servidores fecham avenida em frente à Câmara após ficarem fora de debate sobre Previdência",
+"p": "Servidores protestam contra reforma da Previdência enviada pela Prefeitura à Câmara; plenário ficou esvaziado por segurança, segundo vereador",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/servidores-fecham-avenida-em-frente-a-camara-apos-ficarem-fora-de-debate-sobre-previdencia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:20",
+"t": "Votuporanga realiza Conferência dos Direitos da Criança e do Adolescente nesta quarta-feira",
+"p": "Inscrições estão abertas e podem ser feitas no site da Prefeitura; encontro discutirá propostas de fortalecimento das políticas públicas voltadas à infância e à adolescência. Votuporanga recebe, nesta quarta-feira (25.nov), a XI Conferência Municipal dos Direitos da Criança e do Adolescente, que reunirá…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/votuporanga-realiza-conferencia-dos-direitos-da-crianca-e-do-adolescente-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:18",
+"t": "Polícia apreende mais de 20 kg de maconha e prende suspeito em Santa Fé do Sul",
+"p": "Investigação contou com troca de informações entre polícias de São Paulo e Mato Grosso do Sul; droga estava escondida em contêiner de obra no bairro Jardim Guanabara. Uma operação da Polícia Civil resultou na apreensão de aproximadamente 20,7 kg de maconha e na prisão em flagrante de um homem suspeito de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santa Fé do Sul",
+"São Paulo"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/policia-apreende-mais-de-20-kg-de-maconha-e-prende-suspeito-em-santa-fe-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:16",
+"t": "Pais e avós podem levar as crianças a parque a 80 km de São Paulo com mais de 180 espécies de animais, trilhas e experiências de contato com bichos",
+"p": "Com a chegada das férias escolares, encontrar passeios que tirem as crianças da rotina e ofereçam experiências diferentes pode ser um desafio para muitas famílias. Mas, eis que surge um parque. No interior de São Paulo, algumas atrações combinam lazer, contato com a natureza e aprendizado, criando oportunidades…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/turismo/pais-e-avos-podem-levar-as-criancas-a-parque-a-80-km-de-sao-paulo-com-mais-de-180-especies-de-animais-trilhas-e-experiencias-de-contato-com-bichos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:15",
+"t": "Homem invade joalheria e, rastejando, furta R$ 2 milhões no interior de SP",
+"p": "Criminoso levou cerca de 300 peças da loja, incluindo relógios e outras joias. Câmeras de segurança captaram a ação, na noite do sábado",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/homem-invade-joalheria-e-rastejando-furta-r-2-milhoes-no-interior-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:13",
+"t": "Rede municipal de ensino de Votuporanga realiza aplicação das provas do Saresp 2026",
+"p": "Avaliações envolvem estudantes dos 2º e 5º anos do Ensino Fundamental nesta semana; município busca manter os bons resultados nos indicadores de alfabetização, após superar a meta estabelecida em 2025. A Secretaria Municipal da Educação de Votuporanga realiza, nesta semana, a aplicação das provas do Sistema de…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/rede-municipal-de-ensino-de-votuporanga-realiza-aplicacao-das-provas-do-saresp-2026/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:10",
+"t": "Operação Dark Crypto mira grupo suspeito de golpe milionário com criptomoedas e lavagem de dinheiro",
+"p": "Investigação da Deic de São José do Rio Preto apura esquema de falso investimento que teria causado prejuízo superior a R$ 500 mil; mandados foram cumpridos no litoral paulista. A Polícia Civil deflagrou nesta terça-feira (24.nov) a segunda fase da Operação Dark Crypto, que investiga uma organização criminosa…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/operacao-dark-crypto-mira-grupo-suspeito-de-golpe-milionario-com-criptomoedas-e-lavagem-de-dinheiro/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:08",
+"t": "Alerta de temporal faz SP ativar gabinete de crise; confira a previsão para Ribeirão Preto",
+"p": "Estado mobiliza gabinete especial para enfrentar temporais; em Ribeirão Preto, previsão aponta 14 mm de chuva nesta quarta-feira (25) e queda nos termômetros na quinta (26)",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/alerta-de-temporal-faz-sp-ativar-gabinete-de-crise-confira-a-previsao-para-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:08",
+"t": "Votuporanga avança em indicadores e fica a um passo do Selo Diamante da Caixa",
+"p": "Município amplia pontuação, renova Selo Safira de Gestão Sustentável e se consolida entre as cidades com melhor desempenho em saúde, educação, meio ambiente e responsabilidade fiscal. Votuporanga renovou o Selo Caixa Gestão Sustentável, na categoria Safira, certificação concedida pela Caixa Econômica Federal a…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/votuporanga-avanca-em-indicadores-e-fica-a-um-passo-do-selo-diamante-da-caixa/",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "19:04",
 "t": "Motociclista morre após carro atravessar canteiro central e invadir pista contrária na Rodovia Marechal Rondon",
 "p": "Vítima de 49 anos seguia regularmente pela SP-300 quando foi atingida de frente por um veículo que perdeu o controle após colisão entre carros em Birigui/SP. Um motociclista de 49 anos morreu na tarde desta segunda-feira (23.nov) após ser atingido frontalmente por um carro que atravessou o canteiro central da…",
@@ -13,6 +275,21 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/motociclista-morre-apos-carro-atravessar-canteiro-central-e-invadir-pista-contraria-na-rodovia-marechal-rondon/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:04",
+"t": "Obras na orla de Santos são retomadas após temporal e bloqueiam trecho entre canal 1 e Ponta da Praia; veja rotas alternativas e desvios",
+"p": "As obras de revitalização da orla de Santos, no litoral de São Paulo, foram retomadas às 10h30 desta terça-feira (24), após uma interrupção provocada pelo temporal que atingiu a região na segunda-feira (23). Os trabalhos ocorrem no trecho entre a Avenida Senador Pinheiro Machado, conhecida como canal 1, e a Rua…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo",
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/obras-na-orla-de-santos-sao-retomadas-apos-temporal-e-bloqueiam-trecho-entre-canal-1-e-ponta-da-praia-veja-rotas-alternativas-e-desvios/",
 "auto": true
 },
 {
@@ -55,6 +332,20 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/26a-semana-da-musica-tera-audicoes-de-alunos-do-projeto-guri-e-da-escola-municipal-de-artes/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "19:00",
+"t": "Miaguti defende nova política industrial para liderar eletromobilidade no Grande ABC",
+"p": "Titular da pasta econômica de São Bernardo aponta desafios para preencher vagas formais e anuncia projeto que levará estudantes do Ensino Médio às fábricas da região",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370567/miaguti-defende-nova-politica-industrial-para-liderar-eletromobilidade-no-grande-abc",
 "auto": true
 },
 {
