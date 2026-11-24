@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T16:08:04-03:00",
-"novos_nesta_coleta": 38,
+"atualizado": "2026-11-24T17:10:30-03:00",
+"novos_nesta_coleta": 34,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,269 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "17:08",
+"t": "Prefeitura de Rio Preto abre edital de R$ 570 mil para Carnaval 2027",
+"p": "Chamamento público prevê a seleção de até 15 propostas de blocos carnavalescos e Alas Show",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeitura-de-rio-preto-abre-edital-de-r-570-mil-para-carnaval-2027/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:03",
+"t": "Passageiro é lançado para fora de ônibus após batida em poste",
+"p": "Homem de 45 anos sofreu ferimento leve na cabeça e foi encaminhado ao Hospital Mário Gatti; acidente foi na Avenida John Boyd Dunlop",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/passageiro-e-lancado-para-fora-de-onibus-apos-batida-em-poste/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:02",
+"t": "Limpeza de estofados e pisos impulsiona novos negócios entre autônomos e microempreendedores",
+"p": "A limpeza profissional de estofados e pisos tem ganhado espaço como uma das oportunidades mais promissoras para quem deseja empreender no setor de serviços. Com o avanço do trabalho autônomo e o aumento de contratações sob demanda, microempreendedores têm encontrado nesse segmento uma alternativa de renda com…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/limpeza-de-estofados-e-pisos-impulsiona-novos-negocios-entre-autonomos-e-microempreendedores/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:02",
+"t": "Prefeitura de Sorocaba promove 21 dias de ativismo pelo fim da violência contra a mulher",
+"p": "Com ações descentralizadas e parcerias intersetoriais, programação iniciada em 20 de novembro segue até 10 de dezembro reunindo empreendedorismo, defesa pessoal, orientação jurídica e acolhimento comunitário A Prefeitura de Sorocaba, por meio da Secretaria da Mulher (Semul) e em atuação integrada com outras…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-promove-21-dias-de-ativismo-pelo-fim-da-violencia-contra-a-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "17:00",
+"t": "Prefeitura de São Bernardo estima prejuízo de R$ 1.200 após furto de 49 placas em cemitério",
+"p": "Apesar do crime nesta madrugada (24), peças foram recuperadas e homem de 42 anos foi preso em flagrante na Paulicéia pela GCM",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Paulicéia",
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370533/prefeitura-de-sao-bernardo-estima-prejuizo-de-rs-1-200-apos-furto-de-49-placas-em-cemiterio",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:59",
+"t": "Novo Mutirão de Empregos recebeu mais de 3000 interessados",
+"p": "Em sua primeira edição realizada no Shopping Cidade Sorocaba, o 55º Mutirão de Empregos de Sorocaba recebeu mais de 3000 interessados, sendo cerca de 260 delas idosos e PCDs, buscando ocupar uma das mais de 3.000 vagas disponíveis, em 60 empresas. Organizado em parceria pela Secretaria de Desenvolvimento econômico…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/novo-mutirao-de-empregos-recebeu-mais-de-3000-interessados/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:33",
+"t": "PF e MP-SP cumpre mandado de prisão em São Bernardo durante operação contra o PCC",
+"p": "Ação policial realizou atividades em outras quatro cidades do Estado; Justiça autorizou sequestro de bens avaliados em R$ 45,6 milhões",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370527/pf-e-mp-sp-cumpre-mandado-de-prisao-em-sao-bernardo-durante-operacao-contra-o-pcc",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:30",
+"t": "Anvisa proíbe venda de água mineral em todo o Brasil após descobrir irregularidades graves em fábrica que funcionava interditada e sem licença sanitária",
+"p": "Uma água mineral comercializada em diferentes tamanhos de garrafas e galões foi proibida pela Agência Nacional de Vigilância Sanitária (Anvisa) após uma fiscalização identificar irregularidades nas condições de produção. A decisão, publicada nesta terça-feira (24) no Diário Oficial da União (DOU), determina a…",
+"tema": "Água",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/anvisa-proibe-venda-de-agua-mineral-em-todo-o-brasil-apos-descobrir-irregularidades-graves-em-fabrica-que-funcionava-interditada-e-sem-licenca-sanitaria/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:30",
+"t": "Excesso de veículos provoca lentidão pontual na Imigrantes sentido São Paulo",
+"p": "Descida para o litoral e tráfego na rodovia Anchieta registram excelentes condições de trafegabilidade, na tarde desta terça-feira (24)",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sistema-anchieta-imigrantes/excesso-de-veiculos-provoca-lentidao-pontual-na-imigrantes-no-sentido-sao-paulo.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:28",
+"t": "Rio Preto ganha nova casa noturna, a Comendador",
+"p": "Casa funcionará inicialmente às sextas-feiras e aos sábados, com programação voltada à música sertaneja e apresentações de DJs",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/rio-preto-ganha-nova-casa-noturna-a-comendador/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:24",
+"t": "Velório de Israel Paniza Arroio, pai do presidente da Câmara de Fernandópolis, acontece nesta quarta-feira",
+"p": "A Câmara Municipal de Fernandópolis informou que o velório de Israel Paniza Arroio, pai do presidente do Legislativo, vereador Daniel Arroio, será realizado nesta quarta-feira (25), das 7h às 10h30, no Velório Municipal da cidade. Israel faleceu nesta segunda-feira (23). Por conta do falecimento, o Legislativo…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/velorio-de-israel-paniza-arroio-pai-do-presidente-da-camara-de-fernandopolis-acontece-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:23",
+"t": "Elton Vargas é eleito presidente da Câmara de Várzea Paulista para 2027-2028",
+"p": "Foto: Prefeitura de Várzea Paulista Com votação unânime, os 13 vereadores também definiram os nomes que integrarão a nova Mesa Diretora do Legislativo municipal.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Várzea Paulista"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/elton-vargas-presidente-camara-varzea-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:20",
+"t": "Cantarella entrega aval para instalação da primeira empresa no Distrito VI em Fernandópolis",
+"p": "O prefeito de Fernandópolis, João Paulo Cantarella, entregou na manhã desta terça-feira (24) ao empresário Cleiton Ferraz a autorização oficial para a instalação da primeira empresa no Distrito VI. O ato contou com a presença do secretário municipal de Desenvolvimento, Eberti Sabion, que participou das negociações…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/cantarella-entrega-aval-para-instalacao-da-primeira-empresa-no-distrito-vi-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:19",
+"t": "Governo brasileiro não irá convidar Milei para a cerimônia de posse de Lula",
+"p": "Decisão ocorreu após declarações do ministro das Relações Exteriores da Argentina, Pablo Quirno, que contestou a legitimidade das eleições brasileiras",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/governo-brasileiro-nao-ira-convidar-milei-para-a-cerimonia-de-posse-de-lula/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:14",
+"t": "Empresa do interior com “atuação silenciosa” anuncia investimento de R$ 200 milhões em expansão para competir diretamente com a China",
+"p": "A empresa Tecumseh anunciou um investimento de cerca de R$ 200 milhões na expansão da produção de compressores para ar-condicionado. Com essa ação, é esperado que a empresa contemple a expansão da produção em São Carlos e a construção de uma unidade em Manaus. Nos aparelhos, essa peça é popularmente conhecida como…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Carlos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/empresa-do-interior-anuncia-investimento-de-r-200-milhoes-em-expansao-para-competir-diretamente-com-a-china/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:13",
+"t": "Educação de São Caetano terá orçamento 7,3% maior em 2027",
+"p": "Prefeito Tite Campanella afirma que o aumento dos recursos busca ampliar oportunidades para crianças e jovens e manter a qualidade do ensino municipal",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Caetano do Sul"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370524/educacao-de-sao-caetano-tera-orcamento-7-3-maior-em-2027",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:10",
+"t": "Dupla é presa em flagrante por furtar peças de bronze de cemitério",
+"p": "Dois homens, de 34 e 53 anos, foram presos em flagrante pela Polícia Civil na noite de segunda-feira (23) sob suspeita de furtar objetos de bronze do Cemitério Municipal de Guararapes, no interior de São Paulo. A abordagem aconteceu na área central da cidade logo após o carro dos suspeitos deixar as proximidades do…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guararapes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/dupla-e-presa-em-flagrante-por-furtar-pecas-de-bronze-de-cemiterio/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:09",
+"t": "Homem procurado pela Justiça é capturado pela GCM no Jardim Vera Cruz",
+"p": "Reprodução: GCM A Guarda Civil Municipal (GCM) de Sorocaba capturou um homem de 21 anos de idade, procurado pela Justiça pelo crime de furto, na noite deste domingo (22). Ele foi abordado no Jardim Vera Cruz, Zona Oeste da cidade, por equipe que realizava patrulhamento preventivo pela Avenida Santa Cruz. Os guardas…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/homem-procurado-pela-justica-e-capturado-pela-gcm-no-jardim-vera-cruz/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "16:06",
+"t": "Aesa é destaque nacional em premiação que reconhece operadores do transporte público",
+"p": "Entidade que representa as empresas de ônibus municipais de Santo André conquista o segundo lugar do Prêmio EMV no Transporte, na categoria operações com mais de 400 mil embarques EMV por mês",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370520/aesa-e-destaque-nacional-em-premiacao-que-reconhece-operadores-do-transporte-publico",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "16:02",
@@ -122,6 +385,18 @@
 },
 {
 "d": "2026-11-24",
+"h": "15:50",
+"t": "Chegada do verão deve movimentar mercado de trabalho na Baixada Santista e empresa prevê contratar 180 profissionais até fevereiro",
+"p": "A chegada do verão deve aquecer o mercado de trabalho na Baixada Santista e abrir novas oportunidades de emprego temporário na região. Com a expectativa de aumento na circulação de moradores e turistas, a Embraps, empresa especializada em serviços terceirizados, prevê realizar 180 contratações entre dezembro e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/chegada-do-verao-deve-movimentar-mercado-de-trabalho-na-baixada-santista-e-empresa-preve-contratar-180-profissionais-ate-fevereiro/",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "15:48",
 "t": "Hospital de Várzea Paulista começa a realizar endoscopias e prevê início das colonoscopias",
 "p": "Foto: Prefeitura de Várzea Paulista Unidade conta com duas salas de exames, espaço de recuperação pós-anestésica e acompanhamento de médico anestesista.",
@@ -172,6 +447,18 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/mogi/tj-condena-ines-paz-por-rachadinha-e-determina-perda-de-mandato-vereadora-diz-que-vai-recorrer/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "15:40",
+"t": "Litoral de SP entra em alerta severo a partir dessa quarta-feira (24) com ventos de 80 km/h e chuvas de mais de 100 mm em 12 horas; enchentes podem virar enxurradas",
+"p": "O estado de São Paulo está sob alerta para uma mudança brusca no tempo nesta quarta-feira (25). A aproximação de uma frente fria vinda da Região Sul deve provocar temporais a partir da tarde, com previsão de rajadas de vento que podem chegar a 80 km/h e acumulados superiores a 100 milímetros de chuva em […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/litoral-de-sp-entra-em-alerta-severo-a-partir-dessa-quarta-feira-24-com-ventos-de-80-km-h-e-chuvas-de-mais-de-100-mm-em-12-horas-enchentes-podem-virar-enxurradas/",
 "auto": true
 },
 {
@@ -2998,6 +3285,91 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67797",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "Prefeitura, Procon e Energisa continuam mutirão para organizar fios caídos em via pública",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67804",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "Prefeitura intensifica ações de combate ao Aedes aegypti em oito bairros de Prudente",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67803",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "UVZ realiza plantão de leishmaniose e vacinação antirrábica no Morada do Sol",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67802",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "José Osanam assume Prefeitura de Presidente Prudente durante férias do prefeito Tupã",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente",
+"Tupã"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67801",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "Prefeitura faz parceria com Sabesp e realiza recape de trecho da Rua Kenjiro Nishi",
+"p": "",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67800",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "00:00",
+"t": "Rede Mulher anuncia XVII Fórum Municipal de Enfrentamento à Violência contra a Mulher",
+"p": "",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67799",
 "auto": true
 },
 {
@@ -54612,379 +54984,6 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/brasil-e-mundo/governo-de-sao-paulo-divulga-calendario-de-pagamento-do-ipva-2027-veja-as-datas/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:00",
-"t": "Calendário do IPVA 2027 em SP é divulgado com datas de pagamento, desconto de 3% e parcelamento em até cinco vezes",
-"p": "O Calendário IPVA 2027 foi divulgado pelo Governo de São Paulo nesta segunda-feira (9/11), com as datas de pagamento do Imposto sobre a Propriedade de Veículos Automotores para o próximo ano. Os proprietários de veículos usados poderão pagar o imposto em janeiro, com desconto de 3%, quitar o valor integral em…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/calendario-do-ipva-2027-em-sp-e-divulgado-com-datas-de-pagamento-desconto-de-3-e-parcelamento-em-ate-cinco-vezes/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:00",
-"t": "IPVA 2027 terá desconto de até 3% e pagamento em até cinco parcelas",
-"p": "Vencimentos começam em 11 de janeiro e seguem o final da placa; contribuintes também podem quitar o imposto em fevereiro, sem desconto",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/ipva-2027-tera-desconto-de-ate-3-e-pagamento-em-ate-cinco-parcelas/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:00",
-"t": "Museu do Café terá programação sobre memória e resistência negra em Santos",
-"p": "Divulgação/Prefeitura de Santos O Museu do Café, em Santos, terá uma programação especial em novembro em referência ao Mês da Consciência Negra.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/1077-fm/museu-do-cafe-tera-programacao-sobre-memoria-e-resistencia-negra-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "11:00",
-"t": "Colhereiro é eleito ave-símbolo de Bertioga com mais de 50% dos votos",
-"p": "Fernando Luiz Nunes/Prefeitura de Bertioga O colhereiro é a nova ave-símbolo de Bertioga após somar 1.224 votos (50,68%) em votação online promovida pela Prefeitura.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/colhereiro-e-eleito-ave-simbolo-de-bertioga-com-mais-de-50-dos-votos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:59",
-"t": "Shoppings da Baixada Santista iniciam programação de Natal com chegada do Papai Noel",
-"p": "Paradas temáticas, espetáculos, oficinas infantis e encontros com o Bom Velhinho marcam a temporada natalina nos centros de compras da região",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/natal-shoppings-baixada-santista-programacao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:47",
-"t": "Inscrições para concurso da PM de SP começam hoje; saiba mais",
-"p": "São 2 mil vagas para aluno-soldado; inscrições devem ser feitas pelo site da Fundação Vunesp, com remuneração inicial de R$ 5.482,51",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/inscricoes-para-concurso-da-pm-de-sp-comecam-hoje-saiba-mais/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:43",
-"t": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
-"p": "Foto: Ricardo Stuckert/PR Levantamento aponta que 94% dos brasileiros torcem pelo sucesso da gestão; fim da escala 6x1 e isenção da cesta básica lideram prioridades da população",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/pesquisa-quaest-aprovacao-governo-lula-primeiro-levantamento-pos-eleicao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:39",
-"t": "Procurando emprego em Jundiaí? Empresas oferecem 37 oportunidades em diferentes áreas",
-"p": "Foto: Prefeitura de Jundiaí Supermercados, serviços, alimentação e engenharia estão entre os setores com postos de trabalho disponíveis na cidade.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/economia/empregos/vagas-emprego-jundiai-6/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:34",
-"t": "TRF-3 retifica edital e altera formato das provas; veja mudanças",
-"p": "Os candidatos inscritos ou interessados no concurso do Tribunal Regional Federal da 3ª Região (TRF-3) com vagas nos estados de São Paulo e Mato Grosso do Sul, precisam ficar atentos às atualizações do edital. O tribunal publicou o Edital nº 02/2026 de retificação com mudanças nas regras de inscrição, pagamento da…",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/trf-3-retifica-edital-e-altera-formato-das-provas-veja-mudancas/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:27",
-"t": "Fux suspende todas as ações judiciais contra proibição de bets no país",
-"p": "PGR alega que liberação de casas de apostas gera insegurança jurídica",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/fux-suspende-todas-as-acoes-judiciais-contra-proibicao-de-bets-no-pais/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:26",
-"t": "Gato fugiu da caixa de transporte antes de embarcar e passou mais de 30 dias perdido em aeroporto; quando foi encontrado, ganhou até um assento no avião",
-"p": "O animal passou mais de um mês solto no aeroporto de Krasnodar antes de ser encontrado por uma funcionária de solo e embarcado de volta com assento próprio. Ilustração criada com Inteligência Artificial O gato Vasily fugiu da caixa de transporte no aeroporto de Krasnodar, na Rússia, e ficou mais de um mês solto até…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/mundo-pet/gato-fugiu-da-caixa-de-transporte-antes-de-embarcar-e-passou-mais-de-30-dias-perdido-em-aeroporto-quando-foi-encontrado-ganhou-ate-um-assento-no-aviao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:21",
-"t": "De Itapeva aos Jogos da Juventude Caixa 2026: uma história que também começou na escola",
-"p": "A profissional de Educação Física Daniela de Oliveira Souza foi selecionada pelo Comitê Olímpico do Brasil (COB) para integrar a equipe dos Jogos da Juventude Caixa 2026, realizados em Foz do Iguaçu (PR). A experiência proporcionou dias de aprendizado, troca de conhecimentos e encontros especiais com jovens atletas…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/jogos-juventude-caixa/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:16",
-"t": "Polícia Militar prende homem durante operação que investiga homicídio em Ribeirão Branco",
-"p": "Ação conjunta com a Polícia Civil foi realizada no distrito de Campina de Fora; motocicleta, roupas e porções de maconha foram apreendidas. Um homem foi preso no domingo (8) durante uma operação conjunta das polícias Militar e Civil no distrito de Campina de Fora, em Ribeirão Branco. A ação teve como objetivo…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ribeirão Branco"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/operacao-ribeirao-branco/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:05",
-"t": "Câmara de Rio Preto vota projeto que proíbe anúncios de apostas online",
-"p": "Vereadores também analisam proposta que prevê prestação de serviços comunitários para quem descartar lixo e entulho irregularmente",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/camara-de-rio-preto-vota-projeto-que-proibe-anuncios-de-apostas-online/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:04",
-"t": "Virada na Av. Paulista com Péricles, Joelma e Jão custará R$ 2,7 milhões",
-"p": "Contrato com artistas foi publicado em Diário Oficial. Além de Péricles, Joelma e Jão, a dupla de DJs Dobdogz foi contratada para a virada",
-"tema": "Investimentos",
-"s": "obra",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/virada-na-av-paulista-com-pericles-joelma-e-jao",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:04",
-"t": "Caminhoneiro morre ao bater na traseira de carreta em rodovia de Jundiaí",
-"p": "Foto: Portal CCR - Artesp/Divulgação Colisão na traseira de uma carreta destruiu a cabine do caminhão. Outro acidente deixou um motociclista gravemente ferido na Anhanguera.",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/policia/acidente-rodovia-dom-gabriel-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:02",
-"t": "Famílias iniciam mudança para conjunto habitacional em Santos",
-"p": "O empreendimento com 574 apartamentos representa a oportunidade de recomeçar com mais segurança, conforto e qualidade de vida",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/familias-iniciam-mudanca-para-conjunto-habitacional-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:00",
-"t": "Começou como cobrador no ônibus do pai, aprendeu mecânica sem diploma e construiu uma indústria tão importante que ganhou o apelido de Henry Ford espanhol",
-"p": "Cabine e bloco de motor diesel em primeiro plano no chão de uma fábrica antiga, com operários ao fundo fora de foco, ilustrando a produção de veículos comerciais que marcou a trajetória do industrial autodidata. Créditos: Motor Passion Industrial autodidata que largou a escola aos 12 anos e ficou conhecido como…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/mundo/comecou-como-cobrador-no-onibus-do-pai-aprendeu-mecanica-sem-diploma-e-construiu-uma-industria-tao-importante-que-ganhou-o-apelido-de-henry-ford-espanhol/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "10:00",
-"t": "Onda de assaltos preocupa moradores da Vila Valença, em São Vicente",
-"p": "Reprodução Imagens de câmeras de segurança flagraram pelo menos três ações criminosas entre o final de outubro e a última sexta-feira (6).",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/onda-de-assaltos-preocupa-moradores-da-vila-valenca-em-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "09:54",
-"t": "Estudante autista induzido a lamber chão de escola pública será indenizado",
-"p": "Caso aconteceu em 2025, quando aluno de 11 anos foi obrigado por estudantes mais velhos a lamber chão em troca de promessa falsa de dinheiro",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/estudante-autista-induzido-a-lamber-chao-de-escola-publica-sera-indenizado",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "09:53",
-"t": "Concurso de Guaratinguetá abre inscrições em 16 de novembro; escriturário tem 20 vagas",
-"p": "Edital reúne cargos de diferentes escolaridades e cadastro de reserva; pedidos serão feitos pela Fundação Vunesp.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Guaratinguetá"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/guaratingueta-concurso-inscricoes.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "09:53",
-"t": "Câmara de Caçapava marca julgamento de Yan Lopes para terça-feira, às 9h",
-"p": "Sessão convocada para 10 de novembro analisará o processo de cassação; relatório da comissão foi recebido no dia 3.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Caçapava"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/cacapava-julgamento-yan-lopes.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "09:53",
-"t": "IPVA 2027 em SP terá 3% de desconto em janeiro; confira o calendário por placa",
-"p": "Decreto fixa vencimentos de 11 a 22 e permite até cinco parcelas, conforme o valor do imposto; caminhões seguem regras próprias.",
-"tema": "Decretos",
-"s": "decreto",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/ipva-2027-sp-calendario.html",
-"auto": true,
-"org": "Prefeitura"
-},
-{
-"d": "2026-11-09",
-"h": "09:53",
-"t": "Caraguá recebe adesões ao novo Refis até 15 de dezembro; parcelamento vai a 12 vezes",
-"p": "Descontos chegam a 100% dos juros e multas; programa extraordinário tem condições diferentes da negociação anterior.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/caraguatatuba-refis-extraordinario.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "09:53",
-"t": "TCE fiscaliza nesta segunda serviços de atendimento a mulheres vítimas de violência",
-"p": "Ação anunciada pelo tribunal abrange 228 unidades em 139 municípios; balanço será divulgado após as vistorias.",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/sao-paulo-tce-rede-mulheres.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "09:50",
-"t": "Homem é assaltado e agredido com cabo de vassoura em Marília",
-"p": "Caso está sendo investigado pela Polícia Civil de Marília Vítima foi abordada e agredida por indivíduo armado com um cabo de vassoura na manhã da última sexta-feira no Centro de Marília.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/homem-e-assaltado-e-agredido-com-cabo-de-vassoura-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "09:47",
-"t": "Saiu o calendário do IPVA 2027 em SP: veja quando pagar com desconto",
-"p": "Governo de São Paulo divulga calendário de pagamento com desconto e parcelas do IPVA 2027",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/economia/saiu-calendario-do-ipva-2027-em-sp-veja-quando-pagar-com-desconto/",
 "auto": true
 }
 ]
