@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T12:12:14-03:00",
-"novos_nesta_coleta": 39,
+"atualizado": "2026-11-24T13:21:07-03:00",
+"novos_nesta_coleta": 29,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -19,7 +19,6 @@
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
-"Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
@@ -28,7 +27,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -47,9 +45,385 @@
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Portal Sorocaba.com",
+"erro": "The read operation timed out"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "13:20",
+"t": "Homem suspeito de matar ex-mulher em Jales é preso em MG",
+"p": "Indivíduo foi encontrado em um restaurante, no km 275 da BR-251, na região de Curral de Dentro, no Norte de Minas Gerais, após uma ação integrada entre a Polícia Militar de Minas Gerais e a Polícia Civil de São Paulo. Um homem de 49 anos, suspeito de assassinar a ex-esposa a facadas e ferir a […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Jales"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/homem-suspeito-de-matar-ex-mulher-em-jales-e-preso-em-mg/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:16",
+"t": "Falece Aluska Cristina Silva Souto, colaboradora do Núcleo de Atenção à Saúde de Votuporanga",
+"p": "Votuporanga recebeu com tristeza a notícia do falecimento de Aluska Cristina Silva Souto, ocorrido nesta segunda-feira (23.nov). Profissional dedicada à área da saúde, ela integrava a equipe do Núcleo de Atenção à Saúde, com atuação no Consultório Municipal “Dr. Oswaldo da Cruz de Oliveira Junior”. Ao longo de sua…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/falece-aluska-cristina-silva-souto-colaboradora-do-nucleo-de-atencao-a-saude-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:15",
+"t": "IPTU mais salgado em 2027 deve pesar no bolso de moradores da Baixada Santista e cinco cidades já definiram quanto vão cobrar a mais pelo imposto",
+"p": "Os donos de imóveis na Baixada Santista terão mais uma despesa para considerar no planejamento financeiro de 2027. Cinco municípios da região já definiram os índices de reajuste do Imposto Predial e Territorial Urbano (IPTU). Os percentuais de correção variam entre 4,22% e 4,75%. Dessa forma, os contribuintes…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/iptu-mais-salgado-em-2027-deve-pesar-no-bolso-de-moradores-da-baixada-santista-e-cinco-cidades-ja-definiram-quanto-vao-cobrar-a-mais-pelo-imposto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:15",
+"t": "Prefeitura de Campinas abre 148 vagas para Jovem Aprendiz com salário de R$ 1,6 mil; veja mais",
+"p": "Oportunidades são destinadas a estudantes do ensino médio com 16 anos ou mais; inscrições terminam nesta sexta-feira (27)",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/economia/prefeitura-de-campinas-abre-148-vagas-para-jovem-aprendiz-com-salario-de-r-16-mil-veja-mais/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:11",
+"t": "Iate de Luciano Huck é apreendido pela PF; entenda o caso e por que apresentador virou assunto",
+"p": "O nome de Luciano Huck entrou nos assuntos mais comentados do Google Trends nesta segunda-feira (24) após a apreensão de um iate que pertenceu ao apresentador pela Polícia Federal (PF). A embarcação, avaliada em quase R$ 40 milhões, foi localizada em Angra dos Reis, no Rio de Janeiro, durante uma operação que…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/iate-de-luciano-huck-e-apreendido-pela-pf-entenda-o-caso-e-por-que-apresentador-virou-assunto/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:02",
+"t": "Novembro Azul: hipogonadismo pode afetar a saúde integral do homem e requer diagnóstico e tratamento individualizados",
+"p": "Durante o mês do Novembro Azul, as atenções da saúde masculina voltam-se, principalmente, para a prevenção e o diagnóstico precoce do câncer de próstata. Mas a campanha também abre espaço para discutir o impacto silencioso de condições metabólicas e hormonais na maturidade masculina, como o hipogonadismo, uma…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/novembro-azul-hipogonadismo-pode-afetar-a-saude-integral-do-homem-e-requer-diagnostico-e-tratamento-individualizados/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:00",
+"t": "Maior ponte da América Latina terá obra de R$ 11,6 bilhões dividida entre governos e empresas; entenda quanto cada parte vai pagar",
+"p": "A construção da Ponte Salvador-Itaparica, na Bahia, terá um investimento estimado em R$ 11,6 bilhões, dividido entre os governos estadual e federal, além da iniciativa privada. O projeto será executado por meio de uma parceria público-privada (PPP), com participação de uma concessionária formada por duas empresas…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/maior-ponte-da-america-latina-tera-obra-de-r-116-bilhoes-dividida-entre-governos-e-empresas-entenda-quanto-cada-parte-vai-pagar/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "13:00",
+"t": "O que são os 'muros' gigantes que avançam para o mar em praia de Caraguatatuba?",
+"p": "Obra de engenharia hidráulica, na praia do Porto Novo, chama atenção de quem explora o Google Maps; estrutura tem função fundamental na cidade",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/o-que-sao-os-muros-gigantes-que-avancam-para-o-mar-em-praia-de-caraguatatuba.html",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:59",
+"t": "Auxiliar de serviços gerais é rendido com ‘gravata’ e roubado em Marília",
+"p": "Crime foi praticado por dois homens desconhecidos, que imobilizaram a vítima e fugiram levando dinheiro e documento.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/auxiliar-de-servicos-gerais-e-rendido-com-gravata-e-roubado-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:56",
+"t": "Prefeitura de SP publica decreto para realização da Copa do Mundo Feminina",
+"p": "Decreto permite uma flexibilização da Lei Cidade Limpa em áreas oficiais da competição; SP deve receber 10 jogos, incluindo um da Seleção",
+"tema": "Decretos",
+"s": "decreto",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-de-sp-publica-decreto-para-realizacao-da-copa-do-mundo-feminina",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-24",
+"h": "12:51",
+"t": "Desempregado é preso pela PM com mais de 22 quilos de drogas em Marília",
+"p": "Polícia Militar chegou ao imóvel após denúncia de suspeito armado no local, onde encontrou maconha, crack, cocaína e haxixe.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/desempregado-e-preso-pela-pm-com-mais-de-22-quilos-de-drogas-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:48",
+"t": "Passageira que denunciou motorista de app por xenofobia diz que se sentiu humilhada: ‘Angustiante’",
+"p": "Vídeo mostra ataques xenofóbicos de motorista de app contra nordestina em Rio Preto, SP A passageira baiana que denunciou à Polícia um motorista de app por xenofobia, após discussão sobre escala 5×2, relata ao g1 que se sentiu humilhada e rejeitada com os ataques xenofóbicos feitos pelo condutor durante uma corrida…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/passageira-que-denunciou-motorista-de-app-por-xenofobia-diz-que-se-sentiu-humilhada-angustiante/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:48",
+"t": "Prefeitura de Rio Preto recebe autorização para retirar árvores e retomar obras na Avenida Murchid",
+"p": "Avenida Murchid Homsi em Rio Preto (SP) Reprodução/TV TEM A Prefeitura de São José do Rio Preto (SP) anunciou nesta segunda-feira (23) que vai prosseguir com as obras de infraestrutura na Avenida Murchid Homsi, que preveem a retirada de árvores nativas, após receber o aval da Companhia Ambiental do Estado de São…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-rio-preto-recebe-autorizacao-para-retirar-arvores-e-retomar-obras-na-avenida-murchid/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:48",
+"t": "Foragido por matar ex-esposa a facadas em SP é preso às margens da BR-251",
+"p": "Ex-marido invade a casa e mata mulher a facada na frente da enteada em Jales Um homem, de 49 anos, que era procurado por matar a ex-esposa em Jales (SP), foi preso pela Polícia Militar às margens da BR-251, em Curral de Dentro, nesta segunda-feira (23). O crime ocorreu na última sexta-feira (20) e a […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/foragido-por-matar-ex-esposa-a-facadas-em-sp-e-preso-as-margens-da-br-251/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:41",
+"t": "Prefeitura de Fernandópolis convida população para participar da produção do Presépio Vivo",
+"p": "Com os preparativos para o Fernatal em andamento, o Coletivo Ciatria, encarregado de montar o Presépio Vivo, abriu convite aos moradores para participarem da produção da encenação natalina deste ano, que traz o tema “Uma Luz na Manjedoura”. A reunião preparatória está marcada para esta quarta-feira (25), às 19h, no…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-convida-populacao-para-participar-da-producao-do-presepio-vivo/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:40",
+"t": "Judô de Jales reúne 187 crianças e adolescentes em festival",
+"p": "O mês de novembro movimentou o judô em Jales com dois eventos locais organizados pela Associação de Judô Jalesense e a participação da equipe em um torneio em São José do Rio Preto, com apoio da Prefeitura de Jales, por meio da Secretaria Municipal de Esportes e Lazer. A agenda começou em 7 de novembro […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/judo-de-jales-reune-187-criancas-e-adolescentes-em-festival/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:39",
+"t": "Projeto em Macedônia reúne 362 kg de recicláveis para o Hospital do Amor e premia turma com cinema",
+"p": "A pesagem oficial do projeto Ações que Curam, realizada na segunda-feira (23) no CEMEI em Macedônia, marcou o encerramento da arrecadação feita ao longo do ano com a participação de alunos, famílias e profissionais da unidade escolar. Ao todo, foram somados 362 kg de materiais recicláveis, incluindo tampinhas…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/projeto-em-macedonia-reune-362-kg-de-reciclaveis-para-o-hospital-do-amor-e-premia-turma-com-cinema/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:38",
+"t": "Casa da Mulher sofre novo atraso e só deve ficar pronta em março de 2027",
+"p": "Com 70% das obras executadas, equipamento público acumula atraso de dois anos e oito meses em relação ao prazo original.",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/casa-da-mulher-sofre-novo-atraso-e-so-deve-ficar-pronta-em-marco-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:37",
+"t": "Prefeitura de Ouroeste alerta produtores sobre prazo até 30 de novembro para atualizar rebanhos",
+"p": "Produtores rurais de Ouroeste têm até o dia 30 de novembro para fazer a declaração obrigatória da Campanha de Atualização dos Rebanhos referente ao segundo semestre de 2026. O período de atualização começou em 1º de novembro e abrange todas as espécies de animais. De acordo com o alerta divulgado pelo Governo…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-alerta-produtores-sobre-prazo-ate-30-de-novembro-para-atualizar-rebanhos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:36",
+"t": "São João das Duas Pontes promove consulta e audiência pública sobre cultura no dia 2 de dezembro",
+"p": "A Prefeitura de São João das Duas Pontes, por meio da Secretaria Municipal de Esportes, Lazer, Cultura e Turismo, convocou artistas, artesãos, músicos, produtores culturais, fazedores de cultura e moradores em geral para participarem da Consulta e Audiência Pública da Cultura. O encontro será realizado na…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/sao-joao-das-duas-pontes-promove-consulta-e-audiencia-publica-sobre-cultura-no-dia-2-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:35",
+"t": "Sabesp admite falhas em obras de Itanhaém e promete refazer asfalto após cobrança do prefeito Tiago Cervantes",
+"p": "A Prefeitura de Itanhaém cobrou da Sabesp um plano de ação imediato para corrigir problemas provocados pelas obrs de saneamento no município. Em reunião realizada nesta segunda-feira (23), no Paço Municipal, os representantes da concessionária reconheceram falhas operacionais, principalmente na recomposição do…",
+"tema": "Saneamento",
+"s": "anunciado",
+"c": [
+"Itanhaém"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sabesp-admite-falhas-em-obras-de-itanhaem-e-promete-refazer-asfalto-apos-cobranca-do-prefeito-tiago-cervantes/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:33",
+"t": "Prefeitura está com inscrições abertas para processo seletivo com salários de até R$ 8,7 mil",
+"p": "Processo seletivo da Prefeitura de Sertãozinho conta com oportunidades em diferentes áreas da educação",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sertãozinho"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/prefeitura-esta-com-inscricoes-abertas-para-processo-seletivo-com-salarios-de-ate-r-87-mil/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:27",
+"t": "Homem é preso após furtar placas de túmulos em cemitério de São Bernardo",
+"p": "Suspeito foi flagrado pela GCM no bairro Paulicéia nesta terça (24); moradores identificaram movimentação em grupo de vigilância solidária",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Paulicéia",
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370464/homem-e-preso-apos-furtar-placas-de-tumulos-em-cemiterio-de-sao-bernardo-",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:22",
+"t": "Danilo destaca concurso público e aposentadoria especial para agentes de saúde de Marília",
+"p": "Projeto de adequação da legislação municipal foi encaminhado à Câmara; contratação prevê reforço nas equipes.",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/danilo-destaca-concurso-publico-e-aposentadoria-especial-para-agentes-de-saude-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:20",
+"t": "Muita gente cozinha arroz branco com água, mas chef ensina técnica com 550 ml de caldo de frango e 60 g de manteiga para deixar os grãos soltinhos",
+"p": "A receita de arroz branco com caldo de frango do chef José Ramón Castillo combina lavagem dos grãos, temperos, manteiga e uma etapa final de descanso",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/muita-gente-cozinha-arroz-branco-com-agua-mas-chef-ensina-tecnica-com-550-ml-de-caldo-de-frango-e-60-g-de-manteiga-para-deixar-os-graos-soltinhos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:15",
+"t": "Restituição do Imposto de Renda 2026: Receita libera consulta de lote com 223 mil pagamentos e R$ 666 milhões",
+"p": "A Receita Federal liberou, a partir das 9h desta segunda-feira (23/11), a consulta ao lote residual de restituição do Imposto de Renda Pessoa Física (IRPF) referente a novembro de 2026. Ao todo, 223.793 restituições serão contempladas, somando R$ 666,2 milhões. O lote inclui restituições de declarações do Imposto…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/restituicao-do-imposto-de-renda-2026-receita-libera-consulta-de-lote-com-223-mil-pagamentos-e-r-666-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "12:15",
+"t": "Com blindagem resistente a tiros de fuzil, Lula pode ‘ganhar’ três carros avaliados em R$ 3,79 milhões cada e com motores de pelo menos 500 cv",
+"p": "A Polícia Federal abriu licitação para comprar três sedãs blindados destinados ao transporte do presidente Luiz Inácio Lula da Silva e de outras autoridades. O valor estimado é de R$ 3,79 milhões por carro, ou R$ 11,36 milhões pelos três. O edital exige blindagem capaz de resistir a disparos de fuzil com munição…",
+"tema": "Segurança",
+"s": "obra",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/com-blindagem-resistente-a-tiros-de-fuzil-lula-pode-ganhar-tres-carros-avaliados-em-379-milhoes/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "12:10",
@@ -104,6 +478,18 @@
 },
 {
 "d": "2026-11-24",
+"h": "12:02",
+"t": "Inmet emite alerta vermelho de grande perigo para tempestades no Sul com risco de supercélulas; veja previsão no Brasil",
+"p": "O Instituto Nacional de Meteorologia (Inmet) emitiu um aviso vermelho, de grande perigo para tempestades, nesta terça-feira (24), para áreas do noroeste do Rio Grande do Sul, centro e oeste de Santa Catarina e regiões sudoeste, oeste, norte e centro do Paraná. Na Região Sul, as chuvas ocorrem acompanhadas de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/inmet-emite-alerta-vermelho-de-grande-perigo-para-tempestades-no-sul-com-risco-de-supercelulas-veja-previsao-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "11:55",
 "t": "Etec de Santa Fé do Sul mantém aulas remotas sem prazo para volta presencial após temporal",
 "p": "A Escola Técnica Estadual (Etec) de Santa Fé do Sul segue sem data prevista para voltar às aulas presenciais para seus cerca de 600 estudantes depois dos estragos causados pelo temporal que atingiu o município no sábado. As aulas voltaram na segunda-feira (23) de maneira remota, pela internet, enquanto a equipe…",
@@ -114,6 +500,20 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/etec-de-santa-fe-do-sul-mantem-aulas-remotas-sem-prazo-para-volta-presencial-apos-temporal/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "11:52",
+"t": "Rinha de aves é desmantelada e 30 galos com sinais de mutilação são resgatados pela PMA no litoral de SP",
+"p": "No último sábado (21), agentes da Polícia Militar Ambiental resgataram 30 galos em Praia Grande. As aves viviam em situações de maus-tratos e, em alguns casos, apresentavam mutilações evidentes. De acordo com as autoridades, os animais participavam de rinhas clandestinas, prática totalmente ilegal em território…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/rinha-de-aves-e-desmantelada-e-30-galos-com-sinais-de-mutilacao-sao-resgatados-pela-pma-no-litoral-de-sp/",
 "auto": true
 },
 {
@@ -54634,403 +55034,6 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67721",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "00:00",
-"t": "Prefeitura, Energisa e empresas iniciam mutirão para regularizar fios soltos",
-"p": "",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67720",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "00:00",
-"t": "Esporte de PP conquista pódios na ginástica rítmica e atletismo e promove festival de vôlei",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67724",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "00:00",
-"t": "3ª Feira de Artesanato e Culinária Japonesa reúne mais de 100 trabalhadores da cultura",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67723",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "00:00",
-"t": "Festival de Pesca no Balneário da Amizade reúne participantes e incentiva turismo",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67725",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "23:00",
-"t": "Homem finge ser juiz do STF em app de relacionamento, promete casamento e levanta mais de R$ 22 mil em golpes contra 20 mulheres",
-"p": "Um homem acusado de se passar por juiz do Supremo Tribunal Federal (STF) para conquistar uma mulher e aplicar um golpe de cerca de R$ 7 mil virou alvo da polícia em Niterói, na Região Metropolitana do Rio de Janeiro. Segundo a investigação, Renato dos Anjos Mello, de 59 anos, simulou uma vida de luxo […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/homem-finge-ser-juiz-do-stf-em-app-de-relacionamento-promete-casamento-e-levanta-mais-de-r-22-mil-em-golpes-contra-20-mulheres/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "22:44",
-"t": "Ventos de 66 km/h derrubam árvores e suspendem show em recinto de Rio Preto",
-"p": "Ventos de 66 km/h derrubam árvores, suspendem show em recinto e mobilizam gabinete de crise em Rio Preto Prefeitura de São José do Rio Preto/Divulgação Ventos de 66 km/h derrubam árvores, suspendem show em recinto e mobilizam gabinete de crise em Rio Preto Prefeitura de São José do Rio Preto/Divulgação Rajadas de…",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/ventos-de-66-km-h-derrubam-arvores-e-suspendem-show-em-recinto-de-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "22:44",
-"t": "Dupla é presa com apoio de drone suspeita de furtar combustível de trem em distrito de Votuporanga",
-"p": "Dupla foi presa suspeita de furtar combustível de trens em distrito de Votuporanga (SP) Polícia Militar Ambiental/Divulgação Dois homens foram presos em flagrante suspeitos de furtar cerca de 100 litros de combustível de um trem em Simonsen, distrito de Votuporanga (SP), na madrugada de sábado (7). Segundo a…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/dupla-e-presa-com-apoio-de-drone-suspeita-de-furtar-combustivel-de-trem-em-distrito-de-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "22:44",
-"t": "Carro invade a contramão e bate de frente com ônibus escolar de Rio Preto na BR-153",
-"p": "Carro que invadiu a contramão bateu contra um ônibus que transportava alunos e professores de uma escola de São José do Rio Preto (SP), em José Bonifácio (SP) Reprodução Um carro invadiu a pista contrária e bateu de frente contra um ônibus que transportava estudantes e professores de São José do Rio Preto (SP), na […]",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"José Bonifácio"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/carro-invade-a-contramao-e-bate-de-frente-com-onibus-escolar-de-rio-preto-na-br-153/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "22:44",
-"t": "Inscrições são abertas para primeira escola cívico-militar municipal de Rio Preto; veja como participar",
-"p": "Primeiro Colégio cívico-militar de Rio Preto (SP) abrirá vagas para Ensino Fundamental na próxima segunda-feira (9) Foto: Ivan Feitosa / SMCS As inscrições para a primeira escola cívico-militar gerida pela Prefeitura de São José do Rio Preto (SP) serão abertas a partir desta segunda-feira (9). Segundo a Secretaria…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/inscricoes-sao-abertas-para-primeira-escola-civico-militar-municipal-de-rio-preto-veja-como-participar/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "22:03",
-"t": "Veja a opinião dos alunos sobre tema da redação do Enem 2026",
-"p": "Na capital paulista, os candidatos que fizeram as provas do Enem 2026 deixaram os locais de prova antes das 16h. Este ano, mais de 5 milhões se inscreveram para o exame, dos quais 2,34 milhões cursavam o último ano do ensino médio. No Butantã, zona oeste da capital, Erick Pedrosa, 19 anos e estudante do […]",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/veja-a-opiniao-dos-alunos-sobre-tema-da-redacao-do-enem-2026/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:51",
-"t": "Quatro jovens morrem em colisão frontal entre carro e caminhão na Rodovia Elyeser Montenegro Magalhães",
-"p": "Quatro moradores de Santo Antônio do Aracanguá morreram na madrugada deste domingo (8) após o carro em que estavam colidir de frente com um caminhão na Rodovia Elyeser Montenegro Magalhães (SP-463), no trecho entre o município e o distrito de Lourdes. As vítimas foram identificadas como Marcelo da Silva Amaral, de…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Santo Antônio do Aracanguá",
-"Lourdes"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/quatro-jovens-morrem-em-colisao-frontal-entre-carro-e-caminhao-na-rodovia-elyeser-montenegro-magalhaes/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:50",
-"t": "Carro na contramão colide de frente com ônibus escolar na BR-153",
-"p": "Um carro de passeio invadiu a pista contrária e colidiu frontalmente com um ônibus que transportava alunos e professores de São José do Rio Preto (SP), na madrugada deste domingo (8), no trecho da Rodovia Transbrasiliana (BR-153) pertencente ao município de José Bonifácio (SP). De acordo com a Secretaria Municipal…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"José Bonifácio"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/carro-na-contramao-colide-de-frente-com-onibus-escolar-na-br-153/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:49",
-"t": "PM prende 12 procurados pela Justiça no GP de São Paulo; nove deviam pensão",
-"p": "Nove dos 12 presos pela PM tinham mandados de prisão por não pagarem pensão alimentícia; um deles foi condenado por estupro",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/pm-prende-12-procurados-pela-justica-no-gp-de-sao-paulo-nove-deviam-pensao",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:47",
-"t": "Investigado por lavar dinheiro do tráfico é preso em shopping de luxo",
-"p": "Um homem de 45 anos, conhecido pelo apelido de “Rei da Sucata”, foi preso na noite do último sábado (7) dentro de um estabelecimento comercial no Shopping Cidade Jardim, localizado na zona oeste de São Paulo. O investigado é apontado pela Polícia Civil como peça-chave em um esquema de lavagem de capitais a serviço…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/investigado-por-lavar-dinheiro-do-trafico-e-preso-em-shopping-de-luxo/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:45",
-"t": "Defesa Civil e Fundo Social enviam ajuda humanitária a municípios atingidos por vendavais no interior de SP",
-"p": "A Defesa Civil do Estado de São Paulo e o Fundo Social de São Paulo (FUSSP) estruturaram uma força-tarefa de ajuda humanitária para atender municípios paulistas impactados pelos fortes vendavais e temporais registrados no último sábado (7). As ações contemplam a distribuição emergencial de cestas básicas, kits de…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/defesa-civil-e-fundo-social-enviam-ajuda-humanitaria-a-municipios-atingidos-por-vendavais-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:30",
-"t": "Prefeito de cidade de SP imobiliza agressor que arrastava mulher pelos cabelos; município está há 2 anos sem feminicídios",
-"p": "Prefeito impede ataque a mulher em cidade na Grande SP",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/prefeito-de-cidade-de-sp-imobiliza-agressor-que-arrastava-mulher-pelos-cabelos-municipio-esta-ha-2-anos-sem-feminicidios/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:05",
-"t": "Ciclista morre após ser atropelado na Rodovia Maurício Goulart em Adolfo",
-"p": "Um ciclista ainda não identificado morreu após ser atropelado por um automóvel Fiat Siena no quilômetro 42 da Rodovia Maurício Goulart (SP-355), localizada na zona rural do município de Adolfo. A ocorrência foi registrada pela polícia na madrugada deste sábado, dia 7, por volta das 4h20. Uma equipe do Serviço de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Adolfo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/ciclista-morre-apos-ser-atropelado-na-rodovia-mauricio-goulart-em-adolfo/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:05",
-"t": "Família e amigos são feitos reféns durante assalto em Américo de Campos",
-"p": "Dois homens encapuzados e armados invadiram uma residência no bairro Bela Vista, na região do Oásis, em Américo de Campos, região de Votuporanga, na noite de sexta-feira (6). Durante o assalto, cinco pessoas foram rendidas e mantidas como reféns, incluindo uma funcionária da Câmara Municipal, o marido, a filha…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Américo de Campos",
-"Votuporanga"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/familia-e-amigos-sao-feitos-refens-durante-assalto-em-americo-de-campos/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "21:01",
-"t": "Lula, em pronunciamento na TV: “A inflação está sob controle e a renda do trabalhador está crescendo. A trajetória da dívida pública e os juros altos me preocupam”",
-"p": "Lula falou sobre dívida pública, juros e investimentos no primeiro pronunciamento em rede nacional após vencer as eleições de 2026",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/politica/lula-em-pronunciamento-na-tv-a-inflacao-esta-sob-controle-e-a-renda-do-trabalhador-esta-crescendo-a-trajetoria-da-divida-publica-e-os-juros-altos-me-preocupam/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "20:36",
-"t": "Semana começa com temperaturas amenas, mas calor volta a ganhar força",
-"p": "A semana começa com temperaturas mais amenas e predomínio de nuvens em Rio Preto, mas o calor deve voltar a ganhar força nos próximos dias. A previsão aponta elevação gradual das temperaturas, com possibilidade de pancadas de chuva e tempestades isoladas na quarta-feira (11). Nesta segunda-feira (9), os termômetros…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/semana-comeca-com-temperaturas-amenas-mas-calor-volta-a-ganhar-forca/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "20:36",
-"t": "Colisão entre carro e ônibus deixa um ferido na BR-153",
-"p": "Uma colisão frontal entre um carro e um ônibus que transportava adolescentes para uma competição de vôlei deixou uma pessoa com ferimentos leves na madrugada deste domingo (8), na rodovia Transbrasiliana (BR-153), em José Bonifácio, na região de Rio Preto. De acordo com a Polícia Rodoviária Federal (PRF), o…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"José Bonifácio",
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/colisao-entre-carro-e-onibus-deixa-um-ferido-na-br-153/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "20:13",
-"t": "SP atende estrangeiros em situação de vulnerabilidade nas Casas de Passagem; veja como funciona",
-"p": "O Governo de SP, por meio da Secretaria de Desenvolvimento Social do Estado de São Paulo (SEDS), oferece os Serviços de Acolhimento Institucional na modalidade Casa de Passagem para migrantes, refugiados, solicitantes de refúgio e vítimas de tráfico de pessoas estrangeiras e nacionais, com o objetivo de acolher e…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/sp-atende-estrangeiros-em-situacao-de-vulnerabilidade-nas-casas-de-passagem-veja-como-funciona/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "20:00",
-"t": "Menina de 11 anos viaja de trailer com a família, enfrenta forte tempestade na porta da Havan e tem sonho realizado por Luciano Hang",
-"p": "Lara, uma menina de 11 anos e fã de Ana Castela, viajou de trailer com a família de Gaspar (SC) até Brusque para assistir ao show da cantora, promovido pela Havan no último sábado (8). A família chegou ao local por volta das 21h de sexta-feira (7) e enfrentou uma forte chuva colada à grade […]",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/menina-de-11-anos-viaja-de-trailer-com-a-familia-enfrenta-forte-tempestade-na-porta-da-havan-e-tem-sonho-realizado-por-luciano-hang/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "19:54",
-"t": "Homem agride namorada com puxões de cabelo e é imobilizado por prefeito em SP",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367591/homem-agride-namorada-com-puxoes-de-cabelo-e-e-imobilizado-por-prefeito-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "19:35",
-"t": "Professora vê tema da redação do Enem como chance para discutir cidadania",
-"p": "Andreia Menarbini, doutora em Educação da Fundação Santo André, destaca relação entre o SUS, a redução das desigualdades e a garantia de direitos sociais",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367589/professora-ve-tema-da-redacao-do-enem-como-chance-para-discutir-cidadania",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "18:55",
-"t": "Veja a opinião dos alunos sobre tema da redação do Enem 2026",
-"p": "Na capital paulista, os candidatos que fizeram as provas do Enem 2026 deixaram os locais de prova antes das 16h. Este ano, mais de 5 milhões se inscreveram para o exame, dos quais 2,34 milhões cursavam o último ano do ensino médio. No Butantã, zona oeste da capital, Erick Pedrosa, 19 anos e estudante do terceiro…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/veja-opiniao-dos-alunos-sobre-tema-da-redacao-do-enem-2026",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "18:33",
-"t": "Porteiro que trabalha há mais de 30 anos na mesma escola ganha carro comprado por pais de alunos e cai no choro ao descobrir a surpresa",
-"p": "Um porteiro foi surpreendido com um presente especial após mais de 30 anos de trabalho na mesma escola, em Fortaleza, no Ceará. Batista, funcionário da Escola Espaço Vida, ganhou um carro graças à mobilização da direção da instituição e de pais de alunos. Ao descobrir a homenagem, ele não conseguiu conter as…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/porteiro-que-trabalha-ha-mais-de-30-anos-na-mesma-escola-ganha-carro-comprado-por-pais-de-alunos-e-cai-no-choro-ao-descobrir-a-surpresa/",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "18:30",
-"t": "Inscrições para formação de atores na Escola Livre de Teatro de Santo André seguem até dia 26",
-"p": "Processo seletivo para o 30ª turma terá seleção presencial realizada em duas etapas, entre 30 de novembro e 11 de dezembro",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367580/inscricoes-para-formacao-de-atores-na-escola-livre-de-teatro-de-santo-andre-seguem-ate-dia-26",
-"auto": true
-},
-{
-"d": "2026-11-08",
-"h": "18:22",
-"t": "Novembro Azul: veja os sinais de alerta e onde buscar atendimento em Jundiaí",
-"p": "Foto: Prefeitura de Jundiaí UBSs e Clínicas da Família oferecem acompanhamento da saúde masculina, com avaliação médica, exames conforme a necessidade e encaminhamento para especialistas.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/novembro-azul-jundiai-sintomas-atendimento/",
 "auto": true
 }
 ]
