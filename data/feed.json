@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T04:31:56-03:00",
-"novos_nesta_coleta": 7,
+"atualizado": "2026-11-25T06:20:38-03:00",
+"novos_nesta_coleta": 26,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,236 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "06:02",
+"t": "CAPS II de Fernandópolis realiza oficinas terapêuticas de mandalas para cuidado em saúde mental",
+"p": "O Centro de Atenção Psicossocial (CAPS II) de Fernandópolis está promovendo oficinas terapêuticas de produção de mandalas, utilizando a arte como instrumento de expressão, acolhimento e cuidado na área da saúde mental. Presentes em diversas culturas e tradições, as mandalas consistem em desenhos geométricos…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/caps-ii-de-fernandopolis-realiza-oficinas-terapeuticas-de-mandalas-para-cuidado-em-saude-mental/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:01",
+"t": "Prefeitura de Ouroeste reforça prazo até 30 de novembro para atualização de rebanhos",
+"p": "O Governo Municipal de Ouroeste, por meio da Secretaria da Agricultura, voltou a orientar os produtores rurais sobre a obrigatoriedade da Campanha de Atualização dos Rebanhos referente ao segundo semestre de 2026, cujo prazo termina no dia 30 de novembro. A declaração deve ser feita por todos os criadores,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-reforca-prazo-ate-30-de-novembro-para-atualizacao-de-rebanhos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:01",
+"t": "Prefeitura de Ouroeste convida moradores para a 13ª Conferência Municipal dos Direitos da Criança e do Adolescente",
+"p": "O Governo Municipal de Ouroeste, por meio do Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA), convida os moradores a participarem da 13ª Conferência Municipal dos Direitos da Criança e do Adolescente, marcada para o dia 8 de dezembro de 2026, das 8h às 12h, no Salão Paroquial. Com o tema…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-convida-moradores-para-a-13a-conferencia-municipal-dos-direitos-da-crianca-e-do-adolescente/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:01",
+"t": "2º Feirão de Empregos de Ouroeste reúne 330 currículos e amplia acesso ao mercado de trabalho",
+"p": "A segunda edição do Feirão de Empregos de Ouroeste contabilizou a entrega de 330 currículos durante a programação, reunindo moradores em busca de recolocação profissional e aproximando trabalhadores das oportunidades disponíveis no município. Segundo o Governo Municipal de Ouroeste, a expressiva procura reflete o…",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/2o-feirao-de-empregos-de-ouroeste-reune-330-curriculos-e-amplia-acesso-ao-mercado-de-trabalho/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:01",
+"t": "2ª Copa Dezembrão de Futsal começa nesta quarta-feira em Macedônia com rodada dupla",
+"p": "A 2ª Copa Dezembrão de Futsal 2026 terá sua rodada de abertura nesta quarta-feira (25), em Macedônia, com duas partidas programadas para a Quadra Poliesportiva Nivardo da Silva Castro, conhecida como “Vadim”. Os jogos começam às 19h, com o confronto entre Bola de Ouro e Reis, e seguem às 20h, quando entram em…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Macedônia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/2a-copa-dezembrao-de-futsal-comeca-nesta-quarta-feira-em-macedonia-com-rodada-dupla/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:00",
+"t": "Postos de Atendimento ao Trabalhador oferecem 15.689 vagas de emprego nesta semana",
+"p": "Os Postos de Atendimento ao Trabalhador (PATs) ligados ao Governo de São Paulo disponibilizam nesta semana 15.689 oportunidades de trabalho em mais de 200 unidades espalhadas pelo estado. Coordenada pela Secretaria de Desenvolvimento Econômico, a rede realiza gratuitamente a intermediação de mão de obra pelo…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/postos-de-atendimento-ao-trabalhador-oferecem-15-689-vagas-de-emprego-nesta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:00",
+"t": "Prazo para escolha de cursos no Provão Paulista 2026 termina nesta sexta-feira (27)",
+"p": "Os estudantes inscritos na etapa final do Provão Paulista Seriado 2026 têm até esta sexta-feira (27) para registrar no sistema suas opções de graduação e concorrer às 15,8 mil vagas oferecidas pelas instituições públicas de ensino superior do estado de São Paulo. Segundo a Secretaria da Educação do Estado de São…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prazo-para-escolha-de-cursos-no-provao-paulista-2026-termina-nesta-sexta-feira-27/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:30",
+"t": "Último dia para se inscrever no concurso do IBGE com 27 mil vagas e salários de até R$ 4,3 mil",
+"p": "As inscrições para o concurso temporário do Instituto Brasileiro de Geografia e Estatística (IBGE) que vai contratar 27.279 recenseadores em todo o Brasil, para o 12º Censo Agropecuário, Florestal e Aquícola de 2027 terminam amanhã (25/11). O cadastro deve ser feito no portal da Fundação Cesgranrio com taxa de R$…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/concurso-ibge-1322-vagas-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:00",
+"t": "Ministério da Saúde concede Selo Ouro a Marília pela prevenção da hepatite B",
+"p": "Rede municipal atingiu indicadores e metas relacionados à prevenção da transmissão da doença de mãe para filho.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/ministerio-da-saude-concede-selo-ouro-a-marilia-pela-prevencao-da-hepatite-b/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:00",
+"t": "Saúde amplia vacinação contra pneumonia e meningite para idosos a partir dos 85 anos",
+"p": "Imunização é gratuita pelo SUS e não exige prescrição médica, mas depende de avaliação da equipe de saúde.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/saude-amplia-vacinacao-contra-pneumonia-e-meningite-para-idosos-a-partir-dos-85-anos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:00",
+"t": "Quintana elege primeira mulher para presidir a Câmara em 82 anos de história",
+"p": "Vereadora foi eleita durante a 20ª sessão ordinária, que também definiu a composição da nova mesa diretora da Casa.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Quintana"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/quintana-elege-primeira-mulher-para-presidir-a-camara-em-82-anos-de-historia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:00",
+"t": "Virada Inclusiva terá programação cultural, esportiva e de lazer em Marília",
+"p": "Iniciativa busca ampliar a participação de pessoas com deficiência em atividades abertas à comunidade.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/virada-inclusiva-tera-programacao-cultural-esportiva-e-de-lazer-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:00",
+"t": "Marília oferece máquinas agrícolas para atender pequenos e médios produtores rurais",
+"p": "Programa municipal atende lavouras comerciais e de subsistência com tratores e implementos agrícolas.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-oferece-maquinas-agricolas-para-atender-pequenos-e-medios-produtores-rurais/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:00",
+"t": "Praça Maria Izabel recebe melhorias para a 2ª edição do Natal Iluminado",
+"p": "Prefeitura realiza intervenções nas calçadas e na iluminação do espaço, localizado ao lado da Igreja São Bento.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/praca-maria-izabel-recebe-melhorias-para-a-2a-edicao-do-natal-iluminado/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:00",
+"t": "Obra de drenagem interdita rua na Aparecida, em Santos",
+"p": "Reprodução/Google Street View Rua Januário dos Santos ficará bloqueada a partir das 9h desta quarta-feira (25), com previsão de liberação em 18 de dezembro.",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/obra-de-drenagem-interdita-rua-na-aparecida-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "05:00",
+"t": "Frente fria coloca Baixada Santista em alerta para chuva forte e raios",
+"p": "Raimundo Rosa/Arquivo Prefeitura de Santos Após chuva deixar rastro de estragos na segunda e dar trégua na terça, nova frente fria deve intensificar instabilidades a partir desta quarta.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/frente-fria-coloca-baixada-santista-em-alerta-para-chuva-forte-e-raios/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "04:15",
+"t": "‘Lá na Minha Terra’: Rosenda reconhece Cesário após acidente de trânsito no capítulo desta quinta-feira (26)",
+"p": "Nesta quinta-feira (26), em ‘Lá na Minha Terra’, Celestina chantageia Cesário. Ela exige uma alta quantia para impedir o encontro dele com Rosenda. Desesperado, o empresário deixa a pensão às pressas e provoca um acidente com Lourdes. A moça chega ao local a mando de Almerindo. Durante a confusão, Rosenda…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/la-na-minha-terra-rosenda-reconhece-cesario-apos-acidente-de-transito-no-capitulo-desta-quinta-feira-26/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "02:15",
 "t": "Major que estrangulou esposa foi beneficiado por reajuste na aposentadoria",
 "p": "Aumento é indiscriminado e ocorreu após lei conferir reajuste de 10% nos vencimentos das polícias de São Paulo. O major é réu por lesão corp",
@@ -76,6 +306,32 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/apos-2-anos-governo-volta-a-anunciar-interdicao-de-escola-centenaria-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "01:33",
+"t": "Defesa Civil mobiliza Gabinete Especial para monitorar chuvas intensas nesta quarta e quinta-feira",
+"p": "A Defesa Civil do Estado de São Paulo ativa nesta quarta-feira (25) e quinta-feira (26) o Gabinete Especial da Operação El Niño para acompanhar o avanço de sistemas meteorológicos e coordenar ações preventivas e de resposta rápida diante da previsão de temporais. Os boletins apontam chuvas persistentes, de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-mobiliza-gabinete-especial-para-monitorar-chuvas-intensas-nesta-quarta-e-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "01:33",
+"t": "Bruna Biancardi aciona Justiça contra Luana Piovani por injúria e pede indenização",
+"p": "A influenciadora digital Bruna Biancardi protocolou uma queixa-crime na Justiça de São Paulo contra a atriz Luana Piovani, acusando-a do crime de injúria e solicitando indenização por danos morais no valor mínimo de R$ 50 mil. Apresentada no dia 16 deste mês, a ação judicial tem como base uma publicação feita pela…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/bruna-biancardi-aciona-justica-contra-luana-piovani-por-injuria-e-pede-indenizacao/",
 "auto": true
 },
 {
@@ -54689,267 +54945,6 @@
 ],
 "src": "NetCampos",
 "u": "https://www.netcampos.com/noticias/2026/11/governo-presente-no-monte-carlo-incentiva-adesao-a-coleta-seletiva.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:40",
-"t": "ANTT deverá regulamentar transporte de animais em ônibus",
-"p": "Decisão reconhece omissão da agência reguladora e determina abertura de processo para estabelecer normas específicas; advogado defende o fim do transporte de animais no bagageiro dos ônibus.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/antt-devera-regulamentar-transporte-de-animais-em-onibus/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:38",
-"t": "Referência do vôlei mundial, Bruninho estará em Jarinu para evento gratuito",
-"p": "Foto: Divulgação/ Prefeitura de Jarinu Bruninho em Jarinu: campeão olímpico participa de evento gratuito de vôlei no dia 10 de novembro, às 18h. Saiba como participar.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jarinu"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jarinu/bruninho-em-jarinu/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:35",
-"t": "Prefeito de Cubatão é aprovado por 49,2% da população",
-"p": "O desempenho do prefeito de Cubatão, Cesar Nascimento (PSD), é aprovado por 49,2% da população da cidade e reprovado por 44%. É o que revela pesquisa do Instituto Badra, realizada nos dias 27 e 28 de outubro, ouvindo 1.060 pessoas. Do total de entrevistados, 6,8% não souberam dizer. O desempenho de Cesar vem…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Cubatão"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/politica/prefeito-de-cubatao-e-aprovado-por-492-da-populacao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:35",
-"t": "Bike Santos tem novos valores a partir desta terça-feira (10)",
-"p": "Programa segue como uma importante alternativa de deslocamento para moradores e visitantes",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/bike-santos-tem-novos-valores-a-partir-desta-terca-feira-10/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:29",
-"t": "Lula se pronunciou: o que disse o presidente em rede nacional na noite do último domingo (8), 14 dias após sua reeleição",
-"p": "Em pronunciamento na noite de domingo (8), Lula reafirmou compromisso com a responsabilidade fiscal, prometeu elevar investimentos a 20% do PIB e criar condições para reduzir juros. Ele pediu conciliação, cobrou reforma política e do Judiciário e não anunciou medidas de ajuste.",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/lula-se-pronunciou-o-que-disse-o-presidente-em-rede-nacional-na-noite-do-ultimo-domingo-8-14-dias-apos-sua-reeleicao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:18",
-"t": "Aprovação ao prefeito de Santos sobe para 70%",
-"p": "Prestes a concluir a primeira metade de seu segundo mandato, o desempenho do prefeito de Santos, Rogério Santos (Republicanos) é aprovado por 70% da população da cidade e reprovado por apenas 24,3%. É o que revela pesquisa do Instituto Badra, realizada no dia 27 de outubro, ouvindo 1060 pessoas com 16 anos ou mais.…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/politica/aprovacao-ao-prefeito-de-santos-sobe-para-70/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:18",
-"t": "Em SP, relator propõe voto distrital misto para eleições de 2032",
-"p": "Texto apresentado na capital paulista prevê votação ainda este ano e inclui cidades com mais de 200 mil eleitores a partir de 2032.",
-"tema": "Eleições",
-"s": "anunciado",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/proposta-de-voto-distrital-misto-preve-mudanca-nas-eleicoes-proporcionais-do-pais-a-partir-de-2032/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:15",
-"t": "GCM detém suspeito de tráfico e apreende drogas no Parque Bitaru, em São Vicente",
-"p": "Suspeito tentou fugir ao perceber a aproximação dos guardas e foi levado ao 1º DP; buscas com cães localizaram mais drogas em um quintal",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/gcm-detem-suspeito-de-trafico-e-apreende-drogas-no-parque-bitaru-em-sao-vicente.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:13",
-"t": "SESI oferece teatro e música gratuitos em Santos e Cubatão",
-"p": "Programação de novembro reúne espetáculos teatrais, comédia e show em homenagem a Tim Maia e Jorge Ben, com entrada gratuita",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Cubatão",
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/sesi-oferece-teatro-e-musica-gratuitos-em-santos-e-cubatao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:12",
-"t": "IPVA 2027 SP: veja calendário de pagamento, descontos e parcelamento",
-"p": "Foto: Agência São Paulo Motoristas paulistas terão desconto de 3% para quitar o imposto em janeiro; datas variam conforme o final da placa.",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/brasil/ipva-2027-sp-calendario-pagamento/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:11",
-"t": "Governo Kayo Amado em São Vicente tem 59,4% de aprovação",
-"p": "Pesquisa realizada pelo Instituto Badra no dia 30 de outubro apontou que a gestão do prefeito de São Vicente, Kayo Amado (Podemos), conta com a aprovação de 59,4% dos munícipes. O levantamento, que ouviu 1.060 moradores da cidade, indicou ainda que 34,5% desaprovam a condução do Executivo, enquanto 6,0% não…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/politica/governo-kayo-amado-em-sao-vicente-tem-594-de-aprovacao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:11",
-"t": "Festival de churrasco terá roda gigante de costela, seis horas de carnes à vontade e chope gelado no litoral de SP",
-"p": "O Festival A Trinca chega a Santos no próximo sábado (14) com sua primeira edição, reunindo diferentes estilos de churrasco, cortes especiais e experiências gastronômicas em um só lugar. Com formato all inclusive, a programação terá seis horas de comida e bebida à vontade, incluindo uma atração que promete chamar a…",
-"tema": "Geral",
-"s": "anunciado",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/gastronomia/festival-de-churrasco-tera-roda-gigante-de-costela-seis-horas-de-carnes-a-vontade-e-chope-gelado-no-litoral-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:11",
-"t": "GCM prende acusado por roubo de celular na Avenida Dom Aguirre",
-"p": "A Guarda Civil Municipal (GCM) de Sorocaba, na madrugada desta segunda-feira (9), prendeu um homem acusado de roubo de telefone celular. Ele foi abordado durante patrulhamento preventivo pela Avenida Dom Aguirre. A equipe foi acionada por um munícipe, que acenou para a viatura e pediu ajuda. Ele relatou que havia…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-prende-acusado-por-roubo-de-celular-na-avenida-dom-aguirre/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:10",
-"t": "Gestão de Farid Madi é aprovada por 56,2% dos eleitores em Guarujá",
-"p": "Pesquisa realizada pelo Instituto Badra nos dias 26 e 27 de outubro revelou que 56,2% da população de Guarujá aprova o desempenho do prefeito Farid Madi (Podemos) à frente do Executivo municipal. Por outro lado, 35,0% dos entrevistados reprovam a atual administração, enquanto 8,8% não souberam responder. O estudo…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/politica/gestao-de-farid-madi-e-aprovada-por-562-dos-eleitores-em-guaruja/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:05",
-"t": "A espada-de-são-jorge pode perder espaço na decoração em 2027 para esta planta de interior com folhas desenhadas que parecem obras de arte",
-"p": "Conheça os cuidados com iluminação, rega e umidade para manter a folhagem saudável e preservar seus desenhos naturais",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/estilo-de-vida/a-espada-de-sao-jorge-pode-perder-espaco-na-decoracao-em-2027-para-esta-planta-de-interior-com-folhas-desenhadas-que-parecem-obras-de-arte/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:03",
-"t": "GCM de Sorocaba localiza 457 porções de entorpecentes em área de mata em Brigadeiro Tobias",
-"p": "Fotos: Divulgação/Sesu A Guarda Civil Municipal (GCM) de Sorocaba localizou 457 porções de entorpecentes escondidas em um arbusto, no interior do Centro Esportivo de Brigadeiro Tobias, na tarde deste domingo (8), após denúncia sobre possível comércio de drogas no local. A equipe foi procurada na base do bairro de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-de-sorocaba-localiza-457-porcoes-de-entorpecentes-em-area-de-mata-em-brigadeiro-tobias/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:02",
-"t": "Sol, mar e piscina: 8 cuidados para manter os cabelos saudáveis no verão",
-"p": "Durante as altas temperaturas do verão, é comum redobrarmos os cuidados com a pele. Afinal, a combinação entre sol, praia e piscina pode causar sérios danos ao tecido cutâneo, quando não são tomadas as devidas precauções. Mas não podemos esquecer que os cabelos também necessitam de cuidados especiais nessa época do…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/sol-mar-e-piscina-8-cuidados-para-manter-os-cabelos-saudaveis-no-verao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:00",
-"t": "Prédio é interditado em Diadema após pilares quebrarem",
-"p": "Caso na Rua Corunha não registrou vítimas; prefeitura solicitou laudos para avaliação técnica",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367743/predio-e-interditado-em-diadema-apos-pilares-quebrarem",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:00",
-"t": "Prédio é interditado em Diadema após pilares cederem",
-"p": "Caso na Rua Corunha não deixou vítimas; Prefeitura solicitou laudo para avaliação da estrutura",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367743/predio-e-interditado-em-diadema-apos-pilares-cederem",
 "auto": true
 }
 ]
