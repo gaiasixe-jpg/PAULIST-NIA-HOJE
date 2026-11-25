@@ -3,6 +3,324 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "13:23",
+"t": "Hotel inunda a própria garagem com 3 milhões de litros de água de propósito; decisão radical economiza milhares ao ano",
+"p": "Hotel inunda a própria garagem com 3 milhões de litros de água e adota estratégia inusitada para combater o desperdício e economizar",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/hotel-inunda-a-propria-garagem-com-3-milhoes-de-litros-de-agua-de-proposito-decisao-radical-economiza-milhares-ao-ano/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:21",
+"t": "Guarda Municipal de Jundiaí recebe mais de R$ 1 milhão em equipamentos de segurança",
+"p": "Foto: Prefeitura de Jundiaí Corporação recebeu 130 armas de choque e 430 sprays de pimenta para reduzir riscos durante as ocorrências e ampliar a proteção da população.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/guarda-municipal-de-jundiai-investimento/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:20",
+"t": "Operação contra o crime organizado cumpre mandados em Praia Grande",
+"p": "Ação do Gaeco e da Ficco-SP bloqueia R$45,6 milhões e prende sete suspeitos, incluindo suposto líder em Ilha Grande, e companheira, na fronteira",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/operacao-contra-o-crime-organizado-cumpre-mandados-em-praia-grande.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:19",
+"t": "Mostra Pedagógica reúne experiências de aprendizagem das 21 creches municipais de Registro",
+"p": "Educação Infantil",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/mostra-pedagogica-reune-experiencias-de-aprendizagem-das-21-creches-municipais-de-registro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:14",
+"t": "Mulher empresta MEI e descobre dívida de mais de R$ 1 milhão em Rio Preto",
+"p": "Uma faxineira de 55 anos, moradora de Rio Preto, procurou a Polícia Civil após descobrir que seu nome e os dados de sua empresa individual estavam envolvidos em uma suposta fraude de mais de R$ 1 milhão. Ela afirma que emprestou o registro de Microempreendedor Individual (MEI) a um casal de conhecidos, acreditando…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-empresta-mei-e-descobre-divida-de-mais-de-r-1-milhao-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:14",
+"t": "Mostra em Rio Preto promove atividades sobre a cultura indígena",
+"p": "A cultura, os conhecimentos e as tradições dos povos indígenas estarão no centro da programação da terceira edição da Mostra Educar Ancestral, que será realizada em Rio Preto e Guapiaçu entre os dias 4 e 13 de dezembro. Com atividades gratuitas, o evento prevê oficinas de dança, cerâmica, estamparia e teatro, ações…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"Guapiaçu",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mostra-em-rio-preto-promove-atividades-sobre-a-cultura-indigena/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:14",
+"t": "PRF e Ibama apreendem meia tonelada de agrotóxicos em Rio Preto",
+"p": "A Polícia Rodoviária Federal e o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) apreenderam 540 quilos de agrotóxicos transportados irregularmente em Rio Preto. A ocorrência foi registrada na tarde desta terça-feira (24/11), e dois homens, de 46 e 57 anos, foram presos em…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prf-e-ibama-apreendem-meia-tonelada-de-agrotoxicos-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:13",
+"t": "Cuidadora é presa após furtar celular de paciente recém-operada em Marília",
+"p": "Caso foi atendido pela Polícia Militar em Marília Aparelho foi escondido em uma luva cirúrgica dentro de fralda geriátrica na caixa da mangueira de incêndio.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/cuidadora-e-presa-apos-furtar-celular-de-paciente-recem-operada-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:08",
+"t": "Polícia Civil prende dois homens e apreende 2,4kg de drogas em casa-bomba de Bertioga",
+"p": "Flagrante ocorreu no Jardim Vicente de Carvalho; suspeitos de 22 anos armazenavam cocaína, maconha e crack, para abastecer pontos locais",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/policia-civil-prende-dois-homens-e-apreende-24kg-de-drogas-em-casa-bomba-de-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:07",
+"t": "Após polêmicas, Câmara do Rio entrega medalhas a Eduarda Campopiano e Lucas Pavanato",
+"p": "Eduarda recebeu a Medalha de Reconhecimento Chiquinha Gonzaga, enquanto Pavanato foi condecorado com o Conjunto de Medalhas de Mérito Pedro Ernesto",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/apos-polemicas-camara-do-rio-entrega-medalhas-a-eduarda-campopiano-e-lucas-pavanato/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:05",
+"t": "MP processa GCMs de Caraguatatuba por agressão e ameaça de abuso sexual contra grávida",
+"p": "Ação de improbidade administrativa aponta invasão de domicílio sem mandado, tapa no rosto e uso da vítima como informante sobre tráfico",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/mp-processa-gcms-de-caraguatatuba-por-agressao-e-ameaca-de-abuso-sexual-contra-gravida.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:02",
+"t": "Conta de luz do condomínio sobe e pesa na taxa; veja como economizar nas áreas comuns",
+"p": "A energia das áreas comuns é uma das despesas que mais pesam no orçamento de um condomínio, e ela tem subido. Um levantamento da Lemon Energia, climatech de energia solar compartilhada, analisou as faturas de 1.527 unidades consumidoras. A conta típica chega a R$ 1.551 por mês e ficou 9,4% mais cara de janeiro a […]",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/conta-de-luz-do-condominio-sobe-e-pesa-na-taxa-veja-como-economizar-nas-areas-comuns/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:02",
+"t": "Saúde masculina: 10 hábitos que ajudam a reduzir fatores de risco para o câncer de próstata",
+"p": "O Novembro Azul é um convite para os homens olharem com mais atenção para a própria saúde. E esse cuidado não deve ficar restrito à realização de exames: escolhas cotidianas relacionadas à alimentação, à atividade física e ao controle do peso também fazem parte de uma estratégia de prevenção de doenças e promoção…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/saude-masculina-10-habitos-que-ajudam-a-reduzir-fatores-de-risco-para-o-cancer-de-prostata/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:01",
+"t": "Campanha de doação de sangue mobiliza moradores em Cubatão",
+"p": "Ação em homenagem a Aloisio Sousa Castro recebe doações de todos os tipos sanguíneos no Hospital de Cubatão.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/vida/campanha-de-doacao-de-sangue-mobiliza-moradores-em-cubatao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "13:00",
+"t": "Erro de português pintado no asfalto de cidade brasileira viraliza nas redes sociais e Prefeitura surpreende com reação inusitada",
+"p": "Uma simples troca de letras na sinalização de trânsito transformou uma avenida de Guaíra, no Oeste do Paraná, em assunto nas redes sociais. A palavra “DEVAGAR”, que deveria orientar os motoristas a reduzirem a velocidade, acabou pintada incorretamente no asfalto como “DEGAVAR”. O erro ocorreu na Avenida Shingiro…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Guaíra"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/erro-de-portugues-pintado-no-asfalto-de-cidade-brasileira-viraliza-nas-redes-sociais-e-prefeitura-surpreende-com-reacao-inusitada/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:58",
+"t": "Justiça eleva pena de estuprador em série de 55 para 161 anos de prisão",
+"p": "Justiça acolheu recurso do Ministério Público de São Paulo (MPSP) para elevar a pena de estuprador em série. Crimes ocorreram em Itapeva",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo",
+"Itapeva"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-eleva-pena-de-estuprador-em-serie-de-55-para-161-anos-de-prisao",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:56",
+"t": "Confaz divulga preços médios de combustíveis para cálculo do ICMS",
+"p": "A lista atualiza o Preço Médio Ponderado ao Consumidor Final (PMPF), que funciona como uma estimativa oficial do valor pago pelos motoristas e empresas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/confaz-divulga-precos-medios-de-combustiveis-para-calculo-do-icms/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:50",
+"t": "Cidade troca lâmpadas convencionais por luzes vermelhas nas ruas de um bairro para proteger colônia de morcegos sem deixar moradores no escuro",
+"p": "A iluminação das ruas é fundamental para garantir a segurança de quem circula durante a noite, mas também pode representar um problema para os animais que dependem da escuridão, como os morcegos. Na Dinamarca, uma cidade encontrou uma alternativa curiosa para tentar equilibrar essas duas necessidades: substituir…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/cidade-troca-lampadas-convencionais-por-luzes-vermelhas-nas-ruas-de-um-bairro-para-proteger-colonia-de-morcegos-sem-deixar-moradores-no-escuro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:42",
+"t": "Corpo é achado perto de barragem durante buscas por caminhoneiro em SP",
+"p": "Apesar de indícios de que corpo seja do motorista, a identificação será oficializada pela Polícia Científica de São Paulo",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/corpo-e-achado-perto-de-barragem-durante-buscas-por-caminhoneiro-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:38",
+"t": "Dia do Doador de Sangue mobiliza rede de saúde e destaca necessidade de doações regulares",
+"p": "O Dia Nacional do Doador Voluntário de Sangue, celebrado nesta quarta-feira (25), marca a campanha “Cada doação é um ponto. Falta o seu”, promovida pela Secretaria de Estado da Saúde de São Paulo (SES-SP) para incentivar a frequência das doações e atrair novos voluntários. O sangue é indispensável em atendimentos…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/dia-do-doador-de-sangue-mobiliza-rede-de-saude-e-destaca-necessidade-de-doacoes-regulares/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:34",
+"t": "Chuva interdita trânsito no Bosque dos Jequitibás e no Taquaral",
+"p": "Emdec interditou a Rua General Marcondes Salgado e ativou faixa reversível na região do Bosque dos Jequitibás; parques e bosques também foram fechados após acumulado de chuva superar 80 mm em 72 horas",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/chuva-interdita-transito-no-bosque-dos-jequitibas-e-no-taquaral/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:30",
+"t": "Vale-refeição e alimentação: Justiça derruba liminar e faz novas regras voltarem a valer para empresas como Alelo e Ticket em todo o país",
+"p": "As novas regras do vale-refeição (VR) e do vale-alimentação (VA) voltaram a valer para empresas associadas à Associação Brasileira das Empresas de Benefícios ao Trabalhador (ABBT). A mudança ocorreu após o Tribunal Regional Federal da 1ª Região (TRF-1) derrubar, na terça-feira (24/11), a liminar que suspendia a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/vale-refeicao-e-alimentacao-justica-derruba-liminar-e-faz-novas-regras-voltarem-a-valer-para-empresas-como-alelo-e-ticket-em-todo-o-pais/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:24",
+"t": "Espetáculo internacional de motocross acrobático é atração em Sorocaba neste domingo (29)",
+"p": "Foto: Denis Ruvic / Red Bull Content Pool Sorocaba recebe, neste domingo (29), a partir das 11h, o Red Bull FMX Jam, evento inédito no Brasil que reúne pilotos internacionais de Freestyle Motocross (FMX) para apresentações de manobras e saltos acrobáticos com motocicletas. A atração gratuita acontece no Paço…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/espetaculo-internacional-de-motocross-acrobatico-e-atracao-em-sorocaba-neste-domingo-29/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "12:15",
 "t": "Manutenção em rede de energia interrompe abastecimento de água sexta-feira (27) na região do Genebra",
 "p": "O Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba informa que na sexta-feira (27), em função de manutenção preventiva na rede de energia elétrica na região do Genebra, por parte da concessionária distribuidora, o Centro de Distribuição do Saae/Sorocaba, nessa mesma localidade, não terá como bombear água. O…",
@@ -13,6 +331,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/manutencao-em-rede-de-energia-interrompe-abastecimento-de-agua-sexta-feira-27-na-regiao-do-genebra/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:15",
+"t": "Volkswagen anuncia motor híbrido flex que será feito em São Bernardo",
+"p": "Propulsor vai equipar o veículo híbrido flex que está programado para ser lançado em 2027",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370667/volkswagen-anuncia-motor-hibrido-flex-que-sera-feito-em-sao-bernardo",
 "auto": true
 },
 {
@@ -140,6 +472,21 @@
 },
 {
 "d": "2026-11-25",
+"h": "11:44",
+"t": "Praia da 1ª cidade do Brasil ganha Vila de Natal com Papai Noel ‘descolado’, luzes, dança e atividades para toda a família",
+"p": "O espírito natalino vai tomar conta de São Vicente a partir do próximo dia 28 de novembro. A cidade receberá sua primeira Vila de Natal, instalada na Praia do Itararé, nas proximidades do Parque da Juventude. Com entrada gratuita, o espaço contará com a presença do Papai Noel, decoração temática, feira de…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Vicente",
+"Itararé"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/praia-da-1a-cidade-do-brasil-ganha-vila-de-natal-com-papai-noel-descolado-luzes-danca-e-atividades-para-toda-a-familia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "11:40",
 "t": "Câmara de Fernandópolis aprova criação do CRAM e vereadores celebram avanço na rede de proteção à mulher",
 "p": "Os vereadores Afonso Pessutto, Carlos Cabral, Daniel da Saúde e Rosana Arouca publicaram um vídeo para comemorar a aprovação do projeto de lei que cria o Centro de Referência de Atendimento à Mulher (CRAM) em Fernandópolis. A proposta, enviada pela Prefeitura sob a gestão do prefeito João Paulo Cantarella e…",
@@ -150,6 +497,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/camara-de-fernandopolis-aprova-criacao-do-cram-e-vereadores-celebram-avanco-na-rede-de-protecao-a-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:38",
+"t": "Hotel de luxo inunda garagem subterrânea de propósito para guardar a água das piscinas e economizar mais de seis milhões de litros ao ano",
+"p": "Um hotel de luxo na Alemanha transformou a própria garagem subterrânea em um reservatório temporário para economizar água. O estacionamento do resort Das Stemp, localizado em Büchlberg, na região da Baviera, recebe a água das piscinas durante os períodos de manutenção, permitindo que o líquido seja reaproveitado em…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/hotel-de-luxo-inunda-garagem-subterranea-de-proposito-para-guardar-a-agua-das-piscinas-e-economizar-mais-de-seis-milhoes-de-litros-ao-ano/",
 "auto": true
 },
 {
