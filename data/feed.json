@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T14:56:29-03:00",
-"novos_nesta_coleta": 75,
+"atualizado": "2026-11-25T16:01:33-03:00",
+"novos_nesta_coleta": 29,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -15,7 +15,6 @@
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
 "Gazeta de Rio Preto",
-"Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
@@ -30,7 +29,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 64 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -44,9 +43,300 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário de Votuporanga",
+"erro": "HTTP Error 520: <none>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-25",
+"h": "16:00",
+"t": "Início de obras na orla de Santos gera questionamentos sobre trânsito na temporada",
+"p": "Santa Cecília TV O início das obras de revitalização na orla de Santos tem provocado opiniões diferentes entre moradores e motoristas.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/inicio-de-obras-na-orla-de-santos-gera-questionamentos-sobre-transito-na-temporada/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:59",
+"t": "Pista de caminhada do Parque Centenário é interditada parcialmente devido à elevação do nível do rio Tietê",
+"p": "Segundo a Prefeitura de Mogi das Cruzes, a medida é preventiva visa garantir a segurança dos frequentadores",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/pista-de-caminhada-do-parque-centenario-e-interditada-parcialmente-devido-a-elevacao-do-nivel-do-rio-tiete/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:34",
+"t": "Polícia Civil descobre fábrica clandestina de peças para fuzis e apreende três AK-47",
+"p": "Uma operação conjunta das Polícias Civis de São Paulo e de Santa Catarina descobriu uma fábrica clandestina de peças para fuzis e apreendeu três armas de grosso calibre nesta quarta-feira (25), em Rio Claro, no interior paulista. A ofensiva tem como objetivo desarticular um esquema de tráfico interestadual de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Rio Claro",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-descobre-fabrica-clandestina-de-pecas-para-fuzis-e-apreende-tres-ak-47/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:33",
+"t": "Governo de SP orienta sociedade a identificar sinais silenciosos de violência contra a mulher",
+"p": "Neste Dia Internacional para a Eliminação da Violência contra as Mulheres, celebrado em 25 de novembro, a Secretaria de Políticas para a Mulher do Estado de São Paulo alerta a população sobre a importância de reconhecer pedidos de ajuda que muitas vezes não são verbalizados. Integrada à mobilização 21 Dias por Elas…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-orienta-sociedade-a-identificar-sinais-silenciosos-de-violencia-contra-a-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:27",
+"t": "PF faz operação contra policiais rodoviários suspeitos de cobrar propina",
+"p": "Segundo a Polícia Federal (PF), prática seria cometida durante fiscalização nas proximidades de uma praça de pedágio em Miracatu (SP)",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Miracatu"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pf-faz-operacao-contra-policiais-rodoviarios-suspeitos-de-cobrar-propina",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:26",
+"t": "Vereador Carlos Cabral cobra urgência na criação de plano de carreira para a educação em Fernandópolis",
+"p": "O vereador Carlos Cabral usou a tribuna da Câmara Municipal para cobrar avanços na elaboração de um plano de carreira voltado aos profissionais da rede municipal de ensino de Fernandópolis. Em seu pronunciamento, o parlamentar destacou a importância de implantar uma política pública estruturada que garanta…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vereador-carlos-cabral-cobra-urgencia-na-criacao-de-plano-de-carreira-para-a-educacao-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:24",
+"t": "Presença de cobra em antiga escola abandonada preocupa moradores do bairro Uirapuru em Fernandópolis",
+"p": "Moradores do bairro Uirapuru, em Fernandópolis, relatam preocupação após o avistamento de uma cobra dentro do prédio de uma antiga escola localizada na Avenida Maracatins. O imóvel permanece abandonado há anos, e a entrada do animal aumentou o receio da vizinhança quanto a possíveis acidentes, especialmente…",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/presenca-de-cobra-em-antiga-escola-abandonada-preocupa-moradores-do-bairro-uirapuru-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:23",
+"t": "Homem quebra vidro de carro com pedra e é preso em flagrante pela GCM no centro de São Vicente",
+"p": "Morador alertou agentes da GCM de plantão na rodoviária sobre a ação na rua 13 de Maio, na noite da terça-feira (24)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/homem-quebra-vidro-de-carro-com-pedra-e-e-preso-em-flagrante-pela-gcm-no-centro-de-sao-vicente.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:19",
+"t": "Barueri (SP) terá serviço de radioterapia para até 1,8 mil pacientes ao ano",
+"p": "Hospital Regional de Barueri inaugura na quinta (26/11) atendimento capaz de realizar até 21,6 mil sessões de radioterapia por ano",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Barueri"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/barueri-sp-tera-servico-de-radioterapia-para-ate-18-mil-pacientes-ao-ano",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:18",
+"t": "Cruzeirinho 2026 define finalistas neste sábado e domingo (28 e 29)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), promove, neste fim de semana (28 e 29), os jogos válidos pela fase semifinal do 46º Torneio Aberto de Futsal para Crianças e Adolescentes – Cruzeirinho 2026. Estão agendadas quatro partidas na tarde de sábado (28), no Ginásio…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/cruzeirinho-2026-define-finalistas-neste-sabado-e-domingo-28-e-29/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:15",
+"t": "Por causa do super El Niño, Governo antecipa Bolsa Família de dezembro para apenas três dados com parcelas a partir de R$ 691; veja quando cai",
+"p": "O pagamento do Bolsa Família será antecipado em dezembro de 2026, com depósitos concentrados em apenas três datas: 10, 11 e 14. A mudança faz parte de um calendário extraordinário adotado pelo Governo Federal para acelerar o repasse dos recursos às famílias diante dos possíveis efeitos climáticos do super El Niño.…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/por-causa-do-super-el-nino-governo-antecipa-bolsa-familia-de-dezembro-para-apenas-tres-dados-com-parcelas-a-partir-de-r-691-veja-quando-cai/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:14",
+"t": "Vereador quer criar Semana da Beleza da Mulher em Rio Preto",
+"p": "Iniciativa prevê celebração anual na semana de 15 de junho, com ações de autoestima, autocuidado e valorização de profissionais do setor",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereador-quer-criar-semana-da-beleza-da-mulher-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:13",
+"t": "Vila de Natal chega a São Vicente com programação especial a partir de 28 de novembro",
+"p": "Evento na Praia do Itararé terá chegada do Papai Noel, decoração especial, apresentações musicais e feira de artesanato aos finais de semana",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Itararé"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/vila-de-natal-chega-a-sao-vicente-com-programacao-especial-a-partir-de-28-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:11",
+"t": "Câmara de Jundiaí aprova 10 projetos em dia de maratona; veja os principais destaques",
+"p": "Foto: Reprodução/YouTube Câmara de Jundiaí Em sessões ordinária e extraordinária, vereadores deram luz verde a itens como Orçamento de R$ 4,74 bilhões para 2027",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-jundiai-aprova-10-projetos-orcamento-policia-municipal-securitizacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:09",
+"t": "Vereador quer incentivar distribuição de perucas a pacientes em tratamento",
+"p": "Proposta estabelece diretrizes para aproximar doadores de pacientes que perderam os cabelos durante o tratamento contra o câncer",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereador-quer-incentivar-distribuicao-de-perucas-a-pacientes-em-tratamento/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:05",
+"t": "Sabesp realiza mais de 2 milhões de testes para garantir qualidade da água",
+"p": "Com 100% dos laboratórios acreditados pelo Inmetro, tecnologia de ponta e equipes especializadas, Companhia monitora a qualidade da água em todas as etapas, da captação nos mananciais até a chegada aos imóveis",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/sabesp-controle-qualidade-agua-2-milhoes-testes-ano/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:02",
+"t": "Azul, verde, violeta e até transparente: conheça animais que não têm sangue vermelho",
+"p": "Nos seres humanos, nos cachorros, nos gatos e em muitos outros animais, o sangue apresenta uma coloração vermelha. Isso acontece devido à presença da hemoglobina, uma proteína encontrada nas células sanguíneas que contém ferro e é responsável pelo transporte de oxigênio pelo organismo. Entretanto, nem todos os…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/azul-verde-violeta-e-ate-transparente-conheca-animais-que-nao-tem-sangue-vermelho/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:02",
+"t": "Prefeito quer remanejar R$ 8 milhões de Obras para a Educação",
+"p": "Projeto enviado à Câmara em regime de urgência prevê transferência de recursos destinados a equipamentos e material permanente da Secretaria de Obras para a Educação",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeito-quer-remanejar-r-8-milhoes-de-obras-para-a-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:00",
+"t": "Programa de seminovos da Hyundai oferece 5 anos de garantia igual a carro zero e ultrapassa mil vendas",
+"p": "O programa Hyundai Semprenovos completou um ano de operação no Brasil e superou a marca de 1.012 veículos vendidos. Lançada pela montadora sul-coreana, a iniciativa se destaca no mercado nacional por oferecer garantia de cinco anos, sem limite de quilometragem, para carros usados selecionados. De acordo com a…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/automotor/programa-de-seminovos-da-hyundai-oferece-5-anos-de-garantia-igual-a-carro-zero-e-ultrapassa-mil-vendas/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "14:57",
+"t": "Prefeitura abre inscrições para o curso de Administrador de Redes, em parceria com o Senac",
+"p": "A Prefeitura de Sorocaba, por meio do programa Metareciclagem, ligado à Secretaria de Desenvolvimento Econômico (Sede), está com inscrições abertas para o curso gratuito de Administrador de Redes. A capacitação é presencial e acontece em parceria com o Serviço Nacional de Aprendizagem Comercial (Senac)No curso, o…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-abre-inscricoes-para-o-curso-de-administrador-de-redes-em-parceria-com-o-senac/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "14:56",
+"t": "Luciano Hang envia caminhão da Havan repleto de doações para vítimas de temporal: “Não poderíamos ficar de braços cruzados diante de uma situação como essa”",
+"p": "O empresário e dono da Havan, Luciano Hang, anunciou a doação de um caminhão repleto de edredons e travesseiros da empresa para auxiliar as famílias atingidas pelas fortes chuvas em Tupanciretã, no Rio Grande do Sul. O município vem sofrendo com as consequências dos fortes ventos da última sexta-feira (20). “Não…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/luciano-hang-envia-caminhao-da-havan-repleto-de-doacoes-para-vitimas-de-temporal-nao-poderiamos-ficar-de-bracos-cruzados-diante-de-uma-situacao-como-essa/",
+"auto": true
+},
 {
 "d": "2026-11-25",
 "h": "14:55",
@@ -115,6 +405,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/prf-e-ibama-apreendem-540-kg-de-agrotoxicos-disfarcados-de-fertilizantes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "14:45",
+"t": "Luciano Hang, dono da Havan, contrata trabalhador que perdeu parte do braço em acidente há 26 anos e dá a ele novas responsabilidades dentro da empresa",
+"p": "Funcionário da Havan de Luciano Hang perdeu parte do braço em acidente há 26 anos. Conheça sua trajetória profissional em Santa Catarina",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/luciano-hang-dono-da-havan-contrata-trabalhador-que-perdeu-parte-do-braco-em-acidente-ha-26-anos-e-da-a-ele-novas-responsabilidades-dentro-da-empresa/",
 "auto": true
 },
 {
@@ -54733,310 +55035,6 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/policia/mp-investiga-propina-de-pms-para-favorecer-guinchos-em-pg-e-mongagua/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "10:00",
-"t": "Danilo Morgado é indiciado por organização criminosa em investigação sobre PCC",
-"p": "Reprodução/Facebook A Polícia Civil de São Paulo indiciou Danilo Morgado, ex-candidato à Prefeitura de Praia Grande, pelo crime de organização criminosa.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Praia Grande",
-"São Paulo"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/danilo-morgado-e-indiciado-por-organizacao-criminosa-em-investigacao-sobre-pcc/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:59",
-"t": "Governo mantém desconto nos impostos da gasolina e do etanol por mais 30 dias",
-"p": "Foto: Marcelo Camargo/Agência Brasil Isenção de tributos federais vai valer até 9 de dezembro para aliviar o bolso dos motoristas contra a alta do petróleo",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/governo-mantem-desconto-impostos-gasolina-etanol-30-dias/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:55",
-"t": "Poupatempo lança check-in digital por QR Code para agilizar atendimento presencial",
-"p": "As unidades do Poupatempo em todo o Estado de São Paulo contam com uma nova funcionalidade para otimizar o fluxo de passageiros e evitar filas nas recepções. Agora, os cidadãos que possuem serviços previamente agendados podem confirmar a chegada diretamente pelo celular, dispensando a necessidade de passar pelo…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/poupatempo-lanca-check-in-digital-por-qr-code-para-agilizar-atendimento-presencial/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:54",
-"t": "Inmet alerta para tempestade em Rio Preto e Araçatuba",
-"p": "Aviso de perigo potencial inclui ventos de 40 a 60 km/h, queda de granizo e chuva de até 50 mm no dia 11 de novembro de 2026.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Araçatuba",
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/aviso-de-tempestade-severidade-grau-perigo-potencial-136/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:54",
-"t": "Atraso no pagamento de terceirizados causa transtornos em mais de 20 escolas",
-"p": "Atraso nos salários de profissionais de apoio escolar causa reflexos em Ribeirão Preto; Prefeitura diz que pagamentos à empresa estão em dia",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/politica/atraso-no-pagamento-de-terceirizados-causa-transtornos-em-mais-de-20-escolas/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:52",
-"t": "Inmet alerta para tempestade em São José do Rio Preto",
-"p": "Aviso meteorológico prevê ventos de até 60 km/h, queda de granizo e chuva de até 50 mm por dia, com início programado para 12/11/2026.",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/aviso-de-tempestade-severidade-grau-perigo-potencial-134/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:50",
-"t": "Governo de São Paulo atualiza regras para autorização de queima controlada na agricultura",
-"p": "O Governo do Estado de São Paulo, por meio da Secretaria de Agricultura e Abastecimento, definiu novos procedimentos e normas técnicas para a emissão de autorizações de queima controlada em atividades agrícolas. A medida esclarece a divisão de atribuições entre os órgãos estaduais de fiscalização e assistência,…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/governo-de-sao-paulo-atualiza-regras-para-autorizacao-de-queima-controlada-na-agricultura/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:46",
-"t": "Mulher de 56 anos volta à escola após 40 anos longe das aulas, conclui o ensino básico e entra na universidade para ser assistente social",
-"p": "Aos 56 anos, Dianieire Pereira de Souza, a Diani, que deixou a escola aos sete anos para trabalhar, concluiu o ensino básico pela EJA e foi aprovada em Serviço Social em universidade federal.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/brasil/mulher-de-56-anos-volta-a-escola-apos-40-anos-longe-das-aulas-conclui-o-ensino-basico-e-entra-na-universidade-para-ser-assistente-social/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:45",
-"t": "Marília enfrenta paralisação no transporte e ameaça de novas greves",
-"p": "Gratuidade será válida das 8h às 17h, segundo a Emdurb; antes e depois desse período, passageiros pagarão a tarifa normal Motoristas interromperam serviço por duas horas; merendeiras notificaram greve e coletores relatam atraso no pagamento.",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mntv/marilia-enfrenta-paralisacao-no-transporte-e-ameaca-de-novas-greves/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:44",
-"t": "São Vicente convoca 105 novos guardas municipais e vai bater recorde histórico de efetivo",
-"p": "Com a chegada dos novos agentes, GCM poderá alcançar 290 integrantes, superando marca já estabelecida durante a gestão Kayo Amado",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/litoral/sao-vicente-convoca-105-novos-guardas-municipais-e-vai-bater-recorde-historico-de-efetivo/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:41",
-"t": "Concurso público tem vagas em Ribeirão Preto e salários de até R$ 12 mil; veja edital",
-"p": "Concurso público da Cetesb tem 107 vagas de níveis médio e superior em 12 regiões paulistas; inscrições abrem em 12 de novembro",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/economia/concurso-publico-tem-vagas-em-ribeirao-preto-e-salarios-de-ate-r-12-mil-veja-edital/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:39",
-"t": "Secretaria de Saúde de PG se reúne para debater enfrentamento às emergências climáticas",
-"p": "Sala de Situação foi criada para preparar equipes para atuar diante dos possíveis impactos relacionados ao El Niño na saúde",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/litoral/secretaria-de-saude-de-pg-se-reune-para-debater-enfrentamento-as-emergencias-climaticas/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:36",
-"t": "Confira as ofertas de emprego no PAT Marília nesta terça-feira (10/11)",
-"p": "Ao todo, são 18 funções disponíveis, com oportunidades para diferentes níveis de escolaridade e experiência.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-terca-feira-10-11/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:33",
-"t": "Confira a previsão do tempo para Marília nesta terça-feira (10/11)",
-"p": "Dia começa ameno com mínima de 14°C, tempo firme e sem previsão de chuvas na cidade.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-terca-feira-10-11/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:30",
-"t": "Fábio Jr. lamenta morte de fã que passou mal durante show no interior de SP",
-"p": "O cantor Fábio Jr. usou suas redes sociais para lamentar publicamente o falecimento de uma fã que passou mal durante sua apresentação no município de Jaguariúna, no interior de São Paulo, realizada no último sábado (7). A vítima foi identificada como Sheila Cruz Martins, de 51 anos, que chegou a receber assistência…",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Jaguariúna"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/fabio-jr-lamenta-morte-de-fa-que-passou-mal-durante-show-no-interior-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:29",
-"t": "SP Águas publica edital de concurso público com 190 vagas e salários de até R$ 12 mil",
-"p": "Inscrições ficam abertas de 17 de novembro a 17 de dezembro, exclusivamente pelo site da Fundação Getulio Vargas (FGV)",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/sp-aguas-publica-edital-de-concurso-publico-com-190-vagas-e-salarios-de-ate-r-12-mil/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:25",
-"t": "Criança de 4 anos pede socorro a porteiro após mãe ser morta a facadas",
-"p": "Câmeras de segurança de um condomínio residencial no bairro Parque São Vicente, em São Vicente, no litoral paulista, registraram momentos dramáticos em que um menino de quatro anos desceu sozinho até a portaria para pedir socorro após a mãe ser assassinada dentro de casa. O crime ocorreu na madrugada da última…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/crianca-de-4-anos-pede-socorro-a-porteiro-apos-mae-ser-morta-a-facadas/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:24",
-"t": "Falta de água atinge bairro hoje; veja onde e horário",
-"p": "Interrupção está prevista das 8h às 17h devido a uma obra de interligação da rede de água; abastecimento será retomado gradualmente",
-"tema": "Água",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/falta-de-agua-atinge-bairro-hoje-veja-onde-e-horario/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:22",
-"t": "Polícia investiga 15º corpo encontrado com sinais de violência extrema na capital",
-"p": "A Polícia Militar localizou, na noite do último domingo (8), o corpo decapitado de um homem no Parque América, região do Grajaú, na zona sul de São Paulo. Imagens de uma câmera de segurança registraram o momento em que um veículo parou na Rua Luiz Lutti e um dos ocupantes abandonou o cadáver próximo à […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-investiga-15o-corpo-encontrado-com-sinais-de-violencia-extrema-na-capital/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:14",
-"t": "Mega da Virada de R$ 1,09 bilhão entrou para a história com seis ganhadores, bolões premiados e sorteio adiado por falha inédita",
-"p": "A última edição da Mega da Virada movimentou o Brasil e entrou para a história das loterias. O concurso 2.955, referente a 2025, distribuiu R$ 1.091.357.286,52, o maior prêmio já registrado pelas Loterias da Caixa até então. Ao todo, seis apostas acertaram as seis dezenas e dividiram a bolada milionária. Os números…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/mega-da-virada-de-r-109-bilhao-entrou-para-a-historia-com-seis-ganhadores-boloes-premiados-e-sorteio-adiado-por-falha-inedita/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:11",
-"t": "Exposição gratuita em Santos apresenta pinturas de crianças com deficiência",
-"p": "Obras refletem experiências, sentimentos e diferentes olhares dos alunos sobre o mundo",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/exposicao-gratuita-em-santos-apresenta-pinturas-de-criancas-com-deficiencia/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "09:07",
-"t": "Reservatório de água de Brás Cubas vai receber painel de grafite de 1,5 mil m² em Mogi das Cruzes",
-"p": "Intervenção foi a alternativa encontrada para valorizar o espaço público e conter pichações recorrentes na fachada",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/reservatorio-de-agua-de-braz-cubas-vai-receber-painel-de-grafite-de-15-mil-m%c2%b2-em-mogi-das-cruzes/",
 "auto": true
 }
 ]

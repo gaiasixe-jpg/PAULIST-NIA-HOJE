@@ -3,6 +3,293 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "16:00",
+"t": "Início de obras na orla de Santos gera questionamentos sobre trânsito na temporada",
+"p": "Santa Cecília TV O início das obras de revitalização na orla de Santos tem provocado opiniões diferentes entre moradores e motoristas.",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/inicio-de-obras-na-orla-de-santos-gera-questionamentos-sobre-transito-na-temporada/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:59",
+"t": "Pista de caminhada do Parque Centenário é interditada parcialmente devido à elevação do nível do rio Tietê",
+"p": "Segundo a Prefeitura de Mogi das Cruzes, a medida é preventiva visa garantir a segurança dos frequentadores",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/pista-de-caminhada-do-parque-centenario-e-interditada-parcialmente-devido-a-elevacao-do-nivel-do-rio-tiete/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:34",
+"t": "Polícia Civil descobre fábrica clandestina de peças para fuzis e apreende três AK-47",
+"p": "Uma operação conjunta das Polícias Civis de São Paulo e de Santa Catarina descobriu uma fábrica clandestina de peças para fuzis e apreendeu três armas de grosso calibre nesta quarta-feira (25), em Rio Claro, no interior paulista. A ofensiva tem como objetivo desarticular um esquema de tráfico interestadual de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Rio Claro",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-descobre-fabrica-clandestina-de-pecas-para-fuzis-e-apreende-tres-ak-47/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:33",
+"t": "Governo de SP orienta sociedade a identificar sinais silenciosos de violência contra a mulher",
+"p": "Neste Dia Internacional para a Eliminação da Violência contra as Mulheres, celebrado em 25 de novembro, a Secretaria de Políticas para a Mulher do Estado de São Paulo alerta a população sobre a importância de reconhecer pedidos de ajuda que muitas vezes não são verbalizados. Integrada à mobilização 21 Dias por Elas…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/governo-de-sp-orienta-sociedade-a-identificar-sinais-silenciosos-de-violencia-contra-a-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:27",
+"t": "PF faz operação contra policiais rodoviários suspeitos de cobrar propina",
+"p": "Segundo a Polícia Federal (PF), prática seria cometida durante fiscalização nas proximidades de uma praça de pedágio em Miracatu (SP)",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Miracatu"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pf-faz-operacao-contra-policiais-rodoviarios-suspeitos-de-cobrar-propina",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:26",
+"t": "Vereador Carlos Cabral cobra urgência na criação de plano de carreira para a educação em Fernandópolis",
+"p": "O vereador Carlos Cabral usou a tribuna da Câmara Municipal para cobrar avanços na elaboração de um plano de carreira voltado aos profissionais da rede municipal de ensino de Fernandópolis. Em seu pronunciamento, o parlamentar destacou a importância de implantar uma política pública estruturada que garanta…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/vereador-carlos-cabral-cobra-urgencia-na-criacao-de-plano-de-carreira-para-a-educacao-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:24",
+"t": "Presença de cobra em antiga escola abandonada preocupa moradores do bairro Uirapuru em Fernandópolis",
+"p": "Moradores do bairro Uirapuru, em Fernandópolis, relatam preocupação após o avistamento de uma cobra dentro do prédio de uma antiga escola localizada na Avenida Maracatins. O imóvel permanece abandonado há anos, e a entrada do animal aumentou o receio da vizinhança quanto a possíveis acidentes, especialmente…",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/presenca-de-cobra-em-antiga-escola-abandonada-preocupa-moradores-do-bairro-uirapuru-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:23",
+"t": "Homem quebra vidro de carro com pedra e é preso em flagrante pela GCM no centro de São Vicente",
+"p": "Morador alertou agentes da GCM de plantão na rodoviária sobre a ação na rua 13 de Maio, na noite da terça-feira (24)",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/homem-quebra-vidro-de-carro-com-pedra-e-e-preso-em-flagrante-pela-gcm-no-centro-de-sao-vicente.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:19",
+"t": "Barueri (SP) terá serviço de radioterapia para até 1,8 mil pacientes ao ano",
+"p": "Hospital Regional de Barueri inaugura na quinta (26/11) atendimento capaz de realizar até 21,6 mil sessões de radioterapia por ano",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Barueri"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/barueri-sp-tera-servico-de-radioterapia-para-ate-18-mil-pacientes-ao-ano",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:18",
+"t": "Cruzeirinho 2026 define finalistas neste sábado e domingo (28 e 29)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), promove, neste fim de semana (28 e 29), os jogos válidos pela fase semifinal do 46º Torneio Aberto de Futsal para Crianças e Adolescentes – Cruzeirinho 2026. Estão agendadas quatro partidas na tarde de sábado (28), no Ginásio…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/cruzeirinho-2026-define-finalistas-neste-sabado-e-domingo-28-e-29/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:15",
+"t": "Por causa do super El Niño, Governo antecipa Bolsa Família de dezembro para apenas três dados com parcelas a partir de R$ 691; veja quando cai",
+"p": "O pagamento do Bolsa Família será antecipado em dezembro de 2026, com depósitos concentrados em apenas três datas: 10, 11 e 14. A mudança faz parte de um calendário extraordinário adotado pelo Governo Federal para acelerar o repasse dos recursos às famílias diante dos possíveis efeitos climáticos do super El Niño.…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/por-causa-do-super-el-nino-governo-antecipa-bolsa-familia-de-dezembro-para-apenas-tres-dados-com-parcelas-a-partir-de-r-691-veja-quando-cai/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:14",
+"t": "Vereador quer criar Semana da Beleza da Mulher em Rio Preto",
+"p": "Iniciativa prevê celebração anual na semana de 15 de junho, com ações de autoestima, autocuidado e valorização de profissionais do setor",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereador-quer-criar-semana-da-beleza-da-mulher-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:13",
+"t": "Vila de Natal chega a São Vicente com programação especial a partir de 28 de novembro",
+"p": "Evento na Praia do Itararé terá chegada do Papai Noel, decoração especial, apresentações musicais e feira de artesanato aos finais de semana",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Itararé"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/vila-de-natal-chega-a-sao-vicente-com-programacao-especial-a-partir-de-28-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:11",
+"t": "Câmara de Jundiaí aprova 10 projetos em dia de maratona; veja os principais destaques",
+"p": "Foto: Reprodução/YouTube Câmara de Jundiaí Em sessões ordinária e extraordinária, vereadores deram luz verde a itens como Orçamento de R$ 4,74 bilhões para 2027",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-jundiai-aprova-10-projetos-orcamento-policia-municipal-securitizacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:09",
+"t": "Vereador quer incentivar distribuição de perucas a pacientes em tratamento",
+"p": "Proposta estabelece diretrizes para aproximar doadores de pacientes que perderam os cabelos durante o tratamento contra o câncer",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereador-quer-incentivar-distribuicao-de-perucas-a-pacientes-em-tratamento/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:05",
+"t": "Sabesp realiza mais de 2 milhões de testes para garantir qualidade da água",
+"p": "Com 100% dos laboratórios acreditados pelo Inmetro, tecnologia de ponta e equipes especializadas, Companhia monitora a qualidade da água em todas as etapas, da captação nos mananciais até a chegada aos imóveis",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/sabesp-controle-qualidade-agua-2-milhoes-testes-ano/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:02",
+"t": "Azul, verde, violeta e até transparente: conheça animais que não têm sangue vermelho",
+"p": "Nos seres humanos, nos cachorros, nos gatos e em muitos outros animais, o sangue apresenta uma coloração vermelha. Isso acontece devido à presença da hemoglobina, uma proteína encontrada nas células sanguíneas que contém ferro e é responsável pelo transporte de oxigênio pelo organismo. Entretanto, nem todos os…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/azul-verde-violeta-e-ate-transparente-conheca-animais-que-nao-tem-sangue-vermelho/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:02",
+"t": "Prefeito quer remanejar R$ 8 milhões de Obras para a Educação",
+"p": "Projeto enviado à Câmara em regime de urgência prevê transferência de recursos destinados a equipamentos e material permanente da Secretaria de Obras para a Educação",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeito-quer-remanejar-r-8-milhoes-de-obras-para-a-educacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "15:00",
+"t": "Programa de seminovos da Hyundai oferece 5 anos de garantia igual a carro zero e ultrapassa mil vendas",
+"p": "O programa Hyundai Semprenovos completou um ano de operação no Brasil e superou a marca de 1.012 veículos vendidos. Lançada pela montadora sul-coreana, a iniciativa se destaca no mercado nacional por oferecer garantia de cinco anos, sem limite de quilometragem, para carros usados selecionados. De acordo com a…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/automotor/programa-de-seminovos-da-hyundai-oferece-5-anos-de-garantia-igual-a-carro-zero-e-ultrapassa-mil-vendas/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "14:57",
+"t": "Prefeitura abre inscrições para o curso de Administrador de Redes, em parceria com o Senac",
+"p": "A Prefeitura de Sorocaba, por meio do programa Metareciclagem, ligado à Secretaria de Desenvolvimento Econômico (Sede), está com inscrições abertas para o curso gratuito de Administrador de Redes. A capacitação é presencial e acontece em parceria com o Serviço Nacional de Aprendizagem Comercial (Senac)No curso, o…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-abre-inscricoes-para-o-curso-de-administrador-de-redes-em-parceria-com-o-senac/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "14:56",
+"t": "Luciano Hang envia caminhão da Havan repleto de doações para vítimas de temporal: “Não poderíamos ficar de braços cruzados diante de uma situação como essa”",
+"p": "O empresário e dono da Havan, Luciano Hang, anunciou a doação de um caminhão repleto de edredons e travesseiros da empresa para auxiliar as famílias atingidas pelas fortes chuvas em Tupanciretã, no Rio Grande do Sul. O município vem sofrendo com as consequências dos fortes ventos da última sexta-feira (20). “Não…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/luciano-hang-envia-caminhao-da-havan-repleto-de-doacoes-para-vitimas-de-temporal-nao-poderiamos-ficar-de-bracos-cruzados-diante-de-uma-situacao-como-essa/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "14:55",
 "t": "Licitação do transporte: secretário justifica alta no custo da mão de obra por causa do 5×2; veja entrevista",
 "p": "Adiamento da licitação do transporte foi anunciado pela Prefeitura nesta quarta-feira (25); leilão ficou para o começo de 2027",
@@ -69,6 +356,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/prf-e-ibama-apreendem-540-kg-de-agrotoxicos-disfarcados-de-fertilizantes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "14:45",
+"t": "Luciano Hang, dono da Havan, contrata trabalhador que perdeu parte do braço em acidente há 26 anos e dá a ele novas responsabilidades dentro da empresa",
+"p": "Funcionário da Havan de Luciano Hang perdeu parte do braço em acidente há 26 anos. Conheça sua trajetória profissional em Santa Catarina",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/luciano-hang-dono-da-havan-contrata-trabalhador-que-perdeu-parte-do-braco-em-acidente-ha-26-anos-e-da-a-ele-novas-responsabilidades-dentro-da-empresa/",
 "auto": true
 },
 {
