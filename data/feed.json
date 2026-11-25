@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T01:15:53-03:00",
-"novos_nesta_coleta": 10,
+"atualizado": "2026-11-25T02:23:53-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-25",
+"h": "02:15",
+"t": "Major que estrangulou esposa foi beneficiado por reajuste na aposentadoria",
+"p": "Aumento é indiscriminado e ocorreu após lei conferir reajuste de 10% nos vencimentos das polícias de São Paulo. O major é réu por lesão corp",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/major-que-estrangulou-esposa-foi-beneficiado-por-reajuste-na-aposentadoria",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "02:00",
+"t": "Após 2 anos, governo volta a anunciar interdição de escola centenária em SP",
+"p": "Escola Estadual de São Paulo, uma das primeiras da capital paulista, será fechada temporariamente para obras do Parque Dom Pedro II",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/apos-2-anos-governo-volta-a-anunciar-interdicao-de-escola-centenaria-em-sp",
+"auto": true
+},
 {
 "d": "2026-11-25",
 "h": "01:06",
@@ -54922,34 +54950,6 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4367743/predio-e-interditado-em-diadema-apos-pilares-cederem",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:59",
-"t": "GCM prende homem com 694 porções de drogas na Vila Nova Sorocaba",
-"p": "A Guarda Civil Municipal (GCM) prendeu, na manhã do último sábado (7), um homem de 18 anos de idade, por tráfico de drogas, durante patrulhamento preventivo na Vila Nova Sorocaba, na Zona Norte da cidade. Com apoio do cão farejador Koda, do Canil da corporação, os agentes apreenderam durante a ação 694 porções de…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-prende-homem-com-694-porcoes-de-drogas-na-vila-nova-sorocaba/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:54",
-"t": "TCE fiscaliza rede de proteção às mulheres em Marília e outras cidades",
-"p": "Ação ocorre nesta segunda-feira (9) e avalia estrutura e acolhimento de vítimas de violência doméstica em 140 municípios paulistas.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/tce-fiscaliza-rede-de-protecao-as-mulheres-em-marilia-e-outras-cidades-de-sp/",
 "auto": true
 }
 ]
