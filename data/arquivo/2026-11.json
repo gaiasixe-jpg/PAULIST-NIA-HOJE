@@ -3,6 +3,285 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "10:15",
+"t": "Apontado como líder de esquema de receptação de cobre é preso em Marília",
+"p": "Fios de cobre apreendidos durante operação da Polícia Civil em Bauru Operação da Polícia Civil prendeu seis suspeitos e apreendeu cerca de uma tonelada de materiais e equipamentos em Bauru.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília",
+"Bauru"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/apontado-como-lider-de-esquema-de-receptacao-de-cobre-e-preso-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:11",
+"t": "Troca de bomba pode deixar bairro de Ribeirão Preto sem água nesta quarta-feira (25)",
+"p": "Serviço da Saerp na Vila Tibério acontece até as 18h; fornecimento de água na região retorna aos poucos após a conclusão do trabalho",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/troca-de-bomba-pode-deixar-bairro-de-ribeirao-preto-sem-agua-nesta-quarta-feira-25/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:08",
+"t": "Itapeva realiza IV Feira do Conhecimento e Inovação com projetos de jovens empreendedores",
+"p": "O protagonismo juvenil, a criatividade e o espírito empreendedor estarão em destaque no dia 27 de novembro, em Itapeva. A cidade realiza a ‘IV Feira do Conhecimento e Inovação – Jovens Empreendedores Primeiros Passos’ (JEPP), evento que marcará a mostra e o encerramento das atividades do programa, com a…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/feira-do-conhecimento/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:04",
+"t": "Justiça de Rio Preto condena mulher por furtar R$ 400 em cosméticos de farmácia no Centro para comprar crack",
+"p": "A 4ª Vara Criminal da Comarca de São José do Rio Preto condenou Jozilaine Vieira da Silva Damaceno à pena de um ano de reclusão, em regime inicial aberto — substituída por prestação de serviços à comunidade ou a entidades públicas —, além do pagamento de 10 dias-multa, pelo crime de furto simples. A sentença, […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-mulher-por-furtar-r-400-em-cosmeticos-de-farmacia-no-centro-para-comprar-crack/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:03",
+"t": "Entregador denuncia mulher após conflito em corrida por aplicativo em Rio Preto",
+"p": "Vítima afirma que recebeu mensagens com xingamentos depois de informar que não poderia realizar transporte de passageiros",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/entregador-denuncia-mulher-apos-conflito-em-corrida-por-aplicativo-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:02",
+"t": "Suspeito de recolher dinheiro do tráfico é preso com R$ 1,2 mil, drogas e cinco celulares",
+"p": "Desempregado de 18 anos revelou à polícia quanto recebia pelo serviço; prisão ocorreu no Parque das Azaleias.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/suspeito-de-recolher-dinheiro-do-trafico-e-preso-com-r-12-mil-drogas-e-cinco-celulares/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:00",
+"t": "PM Ambiental apreende seis aves silvestres em cativeiro em Cubatão",
+"p": "Divulgação/PM Ambiental A Polícia Militar Ambiental apreendeu seis aves silvestres mantidas irregularmente em cativeiro em uma residência, em Cubatão.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/pm-ambiental-apreende-seis-aves-silvestres-em-cativeiro-em-cubatao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:57",
+"t": "Projeto Colo de Mãe supera 400 gestantes beneficiadas em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Iniciativa do Fundo Social de Solidariedade, em parceria com a rede municipal de saúde, chegou à 17ª edição com a entrega de kits maternidade.",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/colo-de-mae-jundiai-400-gestantes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:57",
+"t": "Justiça de Fernandópolis condena homem a mais de cinco anos de prisão em regime fechado por tráfico de crack no Parque das Nações",
+"p": "A 2ª Vara Criminal da Comarca de Fernandópolis condenou Wesley Antônio de Souza à pena de cinco anos, quatro meses e cinco dias de reclusão, em regime inicial fechado, além do pagamento de 534 dias-multa, pelo crime de tráfico de drogas. A sentença, assinada pelo juiz Ricardo Barea Borges e disponibilizada nesta…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-fernandopolis-condena-homem-a-mais-de-cinco-anos-de-prisao-em-regime-fechado-por-trafico-de-crack-no-parque-das-nacoes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:55",
+"t": "Jovem é autorizada a tirar nome da mãe de certidão após abusos na infância",
+"p": "Justiça de São Paulo decidiu, por unanimidade, autorizar a exclusão da filiação materna da certidão de nascimento de Heloisa de Lima",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/jovem-e-autorizada-a-tirar-nome-da-mae-de-certidao-apos-abusos-na-infancia",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:52",
+"t": "Bueiros continuam entupidos após chuvas e alagamentos em São Paulo",
+"p": "Em meio a um aumento do volume de chuvas nos últimos meses, bairros de São Paulo continuam enfrentando um problema tradicional na capital.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/bueiros-continuam-entupidos-apos-chuvas-e-alagamentos-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:34",
+"t": "Homem descumpre medida, pula muro da ex e é preso pela GCM em Rio Preto",
+"p": "Mulher acionou a Guarda Civil Municipal após o homem pular o muro da residência dela",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-descumpre-medida-pula-muro-da-ex-e-e-preso-pela-gcm-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:32",
+"t": "Prefeitura avança com proposta para transformar dívida ativa em recursos imediatos para Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Projeto prevê antecipação de receitas municipais para obras, serviços públicos e previdência, sem aumento de impostos.",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-securitizacao-divida-ativa/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:32",
+"t": "Justiça de Rio Preto condena multirreincidente em regime fechado por furtar moto de garagem no Jardim Nazareth",
+"p": "A 1ª Vara Criminal da Comarca de São José do Rio Preto condenou Jeferson de Oliveira Ramos à pena de um ano e dois meses de reclusão, em regime inicial fechado, além do pagamento de 12 dias-multa, pelo crime de furto simples. A sentença, proferida em audiência virtual pela juíza Ana Maria Chalub de Aquino […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-multirreincidente-em-regime-fechado-por-furtar-moto-de-garagem-no-jardim-nazareth/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:29",
+"t": "Justiça de Rio Preto condena homem a mais de um ano de prisão por furtar moto rastreada e invadir casa vizinha durante fuga",
+"p": "A 1ª Vara Criminal da Comarca de São José do Rio Preto condenou Douglas de Paula Oliveira à pena de um ano e dois meses de reclusão, em regime inicial semiaberto, além do pagamento de 12 dias-multa, pelo crime de furto simples. A sentença, assinada pela juíza Ana Maria Chalub de Aquino e disponibilizada nesta […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-a-mais-de-um-ano-de-prisao-por-furtar-moto-rastreada-e-invadir-casa-vizinha-durante-fuga/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:23",
+"t": "Justiça de Rio Preto condena homem a um ano e meio de prisão por tentar furtar fios do telhado de casa vazia",
+"p": "A 4ª Vara Criminal da Comarca de São José do Rio Preto condenou Sidney Shemaikel Galante da Silva à pena de um ano e seis meses de reclusão, em regime inicial semiaberto, além do pagamento de sete dias-multa, pelo crime de furto qualificado tentado mediante escalada e rompimento de obstáculo. A sentença, assinada…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-a-um-ano-e-meio-de-prisao-por-tentar-furtar-fios-do-telhado-de-casa-vazia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:21",
+"t": "Rios que estavam contaminados há décadas voltam a receber peixes raros e espécies ameaçadas após recuperação ambiental",
+"p": "Uma mudança que parecia difícil de imaginar décadas atrás começa a aparecer em rios dos Estados Unidos. Depois de sofrerem com a contaminação causada por atividades industriais, mineração e esgoto, alguns cursos d’água voltaram a receber espécies de peixes e mexilhões que haviam desaparecido ou se tornado raras. A…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/rios-que-estavam-contaminados-ha-decadas-voltam-a-receber-peixes-raros-e-especies-ameacadas-apos-recuperacao-ambiental/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:15",
+"t": "Previsão do tempo com chuvas severas em São Paulo mobiliza gabinete especial da Defesa Civil para monitorar temporais com ventos de até 100km/h",
+"p": "A Defesa Civil de São Paulo mobilizou o Gabinete Especial da Operação El Niño para acompanhar a previsão de chuva intensa nesta quarta (25/11) e quinta-feira (26/11). A expectativa é de precipitações persistentes, com possibilidade de temporais e acumulados elevados em diferentes regiões do Estado. O alerta exige…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/previsao-do-tempo-com-chuvas-severas-em-sao-paulo-mobiliza-gabinete-especial-da-defesa-civil-para-monitorar-temporais-com-ventos-de-ate-100km-h/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:15",
+"t": "Amigas e colegas de trabalho, gestantes de Jundiaí dividem descobertas da maternidade",
+"p": "Foto: Prefeitura de Jundiaí Amigas e grávidas na mesma época, Daniela e Lavínia receberam kits maternidade na 17ª entrega do projeto Colo de Mãe, que já beneficiou mais de 400 gestantes em Jundiaí.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/gestantes-jundiai-amizade-maternidade-colo-de-mae/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:14",
+"t": "Permanência de Roberto Carneiro no Governo Tarcísio fortalece Republicanos de Votuporanga",
+"p": "Reconduzido à Secretaria de Governo e Relações Institucionais, dirigente estadual do Republicanos mantém interlocução com lideranças do partido no interior, incluindo o grupo comandado por Neto Ferrari. O Republicanos de Votuporanga, presidido por Neto Ferrari, mantém um estreito relacionamento com Roberto…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/permanencia-de-roberto-carneiro-no-governo-tarcisio-fortalece-republicanos-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "09:09",
 "t": "Novas tempestades previstas para SP mobilizam gabinete da Defesa Civil",
 "p": "Previsão indica chuvas até quinta-feira (26/11). Tempestade muito forte é esperada no litoral paulista e na Serra da Mantiqueira.",
@@ -11,6 +290,20 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/novas-tempestades-previstas-para-sp-mobilizam-gabinete-da-defesa-civil",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:08",
+"t": "Confira as ofertas de emprego no PAT Marília nesta quarta-feira (25/11)",
+"p": "Oportunidades contemplam diferentes níveis de escolaridade e setores do mercado de trabalho.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-quarta-feira-25-11/",
 "auto": true
 },
 {
@@ -25,6 +318,18 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/alto-tiete/regiao-central-de-mogi-das-cruzes-tera-180-novas-vagas-de-estacionamento-durante-o-fim-de-ano/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:04",
+"t": "ENQUETE: Qual peão você acha que deveria escapar da 10ª roça de ‘A Fazenda 18’? Serginho está na mira do público",
+"p": "A 10ª Roça de “A Fazenda 18” promete movimentar o reality nesta quarta-feira (25). Os peões Serginho Hondjakoff, Fran Almeida, Renata Del Bianco e Thaíde disputam a permanência no programa em uma semana marcada por discussões, polêmicas e mudanças na percepção do público sobre os participantes. A formação da…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/enquete-qual-peao-voce-acha-que-deveria-escapar-da-10a-roca-de-a-fazenda-18-serginho-esta-na-mira-do-publico/",
 "auto": true
 },
 {
@@ -204,6 +509,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/obras-do-parque-das-aguas-comecam-em-ouroeste-com-investimento-superior-a-r-1-milhao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:30",
+"t": "Coberta por vegetação, maior ponte para animais do mundo cruza rodovia por onde passam 300 mil veículos por dia e já atrai visitantes selvagens",
+"p": "Construída sobre uma das rodovias mais movimentadas dos Estados Unidos, estrutura de 380 metros busca proteger animais silvestres e reconectar habitats separados pelo avanço urbano",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/coberta-por-vegetacao-maior-ponte-para-animais-do-mundo-cruza-rodovia-por-onde-passam-300-mil-veiculos-por-dia-e-ja-atrai-visitantes-selvagens/",
 "auto": true
 },
 {

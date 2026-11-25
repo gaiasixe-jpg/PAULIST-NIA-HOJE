@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T09:11:30-03:00",
-"novos_nesta_coleta": 37,
+"atualizado": "2026-11-25T10:31:02-03:00",
+"novos_nesta_coleta": 30,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -52,6 +52,285 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "10:15",
+"t": "Apontado como líder de esquema de receptação de cobre é preso em Marília",
+"p": "Fios de cobre apreendidos durante operação da Polícia Civil em Bauru Operação da Polícia Civil prendeu seis suspeitos e apreendeu cerca de uma tonelada de materiais e equipamentos em Bauru.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília",
+"Bauru"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/apontado-como-lider-de-esquema-de-receptacao-de-cobre-e-preso-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:11",
+"t": "Troca de bomba pode deixar bairro de Ribeirão Preto sem água nesta quarta-feira (25)",
+"p": "Serviço da Saerp na Vila Tibério acontece até as 18h; fornecimento de água na região retorna aos poucos após a conclusão do trabalho",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/troca-de-bomba-pode-deixar-bairro-de-ribeirao-preto-sem-agua-nesta-quarta-feira-25/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:08",
+"t": "Itapeva realiza IV Feira do Conhecimento e Inovação com projetos de jovens empreendedores",
+"p": "O protagonismo juvenil, a criatividade e o espírito empreendedor estarão em destaque no dia 27 de novembro, em Itapeva. A cidade realiza a ‘IV Feira do Conhecimento e Inovação – Jovens Empreendedores Primeiros Passos’ (JEPP), evento que marcará a mostra e o encerramento das atividades do programa, com a…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/feira-do-conhecimento/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:04",
+"t": "Justiça de Rio Preto condena mulher por furtar R$ 400 em cosméticos de farmácia no Centro para comprar crack",
+"p": "A 4ª Vara Criminal da Comarca de São José do Rio Preto condenou Jozilaine Vieira da Silva Damaceno à pena de um ano de reclusão, em regime inicial aberto — substituída por prestação de serviços à comunidade ou a entidades públicas —, além do pagamento de 10 dias-multa, pelo crime de furto simples. A sentença, […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-mulher-por-furtar-r-400-em-cosmeticos-de-farmacia-no-centro-para-comprar-crack/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:03",
+"t": "Entregador denuncia mulher após conflito em corrida por aplicativo em Rio Preto",
+"p": "Vítima afirma que recebeu mensagens com xingamentos depois de informar que não poderia realizar transporte de passageiros",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/entregador-denuncia-mulher-apos-conflito-em-corrida-por-aplicativo-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:02",
+"t": "Suspeito de recolher dinheiro do tráfico é preso com R$ 1,2 mil, drogas e cinco celulares",
+"p": "Desempregado de 18 anos revelou à polícia quanto recebia pelo serviço; prisão ocorreu no Parque das Azaleias.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/suspeito-de-recolher-dinheiro-do-trafico-e-preso-com-r-12-mil-drogas-e-cinco-celulares/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:00",
+"t": "PM Ambiental apreende seis aves silvestres em cativeiro em Cubatão",
+"p": "Divulgação/PM Ambiental A Polícia Militar Ambiental apreendeu seis aves silvestres mantidas irregularmente em cativeiro em uma residência, em Cubatão.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/pm-ambiental-apreende-seis-aves-silvestres-em-cativeiro-em-cubatao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:57",
+"t": "Projeto Colo de Mãe supera 400 gestantes beneficiadas em Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Iniciativa do Fundo Social de Solidariedade, em parceria com a rede municipal de saúde, chegou à 17ª edição com a entrega de kits maternidade.",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/colo-de-mae-jundiai-400-gestantes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:57",
+"t": "Justiça de Fernandópolis condena homem a mais de cinco anos de prisão em regime fechado por tráfico de crack no Parque das Nações",
+"p": "A 2ª Vara Criminal da Comarca de Fernandópolis condenou Wesley Antônio de Souza à pena de cinco anos, quatro meses e cinco dias de reclusão, em regime inicial fechado, além do pagamento de 534 dias-multa, pelo crime de tráfico de drogas. A sentença, assinada pelo juiz Ricardo Barea Borges e disponibilizada nesta…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-fernandopolis-condena-homem-a-mais-de-cinco-anos-de-prisao-em-regime-fechado-por-trafico-de-crack-no-parque-das-nacoes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:55",
+"t": "Jovem é autorizada a tirar nome da mãe de certidão após abusos na infância",
+"p": "Justiça de São Paulo decidiu, por unanimidade, autorizar a exclusão da filiação materna da certidão de nascimento de Heloisa de Lima",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/jovem-e-autorizada-a-tirar-nome-da-mae-de-certidao-apos-abusos-na-infancia",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:52",
+"t": "Bueiros continuam entupidos após chuvas e alagamentos em São Paulo",
+"p": "Em meio a um aumento do volume de chuvas nos últimos meses, bairros de São Paulo continuam enfrentando um problema tradicional na capital.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/bueiros-continuam-entupidos-apos-chuvas-e-alagamentos-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:34",
+"t": "Homem descumpre medida, pula muro da ex e é preso pela GCM em Rio Preto",
+"p": "Mulher acionou a Guarda Civil Municipal após o homem pular o muro da residência dela",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-descumpre-medida-pula-muro-da-ex-e-e-preso-pela-gcm-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:32",
+"t": "Prefeitura avança com proposta para transformar dívida ativa em recursos imediatos para Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Projeto prevê antecipação de receitas municipais para obras, serviços públicos e previdência, sem aumento de impostos.",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-securitizacao-divida-ativa/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:32",
+"t": "Justiça de Rio Preto condena multirreincidente em regime fechado por furtar moto de garagem no Jardim Nazareth",
+"p": "A 1ª Vara Criminal da Comarca de São José do Rio Preto condenou Jeferson de Oliveira Ramos à pena de um ano e dois meses de reclusão, em regime inicial fechado, além do pagamento de 12 dias-multa, pelo crime de furto simples. A sentença, proferida em audiência virtual pela juíza Ana Maria Chalub de Aquino […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-multirreincidente-em-regime-fechado-por-furtar-moto-de-garagem-no-jardim-nazareth/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:29",
+"t": "Justiça de Rio Preto condena homem a mais de um ano de prisão por furtar moto rastreada e invadir casa vizinha durante fuga",
+"p": "A 1ª Vara Criminal da Comarca de São José do Rio Preto condenou Douglas de Paula Oliveira à pena de um ano e dois meses de reclusão, em regime inicial semiaberto, além do pagamento de 12 dias-multa, pelo crime de furto simples. A sentença, assinada pela juíza Ana Maria Chalub de Aquino e disponibilizada nesta […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-a-mais-de-um-ano-de-prisao-por-furtar-moto-rastreada-e-invadir-casa-vizinha-durante-fuga/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:23",
+"t": "Justiça de Rio Preto condena homem a um ano e meio de prisão por tentar furtar fios do telhado de casa vazia",
+"p": "A 4ª Vara Criminal da Comarca de São José do Rio Preto condenou Sidney Shemaikel Galante da Silva à pena de um ano e seis meses de reclusão, em regime inicial semiaberto, além do pagamento de sete dias-multa, pelo crime de furto qualificado tentado mediante escalada e rompimento de obstáculo. A sentença, assinada…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-rio-preto-condena-homem-a-um-ano-e-meio-de-prisao-por-tentar-furtar-fios-do-telhado-de-casa-vazia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:21",
+"t": "Rios que estavam contaminados há décadas voltam a receber peixes raros e espécies ameaçadas após recuperação ambiental",
+"p": "Uma mudança que parecia difícil de imaginar décadas atrás começa a aparecer em rios dos Estados Unidos. Depois de sofrerem com a contaminação causada por atividades industriais, mineração e esgoto, alguns cursos d’água voltaram a receber espécies de peixes e mexilhões que haviam desaparecido ou se tornado raras. A…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/rios-que-estavam-contaminados-ha-decadas-voltam-a-receber-peixes-raros-e-especies-ameacadas-apos-recuperacao-ambiental/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:15",
+"t": "Previsão do tempo com chuvas severas em São Paulo mobiliza gabinete especial da Defesa Civil para monitorar temporais com ventos de até 100km/h",
+"p": "A Defesa Civil de São Paulo mobilizou o Gabinete Especial da Operação El Niño para acompanhar a previsão de chuva intensa nesta quarta (25/11) e quinta-feira (26/11). A expectativa é de precipitações persistentes, com possibilidade de temporais e acumulados elevados em diferentes regiões do Estado. O alerta exige…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/previsao-do-tempo-com-chuvas-severas-em-sao-paulo-mobiliza-gabinete-especial-da-defesa-civil-para-monitorar-temporais-com-ventos-de-ate-100km-h/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:15",
+"t": "Amigas e colegas de trabalho, gestantes de Jundiaí dividem descobertas da maternidade",
+"p": "Foto: Prefeitura de Jundiaí Amigas e grávidas na mesma época, Daniela e Lavínia receberam kits maternidade na 17ª entrega do projeto Colo de Mãe, que já beneficiou mais de 400 gestantes em Jundiaí.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/gestantes-jundiai-amizade-maternidade-colo-de-mae/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:14",
+"t": "Permanência de Roberto Carneiro no Governo Tarcísio fortalece Republicanos de Votuporanga",
+"p": "Reconduzido à Secretaria de Governo e Relações Institucionais, dirigente estadual do Republicanos mantém interlocução com lideranças do partido no interior, incluindo o grupo comandado por Neto Ferrari. O Republicanos de Votuporanga, presidido por Neto Ferrari, mantém um estreito relacionamento com Roberto…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/permanencia-de-roberto-carneiro-no-governo-tarcisio-fortalece-republicanos-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "09:09",
 "t": "Novas tempestades previstas para SP mobilizam gabinete da Defesa Civil",
 "p": "Previsão indica chuvas até quinta-feira (26/11). Tempestade muito forte é esperada no litoral paulista e na Serra da Mantiqueira.",
@@ -60,6 +339,20 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/novas-tempestades-previstas-para-sp-mobilizam-gabinete-da-defesa-civil",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:08",
+"t": "Confira as ofertas de emprego no PAT Marília nesta quarta-feira (25/11)",
+"p": "Oportunidades contemplam diferentes níveis de escolaridade e setores do mercado de trabalho.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-quarta-feira-25-11/",
 "auto": true
 },
 {
@@ -74,6 +367,18 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/alto-tiete/regiao-central-de-mogi-das-cruzes-tera-180-novas-vagas-de-estacionamento-durante-o-fim-de-ano/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:04",
+"t": "ENQUETE: Qual peão você acha que deveria escapar da 10ª roça de ‘A Fazenda 18’? Serginho está na mira do público",
+"p": "A 10ª Roça de “A Fazenda 18” promete movimentar o reality nesta quarta-feira (25). Os peões Serginho Hondjakoff, Fran Almeida, Renata Del Bianco e Thaíde disputam a permanência no programa em uma semana marcada por discussões, polêmicas e mudanças na percepção do público sobre os participantes. A formação da…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/enquete-qual-peao-voce-acha-que-deveria-escapar-da-10a-roca-de-a-fazenda-18-serginho-esta-na-mira-do-publico/",
 "auto": true
 },
 {
@@ -253,6 +558,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/obras-do-parque-das-aguas-comecam-em-ouroeste-com-investimento-superior-a-r-1-milhao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:30",
+"t": "Coberta por vegetação, maior ponte para animais do mundo cruza rodovia por onde passam 300 mil veículos por dia e já atrai visitantes selvagens",
+"p": "Construída sobre uma das rodovias mais movimentadas dos Estados Unidos, estrutura de 380 metros busca proteger animais silvestres e reconectar habitats separados pelo avanço urbano",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/coberta-por-vegetacao-maior-ponte-para-animais-do-mundo-cruza-rodovia-por-onde-passam-300-mil-veiculos-por-dia-e-ja-atrai-visitantes-selvagens/",
 "auto": true
 },
 {
@@ -54631,315 +54948,6 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/covid-volta-a-avancar-em-sp-e-casos-graves-acendem-alerta-das-autoridades/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "19:23",
-"t": "Homem é morto a facadas após ser perseguido e tentar se refugiar em comércio em José Bonifácio",
-"p": "Vítima morreu dentro de um estabelecimento após ser atingida por golpes de faca. Imagens de câmeras de segurança registraram a perseguição e devem auxiliar a polícia na investigação. Um homem morreu na manhã desta segunda-feira (9.nov) após ser esfaqueado em via pública na região central de José Bonifácio/SP.…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"José Bonifácio"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/homem-e-morto-a-facadas-apos-ser-perseguido-e-tentar-se-refugiar-em-comercio-em-jose-bonifacio/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "19:17",
-"t": "Redação do Enem 2026 sobre o SUS: professora aponta erros que candidatos poderiam cometer",
-"p": "O tema da redação do Exame Nacional do Ensino Médio (Enem) 2026, “A valorização do Sistema Único de Saúde (SUS) como direito universal”, movimentou uma discussão atual sobre políticas públicas, cidadania e acesso à saúde no Brasil nas redes. Muitos prestadores do exame demonstraram preocupações com o teor da…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/redacao-do-enem-2026-sobre-o-sus-professora-aponta-erros-que-candidatos-poderiam-cometer/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "19:08",
-"t": "Feirão Rumo ao Emprego reúne mais de 400 pessoas e oferece 120 vagas em Registro",
-"p": "Emprego",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/feirao-rumo-ao-emprego-reune-mais-de-400-pessoas-e-oferece-120-vagas-em-registro/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "19:05",
-"t": "Aluno de 17 anos é esfaqueado por colega em briga dentro de escola na Mooca",
-"p": "Briga entre dois alunos do 9º ano, de 18 e 17 anos terminou com o menor sofrendo lesão na mão. Ele encaminhada ao pronto-socorro",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/aluno-de-17-anos-e-esfaqueado-por-colega-em-briga-dentro-de-escola-na-mooca",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "19:00",
-"t": "Teleférico de parque no Paraná volta após 20 anos e terá descida de 54 metros em dezembro",
-"p": "O teleférico vertical da Furna dos Andorinhões, no Parque Estadual de Vila Velha, no Paraná, deve voltar a funcionar em dezembro. A atração está desativada há mais de duas décadas e passa por uma revitalização que já atingiu 92% de conclusão. Segundo o Instituto Água e Terra (IAT), a previsão é entregar o…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/teleferico-de-parque-no-parana-volta-apos-20-anos-e-tera-descida-de-54-metros-em-dezembro/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:48",
-"t": "Leilão Beneficente em Mira Estrela arrecada mais de R$ 167 mil para a Santa Casa de Fernandópolis",
-"p": "Evento realizado em 1º de novembro mobilizou a comunidade e a região, com saldo líquido de R$ 167.654,05 destinado integralmente à instituição hospitalar",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis",
-"Mira Estrela"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/leilao-beneficente-em-mira-estrela-arrecada-mais-de-r-167-mil-para-a-santa-casa-de-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:39",
-"t": "Semana da Consciência Negra terá oficinas, debates e shows em Registro",
-"p": "Cultura",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/semana-da-consciencia-negra-tera-oficinas-debates-e-shows-em-registro/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:32",
-"t": "Branca dos prédios de mármore aos carros, capital monocromática e excêntrica veta veículos escuros nas ruas e multa motoristas até por poeira",
-"p": "Asgabate, a impressionante capital do Turcomenistão, chama a atenção de viajantes por uma uniformidade visual incomum no trânsito e na arquitetura. Quem circula pelas grandes avenidas locais encontra filas de veículos quase exclusivamente brancos entre imponentes construções monumentais. Essa paisagem monocromática…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/branca-dos-predios-de-marmore-aos-carros-capital-monocromatica-e-excentrica-veta-veiculos-escuros/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:32",
-"t": "Antiga área ferroviária em Campinas vai receber 100 moradias populares; veja onde",
-"p": "Terreno de 52 mil m² fica no Jardim Madalena e pertence à União; área foi cedida para construção de unidades pelo Minha Casa, Minha Vida",
-"tema": "Habitação",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/antiga-area-ferroviaria-em-campinas-vai-receber-100-moradias-populares-veja-onde/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:31",
-"t": "Campinas entrega reforma de R$ 700 mil da Fazenda Roseira, referência da cultura afro-brasileira",
-"p": "Fazenda Roseira recebeu melhorias estruturais e de acessibilidade após investimento de R$ 700 mil; antigos estábulos também devem passar por obras em 2027",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-entrega-reforma-de-r-700-mil-da-fazenda-roseira-referencia-da-cultura-afro-brasileira/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:30",
-"t": "Fatec Diadema aproxima estudantes e mercado de trabalho no Grande ABC",
-"p": "Em entrevista ao podcast Educa+ docente da instituição detalha importância e o impacto dos cursos oferecidos na região",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367791/fatec-diadema-aproxima-estudantes-e-mercado-de-trabalho-no-grande-abc",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:27",
-"t": "Polícia Civil indicia Féfin após investigação sobre vídeo com companheira em Marília",
-"p": "Inquérito foi encaminhado ao Judiciário; parlamentar também responde a Comissão Processante na Câmara por possível quebra de decoro.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/policia-civil-indicia-fefin-apos-investigacao-sobre-video-com-companheira-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:16",
-"t": "Pesquisa Badra: Alberto Mourão alcança 74,9% de aprovação em Praia Grande",
-"p": "O desempenho do prefeito de Praia Grande, Alberto Mourão (MDB), é aprovado por 74,9% da população da cidade e reprovado por 20%. É o que revela pesquisa do Instituto Badra, realizada no dia 28 de outubro, ouvindo 1.060 pessoas. Do total de entrevistados, 5,1% não souberam dizer. O desempenho de Mourão vem…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/pesquisa-badra-alberto-mourao-alcanca-749-de-aprovacao-em-praia-grande/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:16",
-"t": "Pesquisa Badra: Alberto Mourão alcança 74,9% de aprovação em Praia Grande",
-"p": "O desempenho do prefeito de Praia Grande, Alberto Mourão (MDB), é aprovado por 74,9% da população da cidade e reprovado por 20%. É o que revela pesquisa do Instituto Badra, realizada no dia 28 de outubro, ouvindo 1.060 pessoas. Do total de entrevistados, 5,1% não souberam dizer. O desempenho de Mourão vem…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/politica/pesquisa-badra-alberto-mourao-alcanca-749-de-aprovacao-em-praia-grande/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:10",
-"t": "Grupo de Plastimodelismo de Sorocaba realiza 3ª exposição ‘História em miniaturas’ no Pátio Cianê Shopping",
-"p": "Fotos:Grupo de Plastimodelismo de Sorocaba (GPS) A 3ª exposição “História em miniaturas”, do Grupo de Plastimodelismo de Sorocaba (GPS), poderá ser conferida, a partir desta terça-feira (10), no Pátio Cianê Shopping. A mostra gratuita estará disponível no Bloco B, Piso 1, do empreendimento, até o dia 13 de…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/grupo-de-plastimodelismo-de-sorocaba-realiza-3a-exposicao-historia-em-miniaturas-no-patio-ciane-shopping/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:02",
-"t": "Casos de mpox aumentam no Brasil; veja os sintomas e os cuidados para prevenção",
-"p": "O Brasil registrou 665 casos confirmados de mpox em 2026, segundo dados do Ministério da Saúde atualizados em novembro. Outubro foi o mês com maior número de confirmações, com 119 registros. Apesar de o total representar uma redução de 94% em relação a 2022, quando o país contabilizou mais de 10 mil casos, o…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/casos-de-mpox-aumentam-no-brasil-veja-os-sintomas-e-os-cuidados-para-prevencao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "18:02",
-"t": "Brasil envia pela primeira vez plantas silvestres de abacaxi e mandioca para cofre no Peru que conserva material genético a 196 graus negativos",
-"p": "A quase 200 graus negativos, tecidos vegetais de parentes silvestres do abacaxi e da mandioca passaram a integrar um sistema internacional de conservação genética no Peru. O material saiu de uma unidade da Embrapa na Bahia e foi depositado em um cofre especializado, onde permanecerá como cópia de segurança sob…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/brasil-envia-pela-primeira-vez-plantas-silvestres-de-abacaxi-e-mandioca-para-cofre-no-peru-que-conserva-material-genetico-a-196-graus-negativos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "17:57",
-"t": "Campos do Jordão inaugura memorial da história política e homenageia Edmundo Ferreira da Rocha",
-"p": "Instalado na Prefeitura, espaço reúne registros de 29 administrações e marca o centenário da criação da Prefeitura Sanitária; projeto foi idealizado pelo vice-prefeito Leandro César, com apoio do prefeito Caê",
-"tema": "Política",
-"s": "entregue",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/memorial-edmundo-ferreira-da-rocha-campos-do-jordao.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "17:42",
-"t": "Guirlandas de Natal são confeccionadas em oficina na Chácara do Idoso",
-"p": "O clima natalino tomou conta da Chácara do Idoso, na manhã desta segunda-feira (9), com uma oficina especial de artesanato. Os participantes tiveram a oportunidade de confeccionar guirlandas de Natal, utilizando balas coloridas como matéria-prima principal. Administrada pela Prefeitura de Sorocaba, por meio da…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/guirlandas-de-natal-sao-confeccionadas-em-oficina-na-chacara-do-idoso/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "17:41",
-"t": "Rodovia Padre Manoel da Nóbrega tem tráfego normal nesta segunda (9)",
-"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-tem-trafego-normal-nesta-segunda-9.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "17:40",
-"t": "Rodovia Presidente Dutra tem tráfego normal nesta segunda (9)",
-"p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 15h",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-tem-trafego-normal-nesta-segunda-9.html",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "17:39",
-"t": "CIC Jundiaí realiza processo seletivo exclusivo para pessoas com deficiência",
-"p": "Foto: Charliepix/Canva Seleção oferece 20 vagas para auxiliar de serviços gerais, com salários de até R$ 2.237,40 e benefícios",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/processo-seletivo-pcd-vagas-auxiliar-servicos-gerais-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "17:38",
-"t": "Exportações de Sorocaba crescem 76,3% em outubro deste ano",
-"p": "Os dados do Ministério do Desenvolvimento, Indústria e Comércio Exterior (Mdic), mostram que Sorocaba exportou US$ 262,5 milhões em outubro de 2026. O valor representa um salto de 76,3% em comparação ao mesmo período de 2025, quando a cidade exportou US$ 148,8 milhões. “Graças ao conjunto formado pela legislação…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/exportacoes-de-sorocaba-crescem-763-em-outubro-deste-ano/",
 "auto": true
 }
 ]
