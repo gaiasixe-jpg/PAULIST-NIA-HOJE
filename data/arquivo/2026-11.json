@@ -3,6 +3,69 @@
 "itens": [
 {
 "d": "2026-11-24",
+"h": "23:15",
+"t": "Recolhidos de carroças irregulares e maus-tratos, 35 cavalos tratados com microchip esperam nova família e 46 já foram adotados em 2026",
+"p": "Os 35 cavalos que hoje ocupam os piquetes do abrigo de equinos da Empresa Pública de Transporte e Circulação, no bairro Lami, na Zona Sul de Porto Alegre, chegaram ali depois de fiscalizações que flagraram carroças irregulares, sinais de maus-tratos ou simples abandono nas vias da capital gaúcha. A Prefeitura de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/recolhidos-de-carrocas-irregulares-e-maus-tratos-35-cavalos-tratados-com-microchip-esperam-nova-familia-e-46-ja-foram-adotados-em-2026/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "23:14",
+"t": "Justiça revoga prisão de homem acusado de se masturbar em academia de SP",
+"p": "Bruno Edamatsu Berton, de 37 anos, é réu por crime de importunação sexual após se masturbar em academia olhando para dentista",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-revoga-prisao-de-homem-acusado-de-se-masturbar-em-academia-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "22:35",
+"t": "Árvores que sobrevivem na água salgada formam escudos naturais no litoral de SP e fazem parte de florestas que evitam US$ 65 bilhões em prejuízos no mundo",
+"p": "Imagine uma floresta que cresce dentro da água salgada, sobrevive em terrenos com pouquíssimo oxigênio e ainda funciona como uma barreira natural contra tempestades e inundações. Embora pareça impossível, essa é a realidade dos manguezais, ecossistemas encontrados em diferentes regiões do planeta, incluindo o…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/arvores-que-sobrevivem-na-agua-salgada-formam-escudos-naturais-no-litoral-de-sp-e-fazem-parte-de-florestas-que-evitam-us-65-bilhoes-em-prejuizos-no-mundo/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "22:30",
+"t": "Pressionado por juros altos, mercado do Sudeste se apoia no recorde do Minha Casa, Minha Vida",
+"p": "O mercado imobiliário do Sudeste atravessou o terceiro trimestre de 2026, marcado por uma forte polarização: enquanto a habitação popular sustentou o volume de negócios, os imóveis de médio e alto padrão registraram a terceira queda trimestral consecutiva no país. Conforme dados da pesquisa Indicadores Imobiliários…",
+"tema": "Habitação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/pressionado-por-juros-altos-mercado-do-sudeste-se-apoia-no-recorde-do-minha-casa-minha-vida/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "22:27",
+"t": "Câmara abre processo que pode cassar vereador acusado de agredir morador",
+"p": "Vereador Paulo Revange agrediu fisicamente e verbalmente um morador que reclamava por falta de água em bairro de Águas de Santa Bárbara",
+"tema": "Água",
+"s": "alerta",
+"c": [
+"Águas de Santa Bárbara",
+"Santa Bárbara d'Oeste"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/camara-abre-processo-que-pode-cassar-vereador-acusado-de-agredir-morador",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "22:08",
 "t": "Trump prepara nova rodada de tarifas contra 16 parceiros comerciais e pode elevar impostos sobre produtos importados pelos Estados Unidos",
 "p": "O governo de Donald Trump prepara uma nova rodada de tarifas de importação contra 16 parceiros comerciais dos Estados Unidos. A medida pode elevar os impostos sobre uma ampla variedade de produtos estrangeiros e ampliar a disputa comercial com importantes economias. A iniciativa ocorre após uma investigação sobre o…",
@@ -11,6 +74,18 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/mundo/trump-prepara-nova-rodada-de-tarifas-contra-16-parceiros-comerciais-e-pode-elevar-impostos-sobre-produtos-importados-pelos-estados-unidos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:49",
+"t": "Para o carro em obras, recolhe terra e ferve na panela; aos 80 anos, artista vira o hábito em tijolos de exposição e se mantém viva",
+"p": "O carro freia junto ao canteiro, a porta se abre e a artista desce com o olhar preso à cor da terra revolvida pela máquina. Se o tom interessa, ela recolhe o que cabe nas mãos, leva o material para casa, coloca tudo na panela e ferve até a lama virar base de trabalho. Lorena […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/para-o-carro-em-obras-recolhe-terra-e-ferve-na-panela-aos-80-anos-artista-vira-o-habito-em-tijolos-de-exposicao-e-se-mantem-viva/",
 "auto": true
 },
 {
