@@ -3,6 +3,248 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "18:02",
+"t": "5 erros comuns ao pesquisar sintomas na internet e como evitá-los",
+"p": "A busca por respostas sobre saúde está cada vez mais digital. Uma pesquisa realizada pelo Research & Innovation Center da Afya — maior ecossistema de educação médica do Brasil —, em parceria com a Healthtech Conexa, mostra que 79% dos entrevistados utilizam ferramentas de inteligência artificial (IA) para…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/5-erros-comuns-ao-pesquisar-sintomas-na-internet-e-como-evita-los/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "18:02",
+"t": "Dificuldade para engravidar? Entenda como funcionam os 3 principais tratamentos",
+"p": "A infertilidade afeta cerca de uma em cada seis pessoas em idade reprodutiva no mundo, segundo dados da Organização Mundial da Saúde (OMS). Muitas mulheres não imaginam que sofrem do problema até começarem efetivamente as tentativas. Por isso, o acompanhamento médico regular e o planejamento familiar são…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/dificuldade-para-engravidar-entenda-como-funcionam-os-3-principais-tratamentos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "18:01",
+"t": "Projeto cultural proporcionado pela Secretaria da Educação leva diversão e conhecimento a alunos da rede municipal de ensino de Sorocaba",
+"p": "Fotos: Rose Campos/Secom A Prefeitura de Sorocaba, por meio da Secretaria da Educação (Sedu), está proporcionando a várias turmas de alunos da Educação Infantil apresentações de um projeto especial, que une diversão, informação e atenção ao meio ambiente. Trata-se do projeto infantojuvenil Nilton, o platelminto. O…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/projeto-cultural-proporcionado-pela-secretaria-da-educacao-leva-diversao-e-conhecimento-a-alunos-da-rede-municipal-de-ensino-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:56",
+"t": "Reforma da Previdência volta à pauta da Câmara de Campinas hoje",
+"p": "Pedido foi encaminhado pela Prefeitura e já consta com 11 assinaturas de vereadores; solicitação não precisa passar por votação na Câmara",
+"tema": "Política",
+"s": "obra",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/reforma-da-previdencia-volta-a-pauta-da-camara-de-campinas-hoje/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:54",
+"t": "Mogi-Bertioga tem interdição parcial por obras em Mogi das Cruzes nesta quarta-feira (25)",
+"p": "Obras provocam interdição parcial entre os km 56,65 e 63, em Mogi das Cruzes; demais trechos têm tráfego normal neste fim de tarde",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicao-parcial-por-obras-em-mogi-das-cruzes-nesta-quarta-feira-25.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:50",
+"t": "Prefeitura anuncia dique de contenção para conter alagamentos no Mineirão",
+"p": "Fotos: Michelle Alves Equipes da Prefeitura de Sorocaba estiveram, na tarde de quarta-feira (25), reunidas com cerca de 60 moradores do bairro Mineirão, na Zona Norte da cidade. Na ocasião, a Administração Municipal anunciou a construção de um dique de contenção de águas de chuva, para evitar alagamentos, sobretudo…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-anuncia-dique-de-contencao-para-conter-alagamentos-no-mineirao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:49",
+"t": "Concertos EPTV terão apresentações gratuitas em Ribeirão Preto e região; veja programação",
+"p": "Concertos gratuitos serão realizadas nos dias 1º e 2 de dezembro, com participação do músico chinês Pang Wai Lun e repertório que reúne obras tradicionais chinesas e de Schubert",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/concertos-eptv-terao-apresentacoes-gratuitas-em-ribeirao-preto-e-regiao-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:45",
+"t": "Aos 16 anos, jovem brasileiro carrega mais de 250 litros de água por semana para ajudar jaguatiricas, tamanduás e centenas de pássaros durante a seca",
+"p": "Com cinco bebedouros na mata, estudante maranhense concilia a rotina escolar com um projeto de proteção de animais silvestres iniciado aos 14 anos",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/aos-16-anos-jovem-brasileiro-carrega-mais-de-250-litros-de-agua-por-semana-para-ajudar-jaguatiricas-tamanduas-e-centenas-de-passaros-durante-a-seca/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:45",
+"t": "GCM apreende 40 porções de entorpecentes durante patrulhamento em Brigadeiro Tobias",
+"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba apreendeu 40 porções de entorpecentes, na tarde de terça-feira (24), durante patrulhamento preventivo e comunitário no bairro Brigadeiro Tobias. Por volta das 16h20, a equipe avistou um indivíduo em atitude suspeita, pela Rua Joaquim Roque de Oliveira. Ao…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-40-porcoes-de-entorpecentes-durante-patrulhamento-em-brigadeiro-tobias/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:40",
+"t": "Filhote de elefante com fratura na perna é levado de avião por 2.500 km na Índia e apresenta melhora após tratamento",
+"p": "Elefante ferido, Bezerro Raja, respondendo bem ao tratamento no Hospital de Vantara/ The Sentinel Filhote de elefante-asiático de sete semanas, nascido com fratura no fêmur, foi levado de avião da Índia a um hospital especializado e já reage bem ao tratamento.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/filhote-de-elefante-com-fratura-na-perna-e-levado-de-aviao-por-2-500-km-na-india-e-apresenta-melhora-apos-tratamento/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:35",
+"t": "Aos 90 anos, político mais velho da história revela três hábitos que mantém na rotina e planeja disputar eleição em 2030",
+"p": "Raymond Cho, MPP de Ontário para Scarborough North, que comemorou seu aniversário de 90 anos em 19 de novembro, joga tênis de mesa no Centro Cultural Chinês da Grande Toronto, na sexta-feira, 13 de novembro de 2026. THE CANADIAN PRESS/Chris Young Aos 90 anos, o deputado provincial Raymond Cho, de Ontário, diz que…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/aos-90-anos-politico-mais-velho-da-historia-revela-tres-habitos-que-mantem-na-rotina-e-planeja-disputar-eleicao-em-2030/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:30",
+"t": "Produtos podem ficar mais caros em 2027 com novo ajuste fiscal e brasileiros devem sentir impacto no bolso após corte de benefícios",
+"p": "A redução de benefícios tributários prevista no novo pacote de ajuste fiscal pode elevar custos de empresas e pressionar os preços de produtos e serviços em 2027. O impacto dependerá de quais incentivos serão reduzidos e de quanto as empresas conseguirão repassar aos consumidores. Sancionada sem vetos pelo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/produtos-podem-ficar-mais-caros-em-2027-com-novo-ajuste-fiscal-e-brasileiros-devem-sentir-impacto-no-bolso-apos-corte-de-beneficios/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:30",
+"t": "Refis de Santos chega à reta final com até 100% de desconto",
+"p": "Atendimento presencial ocorre no Poupatempo, na rua João Pessoa, no centro; contribuintes também podem emitir boletos on-line pelo Santos Portal",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/refis-de-santos-chega-a-reta-final-com-ate-100-de-desconto.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:22",
+"t": "Shoppings e lojas de Santos ampliam horário para as compras de Natal e abrem até às 23h; veja programação",
+"p": "Com a proximidade do Natal, lojas e shopping centers de Santos vão ampliar o horário de funcionamento para atender ao aumento da procura por presentes e compras de fim de ano. A mudança busca facilitar o acesso dos consumidores aos centros comerciais durante uma das principais datas comemorativas do setor. Segundo…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/estilo-de-vida/shoppings-e-lojas-de-santos-ampliam-horario-para-as-compras-de-natal-e-abrem-ate-as-23h-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:17",
+"t": "Prefeitura inicia obras para restauração dos lagos da Praça da República",
+"p": "Durante o período de obras o entorno dos lagos ficará isolado, mas os demais equipamentos da praça não terão o funcionamento impactado",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-inicia-obras-para-restauracao-dos-lagos-da-praca-da-republica",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:13",
+"t": "Motoristas poderão subir a serra sem pagar pedágio na Anchieta-Imigrantes em dezembro; veja quem terá direito à isenção",
+"p": "Motoristas que descerem a serra pela Anchieta-Imigrantes até 30 de novembro poderão subir sem pagar pedágio em dezembro.",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/motoristas-poderao-subir-a-serra-sem-pagar-pedagio-na-anchieta-imigrantes-em-dezembro-veja-quem-tera-direito-a-isencao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:06",
+"t": "Alunos de escola profissional revelam pinturas de pavões, aves e cenas mitológicas escondidas desde 1976 em casa romana de Mérida",
+"p": "Ponte romana sobre o Guadiana e muralha da Alcazaba árabe, em Mérida. O solar da Huerta de Otero fica entre o dique do rio e essa muralha, mas a foto não mostra o trecho escavado nem as pinturas. Pinturas murais com pavões, aves e temas mitológicos foram reveladas em uma residência romana na Huerta de Otero, em…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/alunos-de-escola-profissional-revelam-pinturas-de-pavoes-aves-e-cenas-mitologicas-escondidas-desde-1976-em-casa-romana-de-merida/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:05",
+"t": "Com mais de 1 km de extensão, o maior prédio residencial do mundo tem quatro paradas de bonde, mais de mil apartamentos, biblioteca e até clínica",
+"p": "Quatro pontos da linha D do bonde de Viena ficam ao longo de um mesmo endereço residencial. É o Karl-Marx-Hof, um conjunto de apartamentos com 1.100 metros de extensão no distrito de Döbling, na zona norte da capital austríaca. A prefeitura o considera o edifício residencial contínuo mais longo do mundo. A cidade…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/maior-predio-residencial-do-mundo-tem-quatro-paradas-de-bonde-mais-de-mil-apartamentos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "17:04",
 "t": "Fernandópolis altera regras de punição para estabelecimentos que descumprirem lei de assentos para pessoas obesas",
 "p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou nesta quarta-feira (25) a Lei nº 5.790, que atualiza o regime de penalidades previsto na legislação municipal que obriga estabelecimentos comerciais e prestadores de serviços a disponibilizarem assentos adequados para pessoas obesas. A alteração,…",
@@ -27,6 +269,48 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/saae-sorocaba-avanca-em-modernizacao-e-ampliacao-da-capacidade-de-tratamento-da-ete-s2/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:02",
+"t": "Carreta com bobinas de aço tomba no canteiro central da rodovia Ayrton Senna, em Caçapava",
+"p": "Acidente ocorreu na noite da terça-feira (24), no km 111 da SP-070, motorista saiu ileso; equipes aguardam guincho para destombamento",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Caçapava"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/carreta-com-bobinas-de-aco-tomba-no-canteiro-central-da-rodovia-ayrton-senna-em-cacapava.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:02",
+"t": "Cantarella sanciona lei que cria política municipal de cuidado integral a pessoas com diabetes",
+"p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou nesta quarta-feira (25) a Lei nº 5.789, que institui a Política Municipal de Atenção Integral à Pessoa com Diabetes mellitus. A medida foi aprovada pela Câmara Municipal e publicada no Diário Oficial do Município com o objetivo central de ampliar o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/cantarella-sanciona-lei-que-cria-politica-municipal-de-cuidado-integral-a-pessoas-com-diabetes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:01",
+"t": "Semana do Ciclista promove passeio ciclístico gratuito e pit stop em São Vicente",
+"p": "Saída ocorre às 9h em frente à prefeitura de São Vicente; programação começa na sexta-feira (27) e encerra-se no domingo (29)",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/semana-do-ciclista-promove-passeio-ciclistico-gratuito-e-pit-stop-em-sao-vicente.html",
 "auto": true
 },
 {
@@ -3204,6 +3488,62 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67808",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:00",
+"t": "Prefeitura realiza capacitação de servidores da ouvidoria sobre o fluxo de denúncias",
+"p": "",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67813",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:00",
+"t": "Prudente sobe 11 posições no ranking nacional de Cidades Inteligentes e recebe Selo CSC",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67812",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:00",
+"t": "Novembro Azul: 614 atendimentos e mais de 1,5 mil procedimentos no primeiro plantão",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67811",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:00",
+"t": "Caminhada de conscientização no Dia D de combate ao Aedes aegypti neste sábado",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67810",
 "auto": true
 },
 {

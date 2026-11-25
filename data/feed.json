@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T17:04:01-03:00",
-"novos_nesta_coleta": 37,
+"atualizado": "2026-11-25T18:04:30-03:00",
+"novos_nesta_coleta": 32,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -49,6 +49,248 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "18:02",
+"t": "5 erros comuns ao pesquisar sintomas na internet e como evitá-los",
+"p": "A busca por respostas sobre saúde está cada vez mais digital. Uma pesquisa realizada pelo Research & Innovation Center da Afya — maior ecossistema de educação médica do Brasil —, em parceria com a Healthtech Conexa, mostra que 79% dos entrevistados utilizam ferramentas de inteligência artificial (IA) para…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/5-erros-comuns-ao-pesquisar-sintomas-na-internet-e-como-evita-los/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "18:02",
+"t": "Dificuldade para engravidar? Entenda como funcionam os 3 principais tratamentos",
+"p": "A infertilidade afeta cerca de uma em cada seis pessoas em idade reprodutiva no mundo, segundo dados da Organização Mundial da Saúde (OMS). Muitas mulheres não imaginam que sofrem do problema até começarem efetivamente as tentativas. Por isso, o acompanhamento médico regular e o planejamento familiar são…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/dificuldade-para-engravidar-entenda-como-funcionam-os-3-principais-tratamentos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "18:01",
+"t": "Projeto cultural proporcionado pela Secretaria da Educação leva diversão e conhecimento a alunos da rede municipal de ensino de Sorocaba",
+"p": "Fotos: Rose Campos/Secom A Prefeitura de Sorocaba, por meio da Secretaria da Educação (Sedu), está proporcionando a várias turmas de alunos da Educação Infantil apresentações de um projeto especial, que une diversão, informação e atenção ao meio ambiente. Trata-se do projeto infantojuvenil Nilton, o platelminto. O…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/projeto-cultural-proporcionado-pela-secretaria-da-educacao-leva-diversao-e-conhecimento-a-alunos-da-rede-municipal-de-ensino-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:56",
+"t": "Reforma da Previdência volta à pauta da Câmara de Campinas hoje",
+"p": "Pedido foi encaminhado pela Prefeitura e já consta com 11 assinaturas de vereadores; solicitação não precisa passar por votação na Câmara",
+"tema": "Política",
+"s": "obra",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/reforma-da-previdencia-volta-a-pauta-da-camara-de-campinas-hoje/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:54",
+"t": "Mogi-Bertioga tem interdição parcial por obras em Mogi das Cruzes nesta quarta-feira (25)",
+"p": "Obras provocam interdição parcial entre os km 56,65 e 63, em Mogi das Cruzes; demais trechos têm tráfego normal neste fim de tarde",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicao-parcial-por-obras-em-mogi-das-cruzes-nesta-quarta-feira-25.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:50",
+"t": "Prefeitura anuncia dique de contenção para conter alagamentos no Mineirão",
+"p": "Fotos: Michelle Alves Equipes da Prefeitura de Sorocaba estiveram, na tarde de quarta-feira (25), reunidas com cerca de 60 moradores do bairro Mineirão, na Zona Norte da cidade. Na ocasião, a Administração Municipal anunciou a construção de um dique de contenção de águas de chuva, para evitar alagamentos, sobretudo…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-anuncia-dique-de-contencao-para-conter-alagamentos-no-mineirao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:49",
+"t": "Concertos EPTV terão apresentações gratuitas em Ribeirão Preto e região; veja programação",
+"p": "Concertos gratuitos serão realizadas nos dias 1º e 2 de dezembro, com participação do músico chinês Pang Wai Lun e repertório que reúne obras tradicionais chinesas e de Schubert",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/concertos-eptv-terao-apresentacoes-gratuitas-em-ribeirao-preto-e-regiao-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:45",
+"t": "Aos 16 anos, jovem brasileiro carrega mais de 250 litros de água por semana para ajudar jaguatiricas, tamanduás e centenas de pássaros durante a seca",
+"p": "Com cinco bebedouros na mata, estudante maranhense concilia a rotina escolar com um projeto de proteção de animais silvestres iniciado aos 14 anos",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/aos-16-anos-jovem-brasileiro-carrega-mais-de-250-litros-de-agua-por-semana-para-ajudar-jaguatiricas-tamanduas-e-centenas-de-passaros-durante-a-seca/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:45",
+"t": "GCM apreende 40 porções de entorpecentes durante patrulhamento em Brigadeiro Tobias",
+"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba apreendeu 40 porções de entorpecentes, na tarde de terça-feira (24), durante patrulhamento preventivo e comunitário no bairro Brigadeiro Tobias. Por volta das 16h20, a equipe avistou um indivíduo em atitude suspeita, pela Rua Joaquim Roque de Oliveira. Ao…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-40-porcoes-de-entorpecentes-durante-patrulhamento-em-brigadeiro-tobias/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:40",
+"t": "Filhote de elefante com fratura na perna é levado de avião por 2.500 km na Índia e apresenta melhora após tratamento",
+"p": "Elefante ferido, Bezerro Raja, respondendo bem ao tratamento no Hospital de Vantara/ The Sentinel Filhote de elefante-asiático de sete semanas, nascido com fratura no fêmur, foi levado de avião da Índia a um hospital especializado e já reage bem ao tratamento.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/filhote-de-elefante-com-fratura-na-perna-e-levado-de-aviao-por-2-500-km-na-india-e-apresenta-melhora-apos-tratamento/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:35",
+"t": "Aos 90 anos, político mais velho da história revela três hábitos que mantém na rotina e planeja disputar eleição em 2030",
+"p": "Raymond Cho, MPP de Ontário para Scarborough North, que comemorou seu aniversário de 90 anos em 19 de novembro, joga tênis de mesa no Centro Cultural Chinês da Grande Toronto, na sexta-feira, 13 de novembro de 2026. THE CANADIAN PRESS/Chris Young Aos 90 anos, o deputado provincial Raymond Cho, de Ontário, diz que…",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/noticias/aos-90-anos-politico-mais-velho-da-historia-revela-tres-habitos-que-mantem-na-rotina-e-planeja-disputar-eleicao-em-2030/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:30",
+"t": "Produtos podem ficar mais caros em 2027 com novo ajuste fiscal e brasileiros devem sentir impacto no bolso após corte de benefícios",
+"p": "A redução de benefícios tributários prevista no novo pacote de ajuste fiscal pode elevar custos de empresas e pressionar os preços de produtos e serviços em 2027. O impacto dependerá de quais incentivos serão reduzidos e de quanto as empresas conseguirão repassar aos consumidores. Sancionada sem vetos pelo…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/produtos-podem-ficar-mais-caros-em-2027-com-novo-ajuste-fiscal-e-brasileiros-devem-sentir-impacto-no-bolso-apos-corte-de-beneficios/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:30",
+"t": "Refis de Santos chega à reta final com até 100% de desconto",
+"p": "Atendimento presencial ocorre no Poupatempo, na rua João Pessoa, no centro; contribuintes também podem emitir boletos on-line pelo Santos Portal",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/santos/refis-de-santos-chega-a-reta-final-com-ate-100-de-desconto.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:22",
+"t": "Shoppings e lojas de Santos ampliam horário para as compras de Natal e abrem até às 23h; veja programação",
+"p": "Com a proximidade do Natal, lojas e shopping centers de Santos vão ampliar o horário de funcionamento para atender ao aumento da procura por presentes e compras de fim de ano. A mudança busca facilitar o acesso dos consumidores aos centros comerciais durante uma das principais datas comemorativas do setor. Segundo…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/estilo-de-vida/shoppings-e-lojas-de-santos-ampliam-horario-para-as-compras-de-natal-e-abrem-ate-as-23h-veja-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:17",
+"t": "Prefeitura inicia obras para restauração dos lagos da Praça da República",
+"p": "Durante o período de obras o entorno dos lagos ficará isolado, mas os demais equipamentos da praça não terão o funcionamento impactado",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-inicia-obras-para-restauracao-dos-lagos-da-praca-da-republica",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:13",
+"t": "Motoristas poderão subir a serra sem pagar pedágio na Anchieta-Imigrantes em dezembro; veja quem terá direito à isenção",
+"p": "Motoristas que descerem a serra pela Anchieta-Imigrantes até 30 de novembro poderão subir sem pagar pedágio em dezembro.",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/motoristas-poderao-subir-a-serra-sem-pagar-pedagio-na-anchieta-imigrantes-em-dezembro-veja-quem-tera-direito-a-isencao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:06",
+"t": "Alunos de escola profissional revelam pinturas de pavões, aves e cenas mitológicas escondidas desde 1976 em casa romana de Mérida",
+"p": "Ponte romana sobre o Guadiana e muralha da Alcazaba árabe, em Mérida. O solar da Huerta de Otero fica entre o dique do rio e essa muralha, mas a foto não mostra o trecho escavado nem as pinturas. Pinturas murais com pavões, aves e temas mitológicos foram reveladas em uma residência romana na Huerta de Otero, em…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/mundo/alunos-de-escola-profissional-revelam-pinturas-de-pavoes-aves-e-cenas-mitologicas-escondidas-desde-1976-em-casa-romana-de-merida/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:05",
+"t": "Com mais de 1 km de extensão, o maior prédio residencial do mundo tem quatro paradas de bonde, mais de mil apartamentos, biblioteca e até clínica",
+"p": "Quatro pontos da linha D do bonde de Viena ficam ao longo de um mesmo endereço residencial. É o Karl-Marx-Hof, um conjunto de apartamentos com 1.100 metros de extensão no distrito de Döbling, na zona norte da capital austríaca. A prefeitura o considera o edifício residencial contínuo mais longo do mundo. A cidade…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/maior-predio-residencial-do-mundo-tem-quatro-paradas-de-bonde-mais-de-mil-apartamentos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "17:04",
 "t": "Fernandópolis altera regras de punição para estabelecimentos que descumprirem lei de assentos para pessoas obesas",
 "p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou nesta quarta-feira (25) a Lei nº 5.790, que atualiza o regime de penalidades previsto na legislação municipal que obriga estabelecimentos comerciais e prestadores de serviços a disponibilizarem assentos adequados para pessoas obesas. A alteração,…",
@@ -73,6 +315,48 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/saae-sorocaba-avanca-em-modernizacao-e-ampliacao-da-capacidade-de-tratamento-da-ete-s2/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:02",
+"t": "Carreta com bobinas de aço tomba no canteiro central da rodovia Ayrton Senna, em Caçapava",
+"p": "Acidente ocorreu na noite da terça-feira (24), no km 111 da SP-070, motorista saiu ileso; equipes aguardam guincho para destombamento",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Caçapava"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/carreta-com-bobinas-de-aco-tomba-no-canteiro-central-da-rodovia-ayrton-senna-em-cacapava.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:02",
+"t": "Cantarella sanciona lei que cria política municipal de cuidado integral a pessoas com diabetes",
+"p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou nesta quarta-feira (25) a Lei nº 5.789, que institui a Política Municipal de Atenção Integral à Pessoa com Diabetes mellitus. A medida foi aprovada pela Câmara Municipal e publicada no Diário Oficial do Município com o objetivo central de ampliar o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/cantarella-sanciona-lei-que-cria-politica-municipal-de-cuidado-integral-a-pessoas-com-diabetes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "17:01",
+"t": "Semana do Ciclista promove passeio ciclístico gratuito e pit stop em São Vicente",
+"p": "Saída ocorre às 9h em frente à prefeitura de São Vicente; programação começa na sexta-feira (27) e encerra-se no domingo (29)",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/semana-do-ciclista-promove-passeio-ciclistico-gratuito-e-pit-stop-em-sao-vicente.html",
 "auto": true
 },
 {
@@ -3250,6 +3534,62 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67808",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:00",
+"t": "Prefeitura realiza capacitação de servidores da ouvidoria sobre o fluxo de denúncias",
+"p": "",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67813",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:00",
+"t": "Prudente sobe 11 posições no ranking nacional de Cidades Inteligentes e recebe Selo CSC",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67812",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:00",
+"t": "Novembro Azul: 614 atendimentos e mais de 1,5 mil procedimentos no primeiro plantão",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67811",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:00",
+"t": "Caminhada de conscientização no Dia D de combate ao Aedes aegypti neste sábado",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67810",
 "auto": true
 },
 {
@@ -54674,350 +55014,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/longe-dos-holofotes-ex-gala-teen-dos-anos-1990-faz-apelo-por-emprego-e-moradia/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "12:14",
-"t": "Contratações temporárias caem 38,7% em Marília, aponta levantamento",
-"p": "Incertezas após as eleições e dúvidas sobre mudanças na jornada são apontadas como fatores para a retração.",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/contratacoes-temporarias-caem-387-em-marilia-aponta-levantamento/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "12:14",
-"t": "Mutirão de Emprego passa a ser realizado no Shopping Cidade Sorocaba",
-"p": "Alteração facilita o acesso e dá maior conforto aos participantes A partir da próxima edição, a ser realizada em 24 de novembro, o Mutirão de Emprego será realizado no Shopping Cidade Sorocaba, na Av. Itavuvu, 3373 – Jd. Santa Cecília, Zona Norte. A mudança de local tem por objetivo facilitar o acesso da população, […]",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/mutirao-de-emprego-passa-a-ser-realizado-no-shopping-cidade-sorocaba/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "12:08",
-"t": "Polícia Militar de SP abre 2 mil vagas para soldado; veja como se inscrever",
-"p": "Foto: Governo de SP Concurso Polícia Militar SP 2026 abre 2 mil vagas com salário de R$ 5.482,51. Veja requisitos, inscrições, provas e como participar.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/economia/concursos/concurso-policia-militar-sp-2026/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "12:03",
-"t": "Ana Maria Braga: “Fazer o certo não te garante a reciprocidade, mas te garante o direito a dormir tranquilo.”",
-"p": "Uma das maiores armadilhas em que caímos ao longo da vida adulta é a expectativa infantil de que a bondade, a honestidade e a decência funcionam como uma moeda de troca automática. Acreditamos que, se tratarmos os outros com retidão, generosidade e justiça, eles invariavelmente retribuirão da mesma forma. Recebendo…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/ana-maria-braga-fazer-o-certo-nao-te-garante-a-reciprocidade-mas-te-garante-o-direito-a-dormir-tranquilo/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "12:03",
-"t": "Quintal Garatuja comemora 10 anos com programação cultural gratuita",
-"p": "Ponto de Cultura no Jardim Nova Europa abre as comemorações neste sábado (14), com apresentações artísticas e exposição cultural de fotografias; atividades seguem até dezembro",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Nova Europa"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/quintal-garatuja-comemora-10-anos-com-programacao-cultural-gratuita/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "12:02",
-"t": "Por que os gatos não gostam de água? Entenda os principais motivos",
-"p": "Enquanto muitos cães adoram brincar na água, nadar em piscinas e aproveitar um banho refrescante, a maioria dos gatos apresenta um comportamento bastante diferente. Os felinos costumam evitar situações que envolvam molhar o corpo e podem demonstrar desconforto, medo ou até tentar fugir quando entram em contato com…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/por-que-os-gatos-nao-gostam-de-agua-entenda-os-principais-motivos/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "12:00",
-"t": "Concurso da Defensoria Pública: inscrição termina amanhã; salário é de R$ 29 mil",
-"p": "Inscrições para o X Concurso Público de ingresso na carreira de Defensora e Defensor Público terminam nesta quarta-feira (11); veja como se inscrever",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/prazo-final-para-se-inscrever-em-concurso-da-defensoria-publica-termina-nesta-quarta/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:58",
-"t": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol",
-"p": "Objetivo é evitar o impacto inflacionário decorrente da alta dos preços internacionais do petróleo provocada pelo conflito no Oriente Médio",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:58",
-"t": "Governo de SP lança concurso público para a Cetesb com 107 vagas em 12 regiões do estado",
-"p": "São 84 vagas para profissionais de nível superior e 23 para nível médio. Foto: Governo de SP Segundo concurso em três anos oferece oportunidades para profissionais de níveis médio e superior; inscrições começam em 12 de novembro e provas estão previstas para fevereiro de 2027",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/economia/empregos/concurso-publico-cetesb-107-vagas-sao-paulo-2026/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:52",
-"t": "Homem é preso por ameaçar a companheira de morte em Marília",
-"p": "Caso foi registrado na DDM de Marília Acusado já havia sido preso em 2024 pelo mesmo crime contra a vítima e teve pedido de prisão preventiva representado à Justiça.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/homem-e-preso-por-ameacar-a-companheira-de-morte-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:49",
-"t": "Puff com R$ 1,8 milhão: delegada suspeita é afastada da Polícia Civil",
-"p": "Maria Corsato é suspeita de esconder cerca de R$ 1,8 milhão dentro de um puff, na Grande São Paulo. Ela foi denunciada pela própria irmã",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/puff-com-r-18-milhao-delegada-suspeita-e-afastada-da-policia-civil",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:48",
-"t": "Vila Arens terá quase um mês de shows e gastronomia com o Natal em Movimento de Jundiaí",
-"p": "Foto: Prefeitura de Jundiaí Evento promovido pela Liga Jundiaiense das Escolas de Samba acontece de 25 de novembro a 23 de dezembro, com trailers de alimentação e apresentações musicais às sextas e aos sábados.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/entretenimento/vila-arens-shows-e-gastronomia-natal-em-movimento-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:48",
-"t": "Operação tapa-buraco atende bairros das regiões sul e oeste de Marília",
-"p": "Serviços da Prefeitura contemplam os jardins Santa Clara, Nacional, Higienópolis e Cavallari.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/operacao-tapa-buraco-atende-bairros-das-regioes-sul-e-oeste-de-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:44",
-"t": "Encontro na Chácara do Idoso destaca a importância do fortalecimento psicológico e emocional do cuidador familiar",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Cidadania (Secid), realizou, na tarde desta segunda-feira (9), na Chácara do Idoso, o encontro ‘Eu também mereço cuidado’, com roda de conversa e dinâmica, que destacou a importância do fortalecimento emocional do cuidador familiar. O objetivo foi de promover o…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/encontro-na-chacara-do-idoso-destaca-a-importancia-do-fortalecimento-psicologico-e-emocional-do-cuidador-familiar/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:44",
-"t": "Operação integrada da Prefeitura autua seis bares e adegas em Sorocaba",
-"p": "Foto: Seplan Uma operação integrada, para fiscalizar estabelecimentos que operam como adegas e bares, foi realizada na noite de sábado (7) em Sorocaba. Ao todo, seis estabelecimentos foram autuados devido a irregularidades. A ação, que teve início às 22h e avançou até a madrugada de domingo (8), esteve a cargo do…",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/operacao-integrada-da-prefeitura-autua-seis-bares-e-adegas-em-sorocaba/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:41",
-"t": "Cetesb abre concurso público com 107 vagas em SP, salários atraem candidatos e Baixada Santista tem oportunidades",
-"p": "O Governo de São Paulo abriu um novo concurso público para a Companhia Ambiental do Estado de São Paulo (Cetesb). O edital foi publicado nesta terça-feira (10) e oferece 107 vagas para profissionais de níveis médio e superior. As oportunidades estão distribuídas entre sete cargos e 12 polos regionais. A Grande São…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/cetesb-abre-concurso-publico-com-107-vagas-em-sp-salarios-atraem-candidatos-e-baixada-santista-tem-oportunidades/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:39",
-"t": "Ação contra a dengue elimina 13 focos, mas encontra 381 imóveis fechados em Marília",
-"p": "Residências fechadas representaram 45,41% dos endereços visitados durante ação da Saúde.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/acao-contra-a-dengue-elimina-13-focos-mas-encontra-381-imoveis-fechados-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:38",
-"t": "Marília recebe equipe do Ministério da Saúde para avaliar ações contra hepatite B",
-"p": "Equipe nacional conheceu unidades de atendimento e analisou ações de prevenção da transmissão da doença de mãe para filho.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-recebe-equipe-do-ministerio-da-saude-para-avaliar-acoes-contra-hepatite-b/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:38",
-"t": "Feira de Barão Geraldo terá programação de Natal gratuita com histórias encantadas",
-"p": "Feira começa neste sábado (14) e segue até 12 de dezembro, com atividades recreativas para crianças, aventura natalina com dois duendes e arrecadação de brinquedos para a instituição Pro Menor",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/feira-de-barao-tera-programacao-de-natal-gratuita-com-historias-encantadas/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:35",
-"t": "Evento de ciência oferece oficinas e atividades gratuitas até 14 de novembro",
-"p": "Evento reúne instituições de ensino, poder público e setor tecnológico em atividades abertas à comunidade.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/evento-de-ciencia-oferece-oficinas-e-atividades-gratuitas-ate-14-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:32",
-"t": "Justiça autoriza retomada do programa ‘Bolsa Mounjaro’ em Urupês",
-"p": "Decisão suspende os efeitos da liminar que havia interrompido o fornecimento de tirzepatida manipulada",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Urupês"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/justica-autoriza-retomada-do-programa-bolsa-mounjaro-em-urupes/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:30",
-"t": "Vereadora Áurea questiona comunicação sobre possível fechamento de serviços e cobra participação dos municípios no custeio da Santa Casa",
-"p": "Durante a reunião com a imprensa realizada nesta terça-feira (10), a vereadora Áurea Rosa pediu maior clareza nas informações divulgadas pela Santa Casa de Itapeva, especialmente para evitar que a população interprete os alertas financeiros como um possível fechamento da instituição. A parlamentar destacou a…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Itapeva"
-],
-"src": "Jornal Ita News",
-"u": "https://jornalitanews.com.br/santa-casa-custeio/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:22",
-"t": "Celular furtado de loja em Marília é entregue à polícia depois de dois anos",
-"p": "Aparelho levado durante invasão a loja de departamento foi entregue por moradora que afirmou tê-lo encontrado na rua.",
-"tema": "Segurança",
-"s": "entregue",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/celular-furtado-de-loja-em-marilia-e-entregue-a-policia-depois-de-dois-anos/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:17",
-"t": "Jovem cria aquecedor solar com garrafas PET para aquecer água em casa de forma barata e é reconhecida por instituto de ciências nucleares",
-"p": "O protótipo premiado pela universidade mexicana usa o mesmo princípio de absorção solar que famílias brasileiras já aplicam em telhados com garrafas e tubos de PVC. Ilustração criada com Inteligência Artificial Estudante de Chiapas apresentou à presidente do México o aquecedor solar de garrafas PET que criou aos…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/mundo/jovem-cria-aquecedor-solar-com-garrafas-pet-para-aquecer-agua-em-casa-de-forma-barata-e-e-reconhecida-por-instituto-de-ciencias-nucleares/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "11:16",
-"t": "Mototaxista é preso com CNH digital falsa após fuga da polícia",
-"p": "Homem admitiu ter comprado o documento pela internet",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/mototaxista-e-preso-com-cnh-digital-falsa-apos-fuga-da-policia/",
 "auto": true
 }
 ]
