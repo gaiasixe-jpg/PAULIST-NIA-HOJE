@@ -3,6 +3,417 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "12:15",
+"t": "Manutenção em rede de energia interrompe abastecimento de água sexta-feira (27) na região do Genebra",
+"p": "O Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba informa que na sexta-feira (27), em função de manutenção preventiva na rede de energia elétrica na região do Genebra, por parte da concessionária distribuidora, o Centro de Distribuição do Saae/Sorocaba, nessa mesma localidade, não terá como bombear água. O…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/manutencao-em-rede-de-energia-interrompe-abastecimento-de-agua-sexta-feira-27-na-regiao-do-genebra/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:14",
+"t": "Concurso público abre inscrições com salários de até R$ 10,6 mil e provas em Ribeirão Preto",
+"p": "Concurso público oferece vagas e cadastro de reserva para níveis médio e superior; benefícios incluem vale-alimentação de R$ 756 e vale-refeição de R$ 69 por dia",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/concurso-publico-abre-inscricoes-com-salarios-de-ate-r-106-mil-e-provas-em-ribeirao-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:05",
+"t": "Força Tática prende procurado por roubo após reconhecimento facial em Votuporanga",
+"p": "Policiais da Força Tática do 16º Batalhão de Polícia Militar do Interior (BPM/I), ligado ao CPI-5, prenderam um homem procurado pela Justiça durante patrulhamento na Zona Norte de Votuporanga. A equipe realizava rondas voltadas ao enfrentamento ao tráfico de drogas e à captura de foragidos quando viu o suspeito…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/forca-tatica-prende-procurado-por-roubo-apos-reconhecimento-facial-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:00",
+"t": "Pesquisa aponta 62,3% de reprovação à prefeita de Mongaguá; aprovação é de 30,2%",
+"p": "Levantamento da Badra Comunicação ouviu 1.060 eleitores em outubro; 64,3% consideram que Cristina Wiazowski fez menos do que esperavam desde que assumiu a prefeitura",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/politica/pesquisa-aponta-623-de-reprovacao-a-prefeita-de-mongagua-aprovacao-e-de-302.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "12:00",
+"t": "Procon-SP intensifica fiscalização e ações de orientação ao consumidor para a Black Friday",
+"p": "Com a aproximação da Black Friday, a Fundação Procon-SP ampliou suas frentes de fiscalização e orientação ao público com o objetivo de coibir práticas abusivas e garantir mais segurança nas transações comerciais. O monitoramento preventivo do mercado teve início ainda em setembro, dois meses antes da data…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/procon-sp-intensifica-fiscalizacao-e-acoes-de-orientacao-ao-consumidor-para-a-black-friday/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:56",
+"t": "Motorista desaparece após cabine de caminhão cair no Rio Tietê",
+"p": "Um caminhoneiro está desaparecido na manhã desta quarta-feira (25) depois que a cabine de seu veículo caiu no Rio Tietê durante um acidente na Rodovia Castello Branco, na altura do km 25, em Barueri, na Grande São Paulo. Segundo a concessionária Ecovias Raposo Castello, a colisão ocorreu por volta das 5h, no…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Barueri"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/motorista-desaparece-apos-cabine-de-caminhao-cair-no-rio-tiete/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:52",
+"t": "Avenida Eliezer Rocha recebe operação tapa-buracos no Jardim Santa Antonieta",
+"p": "Segundo a Prefeitura, serviços de recuperação do pavimento terão continuidade em diferentes regiões da cidade.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/avenida-eliezer-rocha-recebe-operacao-tapa-buracos-no-jardim-santa-antonieta/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:50",
+"t": "Saresp: 100 mil alunos do 2º ano da rede estadual fazem provas nesta quarta e quinta-feira",
+"p": "Cem mil estudantes do 2º ano do Ensino Fundamental da rede estadual, ligada à Secretaria da Educação do Estado de São Paulo (Seduc-SP), realizam nesta quarta-feira (25) e quinta-feira (26) as provas do Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) de 2026. O exame busca medir o grau de…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/saresp-100-mil-alunos-do-2o-ano-da-rede-estadual-fazem-provas-nesta-quarta-e-quinta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:48",
+"t": "Caminhonete capota na rodovia Cândido Portinari e deixa 1 vítima",
+"p": "Caminhonete capotou na manhã desta quarta (25) em trecho de Jardinópolis, na região de Ribeirão Preto",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeirão Preto",
+"Jardinópolis"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/caminhonete-capota-na-rodovia-candido-portinari-e-deixa-1-vitima/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:47",
+"t": "Prefeitura de Santo André realiza simulado de evacuação no Paço",
+"p": "Objetivo foi conhecer as rotas de fuga e os procedimentos; não houve incêndio",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370655/prefeitura-de-santo-andre-realiza-simulado-de-evacuacao-no-paco",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:40",
+"t": "Câmara de Fernandópolis aprova criação do CRAM e vereadores celebram avanço na rede de proteção à mulher",
+"p": "Os vereadores Afonso Pessutto, Carlos Cabral, Daniel da Saúde e Rosana Arouca publicaram um vídeo para comemorar a aprovação do projeto de lei que cria o Centro de Referência de Atendimento à Mulher (CRAM) em Fernandópolis. A proposta, enviada pela Prefeitura sob a gestão do prefeito João Paulo Cantarella e…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/camara-de-fernandopolis-aprova-criacao-do-cram-e-vereadores-celebram-avanco-na-rede-de-protecao-a-mulher/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:35",
+"t": "Santa Casa de Fernandópolis adia sorteio de rifa beneficente para 22 de dezembro",
+"p": "A direção da Santa Casa de Fernandópolis anunciou o adiamento do sorteio da rifa beneficente organizada em favor da unidade hospitalar. A campanha solidária busca reunir recursos financeiros para reforçar os atendimentos de saúde prestados pelo hospital, considerado referência para moradores da cidade e de…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-adia-sorteio-de-rifa-beneficente-para-22-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:34",
+"t": "Cães fantasiados de \"renas terapeutas\" visitam crianças em hospital de SP",
+"p": "Crianças hospitalizadas na AACD receberam visitas de cães abandonados, fantasiados de \"renas terapeutas\", em ação de Natal",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/caes-fantasiados-de-renas-terapeutas-visitam-criancas-em-hospital-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:34",
+"t": "Chuva forte derruba 17 árvores e interdita rua e avenida em São Paulo",
+"p": "Região metropolitana da capital paulista foi atingida por tempestade na madrugada desta quarta-feira (25/11). Interior registrou 2 mortes",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/chuva-forte-derruba-17-arvores-e-interdita-rua-e-avenida-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:33",
+"t": "Vale dos Dinossauros fica R$ 104 mil mais caro e tem entrega adiada para 2027",
+"p": "Obra na zona sul de Marília acumula quatro aditivos contratuais e deve ser concluída um ano e meio depois do prazo inicialmente anunciado.",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vale-dos-dinossauros-fica-r-104-mil-mais-caro-e-tem-entrega-adiada-para-2027/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:22",
+"t": "Cajamar mantém IPTU congelado em 2027 pelo oitavo ano consecutivo",
+"p": "Foto: Prefeitura de Cajamar Medida vale para imóveis com terrenos de até 10 mil m² que não tiveram alterações nas características registradas no cadastro municipal",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Cajamar"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/cajamar/cajamar-mantem-iptu-congelado-2027/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:16",
+"t": "Brasil poderá testar vacina contra o câncer em 2027; veja quais tumores são alvo da pesquisa",
+"p": "Foto: Depositphotos Desenvolvida em parceria com a Universidade de Oxford, vacina terapêutica utiliza duas tecnologias para estimular o sistema imunológico a combater células tumorais.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/saude/vacina-contra-cancer-brasil-testes-2027/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:03",
+"t": "Itupeva sanciona lei que permite retirar veículos abandonados das ruas; entenda as regras",
+"p": "Foto: Prefeitura de Itupeva Proprietários terão prazo de 15 dias após notificação para retirar os veículos; automóveis recolhidos e não reclamados poderão ir a leilão.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/itupeva-lei-retirada-veiculos-abandonados/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:03",
+"t": "Chuvas causam deslizamentos e colocam Campos do Jordão em alerta vermelho",
+"p": "Índice pluviométrico atingiu 60,2mm em 24h provocando deslizamentos; Defesa Civil acionou o gabinete de crise e mantém atenção máxima na região",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/chuvas-causam-deslizamentos-e-colocam-campos-do-jordao-em-alerta-vermelho.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:00",
+"t": "Após liberar R$ 2,9 bilhões em outubro, Justiça autoriza mais R$ 2,77 bilhões em atrasados do INSS para 179 mil brasileiros em novembro",
+"p": "Depois de liberar aproximadamente R$ 2,93 bilhões para o pagamento de atrasados do Instituto Nacional do Seguro Social (INSS) em outubro, conforme noticiou o Diário do Litoral, a Justiça Federal autorizou uma nova transferência bilionária. Segundo informações do InfoMoney e do Conselho da Justiça Federal (CJF),…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/apos-liberar-r-29-bilhoes-em-outubro-justica-autoriza-mais-r-277-bilhoes-em-atrasados-do-inss-para-179-mil-brasileiros-em-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "11:00",
+"t": "Defesa Civil alerta para chuva forte e risco de deslizamentos no litoral de SP",
+"p": "Instabilidades ganham força a partir da tarde desta quarta-feira (25) e seguem na quinta (26), com risco de alagamentos e enxurradas",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/clima/defesa-civil-alerta-para-chuva-forte-e-risco-de-deslizamentos-no-litoral-de-sp.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:56",
+"t": "Festival do Japão será neste final de semana; veja local e programação",
+"p": "Festival gratuito será realizado de 27 a 29 de novembro, com apresentações musicais, oficinas culturais, tambores japoneses e concurso de cosplay com premiação em dinheiro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/festival-do-japao-sera-neste-final-de-semana-veja-local-e-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:44",
+"t": "Sob protestos e bate-boca, Câmara de Jundiaí aprova retorno das sessões para o período da manhã",
+"p": "Foto: Reprodução/YouTube Câmara Municipal de Jundiaí Votação do Projeto de Resolução aconteceu em regime de urgência e dividiu o plenário em 10 a 9",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/camara-jundiai-aprova-mudanca-horario-sessao-9h-confusao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:41",
+"t": "Super chuva: São Paulo deve ter volume mais extremo da semana hoje; veja possíveis rotas de trânsito, riscos de alagamentos e o que fazer em caso de emergência",
+"p": "São Paulo deve enfrentar um dia de atenção nesta quarta-feira (25), com previsão de chuva forte, risco de alagamentos, enxurradas, queda de árvores e deslizamentos. A capital paulista tem previsão de 55 milímetros de chuva, volume que coloca o dia entre os mais chuvosos da semana, segundo a Defesa Civil. A…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/super-chuva-sao-paulo-deve-ter-volume-mais-extremo-da-semana-hoje-veja-possiveis-rotas-de-transito-riscos-de-alagamentos-e-o-que-fazer-em-caso-de-emergencia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:41",
+"t": "Justiça derruba liminar que suspendia novas regras para VA e VR",
+"p": "Com isso, volta a valer a regra sobre o funcionamento dos benefícios em formato aberto",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/justica-derruba-liminar-que-suspendia-novas-regras-para-va-e-vr/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:40",
+"t": "Testes de vacina contra o câncer serão iniciados no Brasil em 2027",
+"p": "A iniciativa envolve parceria com a Universidade de Oxford e a Fundação Oswaldo Cruz (Fiocruz), com participação do A.C.Camargo Cancer Center e do SUS. Diferentemente das vacinas preventivas, a tecnologia busca estimular o sistema imunológico de pacientes já diagnosticados com câncer a reconhecer e combater as…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/vida/vacina-contra-o-cancer/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:39",
+"t": "Fórum Licença Ágil debate licenciamento ambiental em Santos",
+"p": "Evento promovido pela AEAS e pela CPEA será realizado em 7 de dezembro, em Santos, com debates sobre agilidade nos processos, segurança jurídica e proteção ambiental.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/etc/forum-licenca-agil-debate-licenciamento-ambiental-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:36",
+"t": "Acusado de furtar torneiras é preso escondido em banheiro de vizinho",
+"p": "PM apresentou ocorrência na CPJ de Marília Polícia foi acionada após suspeita de invasão e encontrou uma telha danificada na cobertura da residência.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/acusado-de-furtar-torneiras-e-preso-escondido-em-banheiro-de-vizinho/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:29",
+"t": "Réu pela morte da gata Charlotte é ouvido pela Justiça nesta quarta-feira",
+"p": "Caê foi preso pela Polícia Civil de Garça Caso registrado em Garça ganhou repercussão nacional; Ministério Público pede condenação e R$ 200 mil por danos morais coletivos.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Garça"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/reu-pela-morte-da-gata-charlotte-e-ouvido-pela-justica-nesta-quarta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:27",
+"t": "Justiça derruba liminar que suspendia novas regras para VA e VR",
+"p": "A liminar que suspendeu parte das regras havia sido concedida em 9 de novembro, dias depois da entrada em vigor de uma série de mudanças determinadas pelo governo no Programa de Alimentação do Trabalhador (PAT), que abrange a utilização de VA e VR",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/justica-derruba-liminar-que-suspendia-novas-regras-para-va-e-vr/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "10:15",
 "t": "Apontado como líder de esquema de receptação de cobre é preso em Marília",
 "p": "Fios de cobre apreendidos durante operação da Polícia Civil em Bauru Operação da Polícia Civil prendeu seis suspeitos e apreendeu cerca de uma tonelada de materiais e equipamentos em Bauru.",
@@ -18,6 +429,18 @@
 },
 {
 "d": "2026-11-25",
+"h": "10:15",
+"t": "Receita Federal dá prioridade a quem usa Pix e declaração pré-preenchida e mais de 133 mil contribuintes entram no lote do Imposto de Renda",
+"p": "Mais de 133 mil contribuintes sem prioridade legal foram incluídos no novo lote de restituição do Imposto de Renda após utilizarem a declaração pré-preenchida ou escolherem receber o dinheiro via Pix. A Receita Federal destinou 133.162 restituições a esse grupo. A preferência por essas modalidades também influencia…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/pix-e-declaracao-pre-preenchida-garantem-prioridade-na-restituicao-do-ir-e-colocam-133-mil-contribuintes-na-lista-de-pagamentos-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "10:11",
 "t": "Troca de bomba pode deixar bairro de Ribeirão Preto sem água nesta quarta-feira (25)",
 "p": "Serviço da Saerp na Vila Tibério acontece até as 18h; fornecimento de água na região retorna aos poucos após a conclusão do trabalho",
@@ -28,6 +451,18 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/troca-de-bomba-pode-deixar-bairro-de-ribeirao-preto-sem-agua-nesta-quarta-feira-25/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "10:10",
+"t": "Jovem brasileiro de 16 anos carrega mais de 250 litros de água por semana para salvar jaguatiricas, tamanduás e centenas de pássaros da seca",
+"p": "Aos 16 anos, o estudante brasileiro Eric Rian encontrou uma maneira de ajudar os animais silvestres durante os períodos de seca. Em Cantanhede, no interior do Maranhão, ele instalou bebedouros na mata e transporta mais de 250 litros de água por semana para abastecer os recipientes. O projeto começou em agosto de…",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/jovem-brasileiro-de-16-anos-carrega-mais-de-250-litros-de-agua-por-semana-para-salvar-jaguatiricas-tamanduas-e-centenas-de-passaros-da-seca/",
 "auto": true
 },
 {
@@ -130,6 +565,18 @@
 },
 {
 "d": "2026-11-25",
+"h": "09:56",
+"t": "Aposta simples de R$ 3,50 transforma morador de cidade com 11 mil habitantes em milionário com prêmio na Lotofácil 3837",
+"p": "Uma aposta simples de apenas R$ 3,50 mudou a vida de um morador de Buriti Alegre, município de Goiás com cerca de 11 mil habitantes. Ele foi o único a acertar as 15 dezenas do concurso 3837 da Lotofácil e conquistou sozinho o prêmio de R$ 3.755.409,03. O sorteio foi realizado na terça-feira (24), com […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/aposta-simples-de-r-350-transforma-morador-de-cidade-com-11-mil-habitantes-em-milionario-com-premio-na-lotofacil-3837/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "09:55",
 "t": "Jovem é autorizada a tirar nome da mãe de certidão após abusos na infância",
 "p": "Justiça de São Paulo decidiu, por unanimidade, autorizar a exclusão da filiação materna da certidão de nascimento de Heloisa de Lima",
@@ -140,6 +587,20 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/jovem-e-autorizada-a-tirar-nome-da-mae-de-certidao-apos-abusos-na-infancia",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:55",
+"t": "Reurbanização da Alameda Armênio Mendes, em Santos, entra na reta final",
+"p": "Projeto contempla obras de drenagem, implantação de calçadas com piso podotátil e rampas de acessibilidade, arborização e criação de áreas verdes para ajudar a reduzir as ilhas de calor",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/reurbanizacao-da-alameda-armenio-mendes-em-santos-entra-na-reta-final/",
 "auto": true
 },
 {
@@ -168,6 +629,20 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/homem-descumpre-medida-pula-muro-da-ex-e-e-preso-pela-gcm-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:34",
+"t": "Defesa Civil mobiliza Gabinete Especial da Operação El Niño para monitorar chuvas intensas",
+"p": "Previsão da Defesa Civil aponta chuva persistente em parte do Estado, com acumulados mais expressivos na Baixada Santista, no Litoral Norte e na Serra da Mantiqueira",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/defesa-civil-mobiliza-gabinete-especial-da-operacao-el-nino-para-monitorar-chuvas-intensas/",
 "auto": true
 },
 {
