@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T19:04:33-03:00",
-"novos_nesta_coleta": 23,
+"atualizado": "2026-11-25T20:02:08-03:00",
+"novos_nesta_coleta": 30,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário, 64 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,314 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-25",
+"h": "20:01",
+"t": "Haddad volta a dar aulas na USP após indefinição no novo governo Lula",
+"p": "Haddad vai lecionar “Acumulação Primitiva, Capitalismo Superindustrial e Classes Sociais” da pós-graduação de Ciência Política da USP",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/haddad-volta-a-dar-aulas-na-usp-apos-indefinicao-no-novo-governo-lula",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:57",
+"t": "Vice de Nunes diz não sentir orgulho do cargo: \"Tenho de ser coronel da PM\"",
+"p": "Vice-prefeito de São Paulo, Ricardo Mello Araújo disse que policiais resolvem todos os problemas que políticos não conseguem",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/vice-de-nunes-diz-nao-sentir-orgulho-do-cargo-tenho-de-ser-coronel-da-pm",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:57",
+"t": "Guarujá oferece oportunidades de emprego em diferentes áreas nesta quinta-feira (26)",
+"p": "PAT disponibiliza oportunidades em oito funções, com postos para profissionais com experiência e diferentes níveis de escolaridade",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/guaruja-oferece-oportunidades-de-emprego-em-diferentes-areas-nesta-quinta-feira-26.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:50",
+"t": "Justiça proíbe locadora de carros a usar trabalho de menores na lavagem de carros",
+"p": "Determinação atende a pedido do Ministério Público do Trabalho após flagrantes de adolescentes trabalhando em empresas terceirizadas no Aeroporto de Viracopos; Locadora pode ser multada em R$ 20 mil em caso de descumprimento",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/justica-proibe-locadora-de-carros-a-usar-trabalho-de-menores-na-lavagem-de-carros/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:49",
+"t": "Força Tática prende procurado por roubo após identificação facial do Muralha Paulista em Votuporanga",
+"p": "Homem condenado a mais de 10 anos de prisão tentou ocultar a própria identidade, mas foi reconhecido por sistema tecnológico durante abordagem na zona Norte da cidade. Um homem procurado pela Justiça foi preso por policiais da Força Tática do 16º Batalhão de Polícia Militar do Interior (BPM/I) durante patrulhamento…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/forca-tatica-prende-procurado-por-roubo-apos-identificacao-facial-do-muralha-paulista-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:47",
+"t": "Mulher morre e duas crianças ficam gravemente feridas em acidente na Rodovia Feliciano Salles Cunha",
+"p": "Batida entre dois carros em Monte Aprazível/SP deixou oito vítimas; mulher de 56 anos morreu no local e crianças foram encaminhadas em estado grave para hospital de São José do Rio Preto/SP. Uma mulher de 56 anos morreu e outras sete pessoas ficaram feridas, entre elas duas crianças, após um grave acidente…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto",
+"Monte Aprazível"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mulher-morre-e-duas-criancas-ficam-gravemente-feridas-em-acidente-na-rodovia-feliciano-salles-cunha/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:46",
+"t": "Saúde promove mutirão contra a dengue no Jardim Marin neste sábado",
+"p": "Ação será realizada em 28 de novembro, das 7h às 13h, com visitas às residências e orientações para prevenir a proliferação do mosquito. A Secretaria Municipal da Saúde, realizará neste sábado (28.nov), das 7h às 13h, um mutirão de combate à dengue no bairro Jardim Marin, na área de abrangência do Consultório…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/saude-promove-mutirao-contra-a-dengue-no-jardim-marin-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:45",
+"t": "Tesouro com mais de 200 moedas de prata de 2.200 anos é descoberto a poucos centímetros do chão durante obra",
+"p": "Tesouro de moedas celtas com mais de 200 peças de prata de 2.200 anos é descoberto durante escavações na Hungria e intriga arqueólogos",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/tesouro-com-mais-de-200-moedas-de-prata-de-2-200-anos-e-descoberto-a-poucos-centimetros-do-chao-durante-obra/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:43",
+"t": "Sabesp denuncia onda de fake news e garante qualidade da água",
+"p": "A Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) divulgou nesta quarta-feira (25) um comunicado afirmando ser alvo de uma campanha coordenada de desinformação nas redes sociais sobre a qualidade da água distribuída no estado. Nos últimos dias, postagens passaram a sugerir uma suposta contaminação…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sabesp-denuncia-onda-de-fake-news-e-garante-qualidade-da-agua/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:43",
+"t": "Cantarella sanciona lei que cria política municipal de cuidado integral a pessoas com diabetes",
+"p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou nesta quarta-feira (25) a Lei nº 5.789, que institui a Política Municipal de Atenção Integral à Pessoa com Diabetes mellitus. A medida foi aprovada pela Câmara Municipal e publicada no Diário Oficial do Município com o objetivo central de ampliar o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/cantarella-sanciona-lei-que-cria-politica-municipal-de-cuidado-integral-a-pessoas-com-diabetes/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:43",
+"t": "Fernandópolis altera regras de punição para estabelecimentos que descumprirem lei de assentos para pessoas obesas",
+"p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou nesta quarta-feira (25) a Lei nº 5.790, que atualiza o regime de penalidades previsto na legislação municipal que obriga estabelecimentos comerciais e prestadores de serviços a disponibilizarem assentos adequados para pessoas obesas. A alteração,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/fernandopolis-altera-regras-de-punicao-para-estabelecimentos-que-descumprirem-lei-de-assentos-para-pessoas-obesas/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:39",
+"t": "Magia leva adolescente a reino de bruxas em nova animação da Disney",
+"p": "‘Enfeitiçadas: Bem-vindos a Hexe’ estreia nesta quinta-feira (26) no Novo Cine Votuporanga; sessão azul será no domingo (29), às 16h50. Leidiane Caroline WhatsApp: @caroline_leidiane Sugestões de pauta: leidy-vicente@hotmail.com Uma confusão na escola muda a vida de Billie Doe: a adolescente descobre poderes…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/magia-leva-adolescente-a-reino-de-bruxas-em-nova-animacao-da-disney/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:37",
+"t": "Operação mira esquema de fraudes em depósitos judiciais e apreende veículos de luxo em quatro cidades paulistas",
+"p": "Polícia Civil investiga uso de documentos falsos para liberar valores depositados em processos judiciais; prejuízo identificado supera R$ 92 mil. Ao todo, foram cumpridos 12 mandados de busca e apreensão em Araçatuba, Birigui, Penápolis e Praia Grande. A Polícia Civil deflagrou nesta terça-feira (24.nov) a Operação…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"Penápolis",
+"Birigui"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/operacao-mira-esquema-de-fraudes-em-depositos-judiciais-e-apreende-veiculos-de-luxo-em-quatro-cidades-paulistas/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:36",
+"t": "Trivia Trens reassume operação e gestão das linhas 11-Coral e 12-Safira nesta quinta-feira (26)",
+"p": "Concessionária retoma a operação dos serviços após ser afastada por 90 dias e retornar à fase pré-operacional do contrato",
+"tema": "Geral",
+"s": "obra",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/trivia-trens-reassume-operacao-e-gestao-das-linhas-11-coral-e-12-safira-nesta-quinta-feira-26/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:35",
+"t": "Pais dão nota 9,8 à qualidade do ensino no colégio Liceu Coração de Jesus",
+"p": "Segundo Datafolha, 96% dos entrevistados apoiam expansão do modelo de parceria entre a Prefeitura e o colégio público Liceu Coração de Jesus",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pais-dao-nota-98-a-qualidade-do-ensino-no-colegio-liceu-coracao-de-jesus",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:28",
+"t": "Suspeito de estuprar adolescente de 13 anos é localizado ao tentar fugir para São Paulo",
+"p": "Homem de 56 anos foi encontrado próximo à rodoviária de Birigui/SP após denúncia; investigação apura caso de estupro de vulnerável registrado em Araçatuba/SP. Um homem de 56 anos, investigado por suspeita de estupro de vulnerável contra um adolescente de 13 anos em Araçatuba/SP, foi localizado pela Polícia Militar…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"São Paulo",
+"Birigui"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/suspeito-de-estuprar-adolescente-de-13-anos-e-localizado-ao-tentar-fugir-para-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:24",
+"t": "Pesquisa Datafolha mostra que 96% dos pais aprovam expansão de parceria entre Prefeitura de SP e Liceu Coração de Jesus para outras escolas da Capital",
+"p": "A parceria entre a Prefeitura de São Paulo e o tradicional Colégio Liceu Coração de Jesus tem aprovação de 96% dos pais e responsáveis pelos alunos da instituição para que o modelo seja ampliado a outras escolas da capital. É o que aponta uma pesquisa Datafolha, que também atribuiu nota média de 9,8 à qualidade […]",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/pesquisa-datafolha-mostra-que-96-dos-pais-aprovam-expansao-de-parceria-entre-prefeitura-de-sp-e-liceu-coracao-de-jesus-para-outras-escolas-da-capital/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:21",
+"t": "Sarau gratuito com poesias e música ao vivo será realizado pela Academia Campinense de Letras",
+"p": "Evento “Ciranda Natalina – Poemas de Natal” será realizado no dia 2 de dezembro, com participação aberta ao público e programação para todas as idades",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/sarau-gratuito-com-poesias-e-musica-ao-vivo-sera-realizado-pela-academia-campinense-de-letras/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:20",
+"t": "SP-055: CNL investe em melhorias, mas entrada de Peruíbe ainda apresenta problema grave de alagamento; prefeitura promete acompanhamento de perto",
+"p": "A Concessionária Novo Litoral (CNL), responsável pela Rodovia Padre Manuel da Nóbrega, não respondeu se tem planos ou projetos para resolver o problema de alagamento na entrada da cidade de Peruíbe, que pode deixar o local intransitável e oferecer riscos aos motoristas durante as chuvas fortes. Ao menos o assunto…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Peruíbe"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sp-055-cnl-investe-em-melhorias-mas-entrada-de-peruibe-ainda-apresenta-problema-grave-de-alagamento-prefeitura-promete-acompanhamento-de-perto/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:19",
+"t": "Justiça suspende trecho da lei sobre “venda de dívida” da Prefeitura",
+"p": "A Justiça de Rio Preto suspendeu nesta quarta-feira (25) um trecho da lei sancionada pelo prefeito Fábio Candido (PL) que autoriza a securitização de créditos tributários e não tributários do município. A decisão aponta que o trecho poderia transferir para a Prefeitura riscos financeiros de uma operação de…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/justica-suspende-trecho-da-lei-sobre-venda-de-divida-da-prefeitura/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:19",
+"t": "Vereador quer incentivar distribuição de perucas a pacientes em tratamento",
+"p": "Um projeto de lei apresentado pelo vereador Felipe Alcalá (PL) propõe incentivar a doação de cabelos e facilitar a distribuição gratuita de perucas a pacientes em tratamento oncológico em Rio Preto. A proposta estabelece diretrizes para estimular a participação de voluntários, divulgar os locais de recebimento das…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/vereador-quer-incentivar-distribuicao-de-perucas-a-pacientes-em-tratamento/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:19",
+"t": "Vereador quer criar Semana da Beleza da Mulher em Rio Preto",
+"p": "Um projeto de lei apresentado pelo vereador Jorge Menezes (PSD) propõe incluir a Semana da Beleza da Mulher no Calendário Oficial de Rio Preto. A celebração deverá ocorrer anualmente na semana que compreende o dia 15 de junho. A proposta estabelece como objetivos valorizar a autoestima, o autocuidado, a saúde e o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/vereador-quer-criar-semana-da-beleza-da-mulher-em-rio-preto/",
+"auto": true
+},
 {
 "d": "2026-11-25",
 "h": "19:00",
@@ -145,6 +447,21 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/agora-acidente-entre-viatura-da-pm-e-moto-deixa-mulher-prensada-contra-poste-aciona-helicoptero-aguia-e-interdita-rua-em-taboao-da-serra/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "18:35",
+"t": "Acidente entre viatura da PM e moto deixa mulher prensada contra poste, aciona helicóptero Águia e interdita rua em Taboão da Serra",
+"p": "Um acidente envolvendo uma viatura da Polícia Militar (PM) e uma motocicleta mobilizou equipes de resgate na tarde desta quarta-feira (25/11), na rua Conceição de Ipanema, em Taboão da Serra, na região metropolitana de São Paulo. Com a força do impacto, a motocicleta teria sido lançada contra uma mulher que…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Taboão da Serra",
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/acidente-entre-viatura-da-pm-e-moto-deixa-mulher-prensada-contra-poste-aciona-helicoptero-aguia-e-interdita-rua-em-taboao-da-serra/",
 "auto": true
 },
 {
@@ -54709,315 +55026,6 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/bertioga/projeto-bertioga-em-movimento-promove-clinica-gratuita-sobre-fortalecimento-para-corredores-na-quinta-12.html",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:55",
-"t": "Você não deve tomar banho durante chuvas fortes segundo a Defesa Civil; veja motivo",
-"p": "Tomar banho durante uma tempestade com raios não é recomendado. O hábito aparentemente inofensivo pode provocar choques elétricos caso uma descarga atmosférica atinja a rede de energia ou instalações próximas à residência. Por isso, a Defesa Civil orienta que a população evite usar o chuveiro e até mesmo torneiras…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/mundo/voce-nao-deve-tomar-banho-durante-chuvas-fortes-segundo-a-defesa-civil-veja-motivo/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:52",
-"t": "Fundo Social abre inscrições para cursos gratuitos na área da beleza",
-"p": "Curso de barbeiro está entre os mais procurados no Fundo Social de Solidariedade de Jundiaí - Foto: Prefeitura de Jundiaí Formações em barbearia e penteados oferecem 15 vagas cada, são destinadas a pessoas de 25 a 59 anos e têm inscrições abertas até 15 de novembro",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/fundo-social-cursos-gratuitos-beleza-jundiai/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:47",
-"t": "Carga de 517 toneladas altera tráfego na rodovia dos Tamoios; veja bloqueios",
-"p": "Transporte de estator rumo ao porto de São Sebastião interdita serra nova e contorno sul; operação noturna tem início às 21 horas",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"São Sebastião"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviasdostamoios/carga-de-517-toneladas-altera-trafego-na-rodovia-dos-tamoios-veja-bloqueios.html",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:46",
-"t": "Revolta da Vacina deixou 30 mortos e 945 presos no Rio de Janeiro, mas um detalhe pouco lembrado impressiona: 461 pessoas foram deportadas",
-"p": "Em novembro de 1904, ruas do Rio de Janeiro foram tomadas por barricadas, confrontos e uma repressão que terminou com mortos, feridos, presos e centenas de pessoas deportadas. O episódio entrou para a história como Revolta da Vacina, mas a dimensão da crise ultrapassou a resistência à vacinação obrigatória.…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/cotidiano/revolta-da-vacina-deixou-30-mortos-e-945-presos-no-rio-de-janeiro-mas-um-detalhe-pouco-lembrado-impressiona-461-pessoas-foram-deportadas/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:46",
-"t": "Câmara de Santo André aprova LOA de 2027 em primeira votação",
-"p": "Projeto recebeu 23 votos favoráveis durante sessão desta terça-feira",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367919/camara-de-santo-andre-aprova-loa-de-2027-em-primeira-votacao",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:44",
-"t": "Mogi-Bertioga tem interdição parcial em trecho de Bertioga nesta terça-feira (10)",
-"p": "Obras afetam segmento entre os quilômetros 75 e 92; demais pontos monitorados apresentam tráfego normal no início da tarde",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicao-parcial-em-trecho-de-bertioga-nesta-terca-feira-10.html",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:44",
-"t": "Polícia investiga homem que gravou vídeo com Fernando Henrique Cardoso",
-"p": "A Polícia Civil de São Paulo abriu investigação contra um homem que entrou no apartamento do ex-presidente da República Fernando Henrique Cardoso e divulgou imagens do imóvel e do próprio ex-presidente, de 95 anos, com a saúde fragilizada. O caso é apurado com base nas determinações do Estatuto da Pessoa Idosa. O…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/policia-investiga-homem-que-gravou-video-com-fernando-henrique-cardoso",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:42",
-"t": "Sua empresa sabe como agir diante de uma falha de segurança?",
-"p": "Prevenção, protocolos bem definidos e equipes preparadas são fundamentais para reduzir vulnerabilidades e responder a situações de risco no ambiente empresarial.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/conteudo-patrocinado/previl-seguranca/sua-empresa-sabe-como-agir-diante-de-uma-falha-de-seguranca/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:41",
-"t": "Atrasos e cobranças põem serviços essenciais sob pressão em Marília",
-"p": "Motoristas pararam nesta terça-feira, sindicato das merendeiras protocolou aviso de greve e trabalhadores da coleta e da limpeza urbana relataram atrasos.",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/atrasos-e-cobrancas-poem-servicos-essenciais-sob-pressao-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:41",
-"t": "Zona Azul começa em Guarujá nesta quinta; veja praias e regiões que terão cobrança",
-"p": "O sistema de estacionamento rotativo de Guarujá, conhecido como Zona Azul, começa a funcionar de forma experimental na próxima quinta- feira (12). A implantação do projeto Roda Guarujá prevê vagas em regiões comerciais e turísticas do município, incluindo áreas próximas a cinco praias: Enseada, Pitangueiras,…",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Pitangueiras",
-"Guarujá"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/turismo/zona-azul-comeca-em-guaruja-nesta-quinta-veja-praias-e-regioes-que-terao-cobranca/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:36",
-"t": "Homem é condenado a 6 anos por transportar 500g de maconha e pistola em Land Rover no Parque da Liberdade",
-"p": "A juíza Ana Maria Chalub De Aquino, da 4ª Vara Criminal de São José do Rio Preto, condenou Walace de Paula Batista Dionisio pelo crime de tráfico de drogas majorado pelo emprego de arma de fogo, tipificado no artigo 33, caput, combinado com o artigo 40, inciso IV, da Lei nº 11.343/2006. O réu recebeu […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-e-condenado-a-6-anos-por-transportar-500g-de-maconha-e-pistola-em-land-rover-no-parque-da-liberdade/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:35",
-"t": "Tarcísio admite adiar novamente entrega de estações da Linha 6-Laranja",
-"p": "Entrega das estações Brasilândia e Itaberaba-Hospital Vila Penteado, prometida para dezembro, agora foi ajustada para janeiro de 2027",
-"tema": "Saúde",
-"s": "entregue",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/tarcisio-admite-adiar-novamente-entrega-de-estacoes-da-linha-6-laranja",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:32",
-"t": "Dupla armada invade e assalta farmácia em frente a escola em Perdizes",
-"p": "Pelo menos um celular foi levado pelos criminosos e ninguém ficou ferido. Assalto foi no final da manhã desta terça (10/11)",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/dupla-armada-invade-e-assalta-farmacia-em-frente-a-escola-em-perdizes",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:32",
-"t": "Homem é condenado por furtar equipamentos de clínica médica em Rio Preto; coautor é absolvido",
-"p": "O juiz Vinicius Nunes Abbud, da 2ª Vara Criminal de São José do Rio Preto, condenou Willians de Souza Silva pelo crime de furto triplamente qualificado (concurso de pessoas, arrombamento e repouso noturno), tipificado no artigo 155, §§ 1º e 4º, incisos I e IV, do Código Penal. O réu foi apenado a 4 anos […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-e-condenado-por-furtar-equipamentos-de-clinica-medica-em-rio-preto-coautor-e-absolvido/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:32",
-"t": "É claro que Flávio Bolsonaro Tem direito de ser candidato em 2030, diz Tarcísio",
-"p": "",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367915/e-claro-que-flavio-bolsonaro-tem-direito-de-ser-candidato-em-2030-diz-tarcisio",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:30",
-"t": "Carro fofoqueiro: nova tecnologia poderá detectar combustível adulterado e denunciar postos à ANP",
-"p": "A Stellantis, dona de marcas como Fiat, Jeep e Peugeot, desenvolve uma tecnologia que poderá transformar os carros em fiscais da qualidade do combustível. O sistema foi projetado para identificar possíveis adulterações, alertar o motorista e enviar informações sobre o posto de abastecimento à Agência Nacional do…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/automotor/carro-fofoqueiro-nova-tecnologia-podera-detectar-combustivel-adulterado-e-denunciar-postos-a-anp/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:13",
-"t": "Terra dos Dinos é inaugurado em Campos do Jordão; público entra a partir do dia 12",
-"p": "Cerimônia reuniu convidados em 10 de novembro. Parque abre ao público no dia 12, com mais de 50 réplicas e tarifa de R$ 59 para jordanenses.",
-"tema": "Geral",
-"s": "entregue",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/terra-dos-dinos-inauguracao-campos-do-jordao-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:10",
-"t": "Após ataques bolsonaristas, Tarcísio diz não esperar \"compreensão sempre\"",
-"p": "Governador Tarcísio de Freitas têm sido atacado por bolsonaristas após admitir que poderá concorrer à Presidência da República em 2030",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/apos-ataques-bolsonaristas-tarcisio-diz-nao-esperar-compreensao-sempre",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:02",
-"t": "Muito além do peixe frito: 5 receitas com peixes de água doce para o almoço",
-"p": "Quando o assunto é peixe de água doce, é comum pensar logo na tradicional fritura. Mas espécies como tilápia, tambaqui, pintado e dourado rendem pratos muito mais variados, do assado à moqueca cremosa, passando pelo refrescante escabeche. Além de saborosos, eles combinam com os mais diferentes temperos. Abaixo,…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/muito-alem-do-peixe-frito-5-receitas-com-peixes-de-agua-doce-para-o-almoco/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:02",
-"t": "Noivo de Marina Ruy Barbosa consegue liminar na Justiça contra primo após ataques na web e polêmica com anel de R$ 6 milhões",
-"p": "O empresário Abdul Hadi Fares, de 42 anos, noivo da atriz Marina Ruy Barbosa, de 31, obteve uma decisão favorável na Justiça de São Paulo contra um primo que vinha publicando acusações de roubo, fraude e lavagem de dinheiro nas redes sociais. A liminar determina que as principais plataformas digitais retirem do ar,…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/noivo-de-marina-ruy-barbosa-consegue-liminar-na-justica-contra-primo-apos-ataques-na-web-e-polemica-com-anel-de-r-6-milhoes/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:00",
-"t": "Aeroporto no interior de SP recebe licença ambiental, investimento de R$ 400 milhões e pista de quase 2,5 km",
-"p": "O Aeroporto Internacional de Olímpia, no interior de São Paulo, recebeu a licença ambiental prévia para a construção de uma estrutura avaliada em R$ 400 milhões. O projeto prevê uma pista de pouso e decolagem de 2,5 quilômetros e um terminal de passageiros. A autorização foi emitida pela Companhia Ambiental do…",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [
-"Olímpia"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/aeroporto-no-interior-de-sp-recebe-licenca-ambiental-investimento-de-r-400-milhoes-e-pista-de-quase-25-km/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:00",
-"t": "Exposição gratuita reúne obras sobre paisagem e pertencimento em Campinas",
-"p": "Exposição “Paisagem, mero artifício” será aberta neste sábado (14), no Museu da Cidade/Casa de Vidro, com pinturas, esculturas e instalações de duas artistas",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/exposicao-gratuita-reune-obras-sobre-paisagem-e-pertencimento-em-campinas/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:00",
-"t": "Cetesb abre concurso público com 107 vagas de emprego; veja áreas",
-"p": "Cetesb abre concurso público com 107 vagas para níveis médio e superior. Região de Campinas terá quatro oportunidades. Inscrições começam dia 12",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/cetesb-abre-concurso-publico-com-107-vagas-de-emrego-veja-areas/",
 "auto": true
 }
 ]
