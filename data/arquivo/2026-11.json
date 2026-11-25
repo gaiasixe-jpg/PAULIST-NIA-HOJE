@@ -3,6 +3,361 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "09:09",
+"t": "Novas tempestades previstas para SP mobilizam gabinete da Defesa Civil",
+"p": "Previsão indica chuvas até quinta-feira (26/11). Tempestade muito forte é esperada no litoral paulista e na Serra da Mantiqueira.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/novas-tempestades-previstas-para-sp-mobilizam-gabinete-da-defesa-civil",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:06",
+"t": "Região central de Mogi das Cruzes terá 180 novas vagas de estacionamento durante o fim de ano",
+"p": "Segundo a prefeitura, medida busca facilitar acesso dos consumidores à área durante o fim de ano; medida é válida até o dia 6 de janeiro",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/regiao-central-de-mogi-das-cruzes-tera-180-novas-vagas-de-estacionamento-durante-o-fim-de-ano/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:03",
+"t": "Confira a previsão do tempo para Marília nesta quarta-feira (25/11)",
+"p": "Município deve registrar períodos de sol com grande possibilidade de chuvas ao longo do dia.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-quarta-feira-25-11/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:01",
+"t": "AME Votuporanga reúne condutores da região para alinhar o transporte de pacientes e valorizar os profissionais",
+"p": "XI Encontro de Condutores promoveu troca de orientações sobre fluxos, segurança e atendimento aos usuários, reunindo representantes das Regiões de Saúde de Votuporanga e Fernandópolis. O Ambulatório Médico de Especialidades (AME) Votuporanga, gerido pela Santa Casa de Votuporanga, reuniu, na quinta-feira (19.nov),…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis",
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/ame-votuporanga-reune-condutores-da-regiao-para-alinhar-o-transporte-de-pacientes-e-valorizar-os-profissionais/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "09:00",
+"t": "Justiça de Jales condena foragido a cinco anos de prisão em regime fechado por tráfico de crack, cocaína e maconha",
+"p": "A 1ª Vara Criminal da Comarca de Jales condenou José Pereira Júnior à pena de cinco anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa, pelo crime de tráfico de drogas. A sentença, assinada pelo juiz Fábio Antônio Camargo Dantas e disponibilizada nesta terça-feira (24), negou ao réu o…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-jales-condena-foragido-a-cinco-anos-de-prisao-em-regime-fechado-por-trafico-de-crack-cocaina-e-maconha/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:59",
+"t": "Polícia Militar realiza Operação Cavalo de Aço em Ribeirão Branco",
+"p": "A Polícia Militar realizou, na terça-feira (24), a Operação Cavalo de Aço no município de Ribeirão Branco (SP), em conjunto com equipes do Departamento Estadual de Trânsito (Detran). Durante a fiscalização, foram elaborados 15 Autos de Infração de Trânsito (AITs) e emitidos quatro Certificados de Recolhimento de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Branco"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/operacao-cavalo-de-aco/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:55",
+"t": "Justiça de Fernandópolis condena homem a sete meses de detenção por desobedecer e desacatar policiais militares",
+"p": "A 2ª Vara Criminal da Comarca de Fernandópolis condenou Robson Lemos Costa à pena de sete meses e 17 dias de detenção, em regime inicial aberto — substituída por prestação pecuniária no valor de um salário mínimo a entidade beneficente —, além de 11 dias-multa, pelos crimes de desobediência e desacato praticados…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-fernandopolis-condena-homem-a-sete-meses-de-detencao-por-desobedecer-e-desacatar-policiais-militares/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:50",
+"t": "Operação Prima Lex cumpre mandados contra quadrilha do “golpe do falso advogado”",
+"p": "A Polícia Civil de São Paulo realiza nesta quarta-feira (25) uma ação de apoio operacional para cumprir sete mandados de busca e apreensão e quatro de prisão na capital paulista e na região metropolitana, como parte da Operação Prima Lex. Coordenada pelo Núcleo de Repressão aos Cibercrimes (Nuciber) da Polícia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/operacao-prima-lex-cumpre-mandados-contra-quadrilha-do-golpe-do-falso-advogado/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:46",
+"t": "Cratera se abre novamente na Rodovia Campinas-Monte Mor; trecho é interditado",
+"p": "Cratera se abriu após as chuvas dos últimos dias, na altura do km 7; motoristas que seguem para Campinas precisam utilizar um desvio pela marginal, com reflexos no trânsito",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/cratera-se-abre-novamente-na-rodovia-campinas-monte-mor-trecho-e-interditado/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:46",
+"t": "MPF e MP de Contas apontam falhas de gestão e transparência em políticas para população de rua no Estado",
+"p": "O Ministério Público Federal (MPF) e o Ministério Público de Contas do Estado de São Paulo (MPC-SP) divulgaram na tarde desta terça-feira (24) um relatório técnico de 150 páginas com uma série de recomendações sobre as políticas estaduais destinadas à população em situação de rua. O documento aponta falhas na…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mpf-e-mp-de-contas-apontam-falhas-de-gestao-e-transparencia-em-politicas-para-populacao-de-rua-no-estado/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:43",
+"t": "Prepare o guarda-chuva e o casaco: Jundiaí terá dias de instabilidade e temperaturas mais baixas",
+"p": "Foto: Prefeitura de Jundiaí Previsão indica risco de chuva, ventos fortes e granizo nesta quarta-feira (25); temperaturas devem cair a partir de quinta-feira (26).",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-alerta-laranja-25-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:42",
+"t": "Justiça de Fernandópolis condena homem por participação no golpe do falso empréstimo que causou prejuízo de R$ 1 mil",
+"p": "A 2ª Vara Criminal da Comarca de Fernandópolis condenou João Marcos Gomes à pena de um ano de reclusão, em regime inicial aberto — substituída pelo pagamento de prestação pecuniária no valor de um salário mínimo —, além de 10 dias-multa, pelo crime de estelionato em concurso de pessoas. A sentença, assinada pelo…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-fernandopolis-condena-homem-por-participacao-no-golpe-do-falso-emprestimo-que-causou-prejuizo-de-r-1-mil/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:39",
+"t": "Com mudanças, Prefeitura de SP retoma eleição para conselhos participativos",
+"p": "Processo para eleger conselheiros havia sido suspenso pela Justiça. Prefeitura retoma eleição e afirma que votos já feitos serão preservados",
+"tema": "Eleições",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/com-mudancas-prefeitura-de-sp-retoma-eleicao-para-conselhos-participativos",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:37",
+"t": "Prefeitura de Ouroeste realiza serviços de zeladoria e limpeza no trevo de acesso ao município",
+"p": "A Prefeitura de Ouroeste deu continuidade ao cronograma de manutenção e zeladoria urbana com uma frente de trabalho concentrada no trevo de acesso ao município. As equipes municipais executaram serviços de corte de grama, rastelagem e limpeza geral na área, com o objetivo de manter a principal entrada da cidade…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-ouroeste-realiza-servicos-de-zeladoria-e-limpeza-no-trevo-de-acesso-ao-municipio/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:35",
+"t": "Obras do Parque das Águas começam em Ouroeste com investimento superior a R$ 1 milhão",
+"p": "A Prefeitura de Ouroeste deu início às obras de construção do Parque das Águas, um novo complexo público projetado para ampliar as opções de lazer ao ar livre, convivência comunitária e prática de atividades esportivas no município. Com um investimento superior a R$ 1 milhão, a intervenção busca dotar a cidade de…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/obras-do-parque-das-aguas-comecam-em-ouroeste-com-investimento-superior-a-r-1-milhao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:24",
+"t": "Antigo iate de Luciano Huck e Angélica com quase 40 metros, quatro andares e até tobogã é apreendido no litoral do Rio de Janeiro",
+"p": "Um iate de luxo vendido por Luciano Huck ao dono da casa de apostas Esportes da Sorte foi apreendido pela Polícia Federal (PF) em uma marina de Angra dos Reis, no Rio de Janeiro. A embarcação, chamada Bejoa 2, está avaliada em R$ 39,8 milhões e foi alvo da Operação Cash Out, que investiga suspeitas […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/antigo-iate-de-luciano-huck-e-angelica-com-quase-40-metros-quatro-andares-e-ate-toboga-e-apreendido-no-litoral-do-rio-de-janeiro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:15",
+"t": "Motorista de carreta desaparece após cabine cair no Rio Tietê em acidente que interditou trecho da rodovia Castello Branco, na Grande São Paulo",
+"p": "O Corpo de Bombeiros procura o motorista de uma carreta que desapareceu após a cabine do veículo cair no Rio Tietê. O acidente aconteceu na rodovia Castello Branco, em Barueri, na Grande São Paulo. A ocorrência foi registrada na manhã desta quarta-feira (25/11), no quilômetro 25, por volta das 5h. O acidente causou…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Barueri"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/motorista-de-carreta-desaparece-apos-cabine-cair-no-rio-tiete-em-acidente-que-interditou-trecho-da-rodovia-castello-branco-na-grande-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:11",
+"t": "Motorista fica gravemente ferido após van bater na traseira de caminhão parado em rodovia",
+"p": "O motorista de uma van ficou gravemente ferido após o veículo bater na traseira de um caminhão na Rodovia Assis Chateaubriand (SP-425) e ficar preso às ferragens, em Parapuã (SP), na noite desta segunda-feira (23). Conforme a concessionária responsável pela via, a Eixo SP, que atendeu à ocorrência em conjunto com a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Parapuã"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/motorista-fica-gravemente-ferido-apos-van-bater-na-traseira-de-caminhao-parado-em-rodovia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:11",
+"t": "Defesa Civil e equipes da Prefeitura de Sorocaba estão mobilizadas para ocorrências de chuvas desta quarta-feira (25)",
+"p": "A Prefeitura de Sorocaba, por meio da Defesa Civil, das Secretarias de Mobilidade (Semob) e de Serviços Públicos e Obras (Serpo) e Saae/Sorocaba, além dos demais setores da Administração Municipal, estão com equipes mobilizadas para atuar em ocorrências devido às chuvas intensas registradas na madrugada desta…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/defesa-civil-e-equipes-da-prefeitura-de-sorocaba-estao-mobilizadas-para-ocorrencias-de-chuvas-desta-quarta-feira-25/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:10",
+"t": "Licitação dos ônibus de Campinas é adiada de novo após mudança na jornada de trabalho",
+"p": "Prefeitura de Campinas vai recalcular custos da escala 5x2 e prevê republicar edital em dezembro; nova previsão da licitação dos ônibus é realizar etapas no início de 2027",
+"tema": "Transporte",
+"s": "obra",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/licitacao-dos-onibus-de-campinas-e-adiada-de-novo-apos-mudanca-na-jornada-de-trabalho/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:10",
+"t": "Suspeitos são presos com imagens sacras e placas furtadas de cemitério",
+"p": "Dois homens foram presos em flagrante na noite de segunda-feira (23), suspeitos de furtar peças de bronze do Cemitério Municipal de Guararapes (SP). A dupla foi abordada pela Polícia Civil após sair do local em um carro que transportava uma carretinha carregada de objetos metálicos, entre eles imagens sacras, vasos…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guararapes"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/suspeitos-sao-presos-com-imagens-sacras-e-placas-furtadas-de-cemiterio/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:08",
+"t": "Ciclone extratropical se forma hoje e muda o tempo em Campinas; veja a previsão",
+"p": "Ciclone extratropical começa a mudar o tempo em Campinas nesta quarta-feira (25), com previsão de chuva forte, trovoadas e temperaturas de até 28°C",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/ciclone-extratropical-se-forma-hoje-e-muda-o-tempo-em-campinas-veja-a-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:08",
+"t": "Polícia Civil investiga caso de jovem encontrada desacordada e ferida em via pública de Martinópolis",
+"p": "A Polícia Civil investiga o caso de uma mulher de 21 anos que foi encontrada desacordada e com diversos ferimentos graves em uma via pública do bairro San Martin, em Martinópolis (SP). A ocorrência foi divulgada ao g1 nesta terça-feira (24). De acordo com o boletim de ocorrência, a vítima foi localizada por…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Martinópolis"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/policia-civil-investiga-caso-de-jovem-encontrada-desacordada-e-ferida-em-via-publica-de-martinopolis/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:07",
+"t": "Gestante, filha e motorista ficam feridos após ambulância bater contra mureta de pronto-socorro em Pacaembu",
+"p": "Três pessoas foram socorridas após uma ambulância bater contra a mureta do pronto-socorro municipal de Pacaembu (SP), na manhã desta segunda-feira (23). Segundo a Polícia Civil, o acidente ocorreu por volta das 11h, após o freio do veículo não ter sido acionado. Uma paciente gestante e a filha dela estavam no…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Pacaembu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/gestante-filha-e-motorista-ficam-feridos-apos-ambulancia-bater-contra-mureta-de-pronto-socorro-em-pacaembu/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "08:00",
+"t": "Cinco araras pousam todo dia no mesmo coqueiro, e o prefeito filma do gabinete o bando que já trata como a família da prefeitura",
+"p": "Cinco araras ocuparam o topo do mesmo coqueiro sob o olhar da câmera apontada da janela do gabinete, e o prefeito descreveu o bando em voz alta como a família que a prefeitura passou a reconhecer de perto. No vídeo divulgado em 23 de novembro de 2026, Alexandre Lopes de Oliveira, prefeito de Campo Verde, […]",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/cinco-araras-pousam-todo-dia-no-mesmo-coqueiro-e-o-prefeito-filma-do-gabinete-o-bando-que-ja-trata-como-a-familia-da-prefeitura/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "07:45",
+"t": "Calor de 32°C dá lugar a frio e chuva em São Paulo; frente fria traz temporais, alerta de ventos de até 100 km/h e risco de granizo",
+"p": "Uma frente fria deve mudar o tempo em São Paulo entre esta quarta-feira (25/11) e o fim da semana. O sistema aumenta o risco de temporais, chuva volumosa e rajadas de vento, principalmente no leste paulista. O Instituto Nacional de Meteorologia (Inmet) mantém um alerta laranja de perigo para tempestades nesta…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/calor-de-32c-da-lugar-a-frio-e-chuva-em-sao-paulo-frente-fria-traz-temporais-alerta-de-ventos-de-ate-100-km-h-e-risco-de-granizo/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "07:36",
 "t": "Prefeitura de Ouroeste convida moradores para a 13ª Conferência Municipal dos Direitos da Criança e do Adolescente",
 "p": "O Governo Municipal de Ouroeste, por meio do Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA), convida os moradores a participarem da 13ª Conferência Municipal dos Direitos da Criança e do Adolescente, marcada para o dia 8 de dezembro de 2026, das 8h às 12h, no Salão Paroquial. Com o tema…",
@@ -45,6 +400,48 @@
 },
 {
 "d": "2026-11-25",
+"h": "07:30",
+"t": "Chamada de macaca peruana no expediente, analista perde o emprego após denunciar e a Justiça manda pagar cerca de R$ 30 mil",
+"p": "A analista de planejamento e controle de produção ouvia, no dia a dia da cooperativa agroindustrial, o assistente operacional repetir o cumprimento que misturava xingamento e origem: macaca peruana, maca peruana. A trabalhadora, contratada em agosto de 2025 para a função técnica, registrou a denúncia no Disque 100…",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/chamada-de-macaca-peruana-no-expediente-analista-perde-o-emprego-apos-denunciar-e-a-justica-manda-pagar-cerca-de-r-30-mil/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "07:10",
+"t": "Rodoviária de R$ 13 milhões no litoral de SP começa a operar em 1º de dezembro com cinco linhas de ônibus e viagens para a capital paulista e o ABC",
+"p": "A nova rodoviária de Cubatão inicia suas operações em 1º de dezembro, em uma primeira etapa voltada à adaptação e aos testes de funcionamento. Inicialmente, o terminal receberá três linhas municipais e duas intermunicipais, com destinos a São Paulo e São Bernardo do Campo, conforme informou a prefeitura. Localizado…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Bernardo do Campo",
+"Cubatão",
+"São Paulo"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/rodoviaria-de-r-13-milhoes-no-litoral-de-sp-comeca-a-operar-em-1o-de-dezembro-com-cinco-linhas-de-onibus-e-viagens-para-a-capital-paulista-e-o-abc/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:45",
+"t": "Casal de coalas chega da Austrália após viagem de 13 mil km para participar de programa de conservação e vira atração em São Paulo",
+"p": "Coala no Aquário de São Paulo",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/casal-de-coalas-chega-da-australia-apos-viagem-de-mais-de-13-mil-km-para-participar-de-programa-de-conservacao-e-vira-atracao-em-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "06:44",
 "t": "Resultado do Dia de Sorte 1355: duas apostas ganham R$ 1,4 milhão cada",
 "p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Janeiro foi o Mês da Sorte do concurso, que também premiou 51 apostas na faixa dos seis acertos.",
@@ -55,6 +452,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/loterias/resultado-dia-de-sorte-concurso-1355/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:40",
+"t": "Paridade de gênero no Brasil: avanços educacionais, desigualdades persistentes e desafios para os ODS",
+"p": "Os dados do Global Gender Gap Report 2026 revelam um Brasil de contrastes. O país alcança paridade plena no nível educacional — 100% e 1º lugar global — e registra 97,7% em Saúde e Sobrevivência, na 28ª posição. Ainda assim, ocupa o 72º lugar geral, com pontuação de 0,715, e a 19ª posição entre 22 […]",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/artigo/paridade-de-genero-no-brasil-avancos-educacionais-desigualdades-persistentes-e-desafios-para-os-ods/",
 "auto": true
 },
 {
