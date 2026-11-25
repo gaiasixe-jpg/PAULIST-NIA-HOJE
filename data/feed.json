@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-24T20:55:54-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-24T22:26:09-03:00",
+"novos_nesta_coleta": 21,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -15,7 +15,6 @@
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
 "Gazeta de Rio Preto",
-"Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Costa Norte",
@@ -29,7 +28,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 9 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -45,11 +44,168 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Diário de Votuporanga",
+"erro": "HTTP Error 522: <none>"
+},
+{
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
 }
 ],
 "itens": [
+{
+"d": "2026-11-24",
+"h": "22:08",
+"t": "Trump prepara nova rodada de tarifas contra 16 parceiros comerciais e pode elevar impostos sobre produtos importados pelos Estados Unidos",
+"p": "O governo de Donald Trump prepara uma nova rodada de tarifas de importação contra 16 parceiros comerciais dos Estados Unidos. A medida pode elevar os impostos sobre uma ampla variedade de produtos estrangeiros e ampliar a disputa comercial com importantes economias. A iniciativa ocorre após uma investigação sobre o…",
+"tema": "Contas públicas",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/trump-prepara-nova-rodada-de-tarifas-contra-16-parceiros-comerciais-e-pode-elevar-impostos-sobre-produtos-importados-pelos-estados-unidos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:42",
+"t": "Audiências sobre a reforma do Camprev são marcadas por protestos e confusão",
+"p": "Debates sobre mudanças no Camprev ocorreram nesta terça-feira (24), na Câmara Municipal, e discutiram mudanças que podem fazer servidores trabalhar até sete anos a mais para se aposentar",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/audiencias-sobre-a-reforma-do-camprev-sao-marcadas-por-protestos-e-confusao/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:40",
+"t": "Maior porto do Brasil começa a recuperar sistemas após ataque hacker que deixou plataformas digitais fora do ar por 17 dias e mobilizou a Polícia Federal",
+"p": "Após mais de duas semanas de dificuldades nos sistemas digitais, o Porto de Santos, no litoral de São Paulo, começou a recuperar uma das principais ferramentas utilizadas na organização da chegada e saída de navios. A Autoridade Portuária de Santos (APS) anunciou, na tarde desta segunda-feira (23), o…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo",
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/maior-porto-do-brasil-comeca-a-recuperar-sistemas-apos-ataque-hacker-que-deixou-plataformas-digitais-fora-do-ar-por-17-dias-e-mobilizou-a-policia-federal/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:35",
+"t": "Caso Larissa: PM entregou celular secundário à polícia e apagou conversas",
+"p": "Larissa da Cruz Morata foi encontrada morta com um tiro na cabeça em 6 de setembro. O marido dela, o PM Vinicius Costa Silva, está preso",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/caso-larissa-pm-entregou-celular-secundario-a-policia-e-apagou-conversas",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:30",
+"t": "STJ prevê gasto de R$ 1,2 milhão para blindar 16 veículos da frota oficial dos ministros",
+"p": "A previsão de despesa de R$ 1.178.666,72 pelo Superior Tribunal de Justiça (STJ) custeará a blindagem de 16 veículos oficiais empregados no transporte de ministros em São Paulo, no Rio de Janeiro e em Brasília. A contratação será executada mediante pregão eletrônico e especifica o nível mais alto de proteção…",
+"tema": "Geral",
+"s": "anunciado",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/stj-preve-gasto-de-r-12-milhao-para-blindar-16-veiculos-da-frota-oficial-dos-ministros/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:29",
+"t": "Quem recebeu auxílio-doença do INSS pode incluir meses ou anos de afastamento no tempo de contribuição e ficar mais perto da aposentadoria",
+"p": "Um trabalhador que contribuiu durante 12 anos para o Instituto Nacional do Seguro Social (INSS), precisou ficar afastado por três anos devido a problemas de saúde e, posteriormente, voltou a trabalhar por mais dois anos pode ter 17 anos de tempo de contribuição reconhecidos, em vez de apenas 14. Conforme…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/quem-recebeu-auxilio-doenca-do-inss-pode-incluir-meses-ou-anos-de-afastamento-no-tempo-de-contribuicao-e-ficar-mais-perto-da-aposentadoria/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:25",
+"t": "TCE-SP adia análise de contas de Auricchio por falta de manifestação da Promotoria",
+"p": "Matéria tem de voltar a plenário até 7 de dezembro",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370587/tce-sp-adia-analise-de-contas-de-auricchio-por-falta-de-manifestacao-da-promotoria",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:21",
+"t": "Saiu o resultado! Confira os números da Mega Sena, Lotofácil, Timemania e Dia de Sorte desta terça-feira (24)",
+"p": "As Loterias da Caixa sortearam na noite desta terça-feira (24), os prêmios de concursos da Quina, Lotofácil, Timemania e Dia de Sorte. Os sorteios do dia movimentaram jogadores em todo o país, com valores acumulados que atraem quem busca mudar de vida com uma única aposta. Veja os números sorteados da Mega Sena,…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-lotofacil-timemania-e-dia-de-sorte-desta-terca-feira-24/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:16",
+"t": "DDM de Santo André passa a funcionar 24 horas a partir de quinta-feira",
+"p": "Unidade será a terceira com serviço ininterrupto no Grande ABC e sétima na Região Metropolitana",
+"tema": "Geral",
+"s": "entregue",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370585/ddm-de-santo-andre-passa-a-funcionar-24-horas-a-partir-de-quinta-feira",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:10",
+"t": "Trabalhadores autônomos podem conseguir aposentadoria especial do INSS após 15, 20 ou 25 anos de exposição sem depender de formulário de empresa",
+"p": "Um mecânico que passou décadas trabalhando em sua própria oficina, exposto a ruídos e produtos químicos, pode ter direito à aposentadoria especial do Instituto Nacional do Seguro Social (INSS). Entretanto, diferentemente de um funcionário contratado, esse profissional nem sempre possui uma empresa responsável por…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/trabalhadores-autonomos-podem-conseguir-aposentadoria-especial-do-inss-apos-15-20-ou-25-anos-de-exposicao-sem-depender-de-formulario-de-empresa/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:02",
+"t": "Mega-Sena sorteia prêmio de R$ 65,9 milhões nesta terça-feira; confira os números e premiações",
+"p": "A Caixa Econômica Federal realizou na noite desta terça-feira (24/11) o sorteio do concurso 3090 da Mega-Sena, com um prêmio estimado em R$ 65,9 milhões para o apostador que acertar as seis dezenas principais. As dezenas sorteadas no concurso foram: 10-14-27-28-47-57. Além da faixa principal para quem crava as seis…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/mega-sena-sorteia-premio-de-r-659-milhoes-nesta-terca-feira-confira-os-numeros-e-premiacoes/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "21:00",
+"t": "Contas esquecidas no seu CPF? Saiba como verificar todos os bancos no seu nome e impedir novos cadastros no Banco central",
+"p": "O registro médio de quatro contas bancárias ativas por CPF no Brasil evidencia a expansão acelerada de cadastros digitais no sistema financeiro nacional, aponta levantamento da Idlewall com dados do Banco Central. Impulsionado pela oferta simplificada de cartões de crédito, carteiras virtuais e programas de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/contas-esquecidas-no-seu-cpf-saiba-como-verificar-todos-os-bancos-no-seu-nome-e-impedir-novos-cadastros-no-banco-central/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "20:42",
@@ -104,6 +260,18 @@
 },
 {
 "d": "2026-11-24",
+"h": "20:29",
+"t": "MPF pede mudanças na gestão de políticas para população de rua em SP",
+"p": "O Ministério Público Federal (MPF) e o Ministério Público de Contas do Estado de São Paulo (MPC-SP) divulgaram na tarde desta terça-feira (24) um documento de 150 páginas no qual fazem diversas recomendações sobre políticas estaduais voltadas para a população em situação de rua. Os órgãos apontaram problemas de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/mpf-pede-mudancas-na-gestao-de-politicas-para-populacao-de-rua-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-24",
 "h": "20:25",
 "t": "El Niño preocupa produtores de leite no sul do Brasil: excesso de chuva pode prejudicar pastagens, alimentação do rebanho e reduzir produtividade",
 "p": "O avanço do El Niño acendeu um alerta para a pecuária leiteira do Rio Grande do Sul. A previsão de chuvas acima da média e temperaturas elevadas pode dificultar o manejo das propriedades e comprometer a produtividade dos rebanhos nos próximos meses. Os possíveis impactos vão desde problemas nas pastagens até…",
@@ -126,6 +294,21 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/queda-de-arvore-em-escola-estadual-deixa-cinco-feridos/",
+"auto": true
+},
+{
+"d": "2026-11-24",
+"h": "20:18",
+"t": "Santo André e Ribeirão Pires fecham três bares por irregularidades",
+"p": "Prefeituras emitem outras 11 notificações em estabelecimentos por excesso de barulho",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Ribeirão Pires",
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370578/santo-andre-e-ribeirao-pires-fecham-tres-bares-por-irregularidades",
 "auto": true
 },
 {
@@ -54777,202 +54960,6 @@
 ],
 "src": "Jornal Ita News",
 "u": "https://jornalitanews.com.br/esmaltacao-gel/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:42",
-"t": "Guararema tem programa de apadrinhamento de crianças e adolescentes",
-"p": "Iniciativa prevê apoio afetivo, financeiro e prestação de serviços; interessados podem se inscrever por e-mail",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"Guararema"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/guararema-tem-programa-de-apadrinhamento-de-criancas-e-adolescentes/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:41",
-"t": "Kit de emergência de 72 horas significa perigo iminente? Defesa Civil se manifesta",
-"p": "Órgão esclarece que recomendação de kit de emergência faz parte de rotina preventiva e descarta alerta de desastre no país; veja o que levar",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/kit-de-emergencia-72-horas-significa-perigo-iminente-defesa-civil-se-manifesta/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:40",
-"t": "Prefeitura de Macedônia inaugura Ponto de Atendimento Virtual da Receita Federal no Ganha Tempo",
-"p": "A Prefeitura Municipal de Macedônia oficializou, na manhã desta segunda-feira (9), a instalação do Ponto de Atendimento Virtual (PAV) da Receita Federal nas dependências do espaço Ganha Tempo. A implantação do serviço é fruto de uma parceria firmada entre o Poder Executivo municipal e o órgão federal para…",
-"tema": "Política",
-"s": "entregue",
-"c": [
-"Macedônia"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-macedonia-inaugura-ponto-de-atendimento-virtual-da-receita-federal-no-ganha-tempo/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:40",
-"t": "Arqueólogos encontram tronos de pedra e jarro quase intacto por séculos em cemitério perto de Roma que ajudam a revelar costumes secretos",
-"p": "Uma equipe de arqueólogos encontrou estruturas e objetos históricos surpreendentes durante obras de recuperação em um antigo cemitério etrusco em Cerveteri, na Itália. O que começou como uma operação para evitar o desmoronamento de túmulos acabou revelando tronos esculpidos em pedra, paredes com pinturas…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/mundo/arqueologos-encontram-tronos-de-pedra-e-jarro-quase-intacto-por-seculos-em-cemiterio-perto-de-roma-que-ajudam-a-revelar-costumes-secretos/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:39",
-"t": "Esposa de FHC diz que homem que expôs imóvel tentou humilhar ex-presidente",
-"p": "À polícia, Patrícia Kundrat expressou revolta com a filmagem, que expõe ex-presidente em estado debilitado de saúde e a casa da família",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/esposa-de-fhc-diz-que-homem-que-expos-imovel-tentou-humilhar-ex-presidente",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:36",
-"t": "Distrito de Arabá sedia 6ª Cavalgada e reúne comitivas em celebração da cultura sertaneja",
-"p": "O distrito de Arabá, pertencente ao município de Ouroeste, foi palco neste domingo (8) da 6ª edição da tradicional Cavalgada de Arabá. O evento reuniu diversas comitivas, cavaleiros e amazonas da região em um encontro focado no resgate e no fortalecimento das raízes da cultura sertaneja local. A programação da…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ouroeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/distrito-de-araba-sedia-6a-cavalgada-e-reune-comitivas-em-celebracao-da-cultura-sertaneja/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:34",
-"t": "Santa Casa de Fernandópolis e Moto Clube promovem ação de prevenção à saúde do homem no Novembro Azul",
-"p": "A Santa Casa de Fernandópolis realiza, no próximo dia 22 de novembro, uma manhã dedicada à prevenção e ao cuidado com a saúde masculina em alusão à campanha Novembro Azul. A iniciativa conta com a parceria do Moto Clube Veritas Suprema Brasil e terá início às 7h nas dependências da instituição hospitalar. Durante a…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-e-moto-clube-promovem-acao-de-prevencao-a-saude-do-homem-no-novembro-azul/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:33",
-"t": "Sete cidades da região de Jundiaí terão programa conjunto para fortalecer a economia",
-"p": "Foto: Prefeitura de Jundiaí Territórios Empreendedores será lançado pelo Sebrae-SP em Jundiaí no dia 12 de novembro. Saiba como participar do evento gratuito.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/territorios-empreendedores-jundiai-sebrae/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:32",
-"t": "Novembro Azul muda iluminação de prédios e parques de Mauá",
-"p": "Prefeitura, sedes de secretarias e dois parques municipais recebem iluminação especial para chamar a atenção aos cuidados com a saúde masculina",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367738/novembro-azul-muda-iluminacao-de-predios-e-parques-de-maua",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:30",
-"t": "Mpox: São Caetano registra primeiro caso em 2026 e Grande ABC chega a dez ocorrências",
-"p": "São Caetano do Sul confirmou o primeiro caso de mpox em 2026. Com o novo diagnóstico, o Grande ABC chegou a dez registros da doença neste ano. Os dados são do Núcleo de Informações Estratégicas em Saúde (Nies), da Secretaria de Estado da Saúde de São Paulo. Outras regiões do ABC também registram casos Além […]",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São Caetano do Sul",
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/mpox-sao-caetano-registra-primeiro-caso-em-2026-e-grande-abc-chega-a-dez-ocorrencias/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:30",
-"t": "Ferrovia Transnordestina tem obras paradas há mais de 10 anos e aguarda decisão do TCU que pode destravar trecho em Pernambuco",
-"p": "A Ferrovia Transnordestina pode ter um novo capítulo nesta quarta-feira (11/11), quando o Tribunal de Contas da União (TCU) deverá analisar o processo que impede a retomada das obras no trecho entre Salgueiro e o Porto de Suape, em Pernambuco. Atualmente, a construção está paralisada há mais de dez anos. Dos…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/ferrovia-transnordestina-tem-obras-paradas-ha-mais-de-10-anos-e-aguarda-decisao-do-tcu-que-pode-destravar-trecho-em-pernambuco/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:29",
-"t": "Poupatempo Móvel começa a atender moradores de Pinhalzinho nesta segunda-feira (9)",
-"p": "O Poupatempo Móvel iniciou nesta segunda-feira (9) os atendimentos em Pinhalzinho, na Região Administrativa de Campinas. A carreta está instalada na Rua Cruzeiro do Sul, 225, no Centro, em frente à Prefeitura, onde permanece até sábado (14). O funcionamento é das 10h às 16h, de segunda a sexta-feira, e das 9h às…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Pinhalzinho",
-"Campinas"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/poupatempo-movel-comeca-a-atender-moradores-de-pinhalzinho-nesta-segunda-feira-9/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:28",
-"t": "Concurso Moda Inclusiva 2026 será realizado nesta quarta-feira (11), na Pinacoteca de São Paulo",
-"p": "Nesta quarta-feira (11), a Pinacoteca de São Paulo recebe a etapa final do Concurso Moda Inclusiva 2026, iniciativa da Secretaria de Estado dos Direitos da Pessoa com Deficiência (SEDPcD) que incentiva a criação de roupas e soluções de moda que considerem as necessidades das pessoas com deficiência. A cerimônia…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/concurso-moda-inclusiva-2026-sera-realizado-nesta-quarta-feira-11-na-pinacoteca-de-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:26",
-"t": "TCE-SP fiscaliza atendimento à mulher vítima de violência na região",
-"p": "Ação acontece de forma simultânea em Santo André, São Bernardo, São Caetano, Diadema e Mauá",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santo André",
-"Diadema",
-"Mauá",
-"São Bernardo do Campo",
-"São Caetano do Sul"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367736/tce-sp-fiscaliza-atendimento-a-mulher-vitima-de-violencia-na-regiao",
 "auto": true
 }
 ]
