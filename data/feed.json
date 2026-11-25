@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T20:02:08-03:00",
-"novos_nesta_coleta": 30,
+"atualizado": "2026-11-25T20:56:49-03:00",
+"novos_nesta_coleta": 21,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,8 +29,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 64 cidades com edição recente)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -44,9 +43,148 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-25",
+"h": "20:40",
+"t": "Aos 50 anos, eterna Feiticeira dos anos 1990 brinca com o passado na TV, diz estar “mais para bagaceira” e vive hoje como empresária cristã nos EUA",
+"p": "Figura marcante da televisão brasileira nos anos 1990, Joana Prado ficou conhecida como Feiticeira, personagem sensual que animava os finais de semana no programa H, apresentado por Luciano Huck. Hoje, aos 50 anos, a famosa vive uma realidade diferente: tornou-se cristã e empresária nos Estados Unidos. Durante a…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/aos-50-anos-eterna-feiticeira-dos-anos-1990-brinca-com-o-passado-na-tv-diz-estar-mais-para-bagaceira-e-vive-hoje-como-empresaria-crista-nos-eua/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:40",
+"t": "Moraes autoriza Débora do Batom a participar de apresentação escolar do filho",
+"p": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), concedeu autorização para que a cabeleireira Débora Rodrigues dos Santos compareça à Cantata de Natal de seu filho, marcada para o próximo domingo, dia 29 de novembro, em uma instituição de ensino de Paulínia, no interior de São Paulo. Condenada a…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Paulínia"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/moraes-autoriza-debora-do-batom-a-participar-de-apresentacao-escolar-do-filho/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:39",
+"t": "Resultado da Loteria Federal 6120-4: confira os bilhetes premiados desta quarta-feira (25)",
+"p": "Concurso 6120-4 da Federal distribui R$1,51 milhão em prêmios; bilhetes contemplados saíram em São Paulo, Campinas e São Roque",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo",
+"Campinas"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/loterias/resultado-da-loteria-federal-6120-4-confira-os-bilhetes-premiados-desta-quarta-feira-25.html",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:22",
+"t": "Amcham participará de consulta dos EUA sobre tarifas ao Brasil",
+"p": "A Câmara Americana de Comércio para o Brasil (Amcham Brasil) participará da nova consulta pública aberta pelo Escritório do Representante Comercial dos Estados Unidos (USTR) sobre a possibilidade de ampliação das tarifas a produtos brasileiros. Em posicionamento divulgado nesta quarta-feira (25/11), a entidade…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Americana"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/amcham-participara-de-consulta-dos-eua-sobre-tarifas-ao-brasil",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:21",
+"t": "Respeito à sinalização pode evitar tragédias, alerta Secretaria de Trânsito",
+"p": "Prefeitura de Votuporanga destaca que grande parte das ocorrências está relacionada ao desrespeito às regras de trânsito e pede mais prudência de motoristas e motociclistas. Diante da sequência de acidentes registrada nos últimos dias em Votuporanga, inclusive em cruzamentos equipados com semáforos e sinalização de…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/respeito-a-sinalizacao-pode-evitar-tragedias-alerta-secretaria-de-transito/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:21",
+"t": "Cantarella sanciona lei que cria o programa “Fernandópolis Voluntária” para incentivar ações cidadãs",
+"p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou nesta quarta-feira (25) a Lei nº 5.791, que estabelece as diretrizes para a implantação do Programa Municipal “Fernandópolis Voluntária”. Aprovada pela Câmara Municipal, a iniciativa tem como propósito estimular a participação espontânea e não…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/cantarella-sanciona-lei-que-cria-o-programa-fernandopolis-voluntaria-para-incentivar-acoes-cidadas/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:16",
+"t": "Tarcísio publica despacho que autoriza reformas no Palácio dos Bandeirantes",
+"p": "Restaurantes e área dedicada à prática esportiva passarão por obras, após convênio entre Casa Civil e CDHU",
+"tema": "Habitação",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tarcisio-publica-despacho-que-autoriza-reformas-no-palacio-dos-bandeirantes",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:08",
+"t": "Leilão eletrônico em Rio Preto terá 515 veículos, incluindo caminhão dos bombeiros e carros a partir de R$ 1,2 mil",
+"p": "O governo do Estado de São Paulo promove, a partir do dia 9 de dezembro, um leilão eletrônico de 515 veículos pertencentes à frota estadual em São José do Rio Preto (SP). Ao todo, serão ofertados 492 veículos conservados — com direito à documentação e aptos a voltar a circular —, além de 23 sucatas […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/leilao-eletronico-em-rio-preto-tera-515-veiculos-incluindo-caminhao-dos-bombeiros-e-carros-a-partir-de-r-12-mil/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:05",
+"t": "Onça-parda invade galinheiro em sítio, mobiliza resgate e é devolvida à natureza",
+"p": "Uma onça-parda mobilizou equipes da Polícia Ambiental e médicos veterinários após ser encontrada dentro do galinheiro de um sítio no bairro Água Limpa, em Araçatuba (SP), na manhã de terça-feira (24). Conforme informações da corporação, o morador da propriedade percebeu a presença do animal selvagem ao acordar,…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/onca-parda-invade-galinheiro-em-sitio-mobiliza-resgate-e-e-devolvida-a-natureza/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:03",
+"t": "Quinta-feira (26) terá tempo instável, queda nas temperaturas e alerta para chuvas fortes",
+"p": "O tempo permanece bastante instável em todo o estado de São Paulo nesta quinta-feira (26), impulsionado pela atuação de uma frente fria combinada aos ventos úmidos que sopram do oceano em direção ao continente. Segundo informações divulgadas pela Agência SP, a previsão indica pancadas de chuva intermitentes ao…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/quinta-feira-26-tera-tempo-instavel-queda-nas-temperaturas-e-alerta-para-chuvas-fortes/",
+"auto": true
+},
 {
 "d": "2026-11-25",
 "h": "20:01",
@@ -57,6 +195,32 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/haddad-volta-a-dar-aulas-na-usp-apos-indefinicao-no-novo-governo-lula",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:00",
+"t": "El Niño coloca litoral de SP em alerta: São Sebastião prepara equipes, revisa plano de emergência e organiza abrigos para moradores",
+"p": "A possibilidade de eventos climáticos extremos associados ao El Niño exige atenção das cidades do litoral paulista. Em São Sebastião, a Prefeitura aposta na preparação integrada das secretarias municipais, no monitoramento de áreas vulneráveis e na organização de procedimentos para responder a possíveis…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/litoral-norte/el-nino-coloca-litoral-de-sp-em-alerta-sao-sebastiao-prepara-equipes-revisa-plano-de-emergencia-e-organiza-abrigos-para-moradores/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:00",
+"t": "Maré de 1,7 metro e ondas acima de 2 metros colocam Baixada Santista em alerta",
+"p": "Divulgação/Prefeitura de Santos Elevação do nível do mar está prevista para a madrugada de quinta-feira (26), enquanto ondas podem ultrapassar 2 metros na tarde de sexta-feira (27).",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/mare-de-17-metro-e-ondas-acima-de-2-metros-colocam-baixada-santista-em-alerta/",
 "auto": true
 },
 {
@@ -154,6 +318,20 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/mundo/tesouro-com-mais-de-200-moedas-de-prata-de-2-200-anos-e-descoberto-a-poucos-centimetros-do-chao-durante-obra/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:45",
+"t": "Marcos da Farmácia, vereador de Santo André | Política em Cena",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370783/marcos-da-farmacia-vereador-de-santo-andre-%7C-politica-em-cena",
 "auto": true
 },
 {
@@ -280,6 +458,20 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/pesquisa-datafolha-mostra-que-96-dos-pais-aprovam-expansao-de-parceria-entre-prefeitura-de-sp-e-liceu-coracao-de-jesus-para-outras-escolas-da-capital/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "19:23",
+"t": "Taka busca solução para demandas habitacionais e da saúde",
+"p": "Durante agenda em Brasília, prefeito de Diadema cobra liberação de R$ 14 milhões para a saúde, homologação da UPA Centro e avanços na regularização de núcleos habitacionais",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370782/taka-busca-solucao-para-demandas-habitacionais-e-da-saude",
 "auto": true
 },
 {
@@ -54839,193 +55031,6 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/economia/empresa-de-transporte-de-cargas-oferece-30-vagas-em-ribeirao-preto-veja-como-entregar-curriculo/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:40",
-"t": "Unifef abre cadastro reserva para contratação de professores de Enfermagem em Fernandópolis",
-"p": "O Centro Universitário de Fernandópolis abriu processo seletivo para a formação de cadastro reserva de professores. A oportunidade é destinada ao curso de Enfermagem, vinculado ao Centro de Ciências da Saúde e Qualidade de Vida da instituição, conforme estabelecido no Edital nº 21/2026. Os profissionais…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/unifef-abre-cadastro-reserva-para-contratacao-de-professores-de-enfermagem-em-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:38",
-"t": "Caso Dark Horse: Prefeitura fará nova licitação para pontos de wi-fi em SP",
-"p": "Contrato foi unilateralmente cancelado nesta semana; ONG responsável pelo serviço é de produtora do filme Dark Horse",
-"tema": "Política",
-"s": "obra",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/caso-dark-horse-prefeitura-fara-nova-licitacao-para-pontos-de-wi-fi-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:35",
-"t": "Projeto para visitas a sítio arqueológico na Liberdade tem obras iniciadas",
-"p": "Terreno na região da Liberdade receberá o Memorial dos Aflitos para preservar o patrimônio cultural de matriz africana e indígena na região",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/projeto-para-visitas-a-sitio-arqueologico-na-liberdade-tem-obras-iniciadas",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:29",
-"t": "Comerciante é morto a tiros durante encontro com amigo para discutir dívida",
-"p": "Câmera de segurança flagrou momento em que homem com máscara branca se aproxima de comerciante e atira contra ele",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/comerciante-e-morto-a-tiros-durante-encontro-com-amigo-para-discutir-divida",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:23",
-"t": "Governo Lula adia decreto sobre fim da escala 6×1 após viagem do presidente à Ásia",
-"p": "O governo federal adiou a publicação do decreto que regulamenta o fim da escala de trabalho 6×1. A medida, que estava prevista para esta segunda-feira (9), deverá ser divulgada somente após o retorno do presidente Luiz Inácio Lula da Silva (PT) de uma viagem internacional à Turquia e às Filipinas. A previsão é que…",
-"tema": "Decretos",
-"s": "decreto",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/governo-lula-adia-decreto-sobre-fim-da-escala-6x1-apos-viagem-do-presidente-a-asia/",
-"auto": true,
-"org": "Prefeitura"
-},
-{
-"d": "2026-11-10",
-"h": "14:23",
-"t": "Clientes mobilizam protesto contra a Hadassa Viagens; empresa justifica adiamentos",
-"p": "Consumidores questionam viagens não realizadas e reembolsos; Hadassa afirma priorizar a segurança dos passageiros.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/clientes-mobilizam-protesto-contra-a-hadassa-viagens-empresa-justifica-adiamentos/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:20",
-"t": "Motorista morto a tiros dentro de carro esteve envolvido em briga com esfaqueamento dois dias antes",
-"p": "O motorista Hamilton César Fresneda Peres, de 51 anos, encontrado morto a tiros dentro de seu veículo na manhã da última segunda-feira (9), em São José do Rio Preto, havia se envolvido em uma briga generalizada no sábado (7) que deixou três pessoas feridas a facadas. A Polícia Civil apura a relação entre os dois […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/motorista-morto-a-tiros-dentro-de-carro-esteve-envolvido-em-briga-com-esfaqueamento-dois-dias-antes/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:19",
-"t": "Taylor Swift completa 9 anos de Reputation, álbum que vendeu 1,216 milhão de cópias na estreia e marcou uma nova fase de sua carreira",
-"p": "Em 10 de novembro de 2026, duas datas importantes da carreira de Taylor Alison Swift se encontram no calendário. O álbum Reputation completa nove anos de lançamento, enquanto Blank Space chega aos 12 anos de sua data de lançamento como single nos Estados Unidos. Separadas por três anos, as duas obras alcançaram o…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/taylor-swift-completa-9-anos-de-reputation-album-que-vendeu-1216-milhao-de-copias-na-estreia-e-marcou-uma-nova-fase-de-sua-carreira/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:19",
-"t": "Decisão inédita obriga governo federal a pagar seguro-desemprego a trabalhadores resgatados",
-"p": "Decisão inédita no interior de SP supera veto do governo e assegura três parcelas do benefício a grupo que atuava no corte de cana",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/decisao-inedita-obriga-governo-federal-a-pagar-seguro-desemprego-a-trabalhadores-resgatados/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:18",
-"t": "Mototaxista é preso em flagrante com CNH digital falsa durante abordagem",
-"p": "Um mototaxista de 30 anos foi preso em flagrante pela Polícia Militar na madrugada desta terça-feira (10), no bairro Nova Esperança, em São José do Rio Preto, após apresentar um documento falso durante uma fiscalização. O suspeito utilizava uma Carteira Nacional de Habilitação (CNH) digital fraudulenta instalada no…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/mototaxista-e-preso-em-flagrante-com-cnh-digital-falsa-durante-abordagem/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:08",
-"t": "O que vai acontecer com os 50 cães encontrados trancados em uma casa?",
-"p": "Polícia Militar encontrou animais trancados dentro de casa após ser acionada para atender a um desentendimento familiar",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/o-que-vai-acontecer-com-os-50-caes-encontrados-trancados-em-uma-casa/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:00",
-"t": "Ex-presidente da Câmara de SP é denunciado por suposto controle de empresa ligada ao PCC",
-"p": "O Ministério Público de São Paulo (MPSP) denunciou o ex-presidente da Câmara Municipal Milton Leite, por suspeita de favorecer os interesses do Primeiro Comando da Capital (PCC) no transporte público da capital paulista. A acusação foi apresentada nesta segunda-feira (9/11). Milton usou influencia para beneficiar…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/policia/ex-presidente-da-camara-de-sp-e-denunciado-por-suposto-controle-de-empresa-ligada-ao-pcc/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:58",
-"t": "Campinas aumenta prazo para o cadastro de blocos para o Carnaval de Rua 2027",
-"p": "Representantes dos blocos de Carnaval têm até 15 de novembro para fazer o cadastro; atividades não inscritas ficarão fora da programação oficial da festa",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-aumenta-prazo-para-o-cadastro-de-blocos-para-o-carnaval-de-rua-2027/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "13:57",
-"t": "Projeto Bertioga em Movimento promove clínica gratuita sobre fortalecimento para corredores na quinta (12)",
-"p": "Programação de clínicas teve início no dia 5 e leva aulas práticas e teóricas para o Complexo Esportivo Pé N'Areia, na praia da Enseada",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/projeto-bertioga-em-movimento-promove-clinica-gratuita-sobre-fortalecimento-para-corredores-na-quinta-12.html",
 "auto": true
 }
 ]
