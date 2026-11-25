@@ -2,6 +2,49 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-25",
+"h": "01:06",
+"t": "São Paulo encerra surto de sarampo após 12 semanas sem novos casos",
+"p": "A Secretaria de Estado da Saúde de São Paulo (SES-SP) encerrou o surto de sarampo após 12 semanas sem novos casos relacionados às cadeias de transmissão identificadas no território paulista. O último caso confirmado apresentou as manchas vermelhas na pele, chamadas de exantema, em 28 de agosto. Desde então, o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sao-paulo-encerra-surto-de-sarampo-apos-12-semanas-sem-novos-casos-2/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:51",
+"t": "Suspeitos são presos com imagens sacras e placas furtadas de cemitério no interior de SP; polícia apura crimes em série",
+"p": "Carretinha carregada com objetos retirados do cemitério de Guararapes (SP) foi apreendida: a partir da prisão de suspeitos no interior paulista, polícia fez apreensão de armas e dinheiro em Londrina (PR) Fotos: Polícia Civil/Reprodução Dois homens foram presos em flagrante na noite de segunda-feira (23), suspeitos…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guararapes"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/suspeitos-sao-presos-com-imagens-sacras-e-placas-furtadas-de-cemiterio-no-interior-de-sp-policia-apura-crimes-em-serie/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:51",
+"t": "Operação contra fraude em depósitos judiciais apreende jet ski e moto em imóvel de alto padrão no interior de SP",
+"p": "Jet ski, dispositivos eletrônicos e documentos foram apreendidos por policiais durante ação em Araçatuba (SP) e outras três cidades contra fraudes em depósitos judiciais, nesta terça (24) Fotos: Polícia Civil/Reprodução A Polícia Civil cumpriu 12 mandados de busca e apreensão em quatro cidades de São Paulo, nesta…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-contra-fraude-em-depositos-judiciais-apreende-jet-ski-e-moto-em-imovel-de-alto-padrao-no-interior-de-sp/",
+"auto": true
+},
+{
 "d": "2026-11-24",
 "h": "23:15",
 "t": "Recolhidos de carroças irregulares e maus-tratos, 35 cavalos tratados com microchip esperam nova família e 46 já foram adotados em 2026",

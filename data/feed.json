@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T00:04:24-03:00",
-"novos_nesta_coleta": 13,
+"atualizado": "2026-11-25T01:15:53-03:00",
+"novos_nesta_coleta": 10,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -50,6 +50,49 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-25",
+"h": "01:06",
+"t": "São Paulo encerra surto de sarampo após 12 semanas sem novos casos",
+"p": "A Secretaria de Estado da Saúde de São Paulo (SES-SP) encerrou o surto de sarampo após 12 semanas sem novos casos relacionados às cadeias de transmissão identificadas no território paulista. O último caso confirmado apresentou as manchas vermelhas na pele, chamadas de exantema, em 28 de agosto. Desde então, o…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sao-paulo-encerra-surto-de-sarampo-apos-12-semanas-sem-novos-casos-2/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:51",
+"t": "Suspeitos são presos com imagens sacras e placas furtadas de cemitério no interior de SP; polícia apura crimes em série",
+"p": "Carretinha carregada com objetos retirados do cemitério de Guararapes (SP) foi apreendida: a partir da prisão de suspeitos no interior paulista, polícia fez apreensão de armas e dinheiro em Londrina (PR) Fotos: Polícia Civil/Reprodução Dois homens foram presos em flagrante na noite de segunda-feira (23), suspeitos…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Guararapes"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/suspeitos-sao-presos-com-imagens-sacras-e-placas-furtadas-de-cemiterio-no-interior-de-sp-policia-apura-crimes-em-serie/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "00:51",
+"t": "Operação contra fraude em depósitos judiciais apreende jet ski e moto em imóvel de alto padrão no interior de SP",
+"p": "Jet ski, dispositivos eletrônicos e documentos foram apreendidos por policiais durante ação em Araçatuba (SP) e outras três cidades contra fraudes em depósitos judiciais, nesta terça (24) Fotos: Polícia Civil/Reprodução A Polícia Civil cumpriu 12 mandados de busca e apreensão em quatro cidades de São Paulo, nesta…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/operacao-contra-fraude-em-depositos-judiciais-apreende-jet-ski-e-moto-em-imovel-de-alto-padrao-no-interior-de-sp/",
+"auto": true
+},
 {
 "d": "2026-11-24",
 "h": "23:15",
@@ -54907,45 +54950,6 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/tce-fiscaliza-rede-de-protecao-as-mulheres-em-marilia-e-outras-cidades-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:48",
-"t": "IPVA 2027 terá desconto de até 3% e pagamento em até cinco parcelas",
-"p": "O Governo de São Paulo definiu o calendário de pagamento do Imposto sobre a Propriedade de Veículos Automotores (IPVA) de 2027, administrado pela Secretaria da Fazenda e Planejamento do Estado de São Paulo (Sefaz-SP). Os proprietários de veículos usados poderão quitar o imposto em janeiro, com desconto de 3%, pagar…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/ipva-2027-tera-desconto-de-ate-3-e-pagamento-em-ate-cinco-parcelas/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:48",
-"t": "PIB paulista avança 1,5% no acumulado de 2026",
-"p": "O PIB paulista cresceu 1,5% no acumulado de 2026 na comparação com o mesmo período do ano anterior, mostram os dados do PIB Mensal elaborados pela Fundação Seade. O crescimento foi impulsionado pelos setores da agropecuária (2,8%) e de serviços (2,4%). Em relação ao mesmo mês do ano anterior, o indicador avançou…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/pib-paulista-avanca-15-no-acumulado-de-2026-2/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "14:48",
-"t": "Carreta de algodão pega fogo após batida com guincho e bloqueia Washington Luís",
-"p": "Um acidente envolvendo uma carreta carregada de algodão e um caminhão-guincho provocou um incêndio de grandes proporções e interditou totalmente a Rodovia Washington Luís (SP-310), na manhã desta segunda-feira (9), em Santa Adélia, na região de Catanduva. A ocorrência foi registrada no quilômetro 364, no sentido…",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Santa Adélia",
-"Catanduva"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/carreta-de-algodao-pega-fogo-apos-batida-com-guincho-e-bloqueia-washington-luis/",
 "auto": true
 }
 ]
