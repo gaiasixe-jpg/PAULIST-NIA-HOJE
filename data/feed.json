@@ -1,15 +1,13 @@
 {
-"atualizado": "2026-11-25T06:20:38-03:00",
-"novos_nesta_coleta": 26,
+"atualizado": "2026-11-25T08:06:17-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -28,10 +26,13 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -41,15 +42,93 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "Diário do Litoral",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Boqnews",
 "erro": "XML or text declaration not at start of entity: line 2, column 0"
+},
+{
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-25",
+"h": "07:36",
+"t": "Prefeitura de Ouroeste convida moradores para a 13ª Conferência Municipal dos Direitos da Criança e do Adolescente",
+"p": "O Governo Municipal de Ouroeste, por meio do Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA), convida os moradores a participarem da 13ª Conferência Municipal dos Direitos da Criança e do Adolescente, marcada para o dia 8 de dezembro de 2026, das 8h às 12h, no Salão Paroquial. Com o tema…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-ouroeste-convida-moradores-para-a-13a-conferencia-municipal-dos-direitos-da-crianca-e-do-adolescente/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "07:36",
+"t": "Prefeitura de Ouroeste reforça prazo até 30 de novembro para atualização de rebanhos",
+"p": "O Governo Municipal de Ouroeste, por meio da Secretaria da Agricultura, voltou a orientar os produtores rurais sobre a obrigatoriedade da Campanha de Atualização dos Rebanhos referente ao segundo semestre de 2026, cujo prazo termina no dia 30 de novembro. A declaração deve ser feita por todos os criadores,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-ouroeste-reforca-prazo-ate-30-de-novembro-para-atualizacao-de-rebanhos/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "07:36",
+"t": "CAPS II de Fernandópolis realiza oficinas terapêuticas de mandalas para cuidado em saúde mental",
+"p": "O Centro de Atenção Psicossocial (CAPS II) de Fernandópolis está promovendo oficinas terapêuticas de produção de mandalas, utilizando a arte como instrumento de expressão, acolhimento e cuidado na área da saúde mental. Presentes em diversas culturas e tradições, as mandalas consistem em desenhos geométricos…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/caps-ii-de-fernandopolis-realiza-oficinas-terapeuticas-de-mandalas-para-cuidado-em-saude-mental/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:44",
+"t": "Resultado do Dia de Sorte 1355: duas apostas ganham R$ 1,4 milhão cada",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Janeiro foi o Mês da Sorte do concurso, que também premiou 51 apostas na faixa dos seis acertos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-dia-de-sorte-concurso-1355/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "06:35",
+"t": "Obituário | Falecimentos registrados nesta quarta-feira (25/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta quarta-feira, dia 25 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-quarta-feira-25-11-em-marilia-e-regiao/",
+"auto": true
+},
 {
 "d": "2026-11-25",
 "h": "06:02",
@@ -54875,76 +54954,6 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/gastronomia/camarao-a-partir-de-r-3699-e-o-destaque-de-festival-no-mercado-de-peixes/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "16:00",
-"t": "Museu das Favelas celebra aniversário com Festival Nicho e programação especial",
-"p": "Instituição promove atividades gratuitas no Mês da Consciência Negra, com debates e atividades gratuitas durante novembro; programação inclui exposição de artista de Diadema",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367727/museu-das-favelas-celebra-aniversario-com-festival-nicho-e-programacao-especial",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "16:00",
-"t": "São Bernardo inicia regularização de imóveis no Royal Park",
-"p": "Prefeitura iniciou estudos para legalizar imóveis na região do Batistini; processo poderá viabilizar obras de esgoto e pavimentação.",
-"tema": "Saneamento",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367748/sao-bernardo-inicia-regularizacao-de-imoveis-no-royal-park",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "16:00",
-"t": "2ª Feira do Livro de Mongaguá acontece na sexta e no sábado",
-"p": "Rafael Correia/Divulgação Prefeitura de Mongaguá A programação da 2ª Feira do Livro de Mongaguá também contará com atividades voltadas ao público infantojuvenil.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Mongaguá"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/1077-fm/2a-feira-do-livro-de-mongagua-acontece-na-sexta-e-no-sabado/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:58",
-"t": "A cada 100 imóveis, cerca de três têm focos do mosquito da dengue, diz Prefeitura de Ribeirão",
-"p": "Índice de infestação coloca Ribeirão Preto em situação de alerta para dengue, chikungunya e Zika; Prefeitura intensifica ações de combate ao mosquito",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/a-cada-100-imoveis-cerca-de-tres-tem-focos-do-mosquito-da-dengue-diz-prefeitura-de-ribeirao/",
-"auto": true
-},
-{
-"d": "2026-11-09",
-"h": "15:54",
-"t": "Governo Presente no Monte Carlo incentiva adesão à coleta seletiva",
-"p": "40% do lixo comum ainda são materiais recicláveis; 4ª edição do projeto foi realizada no sábado, dia 07 de novembro",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São José dos Campos"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/governo-presente-no-monte-carlo-incentiva-adesao-a-coleta-seletiva.html",
 "auto": true
 }
 ]
