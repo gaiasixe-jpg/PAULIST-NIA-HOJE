@@ -3,6 +3,32 @@
 "itens": [
 {
 "d": "2026-11-26",
+"h": "02:45",
+"t": "Médica achada morta em hospital alvo da polícia tinha anestésico no bolso",
+"p": "Médica anestesiologista foi encontrada morta em sala de repouso do Hospital Salvalus. Causa da morte ainda é desconhecida",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/medica-achada-morta-em-hospital-alvo-da-policia-tinha-anestesico-no-bolso",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "02:30",
+"t": "Prefeitura de São Paulo pensa solução para descarte de vapes na cidade",
+"p": "Falta de informação sobre descarte de vapes gera dúvida entre usuários e ameaça aterros sanitários. Cooperativas não sabem o que fazer",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/prefeitura-de-sao-paulo-pensa-solucao-para-descarte-de-vapes-na-cidade",
+"auto": true
+},
+{
+"d": "2026-11-26",
 "h": "01:48",
 "t": "Cantarella sanciona lei que cria o programa “Fernandópolis Voluntária” para incentivar ações cidadãs",
 "p": "O prefeito de Fernandópolis, João Paulo Sales Cantarella, sancionou nesta quarta-feira (25) a Lei nº 5.791, que estabelece as diretrizes para a implantação do Programa Municipal “Fernandópolis Voluntária”. Aprovada pela Câmara Municipal, a iniciativa tem como propósito estimular a participação espontânea e não…",
