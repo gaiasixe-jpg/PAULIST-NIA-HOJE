@@ -3,6 +3,100 @@
 "itens": [
 {
 "d": "2026-11-26",
+"h": "17:50",
+"t": "Chuvas intensas: saiba como evitar problemas na rede de esgoto em Jundiaí",
+"p": "Foto: DAE Jundiaí DAE Jundiaí intensifica trabalhos preventivos e alerta sobre o descarte inadequado de resíduos e a importância da separação das redes de esgoto e águas pluviais.",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/dae-jundiai-prevencao-problemas-rede-esgoto/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:49",
+"t": "Criminosos usam dormente nos trilhos da Linha-8 para assaltar trens em SP",
+"p": "O objeto foi usado para atrapalhar o trânsito do trem e facilitar assaltos contra passageiros. A PM foi acionada e o dormente retirado",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/criminosos-usam-dormente-nos-trilhos-da-linha-8-para-realizar-assaltos",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:44",
+"t": "Obras na Alameda Armênio Mendes provocam mudanças no trânsito em Santos",
+"p": "A CET-Santos recomenda aos motoristas que utilizem o aplicativo Waze para o planejamento dos trajetos",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/obras-na-alameda-armenio-mendes-provocam-alteracoes-no-transito-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:39",
+"t": "Câmara de Diadema vota contabilidade de Filippi referente a 2022",
+"p": "Legislativo decide se segue ou derruba recomendação da Corte, que apontou desequilíbrio fiscal e dívida previdenciária opinando pela rejeição",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370959/camara-de-diadema-vota-contabilidade-de-filippi-referente-a-2022",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:23",
+"t": "Havan investe mais de R$ 100 milhões em megaloja no Nordeste, promete 200 empregos e encerra 2026 com presença em todo o Brasil",
+"p": "A Havan inaugura em 12 de dezembro sua primeira megaloja no Ceará, em Fortaleza, com investimento superior a R$ 100 milhões. A unidade, que ficará na avenida Washington Soares, terá mais de 10 mil metros quadrados e deve gerar 200 empregos diretos. Com a abertura, o Ceará deixará de ser o único estado brasileiro…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/havan-investe-mais-de-r-100-milhoes-em-megaloja-no-nordeste-promete-200-empregos-e-encerra-2026-com-presenca-em-todo-o-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:21",
+"t": "Hospital da PUC-Campinas e HC da Unicamp enfrentam superlotação nos prontos-socorros do SUS",
+"p": "Hospital de Clínicas da Unicamp tem 226% de ocupação; Puc tem 46 pacientes estão acomodados em macas nos corredores e pede que novos pacientes procurem outro hospital",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/hospital-da-puc-campinas-e-hc-da-unicamp-enfrentam-superlotacao-nos-prontos-socorros-do-sus/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:18",
+"t": "Centro de Jundiaí terá horário estendido no comércio para as compras de Natal; confira",
+"p": "Foto: Prefeitura de Jundiaí Lojas terão funcionamento ampliado a partir de 1º de dezembro, incluindo atendimento aos domingos e na véspera de Natal.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/centro-de-jundiai-horario-estendido-no-comercio-natal/",
+"auto": true
+},
+{
+"d": "2026-11-26",
 "h": "17:04",
 "t": "MP investiga Estado em caso de professor suspeito de abuso em escola de Ribeirão Preto; entenda",
 "p": "MP quer apurar se o Estado falhou na seleção e fiscalização de profissionais da rede estadual",
@@ -135,6 +229,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/saae-sorocaba-realiza-palestra-para-servidores-alusiva-ao-novembro-azul-2/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:33",
+"t": "Teatro Guarany é fechado temporariamente para reparos no telhado",
+"p": "Fechamento ocorre após danos provocados pelas chuvas e ventos. Espaço também receberá novo sistema de climatização, com investimento de R$ 547,6 mil.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/teatro-guarany-e-fechado-temporariamente-para-reparos-no-telhado/",
 "auto": true
 },
 {

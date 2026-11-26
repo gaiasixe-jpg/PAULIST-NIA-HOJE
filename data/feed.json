@@ -1,12 +1,11 @@
 {
-"atualizado": "2026-11-26T17:13:34-03:00",
-"novos_nesta_coleta": 27,
+"atualizado": "2026-11-26T18:04:20-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -14,13 +13,12 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
+"Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -37,6 +35,10 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
@@ -45,11 +47,109 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Boqnews",
-"erro": "XML or text declaration not at start of entity: line 2, column 0"
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-26",
+"h": "17:50",
+"t": "Chuvas intensas: saiba como evitar problemas na rede de esgoto em Jundiaí",
+"p": "Foto: DAE Jundiaí DAE Jundiaí intensifica trabalhos preventivos e alerta sobre o descarte inadequado de resíduos e a importância da separação das redes de esgoto e águas pluviais.",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/dae-jundiai-prevencao-problemas-rede-esgoto/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:49",
+"t": "Criminosos usam dormente nos trilhos da Linha-8 para assaltar trens em SP",
+"p": "O objeto foi usado para atrapalhar o trânsito do trem e facilitar assaltos contra passageiros. A PM foi acionada e o dormente retirado",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/criminosos-usam-dormente-nos-trilhos-da-linha-8-para-realizar-assaltos",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:44",
+"t": "Obras na Alameda Armênio Mendes provocam mudanças no trânsito em Santos",
+"p": "A CET-Santos recomenda aos motoristas que utilizem o aplicativo Waze para o planejamento dos trajetos",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/obras-na-alameda-armenio-mendes-provocam-alteracoes-no-transito-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:39",
+"t": "Câmara de Diadema vota contabilidade de Filippi referente a 2022",
+"p": "Legislativo decide se segue ou derruba recomendação da Corte, que apontou desequilíbrio fiscal e dívida previdenciária opinando pela rejeição",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370959/camara-de-diadema-vota-contabilidade-de-filippi-referente-a-2022",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:23",
+"t": "Havan investe mais de R$ 100 milhões em megaloja no Nordeste, promete 200 empregos e encerra 2026 com presença em todo o Brasil",
+"p": "A Havan inaugura em 12 de dezembro sua primeira megaloja no Ceará, em Fortaleza, com investimento superior a R$ 100 milhões. A unidade, que ficará na avenida Washington Soares, terá mais de 10 mil metros quadrados e deve gerar 200 empregos diretos. Com a abertura, o Ceará deixará de ser o único estado brasileiro…",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/havan-investe-mais-de-r-100-milhoes-em-megaloja-no-nordeste-promete-200-empregos-e-encerra-2026-com-presenca-em-todo-o-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:21",
+"t": "Hospital da PUC-Campinas e HC da Unicamp enfrentam superlotação nos prontos-socorros do SUS",
+"p": "Hospital de Clínicas da Unicamp tem 226% de ocupação; Puc tem 46 pacientes estão acomodados em macas nos corredores e pede que novos pacientes procurem outro hospital",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/hospital-da-puc-campinas-e-hc-da-unicamp-enfrentam-superlotacao-nos-prontos-socorros-do-sus/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:18",
+"t": "Centro de Jundiaí terá horário estendido no comércio para as compras de Natal; confira",
+"p": "Foto: Prefeitura de Jundiaí Lojas terão funcionamento ampliado a partir de 1º de dezembro, incluindo atendimento aos domingos e na véspera de Natal.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/centro-de-jundiai-horario-estendido-no-comercio-natal/",
+"auto": true
+},
 {
 "d": "2026-11-26",
 "h": "17:04",
@@ -184,6 +284,20 @@
 ],
 "src": "Prefeitura de Sorocaba",
 "u": "https://noticias.sorocaba.sp.gov.br/saae-sorocaba-realiza-palestra-para-servidores-alusiva-ao-novembro-azul-2/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:33",
+"t": "Teatro Guarany é fechado temporariamente para reparos no telhado",
+"p": "Fechamento ocorre após danos provocados pelas chuvas e ventos. Espaço também receberá novo sistema de climatização, com investimento de R$ 547,6 mil.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/cidades/teatro-guarany-e-fechado-temporariamente-para-reparos-no-telhado/",
 "auto": true
 },
 {
@@ -54978,116 +55092,6 @@
 "c": [],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4368151/rd-saude-lanca-projeto-piloto-de-coleta-de-canetas-injetaveis-em-10-farmacias-de-sp",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:46",
-"t": "Campinas abre concurso público com 100 vagas para a GM",
-"p": "Concurso público para a Guarda Municipal prevê salário R$ 3.796,61 e benefícios como auxílio-alimentação/refeição, vale-transporte e plano de medicamentos",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-abre-concurso-publico-com-100-vagas-para-a-gm/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:46",
-"t": "Campinas abre concurso público com 100 vagas para a GM",
-"p": "Concurso público para a Guarda Municipal prevê salário R$ 3.796,61 e benefícios como auxílio-alimentação/refeição, vale-transporte e plano de medicamentos",
-"tema": "Geral",
-"s": "anunciado",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/campinas-abre-concurso-publico-com-100-vagas-para-a-gm/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:44",
-"t": "Câmara de Arujá aprova moção de repúdio contra Sabesp por cobranças abusivas",
-"p": "Segundo texto do vereador Robertinho (PSD), cobranças saltaram de R$ 600 para R$ 6 mil e R$ 7 mil; procurada, Sabesp diz que analisa casos individualmente e está à disposição do Legislativo e da cidade",
-"tema": "Saneamento",
-"s": "fato",
-"c": [
-"Arujá"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/camara-de-aruja-aprova-mocao-de-repudio-contra-sabesp-por-cobrancas-abusivas/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:42",
-"t": "Festival de forró terá shows e aulas de dança no fim de semana; veja programação",
-"p": "Festival de forró será realizado neste sábado (14) e domingo (15), no Parque Engenho Central, com apresentações musicais, oficinas de dança e praça de alimentação",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/piracicaba/festival-de-forro-tera-shows-e-aulas-de-danca-no-fim-de-semana-veja-programacao/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:37",
-"t": "SP: Defesa Civil alerta para perigo de chuvas a partir desta quarta (11/11)",
-"p": "Defesa Civil alerta para a previsão de pancadas isoladas entre esta quarta (11/11) e quinta-feira (12/11) em todo o estado paulista",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/sp-defesa-civil-alerta-para-perigo-de-chuvas-a-partir-desta-quarta-11-11",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:36",
-"t": "Com fenômeno meteorológico, estado de SP recebe alerta para chuva, ventos e granizo; Veja cidades",
-"p": "Inmet emitiu alerta para o risco de tempestade com validade durante toda esta quinta-feira (12), devido a um cavado atmosférico",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/com-fenomeno-meteorologico-estado-de-sp-recebe-alerta-para-chuva-ventos-e-granizo-veja-cidades/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:29",
-"t": "Site do Porto de Santos continua fora do ar cinco dias após ataque cibernético e Autoridade Portuária eleva segurança para grau dois",
-"p": "O site do Porto de Santos permanece fora do ar nesta quarta-feira (11), cinco dias após um ataque cibernético atingir os sistemas da Autoridade Portuária de Santos (APS). Ainda não há data definida para o restabelecimento completo dos serviços digitais. A Polícia Federal investiga o caso, e as equipes de tecnologia…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/site-do-porto-de-santos-continua-fora-do-ar-cinco-dias-apos-ataque-cibernetico-e-autoridade-portuaria-eleva-seguranca-para-grau-dois/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:26",
-"t": "Serviços são normalizados, mas pagamentos seguem sob atenção em Marília",
-"p": "Merendeiras receberam salários, ônibus voltaram a circular e coleta de lixo opera normalmente; 411 aposentados e pensionistas ainda aguardavam benefícios.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/servicos-sao-normalizados-mas-pagamentos-seguem-sob-atencao-em-marilia/",
 "auto": true
 }
 ]
