@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-26T12:12:09-03:00",
-"novos_nesta_coleta": 52,
+"atualizado": "2026-11-26T13:14:48-03:00",
+"novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,6 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
@@ -44,9 +43,244 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-26",
+"h": "13:09",
+"t": "Secretaria do Trabalho de Sorocaba realiza processo seletivo para 56 vagas na construção civil e área elétrica",
+"p": "Entrevistas acontecem no dia 2 de dezembro, com oportunidades para quem tem ensino fundamental incompleto. Salários podem chegar a R$ 3.400,00. A Secretaria de Relações do Trabalho e Qualificação Profissional de Sorocaba (Sert), por meio da Parceria Social de Empregos, realiza no dia 2 de dezembro de 2026 um…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-do-trabalho-de-sorocaba-realiza-processo-seletivo-para-56-vagas-na-construcao-civil-e-area-eletrica/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "13:06",
+"t": "Dono de transportadora perde quase R$ 5 milhões após golpistas se passarem por advogado e juiz em falsa audiência",
+"p": "Central de Flagrantes de Rio Preto (SP) Madelyne Boer/TV TEM O dono de uma transportadora de Nova Granada (SP) perdeu quase R$ 5 milhões após cair em um golpe de falsa audiência. O crime aconteceu por videoconferência, no qual criminosos se passaram por advogado e juiz. O caso foi registrado pela Polícia Civil de…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Nova Granada",
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/dono-de-transportadora-perde-quase-r-5-milhoes-apos-golpistas-se-passarem-por-advogado-e-juiz-em-falsa-audiencia/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "13:06",
+"t": "Chuva forte ‘arrasta’ jacarés para as ruas e derruba araras de ninhos no interior de SP",
+"p": "Jacaré é capturado em rua de Castilho (SP) após chuva forte Quatro jacarés foram capturados nas ruas de Castilho, no interior de São Paulo, após a forte chuva que atingiu a cidade entre a noite de terça-feira (24) e a manhã de quarta-feira (25). A Brigada Municipal afirmou ao g1 que acredita que os animais […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Castilho"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/chuva-forte-arrasta-jacares-para-as-ruas-e-derruba-araras-de-ninhos-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "13:05",
+"t": "Pesquisa: 66,4% reprovam gestão de Tiago Cervantes em Itanhaém, aponta levantamento",
+"p": "Avaliação negativa supera aprovação em 40,2 pontos percentuais; saúde é apontada como a área de pior desempenho da administração municipal",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/politica/pesquisa-664-reprovam-gestao-de-tiago-cervantes-em-itanhaem-aponta-levantamento.html",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:59",
+"t": "Rede estadual de SP abre concurso público com 5 mil vagas para professores nesta quinta (26)",
+"p": "Edital oferece salários de até R$ 5,5 mil; cadastro deve ser feito até 15 de fevereiro de 2027",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/educacao/rede-estadual-de-sp-abre-concurso-publico-com-5-mil-vagas-para-professores-nesta-quinta-26/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:58",
+"t": "Sidney Oliveira vira réu por organização criminosa na Fazenda em SP",
+"p": "Sidney e outros 10 são acusados pelo MPSP por envolvimento com organização criminosa, que manipulava créditos de ICMS na Fazenda",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/sidney-oliveira-vira-reu-por-organizacao-criminosa-na-fazenda-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:47",
+"t": "Ônibus quebram novamente e marcam manhã no transporte público de Campinas",
+"p": "Veículos das linhas 214 e 251 apresentaram problemas na manhã desta quinta-feira (26); em um dos casos, passageiros precisaram forçar as portas para conseguir sair do coletivo",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/onibus-quebram-novamente-e-marcam-manha-no-transporte-publico-de-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:45",
+"t": "Urso-pardo devora 45 salmões em apenas 10 horas e meia e acaba sendo eleito o urso mais gordo de concurso antes de enfrentar o rigoroso inverno",
+"p": "Urso gordo",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/urso-pardo-devora-45-salmoes-em-apenas-10-horas-e-meia-e-acaba-sendo-eleito-o-urso-mais-gordo-de-concurso-antes-de-enfrentar-o-rigoroso-inverno/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:42",
+"t": "Saudade de casa: Hospital São Vicente possibilita reencontro entre pacientes e seus pets, em Jundiaí",
+"p": "Fotos: HSV Ação Pet proporciona momentos de conforto emocional durante a internação; encontros seguem critérios médicos, sanitários e veterinários.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/saudade-de-casa-hospital-sao-vicente-possibilita-reencontro-entre-pacientes-e-seus-pets-em-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:42",
+"t": "Homem agride esposa e enteada após discussão por água no fogão em Marília",
+"p": "PM prendeu suspeito de violência doméstica em Marília Mulher levou um soco na boca ao tentar proteger a filha de 14 anos; vizinhos acionaram a Polícia Militar.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-agride-esposa-e-enteada-apos-discussao-por-agua-no-fogao-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:38",
+"t": "Irmão de Suzane von Richthofen abre mão de disputar herança de R$ 5 milhões do tio e ela volta à Justiça para questionar união estável do médico",
+"p": "A morte de um familiar pode deixar questões que vão muito além da divisão de bens. Quando existe um patrimônio milionário envolvido, relações antigas, documentos e possíveis direitos sucessórios podem transformar o inventário em uma disputa judicial. É o que acontece no novo capítulo envolvendo Suzane von…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/irmao-de-suzane-von-richthofen-abre-mao-de-disputar-heranca-de-r-5-milhoes-do-tio-e-ela-volta-a-justica-para-questionar-uniao-estavel-do-medico/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:27",
+"t": "Trabalhador terceirizado da Havan morre prensado por elevador durante manutenção em loja instalada dentro de shopping em SC",
+"p": "Um trabalhador terceirizado morreu após ser prensado pela estrutura de um elevador durante um serviço de manutenção na loja da Havan instalada no Floripa Shopping, em Florianópolis, capital de Santa Catarina. O acidente aconteceu na quarta-feira (25/11). De acordo com o Corpo de Bombeiros, o profissional ficou…",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/trabalhador-terceirizado-da-havan-morre-prensado-por-elevador-durante-manutencao-em-loja-instalada-dentro-de-shopping-em-sc/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:22",
+"t": "Vereador do PT quer tombar calçadas de Piso Paulista, marca histórica de SP",
+"p": "Nabil Bonduki acionou Prefeitura de São Paulo para pedir tombamento das calçadas públicas com desenho feito por Mirthes Bernardes",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/vereador-do-pt-quer-tombar-calcadas-de-piso-paulista-marca-historica-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:22",
+"t": "Dornelas aciona Comissão de Ética contra Rillo após ser chamado de “sem vergonha”",
+"p": "Vereador pede suspensão do mandato ou outras sanções por declarações durante debate sobre empréstimo de R$ 49,9 milhões para a Saúde",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/dornelas-aciona-comissao-de-etica-contra-rillo-apos-ser-chamado-de-sem-vergonha/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:15",
+"t": "Suítes cápsula: 20 módulos chineses de quase 10 metros chegam prontos ao Chile com automação inteligente e dispensam obras tradicionais no turismo",
+"p": "A logística global e o setor hoteleiro acabam de ganhar um novo capítulo na América do Sul. Um lote com 20 cápsulas inteligentes desembarcou no porto de Valparaíso, no Chile. Fabricadas na China, as estruturas modulares de 9,6 metros de comprimento dispensam a necessidade de obras tradicionais e chegam prontas para…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Valparaíso"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/turismo/suites-capsula-20-modulos-chineses-de-quase-10-metros-chegam-prontos-ao-chile-com-automacao-inteligente-e-dispensam-obras-tradicionais-no-turismo/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:14",
+"t": "Semifinais da Taça Cidade de Sorocaba 2026 começam neste domingo (29)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), promove, na manhã deste domingo (29), os jogos de ida válidos pelas semifinais da Taça Cidade de Sorocaba 2026. Os times AE Maria Eugênia x AA Vila Helena e AA Magnólia x AA Vila Haro/América/Inicial Transportes se enfrentam…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/semifinais-da-taca-cidade-de-sorocaba-2026-comecam-neste-domingo-29/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:13",
+"t": "DPBEA terá evento de adoção de cães neste sábado",
+"p": "Evento gratuito do DPBEA terá vacinação e microchipagem para animais acompanhados dos tutores; cerca de 10 pets estarão à espera de uma nova família",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/dpbea-tera-evento-de-adocao-de-caes-neste-sabado/",
+"auto": true
+},
 {
 "d": "2026-11-26",
 "h": "12:10",
@@ -85,6 +319,20 @@
 "c": [],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/sabesp-tem-maior-ciclo-de-investimentos-da-historia-e-fundo-estadual-contem-tarifas/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "12:00",
+"t": "Defesa Civil mantém operação especial em SP diante de nova previsão de chuva nesta quinta; 62 alertas já foram enviados à população",
+"p": "A previsão de chuva persistente, com intensidade moderada a forte, mantém a Defesa Civil de São Paulo em alerta nesta quinta-feira (26/11). Mesmo com a redução dos volumes esperados em cidades do litoral norte, o risco de alagamentos, enxurradas e deslizamentos continua elevado. Desde a meia-noite de quarta-feira…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/defesa-civil-mantem-operacao-especial-em-sp-diante-de-nova-previsao-de-chuva-nesta-quinta-62-alertas-ja-foram-enviados-a-populacao/",
 "auto": true
 },
 {
@@ -173,6 +421,20 @@
 },
 {
 "d": "2026-11-26",
+"h": "11:47",
+"t": "TJ-SP derruba lei de Marília contra adultização infantil e aponta censura",
+"p": "'Lei Felca' de Marília proibia apresentações de conteúdo erótico, sensual ou sexualmente explícito destinadas a crianças e adolescentes ou com a participação desse público.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/tj-sp-derruba-lei-de-marilia-contra-adultizacao-infantil-e-aponta-censura/",
+"auto": true
+},
+{
+"d": "2026-11-26",
 "h": "11:46",
 "t": "Conferência Municipal debate políticas de proteção à infância e adolescência em Fernandópolis",
 "p": "A Secretaria Municipal de Assistência Social de Fernandópolis, por meio do Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA), promoveu na quarta-feira (25) a 13ª Conferência Municipal dos Direitos da Criança e do Adolescente. Realizado na Unifef, o encontro reuniu integrantes do poder público,…",
@@ -253,6 +515,18 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/prefeitura-de-macedonia-abre-cadastro-e-atualizacao-para-comerciantes-e-autonomos/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "11:40",
+"t": "Com alerta de “super El Niño” e até cinco ondas de calor, São Vicente reforça drenagem e prepara Defesa Civil para período de chuvas",
+"p": "O Brasil pode enfrentar um período de maior instabilidade climática entre setembro e novembro, com a possibilidade de até cinco ondas de calor durante o trimestre. O alerta consta na atualização do boletim do Instituto Nacional de Meteorologia (Inmet) sobre o El Niño. A previsão indica de três a cinco episódios de…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/com-alerta-de-super-el-nino-e-ate-cinco-ondas-de-calor-sao-vicente-reforca-drenagem-e-prepara-defesa-civil-para-periodo-de-chuvas/",
 "auto": true
 },
 {
@@ -54821,281 +55095,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/policia-civil-prende-mulher-suspeita-de-trancar-companheiro-em-casa-e-atear-fogo/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:31",
-"t": "GCM captura procurado por roubo com quatro celulares em Santo André",
-"p": "Homem tentou se desfazer de sacola com quatro aparelhos durante abordagem no Jardim Santo André; vítima de roubo em São Bernardo o reconheceu",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Santo André",
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368075/gcm-captura-procurado-por-roubo-com-quatro-celulares-em-santo-andre",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:31",
-"t": "Mar ‘evapora’ de forma assustadora em minutos e fenômeno natural intriga moradores do litoral de SP: “Tsunami?”",
-"p": "Na noite da última terça-feira (10), o mar de Santos se mostrou muito distante da faixa de areia. Em um vídeo publicado nas redes sociais, é possível notar o recuo da água em áreas onde normalmente o mar está presente. O fenômeno natural chamou a atenção de moradores e internautas. O principal medo da população […]",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/mar-evapora-de-forma-assustadora-em-minutos-e-fenomeno-natural-intriga-moradores-do-litoral-de-sp-tsunami/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:30",
-"t": "Mulher perde quase R$ 12 mil em golpe aplicado pelo WhatsApp em Rio Preto",
-"p": "O caso, que será investigado pela Polícia Civil, aconteceu na tarde de terça-feira, dia 10, e foi registrado como estelionato",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/mulher-perde-quase-r-12-mil-em-golpe-aplicado-pelo-whatsapp-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:25",
-"t": "Trilha dos ODS da ABM: um caminho prático para fortalecer a gestão municipal",
-"p": "Prefeitos, prefeitas, secretários municipais, equipes técnicas, pesquisadores e representantes da sociedade civil têm diante de si um dos maiores desafios da gestão pública contemporânea: planejar o presente sem perder de vista o futuro. É justamente nesse contexto que a Trilha dos ODS, iniciativa da Associação…",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/artigo/trilha-dos-ods-da-abm-um-caminho-pratico-para-fortalecer-a-gestao-municipal/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:20",
-"t": "Raposo Tavares tem 26 km de lentidão nesta quarta-feira e trânsito em SP chega a 425 km",
-"p": "A rodovia Raposo Tavares registra cerca de 26 quilômetros de lentidão nesta quarta-feira (11/11), em meio ao trânsito intenso na Grande São Paulo. Segundo os dados de monitoramento, o excesso de veículos provoca retenções entre os quilômetros 37 e 11. O Rodízio Municipal de Veículos já está valendo para carros com…",
-"tema": "Transporte",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/raposo-tavares-tem-26-km-de-lentidao-nesta-quarta-feira-e-transito-em-sp-chega-a-425-km/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:18",
-"t": "Operação contra o tráfico de drogas termina com 40 presos",
-"p": "Operação da Polícia Civil durou duas semanas e apreendeu substâncias ilícitas, armas, celulares e dinheiro em vários bairros de Campinas",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/operacao-contra-o-trafico-de-drogas-termina-com-40-presos/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:15",
-"t": "Melhor arroz não leva água no preparo e esse ingrediente de cozinha deixa os grãos mais soltinhos e saborosos com 550 ml na panela",
-"p": "A combinação de alho, cebola, manteiga e milho muda o preparo desse acompanhamento tão presente nas refeições",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/estilo-de-vida/melhor-arroz-nao-leva-agua-no-preparo-e-esse-ingrediente-de-cozinha-deixa-os-graos-mais-soltinhos-e-saborosos-com-550-ml-na-panela/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:15",
-"t": "Prefeitura de Itanhaém entrega seis veículos para reforçar atendimento na rede municipal de Saúde",
-"p": "A Prefeitura de Itanhaém entregou nesta terça-feira (10) seis novos veículos para reforçar a estrutura da rede municipal de Saúde. A nova frota inclui ambulâncias, vans adaptadas para o transporte de pacientes e um veículo destinado às equipes de atendimento domiciliar. A iniciativa busca ampliar a capacidade dos…",
-"tema": "Saúde",
-"s": "entregue",
-"c": [
-"Itanhaém"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/prefeitura-de-itanhaem-entrega-seis-veiculos-para-reforcar-atendimento-na-rede-municipal-de-saude/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:08",
-"t": "Justiça marca audiência e mantém medidas cautelares contra advogado acusado de ameaçar juiz",
-"p": "A Justiça marcou para 26 de janeiro de 2027, às 14h, a audiência de instrução, interrogatório, debates e julgamento do advogado Marcos Roberto Cebola e Silva, acusado de ameaçar de forma velada o juiz Deyvison Heberth dos Reis, de Presidente Venceslau (SP). Na mesma decisão, o juiz Gabriel Medeiros, da 1ª Vara da…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Venceslau"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/justica-marca-audiencia-e-mantem-medidas-cautelares-contra-advogado-acusado-de-ameacar-juiz/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:07",
-"t": "Polícia investiga homem por importunação sexual contra adolescente de 12 anos",
-"p": "A Polícia Civil investiga um homem de 57 anos por importunação sexual contra uma adolescente de 12 anos, em Teodoro Sampaio (SP). O caso foi registrado na Polícia Civil nesta terça-feira (10). Conforme a polícia, a família relatou que a menina e irmã dela, também menor de idade, teriam pegado uma carona com o…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Teodoro Sampaio"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/policia-investiga-homem-por-importunacao-sexual-contra-adolescente-de-12-anos/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:05",
-"t": "Polícia apreende quase 180 kg de cocaína escondida em carga de milho em Presidente Prudente",
-"p": "Um motorista foi preso suspeito de tráfico de drogas ao transportar quase 180 kg de cocaína na Rodovia Raposo Tavares (SP-270), em Presidente Prudente (SP), na segunda-feira (9). Conforme a Polícia Rodoviária, a ocorrência foi registrada no quilômetro 561,5, por volta das 15h, durante a Operação Impacto. Na…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Presidente Prudente"
-],
-"src": "Portal Regional (Dracena)",
-"u": "https://portalregional.net.br/2026/11/policia-apreende-quase-180-kg-de-cocaina-escondida-em-carga-de-milho-em-presidente-prudente/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:00",
-"t": "Carreta carregada de algodão pega fogo no Rodoanel e provoca mais de 4 km de congestionamento",
-"p": "Uma carreta carregada de algodão pegou fogo no Rodoanel Mário Covas (SP-021), na manhã desta quarta-feira (11/11), em Osasco, na Grande São Paulo. O incêndio provocou interdições na rodovia e mais de quatro quilômetros de congestionamento. Segundo a Motiva Autoban, a concessionária recebeu o chamado às 4h51, no…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Osasco"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/carreta-carregada-de-algodao-pega-fogo-no-rodoanel-e-provoca-mais-de-4-km-de-congestionamento/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:00",
-"t": "Obras do BRT provocam novos bloqueios no Centro a partir desta quarta-feira; veja trechos e desvios",
-"p": "Interdições começam nesta quarta-feira (11), às 9h, e seguem até 27 de novembro na Avenida Anchieta e Ria Major Solon para obras no Corredor BRT",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/obras-do-brt-provocam-novos-bloqueios-no-centro-a-partir-desta-quarta-feira-veja-trechos-e-desvios/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "08:00",
-"t": "Interior de SP terá calor de até 31°C e possibilidade de chuva nesta quarta-feira; veja previsão",
-"p": "Temperaturas devem subir ao longo do dia, com pancadas de chuva previstas principalmente durante a tarde; em Campinas, máxima pode chegar aos 27 °C",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/interior-de-sp-tera-calor-de-ate-31c-e-possibilidade-de-chuva-nesta-quarta-feira-veja-previsao/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "07:56",
-"t": "Vice-prefeito de São Paulo aponta irregularidades na Virada Esportiva e pede investigação",
-"p": "",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368068/vice-prefeito-de-sao-paulo-aponta-irregularidades-na-virada-esportiva-e-pede-investigacao",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "07:55",
-"t": "Santos instala mais de 1,1 mil luminárias de LED em três meses e atinge 88,5% de cobertura na iluminação pública da cidade",
-"p": "A Prefeitura de Santos avançou no programa de modernização do parque de iluminação pública do município ao instalar 1.176 novos pontos de LED ao longo dos últimos três meses. Com os trabalhos conduzidos pela Secretaria de Infraestrutura e Serviços Públicos (Seinfra), a cidade alcançou a marca de 88,51% de cobertura…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/santos-instala-mais-de-11-mil-luminarias-de-led-em-tres-meses-e-atinge-885-de-cobertura-na-iluminacao-publica-da-cidade/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "07:53",
-"t": "Após manhã fria, Grande ABC chega a 25°C e volta a ter chuva",
-"p": "Pancadas devem ocorrer principalmente à tarde; São Caetano terá a maior máxima da região, enquanto demais cidades chegam a 23°C",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São Caetano do Sul"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368067/apos-manha-fria-grande-abc-chega-a-25%C2%B0c-e-volta-a-ter-chuva",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "07:51",
-"t": "Um gato laranja viaja deitado e observando silenciosamente a câmera no avião; a cena derrete os internautas durante o voo",
-"p": "Felino de pelagem laranja permanece quieto dentro da transportadora a bordo, com o olhar fixo na lente, cena que viralizou pela calma incomum. Ilustração criada com Inteligência Artificial Vídeo de um gato laranja deitado e em silêncio dentro da caixa de transporte durante um voo viralizou nas redes e gerou debate…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/mundo-pet/um-gato-laranja-viaja-deitado-e-observando-silenciosamente-a-camera-no-aviao-a-cena-derrete-os-internautas-durante-o-voo/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "07:50",
-"t": "Vereador Jeferson sugere readequação salarial para profissionais de suporte pedagógico",
-"p": "A readequação salarial das categorias de suporte pedagógico do magistério municipal voltou ao debate no Poder Legislativo de Fernandópolis. Na 26ª Sessão Ordinária realizada nesta terça-feira (10), o vereador Jeferson Leandro de Paiva apresentou a Indicação nº 198/2026, solicitando que a administração municipal…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/vereador-jeferson-sugere-readequacao-salarial-para-profissionais-de-suporte-pedagogico/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "07:43",
-"t": "Após 7 meses de seca, chuva faz flores rosas surgirem no dia seguinte e transforma paisagem da Caatinga em um jardim que dura poucos dias",
-"p": "Lírio-de-chuva do gênero Habranthus fotografado em Caetité (Bahia), em 24 de outubro de 2025, por André Koehne. Não é o povoado Brejo da Caatinga, em Campo Formoso, nem o fenômeno de outubro de 2026. A espécie não está identificada. Após cerca de sete meses sem chuva, flores cor-de-rosa de cebola-brava cobriram a…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/noticias/apos-7-meses-de-seca-chuva-faz-flores-rosas-surgirem-no-dia-seguinte-e-transforma-paisagem-da-caatinga-em-um-jardim-que-dura-poucos-dias/",
 "auto": true
 }
 ]
