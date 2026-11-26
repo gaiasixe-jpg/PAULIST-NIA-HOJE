@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-26T18:04:20-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-26T19:03:00-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,12 +14,14 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -26,17 +29,12 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)",
 "Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
 },
 {
 "fonte": "A Tribuna",
@@ -47,15 +45,163 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
+"fonte": "Diário Oficial (via Alesp)",
+"erro": "HTTP Error 503: Service Unavailable"
 }
 ],
 "itens": [
+{
+"d": "2026-11-26",
+"h": "19:00",
+"t": "Cobra mais pesada do mundo, sucuri-verde é flagrada devorando pássaro durante passeio de guia em fazenda no interior de Mato Grosso do Sul",
+"p": "Uma caminhada no fim da tarde em uma fazenda de Ribas do Rio Pardo, em Mato Grosso do Sul, terminou com um encontro inesperado com duas sucuris. Uma delas estava enrolada em um pássaro, enquanto a outra foi encontrada em uma poça d’água. A cena foi registrada pelo guia e influenciador de aventura Roger Regis. […]",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/cobra-mais-pesada-do-mundo-sucuri-verde-e-flagrada-devorando-passaro-durante-passeio-de-guia-em-fazenda-no-interior-de-mato-grosso-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:46",
+"t": "Nomeação de Tarcísio afasta Ivan Silva da cadeira de deputado estadual",
+"p": "Governador anuncia manutenção de Claudia Carletto na Pasta de Esportes, antes especulada para o Podemos",
+"tema": "Política",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370973/nomeacao-de-tarcisio-afasta-ivan-silva-da-cadeira-de-deputado-estadual",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:36",
+"t": "Governo de SP envia ajuda humanitária a famílias atingidas pelas chuvas em Sumaré",
+"p": "A Defesa Civil do Estado e o Fundo Social de SP enviaram, na manhã desta quinta-feira (26), ajuda humanitária a Sumaré, na região de Campinas, para atender 280 famílias atingidas pelas fortes chuvas. De acordo com a prefeitura, os temporais registrados na quarta-feira (25) provocaram alagamentos em cinco bairros do…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Campinas",
+"Sumaré"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-envia-ajuda-humanitaria-a-familias-atingidas-pelas-chuvas-em-sumare/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:35",
+"t": "Chegada da água tratada melhora atendimento a turistas do Caminho da Fé e beneficia comércio rural em São Bento do Sapucaí",
+"p": "A chegada da água tratada ao bairro rural do Cantagalo, em São Bento do Sapucaí, no interior paulista, transforma a rotina de moradores e comerciantes da comunidade. Para Valter Ricardo de Carvalho, proprietário de um bar e de uma pousada na região, a implantação do sistema representa uma melhoria importante para o…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Bento do Sapucaí"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/chegada-da-agua-tratada-melhora-atendimento-a-turistas-do-caminho-da-fe-e-beneficia-comercio-rural-em-sao-bento-do-sapucai/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:35",
+"t": "Governo de SP envia 850 refeições do Bom Prato a cidades atingidas pelas chuvas na região de Campinas",
+"p": "O Programa Bom Prato, da Secretaria de Desenvolvimento Social do Estado de São Paulo (SEDS), começou a entregar na quarta-feira (25) 850 marmitas gratuitas a Sumaré, Nova Odessa e Monte Mor, atingidas pelas fortes chuvas dos últimos dias. Sumaré recebeu 600 refeições e Nova Odessa, 170. Monte Mor recebe 80 entre…",
+"tema": "Meio ambiente",
+"s": "entregue",
+"c": [
+"Nova Odessa",
+"Monte Mor",
+"Campinas",
+"Sumaré"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-envia-850-refeicoes-do-bom-prato-a-cidades-atingidas-pelas-chuvas-na-regiao-de-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:33",
+"t": "Câmara de Diadema aprova contas de Filippi em decisão contrária ao TCE-SP",
+"p": "Foram 19 votos favoráveis à aprovação da prestação de contas e 2 contrários, apesar de a Corte ter mantido parecer desfavorável à gestão financeira",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370971/camara-de-diadema-aprova-contas-de-filippi-em-decisao-contraria-ao-tce-sp",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:19",
+"t": "Qual o estado de saúde de Bolsonaro? Veja o novo boletim médico",
+"p": "Jair Bolsonaro segue internado na UTI com obstrução intestinal e pneumonia. Veja o boletim médico, os sinais de melhora e quando ele poderá ter alta",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/qual-o-estado-de-saude-de-bolsonaro-veja-o-novo-boletim-medico/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:15",
+"t": "Três praias de Guarujá representam risco à saúde de banhistas, aponta Cetesb",
+"p": "Boletim divulgado nesta quinta (26) aponta pontos impróprios nas praias de Astúrias, Enseada e Perequê; nova atualização sai na quinta (3)",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/tres-praias-de-guaruja-representam-risco-a-saude-de-banhistas-aponta-cetesb.html",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:04",
+"t": "TCU recomenda suspender compra de R$ 5,8 milhões em tablets pela Câmara",
+"p": "Tribunal de Contas da União sugeriu que licitação seja interrompida após representação feita pelo deputado estadual Leo Siqueira (Novo)",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tcu-recomenda-suspender-compra-de-r-58-milhoes-em-tablets-pela-camara",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:02",
+"t": "HBO Max: confira 5 filmes e séries que chegam ao catálogo em dezembro",
+"p": "Dezembro chega com uma programação pensada para aproveitar os últimos dias de 2026. A HBO Max reúne no período histórias de amor, investigações cheias de suspense, comédias inusitadas e transformações que inspiram mudanças no dia a dia, além de um dos lançamentos mais esperados do ano. Entre continuações de séries…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/hbo-max-confira-5-filmes-e-series-que-chegam-ao-catalogo-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:56",
+"t": "Ensino superior tem evasão de 69% no EaD e 60% no presencial, aponta censo",
+"p": "Levantamento também aponta recorde de estudantes matriculados em cursos de graduação no Brasil em 2025",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/educacao/ensino-superior-registra-evasao-de-69-no-ead-e-60-no-presencial-aponta-censo/",
+"auto": true
+},
 {
 "d": "2026-11-26",
 "h": "17:50",
@@ -80,6 +226,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/criminosos-usam-dormente-nos-trilhos-da-linha-8-para-realizar-assaltos",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:45",
+"t": "Aos 90 anos, Dedé Santana mantém mansão de 27 cômodos avaliada em R$ 3,4 milhões, trabalha em circos e recebe ajuda de Renato Aragão com plano de saúde",
+"p": "Uma propriedade com 27 cômodos, avaliada em aproximadamente R$ 3,4 milhões, chama atenção pelo tamanho e pela história de seu proprietário. Aos 90 anos, Dedé Santana, conhecido pelo sucesso em Os Trapalhões, mantém uma mansão na Praia de Cabeçudas, em Itajaí, Santa Catarina, mesmo depois de enfrentar dificuldades…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/aos-90-anos-dede-santana-mantem-mansao-de-27-comodos-avaliada-em-r-34-milhoes-trabalha-em-circos-e-recebe-ajuda-de-renato-aragao-com-plano-de-saude/",
 "auto": true
 },
 {
@@ -148,6 +306,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/centro-de-jundiai-horario-estendido-no-comercio-natal/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:08",
+"t": "Falsas promessas de cidadania italiana na Black Friday acendem alerta para golpes que podem causar prejuízos de R$ 30 mil; saiba como se proteger",
+"p": "Com a chegada da Black Friday, nesta sexta-feira (27), brasileiros interessados em obter a cidadania italiana precisam redobrar a atenção diante de ofertas que prometem processos rápidos, descontos elevados e aprovação garantida. Embora condições especiais de pagamento possam parecer vantajosas, algumas propostas…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/turismo/falsas-promessas-de-cidadania-italiana-na-black-friday-acendem-alerta-para-golpes-que-podem-causar-prejuizos-de-r-30-mil-saiba-como-se-proteger/",
 "auto": true
 },
 {
@@ -54918,180 +55088,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/santos/santos-inicia-preparacao-para-o-verao-e-distribuira-2-mil-pulseiras-gratuitas-para-identificar-criancas-nas-praias-e-evitar-desencontros/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "13:18",
-"t": "MP das Bets é prorrogada pelo Congresso",
-"p": "Rubens Chiri / saopaulofc.net Com a prorrogação e a suspensão da contagem durante o recesso parlamentar, o prazo para análise do texto vai até 5 de março de 2027",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/esportes/mp-das-bets-e-prorrogada-pelo-congresso/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "13:17",
-"t": "SindiMed alerta que não realiza pagamentos de benefícios do INSS",
-"p": "Beneficiários do INSS estão sendo encaminhados indevidamente à sede do SindiMed, em Santos, que alerta não realizar pagamentos de benefícios previdenciários e cobra providências do órgão.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/cidades/sindimed-alerta-que-nao-realiza-pagamentos-de-beneficios-do-inss/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "13:14",
-"t": "Reforma tributária: estudo de pesquisador de Jundiaí é aprovado em congresso internacional",
-"p": "Foto: Arquivo Pessoal Pesquisador de Jundiaí tem artigo sobre reforma tributária aprovado em congresso internacional. Estudo analisa impactos nos impostos.",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/pesquisador-jundiai-reforma-tributaria-congresso-internacional/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "13:11",
-"t": "Festival reúne esporte, bem-estar e música em Ribeirão Preto; veja a programação",
-"p": "Festival será realizado em 14 de novembro, no Residencial Artesano, com aulas de yoga, pilates, spinning, atividades físicas, talks e atrações musicais.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/festival-reune-esporte-bem-estar-e-musica-em-ribeirao-preto-veja-a-programacao/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "13:10",
-"t": "Craque Neto tem programa encerrado pela Band após três anos por motivo inusitado e se despede ao vivo: “Obrigado a você que aguentou a gente”",
-"p": "Após pouco mais de três anos no ar, Craque Neto se despediu de um de seus programas na Band. O ex-jogador confirmou o encerramento do Apito Final durante a última edição da atração, exibida na noite de segunda-feira (9), e aproveitou o momento para agradecer aos telespectadores e profissionais que participaram do…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/craque-neto-tem-programa-encerrado-pela-band-apos-tres-anos-por-motivo-inusitado-e-se-despede-ao-vivo-obrigado-a-voce-que-aguentou-a-gente/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "13:10",
-"t": "Concurso público da Mata Santa Genebra encerra inscrições amanhã; salário de R$ 8,9 mil",
-"p": "Concurso da Mata Santa Genebra oferece quatro cargos, com salários de até R$ 8,9 mil; inscrições terminam às 17h",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/economia/concurso-publico-da-mata-santa-genebra-encerra-inscricoes-amanha-salario-de-r-89-mil/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "13:02",
-"t": "Concurso da Transpetro terá novos locais de prova em quatro estados",
-"p": "A Transpetro, empresa subsidiária de logística da Petrobras, informou que aumentou de 33 para 52 o número de cidades que vão receber candidatos para fazer provas do concurso público de seleção de novos funcionários. A mudança ocorre nos estados da Bahia, do Espírito Santo, Rio de Janeiro e de São Paulo. A data da…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/concurso-da-transpetro-tera-novos-locais-de-prova-em-quatro-estados",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "13:00",
-"t": "IPVA 2027: veja carros usados que ficam livres do imposto",
-"p": "Em São Paulo, modelos com 20 anos ou mais de fabricação são isentos do tributo, mas diretriz varia conforme o Estado em que o automóvel está registrado",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368040/ipva-2027-veja-carros-usados-que-ficam-livres-do-imposto",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:56",
-"t": "Silvana Souza apresenta livro no Festival Literário de São Vicente",
-"p": "Autora apresenta o livro “No Vai e Vem dos Litorais – Histórias Existenciais” durante a programação desta sexta-feira (13) e sábado (14)",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Vicente"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/etc/silvana-souza-apresenta-livro-no-festival-literario-de-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:51",
-"t": "Congresso prorroga por 60 dias MP que proíbe bets no país",
-"p": "Instituída em setembro deste ano, a MP determinou o encerramento das operações das plataformas de apostas on-line no Brasil e estabeleceu regras para a devolução dos valores mantidos pelos apostadores nas contas das empresas.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Boqnews",
-"u": "https://www.boqnews.com/nacional/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:50",
-"t": "SP Águas abre primeiro concurso público com 190 vagas e salários de até R$ 12 mil; inscrições começam em novembro",
-"p": "A Agência de Águas do Estado de São Paulo (SP Águas) publicou o edital de seu primeiro concurso público, com 190 vagas para profissionais com ensino superior. Os salários iniciais variam de R$ 10.366 a R$ 12.070, além de benefícios. As inscrições começam na próxima terça-feira (17/11). Vinculada à Secretaria de…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/sp-aguas-abre-primeiro-concurso-publico-com-190-vagas-e-salarios-de-ate-r-12-mil-inscricoes-comecam-em-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:50",
-"t": "Prefeitura de Santos anuncia nova passarela no Canal 4 e novas obras de contenção na orla após estragos provocados por ressacas",
-"p": "A Prefeitura de Santos anunciou uma série de obras e reformas para recuperar os estragos provocados pelas ressacas e pela elevação do nível do mar na orla da cidade. As intervenções foram detalhadas pelo prefeito Rogério Santos em um vídeo publicado nesta quarta-feira (11) e incluem a reconstrução de passarelas, a…",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/prefeitura-de-santos-anuncia-nova-passarela-no-canal-4-e-novas-obras-de-contencao-na-orla-apos-estragos-provocados-por-ressacas/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:47",
-"t": "RD Saúde lança projeto-piloto de coleta de canetas injetáveis em 10 farmácias de SP",
-"p": "",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368151/rd-saude-lanca-projeto-piloto-de-coleta-de-canetas-injetaveis-em-10-farmacias-de-sp",
 "auto": true
 }
 ]

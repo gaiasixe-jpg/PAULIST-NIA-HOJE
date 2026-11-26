@@ -3,6 +3,158 @@
 "itens": [
 {
 "d": "2026-11-26",
+"h": "19:00",
+"t": "Cobra mais pesada do mundo, sucuri-verde é flagrada devorando pássaro durante passeio de guia em fazenda no interior de Mato Grosso do Sul",
+"p": "Uma caminhada no fim da tarde em uma fazenda de Ribas do Rio Pardo, em Mato Grosso do Sul, terminou com um encontro inesperado com duas sucuris. Uma delas estava enrolada em um pássaro, enquanto a outra foi encontrada em uma poça d’água. A cena foi registrada pelo guia e influenciador de aventura Roger Regis. […]",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/cobra-mais-pesada-do-mundo-sucuri-verde-e-flagrada-devorando-passaro-durante-passeio-de-guia-em-fazenda-no-interior-de-mato-grosso-do-sul/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:46",
+"t": "Nomeação de Tarcísio afasta Ivan Silva da cadeira de deputado estadual",
+"p": "Governador anuncia manutenção de Claudia Carletto na Pasta de Esportes, antes especulada para o Podemos",
+"tema": "Política",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370973/nomeacao-de-tarcisio-afasta-ivan-silva-da-cadeira-de-deputado-estadual",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:36",
+"t": "Governo de SP envia ajuda humanitária a famílias atingidas pelas chuvas em Sumaré",
+"p": "A Defesa Civil do Estado e o Fundo Social de SP enviaram, na manhã desta quinta-feira (26), ajuda humanitária a Sumaré, na região de Campinas, para atender 280 famílias atingidas pelas fortes chuvas. De acordo com a prefeitura, os temporais registrados na quarta-feira (25) provocaram alagamentos em cinco bairros do…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Campinas",
+"Sumaré"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-envia-ajuda-humanitaria-a-familias-atingidas-pelas-chuvas-em-sumare/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:35",
+"t": "Chegada da água tratada melhora atendimento a turistas do Caminho da Fé e beneficia comércio rural em São Bento do Sapucaí",
+"p": "A chegada da água tratada ao bairro rural do Cantagalo, em São Bento do Sapucaí, no interior paulista, transforma a rotina de moradores e comerciantes da comunidade. Para Valter Ricardo de Carvalho, proprietário de um bar e de uma pousada na região, a implantação do sistema representa uma melhoria importante para o…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São Bento do Sapucaí"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/chegada-da-agua-tratada-melhora-atendimento-a-turistas-do-caminho-da-fe-e-beneficia-comercio-rural-em-sao-bento-do-sapucai/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:35",
+"t": "Governo de SP envia 850 refeições do Bom Prato a cidades atingidas pelas chuvas na região de Campinas",
+"p": "O Programa Bom Prato, da Secretaria de Desenvolvimento Social do Estado de São Paulo (SEDS), começou a entregar na quarta-feira (25) 850 marmitas gratuitas a Sumaré, Nova Odessa e Monte Mor, atingidas pelas fortes chuvas dos últimos dias. Sumaré recebeu 600 refeições e Nova Odessa, 170. Monte Mor recebe 80 entre…",
+"tema": "Meio ambiente",
+"s": "entregue",
+"c": [
+"Nova Odessa",
+"Monte Mor",
+"Campinas",
+"Sumaré"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-envia-850-refeicoes-do-bom-prato-a-cidades-atingidas-pelas-chuvas-na-regiao-de-campinas/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:33",
+"t": "Câmara de Diadema aprova contas de Filippi em decisão contrária ao TCE-SP",
+"p": "Foram 19 votos favoráveis à aprovação da prestação de contas e 2 contrários, apesar de a Corte ter mantido parecer desfavorável à gestão financeira",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370971/camara-de-diadema-aprova-contas-de-filippi-em-decisao-contraria-ao-tce-sp",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:19",
+"t": "Qual o estado de saúde de Bolsonaro? Veja o novo boletim médico",
+"p": "Jair Bolsonaro segue internado na UTI com obstrução intestinal e pneumonia. Veja o boletim médico, os sinais de melhora e quando ele poderá ter alta",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/qual-o-estado-de-saude-de-bolsonaro-veja-o-novo-boletim-medico/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:15",
+"t": "Três praias de Guarujá representam risco à saúde de banhistas, aponta Cetesb",
+"p": "Boletim divulgado nesta quinta (26) aponta pontos impróprios nas praias de Astúrias, Enseada e Perequê; nova atualização sai na quinta (3)",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/tres-praias-de-guaruja-representam-risco-a-saude-de-banhistas-aponta-cetesb.html",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:04",
+"t": "TCU recomenda suspender compra de R$ 5,8 milhões em tablets pela Câmara",
+"p": "Tribunal de Contas da União sugeriu que licitação seja interrompida após representação feita pelo deputado estadual Leo Siqueira (Novo)",
+"tema": "Investimentos",
+"s": "obra",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tcu-recomenda-suspender-compra-de-r-58-milhoes-em-tablets-pela-camara",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:02",
+"t": "HBO Max: confira 5 filmes e séries que chegam ao catálogo em dezembro",
+"p": "Dezembro chega com uma programação pensada para aproveitar os últimos dias de 2026. A HBO Max reúne no período histórias de amor, investigações cheias de suspense, comédias inusitadas e transformações que inspiram mudanças no dia a dia, além de um dos lançamentos mais esperados do ano. Entre continuações de séries…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/hbo-max-confira-5-filmes-e-series-que-chegam-ao-catalogo-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:56",
+"t": "Ensino superior tem evasão de 69% no EaD e 60% no presencial, aponta censo",
+"p": "Levantamento também aponta recorde de estudantes matriculados em cursos de graduação no Brasil em 2025",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/educacao/ensino-superior-registra-evasao-de-69-no-ead-e-60-no-presencial-aponta-censo/",
+"auto": true
+},
+{
+"d": "2026-11-26",
 "h": "17:50",
 "t": "Chuvas intensas: saiba como evitar problemas na rede de esgoto em Jundiaí",
 "p": "Foto: DAE Jundiaí DAE Jundiaí intensifica trabalhos preventivos e alerta sobre o descarte inadequado de resíduos e a importância da separação das redes de esgoto e águas pluviais.",
@@ -25,6 +177,18 @@
 "c": [],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/criminosos-usam-dormente-nos-trilhos-da-linha-8-para-realizar-assaltos",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:45",
+"t": "Aos 90 anos, Dedé Santana mantém mansão de 27 cômodos avaliada em R$ 3,4 milhões, trabalha em circos e recebe ajuda de Renato Aragão com plano de saúde",
+"p": "Uma propriedade com 27 cômodos, avaliada em aproximadamente R$ 3,4 milhões, chama atenção pelo tamanho e pela história de seu proprietário. Aos 90 anos, Dedé Santana, conhecido pelo sucesso em Os Trapalhões, mantém uma mansão na Praia de Cabeçudas, em Itajaí, Santa Catarina, mesmo depois de enfrentar dificuldades…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/aos-90-anos-dede-santana-mantem-mansao-de-27-comodos-avaliada-em-r-34-milhoes-trabalha-em-circos-e-recebe-ajuda-de-renato-aragao-com-plano-de-saude/",
 "auto": true
 },
 {
@@ -93,6 +257,18 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/centro-de-jundiai-horario-estendido-no-comercio-natal/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:08",
+"t": "Falsas promessas de cidadania italiana na Black Friday acendem alerta para golpes que podem causar prejuízos de R$ 30 mil; saiba como se proteger",
+"p": "Com a chegada da Black Friday, nesta sexta-feira (27), brasileiros interessados em obter a cidadania italiana precisam redobrar a atenção diante de ofertas que prometem processos rápidos, descontos elevados e aprovação garantida. Embora condições especiais de pagamento possam parecer vantajosas, algumas propostas…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/turismo/falsas-promessas-de-cidadania-italiana-na-black-friday-acendem-alerta-para-golpes-que-podem-causar-prejuizos-de-r-30-mil-saiba-como-se-proteger/",
 "auto": true
 },
 {
