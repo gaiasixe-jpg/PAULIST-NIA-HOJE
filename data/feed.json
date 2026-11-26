@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-26T16:08:21-03:00",
-"novos_nesta_coleta": 55,
+"atualizado": "2026-11-26T17:13:34-03:00",
+"novos_nesta_coleta": 27,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -18,7 +18,6 @@
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
-"Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
 "Jornal Ita News",
@@ -44,9 +43,213 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Boqnews",
+"erro": "XML or text declaration not at start of entity: line 2, column 0"
 }
 ],
 "itens": [
+{
+"d": "2026-11-26",
+"h": "17:04",
+"t": "MP investiga Estado em caso de professor suspeito de abuso em escola de Ribeirão Preto; entenda",
+"p": "MP quer apurar se o Estado falhou na seleção e fiscalização de profissionais da rede estadual",
+"tema": "Educação",
+"s": "alerta",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/mp-investiga-estado-em-caso-de-professor-suspeito-de-abuso-em-escola-de-ribeirao-preto-entenda/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:02",
+"t": "5 cuidados para preparar uma estratégia comercial em períodos de grandes promoções",
+"p": "Datas promocionais costumam concentrar grandes expectativas de venda, mas nem sempre o aumento do volume de compras significa um resultado melhor para as empresas. Descontos elevados, investimentos em campanhas e dificuldades na execução das ofertas podem comprometer a margem e reduzir o retorno esperado. Por isso,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/5-cuidados-para-preparar-uma-estrategia-comercial-em-periodos-de-grandes-promocoes/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:01",
+"t": "Pecuarista perde 20 bois, acumula dívida de R$ 294 mil e vence Banco do Brasil na Justiça para alongar débito rural no Pará",
+"p": "Pecuarista perde 20 bois, acumula dívida de R$ 294 mil e consegue decisão favorável contra o Banco do Brasil para alongar pagamento no Pará.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/nacional/pecuarista-perde-20-bois-acumula-divida-de-r-294-mil-e-vence-banco-do-brasil-na-justica-para-alongar-debito-rural-no-para/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "17:00",
+"t": "Obras de recapeamento avançam no Jardim Uirapuru e fecham serviços de novembro em Fernandópolis",
+"p": "A Prefeitura de Fernandópolis, por meio da Secretaria Municipal de Obras, deu sequência nesta quinta-feira (26) às frentes de recapeamento asfáltico na cidade. Uma equipe conclui ajustes finais no Jardim Paraíso, enquanto outra frente atua no Jardim Uirapuru, com início pela Rua Aicás e previsão de avançar pelas…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/obras-de-recapeamento-avancam-no-jardim-uirapuru-e-fecham-servicos-de-novembro-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:56",
+"t": "Vai chover no fim de semana? Veja a previsão do tempo para todo o estado de SP",
+"p": "Meteorologia indica pancadas fortes, trovoadas e acumulados elevados de água entre sexta-feira (27) e segunda (30); veja a previsão do tempo",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/vai-chover-no-fim-de-semana-veja-a-previsao-do-tempo-para-todo-o-estado-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:55",
+"t": "Câmara discute flexibilizar Psiu e regras especiais para shows e igrejas",
+"p": "Nova versão prevê multas para casas que causarem perturbação do sossego e retira poluição sonora gerada por obras. Projeto ainda será votado",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/camara-discute-flexibilizar-psiu-e-regras-especiais-para-shows-e-igrejas",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:52",
+"t": "Hamburgada do Bem atende 600 crianças de escola municipal em Praia Grande neste sábado",
+"p": "Ação social chega pela terceira vez ao município e oferece alimentação, atividades recreativas e atendimento odontológico aos alunos da EM Thereza Magri",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/praiagrande/hamburgada-do-bem-atende-600-criancas-de-escola-municipal-em-praia-grande-neste-sabado.html",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:48",
+"t": "Por que limpar sua vida digital se tornou a melhor defesa contra fraudes modernas",
+"p": "Nós somos acumuladores digitais compulsivos. Durante a última década, distribuímos dados pessoais como se fossem panfletos em dia de eleição",
+"tema": "Eleições",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/por-que-limpar-sua-vida-digital-se-tornou-a-melhor-defesa-contra-fraudes-modernas/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:48",
+"t": "Tarcísio de Freitas mantém Renato Feder como secretário de Educação de São Paulo",
+"p": "Marcelo Camargo/Agência Brasil O governador Tarcísio de Freitas anunciou que manterá Renato Feder à frente da Secretaria de Educação do estado na sua próxima gestão.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/geral/tarcisio-de-freitas-mantem-renato-feder-como-secretario-de-educacao-de-sao-paulo/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:39",
+"t": "Saae/Sorocaba realiza palestra para servidores alusiva ao Novembro Azul",
+"p": "O Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba realizou, nesta quinta-feira (26), palestra direcionada aos funcionários da autarquia, no auditório do Centro Operacional da autarquia. O tema abordado foi a saúde do homem e prevenção ao câncer de próstata, em alusão ao mês da campanha Novembro Azul. A…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/saae-sorocaba-realiza-palestra-para-servidores-alusiva-ao-novembro-azul-2/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:30",
+"t": "IPVA 2027 terá desconto de 15% para quem pagar à vista até dezembro; alíquotas também serão reduzidas",
+"p": "Motoristas de Mato Grosso do Sul poderão garantir 15% de desconto no IPVA 2027 caso façam o pagamento à vista até 28 de dezembro de 2026. A antecipação do calendário foi definida por uma nova lei sancionada pelo governador Eduardo Riedel (PP) nesta quinta-feira (26/11). A medida, aprovada pela Assembleia…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/ipva-2027-tera-desconto-de-15-para-quem-pagar-a-vista-ate-dezembro-aliquotas-tambem-serao-reduzidas/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:27",
+"t": "Além do Outubro Rosa: Cajamar mantém oferta de mamografias até o fim do ano",
+"p": "Foto: Prefeitura de Cajamar Cajamar mantém a realização de mamografias sem agendamento ou encaminhamento médico até o fim de dezembro.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Cajamar"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/cajamar/mamografia-sem-agendamento-cajamar/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:23",
+"t": "Seus bifes ficam cheios de água na frigideira? Açougueira ensina técnica simples com a própria gordura da carne para deixá-los dourados",
+"p": "A temperatura correta da panela e alguns cuidados durante o cozimento fazem diferença no resultado final da receita",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/seus-bifes-ficam-cheios-de-agua-na-frigideira-acougueira-ensina-tecnica-simples-com-a-propria-gordura-da-carne-para-deixa-los-dourados/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:23",
+"t": "Mais de 20 mil candidatos são aprovados na prova prática, mas nova regra impede a emissão da primeira CNH em seis estados; entenda o motivo",
+"p": "A aprovação na prova prática de direção nem sempre significa que o candidato poderá finalmente receber a Carteira Nacional de Habilitação (CNH). Uma nova exigência do Código de Trânsito Brasileiro (CTB) está impedindo milhares de brasileiros de concluir o processo, mesmo depois de serem aprovados nos exames de…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/mais-de-20-mil-candidatos-sao-aprovados-na-prova-pratica-mas-nova-regra-impede-a-emissao-da-primeira-cnh-em-seis-estados-entenda-o-motivo/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "16:16",
+"t": "Conselho Municipal de Saúde de Fernandópolis aprova moções de aplausos para 32 profissionais e equipes",
+"p": "O Conselho Municipal de Saúde de Fernandópolis aprovou a concessão de moções de aplausos para 32 profissionais e equipes que atuam na rede local e regional de saúde, em reconhecimento ao trabalho desempenhado no atendimento à população. A deliberação ocorreu durante a 19ª reunião ordinária de 2026, realizada em 12…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/conselho-municipal-de-saude-de-fernandopolis-aprova-mocoes-de-aplausos-para-32-profissionais-e-equipes/",
+"auto": true
+},
 {
 "d": "2026-11-26",
 "h": "16:02",
@@ -3243,6 +3446,76 @@
 ],
 "src": "Prefeitura de Presidente Prudente",
 "u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67814",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "00:00",
+"t": "Após 4 anos, educação de Prudente cumpre todas condicionalidades e volta a receber o VAAR",
+"p": "",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67819",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "00:00",
+"t": "Prefeitura inicia mutirão de limpeza contra a dengue nas zonas Norte e Leste",
+"p": "",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67818",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "00:00",
+"t": "Prefeitura de Prudente promove palestra gratuita para boxistas do Shopping Popular",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67817",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "00:00",
+"t": "Prudente recebe Jornada do Empreendedorismo nesta segunda-feira",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67816",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "00:00",
+"t": "Com todas as vagas preenchidas, Fundo Social inicia curso de confecção de bijuterias",
+"p": "",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente"
+],
+"src": "Prefeitura de Presidente Prudente",
+"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67815",
 "auto": true
 },
 {
@@ -54815,277 +55088,6 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/maisnoticias/servicos-sao-normalizados-mas-pagamentos-seguem-sob-atencao-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:24",
-"t": "Exposição “Dia da Música – A música que nos move” é atração gratuita na Biblioteca Municipal de Sorocaba",
-"p": "A população sorocabana poderá conferir, a partir desta quarta-feira (11), a exposição “Dia da Música – A música que nos move”, na Biblioteca Municipal “Jorge Guilherme Senger”. A mostra gratuita celebra o Dia da Música e do Músico (22 de novembro), reunindo instrumentos musicais, discos de vinil e livros que…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/exposicao-dia-da-musica-a-musica-que-nos-move-e-atracao-gratuita-na-biblioteca-municipal-de-sorocaba/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:20",
-"t": "Justiça determina medidas cautelares contra influencer que filmou FHC",
-"p": "Wesley Oliveira, influencer e jornalista, não poderá se aproximar do ex-presidente FHC e deve apagar tudo que já foi publicado sobre o caso",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/justica-determina-medidas-cautelares-contra-influencer-que-filmou-fhc",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:17",
-"t": "Problemas técnicos suspendem atendimento do Procon no Campolim",
-"p": "Em razão de problemas técnicos, o Procon Sorocaba suspendeu nesta quarta-feira (11) os atendimentos presenciais em sua sede, localizada na Avenida Antônio Carlos Comitre, 331, Parque Campolim. Os serviços seguem normalmente no Procon Móvel, que permanece até as 13h, no Terminal São Paulo, no Centro; e nas Casas do…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/problemas-tecnicos-suspendem-atendimento-do-procon-no-campolim-2/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:16",
-"t": "IBGE abre concurso com 79 vagas na Baixada Santista e no Vale do Ribeira",
-"p": "Oportunidades são para recenseadores, com salário de R$1.741 e auxílio-alimentação de R$1.192; inscrições seguem até 25 de novembro",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Ribeira"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ibge-abre-concurso-com-79-vagas-na-baixada-santista-e-no-vale-do-ribeira.html",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:14",
-"t": "Homem armado com faca invade supermercado e mobiliza PM em Votuporanga",
-"p": "Funcionários contiveram o suspeito dentro de uma câmara fria até a chegada da Polícia Militar; caso ocorreu na manhã desta quarta-feira (11) em um estabelecimento localizado na Rua das Américas. Momentos de tensão foram registrados na manhã desta quarta-feira (11.nov) em um supermercado localizado na Rua das…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/homem-armado-com-faca-invade-supermercado-e-mobiliza-pm-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:11",
-"t": "Marília inclui cuidadores de pessoas com deficiência na fila prioritária da habitação",
-"p": "Nova lei também contempla pais, mães e tutores. Candidatos precisam apresentar laudo médico e cumprir os requisitos do programa.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-inclui-cuidadores-de-pessoas-com-deficiencia-na-fila-prioritaria-da-habitacao/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:02",
-"t": "Operação busca maior devedor de impostos do Brasil e mira esquema bilionário de fraude fiscal",
-"p": "O Ministério Público do Rio de Janeiro (MPRJ) deflagrou, na manhã desta quarta-feira (11), uma operação para prender o empresário Ricardo Andrade Magro, controlador do Grupo Refit, apontado como um dos maiores devedores de impostos do Brasil. A ação, batizada de Operação Charon, investiga um esquema bilionário de…",
-"tema": "Contas públicas",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/operacao-busca-maior-devedor-de-impostos-do-brasil-e-mira-esquema-bilionario-de-fraude-fiscal/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "12:00",
-"t": "Solidariedade comunitária reforça acolhimento a pessoas em situação de rua no CREAS de Fernandópolis",
-"p": "A parceria entre a comunidade e o poder público ganhou mais um capítulo positivo no atendimento a indivíduos em situação de vulnerabilidade. Nesta semana, o Centro de Referência Especializado de Assistência Social (CREAS) recebeu uma nova doação de kits de higiene pessoal enviada por um morador local que optou por…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/solidariedade-comunitaria-reforca-acolhimento-a-pessoas-em-situacao-de-rua-no-creas-de-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:59",
-"t": "Congresso prorroga MP que proíbe bets por mais 60 dias",
-"p": "Com a prorrogação, a proibição segue em vigor até 5 de março de 2027; texto ainda precisa de deliberação de deputados e senadores",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/congresso-prorroga-mp-que-proibe-bets-por-mais-60-dias/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:58",
-"t": "Saúde de Jales reúne secretarias para alinhar plano de combate à dengue e controle de escorpiões",
-"p": "A Secretaria Municipal de Saúde de Jales, por meio da Vigilância Epidemiológica, promoveu na manhã de terça-feira (10) a Segunda Reunião Ordinária da Sala de Situação das Arboviroses. O encontro reuniu a secretária da pasta, Nilva Gomes Rodrigues de Souza, a diretora de Vigilância em Saúde, Patrícia Albarelo, além…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jales"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/saude-de-jales-reune-secretarias-para-alinhar-plano-de-combate-a-dengue-e-controle-de-escorpioes/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:56",
-"t": "Mostra Estudantil de Teatro de Fernandópolis apresenta releitura bem-humorada de Cinderela nesta quarta-feira",
-"p": "A 29ª Mostra Estudantil de Teatro de Fernandópolis continua movimentando a cena cultural da cidade com atrações voltadas para o público infantojuvenil. Após o Teatro Municipal registrar grande público na terça-feira com a adaptação do clássico “O Pequeno Príncipe”, encenada pelo Colégio Incentivo COC, a programação…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/mostra-estudantil-de-teatro-de-fernandopolis-apresenta-releitura-bem-humorada-de-cinderela-nesta-quarta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:52",
-"t": "Homem armado com faca invade supermercado e se tranca em câmara fria em Votuporanga",
-"p": "A invasão de um homem armado com uma faca mobilizou funcionários e equipes da Polícia Militar na manhã desta quarta-feira (11), em um supermercado localizado na Rua das Américas, em Votuporanga. O suspeito, que aparentava estar desorientado e visivelmente machucado, acabou contido após se trancar na câmara fria do…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-armado-com-faca-invade-supermercado-e-se-tranca-em-camara-fria-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:46",
-"t": "Vigilante espanca catador de recicláveis e vítima entra em coma",
-"p": "Um catador de recicláveis de 32 anos está internado em estado grave e em coma induzido após ser brutalmente agredido por um vigilante de 40 anos em uma rua movimentada de Birigui, no interior de São Paulo. O crime, ocorrido em plena luz do dia, passou a ser investigado pela Polícia Civil após o pai […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Birigui"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/vigilante-espanca-catador-de-reciclaveis-e-vitima-entra-em-coma/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:45",
-"t": "Havan leva carreata de Natal a 36 cidades do Brasil com caminhões iluminados, Papai Noel e atrações especiais até 20 de dezembro nas ruas",
-"p": "A Havan inicia neste domingo, 15 de novembro, sua tradicional carreata de Natal, com passagem por 36 cidades de Santa Catarina e do Rio Grande do Sul. A programação terá três caminhões decorados com milhares de luzes, música natalina, neve artificial e a presença do Papai Noel. A ação seguirá até 20 de dezembro e […]",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/havan-leva-carreata-de-natal-a-36-cidades-do-brasil-com-caminhoes-iluminados-papai-noel-e-atracoes-especiais-ate-20-de-dezembro-nas-ruas/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:45",
-"t": "Bebê sol de Teletubbies, agora adulto, revela cachê e conta como uma consulta de rotina a levou à série que marcou gerações na TV",
-"p": "Antes de se tornar o Bebê do Sol de Teletubbies, Jess Smith era uma bebê de nove meses sorridente, acompanhada pela mãe em uma consulta de rotina. Naquele dia, funcionários do hospital receberam um pedido da equipe de produção: indicar crianças para uma nova série infantil. A mãe de Jess concordou em encaminhar o…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/bebe-sol-de-teletubbies-agora-adulto-revela-cache-e-conta-como-uma-consulta-de-rotina-a-levou-a-serie-que-marcou-geracoes-na-tv/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:45",
-"t": "Homem é preso após furtar cobre de ar-condicionado e tentar esfaquear guardas em UPA",
-"p": "Um homem foi preso em flagrante pela Guarda Civil Municipal (GCM) na tarde desta terça-feira (10), suspeito de furto qualificado na Unidade de Pronto Atendimento (UPA) Santo Antônio, em São José do Rio Preto. O indivíduo foi detido logo após arrancar e furtar componentes de cobre do sistema de ar-condicionado…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/homem-e-preso-apos-furtar-cobre-de-ar-condicionado-e-tentar-esfaquear-guardas-em-upa/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:45",
-"t": "Vira-lata caramelo que vivia em garagem de ônibus é contratado pela empresa, ganha crachá e passa a cumprir jornada como funcionário",
-"p": "Um vira-lata caramelo conquistou os funcionários e passageiros de uma empresa de ônibus em Uberlândia, no Triângulo Mineiro, e ganhou até crachá de identificação. Conhecido como Mixaria, o cachorro passou a fazer parte da rotina da Viação Sorriso de Minas e tem uma jornada que chama a atenção pela pontualidade.…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/brasil/vira-lata-caramelo-que-vivia-em-garagem-de-onibus-e-contratado-pela-empresa-ganha-cracha-e-passa-a-cumprir-jornada-como-funcionario/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:43",
-"t": "Bairros da zona Sul de Ribeirão Preto podem ficar sem água até o fim da tarde; Veja quais",
-"p": "Bairros da zona Sul da cidade têm alerta para falta d'água nesta quarta (11), devido a um reparo na rede de abastecimento na rua Rubens Ubida",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/bairros-da-zona-sul-de-ribeirao-preto-podem-ficar-sem-agua-ate-o-fim-da-tarde-veja-quais/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:33",
-"t": "Pedranópolis define para fevereiro de 2027, almoço e leilão em prol da Santa Casa de Fernandópolis",
-"p": "A Prefeitura de Pedranópolis realizará, no dia 06 de fevereiro de 2027, um almoço e leilão beneficente com 100% da renda revertida para a Santa Casa de Fernandópolis. A confirmação da data foi oficializada pelo prefeito Fausto Rosa após reunião com o diretor de marketing da instituição, Cleber Rocha. Toda a…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis",
-"Pedranópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/pedranopolis-define-para-fevereiro-de-2027-almoco-e-leilao-em-prol-da-santa-casa-de-fernandopolis/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "11:32",
-"t": "Longevidade masculina: saúde é essencial para envelhecer bem",
-"p": "Especialista Maristela Ferreira destaca a importância da atividade física, dos cuidados com a saúde e da qualidade de vida para viver mais e melhor.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/conteudo-patrocinado/momento-da-familia/longevidade-masculina-saude-e-essencial-para-envelhecer-bem/",
 "auto": true
 }
 ]
