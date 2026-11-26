@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T22:26:44-03:00",
-"novos_nesta_coleta": 16,
+"atualizado": "2026-11-26T00:03:33-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,98 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-25",
+"h": "23:22",
+"t": "Veículo pega fogo perto do Cristo em Meridiano e ninguém fica ferido",
+"p": "Um veículo pegou fogo na noite desta quarta-feira, 25 de novembro, na Avenida Tadao Tobita, nas proximidades do Cristo, em Meridiano. A Defesa Civil foi acionada por volta das 21h20 para atender à ocorrência. Quando a equipe chegou ao local, as chamas já haviam se espalhado por grande parte do automóvel. Apesar da…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Meridiano"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/veiculo-pega-fogo-perto-do-cristo-em-meridiano-e-ninguem-fica-ferido/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "23:00",
+"t": "Woody Harrelson e Matthew McConaughey estrelam série que brinca com teoria de que os dois são irmãos de verdade",
+"p": "Desde que trabalharam juntos no filme “EDtv” (1999), os atores estadunidenses Woody Harrelson e Matthew McConaughey se tornaram grandes amigos. Na primeira temporada de “True Detective”, série policial da HBO, os dois viveram uma parceria icônica como os detetives Rust Cohle e Martin Hart. Na nova série original da…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/woody-harrelson-e-matthew-mcconaughey-estrelam-serie-que-brinca-com-teoria-de-que-os-dois-sao-irmaos-de-verdade/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:57",
+"t": "Oposição obstrui sessão e Câmara vota só dois projetos em sessão de 4 horas",
+"p": "Vereadores da oposição usaram o maior número possível de tempo de discurso para adiar pauta da Câmara, após convocação de sessão extra para votar reforma da Previdência",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/oposicao-obstrui-sessao-e-camara-vota-so-dois-projetos-em-sessao-de-4-horas/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:52",
+"t": "Marcos da Farmácia vê restrições com federação entre PSB e PDT",
+"p": "Vereador de Santo André avalia que união pode dificultar candidaturas",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370800/marcos-da-farmacia-ve-restricoes-com-federacao-entre-psb-e-pdt",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:32",
+"t": "Vigilância Sanitária descarta risco à qualidade da água em cidades de SP",
+"p": "Após estudo apontar bactérias, levantamento não identificou surtos ativos de transmissão hídrica nos cerca de 70 municípios mencionados",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/vigilancia-sanitaria-descarta-risco-a-qualidade-da-agua-em-cidades-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:23",
+"t": "Novembro Azul em Santos reúne treino de alta intensidade, pilates e conversa com urologista sobre saúde masculina",
+"p": "A Bio Ritmo Santos realiza nesta quinta-feira (26) a segunda edição do Race e Pilates Novembro Azul. A iniciativa reúne aulas de Race Bootcamp e Pilates Solo, seguidas de uma conversa com o urologista Nyander Alex Ramos sobre autocuidado e acompanhamento médico. O encontro começa às 18h30 na unidade da Alameda…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/novembro-azul-em-santos-reune-treino-de-alta-intensidade-pilates-e-conversa-com-urologista/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:17",
+"t": "Aos 81 anos, ex-agricultor que ouviu que papagaio velho não aprende a ler, enche 100 páginas de poemas e sonha com um livro",
+"p": "Aos 81 anos, Francisco Estevão da Silva folheia cadernos manuscritos em que já reuniu cerca de 100 páginas de poemas sobre a seca, a chuva, a política e a vida no Sertão. Natural de Lajes Pintadas, município do interior do Rio Grande do Norte, e morador de Natal, ele escreve à mão, não usa internet […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/aos-81-anos-ex-agricultor-que-ouviu-que-papagaio-velho-nao-aprende-a-ler-enche-100-paginas-de-poemas-e-sonha-com-um-livro/",
+"auto": true
+},
 {
 "d": "2026-11-25",
 "h": "22:01",
@@ -54929,100 +55021,6 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/loja-de-moveis-alega-crise-financeira-e-da-golpe-de-r-55-mil-em-cliente",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:22",
-"t": "Azedou: polícia acha remédios ilegais em caixas de leite; suspeito é preso",
-"p": "Suspeito é dono de uma loja e foi preso em flagrante pelo crime de comércio de medicamentos sem registro administrativo",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/azedou-policia-acha-remedios-ilegais-em-caixas-de-leite-suspeito-e-preso",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:12",
-"t": "Presa admite assassinato de pai de Rony",
-"p": "Divulgação As circunstâncias que levaram ao ataque ainda estão sendo apuradas pela polícia civil",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/esportes/presa-admite-assassinato-de-pai-de-rony/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:12",
-"t": "Câmara Municipal de Várzea Paulista vai apresentar projeto de sua nova sede",
-"p": "Foto: Divulgação/Câmara Municipal de Várzea Paulista Evento aberto à população acontece em 17 de novembro, às 19h, e apresentará a proposta arquitetônica do futuro prédio do Legislativo",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Várzea Paulista"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/camara-varzea-paulista-apresenta-projeto-nova-sede/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:12",
-"t": "Hospital São Vicente alerta pacientes sobre dificuldades para agendar exames em Jundiaí",
-"p": "Foto: Divulgação/ HSV HSV, em Jundiaí, alerta sobre dificuldades no agendamento de exames por telefones desatualizados. Saiba como atualizar seus dados de contato.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/hospital-sao-vicente-jundiai-agendamento-exames/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:12",
-"t": "Mauá cria núcleo para orientar escolas no combate ao racismo",
-"p": "Núcleo oferecerá formação a educadores e suporte pedagógico; centro de referência reunirá materiais e orientações para as escolas municipais",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367940/maua-cria-nucleo-para-orientar-escolas-no-combate-ao-racismo",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:09",
-"t": "Flávio tem direito de disputar Presidência em 2030, diz Tarcísio após admitir possibilidade de concorrer",
-"p": "Douglas Gomes O governador Tarcísio de Freitas afirmou em entrevista que o senador Flávio Bolsonaro tem o direito de se candidatar à Presidência em 2030.",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/flavio-tem-direito-de-disputar-presidencia-em-2030-diz-tarcisio-apos-admitir-possibilidade-de-concorrer/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:05",
-"t": "Prefeitura promove ação de saúde e vacinação para atender 700 adolescentes do Camp Guarujá",
-"p": "Programação inclui palestras sobre cuidados preventivos e aplicação de vacinas, até 16 de novembro, diretamente na instituição",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/guaruja/prefeitura-promove-acao-de-saude-e-vacinacao-para-atender-700-adolescentes-do-camp-guaruja.html",
 "auto": true
 }
 ]

@@ -3,6 +3,98 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "23:22",
+"t": "Veículo pega fogo perto do Cristo em Meridiano e ninguém fica ferido",
+"p": "Um veículo pegou fogo na noite desta quarta-feira, 25 de novembro, na Avenida Tadao Tobita, nas proximidades do Cristo, em Meridiano. A Defesa Civil foi acionada por volta das 21h20 para atender à ocorrência. Quando a equipe chegou ao local, as chamas já haviam se espalhado por grande parte do automóvel. Apesar da…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Meridiano"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/veiculo-pega-fogo-perto-do-cristo-em-meridiano-e-ninguem-fica-ferido/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "23:00",
+"t": "Woody Harrelson e Matthew McConaughey estrelam série que brinca com teoria de que os dois são irmãos de verdade",
+"p": "Desde que trabalharam juntos no filme “EDtv” (1999), os atores estadunidenses Woody Harrelson e Matthew McConaughey se tornaram grandes amigos. Na primeira temporada de “True Detective”, série policial da HBO, os dois viveram uma parceria icônica como os detetives Rust Cohle e Martin Hart. Na nova série original da…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/woody-harrelson-e-matthew-mcconaughey-estrelam-serie-que-brinca-com-teoria-de-que-os-dois-sao-irmaos-de-verdade/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:57",
+"t": "Oposição obstrui sessão e Câmara vota só dois projetos em sessão de 4 horas",
+"p": "Vereadores da oposição usaram o maior número possível de tempo de discurso para adiar pauta da Câmara, após convocação de sessão extra para votar reforma da Previdência",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/oposicao-obstrui-sessao-e-camara-vota-so-dois-projetos-em-sessao-de-4-horas/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:52",
+"t": "Marcos da Farmácia vê restrições com federação entre PSB e PDT",
+"p": "Vereador de Santo André avalia que união pode dificultar candidaturas",
+"tema": "Eleições",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370800/marcos-da-farmacia-ve-restricoes-com-federacao-entre-psb-e-pdt",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:32",
+"t": "Vigilância Sanitária descarta risco à qualidade da água em cidades de SP",
+"p": "Após estudo apontar bactérias, levantamento não identificou surtos ativos de transmissão hídrica nos cerca de 70 municípios mencionados",
+"tema": "Água",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/vigilancia-sanitaria-descarta-risco-a-qualidade-da-agua-em-cidades-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:23",
+"t": "Novembro Azul em Santos reúne treino de alta intensidade, pilates e conversa com urologista sobre saúde masculina",
+"p": "A Bio Ritmo Santos realiza nesta quinta-feira (26) a segunda edição do Race e Pilates Novembro Azul. A iniciativa reúne aulas de Race Bootcamp e Pilates Solo, seguidas de uma conversa com o urologista Nyander Alex Ramos sobre autocuidado e acompanhamento médico. O encontro começa às 18h30 na unidade da Alameda…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/novembro-azul-em-santos-reune-treino-de-alta-intensidade-pilates-e-conversa-com-urologista/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "22:17",
+"t": "Aos 81 anos, ex-agricultor que ouviu que papagaio velho não aprende a ler, enche 100 páginas de poemas e sonha com um livro",
+"p": "Aos 81 anos, Francisco Estevão da Silva folheia cadernos manuscritos em que já reuniu cerca de 100 páginas de poemas sobre a seca, a chuva, a política e a vida no Sertão. Natural de Lajes Pintadas, município do interior do Rio Grande do Norte, e morador de Natal, ele escreve à mão, não usa internet […]",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/aos-81-anos-ex-agricultor-que-ouviu-que-papagaio-velho-nao-aprende-a-ler-enche-100-paginas-de-poemas-e-sonha-com-um-livro/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "22:01",
 "t": "Ciência política: o que Fernando Haddad vai lecionar na USP em 2027",
 "p": "O ex-ministro da Fazenda voltará a dar aulas na USP em 2027 e não participará, neste primeiro momento, do novo governo do presidente Lula",
