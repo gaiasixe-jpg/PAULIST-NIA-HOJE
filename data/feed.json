@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-26T00:03:33-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-26T01:11:56-03:00",
+"novos_nesta_coleta": 12,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,76 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-26",
+"h": "01:03",
+"t": "Onça-parda é encontrada em galinheiro após matar ave e mobiliza resgate no interior de SP",
+"p": "Onça-parda é encontrada em galinheiro após matar galinha e mobiliza resgate em Araçatuba (SP) Polícia Ambiental/Divulgação Uma onça-parda foi encontrada dentro de um galinheiro em um sítio no bairro Água Limpa, em Araçatuba (SP), na terça-feira (24). O animal precisou ser sedado e capturado antes de ser levado para…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/onca-parda-e-encontrada-em-galinheiro-apos-matar-ave-e-mobiliza-resgate-no-interior-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "01:03",
+"t": "Leilão em Rio Preto tem caminhão dos bombeiros dos anos 90 e carros e motos a partir de R$ 1,2 mil; veja lista",
+"p": "Leilão tem caminhão do corpo de bombeiros dos anos 90 em São José do Rio Preto (SP) Governo de SP/Divulgação O governo de São Paulo realiza, a partir do dia 9 de dezembro, um leilão eletrônico com 515 veículos em São José do Rio Preto (SP). O leilão oferece 492 veículos conservados, que são aptos […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/leilao-em-rio-preto-tem-caminhao-dos-bombeiros-dos-anos-90-e-carros-e-motos-a-partir-de-r-12-mil-veja-lista/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "01:03",
+"t": "PRF apreende 540 kg de agrotóxicos transportados como fertilizantes em Rio Preto",
+"p": "Mais de 500 quilos de agrotóxicos, transportados como fertilizantes, sem a respectiva documentação legal, foram apreendidos em caminhonete, na terça (24), em São José do Rio Preto (SP) Polícia Rodoviária Federal/Reprodução Dois homens, de 46 e 57 anos, foram presos em flagrante após a apreensão de 540 quilos de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prf-apreende-540-kg-de-agrotoxicos-transportados-como-fertilizantes-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "01:03",
+"t": "Polícia investiga morte de funcionário desaparecido encontrado no carro de empresa de telefonia em Rio Preto",
+"p": "Caso foi registrado no Plantão Policial de Rio Preto TV TEM/Arquivo A Polícia Civil investiga a morte de um funcionário de 55 anos de uma empresa de telefonia que foi encontrado dentro do carro de trabalho na manhã desta quarta-feira (25), em uma área de mata na Avenida Nadima Damha, no bairro Residencial Jardins,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-investiga-morte-de-funcionario-desaparecido-encontrado-no-carro-de-empresa-de-telefonia-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "01:02",
+"t": "Vai ao cinema? Confira 5 filmes que estreiam nesta quinta-feira",
+"p": "A programação de cinema desta quinta-feira, 26 de novembro, reúne histórias para diferentes gostos. Uma adolescente descobre um universo mágico, uma família enfrenta novos conflitos amorosos e uma mulher questiona as próprias convicções. Entre animações, comédias, romances e documentários, essas produções convidam…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/vai-ao-cinema-confira-5-filmes-que-estreiam-nesta-quinta-feira/",
+"auto": true
+},
 {
 "d": "2026-11-25",
 "h": "23:22",
@@ -54952,75 +55022,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/cotidiano/senado-abre-licitacao-de-r-6-milhoes-para-renovar-celulares-com-modelos-de-luxo-como-o-iphone-18-pro-e-ampliacao-do-pacote-de-internet/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:48",
-"t": "Ribeirão Pires terá troca de PET por ração e vacinação gratuita",
-"p": "Projeto Tigela Cheia será realizado das 9h às 14h, no Paço Municipal, com limite de três quilos de ração por CPF e feira de adoção",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4367946/ribeirao-pires-tera-troca-de-pet-por-racao-e-vacinacao-gratuita",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:47",
-"t": "Porto de Santos investiga possível ataque hacker e ativa plano de contingência; veja como ficam cargas, navios e serviços",
-"p": "O Porto de Santos, no litoral de São Paulo, investiga uma possível invasão de seus sistemas digitais e colocou em prática um plano de contingência para manter os serviços. A indisponibilidade das plataformas pode provocar lentidão em processos administrativos, mas a Autoridade Portuária de Santos (APS) afirma que a…",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"São Paulo",
-"Santos"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/porto-de-santos-investiga-possivel-ataque-hacker-e-ativa-plano-de-contingencia-veja-como-ficam-cargas-navios-e-servicos/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:46",
-"t": "Tarcísio afirma que Flávio Bolsonaro tem direito de disputar o Planalto em 2030",
-"p": "O governador de São Paulo, Tarcísio de Freitas, declarou nesta terça-feira (10) que o senador Flávio Bolsonaro tem todo o direito de figurar entre os nomes para a disputa da Presidência da República em 2030. No entanto, o chefe do Executivo paulista ponderou que o debate sobre a sucessão nacional ainda é prematuro…",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/tarcisio-afirma-que-flavio-bolsonaro-tem-direito-de-disputar-o-planalto-em-2030/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:40",
-"t": "Mulher é acusada de agredir filhas em condomínio na zona leste",
-"p": "PM prendeu suspeitos de tráfico de drogas Polícia Militar foi acionada após o ex-marido da acusada receber vídeos e mensagens de socorro enviados por suas filhas.",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/mulher-e-acusada-de-agredir-filhas-em-condominio-na-zona-leste-de-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:37",
-"t": "Loja de móveis alega crise financeira e dá golpe de R$ 55 mil em cliente",
-"p": "Loja de móveis planejados de Rio Claro, no interior paulista, fechou devido a crise financeira e não cumpriu projetos já contratados",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Rio Claro"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/loja-de-moveis-alega-crise-financeira-e-da-golpe-de-r-55-mil-em-cliente",
 "auto": true
 }
 ]
