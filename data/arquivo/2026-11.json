@@ -3,6 +3,384 @@
 "itens": [
 {
 "d": "2026-11-26",
+"h": "10:29",
+"t": "MPSP sugere compensação de 30 passagens para afetados por falhas em trens",
+"p": "Recomendação foi feita durante uma reunião entre promotoria e representantes das linhas 8 e 9 de trens e do governo de SP",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-sugere-compensacao-de-30-passagens-para-afetados-por-falhas-em-trens",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:28",
+"t": "Justiça de Tanabi condena réu a mais de 15 anos de prisão em regime fechado por assalto a loja de doces e uso de carro adulterado",
+"p": "A 1ª Vara da Comarca de Tanabi condenou Donizete de Oliveira à pena total de 15 anos, oito meses e 13 dias de reclusão, em regime inicial fechado, além do pagamento de 50 dias-multa, pelos crimes de roubo majorado pelo emprego de arma branca, receptação e adulteração de sinal identificador de veículo automotor. A…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Tanabi"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-tanabi-condena-reu-a-mais-de-15-anos-de-prisao-em-regime-fechado-por-assalto-a-loja-de-doces-e-uso-de-carro-adulterado/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:27",
+"t": "Deputada eleita de Campinas recebe homenagem na Câmara do RJ após polêmica",
+"p": "Eduarda Campopiano (PL) recebeu a Medalha Chiquinha Gonzaga na terça-feira (24); cerimônia foi antecipada após críticas e tentativas de suspender a homenagem",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/deputada-eleita-de-campinas-recebe-homenagem-na-camara-do-rj-apos-polemica/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:27",
+"t": "Educação de SP abre inscrições para concurso com 5.000 vagas de professores",
+"p": "Prazo segue até 15 de fevereiro de 2027 e provas estão previstas para abril do próximo ano",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/educacao-de-sp-abre-inscricoes-para-concurso-com-5-000-vagas-de-professores/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:27",
+"t": "Justiça de Jales condena homem em regime fechado por furto de botijão e latinhas em Mesópolis e absolve irmão por receptação",
+"p": "A 2ª Vara Criminal da Comarca de Jales condenou José Magno Marques Lopes à pena de dois anos e quatro meses de reclusão, em regime inicial fechado, além do pagamento de 11 dias-multa, pelo crime de furto qualificado mediante rompimento de obstáculo ocorrido em Mesópolis. Na mesma sentença, assinada pelo juiz…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Mesópolis",
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-jales-condena-homem-em-regime-fechado-por-furto-de-botijao-e-latinhas-em-mesopolis-e-absolve-irmao-por-receptacao/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:23",
+"t": "Justiça de Ouroeste condena tutora por maus-tratos que levaram cadela à morte e proíbe guarda de animais por mais de três anos",
+"p": "A Vara Única da Comarca de Ouroeste condenou Elines Rufino da Silva à pena de três anos, dois meses e três dias de reclusão, em regime inicial aberto — substituída por prestação de serviços à comunidade e pagamento de um salário mínimo (R$ 1.621), preferencialmente destinados a entidades de proteção animal —, além…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-ouroeste-condena-tutora-por-maus-tratos-que-levaram-cadela-a-morte-e-proibe-guarda-de-animais-por-mais-de-tres-anos/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:21",
+"t": "Mulheres terão ônibus gratuito durante evento na Praça Rui Barbosa",
+"p": "Isenção da tarifa será válida das 6h às 13h para passageiras do transporte coletivo municipal, em razão do evento Mulheres na Praça",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/mulheres-terao-onibus-gratuito-durante-evento-na-praca-rui-barbosa/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:18",
+"t": "Dani Alonso e Damasceno discutem investimentos em segurança pública para Marília",
+"p": "Vereador e comandante da Polícia Militar se reuniram com a deputada estadual na capital paulista.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília",
+"São Paulo"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/dani-alonso-e-damasceno-discutem-investimentos-em-seguranca-publica-para-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:13",
+"t": "Prefeitura define datas para entrega de cestas natalinas aos servidores",
+"p": "Distribuição também contemplará funcionários do Ipremm e da Amae.",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-define-datas-para-entrega-de-cestas-natalinas-aos-servidores/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:06",
+"t": "Câmara de Mirassol libera projeto de aumento de vereadores dois dias após votação",
+"p": "Documento estava pronto desde o dia 17 e só foi publicado no portal nesta quarta-feira (25)",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mirassol"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/camara-de-mirassol-libera-projeto-de-aumento-de-vereadores-dois-dias-apos-votacao/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:03",
+"t": "Terminal Rodoviário de Itupeva é revitalizado e ganha mais segurança e conforto",
+"p": "Foto: Prefeitura de Itupeva Espaço recebe cerca de mil passageiros por dia e agora conta com monitoramento, nova iluminação e melhorias na acessibilidade.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itupeva"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/itupeva/terminal-rodoviario-itupeva/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:00",
+"t": "Litoral paulista tem alerta de tempestade acima de 100 mm nesta quinta",
+"p": "Raimundo Rosa/Divulgação Prefeitura de Santos A passagem de uma forte frente fria pela costa da região Sudeste deixa o tempo fechado e com condições para tempestade nesta quinta (26).",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/noticias/litoral-paulista-tem-alerta-de-tempestade-acima-de-100-mm-nesta-quinta/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:00",
+"t": "Homem é preso após quebrar vidro de carro para tentar furtar objetos em São Vicente",
+"p": "Divulgação Suspeito foi surpreendido pela GCM dentro do veículo, na Rua 13 de Maio, no Centro.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Vicente"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/homem-e-preso-apos-quebrar-vidro-de-carro-para-tentar-furtar-objetos-em-sao-vicente/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "10:00",
+"t": "Jacaré de dois metros é resgatado pela PM Ambiental em Santos",
+"p": "Divulgação/PM Um jacaré-de-papo-amarelo, com aproximadamente dois metros de comprimento, foi resgatado pela Polícia Militar Ambiental em Santos.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/jacare-de-dois-metros-e-resgatado-pela-pm-ambiental-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:51",
+"t": "Operação contra lavagem de dinheiro de crimes e apostas ilegais cumpre mandados em São Bernardo",
+"p": "Operação do Ministério Público e da Polícia Civil, deflagrada nesta quinta-feira (26), apura uso de empresas de pagamento para ocultar recursos de bets ilegais, golpes, roubos e sequestros",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370824/operacao-contra-lavagem-de-dinheiro-de-crimes-e-apostas-ilegais-cumpre-mandados-em-sao-bernardo",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:51",
+"t": "Parque Maurílio Biagi recebe atendimento gratuito e sigiloso para mulheres",
+"p": "Ação do Governo de São Paulo funciona no parque nesta quinta (26) e sexta (27) com psicóloga e assistente social em Ribeirão Preto",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/parque-maurilio-biagi-recebe-atendimento-gratuito-e-sigiloso-para-mulheres/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:48",
+"t": "PM recupera em Rio Preto carro de avô levado durante cobrança de dívida do neto em Fernandópolis",
+"p": "Um Fiat Uno prata, avaliado em cerca de R$ 25 mil e pertencente ao avô de um devedor, foi recuperado pela Polícia Militar em São José do Rio Preto após ser subtraído durante uma cobrança forçada de dívida em Fernandópolis. O veículo foi encontrado durante um patrulhamento na Avenida de Maio, em Rio Preto, quando […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pm-recupera-em-rio-preto-carro-de-avo-levado-durante-cobranca-de-divida-do-neto-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:47",
+"t": "SP: polícia faz operação contra empresa que movimentou R$ 4 bi",
+"p": "A Polícia Civil de São Paulo faz, na manhã desta quinta-feira (26), a Operação Dinheiro Fictício, que investiga a empresa Fictor, suspeita de captar mais de R$ 4 bilhões de investidores por meio de promessas de rendimentos fixos sem respaldo financeiro. A operação é comandada pelo 15º Distrito Policial (Itaim…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/sp-policia-faz-operacao-contra-empresa-que-movimentou-r-4-bi",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:35",
+"t": "Fundo Social e Defesa Civil de São Paulo enviam ajuda humanitária para Suzano após chuvas",
+"p": "Cerca de 120 famílias foram afetadas pelas chuvas de segunda-feira (23), segundo divulgado pela prefeitura",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo",
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/fundo-social-e-defesa-civil-de-sao-paulo-enviam-ajuda-humanitaria-para-suzano-apos-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:29",
+"t": "Novo SUV híbrido de seis lugares da BYD surpreende por volante ‘dobrável’ ao toque de um botão, tela gigante de 30 polegadas e autonomia de até 1.630 km",
+"p": "O Ti 9, novo SUV híbrido plug-in da Fang Cheng Bao, marca do grupo BYD, chegou ao mercado chinês com um volante que se dobra e se encaixa no painel. Para acionar o mecanismo, basta apertar um botão com o carro estacionado. O movimento leva cerca de dez segundos. Ao recolher o volante, o SUV […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/automotor/novo-suv-hibrido-de-seis-lugares-da-byd-surpreende-por-volante-dobravel/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:28",
+"t": "Projeto de regulação das big techs será votado na próxima semana",
+"p": "Apresentada pelo governo federal no ano passado, a proposta pretende atualizar a legislação brasileira de defesa da concorrência para enfrentar a concentração de poder econômico de grandes plataformas digitais.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:26",
+"t": "Vereador e Guarda Municipal de Jarinu morre após sofrer disparo acidental durante plantão",
+"p": "Foto: Reprodução/ POP TV Clóvis Calixto também atuava na Guarda Municipal e chegou a receber socorro, mas não resistiu aos ferimentos.",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Jarinu"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/policia/vereador-jarinu-morre-disparo-acidental/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:26",
+"t": "Justiça autoriza biomédica a retirar nome da mãe da certidão de nascimento",
+"p": "A Justiça de São Paulo autorizou, por unanimidade em segunda instância, nesta terça-feira (24), que a biomédica Heloísa Rodrigues exclua o nome da mãe de sua certidão de nascimento. A medida atende a um recurso apresentado após uma decisão de dezembro de 2025 ter permitido apenas a supressão dos sobrenomes…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-autoriza-biomedica-a-retirar-nome-da-mae-da-certidao-de-nascimento/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:20",
+"t": "Justiça de Fernandópolis condena réu por receptação após troca de celular furtado por crack",
+"p": "A 2ª Vara Criminal da Comarca de Fernandópolis condenou Tiago Henrique Barros à pena de um ano de reclusão, em regime inicial aberto, além do pagamento de 10 dias-multa, pelo crime de receptação dolosa. Na sentença, assinada pelo juiz Ricardo Barea Borges e disponibilizada nesta quarta-feira (25), o magistrado…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/justica-de-fernandopolis-condena-reu-por-receptacao-apos-troca-de-celular-furtado-por-crack/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:15",
+"t": "Litoral de SP enfrenta risco de temporais e deslizamentos com chegada de frente fria que pode provocar mais de 100 mm de chuva",
+"p": "A passagem de uma frente fria pela costa do Sudeste deixa o litoral de São Paulo sob risco de temporais nesta quinta-feira (26/11). Na Baixada Santista e no litoral norte, os volumes de chuva podem superar 100 milímetros em alguns pontos. O cenário aumenta o risco de alagamentos, enxurradas e deslizamentos de…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/litoral-de-sp-enfrenta-risco-de-temporais-e-deslizamentos-com-chegada-de-frente-fria-que-pode-provocar-mais-de-100-mm-de-chuva/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:14",
+"t": "Resultado da Lotomania 3003: prêmio acumula para R$ 3,4 milhões e duas apostas ganham R$ 103 mil cada",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Duas apostas acertaram 19 dezenas no concurso de quarta-feira (25) e receberão mais de R$ 103 mil cada.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-lotomania-concurso-3003/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:11",
+"t": "Defesa Civil de Itaquaquecetuba interdita 10 imóveis após deslizamento de terra no bairro Recanto Mônica",
+"p": "Deslizamento foi ocasionado pelas chuvas de segunda-feira (23) que atingiram a região; não houve registro de vítimas após o deslizamento, segundo a prefeitura",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/defesa-civil-de-itaquaquecetuba-interdita-10-imoveis-apos-deslizamento-de-terra-no-bairro-recanto-monica/",
+"auto": true
+},
+{
+"d": "2026-11-26",
 "h": "09:10",
 "t": "Santa Casa de Fernandópolis receberá mais de R$ 203 mil do Ministério da Saúde para custeio de maternidade",
 "p": "A Santa Casa de Fernandópolis foi contemplada com um repasse de R$ 203.445,42 liberado pelo Ministério da Saúde para financiar serviços de maternidade. O montante integra um pacote regional de R$ 3.526.360,75 distribuído entre 12 unidades filantrópicas de 11 municípios do noroeste paulista que realizaram partos…",
@@ -13,6 +391,20 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-recebera-mais-de-r-203-mil-do-ministerio-da-saude-para-custeio-de-maternidade/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "09:10",
+"t": "Resultado do Dia de Sorte 1356: cinco apostas ganham R$ 23,3 mil cada; fevereiro é o Mês da Sorte",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Fevereiro foi o Mês da Sorte do concurso de quarta-feira (25), que também premiou 60 apostas na faixa de seis acertos.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-dia-de-sorte-concurso-1356/",
 "auto": true
 },
 {
