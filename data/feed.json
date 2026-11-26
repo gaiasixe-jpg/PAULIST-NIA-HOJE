@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-25T20:56:49-03:00",
-"novos_nesta_coleta": 21,
+"atualizado": "2026-11-25T22:26:44-03:00",
+"novos_nesta_coleta": 16,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -29,7 +29,8 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diário Oficial (via Alesp)"
+"Diário Oficial (via Alesp)",
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -43,13 +44,131 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diários Oficiais municipais (Querido Diário)",
-"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-25",
+"h": "22:01",
+"t": "Ciência política: o que Fernando Haddad vai lecionar na USP em 2027",
+"p": "O ex-ministro da Fazenda voltará a dar aulas na USP em 2027 e não participará, neste primeiro momento, do novo governo do presidente Lula",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ciencia-politica-o-que-fernando-haddad-vai-lecionar-na-usp-em-2027",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:59",
+"t": "Presos em gaiolas minúsculas sem água e comida, mais de 50 galos de rinha são resgatados e a polícia ainda acha espingarda de 1925",
+"p": "Gaiolas de tamanho reduzido, algumas sem água e sem comida, abrigavam mais de 50 galos com ferimentos típicos de briga quando a Polícia Militar Ambiental cumpriu dois mandados de busca e apreensão em imóveis suspeitos de sediar rinhas em Três Barras, município do Planalto Norte de Santa Catarina. A ação, batizada…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Planalto"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/presos-em-gaiolas-minusculas-sem-agua-e-comida-mais-de-50-galos-de-rinha-sao-resgatados-e-a-policia-ainda-acha-espingarda-de-1925/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:51",
+"t": "PM faz manobras de desengasgo e salva recém-nascido de 11 dias em São Paulo",
+"p": "Bebê de apenas 11 dias apresentava dificuldades respiratórias e voltou a respirar após intervenção da equipe policial na zona leste de SP",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pm-faz-manobras-de-desengasgo-e-salva-recem-nascido-de-11-dias-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:30",
+"t": "Semáforos de São Paulo somam cerca de 9.500 horas apagados por falta de luz; roubo de fiação elétrica saltou 36% em relação a 2025",
+"p": "Quem dirige por São Paulo às 8 horas de um dia útil conhece bem a cena: o semáforo do cruzamento simplesmente apaga, ninguém assume o controle do fluxo, o som de buzina dispara e o trânsito trava. Um levantamento inédito feito pela plataforma Crime Brasil exclusivamente para a Gazeta de S.Paulo mostra que esse…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/semaforos-de-sao-paulo-somam-cerca-de-9-500-horas-apagados-por-falta-de-luz-roubo-de-fiacao-eletrica-saltou-36-em-relacao-a-2025/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:24",
+"t": "Relatório da Justiça recomenda rejeição de contas da campanha de Ney Santos",
+"p": "Candidato eleito deputado federal, que é acusado de ter ligação com o PCC, atrasou na entrega do relatório de uma doação de R$ 248 mil",
+"tema": "Eleições",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/relatorio-da-justica-recomenda-rejeicao-de-contas-da-campanha-de-ney-santos",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:03",
+"t": "STF marca julgamento de escolas cívico-militares de São Paulo para dezembro",
+"p": "Gilmar Mendes, ministro relator do STF, votou a favor do programa educacional. Caso se arrasta desde 2024, após três pedidos de vista",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/stf-marca-julgamento-de-escolas-civico-militares-de-sao-paulo-para-dezembro",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:00",
+"t": "Paraíso do litoral de SP retoma taxa do lixo após Justiça derrubar lei que extinguiu cobrança, e moradores com débitos precisam emitir nova guia",
+"p": "Caraguatatuba retomou a cobrança da taxa do lixo na segunda-feira (23), após o Tribunal de Justiça de São Paulo (TJSP) declarar inconstitucional a lei que havia extinguido o tributo. Durante o impasse com a Câmara, a gestão do prefeito Mateus Silva alertou que retirar a taxa sem garantir outra fonte de custeio…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/paraiso-do-litoral-de-sp-retoma-taxa-do-lixo-apos-justica-derrubar-lei-que-extinguiu-cobranca-e-moradores-com-debitos-precisam-emitir-nova-guia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:00",
+"t": "Praia Grande leiloa ambulâncias, carros e equipamentos com lances a partir de R$ 300",
+"p": "Jairo Marques/Prefeitura de Praia Grande A Prefeitura de Praia Grande realizará, nesta sexta-feira (27), um leilão público online com 14 lotes de veículos, equipamentos e outros bens.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/praia-grande-leiloa-ambulancias-carros-e-equipamentos-com-lances-a-partir-de-r-300/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:56",
+"t": "Cervejas artesanais, gastronomia e show internacional gratuito: Jundiaí tem programação especial neste sábado no Parque da Uva",
+"p": "Foto: Arte Tribuna de Jundiaí Banda espanhola El Nido faz show gratuito neste sábado (28) no Parque da Uva, em Jundiaí, durante edição especial do Cerveja na Barão, das 16h às 22h.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/cerveja-na-barao-show-internacional-gratuito-jundiai/",
+"auto": true
+},
 {
 "d": "2026-11-25",
 "h": "20:40",
@@ -54904,133 +55023,6 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/guaruja/prefeitura-promove-acao-de-saude-e-vacinacao-para-atender-700-adolescentes-do-camp-guaruja.html",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:00",
-"t": "Porto de Santos confirma ataque hacker e diz não saber se dados foram acessados",
-"p": "Divulgação/APS Segundo empresas que operam no Porto de Santos, há lentidão no embarque e desembarque de cargas devido ao reforço dos procedimentos de segurança.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/porto-e-negocios/porto-de-santos-confirma-ataque-hacker-e-diz-nao-saber-se-dados-foram-acessados/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:00",
-"t": "Santos distribuirá 2 mil pulseirinhas gratuitas para identificação de crianças nas praias",
-"p": "Fábio Nunes/Divulgação Prefeitura de Santos Santos inicia, em 1º de dezembro, a distribuição gratuita de pulseirinhas de identificação ao longo da orla.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/santos-distribuira-2-mil-pulseirinhas-gratuitas-para-identificacao-de-criancas-nas-praias/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "15:00",
-"t": "Cetesb abre concurso público com vagas em Santos",
-"p": "Divulgação/Governo de SP O Governo de São Paulo publicou nesta terça-feira (10) o edital de um novo concurso público para a Cetesb.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/cetesb-abre-concurso-publico-com-vagas-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:51",
-"t": "Bom Prato chega a três novas cidades hoje; veja os endereços",
-"p": "Parceria com SuperAção SP leva refeições a R$ 1 para Nova Odessa, Monte Mor e Paulínia; Elias Fausto será o próximo município a contar como o serviço em breve",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Nova Odessa",
-"Monte Mor",
-"Paulínia"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/bom-prato-chega-a-tres-novas-cidades-hoje-veja-os-enderecos/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:49",
-"t": "Mogi das Cruzes recebe espetáculo musical inspirado em obra de Machado de Assis",
-"p": "Peça estrelada por Marcos Damigo terá sessões gratuitas em Mogi; ingressos devem ser retirados pela internet",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Mogi das Cruzes",
-"Assis"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/mogi-das-cruzes-recebe-espetaculo-musical-inspirado-em-obra-de-machado-de-assis/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:45",
-"t": "Provão Paulista abre escolha de cursos para vagas em SP",
-"p": "Candidatos da 3ª série do ensino médio têm até 27 de novembro para indicar até quatro opções e concorrer a 15,8 mil vagas no ensino superior.",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/provao-paulista-confira-as-proximas-etapas-para-os-candidatos-as-158-mil-vagas-na-usp-unesp-unicamp-e-fatecs/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:45",
-"t": "Prodesp apresenta ferramentas digitais em Águas de São Pedro",
-"p": "Encontro AMPPESP Fomenta 2026 reúne prefeitos e gestores públicos para discutir modernização administrativa e inovação em municípios.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Águas de São Pedro"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/prodesp-apresenta-solucoes-digitais-para-modernizar-servicos-e-processos-municipais/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:44",
-"t": "CDHU abre recompra de até 200 imóveis em Santo André",
-"p": "Medida atende mutuários do Conjunto Habitacional Santo André A com contratos de pelo menos 18 meses, mesmo inadimplentes.",
-"tema": "Habitação",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/cdhu-lanca-edital-de-recompra-de-imoveis-para-santo-andre/",
-"auto": true
-},
-{
-"d": "2026-11-10",
-"h": "14:44",
-"t": "Empresa de transporte de cargas oferece 30 vagas em Ribeirão Preto; Veja como entregar currículo",
-"p": "Empresa com sede em Ribeirão Preto tem oportunidades de emprego para o cargo efetivo de auxiliar de transportes",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/economia/empresa-de-transporte-de-cargas-oferece-30-vagas-em-ribeirao-preto-veja-como-entregar-curriculo/",
 "auto": true
 }
 ]

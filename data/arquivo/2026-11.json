@@ -3,6 +3,128 @@
 "itens": [
 {
 "d": "2026-11-25",
+"h": "22:01",
+"t": "Ciência política: o que Fernando Haddad vai lecionar na USP em 2027",
+"p": "O ex-ministro da Fazenda voltará a dar aulas na USP em 2027 e não participará, neste primeiro momento, do novo governo do presidente Lula",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/ciencia-politica-o-que-fernando-haddad-vai-lecionar-na-usp-em-2027",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:59",
+"t": "Presos em gaiolas minúsculas sem água e comida, mais de 50 galos de rinha são resgatados e a polícia ainda acha espingarda de 1925",
+"p": "Gaiolas de tamanho reduzido, algumas sem água e sem comida, abrigavam mais de 50 galos com ferimentos típicos de briga quando a Polícia Militar Ambiental cumpriu dois mandados de busca e apreensão em imóveis suspeitos de sediar rinhas em Três Barras, município do Planalto Norte de Santa Catarina. A ação, batizada…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Planalto"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/presos-em-gaiolas-minusculas-sem-agua-e-comida-mais-de-50-galos-de-rinha-sao-resgatados-e-a-policia-ainda-acha-espingarda-de-1925/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:51",
+"t": "PM faz manobras de desengasgo e salva recém-nascido de 11 dias em São Paulo",
+"p": "Bebê de apenas 11 dias apresentava dificuldades respiratórias e voltou a respirar após intervenção da equipe policial na zona leste de SP",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pm-faz-manobras-de-desengasgo-e-salva-recem-nascido-de-11-dias-em-sao-paulo",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:30",
+"t": "Semáforos de São Paulo somam cerca de 9.500 horas apagados por falta de luz; roubo de fiação elétrica saltou 36% em relação a 2025",
+"p": "Quem dirige por São Paulo às 8 horas de um dia útil conhece bem a cena: o semáforo do cruzamento simplesmente apaga, ninguém assume o controle do fluxo, o som de buzina dispara e o trânsito trava. Um levantamento inédito feito pela plataforma Crime Brasil exclusivamente para a Gazeta de S.Paulo mostra que esse…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/semaforos-de-sao-paulo-somam-cerca-de-9-500-horas-apagados-por-falta-de-luz-roubo-de-fiacao-eletrica-saltou-36-em-relacao-a-2025/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:24",
+"t": "Relatório da Justiça recomenda rejeição de contas da campanha de Ney Santos",
+"p": "Candidato eleito deputado federal, que é acusado de ter ligação com o PCC, atrasou na entrega do relatório de uma doação de R$ 248 mil",
+"tema": "Eleições",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/relatorio-da-justica-recomenda-rejeicao-de-contas-da-campanha-de-ney-santos",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:03",
+"t": "STF marca julgamento de escolas cívico-militares de São Paulo para dezembro",
+"p": "Gilmar Mendes, ministro relator do STF, votou a favor do programa educacional. Caso se arrasta desde 2024, após três pedidos de vista",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/stf-marca-julgamento-de-escolas-civico-militares-de-sao-paulo-para-dezembro",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:00",
+"t": "Paraíso do litoral de SP retoma taxa do lixo após Justiça derrubar lei que extinguiu cobrança, e moradores com débitos precisam emitir nova guia",
+"p": "Caraguatatuba retomou a cobrança da taxa do lixo na segunda-feira (23), após o Tribunal de Justiça de São Paulo (TJSP) declarar inconstitucional a lei que havia extinguido o tributo. Durante o impasse com a Câmara, a gestão do prefeito Mateus Silva alertou que retirar a taxa sem garantir outra fonte de custeio…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/paraiso-do-litoral-de-sp-retoma-taxa-do-lixo-apos-justica-derrubar-lei-que-extinguiu-cobranca-e-moradores-com-debitos-precisam-emitir-nova-guia/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "21:00",
+"t": "Praia Grande leiloa ambulâncias, carros e equipamentos com lances a partir de R$ 300",
+"p": "Jairo Marques/Prefeitura de Praia Grande A Prefeitura de Praia Grande realizará, nesta sexta-feira (27), um leilão público online com 14 lotes de veículos, equipamentos e outros bens.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/praia-grande-leiloa-ambulancias-carros-e-equipamentos-com-lances-a-partir-de-r-300/",
+"auto": true
+},
+{
+"d": "2026-11-25",
+"h": "20:56",
+"t": "Cervejas artesanais, gastronomia e show internacional gratuito: Jundiaí tem programação especial neste sábado no Parque da Uva",
+"p": "Foto: Arte Tribuna de Jundiaí Banda espanhola El Nido faz show gratuito neste sábado (28) no Parque da Uva, em Jundiaí, durante edição especial do Cerveja na Barão, das 16h às 22h.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/cerveja-na-barao-show-internacional-gratuito-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-25",
 "h": "20:40",
 "t": "Aos 50 anos, eterna Feiticeira dos anos 1990 brinca com o passado na TV, diz estar “mais para bagaceira” e vive hoje como empresária cristã nos EUA",
 "p": "Figura marcante da televisão brasileira nos anos 1990, Joana Prado ficou conhecida como Feiticeira, personagem sensual que animava os finais de semana no programa H, apresentado por Luciano Huck. Hoje, aos 50 anos, a famosa vive uma realidade diferente: tornou-se cristã e empresária nos Estados Unidos. Durante a…",
