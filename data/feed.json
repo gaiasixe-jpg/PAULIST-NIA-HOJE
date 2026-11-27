@@ -1,12 +1,11 @@
 {
-"atualizado": "2026-11-26T21:03:44-03:00",
-"novos_nesta_coleta": 19,
+"atualizado": "2026-11-26T22:28:49-03:00",
+"novos_nesta_coleta": 20,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -14,14 +13,12 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -38,15 +35,171 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-26",
+"h": "22:25",
+"t": "Apicultor perde todas as suas abelhas em uma única noite, vê 5 anos de trabalho ameaçados e recebe uma notícia que muda tudo",
+"p": "As colmeias furtadas de um apicultor amador no norte da Itália foram localizadas e devolvidas depois de um apelo público e da atuação da polícia florestal, encerrando um episódio que ele próprio já tratava como o fim de um projeto construído ao longo de cinco anos. O criador, que mantinha as abelhas em terreno na […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/apicultor-perde-todas-as-suas-abelhas-em-uma-unica-noite-ve-5-anos-de-trabalho-ameacados-e-recebe-uma-noticia-que-muda-tudo/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "22:17",
+"t": "“Quero chegar lá na frente com mais aprendizado”: aos 69 anos, mãe de cinco filhos aprende a ler e a escrever o próprio nome",
+"p": "A mãe de cinco filhos segurou o certificado com as duas mãos ao fim de um ciclo que durou apenas seis meses e, ao mesmo tempo, fechou uma conta aberta há décadas. Aos 69 anos, Marta Ferreira concluiu o Programa de Alfabetização de Jovens e Adultos oferecido pelo Instituto Equatorial em parceria com o Instituto […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/quero-chegar-la-na-frente-com-mais-aprendizado-aos-69-anos-mae-de-cinco-filhos-aprende-a-ler-e-a-escrever-o-proprio-nome/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "22:00",
+"t": "Recebeu mensagem do governo sobre o INSS no WhatsApp? veja como enviar documentos sem cair em golpes",
+"p": "Quem recebeu uma das 2,2 milhões de mensagens enviadas pelo Governo do Brasil no WhatsApp avisando sobre pendências no Instituto Nacional do Seguro Social (INSS) deve acessar o site ou aplicativo Meu INSS com a conta Gov.br para concluir o chamado cumprimento de exigência dentro do prazo padrão de 30 dias. No…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/policia/recebeu-mensagem-do-governo-sobre-o-inss-no-whatsapp-veja-como-enviar-documentos-sem-cair-em-golpes/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:59",
+"t": "Deputada do PT propõe frente feminista para contrapor Campopiano na Alesp",
+"p": "Deputada estadual Beth Sahão defendeu articulação suprapartidária contra ideias antifeministas defendidas pela vereadora e deputada eleita",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/deputada-do-pt-propoe-frente-feminista-para-contrapor-campopiano-na-alesp",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:58",
+"t": "Parecia segunda-feira comum, mas mãe marreco e oito filhotes ocupam a prefeitura e são devolvidos à natureza à beira d’água na mesma manhã",
+"p": "Na manhã de 23 de novembro de 2026, servidores da Prefeitura de Paulo de Faria, município do interior de São Paulo na região de São José do Rio Preto, no noroeste paulista, depararam-se com uma família de aves aquáticas dentro do prédio oficial. Uma paturi adulta, nome popular dado no Brasil a marrecos e patos […]",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Paulo de Faria"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/parecia-segunda-feira-comum-mas-mae-marreco-e-oito-filhotes-ocupam-a-prefeitura-e-sao-devolvidos-a-natureza-a-beira-dagua-na-mesma-manha/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:42",
+"t": "Estações da CPTM no Grande ABC terão mudanças de horário na circulação",
+"p": "Alterações ocorrem entre as estações Utinga e Prefeito Saladino e Ribeirão Pires e Rio Grande da Serra; empresa realiza obras de manutenção, melhorias e modernização",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Rio Grande da Serra",
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371003/estacoes-da-cptm-no-grande-abc-terao-mudancas-de-horario-na-circulacao-",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:28",
+"t": "Luau Arrastão 360° estreia palco em formato inédito em São Sebastião",
+"p": "Evento gratuito ocorre neste sábado (28) na praia do Arrastão, a partir das 19h; em caso de mau tempo, programação será remarcada",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saosebastiao/luau-arrastao-360-estreia-palco-em-formato-inedito-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:22",
+"t": "Paciente pede o bicho de estimação na internação longa, equipes avaliam o risco e o pet só visita o dono na área externa do hospital",
+"p": "O pedido parte do próprio paciente internado e só depois disso as equipes médica, de controle de infecção hospitalar e veterinária examinam se o reencontro com o animal de estimação pode ocorrer sem comprometer o tratamento nem a segurança da unidade. O Hospital São Vicente de Paulo, em Jundiaí, cidade do interior…",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/paciente-pede-o-bicho-de-estimacao-na-internacao-longa-equipes-avaliam-o-risco-e-o-pet-so-visita-o-dono-na-area-externa-do-hospital/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:20",
+"t": "Marigildo Fabretti recebe título de Cidadão Honorário de Santo André",
+"p": "Homenageado preside a Associação dos Amigos da Polícia Militar; iniciativa é de autoria do presidente do Legislativo",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371001/marigildo-fabretti-recebe-titulo-de-cidadao-honorario-de-santo-andre",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:17",
+"t": "Saiu o resultado! Confira os números da Mega-Sena, Lotofácil, Timemania e Dia de Sorte desta quinta-feira (26)",
+"p": "As Loterias da Caixa sortearam nesta quinta-feira (26), os prêmios de concursos da Mega-Sena, Quina, Lotofácil, Timemania e Dia de Sorte.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-lotofacil-timemania-e-dia-de-sorte-desta-quinta-feira-26/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:04",
+"t": "Saiu o resultado! Prêmio da Mega-Sena de R$ 75 milhões é sorteado nesta quinta-feira; veja os números da sorte",
+"p": "A Caixa Econômica Federal sorteou, na noite desta quinta-feira (26/11), as seis dezenas do concurso 3091 da Mega-Sena, que poderá pagar um prêmio de R$ 75 milhões para quem acertar as seis dezenas. Confira os números: 04 – 28 – 22 – 37 – 23 – 19 Como apostar na Mega-Sena A Mega-Sena é a […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/saiu-o-resultado-premio-da-mega-sena-de-r-75-milhoes-e-sorteado-nesta-quinta-feira-veja-os-numeros-da-sorte/",
+"auto": true
+},
 {
 "d": "2026-11-26",
 "h": "21:00",
@@ -154,6 +307,34 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/politica/servidores-prometem-novo-protesto-na-camara-durante-votacao-da-previdencia-prefeitura-ameaca-cortar-ponto/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:03",
+"t": "Conselho Municipal de Saúde de Fernandópolis aprova moções de aplausos para 32 profissionais e equipes",
+"p": "O Conselho Municipal de Saúde de Fernandópolis aprovou a concessão de moções de aplausos para 32 profissionais e equipes que atuam na rede local e regional de saúde, em reconhecimento ao trabalho desempenhado no atendimento à população. A deliberação ocorreu durante a 19ª reunião ordinária de 2026, realizada em 12…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/conselho-municipal-de-saude-de-fernandopolis-aprova-mocoes-de-aplausos-para-32-profissionais-e-equipes/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:03",
+"t": "Obras de recapeamento avançam no Jardim Uirapuru e fecham serviços de novembro em Fernandópolis",
+"p": "A Prefeitura de Fernandópolis, por meio da Secretaria Municipal de Obras, deu sequência nesta quinta-feira (26) às frentes de recapeamento asfáltico na cidade. Uma equipe conclui ajustes finais no Jardim Paraíso, enquanto outra frente atua no Jardim Uirapuru, com início pela Rua Aicás e previsão de avançar pelas…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/obras-de-recapeamento-avancam-no-jardim-uirapuru-e-fecham-servicos-de-novembro-em-fernandopolis/",
 "auto": true
 },
 {
@@ -54915,181 +55096,6 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/politica/prefeitura-de-ribeirao-preto-demite-a-influenciadora-esquerdogata/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:54",
-"t": "Atendimento presencial do Saae/Sorocaba no Pátio Cianê Shopping terá agendamento prévio a partir de 1º de dezembro",
-"p": "A partir de 1º de dezembro, quem precisar de atendimento presencial na Central do Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba, localizada no Pátio Cianê Shopping, deverá realizar agendamento prévio pelo site www.saaesorocaba.sp.gov.br. A mudança tem como objetivo organizar o fluxo de atendimento, reduzir o…",
-"tema": "Saneamento",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/atendimento-presencial-do-saae-sorocaba-no-patio-ciane-shopping-tera-agendamento-previo-a-partir-de-1o-de-dezembro/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:53",
-"t": "Polícia Federal investiga suspeita de ataque hacker ao porto de Santos",
-"p": "Inquérito apura falhas nos sistemas da Autoridade Portuária desde sexta-feira (6); operações seguem mantidas, segundo a administração",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/policia-federal-investiga-suspeita-de-ataque-hacker-ao-porto-de-santos.html",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:46",
-"t": "Polícia investiga adolescentes de 16 anos por maus-tratos a cachorro em SP",
-"p": "Em vídeo divulgado nas redes sociais, casal é visto passeando com o animal quando um deles puxa o cão pela coleira e o atinge com chutes",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/policia-investiga-adolescentes-de-16-anos-por-maus-tratos-a-cachorro-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:41",
-"t": "Confira os jogos da nona semana do Cruzeirinho 2026",
-"p": "A Prefeitura de Sorocaba, por meio da Secretaria de Esporte e Qualidade de Vida (Sequav), divulga os jogos válidos pela nona semana do 46º Torneio Aberto de Futsal para Crianças e Adolescentes – Cruzeirinho 2026. Estão agendadas cinco partidas para este sábado (14), quatro para o domingo (15) e uma para a…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/confira-os-jogos-da-nona-semana-do-cruzeirinho-2026/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:38",
-"t": "Título de cidadã para Janja provoca bate-boca na Câmara de São Bernardo",
-"p": "Sessão termina com discussão acalorada e troca de insultos entre vereador petista com parlamentares do PL",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368184/titulo-de-cidada-para-janja-provoca-bate-boca-na-camara-de-sao-bernardo",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:29",
-"t": "Cultura de rua no litoral: Guarujá sedia evento gratuito de hip hop no sábado (14)",
-"p": "Programação cultural no litoral paulista conta com batalhas de rima, dança breaking, slam e poesia falada",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/guaruja/cultura-de-rua-no-litoral-guaruja-sedia-evento-gratuito-de-hip-hop-no-sabado-14.html",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:25",
-"t": "Feira de artesanato em Bertioga tem edição especial de cinco anos no sábado (14)",
-"p": "Evento no Centro de Educação Ambiental tem início às 14h e conta com oficinas, apresentações musicais e venda de produtos locais",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/feira-de-artesanato-em-bertioga-tem-edicao-especial-de-cinco-anos-no-sabado-14.html",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:20",
-"t": "Polícia Civil de SP apoia operação do MP-RJ contra fraude bilionária no setor de combustíveis",
-"p": "A Polícia Civil do Estado de São Paulo, por meio do Departamento de Operações Policiais Estratégicas (Dope), prestou apoio, nesta quarta-feira (11), a uma grande operação deflagrada pelo Ministério Público do Rio de Janeiro. A ação tem como alvo um grupo empresarial suspeito de liderar um esquema de fraudes fiscais…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-de-sp-apoia-operacao-do-mp-rj-contra-fraude-bilionaria-no-setor-de-combustiveis/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:19",
-"t": "Câmara do Rio concede Medalha Chiquinha Gonzaga a Eduarda Campopiano, e oposição reage",
-"p": "Agência Brasil/Rafa Neddermeyer A Câmara Municipal do RJ aprovou a concessão da Medalha Chiquinha Gonzaga à deputada estadual eleita por São Paulo Eduarda Campopiano.",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/camara-do-rio-concede-medalha-chiquinha-gonzaga-a-eduarda-campopiano-e-oposicao-reage/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:10",
-"t": "Nunes pede \"cautela\" a vice após denúncia sobre desvios na Virada Esportiva",
-"p": "Coronel Mello Araújo (PL), vice-prefeito de SP, pediu investigação do MPSP sobre contrato de R$ 21 milhões da prefeitura",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/nunes-pede-cautela-a-vice-apos-denuncia-sobre-desvios-na-virada-esportiva",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:09",
-"t": "PTS conquista terceiro lugar entre os ambientes de inovação com mais empresas estabelecidas no estado",
-"p": "Reconhecimento reforça a posição de Sorocaba no cenário paulista de inovação; expansão da infraestrutura vai disponibilizar mais 20 espaços para instalação de empresas Com aproximadamente 1,8 milhão de metros quadrados de área total, o Parque Tecnológico de Sorocaba (PTS) ocupa a terceira posição entre os cinco…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/pts-conquista-terceiro-lugar-entre-os-ambientes-de-inovacao-com-mais-empresas-estabelecidas-no-estado/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:09",
-"t": "TCESP realiza evento gratuito sobre Terceiro Setor na região de Ribeirão Preto; veja quando",
-"p": "Evento do TCESP acontece nesta quinta-feira (12), na Câmara Municipal de Sertãozinho, cidade na região de Ribeirão Preto",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ribeirão Preto",
-"Sertãozinho"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/politica/nevio-archibald/tcesp-realiza-evento-gratuito-sobre-terceiro-setor-na-regiao-de-ribeirao-preto-veja-quando/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:08",
-"t": "Várzea Paulista abre inscrições para a Educação de Jovens e Adultos (EJA) para o primeiro semestre de 2027",
-"p": "Unsplash/Scott Graham Interessados podem realizar a matrícula entre 16 de novembro e 4 de dezembro; modalidade oferece oportunidades para quem deseja retomar os estudos",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Várzea Paulista"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/inscricoes-eja-varzea-paulista-2027/",
 "auto": true
 }
 ]

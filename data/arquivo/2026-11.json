@@ -3,6 +3,150 @@
 "itens": [
 {
 "d": "2026-11-26",
+"h": "22:25",
+"t": "Apicultor perde todas as suas abelhas em uma única noite, vê 5 anos de trabalho ameaçados e recebe uma notícia que muda tudo",
+"p": "As colmeias furtadas de um apicultor amador no norte da Itália foram localizadas e devolvidas depois de um apelo público e da atuação da polícia florestal, encerrando um episódio que ele próprio já tratava como o fim de um projeto construído ao longo de cinco anos. O criador, que mantinha as abelhas em terreno na […]",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/apicultor-perde-todas-as-suas-abelhas-em-uma-unica-noite-ve-5-anos-de-trabalho-ameacados-e-recebe-uma-noticia-que-muda-tudo/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "22:17",
+"t": "“Quero chegar lá na frente com mais aprendizado”: aos 69 anos, mãe de cinco filhos aprende a ler e a escrever o próprio nome",
+"p": "A mãe de cinco filhos segurou o certificado com as duas mãos ao fim de um ciclo que durou apenas seis meses e, ao mesmo tempo, fechou uma conta aberta há décadas. Aos 69 anos, Marta Ferreira concluiu o Programa de Alfabetização de Jovens e Adultos oferecido pelo Instituto Equatorial em parceria com o Instituto […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/quero-chegar-la-na-frente-com-mais-aprendizado-aos-69-anos-mae-de-cinco-filhos-aprende-a-ler-e-a-escrever-o-proprio-nome/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "22:00",
+"t": "Recebeu mensagem do governo sobre o INSS no WhatsApp? veja como enviar documentos sem cair em golpes",
+"p": "Quem recebeu uma das 2,2 milhões de mensagens enviadas pelo Governo do Brasil no WhatsApp avisando sobre pendências no Instituto Nacional do Seguro Social (INSS) deve acessar o site ou aplicativo Meu INSS com a conta Gov.br para concluir o chamado cumprimento de exigência dentro do prazo padrão de 30 dias. No…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/policia/recebeu-mensagem-do-governo-sobre-o-inss-no-whatsapp-veja-como-enviar-documentos-sem-cair-em-golpes/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:59",
+"t": "Deputada do PT propõe frente feminista para contrapor Campopiano na Alesp",
+"p": "Deputada estadual Beth Sahão defendeu articulação suprapartidária contra ideias antifeministas defendidas pela vereadora e deputada eleita",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/deputada-do-pt-propoe-frente-feminista-para-contrapor-campopiano-na-alesp",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:58",
+"t": "Parecia segunda-feira comum, mas mãe marreco e oito filhotes ocupam a prefeitura e são devolvidos à natureza à beira d’água na mesma manhã",
+"p": "Na manhã de 23 de novembro de 2026, servidores da Prefeitura de Paulo de Faria, município do interior de São Paulo na região de São José do Rio Preto, no noroeste paulista, depararam-se com uma família de aves aquáticas dentro do prédio oficial. Uma paturi adulta, nome popular dado no Brasil a marrecos e patos […]",
+"tema": "Água",
+"s": "fato",
+"c": [
+"São José do Rio Preto",
+"Paulo de Faria"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/parecia-segunda-feira-comum-mas-mae-marreco-e-oito-filhotes-ocupam-a-prefeitura-e-sao-devolvidos-a-natureza-a-beira-dagua-na-mesma-manha/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:42",
+"t": "Estações da CPTM no Grande ABC terão mudanças de horário na circulação",
+"p": "Alterações ocorrem entre as estações Utinga e Prefeito Saladino e Ribeirão Pires e Rio Grande da Serra; empresa realiza obras de manutenção, melhorias e modernização",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Rio Grande da Serra",
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371003/estacoes-da-cptm-no-grande-abc-terao-mudancas-de-horario-na-circulacao-",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:28",
+"t": "Luau Arrastão 360° estreia palco em formato inédito em São Sebastião",
+"p": "Evento gratuito ocorre neste sábado (28) na praia do Arrastão, a partir das 19h; em caso de mau tempo, programação será remarcada",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Sebastião"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saosebastiao/luau-arrastao-360-estreia-palco-em-formato-inedito-em-sao-sebastiao.html",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:22",
+"t": "Paciente pede o bicho de estimação na internação longa, equipes avaliam o risco e o pet só visita o dono na área externa do hospital",
+"p": "O pedido parte do próprio paciente internado e só depois disso as equipes médica, de controle de infecção hospitalar e veterinária examinam se o reencontro com o animal de estimação pode ocorrer sem comprometer o tratamento nem a segurança da unidade. O Hospital São Vicente de Paulo, em Jundiaí, cidade do interior…",
+"tema": "Saúde",
+"s": "anunciado",
+"c": [
+"Jundiaí"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/estilo-de-vida/paciente-pede-o-bicho-de-estimacao-na-internacao-longa-equipes-avaliam-o-risco-e-o-pet-so-visita-o-dono-na-area-externa-do-hospital/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:20",
+"t": "Marigildo Fabretti recebe título de Cidadão Honorário de Santo André",
+"p": "Homenageado preside a Associação dos Amigos da Polícia Militar; iniciativa é de autoria do presidente do Legislativo",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371001/marigildo-fabretti-recebe-titulo-de-cidadao-honorario-de-santo-andre",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:17",
+"t": "Saiu o resultado! Confira os números da Mega-Sena, Lotofácil, Timemania e Dia de Sorte desta quinta-feira (26)",
+"p": "As Loterias da Caixa sortearam nesta quinta-feira (26), os prêmios de concursos da Mega-Sena, Quina, Lotofácil, Timemania e Dia de Sorte.",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/economia/saiu-o-resultado-confira-os-numeros-da-mega-sena-lotofacil-timemania-e-dia-de-sorte-desta-quinta-feira-26/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:04",
+"t": "Saiu o resultado! Prêmio da Mega-Sena de R$ 75 milhões é sorteado nesta quinta-feira; veja os números da sorte",
+"p": "A Caixa Econômica Federal sorteou, na noite desta quinta-feira (26/11), as seis dezenas do concurso 3091 da Mega-Sena, que poderá pagar um prêmio de R$ 75 milhões para quem acertar as seis dezenas. Confira os números: 04 – 28 – 22 – 37 – 23 – 19 Como apostar na Mega-Sena A Mega-Sena é a […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/saiu-o-resultado-premio-da-mega-sena-de-r-75-milhoes-e-sorteado-nesta-quinta-feira-veja-os-numeros-da-sorte/",
+"auto": true
+},
+{
+"d": "2026-11-26",
 "h": "21:00",
 "t": "Ex-funcionários do Grupo Casas Bahia vão receber indenização extra de R$ 7,5 mil até dezembro",
 "p": "A liberação de R$ 33,26 milhões em indenizações extras para 4.435 ex-funcionários do Grupo Casas Bahia dispensados em agosto tem previsão de conclusão até meados de dezembro, com repasse individual de R$ 7,5 mil. Conduzidos na Justiça do Trabalho em conjunto com a Confederação Nacional dos Trabalhadores no Comércio…",
@@ -108,6 +252,34 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/politica/servidores-prometem-novo-protesto-na-camara-durante-votacao-da-previdencia-prefeitura-ameaca-cortar-ponto/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:03",
+"t": "Conselho Municipal de Saúde de Fernandópolis aprova moções de aplausos para 32 profissionais e equipes",
+"p": "O Conselho Municipal de Saúde de Fernandópolis aprovou a concessão de moções de aplausos para 32 profissionais e equipes que atuam na rede local e regional de saúde, em reconhecimento ao trabalho desempenhado no atendimento à população. A deliberação ocorreu durante a 19ª reunião ordinária de 2026, realizada em 12…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/conselho-municipal-de-saude-de-fernandopolis-aprova-mocoes-de-aplausos-para-32-profissionais-e-equipes/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:03",
+"t": "Obras de recapeamento avançam no Jardim Uirapuru e fecham serviços de novembro em Fernandópolis",
+"p": "A Prefeitura de Fernandópolis, por meio da Secretaria Municipal de Obras, deu sequência nesta quinta-feira (26) às frentes de recapeamento asfáltico na cidade. Uma equipe conclui ajustes finais no Jardim Paraíso, enquanto outra frente atua no Jardim Uirapuru, com início pela Rua Aicás e previsão de avançar pelas…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/obras-de-recapeamento-avancam-no-jardim-uirapuru-e-fecham-servicos-de-novembro-em-fernandopolis/",
 "auto": true
 },
 {
