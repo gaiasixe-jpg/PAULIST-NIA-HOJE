@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-27T01:15:37-03:00",
-"novos_nesta_coleta": 15,
+"atualizado": "2026-11-27T02:24:27-03:00",
+"novos_nesta_coleta": 13,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,82 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "02:00",
+"t": "Quem fica com vaga de deputado se TSE barrar candidatura de Ney Santos",
+"p": "Justiça eleitoral analisa recurso que pede indeferimento da candidatura do parlamentar eleito pelo Republicanos, acusado de ter elo com PCC",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/quem-fica-com-vaga-de-deputado-se-tse-barrar-candidatura-de-ney-santos",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "02:00",
+"t": "Polícia vê elo entre fraudes de fintechs e esquema que prendeu MC Ryan SP",
+"p": "Investigação da operação Cofre Ativo apontou indícios de que o mesmo grupo da Narco Flux está envolvido com as fintechs investigadas",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/policia-ve-elo-entre-fraudes-de-fintechs-e-esquema-que-prendeu-mc-ryan-sp",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "02:00",
+"t": "Roberta Campos, Conceição Evaristo, festivais e sarau: o que fazer em SP",
+"p": "A programação deste fim de semana reúne shows, exposição na Pinacoteca e festivais. Veja na curadoria da agenda cultural",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/roberta-campos-conceicao-evaristo-festivais-e-sarau-o-que-fazer-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:33",
+"t": "Confira os bastidores da política desta sexta-feira, dia 27 de novembro",
+"p": "Só agora O ex-vereador de Rio Preto, Carlos Eduardo Feitosa, vai receber o título de cidadão honorário rio-pretense, concedido pela Câmara. A homenagem é uma iniciativa de João Paulo Rillo (PT), agora colega de partido, anos depois do último mandato. Feitosa foi vereador nas décadas de 80 e 90 e é natural de…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/confira-os-bastidores-da-politica-desta-sexta-feira-dia-27-de-novembro/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:33",
+"t": "Câmara faz sessões extras para votar mudanças nas regras do Orçamento 2027",
+"p": "A Câmara de Rio Preto realiza nesta sexta-feira (27) duas sessões extraordinárias para votar um projeto de resolução da Mesa Diretora que altera as regras de tramitação da Lei Orçamentária Anual (LOA). A proposta retira do Regimento Interno o prazo de 30 de novembro para a conclusão da votação do orçamento e…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/camara-faz-sessoes-extras-para-votar-mudancas-nas-regras-do-orcamento-2027/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:20",
+"t": "‘Roque Santeiro’: Roberto acorda no hospital com beijo à força de Marilda e Zé das Medalhas falha em descobrir rival nesta sexta (27)",
+"p": "No capítulo desta sexta-feira (27), em ‘Roque Santeiro’, o suspense em torno das paixões secretas de Asa Branca e a recuperação do ator forasteiro marcam o ritmo da trama. Determinado a desmascarar a esposa após o flagra nas ruas do povoado, o empresário tenta juntar as peças, mas acaba frustrado, pois Zé das…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-roberto-acorda-no-hospital-com-beijo-a-forca-de-marilda-e-ze-das-medalhas-falha-em-descobrir-rival-nesta-sexta-27/",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "01:06",
@@ -55011,89 +55087,6 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/cubatao/cubatao-prepara-defesa-civil-para-chuvas-com-treinamento-estadual.html",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:04",
-"t": "Tarcísio anuncia os primeiros secretários da nova gestão do governo",
-"p": "Marcos Guerson, Ricardo Salles e Anderson Ribeiro Correia assumirão, respectivamente, as Pastas de Desenvolvimento Econômico, Justiça e Cidadania e Ciência, Tecnologia e Inovação",
-"tema": "Política",
-"s": "anunciado",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368226/tarcisio-anuncia-os-primeiros-secretarios-da-nova-gestao-do-governo",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:03",
-"t": "Maior árvore de Natal de crochê do Brasil tem 14 metros de altura, 4,8 mil peças feitas à mão, ganha luzes coloridas e transforma Rodeio em atração de fim de ano",
-"p": "Com 14 metros de altura e cerca de 4,8 mil quadradinhos feitos à mão, a árvore de Natal de crochê de Rodeio ganhou iluminação no sábado (7). Ao lado da Igreja Matriz São Francisco de Assis, a estrutura reuniu moradores e visitantes para a abertura da programação natalina do município, no Vale do Itajaí. As […]",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Francisco",
-"Assis"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/maior-arvore-de-natal-de-croche-do-brasil-tem-14-metros-de-altura-48-mil-pecas-feitas-a-mao-ganha-luzes-coloridas-e-transforma-rodeio-em-atracao-de-fim-de-ano/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:02",
-"t": "Rabdomiólise: 5 sinais de alerta que não devem ser ignorados após esforços físicos extremos",
-"p": "A prática de atividades físicas traz benefícios importantes para a saúde, mas ultrapassar os limites do corpo pode trazer consequências que vão além do cansaço e das dores musculares. A morte da jovem Rachel Apa, de 24 anos, durante a Maratona de Nova York, trouxe atenção para a rabdomiólise, uma condição…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/rabdomiolise-5-sinais-de-alerta-que-nao-devem-ser-ignorados-apos-esforcos-fisicos-extremos/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:00",
-"t": "Pedágio free flow da Tamoios pode gerar multa de R$ 195 e 5 pontos na CNH após domingo; veja como quitar",
-"p": "Os motoristas que passaram pelo pedágio eletrônico free flow do Contorno Sul da Rodovia dos Tamoios, no litoral norte de São Paulo, têm até 16 de novembro de 2026 para quitar as tarifas pendentes sem receber multa ou pontos na Carteira Nacional de Habilitação (CNH). O prazo foi estabelecido pelo Conselho Nacional…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/pedagio-free-flow-da-tamoios-pode-gerar-multa-de-r-195-e-5-pontos-na-cnh-apos-domingo-veja-como-quitar/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:59",
-"t": "Vídeo: Homem acusado de atropelar a ex-companheira é preso em Mogi das Cruzes",
-"p": "Caso foi registrado pelas câmeras de segurança do sistema Smart Mogi",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/mogi/video-homem-acusado-de-atropelar-a-ex-companheira-e-preso-em-mogi-das-cruzes/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:56",
-"t": "APAE de Jundiaí realiza mais de 1,1 mil avaliações no primeiro ano do Centro Diagnóstico",
-"p": "Foto: APAE Jundiaí Inaugurado em outubro de 2025, serviço identifica necessidades individuais e orienta encaminhamentos nas áreas de Saúde e Educação.",
-"tema": "Saúde",
-"s": "entregue",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/apae-de-jundiai-realiza-mais-de-11-mil-avaliacoes-no-primeiro-ano-do-centro-diagnostico/",
 "auto": true
 }
 ]
