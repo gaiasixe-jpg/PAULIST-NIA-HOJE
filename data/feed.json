@@ -1,14 +1,12 @@
 {
-"atualizado": "2026-11-27T13:13:40-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-27T14:20:01-03:00",
+"novos_nesta_coleta": 23,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -26,9 +24,13 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
+{
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
@@ -39,6 +41,10 @@
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -54,11 +60,230 @@
 "erro": "HTTP Error 415: Unsupported Media Type"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "The read operation timed out | HTTP Error 520: <none> | curl: curl: (28) Operation timed out after 60001 milliseconds with 0 bytes received\n"
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "14:14",
+"t": "Serviços digitais do Governo de SP voltam ao ar após rompimento de cabos de fibra óptica",
+"p": "A Companhia de Processamento de Dados do Estado de São Paulo (Prodesp) informou que os serviços públicos impactados pelo rompimento de duas alças de fibra óptica nesta sexta-feira (27) já começaram a ser restabelecidos. Portais institucionais do governo estadual, atendimentos do Poupatempo e do Detran-SP, além de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/servicos-digitais-do-governo-de-sp-voltam-ao-ar-apos-rompimento-de-cabos-de-fibra-optica/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:14",
+"t": "Polícia Civil prende homem suspeito de atirar esferas metálicas contra hotel",
+"p": "Um homem foi preso em flagrante pela Polícia Civil nesta sexta-feira (27) sob suspeita de disparar esferas metálicas contra as janelas de um hotel no bairro dos Jardins, na zona oeste da capital paulista. Durante a abordagem, os agentes apreenderam com o suspeito uma arma de pressão movida a gás CO₂, estilingues,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-civil-prende-homem-suspeito-de-atirar-esferas-metalicas-contra-hotel/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:14",
+"t": "Prazo para escolher cursos no Provão Paulista 2026 termina nesta sexta-feira; mais de 300 mil já registraram opções",
+"p": "Termina nesta sexta-feira (27) o prazo para que estudantes da rede pública selecionem as opções de cursos superiores no Provão Paulista Seriado 2026, sistema de ingresso criado pela Secretaria da Educação do Estado de São Paulo (Seduc-SP). Segundo balanço da pasta, mais de 300 mil alunos já concluíram a etapa,…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prazo-para-escolher-cursos-no-provao-paulista-2026-termina-nesta-sexta-feira-mais-de-300-mil-ja-registraram-opcoes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:14",
+"t": "Morre em Fernandópolis o servidor público Ricardo Antônio Souza da Silva, filho do locutor Toninho Alves",
+"p": "Faleceu o servidor público municipal Ricardo Antônio Souza da Silva em decorrência de um câncer cerebral. Filho do locutor de rádio Toninho Alves, da Tec FM, ele deixa familiares, amigos e colegas de trabalho enlutados em Fernandópolis (SP). Por meio de nota oficial, a Prefeitura de Fernandópolis manifestou pesar…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/morre-em-fernandopolis-o-servidor-publico-ricardo-antonio-souza-da-silva-filho-do-locutor-toninho-alves/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:00",
+"t": "Moradores reclamam da qualidade da água. Justiça pede plano de contingência à empresa",
+"p": "Moradores reclamam da coloração da água em vários pontos de Santos e região. Por sua vez, Sabesp informa que chuvas têm prejudicado os sistemas de captação e tratamento de água da Baixada Santista.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/qualidade-de-agua-em-santos/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:00",
+"t": "Quer comprar a casa própria? Feirão libera subsídios de até R$16 mil em cidades de SP",
+"p": "Programa oferece 2.077 Cartas de Crédito Imobiliário em 25 municípios paulistas; Caraguatatuba e São José dos Campos terão atendimento neste sábado (28)",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José dos Campos",
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/quer-comprar-a-casa-propria-feirao-libera-subsidios-de-ate-r16-mil-em-cidades-de-sp.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:45",
+"t": "PM captura mulher procurada por estelionato em Diadema",
+"p": "Mandado de prisão foi expedido pela Justiça do Paraná",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371136/pm-captura-mulher-procurada-por-estelionato-em-diadema",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:43",
+"t": "Homem é preso por furtar fiação elétrica de praça em Rio Preto",
+"p": "Um homem de 44 anos foi preso em flagrante pela Guarda Civil Municipal (GCM), na noite desta quinta-feira (26), suspeito de furtar fiação elétrica de uma praça no bairro Parque Setorial, em Rio Preto. O espaço fica em frente ao edifício da Empresa Municipal de Urbanismo (Emurb). A equipe da GCM recebeu uma denúncia…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/homem-e-preso-por-furtar-fiacao-eletrica-de-praca-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:43",
+"t": "Verve.Co reúne mais de 40 marcas autorais em edição de Natal em Rio Preto",
+"p": "São José do Rio Preto recebe, neste sábado e domingo (28 e 29 de novembro), a 7ª edição da Verve.Co, evento que reúne criatividade, design, cultura e empreendedorismo. Em uma programação especial de Natal, o encontro contará com mais de 40 marcas autorais, no Impper Lounge, com entrada gratuita. A iniciativa reúne…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/verve-co-reune-mais-de-40-marcas-autorais-em-edicao-de-natal-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:39",
+"t": "Evento de adoção de cães do Canil Municipal de Sorocaba é levado ao Carrefour Sônia Maria neste sábado (28)",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema), realizará, neste sábado (28), das 9h às 13h, o evento de adoção de cães do Canil Municipal no Carrefour Sônia Maria, localizado na Avenida Brasil, 376, na Vila Carvalho. A campanha municipal de adoção responsável…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/evento-de-adocao-de-caes-do-canil-municipal-de-sorocaba-e-levado-ao-carrefour-sonia-maria-neste-sabado-28/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:37",
+"t": "Justiça determina uso mínimo de força para liberar acesso à Câmara e opção de sessão remota",
+"p": "Manifestantes bloquearam acesso à Câmara na manhã desta sexta (27) para impedir a votação da reforma da Previdência",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/justica-determina-uso-minimo-de-forca-para-liberar-acesso-a-camara-e-opcao-de-sessao-online/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:32",
+"t": "Prefeito Dario Saadi fala sobre reforma do Camprev; manifestantes mantêm bloqueio à Câmara",
+"p": "Segundo Dario, a Prefeitura mantém negociações com representantes do sindicato dos servidores, da Câmara Municipal e do conselho do Camprev para discutir possíveis alterações na proposta em Campinas",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/prefeito-dario-saadi-fala-sobre-reforma-do-camprev-em-campinas-manifestantes-mantem-bloqueio-a-camara/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:32",
+"t": "Operação Ferro-Velho interdita quatro estabelecimentos irregulares nesta semana",
+"p": "Foto: Seplan A Prefeitura de Sorocaba realizou “Operação Ferro-Velho”, na manhã de terça-feira (24) e quinta-feira (26), interditou temporariamente quatro estabelecimentos, de um total de sete fiscalizados, que funcionavam irregularmente da cidade. Eles somente poderão reabrir após regularizarem a situação…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/operacao-ferro-velho-interdita-quatro-estabelecimentos-irregulares-nesta-semana/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:25",
+"t": "Como funciona a eleição no São Paulo? Entenda formato e veja candidatos a presidente",
+"p": "",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371132/como-funciona-a-eleicao-no-sao-paulo-entenda-formato-e-veja-candidatos-a-presidente",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:24",
+"t": "Mulher na garupa de motocicleta morre prensada entre ônibus e caminhão",
+"p": "Mulher morreu após ser prensada entre ônibus e caminhão em Guarulhos. Namorado dela pilotava a motocicleta e está em estado grave",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Guarulhos"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mulher-na-garupa-de-motocicleta-morre-prensada-entre-onibus-e-caminhao",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:22",
+"t": "Diadema reforça mobilização contra o mosquito da dengue",
+"p": "Semana de mobilização acontece de 23 a 28 de novembro, com orientações à população, visitas domiciliares e ação educativa na Praça da Moça neste sábado",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371129/diadema-reforca-mobilizacao-contra-o-mosquito-da-dengue",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "13:00",
@@ -54915,228 +55140,6 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/policia-de-sp-faz-operacao-contra-quadrilha-especializada-em-invadir-casas-e-condominios/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "09:17",
-"t": "Jundiaí terá vacinação para todas as idades na Ponte São João neste sábado (14); saiba mais",
-"p": "Foto: Prefeitura de Jundiaí Vacinação em Jundiaí terá atendimento neste sábado (14), das 9h às 15h, na Clínica da Família Ponte São João. Veja quem pode participar.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/vacinacao-jundiai-sabado-14/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "09:15",
-"t": "Chuva de granizo assusta moradores do Videira",
-"p": "Chuva de granizo atingiu Indaiatuba entre as 6h e 7h desta quinta-feira (12); região está em alerta amarelo para tempestade",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Indaiatuba"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/chuva-de-granizo-assusta-moradores-do-videira/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "09:05",
-"t": "Homem é esfaqueado durante discussão e é internado no Hospital de Base em Rio Preto",
-"p": "Vítima sofreu uma perfuração profunda na lateral do abdômen após fugir de uma residência onde teria sido ameaçada e agredida. O caso foi registrado na noite desta quarta-feira (11), no Jardim das Oliveiras",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/homem-e-esfaqueado-durante-discussao-e-e-internado-no-hospital-de-base-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "09:02",
-"t": "Câmara dos Deputados aprova projeto que torna maus-tratos a animais crime hediondo",
-"p": "Proposta prevê pena de dois a cinco anos de prisão, multa e proibição da guarda de animais",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/brasil-e-mundo/camara-dos-deputados-aprova-projeto-que-torna-maus-tratos-a-animais-crime-hediondo/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "09:00",
-"t": "Marília movimenta R$ 54 milhões com atividades turísticas em 2026",
-"p": "Leilão de oito terrenos em Marília prevê arrecadação mínima de R$ 7,09 milhões (Alexandre de Souza/Prefeitura de Marília) Município integra a categoria de Município Turístico em 2026, com destaque para negócios, eventos, patrimônio cultural e atrativos como o Museu de Paleontologia e a Rota das Capelas.",
-"tema": "Contas públicas",
-"s": "anunciado",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-movimenta-r-54-milhoes-com-atividades-turisticas-em-2026/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "09:00",
-"t": "Barão Geraldo terá festa flashback no fim de semana",
-"p": "Programação será realizada no sábado (14) e domingo (15), na Praça Durval Páttaro, das 12h às 20h30",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/barao-geraldo-tera-festa-flashback-no-fim-de-semana/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:51",
-"t": "Ex-reitor do ITA será o novo secretário de Ciência, Tecnologia e Inovação de SP",
-"p": "Reprodução/Divulgação/Governo de SP O governador de São Paulo, Tarcísio de Freitas (Republicanos), anunciou nesta quarta-feira (11) o nome de Anderson Ribeiro Correia",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/geral/ex-reitor-do-ita-sera-o-novo-secretario-de-ciencia-tecnologia-e-inovacao-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:49",
-"t": "Procurada por tráfico é presa em Ilhabela após publicar sobre viagem de lua de mel nas redes sociais",
-"p": "Registros publicados nas redes sociais revelaram que a jovem estava no arquipélago com o marido; prisão é desdobramento de operação da PF em Santos",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ilhabela",
-"Santos"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/seguranca/procurada-por-trafico-e-presa-em-ilhabela-apos-publicar-sobre-viagem-de-lua-de-mel-nas-redes-sociais.html",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:45",
-"t": "Como se candidatar para trabalhar na megafábrica de celulose de R$ 23 bilhões que deve gerar 6 mil empregos no interior do Brasil",
-"p": "A construção de uma das maiores fábricas de celulose do mundo começa a movimentar o mercado de trabalho em Mato Grosso do Sul. Com investimento de aproximadamente R$ 23 bilhões, o Projeto Sucuriú, da multinacional chilena Arauco, prevê cerca de 6 mil empregos permanentes quando a unidade entrar em operação.…",
-"tema": "Investimentos",
-"s": "anunciado",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/como-se-candidatar-para-trabalhar-na-megafabrica-de-celulose-de-r-23-bilhoes-que-deve-gerar-6-mil-empregos-no-interior-do-brasil/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:39",
-"t": "Prepare o guarda-chuva! Quinta-feira (12) será de chuva forte e risco de tempestades em Jundiaí",
-"p": "Foto: Prefeitura de Jundiaí Inmet alerta para risco de temporais, ventos fortes e granizo; fim de semana terá temperaturas de até 29°C.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-chuva-tempestades/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:38",
-"t": "Mogi das Cruzes prorroga obra de pavimentação do Ecoponto do Jardim Armênia após chuvas",
-"p": "Obras foram iniciadas no dia 4 e previsão inicial era de conclusão nesta quinta-feira (12); novo prazo prevê reabertura do ecoponto no dia 23",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/mogi-das-cruzes-prorroga-obra-de-pavimentacao-do-ecoponto-do-jardim-armenia-apos-chuvas/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:35",
-"t": "Empresa perde R$ 620 mil em golpe aplicado por falsos representantes da Justiça",
-"p": "Este é o segundo caso registrado nesta semana. Golpistas entram em contato com as vítimas informando detalhes da ação",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/empresa-perde-r-620-mil-em-golpe-aplicado-por-falsos-representantes-da-justica-em-rio-preto/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:32",
-"t": "CPTM muda embarque em Mauá e Santo André por obras de oito meses",
-"p": "Obras começam nesta quinta-feira (12) e alteram embarque e desembarque de passageiros no sentido Palmeiras-Barra Funda",
-"tema": "Investimentos",
-"s": "obra",
-"c": [
-"Santo André",
-"Mauá"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368312/cptm-muda-embarque-em-maua-e-santo-andre-por-obras-de-oito-meses",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:28",
-"t": "38º Festival da Viola começa nesta quinta em Campos do Jordão",
-"p": "Primeira eliminatória será às 19h no Espaço Cultural Dr. Além; programação segue até sábado, com final no Auditório Claudio Santoro e show de Bruna Viola.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campos do Jordão"
-],
-"src": "NetCampos",
-"u": "https://www.netcampos.com/noticias/2026/11/festival-viola-campos-jordao-comeca-12-novembro-2026.html",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:28",
-"t": "Obra da Sanasa altera trânsito em avenida do Centro",
-"p": "Obra começa às 8h30 e deve seguir até as 17h, exigindo mudanças no trajeto dos motoristas que passam pelo Centro de Campinas",
-"tema": "Transporte",
-"s": "obra",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/obra-da-sanasa-altera-transito-em-avenida-do-centro/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "08:21",
-"t": "Cidade das flores nasceu de uma fazenda de 5 mil hectares comprada por holandeses para criar vacas, mas doenças no rebanho mudaram o rumo de Holambra",
-"p": "Foto: Prefeitura de Holambra Holambra nasceu em 1948 como colônia de imigrantes holandeses voltada à pecuária leiteira. As flores só chegaram em 1951, após dificuldades com o rebanho.",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Holambra"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/brasil/cidade-das-flores-nasceu-de-uma-fazenda-de-5-mil-hectares-comprada-por-holandeses-para-criar-vacas-mas-doencas-no-rebanho-mudaram-o-rumo-de-holambra/",
 "auto": true
 }
 ]
