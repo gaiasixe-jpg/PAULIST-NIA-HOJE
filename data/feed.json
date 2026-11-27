@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-26T22:28:49-03:00",
-"novos_nesta_coleta": 20,
+"atualizado": "2026-11-27T00:06:32-03:00",
+"novos_nesta_coleta": 14,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,12 +14,14 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -35,27 +38,97 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "00:04",
+"t": "Câmara faz sessões extras para votar mudanças nas regras do Orçamento 2027",
+"p": "Proposta da Mesa Diretora retira prazo de 30 de novembro para votação da LOA e permite correção de documentos de emendas impositivas em até dois dias úteis",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/camara-faz-sessoes-extras-para-votar-mudancas-nas-regras-do-orcamento-2027/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "00:01",
+"t": "A longevidade está relacionada com a saúde circulatória. Cuide-se!",
+"p": "Artigo escrito pelo Prof. Dr. Sthefano Atique Gabriel",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/a-longevidade-esta-relacionada-com-a-saude-circulatoria-cuide-se/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "00:00",
+"t": "PEC da Segurança e Estatuto da Vítima: o desafio de transformar direitos em realidade no Brasil",
+"p": "Artigo escrito por Dra. Celeste Leite dos Santos, promotora de Justiça em Último Grau do Colégio Recursal do Ministério Público (MP) de São Paulo",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/pec-da-seguranca-e-estatuto-da-vitima-o-desafio-de-transformar-direitos-em-realidade-no-brasil/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "23:01",
+"t": "Parceria entre Universidade São Judas e prefeitura leva a Cubatão novo ambulatório do SUS para a população negra com diversas especialidades",
+"p": "A Universidade São Judas inaugura na segunda-feira (30) o Ambulatório de Saúde da População Negra em Cubatão. O serviço atenderá mulheres, homens e crianças pelo Sistema Único de Saúde (SUS), com acesso regulado pelo município. A inauguração está marcada para as 16h, na unidade da universidade da Avenida Martins…",
+"tema": "Saúde",
+"s": "entregue",
+"c": [
+"Cubatão"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/parceria-entre-universidade-sao-judas-e-prefeitura-leva-a-cubatao-novo-ambulatorio-do-sus-para-a-populacao-negra-com-diversas-especialidades/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "22:46",
+"t": "Novas escavações revelam que sistema público de saúde em cidade medieval na Noruega criou ciclo vicioso e deixou habitantes mais doentes",
+"p": "Um esqueleto do século XII, retirado do solo de Trondheim, cidade histórica no centro da Noruega, guardava nos ossos e no sedimento ao redor a prova de que a tentativa de limpar as ruas e proteger a saúde da população acabou alimentando um ciclo de doença. As marcas de parasitas intestinais encontradas pelos…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/mundo/novas-escavacoes-revelam-que-sistema-publico-de-saude-em-cidade-medieval-na-noruega-criou-ciclo-vicioso-e-deixou-habitantes-mais-doentes/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "22:29",
+"t": "Torcida do São Paulo protesta na partida contra o Remo; veja",
+"p": "Rubens Chiri / saopaulofc.net Nas arquibancadas, faixas com cobranças foram expostas e cantos ofendendo jgoadores",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/mais/esportes/torcida-do-sao-paulo-protesta-na-partida-contra-o-remo-veja/",
+"auto": true
+},
 {
 "d": "2026-11-26",
 "h": "22:25",
@@ -117,6 +190,20 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/parecia-segunda-feira-comum-mas-mae-marreco-e-oito-filhotes-ocupam-a-prefeitura-e-sao-devolvidos-a-natureza-a-beira-dagua-na-mesma-manha/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "21:48",
+"t": "Diadema cadastra biometria facial para gratuidade no transporte público",
+"p": "Passageiros poderão embarcar sem apresentar cartão físico ou dinheiro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371012/diadema-cadastra-biometria-facial-para-gratuidade-no-transporte-publico",
 "auto": true
 },
 {
@@ -55002,100 +55089,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/candidato-de-sergio-moro-em-sp-comentarista-cristiano-beraldo-e-demitido-da-jovem-pan-apos-operacao-do-mprj/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:00",
-"t": "Uber tem 48h para suspender venda do ‘Passe para Motoristas’ com multa diária de R$100 mil",
-"p": "A proibição da comercialização do Passe para Motoristas pela Uber em todo o território nacional foi concedida por liminar pela 9ª Vara do Trabalho de Salvador. O despacho fixou prazo de 48 horas para o bloqueio da oferta sob sanção de R$ 100 mil por dia de descumprimento e resguarda a vigência contratual dos…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/uber-tem-48h-para-suspender-venda-do-passe-para-motoristas-com-multa-diaria-de-r100-mil/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:00",
-"t": "Inscrições abertas para novos cursos gratuitos online de empreendedorismo na região",
-"p": "Gastão Guedes/Divulgação Governo de SP Os moradores da Baixada Santista podem se inscrever até o dia 20 de novembro, através do site do Qualifica SP Empreenda.",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/inscricoes-abertas-para-novos-cursos-gratuitos-online-de-empreendedorismo-na-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:00",
-"t": "Cubatão abre cadastro reserva para estágio em 34 áreas; bolsa chega a R$ 900",
-"p": "Divulgação Oportunidades são destinadas a estudantes do ensino superior, com jornadas de 4 ou 6 horas diárias.",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Cubatão"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/cubatao-abre-cadastro-reserva-para-estagio-em-34-areas-bolsa-chega-a-r-900/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:57",
-"t": "Indústria, tecnologia e agroindústria estão entre as prioridades de Jundiaí para o mercado global",
-"p": "Foto: Prefeitura de Jundiaí Jundiaí identifica seis setores prioritários para a internacionalização e promove ações para preparar pequenas e médias empresas para o comércio exterior.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/noticias/jundiai-seis-setores-prioritarios-mercado-internacional/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:57",
-"t": "Indústria, tecnologia e agroindústria estão entre as prioridades de Jundiaí para o mercado global",
-"p": "Foto: Prefeitura de Jundiaí Jundiaí identifica seis setores prioritários para a internacionalização e promove ações para preparar pequenas e médias empresas para o comércio exterior.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/cidades/jundiai/jundiai-seis-setores-prioritarios-mercado-internacional/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:56",
-"t": "Orquestra Sinfônica de Sorocaba apresenta Concerto de Primavera em homenagem a Nilson Lombardi",
-"p": "A Orquestra Sinfônica de Sorocaba (OSS) apresentará, nesta sexta-feira (13), às 20h, e domingo (15), às 19h, na Sala Fundec, o Concerto de Primavera, sob orientação do maestro Eduardo Pereira, diretor artístico e regente titular da orquestra. Promovidas pela Fundec, que conta com a parceria da Prefeitura de…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/orquestra-sinfonica-de-sorocaba-apresenta-concerto-de-primavera-em-homenagem-a-nilson-lombardi/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "15:54",
-"t": "Prefeitura de Ribeirão Preto demite a influenciadora Esquerdogata",
-"p": "Conhecida na internet como Esquerdogata, servidora Aline Bardy tem demissão publicada no Diário Oficial e tem dez dias para recorrer",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/politica/prefeitura-de-ribeirao-preto-demite-a-influenciadora-esquerdogata/",
 "auto": true
 }
 ]
