@@ -1,12 +1,11 @@
 {
-"atualizado": "2026-11-27T10:25:58-03:00",
-"novos_nesta_coleta": 40,
+"atualizado": "2026-11-27T12:05:53-03:00",
+"novos_nesta_coleta": 42,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -14,14 +13,12 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -38,15 +35,475 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "12:05",
+"t": "Morre em Fernandópolis o servidor público Ricardo Antônio Souza da Silva, filho do locutor Toninho Alves",
+"p": "Faleceu o servidor público municipal Ricardo Antônio Souza da Silva em decorrência de um câncer cerebral. Filho do locutor de rádio Toninho Alves, da Tec FM, ele deixa familiares, amigos e colegas de trabalho enlutados em Fernandópolis (SP). Por meio de nota oficial, a Prefeitura de Fernandópolis manifestou pesar…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/morre-em-fernandopolis-o-servidor-publico-ricardo-antonio-souza-da-silva-filho-do-locutor-toninho-alves/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "12:02",
+"t": "Araraquara: Santa Casa afasta técnico de enfermagem após morte de pacientes",
+"p": "Técnico de enfermagem de 43 anos foi preso pela Polícia Civil. Os três pacientes mortos estavam na UTI da Santa Casa de Araraquara",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araraquara"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/araraquara-santa-casa-afasta-tecnico-de-enfermagem-apos-morte-de-pacientes",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:59",
+"t": "Execução de presidente de clube foi encomendada e teve participação de seis, aponta polícia",
+"p": "Prisão de suspeito de envolvimento em homicídio foi feito em Bauru Três investigados estão presos e outros três são procurados, entre eles o suposto mandante do homicídio.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Bauru"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/execucao-de-presidente-de-clube-foi-encomendada-e-teve-participacao-de-seis-aponta-policia/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:57",
+"t": "Obras do complexo viário entre os bairros Carandá e Parque São Bento entra na fase final",
+"p": "As obras de construção do complexo viário que vai interligar as regiões do Parque São Bento e dos residenciais Carandá e Altos do Ipanema, na Zona Norte da cidade, entrou na fase final, com previsão de conclusão no primeiro trimestre de 2027. O complexo faz parte do conjunto de ações do programa ‘Sorocaba Tem […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/obras-do-complexo-viario-entre-os-bairros-caranda-e-parque-sao-bento-entra-na-fase-final/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:51",
+"t": "Casos de Covid-19 aumentam em Santos e acendem alerta para prevenção na Baixada Santista",
+"p": "Município registrou 102 casos em novembro, contra apenas dois em outubro. Cidades da região também contabilizam infecções e reforçam a importância da vacinação",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/litoral/casos-de-covid-19-aumentam-em-santos-e-acendem-alerta-para-prevencao-na-baixada-santista/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:48",
+"t": "Lucas Zacarias acompanha obras do Meu Bairro Novo em Santo André",
+"p": "Ao lado do prefeito Gilvan, vereador destaca investimentos na Vila Palmares e região, com recapeamento, iluminação em LED, mais segurança e mobilidade para os moradores",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371101/lucas-zacarias-acompanha-obras-do-meu-bairro-novo-em-santo-andre",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:47",
+"t": "Última edição do programa ‘Quarta com o Prefeito’ em 2026 ocorrerá na próxima quarta-feira (2)",
+"p": "Os moradores de Sorocaba poderão participar da 48ª edição do programa ‘Quarta com o Prefeito’, na próxima quarta-feira (2), das 9h às 16h, no Teatro Municipal ‘Teotônio Vilela’ (TMTV). As inscrições devem ser feitas pelo link: http://www.sorocaba.sp.gov.br/quartacomprefeito. Realizado pela Prefeitura de Sorocaba,…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/ultima-edicao-do-programa-quarta-com-o-prefeito-em-2026-ocorrera-na-proxima-quarta-feira-2/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:46",
+"t": "Tarcísio de Freitas elogia escoha de Trabuco para a Fazenda, mas diz que PT 'pode atrapalhar'",
+"p": "",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371102/tarcisio-de-freitas-elogia-escoha-de-trabuco-para-a-fazenda-mas-diz-que-pt-pode-atrapalhar-",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:45",
+"t": "Prazo para escolher cursos no Provão Paulista 2026 termina nesta sexta-feira; mais de 300 mil já registraram opções",
+"p": "Termina nesta sexta-feira (27) o prazo para que estudantes da rede pública selecionem as opções de cursos superiores no Provão Paulista Seriado 2026, sistema de ingresso criado pela Secretaria da Educação do Estado de São Paulo (Seduc-SP). Segundo balanço da pasta, mais de 300 mil alunos já concluíram a etapa,…",
+"tema": "Educação",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prazo-para-escolher-cursos-no-provao-paulista-2026-termina-nesta-sexta-feira-mais-de-300-mil-ja-registraram-opcoes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:44",
+"t": "Polícia Civil prende homem suspeito de atirar esferas metálicas contra hotel",
+"p": "Um homem foi preso em flagrante pela Polícia Civil nesta sexta-feira (27) sob suspeita de disparar esferas metálicas contra as janelas de um hotel no bairro dos Jardins, na zona oeste da capital paulista. Durante a abordagem, os agentes apreenderam com o suspeito uma arma de pressão movida a gás CO₂, estilingues,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-homem-suspeito-de-atirar-esferas-metalicas-contra-hotel/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:43",
+"t": "Serviços digitais do Governo de SP voltam ao ar após rompimento de cabos de fibra óptica",
+"p": "A Companhia de Processamento de Dados do Estado de São Paulo (Prodesp) informou que os serviços públicos impactados pelo rompimento de duas alças de fibra óptica nesta sexta-feira (27) já começaram a ser restabelecidos. Portais institucionais do governo estadual, atendimentos do Poupatempo e do Detran-SP, além de…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/servicos-digitais-do-governo-de-sp-voltam-ao-ar-apos-rompimento-de-cabos-de-fibra-optica/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:35",
+"t": "Conta de água tem reajuste de 4,58% autorizado em Marília",
+"p": "Novos valores poderão ser cobrados após prazo mínimo de 30 dias; reajuste prevê acréscimo na tarifa mínima residencial.",
+"tema": "Água",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/conta-de-agua-tem-reajuste-de-458-autorizado-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:30",
+"t": "Ilhabela tem 127 vagas de emprego com a chegada da temporada de verão",
+"p": "Oportunidades abrangem comércio, hotelaria, alimentação e serviços; há postos temporários, vagas sem exigência de experiência e salários de até R$4.770,86",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-tem-127-vagas-de-emprego-com-a-chegada-da-temporada-de-verao.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:26",
+"t": "Calor e frio no mesmo dia podem afetar o organismo negativamente; entenda quais medidas podem prevenir problemas de saúde",
+"p": "A alternância entre períodos de calor intenso, temperaturas mais baixas, ar seco e mudanças na umidade pode provocar desconfortos e agravar problemas de saúde, principalmente respiratórios. Em dias em que a temperatura oscila muito ao longo das horas, o organismo precisa adaptar mecanismos de regulação térmica,…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/calor-e-frio-no-mesmo-dia-entenda-como-mudancas-bruscas-de-temperatura-afetam-o-organismo-e-quais-medidas-podem-prevenir-problemas-de-saude/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:26",
+"t": "Patrulha Canina marca presença no Natal Encantado de Santo André",
+"p": "Show dos personagens será realizado neste domingo (29), às 13h, no estacionamento do Paço Municipal, como parte da programação gratuita do Natal Encantado",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371094/patrulha-canina-marca-presenca-no-natal-encantado-de-santo-andre",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:25",
+"t": "SP: rompimento de cabos de fibra óptica causa instabilidade",
+"p": "O rompimento de dois cabos de fibra óptica causou a interrupção e a instabilidade de serviços públicos no estado de São Paulo na manhã desta sexta-feira (27). Entre os serviços afetados estão os portais institucionais do governo do estado, sistemas das áreas de segurança pública, saúde e educação, além das…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/sp-rompimento-de-cabos-de-fibra-optica-causa-instabilidade",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:21",
+"t": "Quatro suspeitos de integrar “gangue do quebra-vidro” são presos em SP",
+"p": "Segundo a Polícia Civil, os suspeitos foram encontrados após uma mulher ter o celular roubado enquanto estava em um carro de aplicativo",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/quatro-suspeitos-de-integrar-gangue-do-quebra-vidro-sao-presos-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:20",
+"t": "Poupatempo com atendimentos cancelados? Entenda o que aconteceu com os serviços",
+"p": "Rompimento de dois cabos de fibra óptica durante uma obra na Grande São Paulo afetou os serviços estaduais e provocou instabilidade no Poupatempo; cidadãos com horários agendados terão atendimento reagendado",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/poupatempo-com-atendimentos-cancelados-entenda-o-que-aconteceu-com-os-servicos/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:08",
+"t": "Nota de Pesar – Valdir Ezzo",
+"p": "A Prefeitura de Sorocaba decreta luto oficial de um dia e manifesta profundo pesar pelo falecimento do desportista Valdir Edison de Oliveira (Valdir Ezzo), aos 68 anos, ocorrido quinta-feira (26). Nascido em Sorocaba, foi atleta profissional no Palmeiras e atuou por equipes do futebol varzeano sorocabano, como o…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/nota-de-pesar-valdir-edison-de-oliveira/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:07",
+"t": "Sua clínica tem CNPJ, mas isso não significa que o nome pertence a você",
+"p": "Ausência de registro de marca pode colocar em risco a reputação, os investimentos e o patrimônio construído por profissionais da saúde.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/colunistas/sua-clinica-tem-cnpj-mas-isso-nao-significa-que-o-nome-pertence-a-voce/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:05",
+"t": "Três praias do litoral de SP terão estacionamento pago durante todo o verão, com cobrança de até R$ 13 por vaga e fiscalização por câmeras",
+"p": "Motoristas que pretendem aproveitar a temporada de verão em Itanhaém, no litoral de São Paulo, precisarão preparar o bolso. A partir de 1º de dezembro, três praias do município contarão com estacionamento rotativo pago, com tarifa de R$ 2,60 por hora. A Zona Azul abrangerá as praias dos Pescadores, do Sonho e do…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo",
+"Itanhaém"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/tres-praias-do-litoral-de-sp-terao-estacionamento-pago-durante-todo-o-verao-com-cobranca-de-ate-r-13-por-vaga-e-fiscalizacao-por-cameras/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:05",
+"t": "Caraguatatuba oferece 223 vagas com salários de até R$4 mil; confira as funções",
+"p": "Oportunidades abrangem diferentes setores e incluem funções no comércio, hotelaria, alimentação, construção civil, transporte e serviços",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/caraguatatuba-oferece-223-vagas-com-salarios-de-ate-r4-mil-confira-as-funcoes.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:00",
+"t": "Inscrições para processo seletivo em Itanhaém terminam neste sábado",
+"p": "Divulgação/Prefeitura de Itanhaém As inscrições para o processo seletivo simplificado da Prefeitura de Itanhaém com 25 vagas terminam neste sábado (28).",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/inscricoes-para-processo-seletivo-em-itanhaem-terminam-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:00",
+"t": "Mongaguá amplia em 20% o número de alvarás para ambulantes",
+"p": "Dyego Gonçalves/Divulgação Prefeitura de Mongaguá A iniciativa tem como prioridade transformar o crescimento do turismo em oportunidades concretas para quem vive em Mongaguá.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/mongagua-amplia-em-20-o-numero-de-alvaras-para-ambulantes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:58",
+"t": "Mogi-Bertioga tem interdição parcial em três trechos nesta sexta-feira (27)",
+"p": "Obras provocam interdições parciais em três segmentos da rodovia; tempo fica nublado em Bertioga e Mogi das Cruzes nesta manhã",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Mogi das Cruzes",
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicao-parcial-em-tres-trechos-nesta-sexta-feira-27.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:57",
+"t": "PM de folga flagra assalto a casal, atira e fere 2 suspeitos em SP",
+"p": "Câmera de segurança filmou momento em que PM flagra assalto, intervém e atira contra suspeitos na zona sul de São Paulo",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/pm-de-folga-flagra-assalto-a-casal-atira-e-fere-2-suspeitos-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:57",
+"t": "Chuva de 100 mm e ventos de 100 km/h: fenômeno atmosférico coloca 3 estados em alerta para temporais nesta sexta-feira",
+"p": "Uma frente fria associada a um ciclone extratropical avança pela costa brasileira e aumenta o risco de temporais nesta sexta-feira (27). O Instituto Nacional de Meteorologia (Inmet) colocou Paraná, Santa Catarina e Rio Grande do Sul sob alerta laranja para tempestades, com previsão de chuva que pode chegar a 100…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/chuva-de-100-mm-e-ventos-de-100-km-h-fenomeno-atmosferico-coloca-3-estados-em-alerta-para-temporais-nesta-sexta-feira/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:54",
+"t": "Saúde reforça importância da vacinação contra a Covid-19 em Registro",
+"p": "Imunização",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/saude-reforca-importancia-da-vacinacao-contra-a-covid-19-em-registro/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:48",
+"t": "Minha Casa, Minha Vida em Ribeirão Preto: veja quem foi convocado e os documentos exigidos pela Caixa",
+"p": "Prefeitura chama famílias selecionadas para o residencial Francisco Izidoro da Silva 2; entrega da documentação define quem recebe os imóveis da Faixa 1 do Minha Casa, Minha Vida",
+"tema": "Política",
+"s": "entregue",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/minha-casa-minha-vida-em-ribeirao-preto-veja-quem-foi-convocado-e-os-documentos-exigidos-pela-caixa/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:45",
+"t": "Obras no entorno de shopping no litoral de SP interditam ruas, mudam acesso ao estacionamento e alteram nove linhas de ônibus às vésperas do Natal",
+"p": "Quem pretende fazer as compras de fim de ano no Shopping Praiamar ou circular pelo bairro Aparecida, em Santos, terá de ficar atento aos novos caminhos. As obras de reurbanização da Alameda Armênio Mendes provocaram mudanças no trânsito da região, com inversão de sentido de circulação, interdições de ruas e…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/obras-no-entorno-de-shopping-no-litoral-de-sp-interditam-ruas-mudam-acesso-ao-estacionamento-e-alteram-nove-linhas-de-onibus-as-vesperas-do-natal/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:43",
+"t": "Homenagens e reconhecimento aos profissionais marcam a celebração dos 77 anos da GM de Jundiaí",
+"p": "Foto: Prefeitura de Jundiaí Cerimônia reuniu autoridades, agentes da ativa e aposentados, além de reconhecer 28 profissionais pelos serviços prestados à população.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/guarda-municipal-de-jundiai-77-anos/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:35",
+"t": "Consultório Veterinário Móvel estará na Vila Barão na próxima semana",
+"p": "O Consultório Veterinário Móvel atenderá, na próxima semana, de 30 de novembro a 4 de dezembro, das 8h30 às 14h, cães e gatos de tutores de Sorocaba no estacionamento do CEI-121 “Antonieta da Silva Gomes”, localizado na Avenida Percito de Sousa Queiroz, 890. As vagas são limitadas e as inscrições devem ser feitas…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/consultorio-veterinario-movel-estara-na-vila-barao-na-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:30",
+"t": "Free flow na Anchieta e Imigrantes começa em dezembro com isenção; veja quem tem direito e como evitar multas",
+"p": "Motoristas que utilizam o Sistema Anchieta-Imigrantes terão uma regra especial de isenção durante a implantação do pedágio eletrônico free flow, que começa a operar à meia-noite da próxima segunda-feira (1º/12). Quem desceu a serra em direção à Baixada Santista entre 15 e 30 de novembro e retornar a partir do…",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/free-flow-na-anchieta-e-imigrantes-comeca-em-dezembro-com-isencao-veja-quem-tem-direito-e-como-evitar-multas/",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "10:21",
@@ -277,6 +734,20 @@
 ],
 "src": "O Diário de Mogi",
 "u": "https://www.odiariodemogi.net.br/historico/senado-aprova-projeto-que-obriga-teste-do-bafometro-em-blitz-e-acidentes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "09:45",
+"t": "Polícia Civil prende 2 por tortura e tentativa de homicídio em Ribeirão Preto",
+"p": "Polícia Civil prendeu dois homens nesta sexta (27) suspeitos de tortura e tentativa de homicídio",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/policia-civil-prende-2-por-tortura-e-tentativa-de-homicidio-em-ribeirao-preto/",
 "auto": true
 },
 {
@@ -644,6 +1115,18 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/brasil/o-funcionario-nao-adoece-do-dia-para-a-noite-tecnico-alerta-para-sinais-de-esgotamento-e-riscos-a-saude-mental-no-ambiente-de-trabalho/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:42",
+"t": "‘O funcionário não adoece do dia para a noite’: técnico alerta para sinais de esgotamento e riscos à saúde mental no ambiente de trabalho",
+"p": "Acordar na segunda-feira sem vontade de trabalhar, terminar o expediente completamente esgotado ou sentir ansiedade só de pensar na rotina profissional. Esses comportamentos podem parecer apenas consequências de uma semana cansativa, mas também podem indicar que alguma coisa não vai bem. O adoecimento emocional no…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/variedades/saude/o-funcionario-nao-adoece-do-dia-para-a-noite-tecnico-alerta-para-sinais-de-esgotamento-e-riscos-a-saude-mental-no-ambiente-de-trabalho/",
 "auto": true
 },
 {
@@ -54670,489 +55153,6 @@
 ],
 "src": "Gazeta de Rio Preto",
 "u": "https://www.gazetaderiopreto.com.br/tarcisio-anuncia-ricardo-salles-e-mais-cinco-secretarios-para-segundo-mandato/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "07:48",
-"t": "Resultado da Lotomania 2998: prêmio acumula para R$ 5,7 milhões; veja os 20 números",
-"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Concurso de quarta-feira (11/11) teve cinco apostas com 19 acertos, cada uma premiada com R$ 51.671,37.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-lotomania-concurso-2998/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "07:44",
-"t": "Motociclista morre após atingir pedra e cair no acostamento de rodovia",
-"p": "Motociclista morreu na noite desta quarta (11) após atingir uma pedra e cair em trecho de rodovia em Bebedouro, na região de Ribeirão Preto",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Ribeirão Preto",
-"Bebedouro"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/motociclista-morre-apos-atingir-pedra-e-cair-no-acostamento-de-rodovia/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "07:41",
-"t": "Resultado da Lotofácil 3827: prêmio acumula para R$ 5 milhões; veja as 15 dezenas sorteadas",
-"p": "Foto: Depositphotos Concurso de quarta-feira (11/11) não teve ganhador na faixa máxima; 375 apostas receberam R$ 1.159,99 por 14 acertos.",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/loterias/resultado-lotofacil-concurso-3827/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "07:32",
-"t": "Lotofácil 3827 acumula e deixa 101 apostas de SP com 14 acertos; prêmio milionário volta a ser disputado nesta quinta-feira",
-"p": "O concurso 3827 da Lotofácil passou em branco e não deixou nenhum apostador milionário na noite da última quarta-feira (11). No estado de São Paulo, por exemplo, 101 apostas acertaram 14 dezenas. Agora, a Lotofácil volta a movimentar os apostadores na noite desta quinta-feira (12). Lotofácil 3827 Como resgatar os…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/lotofacil-3827-acumula-e-deixa-101-apostas-de-sp-com-14-acertos-premio-milionario-volta-a-ser-disputado-nesta-quinta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "07:30",
-"t": "Câmara aprova projeto que torna maus-tratos com morte de animais crime hediondo e inafiançável",
-"p": "A Câmara dos Deputados aprovou nesta quarta-feira (11/11) um projeto de lei que classifica como crime hediondo os maus-tratos contra animais que resultarem em morte. A proposta prevê que os responsáveis não poderão pagar fiança para obter liberdade e também ficarão sujeitos a regras mais rigorosas de cumprimento da…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/camara-aprova-projeto-que-torna-maus-tratos-com-morte-de-animais-crime-hediondo-e-inafiancavel/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "07:30",
-"t": "Prefeitura de Sorocaba abre inscrições para projeto de games “O Sonho Além do Jogo”",
-"p": "Estudantes da rede pública, de 12 a 18 anos, interessados no mundo dos games, poderão participar do projeto “O Sonho Além do Jogo” com workshop e oficina, nos dias 16,17 e 18 de novembro, das 8h às 11h e das 14h às 17h, no auditório do Centro de Referência em Educação (CRE), com a presença […]",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-abre-inscricoes-para-projeto-de-games-o-sonho-alem-do-jogo/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "07:02",
-"t": "Mega-Sena sorteia prêmio de R$ 20 milhões nesta quinta-feira",
-"p": "A Mega-Sena sorteia nesta quinta-feira (12) prêmio estimado em R$ 20 milhões . As seis dezenas do concurso 3.085 serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até às 20h (horário de Brasília) de hoje em casas lotéricas credenciadas pela Caixa em…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-20-milhoes-nesta-quinta-feira",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:50",
-"t": "Trem iluminado de Natal da Rumo passará por Rio Preto e cidades da região em dezembro",
-"p": "Locomotiva decorada com luzes natalinas percorrerá municípios do interior paulista entre os dias 2 e 6 de dezembro. Em Rio Preto, programação terá apresentação da Orquestra de Viola Caipira.",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/trem-iluminado-de-natal-da-rumo-passara-por-rio-preto-em-dezembro/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:44",
-"t": "Chuva ganha força em SP a partir desta quinta-feira; veja como fica o tempo em Ribeirão Preto",
-"p": "Climatempo prevê retorno da chuva nesta quinta-feira (12) e aumento das pancadas na sexta (13) em Ribeirão Preto",
-"tema": "Meio ambiente",
-"s": "anunciado",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/chuva-ganha-forca-em-sp-a-partir-desta-quinta-feira-veja-como-fica-o-tempo-em-ribeirao-preto/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:02",
-"t": "Saúde de Fernandópolis realiza ação de prevenção ao diabetes e saúde do homem neste sábado, 14",
-"p": "Em alusão ao Dia Mundial do Diabetes, a Secretaria Municipal de Saúde de Fernandópolis promove, no próximo sábado (14), uma feira de conscientização e prevenção aberta a toda a população. As atividades serão concentradas na Praça da Matriz, das 8h às 12h, com o objetivo de orientar a comunidade sobre a importância…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/saude-de-fernandopolis-realiza-acao-de-prevencao-ao-diabetes-e-saude-do-homem-neste-sabado-14/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:01",
-"t": "Jales abre inscrições para a 6ª Corrida Solidária com foco em esporte e arrecadação de alimentos",
-"p": "A cidade de Jales se prepara para receber a 6ª edição da Corrida Solidária no dia 13 de dezembro. Com largada agendada para as 7h da manhã na Praça Dr. Euphly Jalles, conhecida como Praça da Fonte, o evento promete reunir atletas amadores, profissionais e famílias em uma grande mobilização voltada à saúde, à…",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [
-"Jales"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/jales-abre-inscricoes-para-a-6a-corrida-solidaria-com-foco-em-esporte-e-arrecadacao-de-alimentos/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:01",
-"t": "Guarani d’Oeste integra fórum regional para reforçar ações de combate à dengue",
-"p": "O município de Guarani d’Oeste participou, nesta terça-feira (10), do III Fórum Regional para o Enfrentamento da Dengue, sediado no Parque Tecnológico de São José do Rio Preto. O encontro teve como objetivo principal capacitar equipes técnicas e alinhar estratégias preventivas entre as cidades da região para evitar…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"São José do Rio Preto",
-"Guarani d'Oeste"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/guarani-doeste-integra-forum-regional-para-reforcar-acoes-de-combate-a-dengue/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:01",
-"t": "Prefeitura de Macedônia altera horário de atendimento ao público para serviço de dedetização",
-"p": "A Prefeitura de Macedônia comunicou que realizará uma dedetização geral em seus prédios públicos nesta sexta-feira, dia 13 de novembro. A medida visa à manutenção sanitária dos espaços e abrangerá a maioria dos setores da administração municipal, ficando fora do procedimento apenas o Hospital Municipal. Em virtude…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Macedônia"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-macedonia-altera-horario-de-atendimento-ao-publico-para-servico-de-dedetizacao/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:01",
-"t": "Mira Estrela sedia palestra do Sebrae sobre Turismo de Experiência e fortalecimento do comércio local",
-"p": "A Câmara Municipal de Mira Estrela promoveu, na noite de terça-feira (10), a palestra gratuita “Potencialize seu negócio com o Turismo de Experiência!”, ministrada pelo especialista Bernardo. O encontro reuniu empreendedores e moradores interessados em explorar e impulsionar as vocações turísticas e econômicas do…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Mira Estrela"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/mira-estrela-sedia-palestra-do-sebrae-sobre-turismo-de-experiencia-e-fortalecimento-do-comercio-local/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:01",
-"t": "Guarda Civil Municipal de Jales realiza capacitação sobre a Lei Lucas para profissionais da Rede Municipal de Ensino",
-"p": "A Guarda Civil Municipal de Jales realizou um treinamento voltado para professores e funcionários da rede municipal de ensino focado na aplicação da Lei Lucas (Lei Federal nº 13.722/2018), que torna obrigatória a capacitação em primeiros socorros no ambiente escolar. A formação foi dividida em dois encontros…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Jales"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/guarda-civil-municipal-de-jales-realiza-capacitacao-sobre-a-lei-lucas-para-profissionais-da-rede-municipal-de-ensino/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:01",
-"t": "Macedônia abre inscrições para a 2ª Copa Dezembrão de Futsal",
-"p": "O município de Macedônia se prepara para movimentar a cena esportiva local com a realização da 2ª edição da Copa Dezembrão de Futsal. Organizada pela Secretaria Municipal de Esportes em parceria com a Prefeitura, a competição tem início marcado para o dia 25 de novembro e promete reunir atletas da região na Quadra…",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"Macedônia"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/macedonia-abre-inscricoes-para-a-2a-copa-dezembrao-de-futsal/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "06:01",
-"t": "Prefeitura de Mira Estrela divulga canais de atendimento da Assistência Social para a população",
-"p": "A Prefeitura Municipal de Mira Estrela, por meio da Secretaria Municipal de Assistência Social, divulgou a lista atualizada dos canais oficiais de comunicação para atendimento às famílias da cidade. A iniciativa tem como objetivo facilitar o acesso dos moradores a orientações, programas sociais e serviços públicos…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"Mira Estrela"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/prefeitura-de-mira-estrela-divulga-canais-de-atendimento-da-assistencia-social-para-a-populacao/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:30",
-"t": "Bolsa Família pode ser consultado pelo CPF: veja como descobrir se o benefício foi aprovado",
-"p": "Descobrir se o Bolsa Família foi liberado ficou mais simples com a centralização dos serviços no número do CPF. O cidadão não precisa depender de intermediários nem comparecer a agências bancárias apenas para saber se a família foi incluída na folha de pagamento do mês. Passo a passo para consultar com o seu CPF…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/bolsa-familia-pode-ser-consultado-pelo-cpf-veja-como-descobrir-se-o-beneficio-foi-aprovado/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "‘Por Você’: Pérola retoma presidência do hospital e Ítalo surpreende em audição de dança no capítulo de sexta (13)",
-"p": "Nesta sexta-feira (13), em Por Você, o clima de confronto explode nos corredores da instituição médica. Mesmo abalada com as revelações venenosas de Vanessa, Bela engole o orgulho e não demonstra fraqueza diante da rival. Logo em seguida, Peixe procura a médica para se justificar pelo imóvel aceito, mas a obstetra…",
-"tema": "Saúde",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-perola-retoma-presidencia-do-hospital-e-italo-surpreende-em-audicao-de-danca-no-capitulo-de-sexta-13/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Prefeitura entrega nova unidade móvel do Consultório na Rua em Marília",
-"p": "Van recebeu investimento de R$ 405,3 mil e permitirá consultas e procedimentos nos locais onde vivem os pacientes.",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-entrega-nova-unidade-movel-do-consultorio-na-rua-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Prefeitura oferece recompensa por denúncia de descarte irregular de lixo",
-"p": "Programa prevê pagamento ao denunciante e estabelece punições para comunicações falsas ou feitas de má-fé.",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/prefeitura-oferece-recompensa-por-denuncia-de-descarte-irregular-de-lixo/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Fim da escala 6×1 pode elevar custo de contratos terceirizados em Marília",
-"p": "Saúde, coleta de lixo e outros serviços essenciais terão atendimento durante o feriado Preparo da merenda e coleta de lixo estão entre os serviços que podem exigir adequações. Prefeitura ainda não calculou o impacto.",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/fim-da-escala-6x1-pode-elevar-custo-de-contratos-terceirizados-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Marília recebe formação sobre repasses ao Terceiro Setor nesta quinta-feira",
-"p": "Evento gratuito conta com seis horas de atividades, com a participação da presidente do TCE e transmissão pela internet.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-recebe-formacao-sobre-repasses-ao-terceiro-setor-nesta-quinta-feira/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Mulher é presa pela Dise com 1,2 quilo de drogas e quase R$ 3,9 mil em Marília",
-"p": "Entorpecentes e dinheiro apreendidos pela Polícia Civil em Marília Investigação apontou imóvel no Jardim Monte Castelo como local usado para armazenamento de entorpecentes.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Monte Castelo",
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/mulher-e-presa-pela-dise-com-12-quilo-de-drogas-e-quase-r-39-mil-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Marília abre licitação de R$ 2,96 milhões para manutenção de câmaras de vacinas",
-"p": "Pregão prevê serviços em 65 unidades de saúde e prazo de 12 meses; propostas podem ser cadastradas até 27 de novembro.",
-"tema": "Saúde",
-"s": "obra",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-abre-licitacao-de-r-296-milhoes-para-manutencao-de-camaras-de-vacinas/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Obituário | Falecimentos registrados nesta quinta-feira (12/11) em Marília e região",
-"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta quinta-feira, dia 12 de novembro.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-quinta-feira-12-11-em-marilia-e-regiao/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Dise prende suspeito com drogas em ponto de tráfico na zona sul de Marília",
-"p": "Dise apreendeu grande quantidade de entorpecentes na zona sul Investigação da Polícia Civil levou policiais até um imóvel usado para armazenamento e preparação de entorpecentes.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/dise-prende-suspeito-com-drogas-em-ponto-de-trafico-na-zona-sul-de-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Pedidos por apps e pagamentos via Pix revelam esquema de tráfico em São Vicente",
-"p": "Divulgação/Polícia Civil A investigação terminou com a prisão de um homem de 31 anos nesta quarta-feira (11) e a apreensão de mais de 11 quilos de entorpecentes.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/pedidos-por-apps-e-pagamentos-via-pix-revelam-esquema-de-trafico-em-sao-vicente/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "05:00",
-"t": "Mulher é presa após descoberta de central de distribuição de drogas em Praia Grande; VÍDEO",
-"p": "Divulgação/Polícia Civil Durante as buscas no imóvel, os investigadores encontraram as drogas escondidas em um compartimento sob a escada da garagem.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Praia Grande"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/policia/mulher-e-presa-apos-descoberta-de-central-de-distribuicao-de-drogas-em-praia-grande-video/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "04:01",
-"t": "Zona Azul começa hoje na cidade de Guarujá: entenda funcionamento e valores",
-"p": "Guarujá começa a operar nesta quinta-feira (12) o novo sistema de estacionamento rotativo, conhecido como Zona Azul. Administrado pela empresa Rizzo Park, o serviço prevê a disponibilização de 2,1 mil vagas em diferentes regiões do município, incluindo áreas comerciais e turísticas. Os valores começam em R$ 4 por…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Guarujá"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/turismo/zona-azul-comeca-hoje-na-cidade-de-guaruja-entenda-funcionamento-e-valores/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "03:24",
-"t": "Rede de proteção discute medidas para qualificar acolhimento de menores em Marília",
-"p": "Reunião reuniu órgãos da rede de proteção para discutir prevenção, encaminhamentos e integração dos serviços municipais.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/rede-de-protecao-discute-medidas-para-qualificar-acolhimento-de-menores-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "02:30",
-"t": "OS quer demitir e cortar salários para honrar contrato com Prefeitura de SP",
-"p": "INTS planeja demitir funcionários e reduzir salários para cumprir proposta a chamamento da Prefeitura de São Paulo",
-"tema": "Política",
-"s": "obra",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/os-quer-demitir-e-cortar-salarios-para-honrar-contrato-com-prefeitura-de-sp",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "02:00",
-"t": "Em busca de emendas, prefeitos fazem peregrinação por gabinetes da Alesp",
-"p": "Políticos de cidades pequenas levam presentes para deputados e tentam negociar emendas mencionando votação em suas cidades",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/em-busca-de-emendas-prefeitos-fazem-peregrinacao-por-gabinetes-da-alesp",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "00:00",
-"t": "Prefeitura de Prudente abre inscrições para exploração de espaço comercial na Vila Real",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67740",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "00:00",
-"t": "780 alunos da rede municipal participaram da 2ª Fase da Obmep Mirim 2026",
-"p": "",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67745",
 "auto": true
 }
 ]
