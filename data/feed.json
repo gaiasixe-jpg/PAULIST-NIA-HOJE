@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-27T19:04:30-03:00",
-"novos_nesta_coleta": 28,
+"atualizado": "2026-11-27T20:05:20-03:00",
+"novos_nesta_coleta": 31,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -26,7 +26,7 @@
 "Prefeitura de Santos",
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
-"Diários Oficiais municipais (Querido Diário)"
+"Diário Oficial (via Alesp)"
 ],
 "fontes_com_erro": [
 {
@@ -54,11 +54,281 @@
 "erro": "HTTP Error 415: Unsupported Media Type"
 },
 {
-"fonte": "Diário Oficial (via Alesp)",
-"erro": "HTTP Error 503: Service Unavailable"
+"fonte": "Diários Oficiais municipais (Querido Diário)",
+"erro": "HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Error 503: Service Unavailable | HTTP Err"
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "20:00",
+"t": "Tumulto interrompe sessão na Câmara de Cubatão após tentativa de impedir permanência de pessoas armadas",
+"p": "Reprodução/TV Câmara Guarda Civil Municipal foi acionada durante a 33ª Sessão Extraordinária desta sexta-feira (27).",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/tumulto-interrompe-sessao-na-camara-de-cubatao-apos-tentativa-de-impedir-permanencia-de-pessoas-armadas/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:57",
+"t": "Polícia Rodoviária apreende 21 mil maços de cigarros contrabandeados após perseguição em Sud Mennucci",
+"p": "Motorista desobedeceu ordem de parada, abandonou a picape carregada com cigarros e fugiu para um canavial às margens da Rodovia Feliciano Sales Cunha (SP-310). Uma carga de 21 mil maços de cigarros contrabandeados, avaliada em aproximadamente R$ 200 mil, foi apreendida pela Polícia Militar Rodoviária na manhã desta…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sud Mennucci"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/policia-rodoviaria-apreende-21-mil-macos-de-cigarros-contrabandeados-apos-perseguicao-em-sud-mennucci/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:55",
+"t": "Saúde capacita agentes de endemias e intensifica ações contra a dengue",
+"p": "Treinamento abordou sinais de alerta, manejo da doença e tecnologias de controle do mosquito; semana de mobilização termina neste sábado (28), com mutirão no Jardim Marin. Agentes de combate às endemias de Votuporanga participaram, na última quinta-feira (26.nov), de uma capacitação sobre dengue, com orientações…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/saude-capacita-agentes-de-endemias-e-intensifica-acoes-contra-a-dengue/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:53",
+"t": "SOBRIEDADE JÁ",
+"p": "NEM TODO RIO PRECISA SER MAR Ninguém olha para a natureza e exige que o rio seja mar. O mar é imenso e profundo, mas sua água é salgada. O rio tem água doce e mata a sede, mas é raso. Cada um tem sua beleza e importância. Curiosamente, com as pessoas, nem sempre temos […]",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/sobriedade-ja-217/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:51",
+"t": "Jovem morre após trator cair em tanque de peixes em Estrela d’Oeste",
+"p": "Trabalhador de 24 anos realizava serviços em uma fazenda quando um barranco cedeu e o maquinário tombou dentro de um tanque; vítima ficou presa e morreu no local. Um jovem de 24 anos morreu na manhã desta sexta-feira (27.nov) após um grave acidente de trabalho em uma propriedade rural de Estrela d’Oeste/SP. A…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Estrela d'Oeste"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/jovem-morre-apos-trator-cair-em-tanque-de-peixes-em-estrela-doeste/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:50",
+"t": "Veja quais são as novas regras do Pix para o ano que vem",
+"p": "Banco Central anunciou, nesta quinta-feira (26), novos serviços e funcionalidades para o Pix, modalidade utilizada por mais de 170 milhões de brasileiros",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/veja-quais-sao-as-novas-regras-do-pix-para-o-ano-que-vem/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:48",
+"t": "Natal Encantado de Santo André espera receber 100 mil pessoas",
+"p": "Programação começou nesta sexta-feira (27), no estacionamento do Paço, com shows de Art Popular, Frejat e Jota Quest ao longo do fim de semana",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371206/natal-encantado-de-santo-andre-espera-receber-100-mil-pessoas-",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:47",
+"t": "Flávio Dino suspende R$ 79,3 milhões em emendas de Flávio Bolsonaro apresentadas após fuga para os EUA",
+"p": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (27/11) a suspensão imediata da tramitação de 14 emendas parlamentares individuais apresentadas pelo senador Flávio Bolsonaro (PL-RJ) ao Orçamento da União de 2027. Os recursos bloqueados somam R$ 79,3 milhões e foram indicados…",
+"tema": "Contas públicas",
+"s": "alerta",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/politica/flavio-dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro-apresentadas-apos-fuga-para-os-eua/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:47",
+"t": "Mulher trans é presa suspeita de liderar grupo que atraía idosos com programas sexuais e aplicava golpes de até R$ 500 mil em Rio Preto",
+"p": "Suspeita tinha acesso a dados bancários das vítimas para aplicar os golpes. Outras quatro mulheres são investigadas no esquema. Até a última atualização, foram 15 vítimas e R$500 mil em prejuízo. A Polícia Civil de São José do Rio Preto/SP prendeu, nesta quinta-feira (26.nov), uma mulher trans apontada como líder…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/mulher-trans-e-presa-suspeita-de-liderar-grupo-que-atraia-idosos-com-programas-sexuais-e-aplicava-golpes-de-ate-r-500-mil-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:46",
+"t": "MPSP pede que Prefeitura de SP faça estudo de segurança para o Carnaval",
+"p": "A medida preventiva decorre de graves falhas de planejamento e superlotação ocorridas durante a edição de 2026 nos blocos de rua",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/mpsp-pede-que-prefeitura-de-sp-faca-estudo-de-seguranca-para-o-carnaval",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:46",
+"t": "Prefeitura intensifica serviços de manutenção e troca de aparelhos de ar-condicionado nas escolas municipais",
+"p": "A iniciativa contempla as 33 unidades da rede municipal de ensino de Votuporanga; 215 aparelhos passaram por manutenção e outros 59 foram substituídos por equipamentos novos. A Prefeitura de Votuporanga, por meio da Secretaria da Educação, intensificou o amplo trabalho de manutenção e substituição dos aparelhos de…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeitura-intensifica-servicos-de-manutencao-e-troca-de-aparelhos-de-ar-condicionado-nas-escolas-municipais/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:44",
+"t": "Após dois anos, Prefeitura ainda não apresenta plano para revitalizar o Centro",
+"p": "A falta de respostas concretas da Prefeitura para os problemas da região central de Rio Preto ficou evidente durante reunião da Comissão de Direitos Humanos da Câmara, realizada para discutir segurança pública e atendimento à população em situação de rua, nesta quinta-feira (27). Apesar de apresentar números que…",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/apos-dois-anos-prefeitura-ainda-nao-apresenta-plano-para-revitalizar-o-centro/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:44",
+"t": "Prefeito veta projeto que ampliava desconto de IPTU para pessoas com deficiência",
+"p": "O prefeito Fábio Candido (PL) vetou integralmente o projeto de lei complementar que ampliava o desconto de 50% no Imposto Predial e Territorial Urbano (IPTU) para pessoas com deficiência beneficiárias do Benefício de Prestação Continuada (BPC) em Rio Preto. A proposta, de autoria do vereador Jonathan Santos…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeito-veta-projeto-que-ampliava-desconto-de-iptu-para-pessoas-com-deficiencia/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:44",
+"t": "Vereador quer inspeção mensal de traves e brinquedos em espaços públicos",
+"p": "Um projeto de lei apresentado pelo vereador Felipe Alcalá (PL) pretende estabelecer regras de segurança para traves de futebol, balanços e outros equipamentos esportivos e recreativos instalados em parques, praças, escolas, ginásios e espaços de uso coletivo de Rio Preto. A proposta prevê inspeções visuais mensais,…",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/vereador-quer-inspecao-mensal-de-traves-e-brinquedos-em-espacos-publicos/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:42",
+"t": "Com ventos de até 70 km/h e risco de granizo, retorno das chuvas deixa Baixada Santista e Litoral Norte em alerta neste fim de semana",
+"p": "O último fim de semana de novembro será marcado pelo retorno da chuva intensa em diferentes áreas do Sudeste. Entre sábado (28) e domingo (29), o aumento da umidade vinda da Amazônia deve favorecer a formação de um corredor de instabilidades, com risco de temporais, raios, rajadas de vento e granizo isolado. A…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/com-ventos-de-ate-70-km-h-e-risco-de-granizo-retorno-das-chuvas-deixa-baixada-santista-e-litoral-norte-em-alerta-neste-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:42",
+"t": "Homem morre ao tentar atravessar rodovia e ser atingido por vários veículos em Birigui",
+"p": "Homem tentava atravessar a Rodovia Marechal Rondon (SP-300) quando foi atingido por uma utilitária; corpo acabou sendo atingido por outros veículos. Pista ficou interditada por cerca de três horas e meia. Um homem ainda não identificado morreu na noite desta quinta-feira (26.nov) após ser atropelado na Rodovia…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/homem-morre-ao-tentar-atravessar-rodovia-e-ser-atingido-por-varios-veiculos-em-birigui/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:30",
+"t": "Manifestantes rejeitam reforma da Previdência e oposição ameaça contestar sessão remota na Justiça",
+"p": "Sessão extraordinária da Câmara de Campinas, que votaria a reforma da Previdência, foi cancelada após manifestantes bloquearem acesso ao Legislativo; Justiça autorizou reunião remota",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/manifestantes-rejeitam-reforma-da-previdencia-e-oposicao-ameaca-contestar-sessao-remota-na-justica/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:29",
+"t": "Alto fluxo provoca congestionamento e lentidão nas rodovias Anchieta e Imigrantes na noite desta sexta (27)",
+"p": "Motoristas enfrentam retenções na chegada ao litoral e diversos trechos no sentido São Paulo do Sistema Anchieta-Imigrantes",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sistema-anchieta-imigrantes/alto-fluxo-provoca-congestionamento-e-lentidao-nas-rodovias-anchieta-e-imigrantes-na-noite-desta-sexta-27.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:24",
+"t": "Diadema apresenta até janeiro solução para sanar dívida bilionária do Ipred",
+"p": "Estudo da Fipe já foi entregue ao governo, que vai definir o modelo de equacionamento do passivo e encaminhar proposta à Câmara",
+"tema": "Contas públicas",
+"s": "entregue",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371209/diadema-apresenta-ate-janeiro-solucao-para-sanar-divida-bilionaria-do-ipred",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "19:21",
+"t": "Progressistas endossa apoio a Rogério Franco para presidente da Alesp",
+"p": "Decisão foi anunciada na noite desta sexta-feira pela Executiva estadual",
+"tema": "Política",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371207/progressistas-endossa-apoio-a-rogerio-franco-para-presidente-da-alesp",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "19:00",
@@ -69,6 +339,18 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/villa-de-natal-sao-paulo-estreia-no-jockey-club-com-mais-de-30-atracoes-papai-noel-parque-de-diversoes-e-espetaculo-inedito/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "18:58",
+"t": "Acesso gratuito à ligação de esgoto é ampliado para moradores de comunidades no Programa Pró-Conexão",
+"p": "Programa realiza instalações internas sem custo para famílias de baixa renda; universalização já alcança 73% de áreas informais com esgotamento sanitário na Região Metropolitana de SP e Baixada Santista",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371201/acesso-gratuito-a-ligacao-de-esgoto-e-ampliado-para-moradores-de-comunidades-no-programa-pro-conexao-",
 "auto": true
 },
 {
@@ -235,6 +517,18 @@
 },
 {
 "d": "2026-11-27",
+"h": "18:26",
+"t": "Jovem de 21 anos faz dupla com aposentada de 72 em reality na Coreia do Sul e volta para casa com ‘lição de moral’ sobre perfeccionismo",
+"p": "Um jovem dinamarquês de 21 anos conquistou o 1º lugar em um reality show de viagens e conhecimentos na Coreia do Sul, mas afirma que a experiência trouxe aprendizados que vão além do prêmio em dinheiro. Alexander participou do programa “Ukendt makker, ukendt land“, no qual foi colocado em dupla com Kirsten, uma…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/jovem-de-21-anos-faz-dupla-com-aposentada-de-72-em-reality-na-coreia-do-sul-e-volta-para-casa-com-licao-de-moral-sobre-perfeccionismo/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "18:23",
 "t": "Campinas lança sistema de reconhecimento facial integrado a quase 7 mil câmeras nas ruas",
 "p": "Ferramenta SmartCamp começa a operar com 100 licenças, investimento de R$ 8 milhões e possibilidade de ativação remota em qualquer equipamento da rede de monitoramento municipal",
@@ -329,6 +623,32 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/cubatao/defesa-civil-de-cubatao-e-bombeiros-promovem-palestra-de-prevencao-a-incendios-e-desastres-naturais.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "18:00",
+"t": "MEI não perde Bolsa Família automaticamente ao abrir CNPJ, mas precisa informar a renda e seguir critérios do programa para manter o pagamento",
+"p": "Quem é Microempreendedor Individual (MEI) pode receber o Bolsa Família, desde que a família continue dentro dos critérios de renda e cumpra as demais exigências do programa. A abertura de um CNPJ não cancela o benefício automaticamente. O principal fator analisado é a renda mensal por pessoa da família. Para…",
+"tema": "Assistência social",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/mei-nao-perde-bolsa-familia-automaticamente-ao-abrir-cnpj-mas-precisa-informar-a-renda-e-seguir-criterios-do-programa-para-manter-o-pagamento/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "17:55",
+"t": "D. Pedro I terá bloqueios de acessos para estudo de trânsito a partir de 2ª-feira; veja trecho e horários",
+"p": "Rodovia D. Pedro I terá bloqueio de acesso entre a marginal e a pista expressa em Campinas, das 6h às 9h, a partir de segunda-feira (30)",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/d-pedro-i-tera-bloqueios-de-acessos-para-estudo-de-transito-a-partir-de-2a-feira-veja-trecho-e-horarios/",
 "auto": true
 },
 {
@@ -54810,332 +55130,6 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/hospital-sirio-libanes-e-condenado-apos-idosa-sofrer-perfuracao-em-exame-e-receber-alta-sem-diagnostico/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:15",
-"t": "Daniel Domenicis é eleito presidente da Câmara de Fernandópolis para 2027/2028, em votação unânime",
-"p": "O vereador Daniel Domenicis foi eleito presidente da Câmara Municipal de Fernandópolis para o biênio 2027/2028. A confirmação ocorreu na tarde desta quinta-feira (12), durante uma sessão extraordinária realizada no Legislativo, com transmissão ao vivo pelas redes sociais e votação aberta e nominal. A vitória foi…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Fernandópolis"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/daniel-domenicis-e-eleito-presidente-da-camara-de-fernandopolis-para-2027-2028/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:13",
-"t": "Inmet emite alerta de tempestade com ventos de até 60 km/h e granizo",
-"p": "Avisos de perigo potencial do Inmet valem até a noite de sexta-feira (13) e preveem até 50 milímetros de chuva por dia; em SP, pancadas se concentram entre os dias 18 e 20",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/inmet-emite-alerta-de-tempestade-com-ventos-de-ate-60-km-h-e-granizo/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:12",
-"t": "Prefeitura de Sorocaba homenageia veteranos da segurança pública em cerimônia no Teatro Municipal",
-"p": "Fotos: Michelle Alves – Secom A Prefeitura de Sorocaba, por meio da Secretaria de Segurança Urbana (Sesu), homenageou, na noite de quarta-feira (11), Profissionais Veteranos da Segurança Pública que atuaram na proteção da sociedade civil. Ao todo 92 veteranos receberam honrarias, durante cerimônia no Teatro…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/prefeitura-de-sorocaba-homenageia-veteranos-da-seguranca-publica-em-cerimonia-no-teatro-municipal/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:08",
-"t": "Academia Campinense de Letras terá programação gratuita com música e lançamento de revista",
-"p": "Evento será realizado em comemoração aos 70 anos da instituição no dia 27 de novembro; Programação conta com palestra sobre a história da instituição e apresentações culturais",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/academia-campinense-de-letras-tera-programacao-gratuita-com-musica-e-lancamento-de-revista/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:07",
-"t": "Circuito das Artes chega ao Jardim Botânico de Santos, neste domingo",
-"p": "Divulgação O Jardim Botânico será transformado em um grande picadeiro. O público poderá acompanhar uma programação especial do Circuito das Artes",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/1077-fm/circuito-das-artes-chega-ao-jardim-botanico-de-santos-neste-domingo/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:02",
-"t": "Gatos com orelhas incomuns: conheça felinos que podem ter elas dobradas ou curvadas",
-"p": "Os gatos apresentam uma grande diversidade de características físicas, que variam conforme a raça e a herança genética. Alguns se destacam pelo tamanho, pela coloração dos olhos ou pelo comprimento da pelagem, outros chamam a atenção por particularidades menos comuns. Uma das mais interessantes são as orelhas…",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/canal/viver-bem/gatos-com-orelhas-incomuns-conheca-felinos-que-podem-ter-elas-dobradas-ou-curvadas/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:00",
-"t": "Orquidário de Santos celebra 81 anos com festa, música e atrações infantis",
-"p": "Isabela Carrari/Divulgação Prefeitura de Santos Uma grande festa neste sábado (14) vai comemorar os 81 anos do Orquidário Municipal de Santos, completados na quarta-feira (11).",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/orquidario-de-santos-celebra-81-anos-com-festa-musica-e-atracoes-infantis/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:00",
-"t": "São Vicente lança programa de descarte correto de bitucas de cigarro",
-"p": "Divulgação/Prefeitura de São Vicente São Vicente receberá 20 totens em diferentes pontos da Cidade para incentivar o descarte adequado de bitucas de cigarro.",
-"tema": "Política",
-"s": "anunciado",
-"c": [
-"São Vicente"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/sao-vicente-lanca-programa-de-descarte-correto-de-bitucas-de-cigarro/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "16:00",
-"t": "3ª Semana do Offshore Paulista conecta educação e mercado de trabalho",
-"p": "Divulgação A ACS promove nos próximos dias 18 e 19 (quarta e quinta-feira), a partir das 8h30, a 3ª Semana do Offshore Paulista.",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/3a-semana-do-offshore-paulista-conecta-educacao-e-mercado-de-trabalho/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:45",
-"t": "Lula cobra pedido de desculpas da imprensa sobre triplex em Guarujá",
-"p": "O presidente Luiz Inácio Lula da Silva disse nesta quinta-feira (12) que espera um pedido de desculpas, por parte da imprensa brasileira, sobre o caso envolvendo um apartamento triplex em Guarujá (SP). “Fiquei 580 dias preso dizendo que o apartamento não era meu. Agora que a Justiça decidiu que o apartamento não…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Guarujá"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/lula-cobra-pedido-de-desculpas-da-imprensa-sobre-triplex-em-guaruja/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:39",
-"t": "Doze famílias de Bertioga recebem título definitivo de propriedade dos imóveis",
-"p": "Ação da Secretaria de Habitação ocorreu nesta quarta-feira (11), e contemplou moradores de vários núcleos habitacionais da cidade",
-"tema": "Habitação",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/doze-familias-de-bertioga-recebem-titulo-definitivo-de-propriedade-dos-imoveis.html",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:36",
-"t": "Sem vagas no edital? Entenda a regra que o governo estuda aplicar no CNU 2027",
-"p": "Ministra Esther Dweck explicou que candidatos farão prova por área e receberão uma pontuação; órgãos federais poderão convocar aprovados conforme surgirem vagas",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Ribeirão Preto"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/sem-vagas-no-edital-entenda-a-regra-que-o-governo-estuda-aplicar-no-cnu-2027/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:32",
-"t": "Registro promove ações de cuidado à saúde do homem no Novembro Azul",
-"p": "Conscientização",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/registro-promove-acoes-de-cuidado-a-saude-do-homem-no-novembro-azul/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:30",
-"t": "Black Friday já começou e economista dá dicas de como não cair em furadas e economizar nas compras",
-"p": "Aproveitar os descontos da Black Friday já virou parte da rotina de muitos brasileiros. No entanto, uma promoção aparentemente imperdível pode transformar uma simples compra em uma enorme dor de cabeça e até comprometer o orçamento dos próximos meses. Embora a Black Friday de 2026 aconteça oficialmente em 27 de…",
-"tema": "Contas públicas",
-"s": "anunciado",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/black-friday-ja-comecou-e-economista-da-dicas-de-como-nao-cair-em-furadas-e-economizar-nas-compras/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:28",
-"t": "Taurino Araújo disputa a Cadeira 32 da Academia Brasileira de Letras e leva a força da produção intelectual baiana à sucessão de Zuenir Ventura",
-"p": "O escritor e jurista baiano Taurino Araújo está entre os candidatos à Cadeira 32 da Academia Brasileira de Letras (ABL), vaga anteriormente ocupada pelo jornalista e escritor Zuenir Ventura, falecido em setembro deste ano. A eleição acontece nesta quinta-feira, 12 de novembro, às 16h, no Rio de Janeiro. Natural de…",
-"tema": "Eleições",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/taurino-araujo-disputa-a-cadeira-32-da-academia-brasileira-de-letras-e-leva-a-forca-da-producao-intelectual-baiana-a-sucessao-de-zuenir-ventura/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:25",
-"t": "Tradicional empresa de ônibus encerra linha entre São Paulo e a Bahia após aval da ANTT e deve ressarcir passageiros afetados",
-"p": "A empresa de transporte rodoviário Gontijo deixará de operar a linha de ônibus que liga São Paulo (SP) a Euclides da Cunha, no Nordeste da Bahia, com passagem por Itabira (MG). A Agência Nacional de Transportes Terrestres (ANTT) aceitou o pedido de renúncia à autorização feito pela companhia. A decisão foi…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Cunha"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/nacional/tradicional-empresa-de-onibus-encerra-linha-entre-sao-paulo-e-a-bahia-apos-aval-da-antt-e-deve-ressarcir-passageiros-afetados/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:22",
-"t": "SP lança pedra fundamental do Hospital Estadual de Campinas, com 400 leitos e atendimento em oncologia e neurocirurgia",
-"p": "O Governo de São Paulo lançou, nesta quinta-feira (12), a pedra fundamental do Hospital Estadual de Campinas, marco que representa o início oficial das obras da nova unidade de saúde. Com investimento estadual de R$ 436 milhões, o complexo será construído em uma área de mais de 40 mil m², no bairro Parque Itália, e […]",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/sp-lanca-pedra-fundamental-do-hospital-estadual-de-campinas-com-400-leitos-e-atendimento-em-oncologia-e-neurocirurgia/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:22",
-"t": "Polícia Civil de SP participa de operação contra esquema de emissão de identidades falsas destinadas a estrangeiros",
-"p": "A Polícia Civil de São Paulo, por meio da Divisão de Capturas do Departamento de Operações Policiais Estratégicas (Dope), participou nesta quinta-feira (12) da Operação Livro E, para desarticular um esquema de emissão de carteiras de identidade com base em certidões de nascimento falsas. Ao todo, são cumpridos 19…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-civil-de-sp-participa-de-operacao-contra-esquema-de-emissao-de-identidades-falsas-destinadas-a-estrangeiros/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:22",
-"t": "GCM detém homem por tráfico de drogas no Parque São Bento",
-"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba deteve, na manhã de quinta-feira (12), um homem de 39 anos de idada, por tráfico de drogas no Parque São Bento, Zona Norte da cidade. Com ele foram encontradas 238 porções de entorpecentes. Durante patrulhamento preventivo nas proximidades do Centro de Educação…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-detem-homem-por-trafico-de-drogas-no-parque-sao-bento-4/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:21",
-"t": "Governo de SP abre licitação de R$ 9,2 milhões para implantação de pontos de espera na Hidrovia Tietê-Paraná",
-"p": "A Secretaria de Meio Ambiente, Infraestrutura e Logística (Semil) publicou nesta quinta-feira (12) o edital de licitação para a implantação de pontos de espera na Hidrovia Tietê-Paraná. Com investimento estimado em R$ 9,2 milhões, o projeto prevê a instalação de 31 boias de atracação em locais estratégicos do…",
-"tema": "Investimentos",
-"s": "obra",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/governo-de-sp-abre-licitacao-de-r-92-milhoes-para-implantacao-de-pontos-de-espera-na-hidrovia-tiete-parana/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:21",
-"t": "Vacina contra a Covid-19 faz parte do calendário básico de vacinação; veja quem pode se imunizar",
-"p": "A Secretaria de Estado da Saúde de São Paulo (SES-SP) reforça a importância de manter a caderneta de vacinação atualizada, incluindo a proteção contra a Covid-19. Além de proteger individualmente, a imunização reduz o risco de formas graves e de morte pela doença e amplia a proteção de toda a população. Em 2026, o…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/vacina-contra-a-covid-19-faz-parte-do-calendario-basico-de-vacinacao-veja-quem-pode-se-imunizar/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:20",
-"t": "Vereadores de Santo André propõem homenagem ao Desafio de Redação",
-"p": "Daniel Buissa, Marcos Pinchiari e Bispo Célio Lopes vão apresentar moção de aplausos ao concurso do Diário, que completou 20 edições em 2026",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368447/vereadores-de-santo-andre-propoem-homenagem-ao-desafio-de-redacao",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:20",
-"t": "GCM apreende 349 porções de entorpecentes no Jd. Jatobá",
-"p": "Foto: GCM A Guarda Civil Municipal (GCM) de Sorocaba apreendeu, na manhã de quarta-feira (11), 349 porções de entorpecentes no Jardim Jatobá, região do Éden, Zona Leste da cidade. O caso ocorreu durante patrulhamento preventivo próximo Escola Municipal ‘Osvaldo de Oliveira’. Ao chegar, a equipe avistou três…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-apreende-349-porcoes-de-entorpecentes-no-jd-jatoba/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "15:14",
-"t": "‘Auxílio iPhone’: o que dá para comprar com o preço do celular previsto para o Senado?",
-"p": "A previsão de fornecimento de 95 iPhones 18 Pro a senadores e alguns diretores do Senado Federal provocou uma onda de críticas nas redes sociais e reacendeu o debate sobre o uso de dinheiro público. Apelidada de “auxílio iPhone” por críticos da contratação, a iniciativa levantou questionamentos sobre os privilégios…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/auxilio-iphone-o-que-da-para-comprar-com-o-preco-do-celular-previsto-para-o-senado/",
 "auto": true
 }
 ]
