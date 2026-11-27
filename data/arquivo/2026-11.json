@@ -3,6 +3,115 @@
 "itens": [
 {
 "d": "2026-11-26",
+"h": "21:00",
+"t": "Ex-funcionários do Grupo Casas Bahia vão receber indenização extra de R$ 7,5 mil até dezembro",
+"p": "A liberação de R$ 33,26 milhões em indenizações extras para 4.435 ex-funcionários do Grupo Casas Bahia dispensados em agosto tem previsão de conclusão até meados de dezembro, com repasse individual de R$ 7,5 mil. Conduzidos na Justiça do Trabalho em conjunto com a Confederação Nacional dos Trabalhadores no Comércio…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/ex-funcionarios-do-grupo-casas-bahia-vao-receber-indenizacao-extra-de-r-75-mil-ate-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:48",
+"t": "Diário Comunidade deste domingo destaca cuidados com a memória e a saúde do cérebro",
+"p": "Edição vai ao ar a partir das 7h30 na TV Diário",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/conteudo-de-marca/diario-comunidade-deste-domingo-destaca-cuidados-com-a-memoria-e-a-saude-do-cerebro/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:30",
+"t": "Jundiaí recebe gestores de 12 estados para apresentar modelo de educação municipal",
+"p": "Fotos: Prefeitura de Jundiaí Município foi escolhido pelo Centro Lemann para sediar uma jornada de compartilhamento de práticas pedagógicas e gestão educacional.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/educacao-jundiai-gestores-12-estados/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:30",
+"t": "Cientistas descobrem peixe mais velho que o Titanic, com 131 anos, vivendo em rio, mas futuro da espécie está em risco por falta de jovens",
+"p": "Peixe de água doce chegou aos 131 anos, mas enfrenta risco de conservação em 22 estados dos Estados Unidos por falta de jovens.",
+"tema": "Água",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/cientistas-descobrem-peixe-mais-velho-que-o-titanic-com-131-anos-vivendo-em-rio-mas-futuro-da-especie-esta-em-risco-por-falta-de-jovens/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:21",
+"t": "Polícia Civil investiga esquema de desvio e venda ilegal de remédios controlados do SUS",
+"p": "A Polícia Civil apura um suposto esquema de desvio e comercialização irregular de medicamentos controlados da rede pública de saúde em Birigui (SP). Na terça-feira (24), agentes do 1º Distrito Policial cumpriram mandados judiciais de busca e apreensão em dois endereços e recolheram aparelhos celulares, receitas e…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-investiga-esquema-de-desvio-e-venda-ilegal-de-remedios-controlados-do-sus/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:20",
+"t": "Polícia prende suspeita de liderar quadrilha que aplicava golpes em idosos",
+"p": "A Polícia Civil prendeu nesta quinta-feira (26), em São José do Rio Preto, uma mulher trans apontada como líder de uma associação criminosa especializada em furtar e aplicar golpes financeiros contra homens idosos. A captura ocorreu durante a Operação Última Parcela, conduzida pelo Núcleo de Polícia Judiciária dos…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-prende-suspeita-de-liderar-quadrilha-que-aplicava-golpes-em-idosos/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:17",
+"t": "MP abre inquérito para investigar redução de leitos e gestão da saúde em Araçatuba",
+"p": "O Ministério Público de São Paulo (MP-SP) instaurou um inquérito civil na quarta-feira (25) para apurar possíveis falhas na gestão e no atendimento da rede pública de saúde de Araçatuba. A investigação, conduzida pelo promotor de Justiça da Saúde Pública José Augusto Mustafá, surge como desdobramento do relatório…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"São Paulo"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mp-abre-inquerito-para-investigar-reducao-de-leitos-e-gestao-da-saude-em-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "20:13",
+"t": "Servidores prometem novo protesto na Câmara durante votação da Previdência; Prefeitura ameaça cortar ponto",
+"p": "Mobilização está marcada para esta sexta-feira (27); administração municipal afirma que expediente será normal e faltas de servidores sem justificativa serão registradas",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/servidores-prometem-novo-protesto-na-camara-durante-votacao-da-previdencia-prefeitura-ameaca-cortar-ponto/",
+"auto": true
+},
+{
+"d": "2026-11-26",
 "h": "20:01",
 "t": "Várzea Paulista registra queda de 92,2% nos casos de dengue em 2026; Vila Real recebe ação de mobilização",
 "p": "Foto: Prefeitura de Várzea Paulista Apesar da redução de infecções, cobertura vacinal entre crianças e adolescentes ainda é considerada baixa.",
@@ -13,6 +122,20 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/varzea-paulista/varzea-paulista-registra-queda-de-922-nos-casos-de-dengue-em-2026-vila-real-recebe-acao-de-mobilizacao/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "19:56",
+"t": "Câmara de Ribeirão Pires aprova orçamento de R$ 643,9 milhões para 2027",
+"p": "Saúde e educação concentram mais de 54% dos recursos, com previsões de R$ 189,2 milhões e R$ 161 milhões, respectivamente",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ribeirão Pires"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4370991/camara-de-ribeirao-pires-aprova-orcamento-de-rs-643-9-milhoes-para-2027",
 "auto": true
 },
 {
@@ -84,6 +207,18 @@
 ],
 "src": "Diário de Votuporanga",
 "u": "https://diariodevotuporanga.com.br/chuva-causa-inundacao-em-escolas-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "19:40",
+"t": "Chuva de até 150 mm e risco de deslizamentos marcam fim de novembro e avançam pela primeira semana de dezembro no Brasil; veja previsão",
+"p": "A previsão do tempo para os próximos dias indica um cenário de extremos no Brasil. Enquanto o calor deve continuar predominando em grande parte do país, regiões do Sul e do Sudeste precisam se preparar para episódios de chuva intensa. Os volumes podem chegar a 150 milímetros em algumas áreas, aumentando o risco de…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/chuva-de-ate-150-mm-e-risco-de-deslizamentos-marcam-fim-de-novembro-e-avancam-pela-primeira-semana-de-dezembro-no-brasil-veja-previsao/",
 "auto": true
 },
 {
@@ -232,6 +367,18 @@
 },
 {
 "d": "2026-11-26",
+"h": "19:12",
+"t": "Michelle Bolsonaro revela melhora no estado de saúde do ex-presidente Bolsonaro e conta novidade sobre alimentação",
+"p": "O estado de saúde do ex-presidente Jair Bolsonaro (PL) apresentou melhora, segundo informações divulgadas pela ex-primeira-dama Michelle Bolsonaro nesta quinta-feira (26). Em publicação nas redes sociais, ela contou que o marido está mais animado, realizou sessões de fisioterapia e conseguiu passar um período fora…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/michelle-bolsonaro-revela-melhora-no-estado-de-saude-do-ex-presidente-bolsonaro-e-conta-novidade-sobre-alimentacao/",
+"auto": true
+},
+{
+"d": "2026-11-26",
 "h": "19:06",
 "t": "Campinas terá sistema de reconhecimento facial similar ao da capital",
 "p": "Iniciativa da Prefeitura prevê o uso da tecnologia para reforçar ações de segurança pública; na capital paulista, o Smart Sampa, inclui monitoramento privado",
@@ -341,6 +488,18 @@
 ],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4370971/camara-de-diadema-aprova-contas-de-filippi-em-decisao-contraria-ao-tce-sp",
+"auto": true
+},
+{
+"d": "2026-11-26",
+"h": "18:22",
+"t": "Navio romano de 2 mil anos revela truque com cera de abelha contra o mar e grãos de pólen presos no casco mostram sua rota secreta",
+"p": "Uma embarcação romana que naufragou há cerca de 2.200 anos na costa da Croácia revelou técnicas sofisticadas de impermeabilização utilizadas pelos antigos construtores navais. Os pesquisadores identificaram duas fórmulas aplicadas ao casco para proteger a madeira da água salgada, incluindo uma mistura de alcatrão…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/navio-romano-de-2-mil-anos-revela-truque-com-cera-de-abelha-contra-o-mar-e-graos-de-polen-presos-no-casco-mostram-sua-rota-secreta/",
 "auto": true
 },
 {
