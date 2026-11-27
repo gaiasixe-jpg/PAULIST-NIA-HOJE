@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-27T06:18:06-03:00",
-"novos_nesta_coleta": 21,
+"atualizado": "2026-11-27T08:01:14-03:00",
+"novos_nesta_coleta": 22,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,12 +14,14 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -27,16 +30,12 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário)"
+"Diários Oficiais municipais (Querido Diário, 78 cidades com edição recente)"
 ],
 "fontes_com_erro": [
 {
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
 },
 {
 "fonte": "A Tribuna",
@@ -45,17 +44,94 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "08:00",
+"t": "Campinas terá sexta-feira nublada e com ventos de até 50 km/h; veja a previsão",
+"p": "Temperaturas seguem em queda na região, com mínima próxima de 17°C e máxima de 24°C; sexta será nublada, mas não há previsão de chuva",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tera-sexta-feira-nublada-e-com-ventos-de-ate-50-km-h-veja-a-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:00",
+"t": "Câmara de Campinas vota reforma da Previdência nesta sexta-feira em sessão extra",
+"p": "Reforma da Previdência será analisada em primeira discussão; servidores organizam protesto na Câmara, enquanto Prefeitura afirma que faltas sem justificativa serão registradas",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/camara-de-campinas-vota-reforma-da-previdencia-nesta-sexta-feira-em-sessao-extra/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "07:54",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta sexta (27)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-sexta-27.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "07:30",
+"t": "Metrô fecha linha 3-Vermelha por 12 horas neste domingo e passageiros terão de usar ônibus e outras linhas para chegar ao destino durante a manhã",
+"p": "Quem utiliza a linha 3-Vermelha do Metrô de São Paulo precisará mudar os planos na manhã deste domingo (29/11). A circulação dos trens ficará interrompida por 12 horas, entre a meia-noite e o meio-dia. A paralisação será necessária para a continuidade dos testes do novo sistema de sinalização e controle CBTC. A…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/metro-fecha-linha-3-vermelha-por-12-horas-neste-domingo-e-passageiros-terao-de-usar-onibus-e-outras-linhas-para-chegar-ao-destino-durante-a-manha/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "07:14",
+"t": "Inmet alerta interior de SP para chuvas intensas nesta sexta-feira; veja cidades",
+"p": "Inmet emitiu alerta para chuvas intensas nesta sexta (27) em áreas do interior paulista",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/inmet-alerta-interior-de-sp-para-chuvas-intensas-nesta-sexta-feira-veja-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:32",
+"t": "Obituário | Falecimentos registrados nesta sexta-feira (27/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta sexta-feira, dia 27 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-sexta-feira-27-11-em-marilia-e-regiao/",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "06:15",
@@ -4551,6 +4627,168 @@
 "auto": true,
 "org": "Prefeitura",
 "num": "Nº 434",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Alto Alegre: Institui o Regimento Interno do Conselho Gestor do Fundo Municipal de Saneamento Ambiental e Infraestrutura – FMSAI, e dá outras providências",
+"p": "Decreto nº 5.298, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-11-26/10dd03008daf7169287d69c9068f083b8c86ef26.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.298",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Alto Alegre: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 26/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-11-26/10dd03008daf7169287d69c9068f083b8c86ef26.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 26/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Campinas: Estabelece o valor do subsídio destinado ao Sistema de Transporte Público Coletivo do Município de Campinas para o exercício de 2026",
+"p": "Decreto nº 24.749, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial de Campinas",
+"u": "https://data.queridodiario.ok.org.br/3509502/2026-11-26/46735b804f0f884b09d3778f790fab2a83779f44.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 24.749",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Campinas: Altera a classificação viária da Rua Fabio Baptista",
+"p": "Decreto nº 24.611, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial de Campinas",
+"u": "https://data.queridodiario.ok.org.br/3509502/2026-11-26/46735b804f0f884b09d3778f790fab2a83779f44.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 24.611",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Campinas: Autoriza a outorga de Permissão de Uso onerosa de parte de área de imóvel de propriedade municipal, em favor do 3º Tabelionato de Notas de Campinas",
+"p": "Decreto nº 24.751, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial de Campinas",
+"u": "https://data.queridodiario.ok.org.br/3509502/2026-11-26/46735b804f0f884b09d3778f790fab2a83779f44.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 24.751",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Coronel Macedo: Altera o Plano de Contratações Anual 2027, para o exercício de 2027 e dá outras providências",
+"p": "Decreto nº 124, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Coronel Macedo"
+],
+"src": "Diário Oficial de Coronel Macedo",
+"u": "https://data.queridodiario.ok.org.br/3512605/2026-11-26/84f0d0370768985b9f4f811bcb0dbd0a6496a7ff.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 124",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "General Salgado: Dispõe sobre a nomeação dos membros do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da…",
+"p": "Decreto nº 1.048, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"General Salgado"
+],
+"src": "Diário Oficial de General Salgado",
+"u": "https://data.queridodiario.ok.org.br/3516903/2026-11-26/b895eeac2e1ef411bebec6d85f25af926fb0fcfa.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 1.048",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Iracemápolis: Dispõe sobre o processo de atribuição de classes/aulas e de remoção do pessoal docente do Quadro do Magistério Público Municipal de Iracemápolis para o ano letivo de 2027 e dá outras providências",
+"p": "Decreto nº 4504, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Iracemápolis"
+],
+"src": "Diário Oficial de Iracemápolis",
+"u": "https://data.queridodiario.ok.org.br/3521408/2026-11-26/7c1b0848385b5c557823e50702c0c33c76c9d08a.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4504",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Jaú: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 26/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Jaú"
+],
+"src": "Diário Oficial de Jaú",
+"u": "https://data.queridodiario.ok.org.br/3525300/2026-11-26/8e7c1212d6adb16c7806124a4a0e63ab9e7f9edb.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 26/11",
 "qd": true,
 "mun": true
 },
@@ -54896,207 +55134,6 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/trabalhador-e-atingido-por-viga-de-concreto-durante-demolicao-em-obra/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:16",
-"t": "PM aposentado é condenado a mais de cinco anos de prisão por morte em briga de trânsito com filho de ex-prefeito",
-"p": "O policial militar aposentado Eduardo Melo foi condenado a cinco anos, um mês e quinze dias de reclusão pelo crime de lesão corporal seguida de morte, decorrente de um disparo de arma de fogo que vitimou o advogado Jonas Pedrassa, de 29 anos, filho do ex-prefeito de Nipoã (SP). O julgamento pelo tribunal do júri […]",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Nipoã"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/pm-aposentado-e-condenado-a-mais-de-cinco-anos-de-prisao-por-morte-em-briga-de-transito-com-filho-de-ex-prefeito/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:13",
-"t": "Câmara de SP aprova em 1º turno troca de nome da GCM para Polícia Municipal",
-"p": "Mudança da nomenclatura voltou a ser debatida na Casa após aprovação da PEC da Segurança Pública em Brasília, e foi aprovada por unanimidade",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/camara-de-sp-aprova-em-1o-turno-troca-de-nome-da-gcm-para-policia-municipal",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:12",
-"t": "Assédio em ônibus de Campinas poderá ser denunciado por aplicativo; veja como funciona",
-"p": "Ferramenta permite acionar a Guarda Municipal em tempo real para identificar e abordar o ônibus onde ocorreu o caso; serviço é gratuito e já está disponível para Android e iOS",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/assedio-em-onibus-de-campinas-podera-ser-denunciado-por-aplicativo-veja-como-funciona/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:12",
-"t": "Tarcísio de Freitas anuncia os primeiros secretários da nova gestão do Governo de SP",
-"p": "O governador Tarcísio de Freitas anunciou, nesta quarta-feira (11), os primeiros nomes que comporão o secretariado do Governo do Estado de São Paulo a partir de janeiro de 2027. O anúncio traz mudanças no comando de três pastas e confirma a manutenção de titulares em áreas estratégicas da administração pública…",
-"tema": "Política",
-"s": "anunciado",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/tarcisio-de-freitas-anuncia-os-primeiros-secretarios-da-nova-gestao-do-governo-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:10",
-"t": "Polícia Militar Rodoviária apreende mais de meia tonelada de cocaína destinada ao exterior",
-"p": "A Polícia Militar Rodoviária apreendeu 540 quilos de cocaína e prendeu em flagrante um motorista de 28 anos na noite de terça-feira (10), na Rodovia Washington Luís, em Itirapina. A carga ilícita, composta por 500 tijolos da droga distribuídos em 17 fardos, estava oculta em um contêiner lacrado em meio a um…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Itirapina"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-militar-rodoviaria-apreende-mais-de-meia-tonelada-de-cocaina-destinada-ao-exterior/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:08",
-"t": "Senado quer dar 95 iPhones Pro para políticos em contrato de R$ 6 milhões e recebe críticas da direita à esquerda, de Nikolas Ferreira a Ana Elisa",
-"p": "Um contrato estimado em mais de R$ 6 milhões, 425 aparelhos celulares e a previsão de entregar 95 iPhones de última geração a senadores e dirigentes. A combinação provocou uma reação pouco comum em Brasília: políticos de direita e de esquerda passaram a criticar a mesma licitação. Segundo reportagem publicada pelo…",
-"tema": "Investimentos",
-"s": "obra",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/senado-quer-dar-95-iphones-pro-para-politicos-em-contrato-de-r-6-milhoes-e-recebe-criticas-da-direita-a-esquerda-de-nikolas-ferreira-a-ana-elisa/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:08",
-"t": "Governo de SP e Ministério Público intensificam combate financeiro ao crime organizado",
-"p": "A Secretaria da Segurança Pública do Estado de São Paulo (SSP) e o Ministério Público do Estado de São Paulo (MPSP) promovem, nesta quarta-feira (11) e quinta-feira (12), um encontro voltado ao fortalecimento de estratégias contra a lavagem de dinheiro e à recuperação de bens de origem ilícita. O evento…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/governo-de-sp-e-ministerio-publico-intensificam-combate-financeiro-ao-crime-organizado/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:06",
-"t": "Polícia Civil apreende quase 130 kg de maconha em depósito do tráfico",
-"p": "A Polícia Civil de São Paulo apreendeu 129,9 quilos de maconha em um imóvel utilizado como depósito de drogas no bairro Parque Industrial Tanquinho, em Ribeirão Preto. A operação foi deflagrada na terça-feira (10) por agentes da 2ª Delegacia de Investigações sobre Entorpecentes (Dise), vinculada ao Departamento…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Ribeirão Preto",
-"São Paulo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-apreende-quase-130-kg-de-maconha-em-deposito-do-trafico/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:04",
-"t": "Etec Rio Grande da Serra vence prêmio de melhor torcida no Desafio",
-"p": "Organização de alunos ganhou R$ 5.000 pela animação durante a cerimônia de premiação do 20o Desafio de Redação do Diário",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Rio Grande da Serra"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368240/etec-rio-grande-da-serra-vence-premio-de-melhor-torcida-no-desafio",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:01",
-"t": "Polícia Civil indicia influenciador e marido por gravar vídeo na residência do ex-presidente FHC",
-"p": "A Polícia Civil do Estado de São Paulo indiciou, nesta quarta-feira (11), o influenciador Wesley Oliveira e seu marido, Lessandro Gonçalves, pelos crimes de difamação e discriminação de pessoa idosa. A medida ocorre após a repercussão de um vídeo gravado pela dupla no apartamento do ex-presidente Fernando Henrique…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-indicia-influenciador-e-marido-por-gravar-video-na-residencia-do-ex-presidente-fhc/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:00",
-"t": "Direita e esquerda se unem em críticas após licitação de R$ 6 milhões do Senado para compra de 95 iPhones 18 Pro",
-"p": "Uma licitação do Senado Federal no valor estimado de R$ 6,04 milhões provocou reações imediatas e repúdio de parlamentares da direita e da esquerda. O edital do Pregão 290/2026 prevê a contratação de serviços de telefonia móvel por 48 meses e a entrega de 425 celulares corporativos em regime de comodato. Entre os…",
-"tema": "Investimentos",
-"s": "entregue",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/direita-e-esquerda-se-unem-em-criticas-apos-licitacao-de-r-6-milhoes-do-senado-para-compra-de-95-iphones-18-pro/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:00",
-"t": "Transforma Diadema desperta interesse de prefeitos de outras cidades",
-"p": "Comitiva liderada por chefes de Executivo de Santo André e do Ceará estarão sábado ba cidade para conhecer o programa e avaliar a possibilidade de levar o modelo a outros municípios",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Santo André",
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368216/transforma-diadema-desperta-interesse-de-prefeitos-de-outras-cidades",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:57",
-"t": "Mogi-Bertioga tem interdições parciais em quatro trechos nesta quarta-feira (11)",
-"p": "Obras afetam segmentos entre Mogi das Cruzes e Bertioga; tempo está limpo no sentido litoral e parcialmente nublado na subida da serra",
-"tema": "Investimentos",
-"s": "fato",
-"c": [
-"Mogi das Cruzes",
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/estradas/rodoviamogibertioga/mogi-bertioga-tem-interdicoes-parciais-em-quatro-trechos-nesta-quarta-feira-11.html",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:53",
-"t": "Terminal Rodoviário de São Bernardo terá área ampliada em mais que o dobro",
-"p": "Projeto do equipamento, que integra as obras do BRT ABC, passa de 5 mil para 11 mil metros quadrados após mudanças no acesso dos ônibus",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368233/-terminal-rodoviario-de-sao-bernardo-tera-area-ampliada-em-mais-que-o-dobro",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:53",
-"t": "Tarcísio escolhe Ricardo Salles para assumir Secretaria da Justiça em SP",
-"p": "Ricardo Salles vai comandar a Secretaria da Justiça e Cidadania de São Paulo; anúncio de Tarcísio inclui mudanças em outras duas áreas",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "ACidade ON Ribeirão Preto",
-"u": "https://www.acidadeon.com/ribeiraopreto/politica/tarcisio-escolhe-ricardo-salles-para-assumir-secretaria-da-justica-em-sp/",
 "auto": true
 }
 ]

@@ -3,6 +3,91 @@
 "itens": [
 {
 "d": "2026-11-27",
+"h": "08:00",
+"t": "Campinas terá sexta-feira nublada e com ventos de até 50 km/h; veja a previsão",
+"p": "Temperaturas seguem em queda na região, com mínima próxima de 17°C e máxima de 24°C; sexta será nublada, mas não há previsão de chuva",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tera-sexta-feira-nublada-e-com-ventos-de-ate-50-km-h-veja-a-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:00",
+"t": "Câmara de Campinas vota reforma da Previdência nesta sexta-feira em sessão extra",
+"p": "Reforma da Previdência será analisada em primeira discussão; servidores organizam protesto na Câmara, enquanto Prefeitura afirma que faltas sem justificativa serão registradas",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/camara-de-campinas-vota-reforma-da-previdencia-nesta-sexta-feira-em-sessao-extra/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "07:54",
+"t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta sexta (27)",
+"p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Campos do Jordão",
+"Taubaté"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sp-123-floriano-rodrigues-pinheiro/rodovia-floriano-rodrigues-pinheiro-tem-trafego-normal-na-manha-desta-sexta-27.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "07:30",
+"t": "Metrô fecha linha 3-Vermelha por 12 horas neste domingo e passageiros terão de usar ônibus e outras linhas para chegar ao destino durante a manhã",
+"p": "Quem utiliza a linha 3-Vermelha do Metrô de São Paulo precisará mudar os planos na manhã deste domingo (29/11). A circulação dos trens ficará interrompida por 12 horas, entre a meia-noite e o meio-dia. A paralisação será necessária para a continuidade dos testes do novo sistema de sinalização e controle CBTC. A…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/metro-fecha-linha-3-vermelha-por-12-horas-neste-domingo-e-passageiros-terao-de-usar-onibus-e-outras-linhas-para-chegar-ao-destino-durante-a-manha/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "07:14",
+"t": "Inmet alerta interior de SP para chuvas intensas nesta sexta-feira; veja cidades",
+"p": "Inmet emitiu alerta para chuvas intensas nesta sexta (27) em áreas do interior paulista",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/inmet-alerta-interior-de-sp-para-chuvas-intensas-nesta-sexta-feira-veja-cidades/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:32",
+"t": "Obituário | Falecimentos registrados nesta sexta-feira (27/11) em Marília e região",
+"p": "Falecimentos registrados em Marília e região Serviços funerários divulgaram os falecimentos registrados em Marília e região nesta sexta-feira, dia 27 de novembro.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/obituario-falecimentos-registrados-nesta-sexta-feira-27-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "06:15",
 "t": "Aposta de R$ 168 em cidade de 4 mil habitantes fica a um número da Mega-Sena e leva R$ 83 mil",
 "p": "Foto: Ddlrech - Obra do próprio, CC BY 4.0 Um jogo de oito números feito em Salto Veloso (SC) acertou cinco das seis dezenas do concurso 3091. Foi a aposta simples que mais ganhou na quina em todo o país.",
@@ -4496,6 +4581,168 @@
 "auto": true,
 "org": "Prefeitura",
 "num": "Nº 434",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Alto Alegre: Institui o Regimento Interno do Conselho Gestor do Fundo Municipal de Saneamento Ambiental e Infraestrutura – FMSAI, e dá outras providências",
+"p": "Decreto nº 5.298, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-11-26/10dd03008daf7169287d69c9068f083b8c86ef26.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 5.298",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Alto Alegre: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 26/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Alto Alegre"
+],
+"src": "Diário Oficial de Alto Alegre",
+"u": "https://data.queridodiario.ok.org.br/3501103/2026-11-26/10dd03008daf7169287d69c9068f083b8c86ef26.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 26/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Campinas: Estabelece o valor do subsídio destinado ao Sistema de Transporte Público Coletivo do Município de Campinas para o exercício de 2026",
+"p": "Decreto nº 24.749, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial de Campinas",
+"u": "https://data.queridodiario.ok.org.br/3509502/2026-11-26/46735b804f0f884b09d3778f790fab2a83779f44.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 24.749",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Campinas: Altera a classificação viária da Rua Fabio Baptista",
+"p": "Decreto nº 24.611, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial de Campinas",
+"u": "https://data.queridodiario.ok.org.br/3509502/2026-11-26/46735b804f0f884b09d3778f790fab2a83779f44.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 24.611",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Campinas: Autoriza a outorga de Permissão de Uso onerosa de parte de área de imóvel de propriedade municipal, em favor do 3º Tabelionato de Notas de Campinas",
+"p": "Decreto nº 24.751, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Campinas"
+],
+"src": "Diário Oficial de Campinas",
+"u": "https://data.queridodiario.ok.org.br/3509502/2026-11-26/46735b804f0f884b09d3778f790fab2a83779f44.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 24.751",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Coronel Macedo: Altera o Plano de Contratações Anual 2027, para o exercício de 2027 e dá outras providências",
+"p": "Decreto nº 124, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Coronel Macedo"
+],
+"src": "Diário Oficial de Coronel Macedo",
+"u": "https://data.queridodiario.ok.org.br/3512605/2026-11-26/84f0d0370768985b9f4f811bcb0dbd0a6496a7ff.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 124",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "General Salgado: Dispõe sobre a nomeação dos membros do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da…",
+"p": "Decreto nº 1.048, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"General Salgado"
+],
+"src": "Diário Oficial de General Salgado",
+"u": "https://data.queridodiario.ok.org.br/3516903/2026-11-26/b895eeac2e1ef411bebec6d85f25af926fb0fcfa.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 1.048",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Iracemápolis: Dispõe sobre o processo de atribuição de classes/aulas e de remoção do pessoal docente do Quadro do Magistério Público Municipal de Iracemápolis para o ano letivo de 2027 e dá outras providências",
+"p": "Decreto nº 4504, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Iracemápolis"
+],
+"src": "Diário Oficial de Iracemápolis",
+"u": "https://data.queridodiario.ok.org.br/3521408/2026-11-26/7c1b0848385b5c557823e50702c0c33c76c9d08a.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4504",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Jaú: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 26/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Jaú"
+],
+"src": "Diário Oficial de Jaú",
+"u": "https://data.queridodiario.ok.org.br/3525300/2026-11-26/8e7c1212d6adb16c7806124a4a0e63ab9e7f9edb.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 26/11",
 "qd": true,
 "mun": true
 },
