@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-27T08:01:14-03:00",
-"novos_nesta_coleta": 22,
+"atualizado": "2026-11-27T09:04:24-03:00",
+"novos_nesta_coleta": 40,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -30,7 +30,7 @@
 "Prefeitura de Registro",
 "Prefeitura de São José dos Campos",
 "Diário Oficial (via Alesp)",
-"Diários Oficiais municipais (Querido Diário, 78 cidades com edição recente)"
+"Diários Oficiais municipais (Querido Diário)"
 ],
 "fontes_com_erro": [
 {
@@ -47,6 +47,426 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "09:02",
+"t": "IBGE oferece três vagas temporárias para recenseador em Buri no Censo Agro 2027",
+"p": "O Instituto Brasileiro de Geografia e Estatística (IBGE) está com processo seletivo simplificado aberto para a contratação temporária de recenseadores que atuarão no 12º Censo Agropecuário, Florestal e Aquícola, cuja coleta nacional está prevista para 2027. Para o município de Buri, estão disponíveis três vagas…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Buri"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/vagas-recenseador-2/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "09:00",
+"t": "Zona Azul será implantada em três praias de Itanhaém a partir de dezembro",
+"p": "Estacionamento rotativo funcionará até 28 de fevereiro, com cobrança de R$2,60 por hora; idosos e pessoas com deficiência terão direito à gratuidade",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/itanhaem/zona-azul-sera-implantada-em-tres-praias-de-itanhaem-a-partir-de-dezembro.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:58",
+"t": "Número de jovens de 18 a 24 anos na graduação bate recorde no país",
+"p": "Em 2025, o Brasil registrou o recorde de ter 29% dos jovens de 18 a 24 anos frequentando cursos da educação superior ou que já concluíram a graduação. Dentre esses, um em cada quatro jovens está matriculado em algum curso.",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/numero-de-jovens-de-18-a-24-anos-na-graduacao-bate-recorde-no-pais/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:56",
+"t": "Saúde de Guarani d’Oeste promove ação nas fábricas sobre prevenção à perda auditiva e combate à dengue",
+"p": "A Prefeitura de Guarani d’Oeste, por meio das equipes da Secretaria Municipal de Saúde, realizou uma mobilização educativa nas fábricas da cidade integrando as ações da Vigilância em Saúde do Trabalhador à Semana de Combate ao Aedes aegypti. Durante as visitas às indústrias locais, os profissionais orientaram os…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Guarani d'Oeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/saude-de-guarani-doeste-promove-acao-nas-fabricas-sobre-prevencao-a-perda-auditiva-e-combate-a-dengue/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:54",
+"t": "Conselho Municipal de Saúde de Ouroeste reúne membros para discutir gestão, prestação de contas e eleições",
+"p": "O Conselho Municipal de Saúde de Ouroeste (CMSO) promoveu uma reunião nesta quinta-feira (26) para deliberar sobre medidas voltadas à administração e ao aprimoramento do atendimento na rede pública do município. Durante o encontro, os participantes trataram da posse dos novos integrantes do colegiado, da eleição…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Ouroeste"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/conselho-municipal-de-saude-de-ouroeste-reune-membros-para-discutir-gestao-prestacao-de-contas-e-eleicoes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:53",
+"t": "Santa Casa de Fernandópolis homenageia profissionais pelo Dia do Técnico em Segurança do Trabalho",
+"p": "Nesta sexta-feira (27), data em que se celebra o Dia do Técnico em Segurança do Trabalho, a Santa Casa de Fernandópolis divulgou uma mensagem de reconhecimento aos profissionais que atuam na prevenção de acidentes, na orientação das equipes e na manutenção de ambientes laborais mais seguros. Em comunicado…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-homenageia-profissionais-pelo-dia-do-tecnico-em-seguranca-do-trabalho/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:52",
+"t": "Santa Casa de Fernandópolis realiza confraternização para colaboradores aniversariantes do mês",
+"p": "A Santa Casa de Fernandópolis promoveu neste mês um encontro especial de confraternização para homenagear os colaboradores que celebraram mais um ano de vida. A iniciativa teve como objetivo valorizar os profissionais da instituição e fortalecer o clima de integração entre as equipes. Durante a programação, parte…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/santa-casa-de-fernandopolis-realiza-confraternizacao-para-colaboradores-aniversariantes-do-mes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:50",
+"t": "\"Imprimiu em casa\": decoração de Natal é alvo de críticas e piadas em SP",
+"p": "Internautas questionam escolhas e valores de painéis de Natal em postes. Decoração oficial da prefeitura ainda será inaugurada nesta sexta",
+"tema": "Política",
+"s": "entregue",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/imprimiu-em-casa-decoracao-de-natal-e-alvo-de-criticas-e-piadas-em-sp",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:49",
+"t": "Justiça determina indenização de R$ 100 mil a sobrevivente do Carandiru",
+"p": "Justiça entendeu que ficou provado que Maurício Monteiro foi vítima de tortura no dia 2 de outubro de 1992, data do Massacre do Carandiru",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/justica-determina-indenizacao-de-r-100-mil-a-sobrevivente-do-carandiru",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:49",
+"t": "Itapeva realiza vacinação antirrábica gratuita para cães e gatos nesta sexta-feira (27)",
+"p": "A Prefeitura de Itapeva realiza nesta sexta-feira (27) uma ação de vacinação antirrábica gratuita para cães e gatos. O atendimento será das 13h30 às 16h, na Igreja São Roque, localizada no Anel Viário Mário Covas, ao lado da Escola Hilda Frida Gemignani, no Bairro de Cima. A vacinação é destinada a animais com…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/vacinacao-antirrabica-3/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:48",
+"t": "Mogi das Cruzes anuncia revitalização do Parque Centenário com investimento de R$ 7,5 milhões",
+"p": "Previsão é de que as obras sejam executadas em 12 meses; projeto inclui a reforma de estruturas, construção de novos equipamentos e intervenções paisagísticas",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/mogi-das-cruzes-anuncia-revitalizacao-do-parque-centenario-com-investimento-de-r-75-milhoes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:48",
+"t": "Pix terá novas regras de segurança e melhorias em 2027",
+"p": "As novidades foram apresentadas na quinta-feira (26), durante a 29ª Reunião Plenária do Fórum Pix, que também apresentou o balanço das medidas implementadas em 2026 e as diretrizes para o próximo ano.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/nacional/pix-tera-novas-regras-de-seguranca-e-melhorias-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:43",
+"t": "Jundiaí terá sexta (27) sem chuva e mínima de 17°C, mas tempo volta a ficar instável no fim de semana",
+"p": "Foto: Prefeitura de Jundiaí Sexta-feira (27) terá temperaturas entre 17°C e 24°C, mas a chuva deve voltar no sábado (28), com alerta amarelo do INMET.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/previsao-tempo-jundiai-chuva-27-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:36",
+"t": "Região de Presidente Prudente tem 9 representantes entre 50 finalistas do 25º Concurso Estadual de Qualidade do Café Paulista",
+"p": "A região de Presidente Prudente (SP) tem nove representantes entre os 50 finalistas do 25º Concurso Estadual de Qualidade do Café Paulista. A cidade de Tupi Paulista (SP), com três finalistas, lidera o quadro regional de representantes. Na sequência, aparece Pacaembu (SP), com dois cafeicultores na disputa pela…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Presidente Prudente",
+"Tupi Paulista",
+"Pacaembu"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/regiao-de-presidente-prudente-tem-9-representantes-entre-50-finalistas-do-25o-concurso-estadual-de-qualidade-do-cafe-paulista/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:34",
+"t": "Chuva forte ‘arrasta’ jacarés para as ruas e derruba araras de ninhos em Castilho",
+"p": "Quatro jacarés foram capturados nas ruas de Castilho, no interior de São Paulo, após a forte chuva que atingiu a cidade entre a noite de terça-feira (24) e a manhã de quarta-feira (25). A Brigada Municipal afirmou ao g1 que acredita que os animais tenham sido arrastados pela força da correnteza. Segundo a Defesa…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Castilho"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/chuva-forte-arrasta-jacares-para-as-ruas-e-derruba-araras-de-ninhos-em-castilho/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:33",
+"t": "Editorial — Quando a chuva passa e a solidariedade precisa permanecer",
+"p": "As fortes chuvas que atingiram Itapeva e diversas cidades da região, assim como municípios do Paraná, deixaram imagens difíceis de esquecer. Ruas tomadas pela água, casas e comércios destruídos, famílias que perderam praticamente tudo e cenários que revelam a dimensão da força da natureza diante da fragilidade…",
+"tema": "Água",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/editorial-1420/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:32",
+"t": "Pedestre morre atropelado e rodovia Marechal Rondon fica interditada em Birigui",
+"p": "Um pedestre morreu após ser atropelado na noite desta quinta-feira (26) na altura do km 522 da Rodovia Marechal Rondon (SP-300) no sentido interior, em Birigui (SP). Segundo a concessionária responsável pela via, a pista precisou ser totalmente interditada e seguia bloqueada até a última atualização desta…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/pedestre-morre-atropelado-e-rodovia-marechal-rondon-fica-interditada-em-birigui/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:30",
+"t": "Confira a previsão do tempo para Marília nesta sexta-feira (27/11)",
+"p": "Dia deve ter predomínio de nuvens e probabilidade de chuva.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-sexta-feira-27-11/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:30",
+"t": "Polícia Ambiental intensifica patrulhamento preventivo na zona rural de Votuporanga",
+"p": "A Polícia Ambiental realizou uma operação de policiamento preventivo na área rural de Votuporanga (SP) com foco no reforço da segurança de moradores e produtores, sobretudo durante o período noturno. Integrada ao programa Vizinhança Rural Solidária, a ação percorreu pontos estratégicos como os bairros Nova Vida e…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-ambiental-intensifica-patrulhamento-preventivo-na-zona-rural-de-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:27",
+"t": "Idosa de 81 anos morre após dias internada na UTI depois de acidente no trevo de Álvares Florence",
+"p": "Morreu na tarde desta quinta-feira (26) uma moradora de Cardoso, de 81 anos, que estava internada na Unidade de Terapia Intensiva (UTI) desde o último dia 5 de novembro, quando sofreu um grave acidente de trânsito no trevo de Álvares Florence. A idosa viajava em um carro oficial da Prefeitura de Cardoso, destinado…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Álvares Florence",
+"Cardoso"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/idosa-de-81-anos-morre-apos-dias-internada-na-uti-depois-de-acidente-no-trevo-de-alvares-florence/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:25",
+"t": "Bugio é resgatado após ficar dois dias em poste de energia em Panorama",
+"p": "Um bugio-preto (Alouatta caraya) foi resgatado após ficar dois dias em um poste de energia elétrica em Panorama (SP), na manhã desta quinta-feira (26). O resgate mobilizou equipes da Defesa Civil, guarda-vidas e Polícia Militar. Segundo as autoridades, o animal se assustou no momento em que a equipe chegou e se…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Panorama"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/bugio-e-resgatado-apos-ficar-dois-dias-em-poste-de-energia-em-panorama/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:21",
+"t": "Confira as ofertas de emprego no PAT Marília nesta sexta-feira (27/11)",
+"p": "Oportunidades contemplam os setores de serviços, agricultura, indústria, logística e comércio.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-as-ofertas-de-emprego-no-pat-marilia-nesta-sexta-feira-27-11/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:21",
+"t": "Pedestre morre atropelado na Rodovia Marechal Rondon e pista é interditada",
+"p": "Um pedestre morreu após ser atropelado na noite desta quinta-feira (26) no quilômetro 522 da Rodovia Marechal Rondon (SP-300), no sentido interior, em Birigui (SP). De acordo com a concessionária que administra o trecho, o acidente exigiu a interdição total da pista, que permanecia bloqueada até a última…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pedestre-morre-atropelado-na-rodovia-marechal-rondon-e-pista-e-interditada/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:20",
+"t": "Muralha Paulista, moradores podem cadastrar câmeras em sistema que já integra 3 cidades da região",
+"p": "O programa Muralha Paulista, plataforma de monitoramento e inteligência da SSP (Secretaria da Segurança Pública do Estado de São Paulo), já integra oficialmente três municípios da região administrativa de Presidente Prudente — Dracena, Iepê e Presidente Epitácio — e agora permite que moradores e empresas de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Presidente Epitácio",
+"Presidente Prudente",
+"Dracena",
+"Iepê"
+],
+"src": "Portal Regional (Dracena)",
+"u": "https://portalregional.net.br/2026/11/muralha-paulista-moradores-podem-cadastrar-cameras-em-sistema-que-ja-integra-3-cidades-da-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:06",
+"t": "Encontro reúne poder público e entidades para debater ações voltadas à população em situação de rua em Jales",
+"p": "A Secretaria Municipal de Desenvolvimento Social e o Juizado Especial Cível e Criminal da Comarca de Jales realizaram, na quarta-feira (25), o evento “Da Escuta à Ação – Encontro Municipal do CIAMP-Rua”, na 1ª Igreja Batista da cidade. A atividade reuniu representantes do Judiciário, da Prefeitura e suas pastas, do…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/encontro-reune-poder-publico-e-entidades-para-debater-acoes-voltadas-a-populacao-em-situacao-de-rua-em-jales/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:06",
+"t": "EMEF Pedro Malavazzi realiza feira do projeto Jovens Empreendedores nesta sexta em Fernandópolis",
+"p": "A EMEF Pedro Malavazzi promove nesta sexta-feira (27) a feira de encerramento do projeto Jovens Empreendedores Primeiros Passos (JEPP), em Fernandópolis. O encontro acontece na unidade escolar, situada na Rua Reinaldo Bertolini, 300, no bairro Vereador Antônio Brandini, com abertura às 12h e apresentações oficiais…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/emef-pedro-malavazzi-realiza-feira-do-projeto-jovens-empreendedores-nesta-sexta-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:06",
+"t": "Programa Saúde na Escola inicia encerramento das atividades de 2026 com palestra de juiz em Fernandópolis",
+"p": "O Programa Saúde na Escola (PSE) deu início ao encerramento de suas atividades de 2026 na manhã desta quarta-feira (25), no auditório da Câmara Municipal de Fernandópolis. A abertura contou com palestra do juiz da Vara da Infância e da Juventude, Eduardo Luiz de Abreu Costa, que conversou com os estudantes sobre…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/programa-saude-na-escola-inicia-encerramento-das-atividades-de-2026-com-palestra-de-juiz-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:06",
+"t": "Projeto “Circo em Ferpa II” leva apresentações gratuitas a escolas e espaço cultural de Fernandópolis",
+"p": "Depois de se destacar no 1º Festival Nacional de Teatro de Fernandópolis com a peça “Micorriza”, a atriz, produtora cultural e arte-educadora Maria Victoria Zerpa Rodrigues estreou nesta quarta-feira (25) o projeto “Circo em Ferpa II”, na quadra da EMEFA Melvin Jones, reunindo estudantes e docentes em uma tarde…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/projeto-circo-em-ferpa-ii-leva-apresentacoes-gratuitas-a-escolas-e-espaco-cultural-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:03",
+"t": "Quina Friday aumenta prêmio de R$ 50 milhões para R$ 80 milhões, reduz preço da aposta simples para R$ 2,50 e terá sorteio que não acumula neste domingo",
+"p": "A possibilidade de começar dezembro com uma verdadeira fortuna na conta bancária movimenta os apostadores de loterias em todo o Brasil. Com uma premiação estimada em R$ 80 milhões, a Quina Friday, concurso especial inspirado na Black Friday, promete transformar a vida de um ou mais brasileiros neste fim de semana.…",
+"tema": "Investimentos",
+"s": "anunciado",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/quina-friday-aumenta-premio-de-r-50-milhoes-para-r-80-milhoes-reduz-preco-da-aposta-simples-para-r-250-e-tera-sorteio-que-nao-acumula-neste-domingo/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "08:02",
+"t": "Grupo oferecia programas sexuais para roubar idosos em Rio Preto",
+"p": "Investigação aponta 15 vítimas identificadas e prejuízo ultrapassa R$ 500 mil",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/grupo-oferecia-programas-sexuais-para-roubar-idosos-em-rio-preto/",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "08:00",
@@ -77,6 +497,35 @@
 },
 {
 "d": "2026-11-27",
+"h": "08:00",
+"t": "Alberto Mourão tem aprovação de 74,9% em Praia Grande, aponta pesquisa Badra",
+"p": "Prefeito tem 20% de reprovação, segundo pesquisa da Badra Comunicação; educação é apontada como área de melhor desempenho, e segurança concentra maior insatisfação",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Praia Grande"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/politica/alberto-mourao-tem-aprovacao-de-749-em-praia-grande-aponta-pesquisa-badra.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "07:55",
+"t": "FeirArte comemora 56 anos em Santos com apresentações das escolas Brasil e União Imperial neste fim de semana",
+"p": "A FeirArte completa 56 anos em Santos e, para celebrar a data, a feira contará com uma programação especial neste final de semana, nos espaços do Boqueirão e da Aparecida. A feira contará com a apresentação da escola de samba Brasil, a Campeoníssima, a partir das 18h. As comemorações continuam no domingo (29),…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Aparecida",
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/feirarte-comemora-56-anos-em-santos-com-apresentacoes-das-escolas-brasil-e-uniao-imperial-neste-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "07:54",
 "t": "Rodovia Floriano Rodrigues Pinheiro tem tráfego normal na manhã desta sexta (27)",
 "p": "Tráfego segue regular nos dois sentidos entre Taubaté e Campos do Jordão, com atenção para possibilidade de neblina no trecho de serra da rodovia",
@@ -102,6 +551,20 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/metro-fecha-linha-3-vermelha-por-12-horas-neste-domingo-e-passageiros-terao-de-usar-onibus-e-outras-linhas-para-chegar-ao-destino-durante-a-manha/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "07:20",
+"t": "Autor de ‘Ainda Estou Aqui’, Marcelo Rubens Paiva integra a programação gratuita da Virada Inclusiva 2026 em Santos",
+"p": "Com apresentação do escritor Marcelo Rubens Paiva, responsável pelo livro “Ainda Estou Aqui”, a Virada Inclusiva 2026 terá uma programação em diferentes pontos de Santos entre este sábado (28) e 5 de dezembro. A iniciativa tem como propósito celebrar os 20 anos da Convenção da Organização das Nações Unidas (ONU)…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/autor-de-ainda-estou-aqui-marcelo-rubens-paiva-integra-a-programacao-gratuita-da-virada-inclusiva-2026-em-santos/",
 "auto": true
 },
 {
@@ -54690,450 +55153,6 @@
 ],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/carnaval-2027-em-sao-paulo-tera-ensaios-tecnicos-gratuitos-em-menos-de-40-dias/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "20:04",
-"t": "Mutirão de empregos em Arujá reúne 225 vagas nesta quinta-feira (12)",
-"p": "Entrevistas serão realizadas no prédio do programa Arujá Emprega, localizado no Centro; oportunidades são para atuação em uma nova empresa de logística no município",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Arujá"
-],
-"src": "O Diário de Mogi",
-"u": "https://www.odiariodemogi.net.br/alto-tiete/processo-seletivo-reune-225-vagas-de-emprego-em-aruja-nesta-quinta-feira-12/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "20:00",
-"t": "Fundada em 1956, padaria do Jardim Brasil conquista primeiro lugar em ranking da zona norte de São Paulo no Padocaria",
-"p": "A Padaria Jardim Brasil, na zona norte de São Paulo, conquistou o primeiro lugar da região na edição de 2026 do Padocaria-SP, concurso que elege as melhores padarias da Capital. Fundado em 1956, o estabelecimento foi a primeira padaria do bairro Jardim Brasil e reúne opções de panificação, confeitaria, lanches,…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/fundada-em-1956-padaria-do-jardim-brasil-conquista-primeiro-lugar-em-ranking-da-zona-norte-de-sao-paulo-no-padocaria/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:56",
-"t": "Ilhabela oferece curso gratuito de eletricista de manutenção de embarcações",
-"p": "Formação presencial terá 40 horas de duração e é voltada a moradores da cidade com pelo menos 18 anos e ensino fundamental",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Ilhabela"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-oferece-curso-gratuito-de-eletricista-de-manutencao-de-embarcacoes.html",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:53",
-"t": "Vereadores de SP aprovam em 1ª votação mudança de nome da GCM para Polícia Municipal",
-"p": "",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368272/vereadores-de-sp-aprovam-em-1-votacao-mudanca-de-nome-da-gcm-para-policia-municipal",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:53",
-"t": "Vereadores de SP aprovam em 1ª votação mudança de nome da GCM para Polícia Municipal",
-"p": "",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368274/vereadores-de-sp-aprovam-em-1-votacao-mudanca-de-nome-da-gcm-para-policia-municipal",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:49",
-"t": "Morando fecha oito anos com parecer favorável do TCE",
-"p": "Ex-prefeito de São Bernardo alcança melhor marca histórica na cidade, com todos exercícios fiscais favoráveis na Corte de Contas desde 1993",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368270/morando-fecha-oito-anos-com-parecer-favoravel-do-tce",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:37",
-"t": "Mulher morre após cair de trator e ser atropelada em rodovia",
-"p": "Vítima estava sentada no paralama do veículo quando se desequilibrou ao passar por uma lombada; acidente aconteceu na tarde desta quarta-feira (11)",
-"tema": "Transporte",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/mulher-morre-apos-cair-de-trator-e-ser-atropelada-em-rodovia/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:31",
-"t": "Câmara de São Paulo aprova mudança e Guarda Civil Metropolitana vira Polícia Municipal",
-"p": "A Câmara Municipal de São Paulo aprovou nesta quarta-feira (11/11) a alteração na Lei Orgânica do Município que muda a nomenclatura da Guarda Civil Metropolitana (GCM) para Polícia Municipal. A votação reflete o avanço do debate sobre a atuação das forças locais no policiamento comunitário e na preservação da ordem…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/camara-de-sao-paulo-aprova-mudanca-e-guarda-civil-metropolitana-vira-policia-municipal/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:19",
-"t": "BYD desafia gigantes do luxo mundial com novo sedã capaz de rodar mil quilômetros que flutua na água e tem sala privativa com tela de cinema",
-"p": "A BYD oficializou a apresentação do Yangwang Altior, seu novo sedã de altíssimo luxo voltado ao mercado internacional. O veículo tem 5,6 metros de comprimento e aposta em quatro motores elétricos independentes. Dessa forma, o projeto busca provar que a indústria chinesa consegue rivalizar com os modelos mais caros…",
-"tema": "Água",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/byd-desafia-gigantes-do-luxo-mundial-com-novo-seda-capaz-de-rodar-mil-km/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:18",
-"t": "Prefeitura articula ações de conscientização e fiscalização para combater a proliferação de pombos",
-"p": "Secretaria da Saúde de Votuporanga, por meio da Vigilância Sanitária, integra plano de ação com outros órgãos municipais para orientar a população, prevenir riscos à saúde pública e reforçar o cumprimento da legislação. A alimentação de pombos em praças e outros espaços públicos é uma prática proibida em…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/prefeitura-articula-acoes-de-conscientizacao-e-fiscalizacao-para-combater-a-proliferacao-de-pombos/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:17",
-"t": "Profissionais da rede estadual de ensino vão receber bônus por desempenho",
-"p": "Governo de SP anunciou que vai pagar, em 15 de dezembro, R$ 357,6 milhões em bônus a profissionais da educação. Valor médio é de R$ 2.861",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/profissionais-da-rede-estadual-de-ensino-vao-receber-bonus-por-desempenho",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:15",
-"t": "Sergio Souza destaca a importância da publicidade legal e o papel da Gazeta como referência no setor",
-"p": "O fundador da Gazeta de S.Paulo e do Diário do Litoral, Sergio Souza, destacou a importância da publicidade legal para garantir transparência, segurança jurídica e acesso à informação. Durante o 1º Fórum Nacional da Transparência (FNT 2026), realizado na última segunda-feira (9/11), em São Paulo, Sergio Souza…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/economia/sergio-souza-destaca-a-importancia-da-publicidade-legal-e-o-papel-da-gazeta-como-referencia-no-setor/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:15",
-"t": "Fãs criam chaveiro com tampa de garrafa para driblar proibição e entrar com água nos shows do BTS em São Paulo",
-"p": "Quem já foi a um show sabe: na hora de entrar no estádio, algumas regras podem acabar mudando os planos do público. Mas e quando uma restrição aparentemente simples faz os fãs colocarem a criatividade para funcionar? Foi o que aconteceu com os fãs do grupo sul-coreano BTS, que encontraram uma maneira curiosa e…",
-"tema": "Água",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/fas-criam-chaveiro-com-tampa-de-garrafa-para-driblar-proibicao-e-entrar-com-agua-nos-shows-do-bts-em-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:11",
-"t": "Saev Ambiental avança com controle de pragas na região Sul de Votuporanga",
-"p": "Operação prevê atendimento a mais de 5,5 mil pontos de visita da rede coletora de esgoto, incluindo Simonsen e Vila Carvalho. A Saev Ambiental dá continuidade, na região Sul de Votuporanga, ao trabalho de controle de pragas urbanas na rede coletora de esgoto. Iniciada no dia 14 de outubro, pela região Norte, a…",
-"tema": "Saneamento",
-"s": "anunciado",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/saev-ambiental-avanca-com-controle-de-pragas-na-regiao-sul-de-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:05",
-"t": "Jovem que caiu de capô de carro morre após três dias internado; família doa órgãos",
-"p": "Iago Tavares Moreira Emídio, de 23 anos, sofreu traumatismo craniano após cair no asfalto em Monte Aprazível; motorista envolvida deixou o local sem prestar socorro, segundo a polícia. Morreu na noite desta terça-feira (10.nov), aos 23 anos, Iago Tavares Moreira Emídio, jovem que sofreu graves ferimentos após cair…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Monte Aprazível"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/jovem-que-caiu-de-capo-de-carro-morre-apos-tres-dias-internado-familia-doa-orgaos/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:04",
-"t": "Veja quem são os novos secretários de Tarcísio; engenheiro formado pela Unicamp está na lista",
-"p": "Governador confirmou três mudanças no primeiro escalão e a permanência de outros três integrantes; novo secretário de Ciência e Tecnologia é formado pela Unicamp, em Campinas",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/politica/veja-quem-sao-os-novos-secretarios-de-tarcisio-engenheiro-formado-pela-unicamp-esta-na-lista/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:03",
-"t": "Falta de vagas em UTI e demora no CROSS entram em debate na Câmara de Votuporanga",
-"p": "Vereador Sargento Marcos Moreno (PL) defendeu a implantação de uma UPA Regional e alertou para a sobrecarga enfrentada pela rede de saúde. Jorge Honorio jorgehonoriojornalista@gmail.com A situação da saúde pública voltou a ser tema de debate na Câmara Municipal de Votuporanga/SP durante a 40ª Sessão Ordinária,…",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/falta-de-vagas-em-uti-e-demora-no-cross-entram-em-debate-na-camara-de-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "19:00",
-"t": "‘Lixeira inteligente’ criada por alunos de escola em São Paulo usa IA para identificar e separar lixo",
-"p": "Estudantes do Colégio Marista Glória, no Cambuci, região central de São Paulo, desenvolveram uma lixeira que utiliza inteligência artificial para identificar resíduos e direcioná-los ao compartimento adequado. O projeto foi apresentado no Festival Marista de Robótica 2026, que ocorreu na última quarta-feira (4/11)…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/lixeira-inteligente-criada-por-alunos-de-sao-paulo-usa-ia-para-identificar-e-separar-lixo/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:59",
-"t": "Professora de Santo André vence Desafio de Redação",
-"p": "Fernanda Chia trabalha na área de educação há 28 anos",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Santo André"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368260/professora-de-santo-andre-vence-desafio-de-redacao",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:57",
-"t": "Câmara tenta liberar insumos de vapes, mas Senado barra mudança em regras de cigarros eletrônicos",
-"p": "A Câmara dos Deputados e o Senado Federal divergiram sobre a regulação dos cigarros eletrônicos durante a votação da Medida Provisória 1.373 nesta quarta-feira (11/11). Enquanto a Câmara aprovou um dispositivo para autorizar a produção nacional de matérias-primas para vapes, o Senado atuou para remover…",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/politica/camara-tenta-liberar-insumos-de-vapes-mas-senado-barra-mudanca-em-regras-de-cigarros-eletronicos/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:54",
-"t": "Ex-vigilante é condenado a 1 ano e 3 meses por matar amigo com tiro na cabeça durante churrasco da Copa",
-"p": "Crime ocorreu durante jogo do Brasil em Auriflama; Justiça descartou intenção de matar e condenou o réu por homicídio culposo após manuseio imprudente da arma. A Justiça condenou nesta segunda-feira (9.nov) o ex-vigilante bancário Pedro Bernardo da Silva Junior, de 51 anos, pela morte do amigo Marcos Frederico…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Auriflama"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/ex-vigilante-e-condenado-a-1-ano-e-3-meses-por-matar-amigo-com-tiro-na-cabeca-durante-churrasco-da-copa/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:54",
-"t": "Guarujá tem 33 vagas de emprego; confira os cargos e requisitos",
-"p": "Oportunidades contemplam 12 funções, com vagas para candidatos com e sem experiência; cargos exigem diferentes níveis de escolaridade",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Guarujá"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/guaruja/guaruja-tem-33-vagas-de-emprego-confira-os-cargos-e-requisitos.html",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:48",
-"t": "Com Salles, Tarcísio anuncia três novos secretários de governo; veja nomes",
-"p": "Também foram anunciados os nomes de Anderson Ribeiro Correia (Ciência, Tecnologia e Inovação) e Marcos Guerson (Desenvolvimento Econômico)",
-"tema": "Política",
-"s": "anunciado",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/com-salles-tarcisio-anuncia-tres-novos-secretarios-de-governo-veja-nomes",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:48",
-"t": "Operador de máquina encontrou peças de ouro durante uma obra em 1972; arqueólogos descobriram que o tesouro tinha mais de 6 mil anos e era o mais antigo já conhecido",
-"p": "O condutor de máquina de construção encontrou peças de ouro durante trabalhos em outubro de 1972 e o material logo chamou a atenção de moradores que acionaram um especialista em patrimônio da região. O fundador de um museu histórico regional foi o primeiro a compreender a dimensão do que surgia do solo e, no mesmo […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/variedades/cultura/operador-de-maquina-encontrou-pecas-de-ouro-durante-uma-obra-em-1972-arqueologos-descobriram-que-o-tesouro-tinha-mais-de-6-mil-anos-e-era-o-mais-antigo-ja-conhecido/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:47",
-"t": "Escavações dos túneis do Metrô de Taboão da Serra devem começar antes do Carnaval de 2027",
-"p": "As obras de extensão da Linha 4-Amarela do Metrô até Taboão da Serra, na região sudoeste da Grande São Paulo, avançam e devem entrar em uma nova fase antes do Carnaval de 2027, com o início das escavações dos túneis. Atualmente, os trabalhos estão concentrados nas perfurações dos poços da futura estação de Taboão…",
-"tema": "Transporte",
-"s": "fato",
-"c": [
-"Taboão da Serra"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/escavacoes-dos-tuneis-do-metro-de-taboao-da-serra-devem-comecar-antes-do-carnaval-de-2027/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:42",
-"t": "Tribunal de Contas faz alerta à Prefeitura de SP sobre gastos com educação",
-"p": "Segundo o TCM, alerta visa garantir o cumprimento do mínimo constitucional de investimento em educação até o final de 2026",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/tribunal-de-contas-faz-alerta-a-prefeitura-de-sp-sobre-gastos-com-educacao",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:35",
-"t": "Fátima Bernardes revela se pretende voltar à TV, descarta programa diário e explica motivo após 35 anos de trabalho",
-"p": "A apresentadora e jornalista Fátima Bernardes afirmou que não tem interesse, neste momento, em voltar a comandar um programa diário na televisão. Apesar de considerar essa etapa da carreira uma página virada, ela não descarta aceitar novos projetos caso surja uma oportunidade que seja interessante para o público,…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/fatima-bernardes-revela-se-pretende-voltar-a-tv-descarta-programa-diario-e-explica-motivo-apos-35-anos-de-trabalho/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:34",
-"t": "São Bernardo aprova crédito de R$ 50 milhões por escola no Montanhão",
-"p": "Marcelo Lima tem aval da Câmara para firmar operação com Caixa para obras da Emeb Monte Sião",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368249/sao-bernardo-aprova-credito-de-rs-50-milhoes-por-escola-no-montanhao",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:32",
-"t": "Oficina gratuita de roteiro audiovisual para iniciantes será realizada no Parque da Cultura",
-"p": "Atividade do programa Pontos MIS será realizada em 24 de novembro, com 35 vagas e inscrições gratuitas no local. Quem deseja dar os primeiros passos na criação de histórias para o cinema e outras produções audiovisuais terá a oportunidade de aprender técnicas de escrita e construção narrativa em Votuporanga. No dia…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/oficina-gratuita-de-roteiro-audiovisual-para-iniciantes-sera-realizada-no-parque-da-cultura/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:30",
-"t": "Chuva forte volta para SP e Defesa Civil alerta para risco de alagamentos e deslizamentos",
-"p": "A Defesa Civil de São Paulo alerta para a possibilidade de chuvas fortes em diferentes regiões do estado entre esta quarta-feira (11/11) e quinta-feira (12/11). A previsão indica pancadas isoladas, raios e risco de tempestades, principalmente a partir da tarde de quinta. Nesta quarta-feira, são esperadas pancadas…",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/chuva-forte-volta-para-sp-e-defesa-civil-alerta-para-risco-de-alagamentos-e-deslizamentos/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:30",
-"t": "Campinas pode ter multa de até 20% para impostos atrasados; Câmara vota mudanças nas regras",
-"p": "Projetos da Prefeitura também propõem mudanças na cobrança da taxa de lixo de terrenos sem construção e do imposto pago na compra de imóveis; propostas serão analisadas nesta quarta-feira (11)",
-"tema": "Contas públicas",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/politica/campinas-pode-ter-multa-de-ate-20-para-impostos-atrasados-camara-vota-mudancas-nas-regras/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:30",
-"t": "Turma da Mônica invade shopping no litoral de SP para celebrar chegada do Papai Noel com atrações gratuitas para crianças e famílias",
-"p": "O universo da Turma da Mônica vai tomar conta do Litoral Plaza, em Praia Grande, neste sábado (14), para celebrar a chegada do Papai Noel. A partir das 15h, o shopping dará início à programação natalina com atrações gratuitas, apresentações musicais e encontros com personagens criados por Mauricio de Sousa. A…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Praia Grande"
-],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/praia-grande/turma-da-monica-invade-shopping-no-litoral-de-sp-para-celebrar-chegada-do-papai-noel-com-atracoes-gratuitas-para-criancas-e-familias/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "18:28",
-"t": "Trabalhador é atingido por viga de concreto durante demolição em obra",
-"p": "Acidente aconteceu na tarde desta terça-feira (10), no bairro Cidade Nova; vítima foi socorrida e encaminhada ao Hospital Augusto de Oliveira Camargo",
-"tema": "Saúde",
-"s": "alerta",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/trabalhador-e-atingido-por-viga-de-concreto-durante-demolicao-em-obra/",
 "auto": true
 }
 ]
