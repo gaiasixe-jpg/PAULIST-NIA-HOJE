@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-27T00:06:32-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-27T01:15:37-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,117 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "01:06",
+"t": "MP investiga gestão da saúde em Araçatuba após CPI apontar redução de leitos e problemas no atendimento",
+"p": "Promotoria anuncia investigação sobre suspeitas de deficiências na gestão e na prestação dos serviços públicos de saúde em Araçatuba (SP), como desdobramento do relatório final da CPI da Saúde, aprovado na Câmara dos Vereadores Reprodução/TV TEM O Ministério Público de São Paulo (MP-SP) abriu um inquérito civil…",
+"tema": "Saúde",
+"s": "alerta",
+"c": [
+"Araçatuba",
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mp-investiga-gestao-da-saude-em-aracatuba-apos-cpi-apontar-reducao-de-leitos-e-problemas-no-atendimento/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:06",
+"t": "Torneio J Hawilla encerra temporada de golfe em Rio Preto; confira programação",
+"p": "Torneio J Hawilla será realizado na Quinta do Golfe Clube, em São José do Rio Preto (SP) Reprodução/Quinta do Golfe Clube O Quinta do Golfe Clube, em São José do Rio Preto (SP), recebe nesta sexta-feira (27) e sábado (28) a etapa de encerramento da temporada de golfe da região com o Torneio J Hawilla. […]",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/torneio-j-hawilla-encerra-temporada-de-golfe-em-rio-preto-confira-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:06",
+"t": "Mulher é presa suspeita de liderar grupo que atraía idosos com programas sexuais e aplicava golpes de até R$ 500 mil em Rio Preto",
+"p": "Polícia Civil/Divulgação Uma mulher trans foi presa suspeita de liderar uma associação criminosa especializada em furtos e golpes bancários contra homens idosos nesta quinta-feira (26), em São José do Rio Preto […]",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/mulher-e-presa-suspeita-de-liderar-grupo-que-atraia-idosos-com-programas-sexuais-e-aplicava-golpes-de-ate-r-500-mil-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:06",
+"t": "Polícia investiga esquema de desvio e venda ilegal de remédios controlados da rede pública no noroeste de SP",
+"p": "Receitas de medicamentos controlados, anotações com valores e dispositivos eletrônicos foram apreendidos por policiais, em Birigui (SP), em ação contra esquema de venda ilegal de remédios na rede pública Fotos: Polícia Civil/Reprodução A Polícia Civil investiga suspeita de esquema de desvio e venda ilegal de…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-investiga-esquema-de-desvio-e-venda-ilegal-de-remedios-controlados-da-rede-publica-no-noroeste-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:06",
+"t": "Pedestre morre atropelado e rodovia Marechal Rondon fica interditada em Birigui",
+"p": "Pedestre morre atropelado e Rodovia Marechal Rondon fica interditada em Birigui (SP) Portal CCM – Artesp/Divulgação Um pedestre morreu após ser atropelado na noite desta quinta-feira (26) na altura do km 522 da Rodovia Marechal Rondon (SP-300) no sentido interior, em Birigui (SP). Segundo a concessionária…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/pedestre-morre-atropelado-e-rodovia-marechal-rondon-fica-interditada-em-birigui/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:02",
+"t": "Pagou academia e não frequentou? Veja os seus direitos antes de renovar o plano",
+"p": "Com a proximidade do fim do ano, muitas pessoas percebem que pagaram durante meses por serviços que quase não utilizaram. É o caso dos planos de academia contratados no início do ano, muitas vezes embalados pelas promessas de adotar uma rotina mais saudável. A falta de frequência, porém, não interrompe…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/pagou-academia-e-nao-frequentou-veja-os-seus-direitos-antes-de-renovar-o-plano/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "01:02",
+"t": "Quem pode doar sangue? Conheça os requisitos e as restrições sobre a doação",
+"p": "Do atendimento a emergências à realização de cirurgias programadas, a doação de sangue é essencial para o funcionamento dos hospitais. Como o sangue é insubstituível e seus componentes têm prazo de validade, manter os estoques abastecidos nas redes pública e privada é uma prioridade para a saúde do país. As doações…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/quem-pode-doar-sangue-conheca-os-requisitos-e-as-restricoes-sobre-a-doacao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "00:31",
+"t": "Cozinheira que trabalhava de segunda a domingo durante 8 anos é demitida e Justiça condena patrão a pagar dívida de R$ 341 mil",
+"p": "Uma cozinheira que trabalhava de segunda a domingo, com jornadas de oito horas diárias, conquistou uma importante vitória na Justiça após perder o emprego durante a pandemia de Covid-19. A mulher trabalhou durante oito anos em um estabelecimento gastronômico sem que seu vínculo empregatício estivesse devidamente…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/mundo/cozinheira-que-trabalhava-de-segunda-a-domingo-durante-8-anos-e-demitida-e-justica-condena-patrao-a-pagar-divida-de-r-341-mil/",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "00:04",
@@ -54983,112 +55094,6 @@
 ],
 "src": "Tribuna de Jundiaí",
 "u": "https://tribunadejundiai.com.br/cidades/jundiai/apae-de-jundiai-realiza-mais-de-11-mil-avaliacoes-no-primeiro-ano-do-centro-diagnostico/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:50",
-"t": "Ministério Público denuncia mãe e padrasto por homicídio e tortura após morte de criança de dois anos",
-"p": "O Ministério Público do Estado de São Paulo denunciou a mãe e o padrasto do menino Micael Davi Costa da Silva, de dois anos, pelos crimes de homicídio qualificado e tortura, em decorrência da morte da criança no município de Araçatuba. Gabriel Suntaque de Oliveira é acusado de agredir fisicamente o enteado,…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araçatuba"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/ministerio-publico-denuncia-mae-e-padrasto-por-homicidio-e-tortura-apos-morte-de-crianca-de-dois-anos/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:38",
-"t": "Tarcísio confirma Ricardo Salles como secretário de Justiça de SP",
-"p": "Foto: Bruno Spada / Câmara dos Deputados Confirmação ocorre após o parlamentar desistir da disputa ao Senado nas eleições de 2026, em meio a articulações políticas no estado.",
-"tema": "Eleições",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/politica/tarcisio-confirma-ricardo-salles-como-secretario-de-justica-de-sp/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:35",
-"t": "MP arquiva investigação sobre estacionamento pago na Cidade da Criança",
-"p": "Promotoria identificou falhas na autorização concedida à Associação Guasomafe, mas não encontrou provas suficientes de desvio de dinheiro público ou improbidade administrativa",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/mp-arquiva-investigacao-sobre-estacionamento-pago-na-cidade-da-crianca/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:30",
-"t": "Tarcísio confirma Ricardo Salles como novo secretário de Justiça e Cidadania",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368205/tarcisio-confirma-ricardo-salles-como-novo-secretario-de-justica-e-cidadania",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:21",
-"t": "Tarcísio escolhe ex-reitor do ITA como novo secretário de Ciência e Tecnologia de São Paulo",
-"p": "",
-"tema": "Política",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368202/tarcisio-escolhe-ex-reitor-do-ita-como-novo-secretario-de-ciencia-e-tecnologia-de-sao-paulo",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:05",
-"t": "Operação contra fraude em combustíveis mira cidades de SP",
-"p": "Ação com apoio da Polícia Civil apura rombo de R$ 5,5 bilhões e mira grupo econômico ligado a refinaria de petróleo",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/policia-civil-de-sp-apoia-operacao-do-mp-rj-contra-fraude-bilionaria-no-setor-de-combustiveis/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:01",
-"t": "Marcelo Lima destaca educação e união das sete cidades no Desafio",
-"p": "Prefeito de São Bernardo recebeu a cerimônia pelo segundo ano consecutivo e ressaltou a importância da participação dos estudantes",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"São Bernardo do Campo"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368194/marcelo-lima-destaca-educacao-e-uniao-das-sete-cidades-no-desafio",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "16:00",
-"t": "Candidato de Sergio Moro em SP, comentarista Cristiano Beraldo é demitido da Jovem Pan após operação do MPRJ",
-"p": "O comentarista político Cristiano Beraldo foi demitido da Jovem Pan nesta quarta-feira (11/11). A decisão ocorreu após o profissional ser um dos alvos de uma operação do Ministério Público do Estado do Rio de Janeiro (MPRJ). Ex-integrante do Movimento Brasil Livre (MBL) e suplente de deputado federal, Beraldo, que…",
-"tema": "Contas públicas",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/candidato-de-sergio-moro-em-sp-comentarista-cristiano-beraldo-e-demitido-da-jovem-pan-apos-operacao-do-mprj/",
 "auto": true
 }
 ]
