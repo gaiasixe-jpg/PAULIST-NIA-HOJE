@@ -3,6 +3,528 @@
 "itens": [
 {
 "d": "2026-11-27",
+"h": "16:05",
+"t": "Polícia Civil recupera 14 celulares e atualiza 10 boletins de ocorrência na região",
+"p": "A Polícia Civil do Estado de São Paulo recuperou 14 aparelhos celulares e atualizou 10 boletins de ocorrência na quinta-feira (26), durante as operações SP Mobile e a 3ª fase da Operação Última Chamada, executadas pelo 1º Distrito Policial de Birigui e pela Delegacia de Polícia de Piacatu, no interior paulista. As…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Birigui",
+"Piacatu"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-recupera-14-celulares-e-atualiza-10-boletins-de-ocorrencia-na-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "16:04",
+"t": "CDHU Móvel atenderá na Praça do Lago nos dias 1º e 2 de dezembro",
+"p": "Habitação",
+"tema": "Habitação",
+"s": "fato",
+"c": [
+"Registro"
+],
+"src": "Prefeitura de Registro",
+"u": "https://registro.sp.gov.br/cdhu-movel-atendera-na-praca-do-lago-nos-dias-1o-e-2-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "16:00",
+"t": "Black Friday da Cacau Show tem panetones a partir de R$ 19,95 em outlet com chocolates, trufas e bombons",
+"p": "Quem ainda precisa comprar presentes de Natal sem comprometer o orçamento pode encontrar chocolates e panetones mais baratos na Mega Store da Cacau Show, em Itapevi, na Grande São Paulo. O espaço tem um outlet com as chamadas “Caixas Brancas”, produtos que apresentam pequenas avarias estéticas, mas mantêm o sabor e…",
+"tema": "Contas públicas",
+"s": "anunciado",
+"c": [
+"Itapevi"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/black-friday-da-cacau-show-tem-panetones-a-partir-de-r-1995-em-outlet-com-chocolates-trufas-e-bombons/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:57",
+"t": "Atleta de Jundiaí marca presença na abertura da exposição que celebra os 15 anos do Time São Paulo Paralímpico",
+"p": "Cristian Ribera - Foto: SEDPcD Esquiador Cristian Ribera, integrante do programa estadual, participou do lançamento da mostra no Museu da Inclusão, na capital",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/atleta-jundiai-cristian-ribera-exposicao-time-sao-paulo-paralimpico/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:50",
+"t": "Professor chama estudantes para ato em favor da implantação do Instituto Federal em Bertioga",
+"p": "Mobilização será no domingo (29), no Jardim Raphael; terreno já foi anunciado pela prefeitura e implantação da unidade depende de decisões federais",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/professor-chama-estudantes-para-ato-em-favor-da-implantacao-do-instituto-federal-em-bertioga.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:48",
+"t": "Final de semana tem alerta de temporais; veja a previsão",
+"p": "Região não tem previsão de chuva nesta sexta-feira (27), mas instabilidade retorna no sábado com possibilidade de grandes chuvas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/final-de-semana-tem-alerta-de-temporais-veja-a-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:42",
+"t": "Oficial de Justiça lê decisão, e GM pode intervir para liberar Câmara",
+"p": "Um oficial de Justiça esteve em frente à Câmara Municipal de Campinas por volta das 15h desta sexta-feira (27) e leu a decisão judicial que autoriza o uso mínimo de força para liberar os acessos ao Legislativo",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/politica/oficial-de-justica-le-decisao-e-gm-pode-intervir-para-liberar-camara/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:40",
+"t": "UBSs realizam ações durante campanha Dezembro Vermelho em Sorocaba",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria da Saúde (SES), realizará, ao longo do mês, uma série de ações alusivas à campanha Dezembro Vermelho nas Unidades Básicas de Saúde (UBSs) da cidade. A campanha tem o objetivo de conscientizar a população em relação à prevenção, assistência e proteção dos direitos das…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/ubss-realizam-acoes-durante-campanha-dezembro-vermelho-em-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:39",
+"t": "Série ‘O Eternauta’ retorna de depois de quase dois anos, mas de uma forma diferente da que os fãs esperavam",
+"p": "Após ter feito um enorme sucesso na Netflix em seu lançamento, ocorrido em abril de 2025, a série “O Eternauta” teve o seu final em aberto e, desde então, não se sabe quando a nova temporada chegará ao streaming. Porém, a reedição da obra que serviu de inspiração chegou nesta semana às livrarias argentinas. Escrita […]",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/serie-o-eternauta-retorna-depois-de-quase-dois-anos-mas-de-uma-forma-diferente-da-que-os-fas-esperavam/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:34",
+"t": "Rodovia Presidente Dutra registra tráfego normal nesta sexta (27)",
+"p": "Motoristas encontram trânsito livre no trecho consultado entre Seropédica, no Rio de Janeiro, e São Paulo, conforme atualização das 15h30",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/br-116-dutra/rodovia-presidente-dutra-registra-trafego-normal-nesta-sexta-27.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:30",
+"t": "Jundiaí registra 113 casos de Covid-19 em novembro e reforça medidas de prevenção",
+"p": "Foto: Prefeitura de Jarinu Município contabilizou mais da metade dos casos de 2026 somente neste mês; unidades de saúde recebem novas doses da vacina e ação de multivacinação acontece neste sábado (28).",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jundiaí",
+"Jarinu"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/covid-19-jundiai-casos-novembro-2026/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:30",
+"t": "Guarujá retoma desfiles competitivos de escolas de samba após 11 anos",
+"p": "Evento de lançamento será neste domingo (29), na quadra da Amazonense, em Vicente de Carvalho; apresentações de 2027 serão gratuitas",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/guaruja-retoma-desfiles-competitivos-de-escolas-de-samba-apos-11-anos.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:23",
+"t": "Posto de combustíveis é lacrado após venda de gasolina com 57% de etanol",
+"p": "Fiscalização ocorreu durante ação do Gaeco e da Receita Federal em dois postos de Franca nesta sexta-feira (27)",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Franca"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/posto-de-combustiveis-lacrado-apos-venda-de-gasolina-com-57-de-etanol/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:20",
+"t": "Rodovia Padre Manoel da Nóbrega registra tráfego normal na tarde desta sexta (27)",
+"p": "Motoristas encontram trânsito livre nos dois sentidos da SP-055, nos trechos administrados pela Ecovias e pela Concessionária Novo Litoral",
+"tema": "Transporte",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/rodovia-padre-manoel-da-nobrega-registra-trafego-normal-na-tarde-desta-sexta-27.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:19",
+"t": "Jundiaí terá Virada Inclusiva com atividades esportivas, palestras e experiências de inclusão",
+"p": "Foto: Prefeitura de Jundiaí Programação começa neste sábado (28) e segue até 5 de dezembro, com ações que incentivam a convivência, a acessibilidade e o respeito aos direitos das pessoas com deficiência.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/virada-inclusiva-jundiai-2026-programacao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:19",
+"t": "INSS prepara mudança na fila do BPC para janeiro de 2027 e pretende dobrar de 45 para 90 dias o prazo para considerar os pedidos atrasados",
+"p": "Um brasileiro que aguarda há 60 dias pela aprovação do Benefício de Prestação Continuada (BPC) pode ter seu pedido classificado como atrasado pelo Instituto Nacional do Seguro Social (INSS). Entretanto, a partir de janeiro de 2027, esse mesmo tempo de espera poderá deixar de representar atraso nos indicadores…",
+"tema": "Investimentos",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/inss-prepara-mudanca-na-fila-do-bpc-para-janeiro-de-2027-e-pretende-dobrar-de-45-para-90-dias-o-prazo-para-considerar-os-pedidos-atrasados/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:15",
+"t": "Programa Clorofila premia escolas de Bertioga por projetos socioambientais",
+"p": "Com o tema 'A Corrente do Bem Viver', o Programa Clorofila reuniu 12 escolas e premiou ações sobre respeito e preservação ambiental",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/programa-clorofila-premia-escolas-de-bertioga-por-projetos-socioambientais.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:15",
+"t": "Pedestre morre após ser atropelado por sete veículos na Rodovia Marechal Rondon",
+"p": "Um pedestre morreu na noite de quinta-feira (26) em um atropelamento que envolveu sete veículos na Rodovia Marechal Rondon (SP-300), em Birigui (SP). O acidente aconteceu na altura do km 522 e exigiu a interdição total da pista no sentido interior. De acordo com a concessionária que administra o trecho, a vítima…",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Birigui"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/pedestre-morre-apos-ser-atropelado-por-sete-veiculos-na-rodovia-marechal-rondon/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:09",
+"t": "Quem era o jovem de Guarulhos encontrado morto nesta sexta-feira (27/11)",
+"p": "Higor Miranda Frontelli trabalhava como estagiário na área de tecnologia da Escola Estadual Professor Silverio Bertoni",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Guarulhos"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/quem-era-o-jovem-de-guarulhos-encontrado-morto-nesta-sexta-feira-27-11",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:01",
+"t": "Após piadas e críticas, MP avalia pedidos para investigar decoração de Natal de SP",
+"p": "",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371158/apos-piadas-e-criticas-mp-avalia-pedidos-para-investigar-decoracao-de-natal-de-sp",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:00",
+"t": "Cães treinados surpreendem pela capacidade de proteger pessoas, atuar na segurança e oferecer acolhimento em São Paulo e em diferentes países",
+"p": "Ter um cão treinado para proteger a casa e a família exige preparação, disciplina e técnicas específicas. Mas o treinamento desses animais pode ir muito além da segurança patrimonial: com preparo especializado, os cães também podem atuar como animais de assistência, acompanhando crianças e adultos com deficiência…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/caes-treinados-surpreendem-pela-capacidade-de-proteger-pessoas-atuar-na-seguranca-e-oferecer-acolhimento-em-sao-paulo-e-em-diferentes-paises/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:00",
+"t": "Após 11 anos, Guarujá anuncia retorno dos desfiles competitivos de Carnaval em 2027",
+"p": "Arquivo/Prefeitura de Guarujá Será lançado neste domingo (29), em evento das 16h à meia-noite, na quadra da Mocidade Amazonense, o Carnaval 2027 de Guarujá.",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Guarujá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/especiais-santa-portal/apos-11-anos-guaruja-anuncia-retorno-dos-desfiles-competitivos-de-carnaval-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:00",
+"t": "Santos Sunset retorna neste domingo com música, gastronomia e vista para cruzeiros",
+"p": "Divulgação/Prefeitura de Santos Mais uma edição do Santos Sunset acontece neste domingo (29), das 15h30 às 20h, na Praça Luiz La Scala, na Ponta da Praia.",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/1077-fm/santos-sunset-retorna-neste-domingo-com-musica-gastronomia-e-vista-para-cruzeiros/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:00",
+"t": "Suspeito de furto é preso após ser agredido em Mongaguá",
+"p": "Divulgação/Prefeitura de Mongaguá Um homem de 30 anos foi preso em flagrante por suspeita de furto na noite de sábado (21), após ser agredido por populares no bairro Vera Cruz.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Mongaguá"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/policia/suspeito-de-furto-e-preso-apos-ser-agredido-por-populares-em-mongagua/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:00",
+"t": "Seis curvas, nova rampa e iluminação: obras que mudam a serra da via Anchieta",
+"p": "Intervenções da Ecovias buscam ampliar a segurança e a circulação de veículos pesados na ligação entre a Grande São Paulo e a Baixada Santista",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/sistema-anchieta-imigrantes/seis-curvas-nova-rampa-e-iluminacao-obras-que-mudam-a-serra-da-via-anchieta.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:55",
+"t": "Campos do Jordão envia donativos para vítimas da enchente em Brazópolis",
+"p": "Dois caminhões-pipa também foram cedidos para ajudar na limpeza da cidade mineira atingida por fortes chuvas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campos do Jordão"
+],
+"src": "NetCampos",
+"u": "https://www.netcampos.com/noticias/2026/11/campos-do-jordao-envia-donativos-para-vitimas-da-enchente-em-brazopolis.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:55",
+"t": "Polícia Civil prende homem de 31 anos investigado por agredir companheira com chineladas e socos em praça de São João das Duas Pontes",
+"p": "A Polícia Civil de São João das Duas Pontes, com o apoio da Delegacia de Investigações Gerais (DIG) de Fernandópolis, prendeu preventivamente um homem de 31 anos, identificado pelas iniciais C.Z.T., na tarde desta sexta-feira (27). Ele é investigado por descumprir medidas protetivas de urgência e agredir a…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São João das Duas Pontes",
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/policia-civil-prende-homem-de-31-anos-investigado-por-agredir-companheira-com-chineladas-e-socos-em-praca-de-sao-joao-das-duas-pontes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:52",
+"t": "Repórter do MN recebe medalha por serviços prestados à sociedade",
+"p": "Profissional concilia atuação no jornalismo com iniciativas de preservação ambiental e transformação social.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/reporter-do-marilia-noticia-recebe-medalha-por-servicos-prestados-a-sociedade/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:47",
+"t": "GCM prende dois homens por tráfico de drogas após monitoramento na região central de Sorocaba",
+"p": "A Guarda Civil Municipal (GCM) de Sorocaba prendeu dois homens, de 20 e 23 anos de idade, por tráfico de drogas na madrugada desta sexta-feira (27). A dupla foi flagrada em atitude suspeita, pelo sistema de videomonitoramento do Centro de Controle Operacional Integrado (CCOI), na região da Praça da Bandeira, na…",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/gcm-prende-dois-homens-por-trafico-de-drogas-apos-monitoramento-na-regiao-central-de-sorocaba/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:46",
+"t": "Secretaria da Mulher realiza ação do Projeto Pérolas com equipes do Hospital Santa Lucinda",
+"p": "Fotos: Divulgação/Semul Iniciativa da Secretaria da Mulher fortalece a política municipal de acolhimento humanizado ao luto materno e promove o cuidado emocional dos profissionais de saúde A Secretaria da Mulher de Sorocaba (Semul) realizou, nesta segunda-feira (23), uma reunião de sensibilização com equipes que…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/secretaria-da-mulher-realiza-acao-do-projeto-perolas-com-equipes-do-hospital-santa-lucinda/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:44",
+"t": "Projeto Rolê proporciona experiências educativas a alunos da Escola Municipal ‘Avelino Leite de Camargo’",
+"p": "A Prefeitura de Sorocaba, por meio da Secretaria do Turismo (Setur), realizou, em duas ocasiões, atividades do Projeto Rolê com estudantes do 5º ano da Escola Municipal ‘Avelino Leite de Camargo’, localizada no Jardim Nova Esperança. Cada visita contou com a participação de 35 alunos, totalizando 70 estudantes…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/projeto-role-proporciona-experiencias-educativas-a-alunos-da-escola-municipal-avelino-leite-de-camargo/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:43",
+"t": "Fenômeno pode trazer muita chuva para o estado de SP nos próximos dias; veja regiões",
+"p": "Fenômeno conhecido como ZCAS está previsto entre 29 de novembro e 5 de dezembro",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/fenomeno-pode-trazer-muita-chuva-para-o-estado-de-sp-nos-proximos-dias-veja-regioes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:30",
+"t": "Régis Bittencourt terá trecho bloqueado neste sábado para manutenção e motoristas precisarão alterar o trajeto",
+"p": "Motoristas que trafegarem pela BR-116, na Serra do Cafezal, em Miracatu, no interior de São Paulo, precisarão se programar para mudanças na circulação neste sábado (28/11). A concessionária Arteris Régis Bittencourt fará um bloqueio programado para manutenção dos sistemas de monitoramento do Túnel 2, no sentido…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Miracatu"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/regis-bittencourt-tera-trecho-bloqueado-neste-sabado-para-manutencao-e-motoristas-precisarao-alterar-o-trajeto/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:30",
+"t": "Jundiaí tem oportunidade de trabalho temporário para auxiliar de produção na Klabin",
+"p": "Foto: Governo de SP Vaga oferece salário de R$ 12,91 por hora, almoço no local e vale-transporte, com possibilidade de efetivação; Employer Recursos Humanos de Campinas é responsável pela seleção dos profissionais",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas",
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/vaga-auxiliar-producao-jundiai-industria-papel/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:30",
+"t": "Processo seletivo de Prefeitura oferece oportunidades em diferentes cargos e salários de até R$ 6,2 mil",
+"p": "Inscrições para o processo seletivo da Prefeitura de Guariba seguem abertas até o dia 8 de dezembro e devem ser realizadas de forma online",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Guariba"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/economia/processo-seletivo-de-prefeitura-oferece-oportunidades-em-diferentes-cargos-e-salarios-de-ate-r-62-mil/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:27",
+"t": "Menos calor e mais chuva: veja previsão do tempo em SP para o fim de semana",
+"p": "Inmet emitiu diferentes avisos para chuvas severas de perigo potencial para o estado de SP; capital também deve ter pancadas",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/menos-calor-e-mais-chuva-veja-previsao-do-tempo-em-sp-para-o-fim-de-semana",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:24",
+"t": "Pancadaria envolvendo diretor interrompe sessão da Câmara no Litoral de SP e votação de empréstimo de R$ 450 milhões é retirada de pauta",
+"p": "Uma briga com agressão física envolvendo o diretor da Câmara Municipal de Cubatão, Áureo Tupinambá, interrompeu a sessão extraordinária do Legislativo nesta sexta-feira (27). O episódio levou ao encerramento dos trabalhos e impediu a votação de projetos previstos na pauta. Entre as propostas que estavam na…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Cubatão"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/pancadaria-envolvendo-diretor-interrompe-sessao-da-camara-de-cubatao-e-votacao-de-emprestimo-de-r-450-milhoes-e-retirada-de-pauta/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:24",
+"t": "Saae/Sorocaba habilita nova turma de atendentes das Casas do Cidadão Zeladoria sobre funcionamento de hidrômetros",
+"p": "O Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba realizou, nesta quinta (26) e sexta-feira (27), a capacitação da segunda turma de atendentes das Casas do Cidadão Zeladoria, quanto ao funcionamento e detalhes dos hidrômetros utilizados pelo município. A iniciativa é parceria entre a autarquia, por meio do…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Sorocaba"
+],
+"src": "Prefeitura de Sorocaba",
+"u": "https://noticias.sorocaba.sp.gov.br/saae-sorocaba-habilita-nova-turma-de-atendentes-das-casas-do-cidadao-zeladoria-sobre-funcionamento-de-hidrometros/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "14:14",
 "t": "Serviços digitais do Governo de SP voltam ao ar após rompimento de cabos de fibra óptica",
 "p": "A Companhia de Processamento de Dados do Estado de São Paulo (Prodesp) informou que os serviços públicos impactados pelo rompimento de duas alças de fibra óptica nesta sexta-feira (27) já começaram a ser restabelecidos. Portais institucionais do governo estadual, atendimentos do Poupatempo e do Detran-SP, além de…",
@@ -80,6 +602,44 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/quer-comprar-a-casa-propria-feirao-libera-subsidios-de-ate-r16-mil-em-cidades-de-sp.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:00",
+"t": "Casos graves de Covid-19 voltam a crescer em oito estados e no DF enquanto nova variante avança pelo Brasil e mobiliza a OMS; conheça os sintomas",
+"p": "Febre, tosse, dor de garganta e coriza. Sintomas comuns de infecções respiratórias voltaram a chamar a atenção das autoridades de saúde com o avanço de uma nova variante da Covid-19 no Brasil. Batizada de PJ.2.1, a linhagem do coronavírus já foi identificada em cinco estados e no Distrito Federal, incluindo São…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/casos-graves-de-covid-19-voltam-a-crescer-em-oito-estados-e-no-df-enquanto-nova-variante-avanca-pelo-brasil-e-mobiliza-a-oms-conheca-os-sintomas/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:50",
+"t": "Segunda fase do VLT deixará de ser gratuita e vai cobrar tarifa dos usuários a partir da próxima semana",
+"p": "O segundo trecho do Veículo Leve sobre Trilhos (VLT), que vai da Conselheiro Nébias ao Valongo, começará a cobrar tarifa de R$ 5,60 dos usuários na próxima terça-feira (01). A informação foi confirmada pela Agência de Transporte do Estado de São Paulo (Artesp), que havia autorizado a liberação das catracas por…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/segunda-fase-do-vlt-deixara-de-ser-gratuita-e-vai-cobrar-tarifa-dos-usuarios-a-partir-da-proxima-semana/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "13:46",
+"t": "Polícia Civil prende líder de milícia no Rio de Janeiro",
+"p": "A Polícia Civil do Estado Rio de Janeiro prendeu, nesta sexta-feira (27), Leonardo Magalhães Gomes da Silva, conhecido como Capitão Léo. De acordo com as investigações, ele é apontado como uma das lideranças da milícia que atua na região do Pombo Sem Asa, em Vargem Grande e teria participação em diversos homicídios…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Vargem"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-civil-prende-lider-de-milicia-no-rio-de-janeiro",
 "auto": true
 },
 {
