@@ -1,12 +1,14 @@
 {
-"atualizado": "2026-11-27T04:29:58-03:00",
-"novos_nesta_coleta": 8,
+"atualizado": "2026-11-27T06:18:06-03:00",
+"novos_nesta_coleta": 21,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
+"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "Tribuna de Jundiaí",
 "NetCampos",
+"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -29,10 +31,6 @@
 ],
 "fontes_com_erro": [
 {
-"fonte": "Gazeta de S.Paulo",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
@@ -42,10 +40,6 @@
 },
 {
 "fonte": "A Tribuna",
-"erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -62,6 +56,198 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "06:15",
+"t": "Aposta de R$ 168 em cidade de 4 mil habitantes fica a um número da Mega-Sena e leva R$ 83 mil",
+"p": "Foto: Ddlrech - Obra do próprio, CC BY 4.0 Um jogo de oito números feito em Salto Veloso (SC) acertou cinco das seis dezenas do concurso 3091. Foi a aposta simples que mais ganhou na quina em todo o país.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Salto"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/mega-sena-3091-aposta-salto-veloso-sc/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:15",
+"t": "Aposta de R$ 42 fica duas vezes a um número dos R$ 118 milhões da +Milionária e leva R$ 110 mil",
+"p": "Foto: Depositphotos O jogo foi feito em Belém, com sete números, e acertou cinco dezenas e os dois trevos no concurso 410. A loteria está sem ganhador do prêmio máximo há 117 concursos.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/mais-milionaria-410-aposta-belem-quase-premio/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:02",
+"t": "Projeto “Circo em Ferpa II” leva apresentações gratuitas a escolas e espaço cultural de Fernandópolis",
+"p": "Depois de se destacar no 1º Festival Nacional de Teatro de Fernandópolis com a peça “Micorriza”, a atriz, produtora cultural e arte-educadora Maria Victoria Zerpa Rodrigues estreou nesta quarta-feira (25) o projeto “Circo em Ferpa II”, na quadra da EMEFA Melvin Jones, reunindo estudantes e docentes em uma tarde…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/projeto-circo-em-ferpa-ii-leva-apresentacoes-gratuitas-a-escolas-e-espaco-cultural-de-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:02",
+"t": "Programa Saúde na Escola inicia encerramento das atividades de 2026 com palestra de juiz em Fernandópolis",
+"p": "O Programa Saúde na Escola (PSE) deu início ao encerramento de suas atividades de 2026 na manhã desta quarta-feira (25), no auditório da Câmara Municipal de Fernandópolis. A abertura contou com palestra do juiz da Vara da Infância e da Juventude, Eduardo Luiz de Abreu Costa, que conversou com os estudantes sobre…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/programa-saude-na-escola-inicia-encerramento-das-atividades-de-2026-com-palestra-de-juiz-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:02",
+"t": "EMEF Pedro Malavazzi realiza feira do projeto Jovens Empreendedores nesta sexta em Fernandópolis",
+"p": "A EMEF Pedro Malavazzi promove nesta sexta-feira (27) a feira de encerramento do projeto Jovens Empreendedores Primeiros Passos (JEPP), em Fernandópolis. O encontro acontece na unidade escolar, situada na Rua Reinaldo Bertolini, 300, no bairro Vereador Antônio Brandini, com abertura às 12h e apresentações oficiais…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/emef-pedro-malavazzi-realiza-feira-do-projeto-jovens-empreendedores-nesta-sexta-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:01",
+"t": "Encontro reúne poder público e entidades para debater ações voltadas à população em situação de rua em Jales",
+"p": "A Secretaria Municipal de Desenvolvimento Social e o Juizado Especial Cível e Criminal da Comarca de Jales realizaram, na quarta-feira (25), o evento “Da Escuta à Ação – Encontro Municipal do CIAMP-Rua”, na 1ª Igreja Batista da cidade. A atividade reuniu representantes do Judiciário, da Prefeitura e suas pastas, do…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/encontro-reune-poder-publico-e-entidades-para-debater-acoes-voltadas-a-populacao-em-situacao-de-rua-em-jales/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:01",
+"t": "Região reúne 11 projetos inscritos para captar R$ 7,3 milhões do Fehidro em 2027",
+"p": "A região de Araçatuba contabiliza 11 projetos inscritos para receber recursos do Fundo Estadual de Recursos Hídricos (Fehidro) em 2027, somando R$ 7,3 milhões em investimentos solicitados. As propostas abrangem melhorias na drenagem urbana, recuperação de bacias hidrográficas e aperfeiçoamento da gestão do…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/regiao-reune-11-projetos-inscritos-para-captar-r-73-milhoes-do-fehidro-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:01",
+"t": "Mira Estrela passa a oferecer serviços da Receita Federal em ponto virtual no Paço Municipal",
+"p": "Os moradores de Mira Estrela agora contam com um Ponto de Atendimento Virtual (PAV) da Receita Federal na cidade, evitando viagens a outros municípios para resolver demandas fiscais e cadastrais. O serviço funciona no Setor de Tributos, dentro do Paço Municipal, de segunda a sexta-feira, das 8h às 11h e das 13h às…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mira-estrela-passa-a-oferecer-servicos-da-receita-federal-em-ponto-virtual-no-paco-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:01",
+"t": "Refis de Jales segue até 18 de dezembro com descontos de até 100% em multas e juros",
+"p": "Moradores e empresas de Jales que têm dívidas com a prefeitura podem aderir ao Programa de Recuperação Fiscal (Refis 2026) até o dia 18 de dezembro para negociar pendências em condições facilitadas. Criado pela Lei nº 5.880, sancionada em 18 de agosto pelo prefeito Luis Henrique, o programa abrange débitos…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/refis-de-jales-segue-ate-18-de-dezembro-com-descontos-de-ate-100-em-multas-e-juros/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:01",
+"t": "Jales terá Programa Saúde no Campo para levar atendimento e prevenção a famílias rurais",
+"p": "O Sindicato Rural de Jales vai implantar no município o Programa Saúde no Campo, voltado à promoção da saúde, prevenção de doenças e melhoria da qualidade de vida de produtores rurais, trabalhadores do campo e seus familiares. A iniciativa conta com apoio da Federação da Agricultura e Pecuária do Estado de São…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Jales"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/jales-tera-programa-saude-no-campo-para-levar-atendimento-e-prevencao-a-familias-rurais/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "05:00",
+"t": "‘Por Você’: Giovana se alia a Junqueira após humilhação e Pérola passa mal no capítulo de sábado (28)",
+"p": "Neste sábado (28), em Por Você, as traições agitam os bastidores do hospital. Giovana sofre uma nova humilhação nas mãos de Vanessa. Revoltada com o desprezo, a jovem decide se aliar a Junqueira contra a diretora. Além disso, Gabriel alerta Vanessa sobre a liberdade do antigo comparsa. Ao mesmo tempo, Pérola sofre…",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-giovana-se-alia-a-junqueira-apos-humilhacao-e-perola-passa-mal-no-capitulo-de-sabado-28/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "05:00",
+"t": "Vinicius envia à Câmara projeto que altera cargo de agentes de zoonoses",
+"p": "A proposta atende a uma solicitação dos servidores municipais e abrange 16 profissionais. Proposta busca adequar a estrutura administrativa do município à legislação federal e estabelece mudanças nas condições funcionais dos servidores.",
+"tema": "Política",
+"s": "obra",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vinicius-envia-a-camara-projeto-que-altera-cargo-de-agentes-de-zoonoses/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "05:00",
+"t": "Zona Azul começa a cobrar R$ 2,60 por hora em três praias de Itanhaém em dezembro",
+"p": "Divulgação Sistema funcionará diariamente, inclusive aos feriados, das 9h às 19h, nas praias dos Pescadores, Sonho e Cibratel. Cobrança seguirá até 28 de fevereiro.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Itanhaém"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/zona-azul-comeca-a-cobrar-r-260-por-hora-em-tres-praias-de-itanhaem-em-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "03:30",
+"t": "‘Avenida Brasil’: Carminha salva Tufão, assume morte de Max e faz as pazes com Nina no último capítulo nesta sexta (27)",
+"p": "No último capítulo desta sexta-feira (27), em ‘Avenida Brasil’, o desfecho da história entrega redenção, justiça e o encerramento definitivo de todas as vinganças. Desesperado após descobrir o paradeiro da amada, o jovem corre contra o tempo para evitar uma tragédia, pois Jorginho descobre que Nina foi até Magé,…",
+"tema": "Geral",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/entretenimento/avenida-brasil-carminha-salva-tufao-assume-morte-de-max-e-faz-as-pazes-com-nina-no-ultimo-capitulo-nesta-sexta-27/",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "02:30",
@@ -54911,194 +55097,6 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/politica/tarcisio-escolhe-ricardo-salles-para-assumir-secretaria-da-justica-em-sp/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:50",
-"t": "Após quase 16 anos com obras paralisadas, maior estádio fantasma do mundo ganha nova vida com projeto de € 400 milhões e pode receber Copa de 2030",
-"p": "Depois de passar quase 16 anos com as obras paralisadas e ganhar fama de um dos maiores estádios fantasmas do mundo, o Nou Mestalla, na Espanha, está cada vez mais perto de finalmente receber torcedores. A futura casa do Valencia concluiu uma das etapas mais complexas de sua construção e agora pode até entrar na […]",
-"tema": "Investimentos",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/esportes/apos-quase-16-anos-com-obras-paralisadas-maior-estadio-fantasma-do-mundo-ganha-nova-vida-com-projeto-de-e-400-milhoes-e-pode-receber-copa-de-2030/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:46",
-"t": "Fomenta 2026: abertura é marcada pela presença de autoridades e clima de integração",
-"p": "Primeiro dia do evento contou com a presença do vice-governador e de representante do governo federal; o encontro segue com agenda hoje e amanhã",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/conteudo-patrocinado/amppesp/fomenta-2026-abertura-e-marcada-pela-presenca-de-autoridades-e-clima-de-integracao/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:37",
-"t": "Fugindo da ‘facada’ de janeiro: antecipar a compra do material escolar na Black Friday garante até R$ 200 de economia para pais",
-"p": "Enquanto a maioria dos consumidores direciona a atenção para a compra de TVs, smartphones e eletrodomésticos na Black Friday — marcada para 27 de novembro —, uma estratégia inteligente de planejamento financeiro vem ganhando espaço nos lares brasileiros: o adiantamento do material escolar para o ano letivo de 2027.…",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/economia/fugindo-da-facada-de-janeiro-antecipar-a-compra-do-material-escolar-na-black-friday-garante-ate-r-200-de-economia-para-pais/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:32",
-"t": "Casa do Cidadão Zeladoria Móvel estará no Cras Aparecidinha de 11 a 19 de novembro",
-"p": "De 11 a 19 de novembro, a Casa do Cidadão Zeladoria Móvel estará no Centro de Referência de Assistência Social (Cras) Aparecidinha, localizado na Rua José Braz Correia, nº 100, Aparecidinha. O atendimento gratuito ocorre de segunda a sexta-feira, das 9h às 16h, sem necessidade de agendamento prévio. Promovida pela…",
-"tema": "Assistência social",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/casa-do-cidadao-zeladoria-movel-estara-no-cras-aparecidinha-de-11-a-19-de-novembro/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:30",
-"t": "Influenciador que filmou ex-presidente FHC em apartamento é indiciado, tem celular apreendido e pede desculpas",
-"p": "A Polícia Civil de São Paulo apreendeu o celular do influenciador Wesley Oliveira e o indiciou por difamação e discriminação contra pessoa idosa após a divulgação de vídeos de Fernando Henrique Cardoso, de 95 anos, em seu apartamento. Em depoimento nesta quarta-feira (11/11), Oliveira afirmou que tinha autorização…",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/influenciador-que-filmou-ex-presidente-fhc-em-apartamento-e-indiciado-tem-celular-apreendido-e-pede-desculpas/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:22",
-"t": "Experiência piloto do Capacita em Sorocaba abre caminho para nova etapa do projeto em Botucatu",
-"p": "Fotos: Divulgação/PTS Iniciativa que reúne a Agência Inova, vinculada ao Parque Tecnológico de Sorocaba, e outros parceiros teve sua primeira aplicação com 21 estudantes da rede municipal sorocabana e deu continuidade às atividades nesta terça-feira (10/11) A frase “Inovação é driblar a necessidade com…",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Botucatu",
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/experiencia-piloto-do-capacita-em-sorocaba-abre-caminho-para-nova-etapa-do-projeto-em-botucatu/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:19",
-"t": "Registro oferece vacinação antirrábica gratuita para cães e gatos às quintas-feiras",
-"p": "Prevenção",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Registro"
-],
-"src": "Prefeitura de Registro",
-"u": "https://registro.sp.gov.br/registro-oferece-vacinacao-antirrabica-gratuita-para-caes-e-gatos-as-quintas-feiras/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:16",
-"t": "GCM detém três suspeitos de roubo após homem ser esfaqueado na região central de Sorocaba",
-"p": "A Guarda Civil Municipal (GCM) de Sorocaba deteve três pessoas, sendo dois homens, de 45 e 53 anos de idade, e uma mulher, de 21 anos, na madrugada desta quarta-feira (11). Eles são suspeitos de envolvimento em roubo com agressão à faca, na região central da cidade. A ocorrência teve início após uma equipe […]",
-"tema": "Segurança",
-"s": "fato",
-"c": [
-"Sorocaba"
-],
-"src": "Prefeitura de Sorocaba",
-"u": "https://noticias.sorocaba.sp.gov.br/gcm-detem-tres-suspeitos-de-roubo-apos-homem-ser-esfaqueado-na-regiao-central-de-sorocaba/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:15",
-"t": "TCE-SP dá parecer favorável às contas de Guto Volpi de 2024",
-"p": "Avaliação é positiva pelo segundo ano consecutivo; julgamento definitivo das contas de Ribeirão Pires cabe à Câmara Municipal",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Ribeirão Pires"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368221/tce-sp-da-parecer-favoravel-as-contas-de-guto-volpi-de-2024",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:13",
-"t": "Aluna de Diadema é campeã do maior Desafio de Redação da história",
-"p": "Marianna Eva Almeida da Fonseca concilia preparação para vestibulares com vitória em concurso literário",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Diadema"
-],
-"src": "Diário do Grande ABC",
-"u": "https://www.dgabc.com.br/Noticia/4368225/aluna-de-diadema-e-campea-do-maior-desafio-de-redacao-da-historia",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:09",
-"t": "Iniciativa usa arte para combater evasão e ampliar diversidade nas escolas",
-"p": "Realizado em regiões periféricas, o projeto busca causar identificação entre alunos e escolas, usando da arte para abordar temas sociais",
-"tema": "Educação",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/iniciativa-usa-arte-para-combater-evasao-e-ampliar-diversidade-nas-escolas",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:08",
-"t": "Polícia Civil indicia influenciador e marido por vídeo na casa de FHC",
-"p": "Wesley Oliveira e o marido, Lessandro Gonçalves, foram indiciados nesta quarta-feira (11) pela Polícia Civil do Estado de São Paulo por difamação e discriminação de pessoa idosa, após a publicação na internet de imagens do ex-presidente Fernando Henrique Cardoso (FHC) . No mês de outubro, os dois entraram no…",
-"tema": "Segurança",
-"s": "fato",
-"c": [],
-"src": "Agência Brasil",
-"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-civil-indicia-influenciador-e-marido-por-video-na-casa-de-fhc",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:08",
-"t": "Só 284 dos 5.571 municípios do Brasil contam com plano de contingência contra o El Niño enquanto quase 20% já decretaram emergência",
-"p": "O Brasil enfrenta os impactos do fenômeno climático El Niño com lacunas na preparação preventiva das prefeituras. Uma nova plataforma digital reúne dados cruciais sobre a resposta do país às secas e inundações. O principal indicador aponta que apenas 284 das 5.571 cidades possuem planos de contingência públicos.…",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/so-284-dos-5-571-municipios-do-brasil-contam-com-plano-de-contingencia-contra-o-el-nino-enquanto-quase-20-ja-decretaram-emergencia/",
-"auto": true
-},
-{
-"d": "2026-11-11",
-"h": "17:08",
-"t": "Defensoria de Rio Preto questiona contratação de clínica em Guarulhos",
-"p": "Defensor aponta problemas de fiscalização, isolamento de pacientes e falta de justificativa para encaminhamentos a outra cidade",
-"tema": "Geral",
-"s": "alerta",
-"c": [
-"Guarulhos",
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/defensoria-de-rio-preto-questiona-contratacao-de-clinica-em-guarulhos/",
 "auto": true
 }
 ]
