@@ -1,11 +1,12 @@
 {
-"atualizado": "2026-11-28T05:59:27-03:00",
-"novos_nesta_coleta": 9,
+"atualizado": "2026-11-28T06:58:38-03:00",
+"novos_nesta_coleta": 18,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
+"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -13,12 +14,14 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
+"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
+"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -35,27 +38,171 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
-"fonte": "O Diário de Mogi",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Gazeta de Rio Preto",
-"erro": "HTTP Error 415: Unsupported Media Type"
-},
-{
-"fonte": "Jornal Ita News",
-"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-28",
+"h": "06:04",
+"t": "Obras de drenagem do Anel Viário começam na segunda-feira e interditam trecho em Fernandópolis",
+"p": "A empresa Consdon, responsável pela implantação do Anel Viário de Fernandópolis (SP) no trecho compreendido entre o Distrito Industrial III, às margens da Rodovia Euclides da Cunha, e o portal da Universidade Brasil, já montou o canteiro de obras no local e dará início aos trabalhos de drenagem na próxima…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis",
+"Cunha"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/obras-de-drenagem-do-anel-viario-comecam-na-segunda-feira-e-interditam-trecho-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:03",
+"t": "Cerimônia reúne autoridades e ex-dirigentes para celebrar os 50 anos da Unifef",
+"p": "A comunidade acadêmica, autoridades locais, ex-alunos e moradores acompanharam, na manhã desta sexta-feira (27), a cerimônia em comemoração aos 50 anos da criação da Fundação Educacional de Fernandópolis (FEF), instituída em novembro de 1976 pela Lei nº 462, durante a gestão do então prefeito Antenor Ferrari,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/cerimonia-reune-autoridades-e-ex-dirigentes-para-celebrar-os-50-anos-da-unifef/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:02",
+"t": "Entidades assistenciais de Fernandópolis promovem bazar e almoço solidário neste fim de semana",
+"p": "Moradores de Fernandópolis (SP) poderão participar de duas ações beneficentes organizadas por entidades assistenciais do município neste fim de semana. A programação começa neste sábado (28) com o Bazar Solidário da Associação de Pais e Amigos dos Deficientes Auditivos de Fernandópolis (APADAF) e prossegue no…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/entidades-assistenciais-de-fernandopolis-promovem-bazar-e-almoco-solidario-neste-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:02",
+"t": "Alunos da Escola Coronel transformam vivências em livro e levam Fernandópolis à fase regional",
+"p": "Estudantes do 5º ano da Escola Municipal de Ensino Fundamental (EMEF) Coronel Francisco Arnaldo da Silva transformaram suas próprias histórias em um livro de autobiografias e levaram Fernandópolis a uma etapa regional realizada em Araçatuba, após conquistarem o primeiro lugar na fase municipal do projeto Alfabetiza…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis",
+"Araçatuba"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/alunos-da-escola-coronel-transformam-vivencias-em-livro-e-levam-fernandopolis-a-fase-regional/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:02",
+"t": "Prefeitura alerta para cuidados nas estradas rurais de Fernandópolis durante as chuvas",
+"p": "A Secretaria Municipal de Agricultura de Fernandópolis (SP) emitiu alerta para motoristas, produtores rurais e moradores da zona rural sobre os cuidados necessários ao circular pelas estradas do município com a intensificação das chuvas. De acordo com a pasta, a alta umidade do solo somada ao tráfego de veículos…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-alerta-para-cuidados-nas-estradas-rurais-de-fernandopolis-durante-as-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:02",
+"t": "Mais duas escolas municipais de Fernandópolis passam a ter salas 100% climatizadas",
+"p": "A Prefeitura de Fernandópolis (SP) concluiu a instalação de novos aparelhos de ar-condicionado em mais duas unidades da rede municipal de ensino, que agora contam com 100% das salas de aula climatizadas. A medida dá sequência ao cronograma da administração municipal de levar conforto térmico a todas as escolas da…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mais-duas-escolas-municipais-de-fernandopolis-passam-a-ter-salas-100-climatizadas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:01",
+"t": "Prefeitura de São João das Duas Pontes realiza obras de revitalização e manutenção no Cemitério Municipal",
+"p": "A Prefeitura de São João das Duas Pontes (SP), por meio da Secretaria Municipal de Obras, executou uma série de serviços de conservação, limpeza e revitalização no Cemitério Municipal com o objetivo de aprimorar a estrutura e a organização do espaço. As intervenções contemplaram melhorias nas áreas de circulação…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/prefeitura-de-sao-joao-das-duas-pontes-realiza-obras-de-revitalizacao-e-manutencao-no-cemiterio-municipal/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:01",
+"t": "Profissionais da Educação de São João das Duas Pontes recebem capacitação em primeiros socorros",
+"p": "Profissionais da rede municipal de ensino de São João das Duas Pontes (SP) participaram, no dia 16 de novembro, de uma capacitação em primeiros socorros voltada ao cumprimento da Lei Lucas (Lei Federal nº 13.722/2018). As atividades ocorreram na Escola Municipal de Ensino Fundamental (EMEF) Manoel Joaquim Santana e…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São João das Duas Pontes"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/profissionais-da-educacao-de-sao-joao-das-duas-pontes-recebem-capacitacao-em-primeiros-socorros/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:01",
+"t": "Mira Estrela recebe finais de vôlei da Liga de Base 017 neste sábado",
+"p": "A Quadra Poliesportiva de Mira Estrela (SP) será palco neste sábado, 28 de novembro, das partidas finais de voleibol da Liga de Base 017, com programação esportiva a partir das 8h. O evento reúne equipes masculinas da categoria Sub-18 e times femininos da categoria Sub-16 de municípios da região, contando com o…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mira Estrela"
+],
+"src": "Região Noroeste",
+"u": "https://regiaonoroeste.com/mira-estrela-recebe-finais-de-volei-da-liga-de-base-017-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "06:00",
+"t": "Tabuleiro político de São Vicente começa a ficar mais nítido",
+"p": "Aos poucos o céu eleitoral em São Vicente vai desanuviando e começam a aparecer os nomes mais prováveis para disputar a sucessão do prefeito Kayo Amado (Podemos). O atual ocupante do cargo não esconde que o seu secretário de Governo, Mário Tito, está no radar. No campo mais à direita, os deputados do PL Matheus […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/politica/tabuleiro-politico-de-sao-vicente-comeca-a-ficar-mais-nitido/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "05:30",
+"t": "Diadema alerta para descarte irregular e prevê multa de até R$ 22,4 mil",
+"p": "Prefeitura orienta moradores a verificar a destinação de entulhos antes de contratar serviços de coleta informal",
+"tema": "Política",
+"s": "alerta",
+"c": [
+"Diadema"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371237/diadema-alerta-para-descarte-irregular-e-preve-multa-de-ate-rs-22-4-mil",
+"auto": true
+},
 {
 "d": "2026-11-28",
 "h": "05:00",
@@ -54989,161 +55136,6 @@
 ],
 "src": "Santa Portal",
 "u": "https://santaportal.com.br/baixada/artistas-reagem-no-rio-a-medalha-para-deputada-eleita-por-sao-paulo/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:56",
-"t": "Daniel David é alvo de pedido de cassação após declarações sobre aborto",
-"p": "Representação foi protocolada pelo advogado e 1º suplente de vereador, Carlos Alberto Silvério, que aponta possível infração político-administrativa e quebra de decoro parlamentar; Daniel David (MDB) divulgou nota de esclarecimento e nega intenção de desrespeitar a instituição de ensino. Jorge Honorio…",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/daniel-david-e-alvo-de-pedido-de-cassacao-apos-declaracoes-sobre-aborto/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:48",
-"t": "Polícia Militar captura procurado pela Justiça em Votuporanga",
-"p": "Indivíduo foi localizado durante patrulhamento preventivo da Polícia na zona norte da cidade e encaminhado à Central de Flagrantes. Um homem procurado pela Justiça foi preso na noite desta quarta-feira (11.nov), no bairro Santa Amélia, em Votuporanga/SP. A prisão ocorreu durante uma ação de patrulhamento preventivo…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/policia-militar-captura-procurado-pela-justica-em-votuporanga-27/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:47",
-"t": "Santa Casa de Votuporanga reúne região para fortalecer cuidado após a alta",
-"p": "Encontro Anual de Alta Responsável aproximou Santa Casa, DRS e municípios para discutir a continuidade da assistência aos pacientes depois da saída do Hospital. A Santa Casa de Votuporanga realizou, nesta quarta-feira (11.nov), o Encontro Anual de Alta Responsável, no Cinema Cultural do Parque da Cultura. Com o…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/santa-casa-de-votuporanga-reune-regiao-para-fortalecer-cuidado-apos-a-alta/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:45",
-"t": "Falha global no Microsoft 365 e Outlook afeta milhares de usuários e causa instabilidade no Brasil e outros países das Américas",
-"p": "O ecossistema do Microsoft 365 e o serviço de e-mail Outlook enfrentaram uma pane generalizada nesta quinta-feira (12/11), afetando milhares de usuários em várias regiões, com forte impacto nas Américas. De acordo com alertas emitidos pela própria empresa e plataformas de monitoramento como o Downdetector, o…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/brasil/falha-global-no-microsoft-365-e-outlook-afeta-milhares-de-usuarios-e-causa-instabilidade-no-brasil-e-outros-paises-das-americas/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:44",
-"t": "Prefeitura e entidades participam de formação promovida pelo TCE-SP em Votuporanga",
-"p": "Encontro reuniu representantes do poder público e de organizações sociais para capacitação sobre gestão, aplicação e fiscalização de recursos públicos destinados ao terceiro setor. Representantes da Prefeitura de Votuporanga e de entidades sociais participaram, nesta quinta-feira (12.nov), da formação QualificAÇÃO,…",
-"tema": "Política",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/prefeitura-e-entidades-participam-de-formacao-promovida-pelo-tce-sp-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:41",
-"t": "Operação apreende 1,4 mil airbags irregulares em loja de peças usadas em Araçatuba",
-"p": "Ação da Polícia Civil e do Detran-SP é considerada a maior apreensão do tipo já registrada no Estado; estabelecimento foi interditado e ninguém foi preso. A Polícia Civil e o Departamento Estadual de Trânsito de São Paulo (Detran-SP) apreenderam 1.400 airbags irregulares durante uma operação realizada nesta…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araçatuba",
-"São Paulo"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/operacao-apreende-14-mil-airbags-irregulares-em-loja-de-pecas-usadas-em-aracatuba/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:35",
-"t": "Saúde reforça prevenção e diagnóstico da leishmaniose em Votuporanga",
-"p": "Município confirmou 152 casos em cães e dois em humanos neste ano; população pode colaborar recebendo os agentes e autorizando a coleta gratuita de sangue dos animais. A Prefeitura de Votuporanga, por meio da Secretaria Municipal da Saúde, intensifica as orientações e ações de prevenção à leishmaniose, doença…",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Votuporanga"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/saude-reforca-prevencao-e-diagnostico-da-leishmaniose-em-votuporanga/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:28",
-"t": "Prefeito de Jales será homenageado com a Medalha Mérito Legislativo da Câmara dos Deputados",
-"p": "A solenidade de entrega da honraria a Luis Henrique dos Santos Moreira será realizada no dia 2 de dezembro, às 10h, no Plenário Ulysses Guimarães, em Brasília/DF. O prefeito de Jales, Luis Henrique dos Santos Moreira, será um dos agraciados com a Medalha Mérito Legislativo, uma das mais importantes honrarias…",
-"tema": "Política",
-"s": "entregue",
-"c": [
-"Jales"
-],
-"src": "Diário de Votuporanga",
-"u": "https://diariodevotuporanga.com.br/prefeito-de-jales-sera-homenageado-com-a-medalha-merito-legislativo-da-camara-dos-deputados/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:17",
-"t": "Muro de cemitério desaba após fortes chuvas em Mogi das Cruzes",
-"p": "Além do desabamento da estrutura, a cidade de Mogi das Cruzes também registrou alagamentos e quedas de árvores",
-"tema": "Meio ambiente",
-"s": "alerta",
-"c": [
-"Mogi das Cruzes"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/muro-de-cemiterio-desaba-apos-fortes-chuvas-em-mogi-das-cruzes",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:14",
-"t": "Vaquejada é validada após quase 10 anos de disputa judicial, mas terá de cumprir exigências de proteção animal; STF havia derrubado lei em 2016",
-"p": "Prática de vaquejada: derrubada do boi na faixa, em 2025. Entre a decisão do STF em 2016 e o julgamento da ADI 5772 em 2026, a vaquejada passou por leis, emenda constitucional e novas condições de bem-estar animal.",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Jundiaí"
-],
-"src": "Tribuna de Jundiaí",
-"u": "https://tribunadejundiai.com.br/mais/brasil/vaquejada-e-validada-apos-quase-10-anos-de-disputa-judicial-mas-tera-de-cumprir-exigencias-de-protecao-animal-stf-havia-derrubado-lei-em-2016/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:05",
-"t": "Operação “Distintivo Fantasma”: Polícia Civil de Fernandópolis desarticula esquema do “falso delegado” que causou prejuízo de R$ 200 mil a idosa",
-"p": "A Polícia Civil de Fernandópolis, por meio da Delegacia de Investigações Gerais (DIG), deflagrou nesta quinta-feira (12) a operação “Distintivo Fantasma” nas cidades de São Paulo e Vinhedo, cumprindo seis mandados de busca domiciliar contra investigados por estelionato. A investigação apurou que o grupo utilizou…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Fernandópolis",
-"São Paulo",
-"Vinhedo"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/operacao-distintivo-fantasma-policia-civil-de-fernandopolis-desarticula-esquema-do-falso-delegado-que-causou-prejuizo-de-r-200-mil-a-idosa/",
 "auto": true
 }
 ]
