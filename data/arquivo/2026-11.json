@@ -2,6 +2,102 @@
 "mes": "2026-11",
 "itens": [
 {
+"d": "2026-11-28",
+"h": "01:02",
+"t": "5 novidades que chegam à Disney+ em dezembro para incluir na sua lista de fim de ano",
+"p": "O último mês do ano chega com uma programação pensada para aproveitar os dias em boa companhia. O Disney+ em dezembro reúne uma comédia natalina para assistir em família, aventuras inspiradas na mitologia grega, um suspense coreano cheio de reviravoltas, investigações com muito humor e um anime ambientado em um…",
+"tema": "Geral",
+"s": "alerta",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/5-novidades-que-chegam-a-disney-em-dezembro-para-incluir-na-sua-lista-de-fim-de-ano/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "00:58",
+"t": "Governo de SP abre comemorações dos 300 anos do café com premiação e lançamento de guia turístico",
+"p": "O Governo de São Paulo abriu nesta sexta-feira (27), na capital paulista, a programação estadual em comemoração aos 300 anos da chegada do café ao Brasil, celebrados oficialmente em 2027. O evento “300 Anos de Café: Origem da Nossa Força” contou com a premiação dos 50 melhores cafés do estado, o lançamento da…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/governo-de-sp-abre-comemoracoes-dos-300-anos-do-cafe-com-premiacao-e-lancamento-de-guia-turistico/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "00:58",
+"t": "Polícia de SP identifica ponto de distribuição de drogas e apreende quase 200 kg de maconha em Araraquara",
+"p": "A Polícia Civil identificou um imóvel para armazenamento e distribuição de drogas e apreendeu 199 quilos de maconha na quinta-feira (26), em Araraquara, no interior de São Paulo. Dois suspeitos foram presos em flagrante durante a operação. Também foram apreendidos comprimidos de ecstasy e porções de skunk, haxixe,…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araraquara"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/policia-de-sp-identifica-ponto-de-distribuicao-de-drogas-e-apreende-quase-200-kg-de-maconha-em-araraquara/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "00:58",
+"t": "Expresso da Linha 10 da CPTM ganha extensão até a Estação Brás para compras de Natal",
+"p": "Com a proximidade das festas de fim de ano, a CPTM amplia, a partir desta terça-feira (01/12), o serviço Expresso Linha 10 até a Estação Brás. Com a mudança, os passageiros do ABC Paulista passam a contar com conexão direta a um dos principais polos comerciais da capital. A operação ocorre de segunda a sexta-feira, […]",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/expresso-da-linha-10-da-cptm-ganha-extensao-ate-a-estacao-bras-para-compras-de-natal/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "00:58",
+"t": "São Paulo é campeão das Paralimpíadas Escolares pela 14ª vez",
+"p": "São Paulo se sagrou campeão das Paralimpíadas Escolares 2026 nesta sexta-feira (27). Esse foi o 14º título paulista, sendo o sexto conquistado consecutivamente desde 2021. O resultado mostrou mais uma vez o protagonismo de São Paulo no paradesporto nacional. A delegação paulista venceu em 14 das 17 modalidades…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/sao-paulo-e-campeao-das-paralimpiadas-escolares-pela-14a-vez/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "00:58",
+"t": "Defesa Civil alerta para risco de tempestades em São Paulo neste sábado (28)",
+"p": "A Defesa Civil do Estado de São Paulo alerta para o risco de tempestades neste sábado (28). A combinação de calor e umidade, associada à atuação de sistemas meteorológicos, deve favorecer a formação de áreas de instabilidade em diferentes regiões do Estado. A previsão é de chuva de moderada a forte intensidade,…",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/defesa-civil-alerta-para-risco-de-tempestades-em-sao-paulo-neste-sabado-28/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "23:27",
+"t": "Santo André investe R$ 23,7 milhões em quatro meses para recuperar vias",
+"p": "Programa Meu Bairro Novo entregou 37 ruas no Jardim Santo Alberto e Santa Maria; até 2028 serão R$ 100 milhões",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Santo André"
+],
+"src": "Diário do Grande ABC",
+"u": "https://www.dgabc.com.br/Noticia/4371240/santo-andre-investe-rs-23-7-milhoes-em-quatro-meses-para-recuperar-vias-",
+"auto": true
+},
+{
 "d": "2026-11-27",
 "h": "22:34",
 "t": "Acesso gratuito à ligação de esgoto é ampliado para moradores de comunidades no Programa Pró-Conexão",
