@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-27T22:24:35-03:00",
-"novos_nesta_coleta": 21,
+"atualizado": "2026-11-27T23:59:54-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -47,6 +47,30 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-27",
+"h": "22:34",
+"t": "Acesso gratuito à ligação de esgoto é ampliado para moradores de comunidades no Programa Pró-Conexão",
+"p": "Famílias de baixa renda que vivem em comunidades podem ter acesso gratuito às instalações necessárias para conectar suas residências à rede de esgoto da Sabesp. Por meio do Programa Pró-Conexão, a Companhia executa as adequações internas dos imóveis, incluindo o fornecimento de materiais e a mão de obra, para que…",
+"tema": "Saneamento",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/gmg-studio/acesso-gratuito-a-ligacao-de-esgoto-e-ampliado-para-moradores-de-comunidades-no-programa-pro-conexao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "22:30",
+"t": "Seguro-desemprego pode cair para até uma parcela no Brasil, se aprovado Projeto de Lei",
+"p": "O Projeto de Lei 5.920/2026 em tramitação na Câmara dos Deputados propõe substituir o critério tradicional de concessão do seguro-desemprego, que hoje paga de três a cinco parcelas conforme o tempo de serviço e o número de pedidos anteriores, por uma regra atrelada diretamente à taxa nacional de desocupação do…",
+"tema": "Política",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/economia/seguro-desemprego-cair-uma-parcela-projeto-lei/",
+"auto": true
+},
 {
 "d": "2026-11-27",
 "h": "22:22",
@@ -55107,32 +55131,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/radio-demite-funcionarios-por-conta-da-proibicao-das-bets-no-brasil/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "18:30",
-"t": "Trégua no Leão: Receita Federal dá 30 dias a mais para empresas pagarem novo tributo da reforma e adia seis documentos fiscais para março",
-"p": "A Receita Federal anunciou nesta quarta (11) um pacote de medidas para aliviar a transição da reforma tributária. A medida também deve reduzir o impacto operacional sobre as empresas. O secretário especial do Fisco, Robinson Barreirinhas, confirmou que o governo enviará um projeto de Lei Complementar ao Congresso.…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/economia/tregua-no-leao-receita-federal-da-30-dias-a-mais-para-empresas-pagarem-novo-tributo-da-reforma-e-adia-seis-documentos-fiscais-para-marco/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "18:30",
-"t": "Filhote de cachorro é abandonado em calçada no Parque Itajaí",
-"p": "Câmera de segurança registrou duas pessoas deixando o animal em uma caixa com pano e potes de água e ração; cachorro já encontrou um novo lar",
-"tema": "Água",
-"s": "fato",
-"c": [
-"Campinas"
-],
-"src": "ACidade ON Campinas",
-"u": "https://www.acidadeon.com/campinas/cotidiano/filhote-de-cachorro-e-abandonado-em-calcada-no-parque-itajai/",
 "auto": true
 }
 ]
