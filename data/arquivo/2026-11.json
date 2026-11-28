@@ -3,6 +3,132 @@
 "itens": [
 {
 "d": "2026-11-28",
+"h": "11:07",
+"t": "TRE-SP desaprova contas da campanha de deputado estadual do PL",
+"p": "A decisão apontou que foram omitidas 315 despesas, de R$ 582 mil, o equivalente a 46,32% do total contratado por Isaac Antunes",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tre-sp-desaprova-contas-da-campanha-de-deputado-estadual-do-pl",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:05",
+"t": "Estádio Pedro Sola terá arquibancadas interditadas para reparos após chuvas",
+"p": "x Prefeitura informa que estudos técnicos para os reparos foram concluídos; bloqueio ficará restrito ao setor afetado.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/estadio-pedro-sola-tera-arquibancadas-interditadas-para-reparos-apos-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:53",
+"t": "Praça das Bandeiras ganha brinquedos e academia ao ar livre após reforma",
+"p": "Prefeitura entregou espaço revitalizado na noite desta sexta-feira, após investimento de R$ 328 mil.",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/praca-das-bandeiras-ganha-brinquedos-e-academia-ao-ar-livre-apos-reforma/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:52",
+"t": "Aposta de R$ 252 fica a um número de R$ 119 milhões na +Milionária e tem 42 combinações premiadas",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Bilhete com 7 números e 4 trevos, registrado pelos canais eletrônicos em Porto Alegre (RS), acertou cinco dezenas e os dois trevos do concurso 411.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/mais-milionaria-411-aposta-porto-alegre-rs/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:44",
+"t": "Contas de água e esgoto terão reajuste de em Marília a partir de janeiro de 2027",
+"p": "RIC Ambiental confirma aplicação dos novos valores no início de 2027 e afirma que correção corresponde à inflação acumulada em 12 meses.",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/contas-de-agua-e-esgoto-terao-reajuste-de-em-marilia-a-partir-de-janeiro-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:34",
+"t": "Ônibus pega fogo na Avenida das Amoreiras; ninguém ficou ferido",
+"p": "Incêndio ocorreu na manhã deste sábado (28), poucos dias após outras falhas mecânicas e acidentes envolvendo outros ônibus da cidade",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/onibus-pega-fogo-na-avenida-das-amoreiras-ninguem-ficou-ferido/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:25",
+"t": "El Niño faz Mongaguá revisar áreas de risco e preparar abrigos para moradores diante de chuvas intensas no litoral de SP",
+"p": "Mongaguá atualizou o Plano de Contingência para Proteção e Defesa Civil com foco nos possíveis impactos do El Niño nos próximos meses. O documento prevê a revisão das áreas de risco, ajustes nas ações preventivas e preparação das equipes municipais para enfrentar situações de emergência provocadas por chuvas…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Mongaguá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/el-nino-faz-mongagua-revisar-areas-de-risco-e-preparar-abrigos-para-moradores-diante-de-chuvas-intensas-no-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:20",
+"t": "Homem reage a roubo de celular e é atacado com barra de ferro em Marília",
+"p": "Fachada CPJ - Maycon Oliveira/Marília Notícia Vítima de 29 anos foi abordada por quatro suspeitos e precisou de atendimento médico na UPA da zona sul.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-reage-a-roubo-de-celular-e-e-atacado-com-barra-de-ferro-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:15",
+"t": "Colisão entre caminhão e ônibus deixa 48 pessoas feridas na Dutra",
+"p": "Acidente ocorreu durante a madrugada de sábado (28) em Cachoeira Paulista; seis das vítimas foram levadas a hospitais de Lorena e Guaratinguetá",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Cachoeira Paulista",
+"Guaratinguetá",
+"Lorena"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/colisao-entre-caminhao-e-onibus-deixa-48-pessoas-feridas-na-dutra.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
 "h": "10:03",
 "t": "GCM de Itaquá prende dupla suspeita de desmanchar caminhão furtado",
 "p": "Vítimas do furto, montadores de móveis denunciaram o crime para uma viatura da GCM",
@@ -41,6 +167,18 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/defesa-civil-alerta-para-risco-de-tempestades-em-sao-paulo-neste-sabado",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:45",
+"t": "Adolescente de 16 anos é morto pelo pai ao tentar defender a mãe durante discussão e suspeito se apresenta à polícia",
+"p": "Um adolescente de 16 anos foi morto a tiros pelo próprio pai ao tentar defender a mãe durante uma discussão em um apartamento de Fortaleza. O crime aconteceu na noite de sexta-feira (27/11), no bairro de Fátima. Os disparos também atingiram a mulher, que sobreviveu. Após os disparos, Márcio Walber Leitão, de 52…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/adolescente-e-morto-pelo-pai-ao-tentar-defender-a-mae-durante-discussao-em-apartamento-de-fortaleza-e-suspeito-se-apresenta-a-policia/",
 "auto": true
 },
 {
@@ -97,6 +235,18 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/campinas-reabre-todos-os-parques-e-bosques-apos-reducao-no-volume-de-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:38",
+"t": "Sob alerta do El Niño com até cinco ondas de calor e risco de temporais, Praia Grande antecipa plano da Defesa Civil e reforça drenagem; veja",
+"p": "Com a aproximação do período de chuvas intensas, Praia Grande antecipou o Plano Preventivo de Defesa Civil (PPDC) e mantém obras de drenagem para reduzir o risco de alagamentos e deslizamentos. As medidas incluem a construção de novos canais, a limpeza de sistemas de escoamento e o monitoramento de áreas…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sob-alerta-do-el-nino-com-ate-cinco-ondas-de-calor-e-risco-de-temporais-praia-grande-antecipa-plano-da-defesa-civil-e-reforca-drenagem-veja/",
 "auto": true
 },
 {

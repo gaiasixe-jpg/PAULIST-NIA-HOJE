@@ -1,12 +1,11 @@
 {
-"atualizado": "2026-11-28T10:08:52-03:00",
-"novos_nesta_coleta": 23,
+"atualizado": "2026-11-28T11:12:36-03:00",
+"novos_nesta_coleta": 18,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
 "Gazeta de S.Paulo",
 "Diário do Grande ABC",
-"O Diário de Mogi",
 "Tribuna de Jundiaí",
 "NetCampos",
 "Diário do Litoral",
@@ -14,14 +13,12 @@
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
 "ACidade ON Campinas",
-"Gazeta de Rio Preto",
 "Diário de Votuporanga",
 "Informa Noroeste",
 "Santa Portal",
 "Boqnews",
 "Costa Norte",
 "Portal Sorocaba.com",
-"Jornal Ita News",
 "Portal Regional (Dracena)",
 "Região Noroeste",
 "Prefeitura de Presidente Prudente",
@@ -38,15 +35,153 @@
 "erro": "HTTP Error 403: Forbidden"
 },
 {
+"fonte": "O Diário de Mogi",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
 "fonte": "A Tribuna",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Gazeta de Rio Preto",
+"erro": "HTTP Error 415: Unsupported Media Type"
+},
+{
+"fonte": "Jornal Ita News",
+"erro": "HTTP Error 415: Unsupported Media Type"
 }
 ],
 "itens": [
+{
+"d": "2026-11-28",
+"h": "11:07",
+"t": "TRE-SP desaprova contas da campanha de deputado estadual do PL",
+"p": "A decisão apontou que foram omitidas 315 despesas, de R$ 582 mil, o equivalente a 46,32% do total contratado por Isaac Antunes",
+"tema": "Eleições",
+"s": "fato",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/tre-sp-desaprova-contas-da-campanha-de-deputado-estadual-do-pl",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:05",
+"t": "Estádio Pedro Sola terá arquibancadas interditadas para reparos após chuvas",
+"p": "x Prefeitura informa que estudos técnicos para os reparos foram concluídos; bloqueio ficará restrito ao setor afetado.",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/estadio-pedro-sola-tera-arquibancadas-interditadas-para-reparos-apos-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:53",
+"t": "Praça das Bandeiras ganha brinquedos e academia ao ar livre após reforma",
+"p": "Prefeitura entregou espaço revitalizado na noite desta sexta-feira, após investimento de R$ 328 mil.",
+"tema": "Investimentos",
+"s": "entregue",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/praca-das-bandeiras-ganha-brinquedos-e-academia-ao-ar-livre-apos-reforma/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:52",
+"t": "Aposta de R$ 252 fica a um número de R$ 119 milhões na +Milionária e tem 42 combinações premiadas",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Bilhete com 7 números e 4 trevos, registrado pelos canais eletrônicos em Porto Alegre (RS), acertou cinco dezenas e os dois trevos do concurso 411.",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/mais-milionaria-411-aposta-porto-alegre-rs/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:44",
+"t": "Contas de água e esgoto terão reajuste de em Marília a partir de janeiro de 2027",
+"p": "RIC Ambiental confirma aplicação dos novos valores no início de 2027 e afirma que correção corresponde à inflação acumulada em 12 meses.",
+"tema": "Saneamento",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/contas-de-agua-e-esgoto-terao-reajuste-de-em-marilia-a-partir-de-janeiro-de-2027/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:34",
+"t": "Ônibus pega fogo na Avenida das Amoreiras; ninguém ficou ferido",
+"p": "Incêndio ocorreu na manhã deste sábado (28), poucos dias após outras falhas mecânicas e acidentes envolvendo outros ônibus da cidade",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/onibus-pega-fogo-na-avenida-das-amoreiras-ninguem-ficou-ferido/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:25",
+"t": "El Niño faz Mongaguá revisar áreas de risco e preparar abrigos para moradores diante de chuvas intensas no litoral de SP",
+"p": "Mongaguá atualizou o Plano de Contingência para Proteção e Defesa Civil com foco nos possíveis impactos do El Niño nos próximos meses. O documento prevê a revisão das áreas de risco, ajustes nas ações preventivas e preparação das equipes municipais para enfrentar situações de emergência provocadas por chuvas…",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Mongaguá"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/el-nino-faz-mongagua-revisar-areas-de-risco-e-preparar-abrigos-para-moradores-diante-de-chuvas-intensas-no-litoral-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:20",
+"t": "Homem reage a roubo de celular e é atacado com barra de ferro em Marília",
+"p": "Fachada CPJ - Maycon Oliveira/Marília Notícia Vítima de 29 anos foi abordada por quatro suspeitos e precisou de atendimento médico na UPA da zona sul.",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/homem-reage-a-roubo-de-celular-e-e-atacado-com-barra-de-ferro-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "10:15",
+"t": "Colisão entre caminhão e ônibus deixa 48 pessoas feridas na Dutra",
+"p": "Acidente ocorreu durante a madrugada de sábado (28) em Cachoeira Paulista; seis das vítimas foram levadas a hospitais de Lorena e Guaratinguetá",
+"tema": "Transporte",
+"s": "alerta",
+"c": [
+"Cachoeira Paulista",
+"Guaratinguetá",
+"Lorena"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/colisao-entre-caminhao-e-onibus-deixa-48-pessoas-feridas-na-dutra.html",
+"auto": true
+},
 {
 "d": "2026-11-28",
 "h": "10:03",
@@ -87,6 +222,18 @@
 ],
 "src": "Metrópoles São Paulo",
 "u": "https://www.metropoles.com/sao-paulo/defesa-civil-alerta-para-risco-de-tempestades-em-sao-paulo-neste-sabado",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:45",
+"t": "Adolescente de 16 anos é morto pelo pai ao tentar defender a mãe durante discussão e suspeito se apresenta à polícia",
+"p": "Um adolescente de 16 anos foi morto a tiros pelo próprio pai ao tentar defender a mãe durante uma discussão em um apartamento de Fortaleza. O crime aconteceu na noite de sexta-feira (27/11), no bairro de Fátima. Os disparos também atingiram a mulher, que sobreviveu. Após os disparos, Márcio Walber Leitão, de 52…",
+"tema": "Segurança",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/adolescente-e-morto-pelo-pai-ao-tentar-defender-a-mae-durante-discussao-em-apartamento-de-fortaleza-e-suspeito-se-apresenta-a-policia/",
 "auto": true
 },
 {
@@ -143,6 +290,18 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/campinas-reabre-todos-os-parques-e-bosques-apos-reducao-no-volume-de-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:38",
+"t": "Sob alerta do El Niño com até cinco ondas de calor e risco de temporais, Praia Grande antecipa plano da Defesa Civil e reforça drenagem; veja",
+"p": "Com a aproximação do período de chuvas intensas, Praia Grande antecipou o Plano Preventivo de Defesa Civil (PPDC) e mantém obras de drenagem para reduzir o risco de alagamentos e deslizamentos. As medidas incluem a construção de novos canais, a limpeza de sistemas de escoamento e o monitoramento de áreas…",
+"tema": "Meio ambiente",
+"s": "alerta",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/sob-alerta-do-el-nino-com-ate-cinco-ondas-de-calor-e-risco-de-temporais-praia-grande-antecipa-plano-da-defesa-civil-e-reforca-drenagem-veja/",
 "auto": true
 },
 {
@@ -55050,156 +55209,6 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-sexta-bela-enfrenta-peixe-e-perola-anuncia-volta-a-presidencia-do-hospital/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "02:30",
-"t": "Carros invadem ciclovias e transformam em terror a vida de ciclistas em SP",
-"p": "São Paulo teve 7.500 multas por estacionar ou transitar por ciclovias de janeiro a julho, mas sensação de insegurança é cada dia maior",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/carros-invadem-ciclovias-e-transformam-em-terror-a-vida-de-ciclistas-em-sp",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "02:15",
-"t": "Baratas, brigas e sujeira: moradias da Vila Reencontro são alvo de críticas",
-"p": "Parte da rede socioassistencial de São Paulo, Vila Reencontro oferece moradia transitória para a população em situação de rua",
-"tema": "Habitação",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/baratas-brigas-e-sujeira-moradias-da-vila-reencontro-sao-alvo-de-criticas",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "02:05",
-"t": "Gustavo Mioto, Dia do Quadrinho e Festa do Imigrante: o fim de semana em SP",
-"p": "Programação de São Paulo tem show de Gustavo Mioto, Revelando SP, Festival de Culturas Negras, Festa do Imigrante, Quadrinhos e mais",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"São Paulo"
-],
-"src": "Metrópoles São Paulo",
-"u": "https://www.metropoles.com/sao-paulo/gustavo-mioto-festa-imigrante-sp",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "00:43",
-"t": "Prefeitura diz ter plano contra enchentes, mas documento é de 2019",
-"p": "Levantamento da MARÉ não identificou plano de contingência do município entre os documentos públicos consultados",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/prefeitura-diz-ter-plano-contra-enchentes-mas-documento-e-de-2019/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "00:35",
-"t": "Justiça derruba liminar e libera contratação para transporte escolar",
-"p": "Decisão permite que Prefeitura dê andamento à licitação para contratação de motoristas e monitores",
-"tema": "Educação",
-"s": "obra",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Gazeta de Rio Preto",
-"u": "https://www.gazetaderiopreto.com.br/justica-derruba-liminar-e-libera-contratacao-para-transporte-escolar/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "00:00",
-"t": "A Fazenda 18: Murilo Dias é o oitavo eliminado do programa e retorno de peoa choca todo o elenco",
-"p": "O participante Murilo Dias foi o eliminado de “A Fazenda 18” na oitava Roça do reality da Record, nesta quinta-feira (12/11). O peão saiu com 32,63% dos votos. Também estavam na berlinda Daniel Erthal, com 33,61% dos votos, e Tina Calamba, que teve 33,76%, e sobreviveram à disputa, seguindo no programa. Segundo a…",
-"tema": "Geral",
-"s": "fato",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/a-fazenda-18-murilo-dias-e-o-oitavo-eliminado-do-programa-e-retorno-de-peoa-choca-todo-o-elenco/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "00:00",
-"t": "Prudente é reconhecida pelo trabalho no esporte nos Prêmios Conexões Cref4/SP e Absmel",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67750",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "00:00",
-"t": "Semepp terá fim de semana movimentado com atletas em competições e jogos decisivos",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67749",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "00:00",
-"t": "UVZ faz plantão para leishmaniose e vacinação antirrábica neste sábado, no Jardim Leonor",
-"p": "",
-"tema": "Saúde",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67748",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "00:00",
-"t": "Prefeitura de Prudente sanciona criação de 55 cargos de Professor e 10 de Cozinheiro",
-"p": "",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67751",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "00:00",
-"t": "Rolê Cultural e Feira Japonesa movimentam Prudente com atrações neste fim de semana",
-"p": "",
-"tema": "Geral",
-"s": "fato",
-"c": [
-"Presidente Prudente"
-],
-"src": "Prefeitura de Presidente Prudente",
-"u": "https://www.presidenteprudente.sp.gov.br/site/noticia/67753",
 "auto": true
 }
 ]
