@@ -3,6 +3,190 @@
 "itens": [
 {
 "d": "2026-11-28",
+"h": "08:30",
+"t": "Exposição em homenagem a Silvio Santos chega ao Guarujá em dezembro",
+"p": "Mostra reúne 40 esculturas inspiradas em Silvio Santos e poderá ser visitada até fevereiro de 2027; parte das obras ficará aberta ao público",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Guarujá"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/guaruja/exposicao-em-homenagem-a-silvio-santos-chega-ao-guaruja-em-dezembro.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:22",
+"t": "Alunos da Escola Coronel transformam vivências em livro e levam Fernandópolis à fase regional",
+"p": "Estudantes do 5º ano da Escola Municipal de Ensino Fundamental (EMEF) Coronel Francisco Arnaldo da Silva transformaram suas próprias histórias em um livro de autobiografias e levaram Fernandópolis a uma etapa regional realizada em Araçatuba, após conquistarem o primeiro lugar na fase municipal do projeto Alfabetiza…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis",
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/alunos-da-escola-coronel-transformam-vivencias-em-livro-e-levam-fernandopolis-a-fase-regional/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:22",
+"t": "Entidades assistenciais de Fernandópolis promovem bazar e almoço solidário neste fim de semana",
+"p": "Moradores de Fernandópolis (SP) poderão participar de duas ações beneficentes organizadas por entidades assistenciais do município neste fim de semana. A programação começa neste sábado (28) com o Bazar Solidário da Associação de Pais e Amigos dos Deficientes Auditivos de Fernandópolis (APADAF) e prossegue no…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/entidades-assistenciais-de-fernandopolis-promovem-bazar-e-almoco-solidario-neste-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:22",
+"t": "Cerimônia reúne autoridades e ex-dirigentes para celebrar os 50 anos da Unifef",
+"p": "A comunidade acadêmica, autoridades locais, ex-alunos e moradores acompanharam, na manhã desta sexta-feira (27), a cerimônia em comemoração aos 50 anos da criação da Fundação Educacional de Fernandópolis (FEF), instituída em novembro de 1976 pela Lei nº 462, durante a gestão do então prefeito Antenor Ferrari,…",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Fernandópolis"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/cerimonia-reune-autoridades-e-ex-dirigentes-para-celebrar-os-50-anos-da-unifef/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:22",
+"t": "Obras de drenagem do Anel Viário começam na segunda-feira e interditam trecho em Fernandópolis",
+"p": "A empresa Consdon, responsável pela implantação do Anel Viário de Fernandópolis (SP) no trecho compreendido entre o Distrito Industrial III, às margens da Rodovia Euclides da Cunha, e o portal da Universidade Brasil, já montou o canteiro de obras no local e dará início aos trabalhos de drenagem na próxima…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Fernandópolis",
+"Cunha"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/obras-de-drenagem-do-anel-viario-comecam-na-segunda-feira-e-interditam-trecho-em-fernandopolis/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:07",
+"t": "Linha 17-Ouro do Metrô fica totalmente paralisada após queda de energia neste sábado e ônibus gratuitos são acionados para atender passageiros",
+"p": "Uma falha elétrica deixou a linha 17-Ouro do Metrô de São Paulo totalmente paralisada na manhã deste sábado (28/11). O problema ocorreu após uma queda de energia na subestação elétrica responsável pelo fornecimento da linha. Segundo o Metrô, a interrupção afeta toda a extensão do monotrilho. Para atender os…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/linha-17-ouro-do-metro-fica-totalmente-paralisada-apos-queda-de-energia-neste-sabado-e-onibus-gratuitos-sao-acionados-para-atender-passageiros/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:00",
+"t": "Programação de Natal em Campinas começa neste sábado; veja atrações e locais",
+"p": "Shows gratuitos, apresentações musicais e eventos natalinos serão realizados em diferentes bairros da cidade a partir de 28 de novembro",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/lazer-e-cultura/programacao-de-natal-em-campinas-comeca-neste-sabado-veja-atracoes-e-locais/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:00",
+"t": "Cruzamento será interditado neste fim de semana; veja local e desvios",
+"p": "Bloqueio será realizado neste sábado (28) e domingo (29), das 8h30 às 16h, para obras na rede de esgoto",
+"tema": "Saneamento",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/cruzamento-sera-interditado-neste-fim-de-semana-veja-local-e-desvios/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:00",
+"t": "Campinas terá sábado com previsão de chuva e trovoadas; veja a previsão do tempo",
+"p": "Cepagri da Unicamp prevê chuva em toda a Região Metropolitana de Campinas, com possibilidade de trovoadas principalmente durante a tarde.",
+"tema": "Meio ambiente",
+"s": "anunciado",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-tera-sabado-com-previsao-de-chuva-e-trovoadas-veja-a-previsao-do-tempo/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:00",
+"t": "São Paulo oferece roteiro de paisagens natalinas",
+"p": "Programação inclui árvores de até 57 metros, iluminação especial, experiências interativas e atividades para toda a família",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Boqnews",
+"u": "https://www.boqnews.com/turismo/sao-paulo-oferece-roteiro-de-paisagens-natalinas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "07:54",
+"t": "Calor de 31°C e previsão de chuva: veja como fica o tempo em Ribeirão Preto no fim de semana",
+"p": "Previsão do tempo para Ribeirão Preto indica um final de semana de sol com muitas nuvens e possibilidade de chuva",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Ribeirão Preto"
+],
+"src": "ACidade ON Ribeirão Preto",
+"u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/calor-de-31c-e-previsao-de-chuva-veja-como-fica-o-tempo-em-ribeirao-preto-no-fim-de-semana/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "07:47",
+"t": "Padre Manoel da Nóbrega tem trânsito normal na manhã deste sábado (28)",
+"p": "Ligação entre a Baixada Santista e o Vale do Ribeira não apresenta problemas, segundo informações das concessionárias Ecovias e CNL",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Ribeira"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/estradas/rodoviapadremanoeldanobrega/padre-manoel-da-nobrega-tem-transito-normal-na-manha-deste-sabado-28.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "07:15",
+"t": "Obras na orla de Santos ganham faixa reversível entre os canais 1 e 2 a partir de segunda (30) para aliviar o trânsito na avenida da praia",
+"p": "A pavimentação da Avenida Presidente Wilson, na orla de Santos, começou nesta sexta-feira (27), no trecho entre a Avenida Pinheiro Machado (canal 1) e a Rua Olavo Bilac, no sentido Ponta da Praia. A intervenção integra o programa Santos Mais e faz parte do projeto de revitalização de cinco das principais avenidas…",
+"tema": "Transporte",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/cotidiano/obras-na-orla-de-santos-ganham-faixa-reversivel-entre-os-canais-1-e-2-a-partir-de-segunda-30-para-aliviar-o-transito-na-avenida-da-praia/",
+"auto": true
+},
+{
+"d": "2026-11-28",
 "h": "06:04",
 "t": "Obras de drenagem do Anel Viário começam na segunda-feira e interditam trecho em Fernandópolis",
 "p": "A empresa Consdon, responsável pela implantação do Anel Viário de Fernandópolis (SP) no trecho compreendido entre o Distrito Industrial III, às margens da Rodovia Euclides da Cunha, e o portal da Universidade Brasil, já montou o canteiro de obras no local e dará início aos trabalhos de drenagem na próxima…",
@@ -4561,6 +4745,24 @@
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/jales-tera-programa-saude-no-campo-para-levar-atendimento-e-prevencao-a-familias-rurais/",
 "auto": true
+},
+{
+"d": "2026-11-27",
+"h": "06:00",
+"t": "São Bernardo do Campo: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 27/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"São Bernardo do Campo"
+],
+"src": "Diário Oficial de São Bernardo do Campo",
+"u": "https://data.queridodiario.ok.org.br/3548708/2026-11-27/4231b47aae9604c4e3c386e04829f6124a02e1ca.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 27/11",
+"qd": true,
+"mun": true
 },
 {
 "d": "2026-11-27",
@@ -9177,6 +9379,150 @@
 "auto": true,
 "org": "Prefeitura",
 "num": "Créditos 26/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Piedade: Declara inservíveis os bens que especifica.” Renaldo Correa da Silva, Prefeito do Município de Piedade, no uso das suas atribuições legais que lhes são conferidas por Lei, DECRETA: Chapa Descrição…",
+"p": "Decreto nº 10.676, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Piedade"
+],
+"src": "Diário Oficial de Piedade",
+"u": "https://data.queridodiario.ok.org.br/3537800/2026-11-26/3e1be6aa7f240ec114ad66907ffd2864ad7615d7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 10.676",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Penápolis: Dispõe sobre a composição da Coordenação do Conselho Municipal de Cultura de Penápolis, para o biênio 2027/2028",
+"p": "Decreto nº 8768, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-26/3f3cfc369148bb714b275e9c2ad45e87ed5eb0e7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8768",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Penápolis: Prorroga a permissão de uso, a título precário e oneroso, da zeladoria da EMEF Prof",
+"p": "Decreto nº 8775, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Penápolis"
+],
+"src": "Diário Oficial de Penápolis",
+"u": "https://data.queridodiario.ok.org.br/3537305/2026-11-26/3f3cfc369148bb714b275e9c2ad45e87ed5eb0e7.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 8775",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Salto: prefeitura abre créditos suplementares no orçamento",
+"p": "O Diário Oficial do município de 26/11/2026 traz decreto(s) de crédito suplementar, que remanejam dinheiro entre áreas do orçamento.",
+"tema": "Contas públicas",
+"s": "decreto",
+"c": [
+"Salto"
+],
+"src": "Diário Oficial de Salto",
+"u": "https://data.queridodiario.ok.org.br/3545209/2026-11-26/3666e07b8e16fd4ee4c08c9e535313d8b9ea92a6.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Créditos 26/11",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Sarutaiá: Dispõe sobre medidas de contenção, racionalização e controle das despesas públicas no âmbito da Administração Pública Municipal, visando ao equilíbrio fiscal e ao encerramento do exercício…",
+"p": "Decreto nº 66, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Sarutaiá"
+],
+"src": "Diário Oficial de Sarutaiá",
+"u": "https://data.queridodiario.ok.org.br/3551207/2026-11-26/396afaaa198892789143b09632439b877a9e9a69.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 66",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "São Manuel: Convoca a 8ª Conferência Municipal dos Direitos da Criança e do Adolescente de São Manuel-SP",
+"p": "Decreto nº 4516, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"São Manuel"
+],
+"src": "Diário Oficial de São Manuel",
+"u": "https://data.queridodiario.ok.org.br/3550100/2026-11-26/01ca6a8dac425033d6972b6ef833f88c50f41350.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 4516",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Tapiraí: Dispõe sobre o expediente nas re- partições públicas municipais nos dias em que especifica, e dá outras providências",
+"p": "Decreto nº 078, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Tapiraí"
+],
+"src": "Diário Oficial de Tapiraí",
+"u": "https://data.queridodiario.ok.org.br/3553500/2026-11-26/fc022670cb3ef6b7fb874954af234d5d64be8ee5.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 078",
+"qd": true,
+"mun": true
+},
+{
+"d": "2026-11-26",
+"h": "06:00",
+"t": "Tapiraí: Regulamenta a Lei Municipal nº 2.475, de 04 de novembro de 2026, que dispõe sobre o pagamento re",
+"p": "Decreto nº 079, publicado no Diário Oficial do município em 26/11/2026.",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Tapiraí"
+],
+"src": "Diário Oficial de Tapiraí",
+"u": "https://data.queridodiario.ok.org.br/3553500/2026-11-26/fc022670cb3ef6b7fb874954af234d5d64be8ee5.pdf",
+"auto": true,
+"org": "Prefeitura",
+"num": "Nº 079",
 "qd": true,
 "mun": true
 },
