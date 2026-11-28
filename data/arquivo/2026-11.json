@@ -3,6 +3,20 @@
 "itens": [
 {
 "d": "2026-11-28",
+"h": "01:18",
+"t": "Incêndio de grandes proporções destrói galpão de empresa de paletes de madeira em Araçatuba",
+"p": "Incêndio de grandes proporções destrói galpão de empresa de paletes em Araçatuba (SP) Defesa Civil/Divulgação Um incêndio de grandes proporções atingiu uma empresa de paletes de madeira na madrugada desta sexta-feira (27), no bairro Chácara Versalles, em Araçatuba (SP). Ninguém ficou ferido. De acordo com a Defesa…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/incendio-de-grandes-proporcoes-destroi-galpao-de-empresa-de-paletes-de-madeira-em-aracatuba/",
+"auto": true
+},
+{
+"d": "2026-11-28",
 "h": "01:02",
 "t": "5 novidades que chegam à Disney+ em dezembro para incluir na sua lista de fim de ano",
 "p": "O último mês do ano chega com uma programação pensada para aproveitar os dias em boa companhia. O Disney+ em dezembro reúne uma comédia natalina para assistir em família, aventuras inspiradas na mitologia grega, um suspense coreano cheio de reviravoltas, investigações com muito humor e um anime ambientado em um…",
@@ -81,6 +95,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/defesa-civil-alerta-para-risco-de-tempestades-em-sao-paulo-neste-sabado-28/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "00:30",
+"t": "Atualização da madrugada: estado de saúde do ex-presidente Jair Bolsonaro na UTI após complicações nos últimos dias apresenta boa evolução, intestino volta a funcionar e alimentação é retomada",
+"p": "Bolsonaro apresenta sinais de recuperação, mas continua na UTI e ainda não tem previsão de alta.",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/atualizacao-da-madrugada-estado-de-saude-do-ex-presidente-jair-bolsonaro-na-uti-apos-complicacoes-nos-ultimos-dias-apresenta-boa-evolucao-intestino-volta-a-funcionar-e-alimentacao-e-retomada/",
 "auto": true
 },
 {

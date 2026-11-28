@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-28T01:03:59-03:00",
-"novos_nesta_coleta": 14,
+"atualizado": "2026-11-28T02:09:42-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -23,6 +23,7 @@
 "Portal Sorocaba.com",
 "Jornal Ita News",
 "Portal Regional (Dracena)",
+"Região Noroeste",
 "Prefeitura de Presidente Prudente",
 "Prefeitura de Sorocaba",
 "Prefeitura de Santos",
@@ -43,13 +44,23 @@
 {
 "fonte": "Jornal Cruzeiro do Sul",
 "erro": "HTTP Error 403: Forbidden"
-},
-{
-"fonte": "Região Noroeste",
-"erro": "<urlopen error _ssl.c:994: The handshake operation timed out>"
 }
 ],
 "itens": [
+{
+"d": "2026-11-28",
+"h": "01:18",
+"t": "Incêndio de grandes proporções destrói galpão de empresa de paletes de madeira em Araçatuba",
+"p": "Incêndio de grandes proporções destrói galpão de empresa de paletes em Araçatuba (SP) Defesa Civil/Divulgação Um incêndio de grandes proporções atingiu uma empresa de paletes de madeira na madrugada desta sexta-feira (27), no bairro Chácara Versalles, em Araçatuba (SP). Ninguém ficou ferido. De acordo com a Defesa…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/incendio-de-grandes-proporcoes-destroi-galpao-de-empresa-de-paletes-de-madeira-em-aracatuba/",
+"auto": true
+},
 {
 "d": "2026-11-28",
 "h": "01:02",
@@ -130,6 +141,18 @@
 ],
 "src": "Informa Noroeste",
 "u": "https://informanoroeste.com.br/defesa-civil-alerta-para-risco-de-tempestades-em-sao-paulo-neste-sabado-28/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "00:30",
+"t": "Atualização da madrugada: estado de saúde do ex-presidente Jair Bolsonaro na UTI após complicações nos últimos dias apresenta boa evolução, intestino volta a funcionar e alimentação é retomada",
+"p": "Bolsonaro apresenta sinais de recuperação, mas continua na UTI e ainda não tem previsão de alta.",
+"tema": "Saúde",
+"s": "fato",
+"c": [],
+"src": "Diário do Litoral",
+"u": "https://www.diariodolitoral.com.br/brasil/atualizacao-da-madrugada-estado-de-saude-do-ex-presidente-jair-bolsonaro-na-uti-apos-complicacoes-nos-ultimos-dias-apresenta-boa-evolucao-intestino-volta-a-funcionar-e-alimentacao-e-retomada/",
 "auto": true
 },
 {
@@ -55108,32 +55131,6 @@
 "c": [],
 "src": "Diário do Grande ABC",
 "u": "https://www.dgabc.com.br/Noticia/4368502/mp-sp-pede-investigacao-de-contratos-de-rs21-mi-da-virada-esportiva-apos-denuncia",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "18:55",
-"t": "Polícia Civil apreende 1.400 airbags de recall e interdita loja de peças usadas",
-"p": "A Polícia Civil apreendeu 1.400 bolsas de airbag provenientes de campanhas de recall e interditou um estabelecimento comercial especializado em peças usadas de veículos nesta quinta-feira (12), em Araçatuba, no interior de São Paulo. A operação policial teve como objetivo combater a comercialização irregular de…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Araçatuba"
-],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/policia-civil-apreende-1-400-airbags-de-recall-e-interdita-loja-de-pecas-usadas/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "18:50",
-"t": "Previsão do tempo: sexta-feira (13) traz trégua nas instabilidades e calor em boa parte do Estado",
-"p": "O estado de São Paulo terá uma sexta-feira (13) marcada pela diminuição gradativa das áreas de instabilidade, abrindo espaço para um tempo mais firme em várias regiões. De acordo com informações da Agência SP, a ocorrência de chuvas passará a ser mais isolada e restrita às faixas leste, central e nordeste do…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [],
-"src": "Região Noroeste",
-"u": "https://regiaonoroeste.com/previsao-do-tempo-sexta-feira-13-traz-tregua-nas-instabilidades-e-calor-em-boa-parte-do-estado/",
 "auto": true
 }
 ]
