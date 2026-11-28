@@ -3,6 +3,227 @@
 "itens": [
 {
 "d": "2026-11-28",
+"h": "10:03",
+"t": "GCM de Itaquá prende dupla suspeita de desmanchar caminhão furtado",
+"p": "Vítimas do furto, montadores de móveis denunciaram o crime para uma viatura da GCM",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"Itaquaquecetuba"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/alto-tiete/gcm-de-itaqua-prende-dupla-suspeita-de-desmanchar-caminhao-furtado/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:58",
+"t": "Trio é preso suspeito de furtar barco; embarcação foi encontrada em quintal de casa",
+"p": "Barco foi localizado pela Polícia Militar no bairro Cidade Singer; carretinha estava com placa diferente da original",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/trio-e-preso-suspeito-de-furtar-barco-embarcacao-foi-encontrada-em-quintal-de-casa/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:45",
+"t": "Defesa Civil alerta para risco de tempestades em São Paulo neste sábado",
+"p": "Previsão é de chuva moderada a forte, acompanhada de raios, rajadas de vento e possibilidade de granizo, segundo a Defesa Civil de São Paulo",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/defesa-civil-alerta-para-risco-de-tempestades-em-sao-paulo-neste-sabado",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:42",
+"t": "Oferta de carro abaixo do preço termina em prejuízo para idoso em Marília",
+"p": "Caso está sendo investigado pela Polícia Civil de Marília Negociação pelo WhatsApp resultou em prejuízo de milhares de reais.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/oferta-de-carro-abaixo-do-preco-termina-em-prejuizo-para-idoso-em-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:40",
+"t": "Homem é preso após furtar celular e tentar extorquir vítima em Santos",
+"p": "Suspeito de 31 anos foi localizado na região central da cidade; aparelho e cartão bancário foram recuperados pela Polícia Civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/seguranca/homem-e-preso-apos-furtar-celular-e-tentar-extorquir-vitima-em-santos.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:39",
+"t": "Resultado do Dia de Sorte 1358: prêmio acumula para R$ 500 mil; Mês da Sorte é maio",
+"p": "Foto: Tribuna de Jundiaí / Imagem gerada por IA Maio foi sorteado pelo segundo concurso seguido; 22 apostas fizeram seis acertos e recebem R$ 3.051,11 cada.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/loterias/resultado-dia-de-sorte-concurso-1358/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:38",
+"t": "Campinas reabre todos os parques e bosques após redução no volume de chuvas",
+"p": "Parques e bosques estavam fechados desde quarta-feira (25), após o acumulado de chuvas atingir o limite de segurança; índices ficaram abaixo de 80 mm em todas as regiões da cidade",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/campinas-reabre-todos-os-parques-e-bosques-apos-reducao-no-volume-de-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:35",
+"t": "Vacinação antirrábica tem ação no bairro Jânio Quadros neste sábado",
+"p": "Imunização de cães e gatos é realizada na USF Jânio Quadros, por ordem de chegada.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/vacinacao-antirrabica-tem-acao-no-bairro-janio-quadros-neste-sabado/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:25",
+"t": "Obituário | Falecimentos registrados neste sábado (28/11) em Marília e região",
+"p": "Velório Municipal de Marília Serviços funerários divulgaram os falecimentos registrados em Marília e região neste sábado, dia 28 de novembro de 2026.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/veja-os-falecimentos-deste-sabado-28-11-em-marilia-e-regiao/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:15",
+"t": "Pisos de cerâmica ganham concorrentes em 2027 com 5 modelos de revestimento que ajudam a reduzir poças e deixar os quintais mais frescos e naturais",
+"p": "Pisos permeáveis prometem transformar os quintais em 2027, melhorar a drenagem da água da chuva e deixar os ambientes mais naturais",
+"tema": "Água",
+"s": "anunciado",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/brasil/pisos-permeaveis-quintais-tendencia-202pisos-de-ceramica-ganham-concorrentes-em-2027-com-5-modelos-de-revestimento-que-ajudam-a-reduzir-pocas-e-deixar-os-quintais-mais-frescos-e-naturais/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:15",
+"t": "Confira a previsão do tempo para Marília neste sábado (28/11)",
+"p": "Instabilidade deve ganhar força durante o dia, com previsão de acumulado de 18,3 milímetros de chuva.",
+"tema": "Meio ambiente",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-neste-sabado-28-11/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:15",
+"t": "Ilhabela estabelece regras da Zona Verde-Azul para a temporada de verão 2026/2027",
+"p": "Estacionamento rotativo funcionará de 11 de dezembro a 10 de fevereiro, das 15h à meia-noite, com tarifa de R$ 3 por hora no Centro Histórico",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Ilhabela"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/ilhabela/ilhabela-estabelece-regras-da-zona-verde-azul-para-a-temporada-de-verao-20262027.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:07",
+"t": "Caraguatatuba recupera recursos federais após dois anos sem receber verba",
+"p": "Município ficou impedido de acessar ao menos R$6 milhões do Fundeb por descumprimento de exigências do Ministério da Educação",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Caraguatatuba"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/caraguatatuba/caraguatatuba-recupera-recursos-federais-apos-dois-anos-sem-receber-verba.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:01",
+"t": "Linha 17-Ouro do Metrô de SP é totalmente paralisada por falta de energia",
+"p": "Como alternativa, passageiros poderão usar ônibus gratuitos do sistema Paese. Linha 17-Ouro liga Aeroporto de Congonhas à Estação Morumbi",
+"tema": "Transporte",
+"s": "alerta",
+"c": [],
+"src": "Metrópoles São Paulo",
+"u": "https://www.metropoles.com/sao-paulo/linha-17-ouro-do-metro-de-sp-e-totalmente-paralisada-por-falta-de-energia",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "09:00",
+"t": "Pesquisa aponta 59,4% de aprovação à gestão Kayo Amado em São Vicente",
+"p": "Levantamento da Badra ouviu 1.060 eleitores em outubro; saúde e segurança constam como principais áreas de insatisfação entre os entrevistados",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"São Vicente"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/saovicente/pesquisa-aponta-594-de-aprovacao-a-gestao-kayo-amado-em-sao-vicente.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "08:36",
+"t": "Enfermeiros de Angola começam estágio prático em unidades de saúde de Cubatão",
+"p": "Grupo de 15 profissionais participa de especialização em tratamento de feridas e queimaduras pela Universidade Católica de Santos",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Cubatão",
+"Santos"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/cubatao/enfermeiros-de-angola-comecam-estagio-pratico-em-unidades-de-saude-de-cubatao.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
 "h": "08:30",
 "t": "Exposição em homenagem a Silvio Santos chega ao Guarujá em dezembro",
 "p": "Mostra reúne 40 esculturas inspiradas em Silvio Santos e poderá ser visitada até fevereiro de 2027; parte das obras ficará aberta ao público",
