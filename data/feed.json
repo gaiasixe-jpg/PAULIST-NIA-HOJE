@@ -1,6 +1,6 @@
 {
-"atualizado": "2026-11-28T04:24:43-03:00",
-"novos_nesta_coleta": 7,
+"atualizado": "2026-11-28T05:59:27-03:00",
+"novos_nesta_coleta": 9,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
@@ -56,6 +56,34 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-28",
+"h": "05:00",
+"t": "Marília promove fórum sobre acessibilidade e inclusão de pessoas com deficiência",
+"p": "Programação inclui palestras, apresentações culturais e desfile de moda.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-promove-forum-sobre-acessibilidade-e-inclusao-de-pessoas-com-deficiencia/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "05:00",
+"t": "Indústria de Marília perde fôlego e chega ao fim do ano sob pressão",
+"p": "Setor que liderou a geração de empregos no primeiro semestre acumula dois meses de saldo negativo nas contratações e projeta cenário de cautela para 2027.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/industria-de-marilia-perde-folego-e-chega-ao-fim-do-ano-sob-pressao/",
+"auto": true
+},
 {
 "d": "2026-11-28",
 "h": "02:21",
@@ -55116,32 +55144,6 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/operacao-distintivo-fantasma-policia-civil-de-fernandopolis-desarticula-esquema-do-falso-delegado-que-causou-prejuizo-de-r-200-mil-a-idosa/",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:04",
-"t": "Feira cultural celebra 5 anos em Bertioga com gastronomia, artesanato e atrações gratuitas",
-"p": "Edição especial da Feira Artes & Aromas da Mata Atlântica ocorre no sábado (14), a partir das 14h, no Centro de Educação Ambiental (CEA)",
-"tema": "Educação",
-"s": "fato",
-"c": [
-"Bertioga"
-],
-"src": "Costa Norte",
-"u": "https://costanorte.com.br/cidades/bertioga/feira-cultural-celebra-5-anos-em-bertioga-com-gastronomia-artesanato-e-atracoes-gratuitas.html",
-"auto": true
-},
-{
-"d": "2026-11-12",
-"h": "19:00",
-"t": "Evento de corrida de rua promete agitar o fim de semana em SP com shows de grandes nomes do sertanejo e funk; confira programação",
-"p": "Quem gosta de correr e também não dispensa uma boa festa terá uma oportunidade de juntar as duas coisas neste domingo (15). Isso porque São Paulo recebe a primeira edição da Corrida do After, evento que promete movimentar o Campo de Marte com esporte, música e muita diversão. A programação começa às 7h e segue […]",
-"tema": "Geral",
-"s": "anunciado",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/cotidiano/evento-de-corrida-de-rua-promete-agitar-o-fim-de-semana-em-sp-com-shows-de-grandes-nomes-do-sertanejo-e-funk-confira-programacao/",
 "auto": true
 }
 ]

@@ -3,6 +3,34 @@
 "itens": [
 {
 "d": "2026-11-28",
+"h": "05:00",
+"t": "Marília promove fórum sobre acessibilidade e inclusão de pessoas com deficiência",
+"p": "Programação inclui palestras, apresentações culturais e desfile de moda.",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-promove-forum-sobre-acessibilidade-e-inclusao-de-pessoas-com-deficiencia/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "05:00",
+"t": "Indústria de Marília perde fôlego e chega ao fim do ano sob pressão",
+"p": "Setor que liderou a geração de empregos no primeiro semestre acumula dois meses de saldo negativo nas contratações e projeta cenário de cautela para 2027.",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/industria-de-marilia-perde-folego-e-chega-ao-fim-do-ano-sob-pressao/",
+"auto": true
+},
+{
+"d": "2026-11-28",
 "h": "02:21",
 "t": "Prefeitura de Fernandópolis define mais duas escolas que terão ensino em tempo integral",
 "p": "A Secretaria Municipal de Educação de Fernandópolis (SP) oficializou, nesta sexta-feira (27), a relação das unidades da rede municipal que passarão a oferecer ensino em tempo integral a partir do ano letivo de 2027. A medida consta na Resolução SME nº 12/2026, assinada pela secretária municipal de Educação,…",
