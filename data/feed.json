@@ -1,14 +1,12 @@
 {
-"atualizado": "2026-11-28T11:12:36-03:00",
-"novos_nesta_coleta": 18,
+"atualizado": "2026-11-28T11:58:08-03:00",
+"novos_nesta_coleta": 15,
 "fontes_ok": [
 "Agência Brasil",
 "Metrópoles São Paulo",
-"Gazeta de S.Paulo",
 "Diário do Grande ABC",
 "Tribuna de Jundiaí",
 "NetCampos",
-"Diário do Litoral",
 "Marília Notícia",
 "ACidade ON",
 "ACidade ON Ribeirão Preto",
@@ -31,6 +29,10 @@
 ],
 "fontes_com_erro": [
 {
+"fonte": "Gazeta de S.Paulo",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
 "fonte": "Correio da Manhã",
 "erro": "HTTP Error 403: Forbidden"
 },
@@ -40,6 +42,10 @@
 },
 {
 "fonte": "A Tribuna",
+"erro": "HTTP Error 403: Forbidden"
+},
+{
+"fonte": "Diário do Litoral",
 "erro": "HTTP Error 403: Forbidden"
 },
 {
@@ -56,6 +62,105 @@
 }
 ],
 "itens": [
+{
+"d": "2026-11-28",
+"h": "11:45",
+"t": "Sob presidência de Martinelli, prefeitos da RMJ formalizam agenda de reivindicações com deputados eleitos",
+"p": "Encontro de prefeitos da Região Metropolitana de Jundiaí - Foto: Divulgação Ofício datado de 9 de novembro e assinado pelos sete prefeitos da Região Metropolitana de Jundiaí convida parlamentares para reunião estratégica em janeiro de 2027",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/prefeitos-regiao-metropolitana-jundiai-agenda-deputados-2027/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:39",
+"t": "Empresário é preso com seis motos elétricas furtadas em Sumaré",
+"p": "Veículos foram levados de um galpão comercial em Nova Odessa no dia 21 de novembro e recuperados pela Polícia Civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Nova Odessa",
+"Sumaré"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/empresario-e-preso-com-seis-motos-eletricas-furtadas-em-sumare/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:31",
+"t": "Bertioga abre matrículas para a EJA com aulas noturnas e projetos extras",
+"p": "Modalidade é voltada a pessoas de 15 anos ou mais, com ensino fundamental I; EJA tem parcerias com Sebrae, Senac, Sesc e Lions Clube",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-abre-matriculas-para-a-eja-com-aulas-noturnas-e-projetos-extras.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:28",
+"t": "Câmara de Marília vota Orçamento de R$ 2,2 bilhões para 2027",
+"p": "Vereadores também vão analisar outros nove projetos, entre eles propostas que envolvem agentes de saúde, atendimento às mulheres e cultura.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/camara-de-marilia-vota-orcamento-de-r-22-bilhoes-para-2027/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:17",
+"t": "Dia D contra a dengue tem visitas a imóveis e orientações a moradores de Marília",
+"p": "Ação reúne 77 profissionais de saúde para eliminar focos do mosquito Aedes aegypti e orientar os moradores sobre a prevenção da doença.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/dia-d-contra-a-dengue-tem-visitas-a-imoveis-e-orientacoes-a-moradores-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:12",
+"t": "Marília destina R$ 12 milhões a reformas em escolas e prevê novas obras em 2027",
+"p": "Intervenções incluem reformas de telhados, recuperação de salas, pintura, adequações e modernização das instalações elétricas.",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-destina-r-12-milhoes-a-reformas-em-escolas-e-preve-novas-obras-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:10",
+"t": "Núcleo de Ordem Urbana atua no Jardim São Camilo e Prefeitura compartilha próximas etapas do programa com moradores",
+"p": "Foto: Prefeitura de Jundiaí Ações incluem preparação da área onde será construído o Parque Mirante São Camilo, além de projetos de acessibilidade, segurança viária e melhorias nos espaços públicos",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/nucleo-ordem-urbana-jardim-sao-camilo-jundiai/",
+"auto": true
+},
 {
 "d": "2026-11-28",
 "h": "11:07",
@@ -80,6 +185,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/estadio-pedro-sola-tera-arquibancadas-interditadas-para-reparos-apos-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:05",
+"t": "Mega-Sena sorteia prêmio de R$ 82 milhões neste domingo",
+"p": "A Mega-Sena sorteia neste domingo (29) prêmio estimado em R$ 82 milhões. As seis dezenas do concurso 3.092 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até as 22h (horário de Brasília) de sábado (28), em qualquer lotérica do país ou pela…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-82-milhoes-neste-domingo",
 "auto": true
 },
 {
@@ -55100,115 +55219,6 @@
 "c": [],
 "src": "Diário do Litoral",
 "u": "https://www.diariodolitoral.com.br/entretenimento/por-voce-perola-encurrala-vanessa-por-golpes-no-hospital-e-lucas-recebe-ameaca-na-escola-no-capitulo-de-sabado-14/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "05:00",
-"t": "Confira a previsão do tempo para Marília nesta sexta-feira (13/11)",
-"p": "Dia começa com possibilidade de chuva, mas terá predomínio de sol entre nuvens durante a tarde.",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/maisnoticias/confira-a-previsao-do-tempo-para-marilia-nesta-sexta-feira-13-11/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "05:00",
-"t": "MP abre inquérito para apurar abandono do Espaço Cultural em Marília",
-"p": "MP-SP busca esclarecer a deterioração do imóvel, a indefinição sobre a propriedade e a falta de prazo para as obras; Prefeitura terá 30 dias para prestar informações.",
-"tema": "Investimentos",
-"s": "alerta",
-"c": [
-"Marília"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/mariliaeregiao/mp-abre-inquerito-para-apurar-abandono-do-espaco-cultural-em-marilia/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "05:00",
-"t": "PM prende procurado pela Justiça por três crimes em Alvinlândia",
-"p": "Procurado foi capturado pela PM em Alvinlândia Ação da PM durante a Operação Impacto resultou na captura de um indivíduo após mandado de prisão expedido pela Justiça de Garça.",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"Alvinlândia",
-"Garça"
-],
-"src": "Marília Notícia",
-"u": "https://marilianoticia.com.br/policia/pm-prende-procurado-pela-justica-por-tres-crimes-em-alvinlandia/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "05:00",
-"t": "Bicicletas roubadas são recuperadas e Kombi irregular é apreendida em Santos",
-"p": "Carlos Nogueira/Divulgação Prefeitura de Santos Duas bicicletas e um utilitário foram apreendidos nesta quarta-feira (11) durante uma operação da Rotam, em Santos.",
-"tema": "Política",
-"s": "alerta",
-"c": [
-"Santos"
-],
-"src": "Santa Portal",
-"u": "https://santaportal.com.br/baixada/santos-baixada/bicicletas-roubadas-sao-recuperadas-e-kombi-irregular-e-apreendida-em-santos/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "03:51",
-"t": "Justiça derruba liminar e libera contratação para transporte escolar",
-"p": "O presidente do Tribunal de Justiça de São Paulo (TJ-SP), desembargador Francisco Eduardo Loureiro, suspendeu os efeitos da liminar que havia impedido a Prefeitura de Rio Preto de concluir a contratação de uma empresa para prestar serviços de transporte escolar. A decisão permite que o município dê continuidade ao…",
-"tema": "Segurança",
-"s": "alerta",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/justica-derruba-liminar-e-libera-contratacao-para-transporte-escolar/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "03:51",
-"t": "Prefeitura diz ter plano contra enchentes, mas documento é de 2019",
-"p": "A existência de um plano de contingência para situações de desastres naturais em Rio Preto é motivo de divergência entre a Prefeitura e a plataforma MARÉ (Monitor de Antecipação e Resposta ao El Niño). Lançada nesta quarta-feira (11), a ferramenta não localizou um documento público do município entre os planos…",
-"tema": "Meio ambiente",
-"s": "fato",
-"c": [
-"São José do Rio Preto"
-],
-"src": "Informa Noroeste",
-"u": "https://informanoroeste.com.br/prefeitura-diz-ter-plano-contra-enchentes-mas-documento-e-de-2019/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "03:30",
-"t": "‘Roque Santeiro’: Roque ameaça contar verdade a prefeito e coronel, e Ninon ouve uivo do lobisomem nesta sexta (13)",
-"p": "No capítulo desta sexta-feira (13), em ‘Roque Santeiro’, o misticismo e o medo coletivo voltam a dominar as ruas de Asa Branca com acontecimentos impressionantes. Comovendo os moradores e reforçando o mito do salvador da cidade, Roque assiste ao final da romaria de um homem que fez promessa a Roque Santeiro e…",
-"tema": "Política",
-"s": "fato",
-"c": [],
-"src": "Diário do Litoral",
-"u": "https://www.diariodolitoral.com.br/entretenimento/roque-santeiro-roque-ameaca-contar-verdade-a-prefeito-e-coronel-e-ninon-ouve-uivo-do-lobisomem-nesta-sexta-13/",
-"auto": true
-},
-{
-"d": "2026-11-13",
-"h": "03:00",
-"t": "Resumo de ‘Por Você’ desta sexta: Bela enfrenta Peixe e Pérola anuncia volta à presidência do hospital",
-"p": "No capítulo de Por Você desta sexta-feira (13/11), Bela tenta esconder o abalo causado por Vanessa, enquanto novos conflitos envolvendo Gabriel, Peixe e a guarda de Glorinha, Ítalo e Samuca movimentam a trama. Gabriel conta a Pérola sobre as falcatruas de Junqueira no hospital. Diante das revelações, Pérola anuncia…",
-"tema": "Saúde",
-"s": "anunciado",
-"c": [],
-"src": "Gazeta de S.Paulo",
-"u": "https://www.gazetasp.com.br/entretenimento/resumo-de-por-voce-desta-sexta-bela-enfrenta-peixe-e-perola-anuncia-volta-a-presidencia-do-hospital/",
 "auto": true
 }
 ]

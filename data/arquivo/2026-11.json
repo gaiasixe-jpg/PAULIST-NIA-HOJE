@@ -3,6 +3,105 @@
 "itens": [
 {
 "d": "2026-11-28",
+"h": "11:45",
+"t": "Sob presidência de Martinelli, prefeitos da RMJ formalizam agenda de reivindicações com deputados eleitos",
+"p": "Encontro de prefeitos da Região Metropolitana de Jundiaí - Foto: Divulgação Ofício datado de 9 de novembro e assinado pelos sete prefeitos da Região Metropolitana de Jundiaí convida parlamentares para reunião estratégica em janeiro de 2027",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/politica/prefeitos-regiao-metropolitana-jundiai-agenda-deputados-2027/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:39",
+"t": "Empresário é preso com seis motos elétricas furtadas em Sumaré",
+"p": "Veículos foram levados de um galpão comercial em Nova Odessa no dia 21 de novembro e recuperados pela Polícia Civil",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Nova Odessa",
+"Sumaré"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/empresario-e-preso-com-seis-motos-eletricas-furtadas-em-sumare/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:31",
+"t": "Bertioga abre matrículas para a EJA com aulas noturnas e projetos extras",
+"p": "Modalidade é voltada a pessoas de 15 anos ou mais, com ensino fundamental I; EJA tem parcerias com Sebrae, Senac, Sesc e Lions Clube",
+"tema": "Educação",
+"s": "fato",
+"c": [
+"Bertioga"
+],
+"src": "Costa Norte",
+"u": "https://costanorte.com.br/cidades/bertioga/bertioga-abre-matriculas-para-a-eja-com-aulas-noturnas-e-projetos-extras.html",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:28",
+"t": "Câmara de Marília vota Orçamento de R$ 2,2 bilhões para 2027",
+"p": "Vereadores também vão analisar outros nove projetos, entre eles propostas que envolvem agentes de saúde, atendimento às mulheres e cultura.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/camara-de-marilia-vota-orcamento-de-r-22-bilhoes-para-2027/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:17",
+"t": "Dia D contra a dengue tem visitas a imóveis e orientações a moradores de Marília",
+"p": "Ação reúne 77 profissionais de saúde para eliminar focos do mosquito Aedes aegypti e orientar os moradores sobre a prevenção da doença.",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/dia-d-contra-a-dengue-tem-visitas-a-imoveis-e-orientacoes-a-moradores-de-marilia/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:12",
+"t": "Marília destina R$ 12 milhões a reformas em escolas e prevê novas obras em 2027",
+"p": "Intervenções incluem reformas de telhados, recuperação de salas, pintura, adequações e modernização das instalações elétricas.",
+"tema": "Educação",
+"s": "anunciado",
+"c": [
+"Marília"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/mariliaeregiao/marilia-destina-r-12-milhoes-a-reformas-em-escolas-e-preve-novas-obras-em-2027/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:10",
+"t": "Núcleo de Ordem Urbana atua no Jardim São Camilo e Prefeitura compartilha próximas etapas do programa com moradores",
+"p": "Foto: Prefeitura de Jundiaí Ações incluem preparação da área onde será construído o Parque Mirante São Camilo, além de projetos de acessibilidade, segurança viária e melhorias nos espaços públicos",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Jundiaí"
+],
+"src": "Tribuna de Jundiaí",
+"u": "https://tribunadejundiai.com.br/cidades/jundiai/nucleo-ordem-urbana-jardim-sao-camilo-jundiai/",
+"auto": true
+},
+{
+"d": "2026-11-28",
 "h": "11:07",
 "t": "TRE-SP desaprova contas da campanha de deputado estadual do PL",
 "p": "A decisão apontou que foram omitidas 315 despesas, de R$ 582 mil, o equivalente a 46,32% do total contratado por Isaac Antunes",
@@ -25,6 +124,20 @@
 ],
 "src": "Marília Notícia",
 "u": "https://marilianoticia.com.br/mariliaeregiao/estadio-pedro-sola-tera-arquibancadas-interditadas-para-reparos-apos-chuvas/",
+"auto": true
+},
+{
+"d": "2026-11-28",
+"h": "11:05",
+"t": "Mega-Sena sorteia prêmio de R$ 82 milhões neste domingo",
+"p": "A Mega-Sena sorteia neste domingo (29) prêmio estimado em R$ 82 milhões. As seis dezenas do concurso 3.092 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. As apostas podem ser feitas até as 22h (horário de Brasília) de sábado (28), em qualquer lotérica do país ou pela…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Agência Brasil",
+"u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-82-milhoes-neste-domingo",
 "auto": true
 },
 {
