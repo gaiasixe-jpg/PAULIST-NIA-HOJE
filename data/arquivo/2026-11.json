@@ -3,6 +3,174 @@
 "itens": [
 {
 "d": "2026-11-27",
+"h": "20:37",
+"t": "Fazenda de Campinas vence concurso e tem um dos melhores cafés do Estado de SP",
+"p": "Fazenda Guariroba conquista o primeiro lugar na categoria arábica orgânico no 25º Concurso Estadual Qualidade do Café de São Paulo, que recebeu 395 amostras de 80 municípios",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo",
+"Campinas"
+],
+"src": "ACidade ON Campinas",
+"u": "https://www.acidadeon.com/campinas/cotidiano/fazenda-de-campinas-vence-concurso-e-tem-um-dos-melhores-cafes-do-estado-de-sp/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:30",
+"t": "Papai Noel chega ao shopping com show gratuito para toda a família, personagens infantis, música ao vivo e efeitos especiais",
+"p": "O Pátio Higienópolis, em São Paulo, recebe neste sábado (28/11) um Show de Natal gratuito, com a chegada do Papai Noel, apresentação musical, personagens infantis e efeitos especiais. O evento começa às 19h, no piso Boulevard. A programação faz parte do Mundo Mágico de Natal, decoração especial do shopping que…",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São Paulo"
+],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/papai-noel-chega-ao-shopping-com-show-gratuito-para-toda-a-familia-personagens-infantis-musica-ao-vivo-e-efeitos-especiais/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:30",
+"t": "Escrivã da Polícia Civil é encontrada morta na zona rural de Palmital",
+"p": "Policial integrava a corporação desde 2018; circunstâncias da morte serão investigadas.",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Palmital"
+],
+"src": "Marília Notícia",
+"u": "https://marilianoticia.com.br/policia/escriva-da-policia-civil-e-encontrada-morta-na-zona-rural-de-palmital/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:30",
+"t": "Segundo trecho do VLT de Santos passa a cobrar tarifa de R$ 5,60 a partir de dezembro",
+"p": "Divulgação Período de operação gratuita termina na próxima terça-feira (1º).",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Santos"
+],
+"src": "Santa Portal",
+"u": "https://santaportal.com.br/baixada/segundo-trecho-do-vlt-de-santos-passa-a-cobrar-tarifa-de-r-560-a-partir-de-dezembro/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:21",
+"t": "Câmara vota orçamento de R$ 784,8 milhões para 2027 e alterações no Plano Diretor na segunda-feira",
+"p": "A 43ª Sessão Ordinária terá na pauta a Lei Orçamentária Anual, as diretrizes para o orçamento de 2027, mudanças no Plano Diretor e a criação do programa Primeiro Passo no Esporte. Jorge Honorio jorgehonoriojornalista@gmail.com A Câmara Municipal de Votuporanga realiza na próxima segunda-feira (30.nov), às 18h, a…",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/camara-vota-orcamento-de-r-7848-milhoes-para-2027-e-alteracoes-no-plano-diretor-na-segunda-feira/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:20",
+"t": "Votuporanga articula novas oportunidades para expansão da indústria de cosméticos",
+"p": "Comitiva votuporanguense participou do lançamento do Polo Estadual de Cosméticos, iniciativa voltada ao fortalecimento do setor, à atração de investimentos e à geração de emprego e renda. Em busca de novas oportunidades de negócios e incentivos para o desenvolvimento do setor de cosméticos de Votuporanga, o…",
+"tema": "Investimentos",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/votuporanga-articula-novas-oportunidades-para-expansao-da-industria-de-cosmeticos/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:18",
+"t": "Homem é preso após agredir mulher e ameaçá-la de morte em Votuporanga",
+"p": "Vítima relatou golpes com pedaço de madeira, cabeçada no rosto e ameaças durante a ocorrência. Um homem foi preso em flagrante pela Polícia Militar na tarde desta quarta-feira (25.nov), acusado de agredir uma mulher e ameaçá-la de morte na zona Norte de Votuporanga/SP. A ocorrência foi registrada por volta das…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/homem-e-preso-apos-agredir-mulher-e-ameaca-la-de-morte-em-votuporanga/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:18",
+"t": "Prefeitura de Jales suspende expediente em seis dias de dezembro para conter gastos",
+"p": "A Prefeitura de Jales (SP) irá suspender o funcionamento das repartições públicas municipais durante seis dias no fim de dezembro — nos dias 21, 22, 23, 28, 29 e 30 — como medida para reduzir despesas no fechamento do exercício financeiro de 2026. A decisão consta no Decreto nº 11.490, publicado na quarta-feira…",
+"tema": "Decretos",
+"s": "decreto",
+"c": [
+"Jales"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/prefeitura-de-jales-suspende-expediente-em-seis-dias-de-dezembro-para-conter-gastos/",
+"auto": true,
+"org": "Prefeitura"
+},
+{
+"d": "2026-11-27",
+"h": "20:18",
+"t": "Incêndio de grandes proporções destrói galpão de empresa de paletes",
+"p": "Um incêndio de grandes proporções destruiu o galpão de uma empresa fabricante de paletes de madeira na madrugada desta sexta-feira (27), no bairro Chácara Versalles, em Araçatuba (SP). Apesar da extensão dos danos materiais, ninguém ficou ferido. De acordo com a Defesa Civil Municipal, as equipes foram acionadas…",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"Araçatuba"
+],
+"src": "Informa Noroeste",
+"u": "https://informanoroeste.com.br/incendio-de-grandes-proporcoes-destroi-galpao-de-empresa-de-paletes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:14",
+"t": "Prefeitura divulga calendário de audiências públicas de prestação de contas",
+"p": "Secretarias, autarquias e órgãos da administração municipal apresentarão os resultados das ações desenvolvidas ao longo de 2026 em reuniões abertas à população na Câmara de Votuporanga. A Prefeitura de Votuporanga publicou o calendário de audiências públicas para apresentação dos relatórios de atividades das…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/prefeitura-divulga-calendario-de-audiencias-publicas-de-prestacao-de-contas/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:09",
+"t": "Ivete Sangalo termina namoro com Thiago Maia após seis meses e comportamento possessivo do produtor é apontado como motivo da separação",
+"p": "O relacionamento de Ivete Sangalo com o produtor musical Thiago Maia chegou ao fim após pouco mais de seis meses. Segundo informações divulgadas pelo jornalista Leo Dias no programa Melhor da Tarde, nesta sexta-feira (27/11), pessoas próximas ao casal apontaram o comportamento ciumento e possessivo do empresário…",
+"tema": "Geral",
+"s": "fato",
+"c": [],
+"src": "Gazeta de S.Paulo",
+"u": "https://www.gazetasp.com.br/entretenimento/ivete-sangalo-termina-namoro-com-thiago-maia-apos-seis-meses-e-comportamento-possessivo-do-produtor-e-apontado-como-motivo-da-separacao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "20:09",
+"t": "Seminário celebra o Dia Internacional dos Direitos Humanos e debate o papel dos conselhos",
+"p": "Evento será realizado no dia 10 de dezembro, na Câmara Municipal, com entrada gratuita e certificado de participação de quatro horas. A Prefeitura de Votuporanga, por meio da Secretaria de Direitos Humanos e do Conselho Municipal de Defesa dos Direitos Humanos (CMDDH), em parceria com a Câmara Municipal, por meio…",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Votuporanga"
+],
+"src": "Diário de Votuporanga",
+"u": "https://diariodevotuporanga.com.br/seminario-celebra-o-dia-internacional-dos-direitos-humanos-e-debate-o-papel-dos-conselhos/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "20:00",
 "t": "Tumulto interrompe sessão na Câmara de Cubatão após tentativa de impedir permanência de pessoas armadas",
 "p": "Reprodução/TV Câmara Guarda Civil Municipal foi acionada durante a 33ª Sessão Extraordinária desta sexta-feira (27).",
@@ -515,6 +683,20 @@
 },
 {
 "d": "2026-11-27",
+"h": "18:02",
+"t": "Como prevenir a dengue? Veja cuidados para evitar a doença e suas complicações",
+"p": "O Brasil deve ter um verão sob a influência do El Niño, fenômeno climático que poderá atingir seu pico entre novembro de 2026 e janeiro de 2027. Segundo o Instituto Nacional de Meteorologia (INMET), a previsão é de chuvas acima da média em algumas regiões do país, enquanto outras poderão enfrentar períodos mais…",
+"tema": "Saúde",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/canal/viver-bem/como-prevenir-a-dengue-veja-cuidados-para-evitar-a-doenca-e-suas-complicacoes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "18:01",
 "t": "Música, dança e confraternização marcam a tradicional festa dos aniversariantes na Chácara do Idoso",
 "p": "A Chácara do Idoso foi palco, na tarde desta sexta-feira (27), da tradicional festa dos aniversariantes do mês. Com apresentações de música, dança e confraternização, o evento promoveu integração, alegria e valorização do talento artístico dos frequentadores e amigos da instituição. Administrado pela Prefeitura de…",
@@ -855,6 +1037,20 @@
 },
 {
 "d": "2026-11-27",
+"h": "16:52",
+"t": "APAE de Itapeva apresenta espetáculo cultural “Um Olhar Além das Artes!” no dia 5 de dezembro",
+"p": "A APAE de Itapeva realiza no próximo sábado, 5 de dezembro, o espetáculo cultural “Um Olhar Além das Artes!”. A apresentação conta com apoio da Prefeitura de Itapeva, por meio da Secretaria Municipal da Cultura e Turismo. Com o lema “A dança nos conecta e a arte nos transforma”, o evento tem como proposta valorizar […]",
+"tema": "Política",
+"s": "fato",
+"c": [
+"Itapeva"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/espetaculo-cultural/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "16:49",
 "t": "Com alta nos casos de HIV, Ribeirão Preto leva testes gratuitos para fora das unidades de saúde",
 "p": "Ações da campanha Fique Sabendo começam nesta segunda-feira (30) em praças, supermercados e entidades da cidade, abrindo a programação do Dezembro Vermelho",
@@ -921,6 +1117,20 @@
 ],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/prefeitura-de-fernandopolis-define-mais-duas-escolas-que-terao-ensino-em-tempo-integral/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "16:40",
+"t": "Suzano recebe programação especial em homenagem ao Dia Nacional do Samba neste domingo (29)",
+"p": "Evento no Parque Max Feffer terá cinco apresentações musicais, a partir das 11h, como parte do 1º Festival de Ação e Cultura Negra",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Suzano"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/suzano/suzano-recebe-programacao-especial-em-homenagem-ao-dia-nacional-do-samba-neste-domingo-29/",
 "auto": true
 },
 {
@@ -993,6 +1203,20 @@
 },
 {
 "d": "2026-11-27",
+"h": "16:21",
+"t": "Lula garante benefícios em novo governo, mas defende revisão",
+"p": "Presidente sustenta crescimento aliado a controle de gastos públicos",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/lula-garante-beneficios-em-novo-governo-mas-defende-revisao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "16:20",
 "t": "VAE Registro forma 515 alunos em 32 cursos de qualificação profissional",
 "p": "Qualificação profissional",
@@ -1003,6 +1227,20 @@
 ],
 "src": "Prefeitura de Registro",
 "u": "https://registro.sp.gov.br/vae-registro-forma-515-alunos-em-32-cursos-de-qualificacao-profissional/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "16:16",
+"t": "Vereador quer inspeção mensal de traves e brinquedos em espaços públicos",
+"p": "Proposta estabelece regras de fixação, manutenção e fiscalização de equipamentos esportivos e recreativos",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/vereador-quer-inspecao-mensal-de-traves-e-brinquedos-em-espacos-publicos/",
 "auto": true
 },
 {
@@ -1057,6 +1295,20 @@
 "c": [],
 "src": "Região Noroeste",
 "u": "https://regiaonoroeste.com/tarcisio-elogia-escolha-de-trabuco-para-a-fazenda-mas-alerta-para-resistencia-dentro-do-pt/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "16:10",
+"t": "Prefeito veta projeto que ampliava desconto de IPTU para pessoas com deficiência",
+"p": "Justificativa aponta possível inconstitucionalidade e falta de estimativa do impacto financeiro",
+"tema": "Contas públicas",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/prefeito-veta-projeto-que-ampliava-desconto-de-iptu-para-pessoas-com-deficiencia/",
 "auto": true
 },
 {
@@ -1172,6 +1424,20 @@
 },
 {
 "d": "2026-11-27",
+"h": "15:56",
+"t": "Após dois anos, Prefeitura ainda não apresenta plano para revitalizar o Centro",
+"p": "Prefeitura admitiu que câmeras do Smart Rio Preto ainda não foram instaladas, não tem regulamentação para organizar doações de alimentos e não apresentou ações concretas para fortalecer o comércio e o turismo",
+"tema": "Política",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/apos-dois-anos-prefeitura-ainda-nao-apresenta-plano-para-revitalizar-o-centro/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "15:50",
 "t": "Professor chama estudantes para ato em favor da implantação do Instituto Federal em Bertioga",
 "p": "Mobilização será no domingo (29), no Jardim Raphael; terreno já foi anunciado pela prefeitura e implantação da unidade depende de decisões federais",
@@ -1196,6 +1462,20 @@
 ],
 "src": "ACidade ON Campinas",
 "u": "https://www.acidadeon.com/campinas/cotidiano/final-de-semana-tem-alerta-de-temporais-veja-a-previsao/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "15:44",
+"t": "Cata-Tranqueira recolhe móveis velhos e outros itens em 15 bairros de Mogi neste sábado (28)",
+"p": "Moradores devem deixar móveis velhos e outros objetos nas calçadas antes das 7h; serviço também terá mutirão de roçada",
+"tema": "Geral",
+"s": "fato",
+"c": [
+"Mogi das Cruzes"
+],
+"src": "O Diário de Mogi",
+"u": "https://www.odiariodemogi.net.br/mogi/cata-tranqueira-recolhe-moveis-velhos-e-outros-itens-em-15-bairros-de-mogi-neste-sabado-28/",
 "auto": true
 },
 {
@@ -1455,6 +1735,20 @@
 },
 {
 "d": "2026-11-27",
+"h": "14:57",
+"t": "TSE prepara medida contra infiltração do crime organizado nas eleições",
+"p": "Foco é avaliar riscos de financiamento ilícito de campanhas",
+"tema": "Segurança",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/tse-prepara-medida-contra-infiltracao-do-crime-organizado-nas-eleicoes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "14:55",
 "t": "Campos do Jordão envia donativos para vítimas da enchente em Brazópolis",
 "p": "Dois caminhões-pipa também foram cedidos para ajudar na limpeza da cidade mineira atingida por fortes chuvas",
@@ -1550,6 +1844,20 @@
 ],
 "src": "ACidade ON Ribeirão Preto",
 "u": "https://www.acidadeon.com/ribeiraopreto/cotidiano/fenomeno-pode-trazer-muita-chuva-para-o-estado-de-sp-nos-proximos-dias-veja-regioes/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "14:31",
+"t": "Câmara de Rio Preto aprova flexibilização do prazo para votar Orçamento",
+"p": "Resolução acaba com limite de 30 de novembro para votação da LOA e permite que análise seja concluída até o encerramento do ano legislativo",
+"tema": "Contas públicas",
+"s": "fato",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/camara-de-rio-preto-aprova-flexibilizacao-do-prazo-para-votar-orcamento/",
 "auto": true
 },
 {
@@ -2272,6 +2580,20 @@
 },
 {
 "d": "2026-11-27",
+"h": "11:22",
+"t": "Homem é condenado por morte de jovem em ‘Tribunal do Crime’ em Rio Preto",
+"p": "Vítima de 19 anos, conhecida como ‘Gordão’ (foto), foi morta com um tiro na nuca após ser acusada de passar informações à polícia de Rio Preto",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-condenado-por-morte-de-jovem-em-tribunal-do-crime-em-rio-preto/",
+"auto": true
+},
+{
+"d": "2026-11-27",
 "h": "11:21",
 "t": "Quatro suspeitos de integrar “gangue do quebra-vidro” são presos em SP",
 "p": "Segundo a Polícia Civil, os suspeitos foram encontrados após uma mulher ter o celular roubado enquanto estava em um carro de aplicativo",
@@ -2351,6 +2673,20 @@
 ],
 "src": "Costa Norte",
 "u": "https://costanorte.com.br/cidades/caraguatatuba/caraguatatuba-oferece-223-vagas-com-salarios-de-ate-r4-mil-confira-as-funcoes.html",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "11:02",
+"t": "Prefeitura de Taquarivaí sofre ataque cibernético e suspende temporariamente serviços administrativos",
+"p": "A Prefeitura de Taquarivaí (SP) informou, por meio de comunicado publicado em suas redes sociais, que foi vítima de um ataque cibernético criminoso que comprometeu os sistemas integrados de gestão pública. O caso foi divulgado nesta quinta-feira (26). Segundo a administração municipal, as autoridades competentes já…",
+"tema": "Política",
+"s": "anunciado",
+"c": [
+"Taquarivaí"
+],
+"src": "Jornal Ita News",
+"u": "https://jornalitanews.com.br/ataque-cibernetico-taquarivai/",
 "auto": true
 },
 {
@@ -2502,6 +2838,20 @@
 "c": [],
 "src": "Gazeta de S.Paulo",
 "u": "https://www.gazetasp.com.br/brasil/free-flow-na-anchieta-e-imigrantes-comeca-em-dezembro-com-isencao-veja-quem-tem-direito-e-como-evitar-multas/",
+"auto": true
+},
+{
+"d": "2026-11-27",
+"h": "10:26",
+"t": "Homem é preso por furtar fiação elétrica de praça em Rio Preto",
+"p": "Suspeito foi localizado pela GCM queimando fios embaixo de pontilhão",
+"tema": "Segurança",
+"s": "alerta",
+"c": [
+"São José do Rio Preto"
+],
+"src": "Gazeta de Rio Preto",
+"u": "https://www.gazetaderiopreto.com.br/homem-e-preso-por-furtar-fiacao-eletrica-de-praca-em-rio-preto/",
 "auto": true
 },
 {
